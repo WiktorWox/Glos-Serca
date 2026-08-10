@@ -69,7 +69,7 @@ namespace VoiceOverFrameworkMod
             int totalFilesLoaded = 0;
             int totalDefinitionsProcessed = 0; // Keep track of inner definitions too
 
-            foreach (var contentPack in ownedContentPacks)
+            var contentPack = this.Helper.ContentPacks.CreateFake(Path.Combine(this.Helper.DirectoryPath, "GłosSerca", "BulBul_Templates"));
             {
                 this.Monitor.Log($"Scanning Content Pack: '{contentPack.Manifest.Name}' ({contentPack.Manifest.UniqueID}) at {contentPack.DirectoryPath}", LogLevel.Trace);
                 string packDir = contentPack.DirectoryPath;
@@ -79,7 +79,6 @@ namespace VoiceOverFrameworkMod
                     if (!Directory.Exists(packDir))
                     {
                         this.Monitor.Log($"Directory not found for Content Pack '{contentPack.Manifest.Name}': {packDir}. Skipping.", LogLevel.Warn);
-                        continue;
                     }
 
                     // Search all subfolders for JSON (skip the pack manifest itself)
@@ -294,13 +293,24 @@ namespace VoiceOverFrameworkMod
 
         private VoicePack GetSelectedVoicePack(string characterName)
         {
-            if (Config.SelectedVoicePacks.TryGetValue(characterName, out string selectedId) &&
-                VoicePacksByCharacter.TryGetValue(characterName, out var list))
+            if (!VoicePacksByCharacter.TryGetValue(characterName, out var list) || list == null || !list.Any())
+                return null;
+
+            // 1) If user configured a specific pack, prefer that
+            if (Config.SelectedVoicePacks.TryGetValue(characterName, out string selectedId))
             {
-                return list.FirstOrDefault(p => p.VoicePackId.Equals(selectedId, StringComparison.OrdinalIgnoreCase));
+                var selected = list.FirstOrDefault(p => p.VoicePackId.Equals(selectedId, StringComparison.OrdinalIgnoreCase));
+                if (selected != null)
+                    return selected;
             }
 
-            return null;
+            // 2) Prefer a pack that matches the configured default language
+            var byLang = list.FirstOrDefault(p => p.Language != null && p.Language.Equals(Config.DefaultLanguage, StringComparison.OrdinalIgnoreCase));
+            if (byLang != null)
+                return byLang;
+
+            // 3) Fallback to first available pack for the character
+            return list.FirstOrDefault();
         }
 
         private string GetVoicePackLanguageForCharacter(string characterName)

@@ -1,0 +1,250 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "Wiktor.Test3.Mister Qi.pt-BR",
+      "VoicePackName": "BulBul (Mister Qi - pt-BR)",
+      "Character": "Mister Qi",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Tak trzymaj, dzieciaku. Myślę, że zostaniesz gwiazdą.",
+          "AudioPath": "assets/pt-BR/Mister Qi/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak trzymaj, dzieciaku. Myślę, że zostaniesz gwiazdą."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Pytaj, jeśli czegoś nie wiesz.",
+          "AudioPath": "assets/pt-BR/Mister Qi/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Pytaj, jeśli czegoś nie wiesz."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Wiedziałem, że kiedyś tu przyjdziesz. Oczywiście, nieco Ci to utrudniłem, żeby zmotywować Cię do osiągnięcia sukcesu.",
+          "AudioPath": "assets/pt-BR/Mister Qi/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiedziałem, że kiedyś tu przyjdziesz. Oczywiście, nieco Ci to utrudniłem, żeby zmotywować Cię do osiągnięcia sukcesu."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Urodziłem się jako zwyczajny dzieciak, ale wcześnie postanowiłem stać się kimś niezwykłym.",
+          "AudioPath": "assets/pt-BR/Mister Qi/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Urodziłem się jako zwyczajny dzieciak, ale wcześnie postanowiłem stać się kimś niezwykłym."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Hej. Nie mów nikomu o tym miejscu, dobrze? Chcę, żeby było... ekskluzywne.",
+          "AudioPath": "assets/pt-BR/Mister Qi/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Nie mów nikomu o tym miejscu, dobrze? Chcę, żeby było... ekskluzywne."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Zachowasz tajemnicę dla swojego przyjaciela, Pana Qi. Prawda?",
+          "AudioPath": "assets/pt-BR/Mister Qi/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Zachowasz tajemnicę dla swojego przyjaciela, Pana Qi. Prawda?"
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Nigdy nie przestawaj dążyć do ideału.",
+          "AudioPath": "assets/pt-BR/Mister Qi/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy nie przestawaj dążyć do ideału."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Wszystko, co robisz, rób najlepiej, jak potrafisz.",
+          "AudioPath": "assets/pt-BR/Mister Qi/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Wszystko, co robisz, rób najlepiej, jak potrafisz."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Wpadaj, kiedy tylko chcesz odpocząć.",
+          "AudioPath": "assets/pt-BR/Mister Qi/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Wpadaj, kiedy tylko chcesz odpocząć."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Pracuj ciężko, a może kiedyś osiągniesz tyle, co ja.",
+          "AudioPath": "assets/pt-BR/Mister Qi/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Pracuj ciężko, a może kiedyś osiągniesz tyle, co ja."
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "To było bardzo podejrzane wesele, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Mister Qi/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:married",
+          "PageIndex": 0,
+          "DisplayPattern": "To było bardzo podejrzane wesele, ."
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "... Co? Nie zauważyłeś mnie?",
+          "AudioPath": "assets/pt-BR/Mister Qi/12_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:married",
+          "PageIndex": 1,
+          "DisplayPattern": "... Co? Nie zauważyłeś mnie?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "... Co? Nie zauważyłaś mnie?",
+          "AudioPath": "assets/pt-BR/Mister Qi/13_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:married",
+          "PageIndex": 2,
+          "DisplayPattern": "... Co? Nie zauważyłaś mnie?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Ha ha ha... dziecko... Nie da się ukryć niczego przed Panem Qi.",
+          "AudioPath": "assets/pt-BR/Mister Qi/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:married",
+          "PageIndex": 3,
+          "DisplayPattern": "Ha ha ha... dziecko... Nie da się ukryć niczego przed Panem Qi."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Mon",
+          "DialogueText": "Na tym świecie jest więcej, niż ludzkie oko dostrzega, dzieciaku. Może kiedyś to zrozumiesz.",
+          "AudioPath": "assets/pt-BR/Mister Qi/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Na tym świecie jest więcej, niż ludzkie oko dostrzega, dzieciaku. Może kiedyś to zrozumiesz."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Mon",
+          "DialogueText": "A póki co, dąż do doskonałości we wszystkim, co robisz.",
+          "AudioPath": "assets/pt-BR/Mister Qi/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "A póki co, dąż do doskonałości we wszystkim, co robisz."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Tue",
+          "DialogueText": "Jestem tu, gdzie stoję, dzięki czystej sile woli, dzieciaku.",
+          "AudioPath": "assets/pt-BR/Mister Qi/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem tu, gdzie stoję, dzięki czystej sile woli, dzieciaku."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Tue",
+          "DialogueText": "Widzisz... umysł to bardzo potężne narzędzie.",
+          "AudioPath": "assets/pt-BR/Mister Qi/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Widzisz... umysł to bardzo potężne narzędzie."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Tue",
+          "DialogueText": "Właściwie... to najpotężniejsze narzędzie w całym wszechświecie.",
+          "AudioPath": "assets/pt-BR/Mister Qi/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "Właściwie... to najpotężniejsze narzędzie w całym wszechświecie."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Wed",
+          "DialogueText": "Jestem pod wrażeniem Twojej wytrwałości, dzieciaku... Żeby dojść tak daleko, potrzeba naprawdę wielu orzechów.",
+          "AudioPath": "assets/pt-BR/Mister Qi/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem pod wrażeniem Twojej wytrwałości, dzieciaku... Żeby dojść tak daleko, potrzeba naprawdę wielu orzechów."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Thu",
+          "DialogueText": "Gdziekolwiek będziesz... zawsze będę za kurtyną, upewniając się, że spektakl jest interesujący. Ha ha ha...",
+          "AudioPath": "assets/pt-BR/Mister Qi/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdziekolwiek będziesz... zawsze będę za kurtyną, upewniając się, że spektakl jest interesujący. Ha ha ha..."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Thu",
+          "DialogueText": "Ale... czy na pewno?",
+          "AudioPath": "assets/pt-BR/Mister Qi/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale... czy na pewno?"
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Fri",
+          "DialogueText": "Skieruj wzrok na najdalszą gwiazdę i obierz ją za swój cel.",
+          "AudioPath": "assets/pt-BR/Mister Qi/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Skieruj wzrok na najdalszą gwiazdę i obierz ją za swój cel."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Fri",
+          "DialogueText": "To od Ciebie zależy, czy zajdziesz dalej, niż kiedykolwiek sądziłeś.",
+          "AudioPath": "assets/pt-BR/Mister Qi/24_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "To od Ciebie zależy, czy zajdziesz dalej, niż kiedykolwiek sądziłeś.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Fri",
+          "DialogueText": "To od Ciebie zależy, czy zajdziesz dalej, niż kiedykolwiek sądziłaś.",
+          "AudioPath": "assets/pt-BR/Mister Qi/25_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Fri",
+          "PageIndex": 2,
+          "DisplayPattern": "To od Ciebie zależy, czy zajdziesz dalej, niż kiedykolwiek sądziłaś.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Sat",
+          "DialogueText": "Niektóre rzeczy przekraczają czas i przestrzeń, dzieciaku. To wyjątkowe uczucie w sercu... szepty z zaświatów.",
+          "AudioPath": "assets/pt-BR/Mister Qi/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Niektóre rzeczy przekraczają czas i przestrzeń, dzieciaku. To wyjątkowe uczucie w sercu... szepty z zaświatów."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Sun",
+          "DialogueText": "Po lewej znajdziesz tablicę z moimi specjalnymi wyzwaniami... dostosowanymi specjalnie dla Ciebie.",
+          "AudioPath": "assets/pt-BR/Mister Qi/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Po lewej znajdziesz tablicę z moimi specjalnymi wyzwaniami... dostosowanymi specjalnie dla Ciebie."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Sun",
+          "DialogueText": "Po prawej, zestaw fantastycznych nagród dla tych, którzy im sprostają.",
+          "AudioPath": "assets/pt-BR/Mister Qi/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Po prawej, zestaw fantastycznych nagród dla tych, którzy im sprostają."
+        },
+        {
+          "DialogueFrom": "QiNutRoom_Sun",
+          "DialogueText": "Powodzenia, dzieciaku.",
+          "AudioPath": "assets/pt-BR/Mister Qi/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Sun",
+          "PageIndex": 2,
+          "DisplayPattern": "Powodzenia, dzieciaku."
+        }
+      ]
+    }
+  ]
+}

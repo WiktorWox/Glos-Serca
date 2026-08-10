@@ -1,0 +1,854 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "Wiktor.Test3.Sandy.pt-BR",
+      "VoicePackName": "BulBul (Sandy - pt-BR)",
+      "Character": "Sandy",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "accept_866",
+          "DialogueText": "Róża z Doliny? To takie cudowne! Dziękuję! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:accept_866",
+          "PageIndex": 0,
+          "DisplayPattern": "Róża z Doliny? To takie cudowne! Dziękuję!"
+        },
+        {
+          "DialogueFrom": "accept_866",
+          "DialogueText": "Gdy zatęsknię za doliną, powącham tę różę. He he. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:accept_866",
+          "PageIndex": 1,
+          "DisplayPattern": "Gdy zatęsknię za doliną, powącham tę różę. He he."
+        },
+        {
+          "DialogueFrom": "accept_866",
+          "DialogueText": "Proszę, weź to. Leżało na półce przez 10 lat i nikt tego nie kupił. Możesz to sobie zatrzymać!",
+          "AudioPath": "assets/pt-BR/Sandy/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:accept_866",
+          "PageIndex": 2,
+          "DisplayPattern": "Proszę, weź to. Leżało na półce przez 10 lat i nikt tego nie kupił. Możesz to sobie zatrzymać!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)18",
+          "DialogueText": "O, wow! Nic tak nie mówi 'wiosna' jak żonkil z Doliny! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:AcceptGift_(O)18",
+          "PageIndex": 0,
+          "DisplayPattern": "O, wow! Nic tak nie mówi 'wiosna' jak żonkil z Doliny!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Wow, to takie rzadkie... Nie mogę uwierzyć, że mi to dajesz! Dzięki, skarbie!",
+          "AudioPath": "assets/pt-BR/Sandy/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, to takie rzadkie... Nie mogę uwierzyć, że mi to dajesz! Dzięki, skarbie!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)418",
+          "DialogueText": "Ach... nawet zimą Dolina Stardew ma piękne kwiaty.",
+          "AudioPath": "assets/pt-BR/Sandy/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:AcceptGift_(O)418",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... nawet zimą Dolina Stardew ma piękne kwiaty."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Słyszałam, że u was występuje jakieś rzadkie zjawisko pogodowe.",
+          "AudioPath": "assets/pt-BR/Sandy/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was występuje jakieś rzadkie zjawisko pogodowe."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Chciałabym, żeby tutaj też kiedyś spadł deszcz... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:GreenRain",
+          "PageIndex": 1,
+          "DisplayPattern": "Chciałabym, żeby tutaj też kiedyś spadł deszcz..."
+        },
+        {
+          "DialogueFrom": "married_Emily",
+          "DialogueText": "Jak minął ten wielki dzień? Emily była tu ostatnio i opowiedziała mi wszystko o waszych planach.",
+          "AudioPath": "assets/pt-BR/Sandy/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:married_Emily",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak minął ten wielki dzień? Emily była tu ostatnio i opowiedziała mi wszystko o waszych planach."
+        },
+        {
+          "DialogueFrom": "married_Emily",
+          "DialogueText": "Będę musiała was kiedyś odwiedzić!",
+          "AudioPath": "assets/pt-BR/Sandy/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:married_Emily",
+          "PageIndex": 1,
+          "DisplayPattern": "Będę musiała was kiedyś odwiedzić!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)402",
+          "DialogueText": "*niuch*... Mmm... groszek zawsze ma świetny zapach.",
+          "AudioPath": "assets/pt-BR/Sandy/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:AcceptGift_(O)402",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*... Mmm... groszek zawsze ma świetny zapach."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Hej hej, cukiereczku!",
+          "AudioPath": "assets/pt-BR/Sandy/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej hej, cukiereczku!"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Cieszę się, że autobus znowu działa. Zaczynało się tu robić pusto.",
+          "AudioPath": "assets/pt-BR/Sandy/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Cieszę się, że autobus znowu działa. Zaczynało się tu robić pusto."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "... Prawie zbankrutowałam. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Mon",
+          "PageIndex": 2,
+          "DisplayPattern": "... Prawie zbankrutowałam."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Ale teraz ty tu jesteś, żeby kupić te wszystkie nasiona... prawda, cukiereczku? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Mon",
+          "PageIndex": 3,
+          "DisplayPattern": "Ale teraz ty tu jesteś, żeby kupić te wszystkie nasiona... prawda, cukiereczku?"
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Na zewnątrz możesz znaleźć kokosy i owoce kaktusa. Bierz, ile chcesz.",
+          "AudioPath": "assets/pt-BR/Sandy/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Na zewnątrz możesz znaleźć kokosy i owoce kaktusa. Bierz, ile chcesz."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Są cuuudowneee. Heeee!~ {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Są cuuudowneee. Heeee!~"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Witam! Jeśli spotkasz moją przyjaciółkę Emily, pozdrów ją ode mnie, dobrze?",
+          "AudioPath": "assets/pt-BR/Sandy/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Witam! Jeśli spotkasz moją przyjaciółkę Emily, pozdrów ją ode mnie, dobrze?"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Dzięki! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Dzięki!"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Ten podejrzany gość z tyłu? Nie powinnam o nim rozmawiać.",
+          "AudioPath": "assets/pt-BR/Sandy/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten podejrzany gość z tyłu? Nie powinnam o nim rozmawiać."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Tak czy inaczej... jaka jest teraz u was pogoda?",
+          "AudioPath": "assets/pt-BR/Sandy/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak czy inaczej... jaka jest teraz u was pogoda?"
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Tutaj niczego sobie nie posadzisz, słonko.",
+          "AudioPath": "assets/pt-BR/Sandy/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Tutaj niczego sobie nie posadzisz, słonko."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Cóż, chyba że jesteś rolnikiem specjalizującym się w kaktusach. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, chyba że jesteś rolnikiem specjalizującym się w kaktusach."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Cześć! Witaj w Oazie Sandy. Pierwszym przystanku na Pustyni Calico!",
+          "AudioPath": "assets/pt-BR/Sandy/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć! Witaj w Oazie Sandy. Pierwszym przystanku na Pustyni Calico!"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "*szept* Zabrzmiałam profesjonalnie? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "*szept* Zabrzmiałam profesjonalnie?"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Sprawdź nasze nasiona.",
+          "AudioPath": "assets/pt-BR/Sandy/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sat",
+          "PageIndex": 2,
+          "DisplayPattern": "Sprawdź nasze nasiona."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Masz, napij się trochę zimnego mleka dla ochłody. [184]",
+          "AudioPath": "assets/pt-BR/Sandy/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sat",
+          "PageIndex": 3,
+          "DisplayPattern": "Masz, napij się trochę zimnego mleka dla ochłody."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Smaczne, prawda? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sat",
+          "PageIndex": 4,
+          "DisplayPattern": "Smaczne, prawda?"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Zawsze jest tu ciepło, nawet zimą!",
+          "AudioPath": "assets/pt-BR/Sandy/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Zawsze jest tu ciepło, nawet zimą!"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Tak właściwie, to dla mnie trochę za gorąco... moja delikatna skóra szybko się opala na tym słońcu. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak właściwie, to dla mnie trochę za gorąco... moja delikatna skóra szybko się opala na tym słońcu."
+        },
+        {
+          "DialogueFrom": "Thu2",
+          "DialogueText": "Ten podejrzany gość z tyłu? Nie powinnam o nim rozmawiać.",
+          "AudioPath": "assets/pt-BR/Sandy/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten podejrzany gość z tyłu? Nie powinnam o nim rozmawiać."
+        },
+        {
+          "DialogueFrom": "Thu2",
+          "DialogueText": "Tak czy inaczej... jaka jest teraz u was pogoda?",
+          "AudioPath": "assets/pt-BR/Sandy/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu2",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak czy inaczej... jaka jest teraz u was pogoda?"
+        },
+        {
+          "DialogueFrom": "Thu4",
+          "DialogueText": "Hej... Myślę, że mogę ci zaufać. Umiesz dotrzymać tajemnicy, tak?",
+          "AudioPath": "assets/pt-BR/Sandy/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu4",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej... Myślę, że mogę ci zaufać. Umiesz dotrzymać tajemnicy, tak?"
+        },
+        {
+          "DialogueFrom": "Thu4",
+          "DialogueText": "*szept* Ten gość z tyłu... to jakiś ekskluzywny klub. Sama nigdy nie byłam w środku, ale dużo mi płacą za wynajem, więc nie pytam.",
+          "AudioPath": "assets/pt-BR/Sandy/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu4",
+          "PageIndex": 1,
+          "DisplayPattern": "*szept* Ten gość z tyłu... to jakiś ekskluzywny klub. Sama nigdy nie byłam w środku, ale dużo mi płacą za wynajem, więc nie pytam."
+        },
+        {
+          "DialogueFrom": "Thu4",
+          "DialogueText": "WIĘĘĘęc! Jaka jest teraz u was pogoda?",
+          "AudioPath": "assets/pt-BR/Sandy/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Thu4",
+          "PageIndex": 2,
+          "DisplayPattern": "WIĘĘĘęc! Jaka jest teraz u was pogoda?"
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Tak naprawdę nie nazywam się Sandy. To tylko chwytliwa nazwa.",
+          "AudioPath": "assets/pt-BR/Sandy/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Fri4",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak naprawdę nie nazywam się Sandy. To tylko chwytliwa nazwa."
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Ale i tak wszyscy tak do mnie mówią, więc już się przyzwyczaiłam.",
+          "AudioPath": "assets/pt-BR/Sandy/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Fri4",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale i tak wszyscy tak do mnie mówią, więc już się przyzwyczaiłam."
+        },
+        {
+          "DialogueFrom": "Wed8",
+          "DialogueText": "Czy to nie jest trochę kosztowne, że tak często tu przyjeżdżasz?",
+          "AudioPath": "assets/pt-BR/Sandy/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed8",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to nie jest trochę kosztowne, że tak często tu przyjeżdżasz?"
+        },
+        {
+          "DialogueFrom": "Wed8",
+          "DialogueText": "Pewnie bardzo mnie lubisz, co? Hmmm... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed8",
+          "PageIndex": 1,
+          "DisplayPattern": "Pewnie bardzo mnie lubisz, co? Hmmm..."
+        },
+        {
+          "DialogueFrom": "Sun8",
+          "DialogueText": "Witaj, słonko. To tylko ja, samotna w tym wielkim, starym sklepie. Hmmm...",
+          "AudioPath": "assets/pt-BR/Sandy/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sun8",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj, słonko. To tylko ja, samotna w tym wielkim, starym sklepie. Hmmm..."
+        },
+        {
+          "DialogueFrom": "Sun8",
+          "DialogueText": "Cóż, oprócz tego dziwnego gościa z tyłu. Ale nigdy nawet nie mrugnie, więc zazwyczaj o nim zapominam.",
+          "AudioPath": "assets/pt-BR/Sandy/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Sun8",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, oprócz tego dziwnego gościa z tyłu. Ale nigdy nawet nie mrugnie, więc zazwyczaj o nim zapominam."
+        },
+        {
+          "DialogueFrom": "Wed10",
+          "DialogueText": "Hej, to ty, {Farmer_Name}! Cieszę się, że cię widzę. Myślałam, że już nigdy tu nie przyjdziesz!",
+          "AudioPath": "assets/pt-BR/Sandy/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed10",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, to ty, ! Cieszę się, że cię widzę. Myślałam, że już nigdy tu nie przyjdziesz!"
+        },
+        {
+          "DialogueFrom": "Wed10",
+          "DialogueText": "Gdybym nie miała tego sklepu, pewnie wróciłabym z tobą na dzień lub dwa... tylko ty, ja i stara farma. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed10",
+          "PageIndex": 1,
+          "DisplayPattern": "Gdybym nie miała tego sklepu, pewnie wróciłabym z tobą na dzień lub dwa... tylko ty, ja i stara a."
+        },
+        {
+          "DialogueFrom": "Wed10",
+          "DialogueText": "Musisz mnie częściej odwiedzać, żebym nie zwariowała. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Wed10",
+          "PageIndex": 2,
+          "DisplayPattern": "Musisz mnie częściej odwiedzać, żebym nie zwariowała."
+        },
+        {
+          "DialogueFrom": "Tue10",
+          "DialogueText": "Cześć!~ Zostań tu tyle, ile chcesz.",
+          "AudioPath": "assets/pt-BR/Sandy/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Tue10",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć!~ Zostań tu tyle, ile chcesz."
+        },
+        {
+          "DialogueFrom": "Tue10",
+          "DialogueText": "Powietrze jest tu całkiem przyjemne, prawda?",
+          "AudioPath": "assets/pt-BR/Sandy/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Sandy:Tue10",
+          "PageIndex": 1,
+          "DisplayPattern": "Powietrze jest tu całkiem przyjemne, prawda?"
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Słyszałam, że u was pada. Czy to dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/47.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Czy to dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "W sumie trochę tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/48.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie trochę tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Event/SandyHouse/67:s0",
+          "DialogueText": "A... customer?",
+          "AudioPath": "assets/pt-BR/Sandy/49.ogg",
+          "TranslationKey": "Events/SandyHouse:67:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "A... customer?"
+        },
+        {
+          "DialogueFrom": "Event/SandyHouse/67:s1",
+          "DialogueText": "Hi! Welcome to 'Sandy's Oasis'!",
+          "AudioPath": "assets/pt-BR/Sandy/50.ogg",
+          "TranslationKey": "Events/SandyHouse:67:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Hi! Welcome to 'Sandy's Oasis'!"
+        },
+        {
+          "DialogueFrom": "Event/SandyHouse/67:s2",
+          "DialogueText": "Hey, you look just like the new farmer that Emily wrote to me about!",
+          "AudioPath": "assets/pt-BR/Sandy/51.ogg",
+          "TranslationKey": "Events/SandyHouse:67:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hey, you look just like the new er that Emily wrote to me about!"
+        },
+        {
+          "DialogueFrom": "Event/SandyHouse/67:s3",
+          "DialogueText": "Then... the bus line to Stardew Valley is back in service! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/52.ogg",
+          "TranslationKey": "Events/SandyHouse:67:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Then... the bus line to Stardew Valley is back in service!"
+        },
+        {
+          "DialogueFrom": "Event/SandyHouse/67:s4",
+          "DialogueText": "Oh, I'm so happy! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/53.ogg",
+          "TranslationKey": "Events/SandyHouse:67:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh, I'm so happy!"
+        },
+        {
+          "DialogueFrom": "Event/SandyHouse/67:s5",
+          "DialogueText": "Please visit again soon, I get so bored out here.",
+          "AudioPath": "assets/pt-BR/Sandy/54.ogg",
+          "TranslationKey": "Events/SandyHouse:67:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Please visit again soon, I get so bored out here."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/55.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/56.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Sandy_y2",
+          "DialogueText": "Społeczność Doliny Stardew jest naprawdę jedyna w swoim rodzaju... {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Sandy/57.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Sandy_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Społeczność Doliny Stardew jest naprawdę jedyna w swoim rodzaju..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/58.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Sandy",
+          "DialogueText": "W sumie trochę tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/59.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie trochę tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Sandy_y2",
+          "DialogueText": "Słyszałam, że u was pada. dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/60.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Sandy_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Sandy_y2",
+          "DialogueText": "W sumie trochę tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/61.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Sandy_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie trochę tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/62.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/63.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/64.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/65.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Sandy_y2",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/66.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Sandy_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Sandy_y2",
+          "DialogueText": "W sumie trochę tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/67.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Sandy_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie trochę tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/68.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/69.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Sandy_y2",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/70.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Sandy_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Sandy_y2",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/71.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Sandy_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/72.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/73.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Sandy_y2",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/74.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Sandy_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Sandy_y2",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/75.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Sandy_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/76.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/77.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Sandy",
+          "DialogueText": "Słyszałam, że u was pada. Dlatego tu jesteś? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/78.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałam, że u was pada. Dlatego tu jesteś?"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Sandy",
+          "DialogueText": "W sumie tęsknię za deszczem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Sandy/79.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Sandy",
+          "PageIndex": 1,
+          "DisplayPattern": "W sumie tęsknię za deszczem..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Sandy:s0",
+          "DialogueText": "Ooo! Uwielbiam prezenty z doliny. Tak bardzo się cieszę!~",
+          "AudioPath": "assets/pt-BR/Sandy/80.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Sandy:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ooo! Uwielbiam prezenty z doliny. Tak bardzo się cieszę!~"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Sandy:s1",
+          "DialogueText": "Wygląda wspaniale. Dziękuję!",
+          "AudioPath": "assets/pt-BR/Sandy/81.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Sandy:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Wygląda wspaniale. Dziękuję!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Sandy:s2",
+          "DialogueText": "Och... eee... Dzięki.",
+          "AudioPath": "assets/pt-BR/Sandy/82.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Sandy:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... eee... Dzięki."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Sandy:s3",
+          "DialogueText": "*niuch*... Co to jest?",
+          "AudioPath": "assets/pt-BR/Sandy/83.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Sandy:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*... Co to jest?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Sandy:s4",
+          "DialogueText": "To dla mnie? Dziękuję!",
+          "AudioPath": "assets/pt-BR/Sandy/84.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Sandy:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "To dla mnie? Dziękuję!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Sandy_PlayerClubMember",
+          "DialogueText": "Co się stało? Jesteś członkiem klubu?!",
+          "AudioPath": "assets/pt-BR/Sandy/85.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Sandy_PlayerClubMember",
+          "PageIndex": 0,
+          "DisplayPattern": "Co się stało? Jesteś członkiem klubu?!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Sandy_love_BeforeMovie",
+          "DialogueText": "Cieszę się, że mam pretekst, żeby przyjechać do Miasta Pelikan!",
+          "AudioPath": "assets/pt-BR/Sandy/86.ogg",
+          "TranslationKey": "Strings/MovieReactions:Sandy_love_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że mam pretekst, żeby przyjechać do Miasta Pelikan!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Sandy_love_AfterMovie",
+          "DialogueText": "Było fajnie, dziękuję za zaproszenie! Niestety, muszę wracać do domu...",
+          "AudioPath": "assets/pt-BR/Sandy/87.ogg",
+          "TranslationKey": "Strings/MovieReactions:Sandy_love_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Było fajnie, dziękuję za zaproszenie! Niestety, muszę wracać do domu..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Sandy",
+          "DialogueText": "To dla mnie najbardziej pracowity czas w roku! Miło jest móc wszystkich zobaczyć.",
+          "AudioPath": "assets/pt-BR/Sandy/88.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Sandy",
+          "PageIndex": 0,
+          "DisplayPattern": "To dla mnie najbardziej pracowity czas w roku! Miło jest móc wszystkich zobaczyć."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_AlreadyStyled",
+          "DialogueText": "Nie jest źle, Skarbeńku! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/89.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_AlreadyStyled",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie jest źle, Skarbeńku!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_AlreadyStyled",
+          "DialogueText": "Wróć jutro, jutro będę miała na Ciebie nowy pomysł!",
+          "AudioPath": "assets/pt-BR/Sandy/90.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_AlreadyStyled",
+          "PageIndex": 1,
+          "DisplayPattern": "Wróć jutro, jutro będę miała na Ciebie nowy pomysł!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_InventoryFull",
+          "DialogueText": "Hmm, Twój plecak jest pełny. Wróć jak zrobisz sobie miejsce na pełny strój.",
+          "AudioPath": "assets/pt-BR/Sandy/91.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_InventoryFull",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm, Twój plecak jest pełny. Wróć jak zrobisz sobie miejsce na pełny strój."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_1",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Sandy/92.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_1",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_2",
+          "DialogueText": "Ups! To mój sygnał!",
+          "AudioPath": "assets/pt-BR/Sandy/93.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ups! To mój sygnał!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_3",
+          "DialogueText": "Puk, puk, Skarbie! Wchodzę!",
+          "AudioPath": "assets/pt-BR/Sandy/94.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Puk, puk, Skarbie! Wchodzę!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_4",
+          "DialogueText": "Zobaczmy...",
+          "AudioPath": "assets/pt-BR/Sandy/95.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Zobaczmy..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_5",
+          "DialogueText": "Ok!",
+          "AudioPath": "assets/pt-BR/Sandy/96.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_6",
+          "DialogueText": "Fajnie było! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/97.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Fajnie było!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_6",
+          "DialogueText": "Mam nadzieję, że podoba Ci się Twój nowy wygląd, tak jak i mi! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/98.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_6",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam nadzieję, że podoba Ci się Twój nowy wygląd, tak jak i mi!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_Done",
+          "DialogueText": "Promieniejesz!",
+          "AudioPath": "assets/pt-BR/Sandy/99.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_Done",
+          "PageIndex": 0,
+          "DisplayPattern": "Promieniejesz!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:MakeOver_Sandy_Done",
+          "DialogueText": "Twoje stare ciuchy masz w plecaku, jeśli się rozmyślisz. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Sandy/100.ogg",
+          "TranslationKey": "Strings/1_6_Strings:MakeOver_Sandy_Done",
+          "PageIndex": 1,
+          "DisplayPattern": "Twoje stare ciuchy masz w plecaku, jeśli się rozmyślisz."
+        },
+        {
+          "DialogueFrom": "SandyHouse_Sandy_Greeting1",
+          "DialogueText": "Słońce cały czas świeci!",
+          "AudioPath": "assets/pt-BR/Sandy/101.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:SandyHouse_Sandy_Greeting1",
+          "PageIndex": 0,
+          "DisplayPattern": "Słońce cały czas świeci!"
+        },
+        {
+          "DialogueFrom": "SandyHouse_Sandy_Greeting2",
+          "DialogueText": "O, gość!",
+          "AudioPath": "assets/pt-BR/Sandy/102.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:SandyHouse_Sandy_Greeting2",
+          "PageIndex": 0,
+          "DisplayPattern": "O, gość!"
+        },
+        {
+          "DialogueFrom": "SandyHouse_Sandy_Greeting3",
+          "DialogueText": "Witaj!",
+          "AudioPath": "assets/pt-BR/Sandy/103.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:SandyHouse_Sandy_Greeting3",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj!"
+        },
+        {
+          "DialogueFrom": "SandyHouse_Sandy_Greeting4",
+          "DialogueText": "Rzadkie nasiona na sprzedaż!",
+          "AudioPath": "assets/pt-BR/Sandy/104.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:SandyHouse_Sandy_Greeting4",
+          "PageIndex": 0,
+          "DisplayPattern": "Rzadkie nasiona na sprzedaż!"
+        },
+        {
+          "DialogueFrom": "SandyHouse_Sandy_Greeting5",
+          "DialogueText": "Może chcesz coś kupić?",
+          "AudioPath": "assets/pt-BR/Sandy/105.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:SandyHouse_Sandy_Greeting5",
+          "PageIndex": 0,
+          "DisplayPattern": "Może chcesz coś kupić?"
+        }
+      ]
+    }
+  ]
+}

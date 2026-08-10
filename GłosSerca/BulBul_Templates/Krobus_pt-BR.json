@@ -1,0 +1,1552 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "Wiktor.Test3.Krobus.pt-BR",
+      "VoicePackName": "BulBul (Krobus - pt-BR)",
+      "Character": "Krobus",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "SpouseStardrop",
+          "DialogueText": "Chciałbym Ci to podarować jako podziękowanie za pozwolenie, bym mógł z Tobą mieszkać. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:SpouseStardrop",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym Ci to podarować jako podziękowanie za pozwolenie, bym mógł z Tobą mieszkać."
+        },
+        {
+          "DialogueFrom": "4_*",
+          "DialogueText": "... Spotykasz czasami w kopalniach istoty podobne do mnie? Przepraszam, jeśli byli dla Ciebie niemili. Widzisz, nauczyliśmy się straszyć ludzi... było zbyt wiele... nieprzyjemnych spotkań.",
+          "AudioPath": "assets/pt-BR/Krobus/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:4_*",
+          "PageIndex": 0,
+          "DisplayPattern": "... Spotykasz czasami w kopalniach istoty podobne do mnie? Przepraszam, jeśli byli dla Ciebie niemili. Widzisz, nauczyliśmy się straszyć ludzi... było zbyt wiele... nieprzyjemnych spotkań."
+        },
+        {
+          "DialogueFrom": "4_*",
+          "DialogueText": "Nie zabiłeś żadnego z moich przyjaciół, prawda?",
+          "AudioPath": "assets/pt-BR/Krobus/3_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:4_*",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie zabiłeś żadnego z moich przyjaciół, prawda?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "4_*",
+          "DialogueText": "Nie zabiłaś żadnego z moich przyjaciół, prawda?",
+          "AudioPath": "assets/pt-BR/Krobus/4_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:4_*",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie zabiłaś żadnego z moich przyjaciół, prawda?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "O, prezent upamiętniający dzień, w którym się wyklułem! Dziękuję! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptBirthdayGift_Positive",
+          "PageIndex": 0,
+          "DisplayPattern": "O, prezent upamiętniający dzień, w którym się wyklułem! Dziękuję!"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Przypływ wody jest dziś niezwykle silny... co się tam dzieje?",
+          "AudioPath": "assets/pt-BR/Krobus/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Przypływ wody jest dziś niezwykle silny... co się tam dzieje?"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Oh... więc to nazywacie 'prezentem urodzinowym'? Nie rozumiem ludzi... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptBirthdayGift_Negative",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh... więc to nazywacie 'prezentem urodzinowym'? Nie rozumiem ludzi..."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Czy to herbata ze Stardropa? Dziękuję! Jedna kropla sprawia, że mój pokój ładnie pachnie przez cały dzień.",
+          "AudioPath": "assets/pt-BR/Krobus/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to herbata ze Stardropa? Dziękuję! Jedna kropla sprawia, że mój pokój ładnie pachnie przez cały dzień."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)Book_Void",
+          "DialogueText": "Hej, patrz! Wszyscy moi przyjaciele tu są! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptGift_(O)Book_Void",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, patrz! Wszyscy moi przyjaciele tu są!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)Book_Void",
+          "DialogueText": "Chwila... czy to ja...? {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Krobus/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptGift_(O)Book_Void",
+          "PageIndex": 1,
+          "DisplayPattern": "Chwila... czy to ja...?"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)879",
+          "DialogueText": "Ładny zapach jako prezent? Och, {Farmer_Name}... zarumieniłem się, ale pewnie i tak tego po mnie nie widać... {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Krobus/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptGift_(O)879",
+          "PageIndex": 0,
+          "DisplayPattern": "Ładny zapach jako prezent? Och, ... zarumieniłem się, ale pewnie i tak tego po mnie nie widać..."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)308",
+          "DialogueText": "Pachnie przepysznie! Zjem połowę, a resztą nawilżę swoje ciało... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:AcceptGift_(O)308",
+          "PageIndex": 0,
+          "DisplayPattern": "Pachnie przepysznie! Zjem połowę, a resztą nawilżę swoje ciało..."
+        },
+        {
+          "DialogueFrom": "8_*",
+          "DialogueText": "Tysiącletnia wojna między nami a krasnoludami dobiegła końca. Wciąż jednak pozostało wiele uraz po obu stronach.",
+          "AudioPath": "assets/pt-BR/Krobus/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:8_*",
+          "PageIndex": 0,
+          "DisplayPattern": "Tysiącletnia wojna między nami a krasnoludami dobiegła końca. Wciąż jednak pozostało wiele uraz po obu stronach."
+        },
+        {
+          "DialogueFrom": "15_*",
+          "DialogueText": "Proszę, nie mów nikomu o mnie. Gdyby krasnoludy się o mnie dowiedziały, na pewno by po mnie przyszły.",
+          "AudioPath": "assets/pt-BR/Krobus/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:15_*",
+          "PageIndex": 0,
+          "DisplayPattern": "Proszę, nie mów nikomu o mnie. Gdyby krasnoludy się o mnie dowiedziały, na pewno by po mnie przyszły."
+        },
+        {
+          "DialogueFrom": "18_*",
+          "DialogueText": "Staram się nie robić tu zbyt wiele hałasu. Co by było, gdyby inni usłyszeli stąd moje dziwne dźwięki...",
+          "AudioPath": "assets/pt-BR/Krobus/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:18_*",
+          "PageIndex": 0,
+          "DisplayPattern": "Staram się nie robić tu zbyt wiele hałasu. Co by było, gdyby inni usłyszeli stąd moje dziwne dźwięki..."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "eventSeen_691039",
+          "DialogueText": "... Jestem lekko poobijany, ale nic mi nie jest.",
+          "AudioPath": "assets/pt-BR/Krobus/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:eventSeen_691039",
+          "PageIndex": 0,
+          "DisplayPattern": "... Jestem lekko poobijany, ale nic mi nie jest."
+        },
+        {
+          "DialogueFrom": "reject_868",
+          "DialogueText": "Och, to arktyczny odłamek! Bardzo rzadki, magiczny przedmiot.",
+          "AudioPath": "assets/pt-BR/Krobus/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:reject_868",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, to arktyczny odłamek! Bardzo rzadki, magiczny przedmiot."
+        },
+        {
+          "DialogueFrom": "reject_868",
+          "DialogueText": "Na Twoim miejscu zaniósłbym go do Czarodzieja!",
+          "AudioPath": "assets/pt-BR/Krobus/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:reject_868",
+          "PageIndex": 1,
+          "DisplayPattern": "Na Twoim miejscu zaniósłbym go do Czarodzieja!"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Znajduję tu różne rzeczy i je sprzedaję. Chcesz coś kupić?",
+          "AudioPath": "assets/pt-BR/Krobus/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Znajduję tu różne rzeczy i je sprzedaję. Chcesz coś kupić?"
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Jeśli przyłożysz ucho do prawej rury, możesz usłyszeć dźwięki z każdego domu.",
+          "AudioPath": "assets/pt-BR/Krobus/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Wed6",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli przyłożysz ucho do prawej rury, możesz usłyszeć dźwięki z każdego domu."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Wcale nie podsłuchuję! {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Wed6",
+          "PageIndex": 1,
+          "DisplayPattern": "Wcale nie podsłuchuję!"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Proszę, nie mów nikomu o mnie.",
+          "AudioPath": "assets/pt-BR/Krobus/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Proszę, nie mów nikomu o mnie."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Ludzie zwykle niszczą to, czego nie rozumieją.",
+          "AudioPath": "assets/pt-BR/Krobus/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Ludzie zwykle niszczą to, czego nie rozumieją."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Proszę, nie mów nikomu o mnie.",
+          "AudioPath": "assets/pt-BR/Krobus/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Thu6",
+          "PageIndex": 0,
+          "DisplayPattern": "Proszę, nie mów nikomu o mnie."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Większość ludzi boi się cienistych... może i słusznie. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Thu6",
+          "PageIndex": 1,
+          "DisplayPattern": "Większość ludzi boi się cienistych... może i słusznie."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Ale jeśli dowiedzą się, że tu jestem, mógłbym już nie być bezpieczny.",
+          "AudioPath": "assets/pt-BR/Krobus/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Thu6",
+          "PageIndex": 2,
+          "DisplayPattern": "Ale jeśli dowiedzą się, że tu jestem, mógłbym już nie być bezpieczny."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jestem zbyt wrażliwy na światło słoneczne.",
+          "AudioPath": "assets/pt-BR/Krobus/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem zbyt wrażliwy na światło słoneczne."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Warunki tutaj są idealne.",
+          "AudioPath": "assets/pt-BR/Krobus/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Warunki tutaj są idealne."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Chcesz coś kupić?",
+          "AudioPath": "assets/pt-BR/Krobus/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "Chcesz coś kupić?"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Proszę, nie bój się. Jestem inny niż reszta.",
+          "AudioPath": "assets/pt-BR/Krobus/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Proszę, nie bój się. Jestem inny niż reszta."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Spędziłem sporo czasu obserwując ludzi. Wiem, że lubicie zakupy. Chcesz zobaczyć moje towary?",
+          "AudioPath": "assets/pt-BR/Krobus/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Spędziłem sporo czasu obserwując ludzi. Wiem, że lubicie zakupy. Chcesz zobaczyć moje towary?"
+        },
+        {
+          "DialogueFrom": "Mon2",
+          "DialogueText": "Znowu wracasz? Pasuje to do mojej teorii o ludzkich zachowaniach.",
+          "AudioPath": "assets/pt-BR/Krobus/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Mon2",
+          "PageIndex": 0,
+          "DisplayPattern": "Znowu wracasz? Pasuje to do mojej teorii o ludzkich zachowaniach."
+        },
+        {
+          "DialogueFrom": "Mon6",
+          "DialogueText": "'Krobus' w naszym języku znaczy 'przechodzący przez most'.",
+          "AudioPath": "assets/pt-BR/Krobus/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Mon6",
+          "PageIndex": 0,
+          "DisplayPattern": "'Krobus' w naszym języku znaczy 'przechodzący przez most'."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "W piątki nic nie mówię, by oddać cześć Yobie.",
+          "AudioPath": "assets/pt-BR/Krobus/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "W piątki nic nie mówię, by oddać cześć Yobie."
+        },
+        {
+          "DialogueFrom": "Sat4",
+          "DialogueText": "Chciałbym zobaczyć więcej świata zewnętrznego, ale nie byłoby to dla mnie bezpieczne. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Sat4",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym zobaczyć więcej świata zewnętrznego, ale nie byłoby to dla mnie bezpieczne."
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Nigdy nie będę wiedział, jak to jest być człowiekiem... ale rozmowa z Tobą pomaga mi to trochę zrozumieć.",
+          "AudioPath": "assets/pt-BR/Krobus/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Sat8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy nie będę wiedział, jak to jest być człowiekiem... ale rozmowa z Tobą pomaga mi to trochę zrozumieć."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "... Przepraszam, wciąż trochę się boję ludzi. Ale mój sklep jest dla Ciebie zawsze otwarty.",
+          "AudioPath": "assets/pt-BR/Krobus/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "... Przepraszam, wciąż trochę się boję ludzi. Ale mój sklep jest dla Ciebie zawsze otwarty."
+        },
+        {
+          "DialogueFrom": "Sun4",
+          "DialogueText": "Nie jesteś jak inni ludzie, prawda?",
+          "AudioPath": "assets/pt-BR/Krobus/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Sun4",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie jesteś jak inni ludzie, prawda?"
+        },
+        {
+          "DialogueFrom": "Sun8",
+          "DialogueText": "Dzięki Tobie znam prawdę o ludziach. Dziękuję Ci za to.",
+          "AudioPath": "assets/pt-BR/Krobus/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:Sun8",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki Tobie znam prawdę o ludziach. Dziękuję Ci za to."
+        },
+        {
+          "DialogueFrom": "divorced",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Krobus:divorced",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "EngagementDialogue/Krobus0",
+          "DialogueText": "{Farmer_Name}... Obawiam się, że musimy to zachować w tajemnicy... Ani moi, ani Twoi ludzie by tego nie zaakceptowali.",
+          "AudioPath": "assets/pt-BR/Krobus/42.ogg",
+          "TranslationKey": "Data/EngagementDialogue:Krobus0",
+          "PageIndex": 0,
+          "DisplayPattern": "... Obawiam się, że musimy to zachować w tajemnicy... Ani moi, ani Twoi ludzie by tego nie zaakceptowali."
+        },
+        {
+          "DialogueFrom": "EngagementDialogue/Krobus1",
+          "DialogueText": "Wiesz, że będę dziwną osobą na lokatora, prawda? Nie będę mógł wychodzić z domu...",
+          "AudioPath": "assets/pt-BR/Krobus/43.ogg",
+          "TranslationKey": "Data/EngagementDialogue:Krobus1",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz, że będę dziwną osobą na lokatora, prawda? Nie będę mógł wychodzić z domu..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_0",
+          "DialogueText": "... Nadal mnie lubisz? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/44.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_0",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nadal mnie lubisz?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_1",
+          "DialogueText": "*ech*... Może powinienem wrócić do swoich. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/45.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_1",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*... Może powinienem wrócić do swoich."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_2",
+          "DialogueText": "Czy nadal dobrze Ci się ze mną mieszka? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/46.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy nadal dobrze Ci się ze mną mieszka?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_3",
+          "DialogueText": "Robię coś źle? Inaczej się ostatnio zachowujesz. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/47.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Robię coś źle? Inaczej się ostatnio zachowujesz."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_4",
+          "DialogueText": "Może lepiej byłoby Ci mieszkać z innym człowiekiem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/48.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Może lepiej byłoby Ci mieszkać z innym człowiekiem..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_5",
+          "DialogueText": "Wyczuwam zmianę w Twoim zachowaniu... Co to oznacza? *Graah* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/49.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyczuwam zmianę w Twoim zachowaniu... Co to oznacza? *Graah*"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_6",
+          "DialogueText": "Nie masz tyle czasu co ja... Na pewno chcesz go spędzić z odrażającą kreaturą jak ja? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/50.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie masz tyle czasu co ja... Na pewno chcesz go spędzić z odrażającą kreaturą jak ja?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_7",
+          "DialogueText": "Może taka relacja nie miała prawa się udać... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/51.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_7",
+          "PageIndex": 0,
+          "DisplayPattern": "Może taka relacja nie miała prawa się udać..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_8",
+          "DialogueText": "Ostatnio nie wyglądasz na szczęśliwego... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/52_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Ostatnio nie wyglądasz na szczęśliwego...",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_8",
+          "DialogueText": "Ostatnio nie wyglądasz na szczęśliwą... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/53_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_8",
+          "PageIndex": 1,
+          "DisplayPattern": "Ostatnio nie wyglądasz na szczęśliwą...",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Bad_9",
+          "DialogueText": "Tęsknię za ściekami. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/54.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Bad_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Tęsknię za ściekami."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_1",
+          "DialogueText": "Miło, gdy przyjdzie jesień po tak upalnym lecie.",
+          "AudioPath": "assets/pt-BR/Krobus/55.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:fall_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Miło, gdy przyjdzie jesień po tak upalnym lecie."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_12",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/56.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_12",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_15",
+          "DialogueText": "Wiesz już, co zaprezentujesz na jutrzejszej wystawie?",
+          "AudioPath": "assets/pt-BR/Krobus/57.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_15",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz już, co zaprezentujesz na jutrzejszej wystawie?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_19",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/58.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_19",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_24",
+          "DialogueText": "Gdybym poszedł na Wigilię Duchów, zamknęliby mnie w klatce... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/59.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_24",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdybym poszedł na Wigilię Duchów, zamknęliby mnie w klatce..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_26",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/60.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_26",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_5",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/61.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_5",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_8",
+          "DialogueText": "Dziś nie mam na nic ochoty.",
+          "AudioPath": "assets/pt-BR/Krobus/62.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziś nie mam na nic ochoty."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/fall_Krobus",
+          "DialogueText": "Ostatnio zrobiło się chłodniej, a zapachy też się zmieniły. To chyba 'jesień', tak?",
+          "AudioPath": "assets/pt-BR/Krobus/63.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:fall_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Ostatnio zrobiło się chłodniej, a zapachy też się zmieniły. To chyba 'jesień', tak?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_0",
+          "DialogueText": "Robimy postępy, czuję się pełen nadziei. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/64.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Robimy postępy, czuję się pełen nadziei."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_1",
+          "DialogueText": "Czuję coś... Czy to... 'platoniczna miłość'? {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Krobus/65.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Czuję coś... Czy to... 'platoniczna miłość'?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_1",
+          "DialogueText": "... Och, czekaj... Tylko zrzucam skórę. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/66.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_1",
+          "PageIndex": 1,
+          "DisplayPattern": "... Och, czekaj... Tylko zrzucam skórę."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_2",
+          "DialogueText": "Nauczyłem się pokonywać moje uprzedzenia wobec ludzi... Ale krasnoludy nadal mnie odrzucają. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Krobus/67.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nauczyłem się pokonywać moje uprzedzenia wobec ludzi... Ale krasnoludy nadal mnie odrzucają."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_3",
+          "DialogueText": "Wczoraj mnie skubałeś i mamrotałeś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/68_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Wczoraj mnie skubałeś i mamrotałeś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_3",
+          "DialogueText": "Wczoraj mnie skubałeś i mamrotałaś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/69_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_3",
+          "PageIndex": 1,
+          "DisplayPattern": "Wczoraj mnie skubałeś i mamrotałaś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_3",
+          "DialogueText": "Wczoraj mnie skubałaś i mamrotałeś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/70_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_3",
+          "PageIndex": 2,
+          "DisplayPattern": "Wczoraj mnie skubałaś i mamrotałeś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_3",
+          "DialogueText": "Wczoraj mnie skubałaś i mamrotałaś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/71_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_3",
+          "PageIndex": 3,
+          "DisplayPattern": "Wczoraj mnie skubałaś i mamrotałaś coś o 'czarnej lizawce' albo 'lizaniu'... O co Ci chodziło?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_4",
+          "DialogueText": "To miejsce jest moim domem... Kocham je. {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Krobus/72.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_4",
+          "PageIndex": 0,
+          "DisplayPattern": "To miejsce jest moim domem... Kocham je."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_5",
+          "DialogueText": "Podziwiam ten piękny dom... To naprawdę wspaniałe miejsce. {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Krobus/73.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Good_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Podziwiam ten piękny dom... To naprawdę wspaniałe miejsce."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_6",
+          "DialogueText": "Uważaj na siebie! Czasami myślę, że wpadniesz gdzieś w jakiś szyb w kopalni.",
+          "AudioPath": "assets/pt-BR/Krobus/74.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Uważaj na siebie! Czasami myślę, że wpadniesz gdzieś w jakiś szyb w kopalni."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_7",
+          "DialogueText": "{Farmer_Name}? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/75.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_7",
+          "PageIndex": 0,
+          "DisplayPattern": "? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_8",
+          "DialogueText": "Nie martw się o mnie... wiem, że masz dużo obowiązków. Dobrze sobie tu radzę! {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Krobus/76.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się o mnie... wiem, że masz dużo obowiązków. Dobrze sobie tu radzę!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_9",
+          "DialogueText": "Och, nie nudzę się... Cieszę się z tego co mamy.",
+          "AudioPath": "assets/pt-BR/Krobus/77.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, nie nudzę się... Cieszę się z tego co mamy."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Good_9",
+          "DialogueText": "To proste życie, ale podoba mi się. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/78.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_9",
+          "PageIndex": 1,
+          "DisplayPattern": "To proste życie, ale podoba mi się."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_0",
+          "DialogueText": "Gdybym mógł Ci pomóc, z pewnością bym to zrobił... Postaram się przynajmniej utrzymać dom w porządku.",
+          "AudioPath": "assets/pt-BR/Krobus/79.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdybym mógł Ci pomóc, z pewnością bym to zrobił... Postaram się przynajmniej utrzymać dom w porządku."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_1",
+          "DialogueText": "Próbowałem przygotować to ludzkie danie... [203 204 651 225]",
+          "AudioPath": "assets/pt-BR/Krobus/80.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Próbowałem przygotować to ludzkie danie..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_1",
+          "DialogueText": "Możesz zjeść później, nie przejmuj się...",
+          "AudioPath": "assets/pt-BR/Krobus/81.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Możesz zjeść później, nie przejmuj się..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_2",
+          "DialogueText": "Jestem tu szczęśliwy. Lubię przebywać w dobrym miejscu... Nie muszę ''wychodzić'' jak ludzie.",
+          "AudioPath": "assets/pt-BR/Krobus/82.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem tu szczęśliwy. Lubię przebywać w dobrym miejscu... Nie muszę ''wychodzić'' jak ludzie."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_2",
+          "DialogueText": "Ale rozumiem, że wy musicie! Nic nie szkodzi, idź spokojnie. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/83.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale rozumiem, że wy musicie! Nic nie szkodzi, idź spokojnie."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_3",
+          "DialogueText": "Zastanawiam się, czy nie spędzić całego dnia zwinięty w kłębek w kącie...",
+          "AudioPath": "assets/pt-BR/Krobus/84.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się, czy nie spędzić całego dnia zwinięty w kłębek w kącie..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_3",
+          "DialogueText": "Co? Wy tego nie robicie? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Krobus/85.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_3",
+          "PageIndex": 1,
+          "DisplayPattern": "Co? Wy tego nie robicie?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_4",
+          "DialogueText": "W piątki lubię zachować ciszę z szacunku dla Yoby. Mam nadzieję, że Ci to nie przeszkadza.",
+          "AudioPath": "assets/pt-BR/Krobus/86.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_4",
+          "PageIndex": 0,
+          "DisplayPattern": "W piątki lubię zachować ciszę z szacunku dla Yoby. Mam nadzieję, że Ci to nie przeszkadza."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Day_Krobus",
+          "DialogueText": "Chciałbym Ci pomóc na farmie, ale nie mogę wychodzić na słońce...",
+          "AudioPath": "assets/pt-BR/Krobus/87.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Day_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym Ci pomóc na ie, ale nie mogę wychodzić na słońce..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_0",
+          "DialogueText": "Zjadłem wszystkie robaki... Wybacz, nie zostawiłem ani jednego! *mlask* {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Krobus/88.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Zjadłem wszystkie robaki... Wybacz, nie zostawiłem ani jednego! *mlask*"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_1",
+          "DialogueText": "Wyglądasz solidnie... Czasem chciałbym też mieć kości... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/89.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyglądasz solidnie... Czasem chciałbym też mieć kości..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_2",
+          "DialogueText": "Zastanawiam się, czy ludzie i Cieniści mogliby mieszkać razem... To piękna idea, ale czy możliwa? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/90.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się, czy ludzie i Cieniści mogliby mieszkać razem... To piękna idea, ale czy możliwa?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_2",
+          "DialogueText": "Oby...",
+          "AudioPath": "assets/pt-BR/Krobus/91.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Oby..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_3",
+          "DialogueText": "Często rozmyślam o wszystkim, czego się od Ciebie nauczyłem o ludziach...",
+          "AudioPath": "assets/pt-BR/Krobus/92.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Często rozmyślam o wszystkim, czego się od Ciebie nauczyłem o ludziach..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_3",
+          "DialogueText": "Chciałbym, by każdy Cienisty mógł się tego nauczyć.",
+          "AudioPath": "assets/pt-BR/Krobus/93.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_3",
+          "PageIndex": 1,
+          "DisplayPattern": "Chciałbym, by każdy Cienisty mógł się tego nauczyć."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_4",
+          "DialogueText": "Chcę być dobrym współlokatorem, ale nigdy nie wiem, czy robię to dobrze... *Graah* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/94.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcę być dobrym współlokatorem, ale nigdy nie wiem, czy robię to dobrze... *Graah*"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_4",
+          "DialogueText": "Trudno mi zrozumieć ludzkie emocje. Ale... dobrze Ci się ze mną mieszka, prawda?",
+          "AudioPath": "assets/pt-BR/Krobus/95.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_4",
+          "PageIndex": 1,
+          "DisplayPattern": "Trudno mi zrozumieć ludzkie emocje. Ale... dobrze Ci się ze mną mieszka, prawda?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_4",
+          "DialogueText": "Ok! {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Krobus/96.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_4",
+          "PageIndex": 2,
+          "DisplayPattern": "Ok!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Indoor_Night_Krobus",
+          "DialogueText": "Cześć, {Farmer_Name}. Witaj w domu. Widać, że ciężko pracujesz! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/97.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Indoor_Night_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, . Witaj w domu. Widać, że ciężko pracujesz!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_0",
+          "DialogueText": "Nigdy się nie zestarzeję, ale Ty tak. Czasem mnie to smuci... Ale mówi się trudno. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/98.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy się nie zestarzeję, ale Ty tak. Czasem mnie to smuci... Ale mówi się trudno."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_1",
+          "DialogueText": "Myślisz, że Twój dziadek nie miałby nic przeciwko temu, że potwór mieszka w jego domu?",
+          "AudioPath": "assets/pt-BR/Krobus/99.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślisz, że Twój dziadek nie miałby nic przeciwko temu, że potwór mieszka w jego domu?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_2",
+          "DialogueText": "Myślisz, że możemy mieć problemy przez to, że mieszkamy razem? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/100.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślisz, że możemy mieć problemy przez to, że mieszkamy razem?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_3",
+          "DialogueText": "Strasznie tu jasno... Chyba zamknę oczy na kilka godzin. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/101.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Strasznie tu jasno... Chyba zamknę oczy na kilka godzin."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_4",
+          "DialogueText": "Nie mogę wychodzić na zewnątrz, mogę jeść tylko niektóre potrawy, potrzebuję konkretnej temperatury... Mam nadzieję, że to nie jest dla Ciebie za dużo, {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/102.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę wychodzić na zewnątrz, mogę jeść tylko niektóre potrawy, potrzebuję konkretnej temperatury... Mam nadzieję, że to nie jest dla Ciebie za dużo, ."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_5",
+          "DialogueText": "Welwick mówiła, że dziś jestem przeklęty. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/103.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Welwick mówiła, że dziś jestem przeklęty."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_6",
+          "DialogueText": "Powiem Ci sekret... Tak naprawdę nie śpię, tylko leżę z zamkniętymi oczami...",
+          "AudioPath": "assets/pt-BR/Krobus/104.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Powiem Ci sekret... Tak naprawdę nie śpię, tylko leżę z zamkniętymi oczami..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_7",
+          "DialogueText": "Jesteś dziwną osobą, skoro chcesz mieszkać z taką kreaturą jak ja.",
+          "AudioPath": "assets/pt-BR/Krobus/105.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_7",
+          "PageIndex": 0,
+          "DisplayPattern": "Jesteś dziwną osobą, skoro chcesz mieszkać z taką kreaturą jak ja."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_8",
+          "DialogueText": "Posprzątam dziś dom! Lubię to robić. {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Krobus/106.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Posprzątam dziś dom! Lubię to robić."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Neutral_9",
+          "DialogueText": "Zastanawiam się, czy zostaniemy tu na całe życie? Przeprowadzka byłaby dla mnie zbyt niebezpieczna.",
+          "AudioPath": "assets/pt-BR/Krobus/107.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Neutral_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się, czy zostaniemy tu na całe życie? Przeprowadzka byłaby dla mnie zbyt niebezpieczna."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/NoBed_0",
+          "DialogueText": "Gdzie ja mam teraz spać...? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/108.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdzie ja mam teraz spać...?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/NoBed_1",
+          "DialogueText": "Źle mi się dzisiaj spało... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/109.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Źle mi się dzisiaj spało..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/NoBed_2",
+          "DialogueText": "Spanie na ziemi nie należy do najwygodniejszych... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/110.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Spanie na ziemi nie należy do najwygodniejszych..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/NoBed_3",
+          "DialogueText": "Czy coś się stało z naszym łóżkiem...? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/111.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy coś się stało z naszym łóżkiem...?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/OneKid_0",
+          "DialogueText": "Posiedziałeś dzisiaj trochę z %kid1?",
+          "AudioPath": "assets/pt-BR/Krobus/112_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Posiedziałeś dzisiaj trochę z ?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/OneKid_0",
+          "DialogueText": "Posiedziałaś dzisiaj trochę z %kid1?",
+          "AudioPath": "assets/pt-BR/Krobus/113_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_0",
+          "PageIndex": 1,
+          "DisplayPattern": "Posiedziałaś dzisiaj trochę z ?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/OneKid_1",
+          "DialogueText": "Zastanawiam się, czy %kid1 będzie farmerem, tak jak ty.",
+          "AudioPath": "assets/pt-BR/Krobus/114.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się, czy będzie erem, tak jak ty."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/OneKid_2",
+          "DialogueText": "Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.",
+          "AudioPath": "assets/pt-BR/Krobus/115.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/OneKid_3",
+          "DialogueText": "Nie wiem, jak to się stało, ale Yoba pobłogosławił ten dom dzieckiem...",
+          "AudioPath": "assets/pt-BR/Krobus/116.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:OneKid_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wiem, jak to się stało, ale Yoba pobłogosławił ten dom dzieckiem..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_0",
+          "DialogueText": "Postoję tu chwilę, ale musimy uważać... Jeśli ktoś się zbliży, będę musiał się schować!",
+          "AudioPath": "assets/pt-BR/Krobus/117.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Postoję tu chwilę, ale musimy uważać... Jeśli ktoś się zbliży, będę musiał się schować!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_1",
+          "DialogueText": "Rzadko wychodzę na zewnątrz!",
+          "AudioPath": "assets/pt-BR/Krobus/118.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Rzadko wychodzę na zewnątrz!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_2",
+          "DialogueText": "Cóż za piękny dzień! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/119.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż za piękny dzień!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_3",
+          "DialogueText": "Szerokie przestrzenie mnie stresują... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/120.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Szerokie przestrzenie mnie stresują..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_4",
+          "DialogueText": "Proszę, zajmij się swoim dniem. Ja postoję tutaj i popilnuję domu.",
+          "AudioPath": "assets/pt-BR/Krobus/121.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Proszę, zajmij się swoim dniem. Ja postoję tutaj i popilnuję domu."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_Krobus",
+          "DialogueText": "Zaczekam tu chwilę i zobaczę, czy jakiś owad nie zmierza w moją stronę.",
+          "AudioPath": "assets/pt-BR/Krobus/122.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaczekam tu chwilę i zobaczę, czy jakiś owad nie zmierza w moją stronę."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Outdoor_Krobus",
+          "DialogueText": "Jeszcze nie jadłem śniadania!",
+          "AudioPath": "assets/pt-BR/Krobus/123.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Outdoor_Krobus",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeszcze nie jadłem śniadania!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_0",
+          "DialogueText": "Lubisz deszcz tak samo jak ja, {Farmer_Name}?",
+          "AudioPath": "assets/pt-BR/Krobus/124.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Lubisz deszcz tak samo jak ja, ?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_1",
+          "DialogueText": "Różnimy się pod wieloma względami... Ale to nic złego.",
+          "AudioPath": "assets/pt-BR/Krobus/125.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Różnimy się pod wieloma względami... Ale to nic złego."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_2",
+          "DialogueText": "Dzień dobry, {Farmer_Name}. Wyszedłem wcześniej i znalazłem to dla Ciebie. [305 308 203 795 397]",
+          "AudioPath": "assets/pt-BR/Krobus/126.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzień dobry, . Wyszedłem wcześniej i znalazłem to dla Ciebie."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_2",
+          "DialogueText": "Mam nadzieję, że to nie jest dziwne.",
+          "AudioPath": "assets/pt-BR/Krobus/127.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam nadzieję, że to nie jest dziwne."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_3",
+          "DialogueText": "Zastanawiam się, czy Czarodziej wie o... tym? Mam nadzieję, że potrafi dochować tajemnicy. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/128.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się, czy Czarodziej wie o... tym? Mam nadzieję, że potrafi dochować tajemnicy."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_4",
+          "DialogueText": "Staram się zachowywać normalnie, ale mam ochotę trochę popsocić... {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Krobus/129.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Staram się zachowywać normalnie, ale mam ochotę trochę popsocić..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_4",
+          "DialogueText": "Mówią, że to normalne wśród mojego ludu.",
+          "AudioPath": "assets/pt-BR/Krobus/130.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_4",
+          "PageIndex": 1,
+          "DisplayPattern": "Mówią, że to normalne wśród mojego ludu."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Day_Krobus",
+          "DialogueText": "Ach, dziś jest bardzo wilgotno... Jak przyjemnie.",
+          "AudioPath": "assets/pt-BR/Krobus/131.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Day_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, dziś jest bardzo wilgotno... Jak przyjemnie."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_0",
+          "DialogueText": "W noce jak ta, gdy spojrzysz przez okno, czasem widać mroczne sylwetki. I pomyśleć... że to mogłem być ja. {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Krobus/132.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_0",
+          "PageIndex": 0,
+          "DisplayPattern": "W noce jak ta, gdy spojrzysz przez okno, czasem widać mroczne sylwetki. I pomyśleć... że to mogłem być ja."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_1",
+          "DialogueText": "Gdyby inni Cieniści dowiedzieli się o naszym związku, mogliby... mnie 'ukarać'. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/133.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdyby inni Cieniści dowiedzieli się o naszym związku, mogliby... mnie 'ukarać'."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_1",
+          "DialogueText": "Większość z nich nienawidzi ludzi, pewnie o tym wiesz.",
+          "AudioPath": "assets/pt-BR/Krobus/134.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Większość z nich nienawidzi ludzi, pewnie o tym wiesz."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_2",
+          "DialogueText": "Czy chłód nie jest groźny dla waszego gatunku? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Krobus/135.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy chłód nie jest groźny dla waszego gatunku?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_3",
+          "DialogueText": "Zjadłem już kolację, ale to nie było nic jadalnego dla Twojego gatunku... Wybacz.",
+          "AudioPath": "assets/pt-BR/Krobus/136.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Zjadłem już kolację, ale to nie było nic jadalnego dla Twojego gatunku... Wybacz."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_4",
+          "DialogueText": "Odkąd opuściłem swój lud, szukałem nowego domu... Teraz czuję, że gdzieś należę. To dla mnie wiele znaczy.",
+          "AudioPath": "assets/pt-BR/Krobus/137.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Odkąd opuściłem swój lud, szukałem nowego domu... Teraz czuję, że gdzieś należę. To dla mnie wiele znaczy."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_5",
+          "DialogueText": "Mówią, że mój lud przybył tutaj dawno temu, gdy wielka katastrofa pozwoliła duszom z mroku przeniknąć do fizycznej płaszczyzny.",
+          "AudioPath": "assets/pt-BR/Krobus/138.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówią, że mój lud przybył tutaj dawno temu, gdy wielka katastrofa pozwoliła duszom z mroku przeniknąć do fizycznej płaszczyzny."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_Krobus",
+          "DialogueText": "Dźwięk deszczu przypomina mi ścieki... To bardzo kojące.",
+          "AudioPath": "assets/pt-BR/Krobus/139.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Dźwięk deszczu przypomina mi ścieki... To bardzo kojące."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/Rainy_Night_Krobus",
+          "DialogueText": "Ścieki były moją kryjówką... Czułem się tam bezpiecznie. Ale nie martw się... Tutaj też tak się czuję.",
+          "AudioPath": "assets/pt-BR/Krobus/140.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:Rainy_Night_Krobus",
+          "PageIndex": 1,
+          "DisplayPattern": "Ścieki były moją kryjówką... Czułem się tam bezpiecznie. Ale nie martw się... Tutaj też tak się czuję."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spouseRoom_Krobus",
+          "DialogueText": "Jesteśmy różni, życie razem to wyzwanie, prawda?",
+          "AudioPath": "assets/pt-BR/Krobus/141.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spouseRoom_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Jesteśmy różni, życie razem to wyzwanie, prawda?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spouseRoom_Krobus",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pt-BR/Krobus/142.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spouseRoom_Krobus",
+          "PageIndex": 1,
+          "DisplayPattern": "$e"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spouseRoom_Krobus",
+          "DialogueText": "Mam nadzieję, że tutejsza wilgoć Ci nie przeszkadza. Musimy czasem iść na kompromis, żeby móc razem mieszkać!",
+          "AudioPath": "assets/pt-BR/Krobus/143.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spouseRoom_Krobus",
+          "PageIndex": 2,
+          "DisplayPattern": "Mam nadzieję, że tutejsza wilgoć Ci nie przeszkadza. Musimy czasem iść na kompromis, żeby móc razem mieszkać!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_1",
+          "DialogueText": "Co planujesz na ten rok, {Farmer_Name}?",
+          "AudioPath": "assets/pt-BR/Krobus/144.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Co planujesz na ten rok, ?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_12",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/145.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_12",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_19",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/146.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_19",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_23",
+          "DialogueText": "Idź na jutrzejszy Taniec Kwiatów! Nie przejmuj się mną.",
+          "AudioPath": "assets/pt-BR/Krobus/147.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_23",
+          "PageIndex": 0,
+          "DisplayPattern": "Idź na jutrzejszy Taniec Kwiatów! Nie przejmuj się mną."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_26",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/148.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_26",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_5",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/149.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_5",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_8",
+          "DialogueText": "Po tej zimie czeka nas sporo roboty.",
+          "AudioPath": "assets/pt-BR/Krobus/150.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:spring_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Po tej zimie czeka nas sporo roboty."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/spring_Krobus",
+          "DialogueText": "To już 'wiosna', prawda? Czuję intensywny zapach dzikiego chrzanu.",
+          "AudioPath": "assets/pt-BR/Krobus/151.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:spring_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "To już 'wiosna', prawda? Czuję intensywny zapach dzikiego chrzanu."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_1",
+          "DialogueText": "Moja skóra jest bardzo wrażliwa na słońce, więc muszę być ostrożny.",
+          "AudioPath": "assets/pt-BR/Krobus/152.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Moja skóra jest bardzo wrażliwa na słońce, więc muszę być ostrożny."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_12",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/153.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_12",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_15",
+          "DialogueText": "Lato... A to oznacza, że w domu roi się od much.",
+          "AudioPath": "assets/pt-BR/Krobus/154.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_15",
+          "PageIndex": 0,
+          "DisplayPattern": "Lato... A to oznacza, że w domu roi się od much."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_15",
+          "DialogueText": "Nie martw się, zajmę się nimi. Dobre źródło białka! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/155.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_15",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie martw się, zajmę się nimi. Dobre źródło białka!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_19",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/156.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_19",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_26",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/157.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_26",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_5",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/158.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_5",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_8",
+          "DialogueText": "Mmm... Co to za zapach? Ludzie często się pocą w taką pogodę... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/159.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Mmm... Co to za zapach? Ludzie często się pocą w taką pogodę..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/summer_Krobus",
+          "DialogueText": "Nazywacie tę porę roku 'latem', tak? Ciepło i wilgoć są przyjemne, ale wolałbym, żeby nie było aż tak słonecznie.",
+          "AudioPath": "assets/pt-BR/Krobus/160.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:summer_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Nazywacie tę porę roku 'latem', tak? Ciepło i wilgoć są przyjemne, ale wolałbym, żeby nie było aż tak słonecznie."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/TwoKids_0",
+          "DialogueText": "Nie martw się... Przygotowałem dla %kid1 i %kid2 mroczny omlet.",
+          "AudioPath": "assets/pt-BR/Krobus/161.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:TwoKids_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się... Przygotowałem dla i mroczny omlet."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/TwoKids_1",
+          "DialogueText": "Musimy poświęcać %kid1 dużo uwagi, odkąd mamy %kid2. Nie chcemy między nimi żadnej zazdrości.",
+          "AudioPath": "assets/pt-BR/Krobus/162.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:TwoKids_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Musimy poświęcać dużo uwagi, odkąd mamy . Nie chcemy między nimi żadnej zazdrości."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/TwoKids_2",
+          "DialogueText": "Martwię się o przyszłość dzieci... Ale wierzę, że Yoba ma wobec nich plan.",
+          "AudioPath": "assets/pt-BR/Krobus/163.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:TwoKids_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Martwię się o przyszłość dzieci... Ale wierzę, że Yoba ma wobec nich plan."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/TwoKids_3",
+          "DialogueText": "Ten dom został pobłogosławiony drugim dzieckiem... Czy to znak, że Yoba popiera naszą przyjaźń?",
+          "AudioPath": "assets/pt-BR/Krobus/164.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:TwoKids_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten dom został pobłogosławiony drugim dzieckiem... Czy to znak, że Yoba popiera naszą przyjaźń?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_1",
+          "DialogueText": "Brrr.... Ale mróz. Chyba nadeszła zima.",
+          "AudioPath": "assets/pt-BR/Krobus/165.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:winter_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Brrr.... Ale mróz. Chyba nadeszła zima."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_12",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/166.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:winter_12",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_19",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/167.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:winter_19",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_26",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/168.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:winter_26",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_28",
+          "DialogueText": "Dziękuję, że mogę tu być, {Farmer_Name}. Nie mogę się doczekać nowego roku! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Krobus/169.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:winter_28",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję, że mogę tu być, . Nie mogę się doczekać nowego roku!"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_5",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Krobus/170.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:winter_5",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_7",
+          "DialogueText": "Weźmiesz jutro udział w zawodach w łowieniu ryb?",
+          "AudioPath": "assets/pt-BR/Krobus/171.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:winter_7",
+          "PageIndex": 0,
+          "DisplayPattern": "Weźmiesz jutro udział w zawodach w łowieniu ryb?"
+        },
+        {
+          "DialogueFrom": "Marriage/Krobus/winter_Krobus",
+          "DialogueText": "Noc zimą jest bardzo kojąca. Gdyby tylko było trochę cieplej!",
+          "AudioPath": "assets/pt-BR/Krobus/172.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueKrobus:winter_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Noc zimą jest bardzo kojąca. Gdyby tylko było trochę cieplej!"
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Ach, ścieki dziś szybko płyną. Będzie tu przyjemnie i wilgotno... Tak jak lubię.",
+          "AudioPath": "assets/pt-BR/Krobus/173.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, ścieki dziś szybko płyną. Będzie tu przyjemnie i wilgotno... Tak jak lubię."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s0",
+          "DialogueText": "If you dwarves hadn't driven us from our ancestral home, we'd never have had to resort to violence!",
+          "AudioPath": "assets/pt-BR/Krobus/174.ogg",
+          "TranslationKey": "Events/Sewer:691039:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "If you dwarves hadn't driven us from our ancestral home, we'd never have had to resort to violence!"
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s1",
+          "DialogueText": "I'm sorry about your family.",
+          "AudioPath": "assets/pt-BR/Krobus/175.ogg",
+          "TranslationKey": "Events/Sewer:691039:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm sorry about your family."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s2",
+          "DialogueText": "Come and get it, shrimpy.",
+          "AudioPath": "assets/pt-BR/Krobus/176.ogg",
+          "TranslationKey": "Events/Sewer:691039:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Come and get it, shrimpy."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s3",
+          "DialogueText": "...And I'm truly sorry about the past, Dwarf. I have no personal gripe with you.",
+          "AudioPath": "assets/pt-BR/Krobus/177.ogg",
+          "TranslationKey": "Events/Sewer:691039:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "...And I'm truly sorry about the past, Dwarf. I have no personal gripe with you."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Krobus_y2",
+          "DialogueText": "C-co ty tu robisz? {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Krobus/178.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Krobus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "C-co ty tu robisz?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Krobus:s0",
+          "DialogueText": "To wspaniały prezent. Dla nas to wielki zaszczyt.",
+          "AudioPath": "assets/pt-BR/Krobus/179.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Krobus:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "To wspaniały prezent. Dla nas to wielki zaszczyt."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Krobus:s1",
+          "DialogueText": "Bardzo Ci dziękuję.",
+          "AudioPath": "assets/pt-BR/Krobus/180.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Krobus:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Bardzo Ci dziękuję."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Krobus:s2",
+          "DialogueText": "Ludzie mają... interesujące upodobania.",
+          "AudioPath": "assets/pt-BR/Krobus/181.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Krobus:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ludzie mają... interesujące upodobania."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Krobus:s3",
+          "DialogueText": "Och... eee... Chyba to przyjmę.",
+          "AudioPath": "assets/pt-BR/Krobus/182.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Krobus:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... eee... Chyba to przyjmę."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Krobus:s4",
+          "DialogueText": "Dziękuję.",
+          "AudioPath": "assets/pt-BR/Krobus/183.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Krobus:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_fall_movie_0_BeforeMovie",
+          "DialogueText": "Psst... Hej, to ja. Krobus. Możesz mnie rozpoznać? {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/184.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_fall_movie_0_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Psst... Hej, to ja. Krobus. Możesz mnie rozpoznać?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_fall_movie_0_BeforeMovie",
+          "DialogueText": "Jeśli ktoś do nas podejdzie, ty gadaj, ok? {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/185.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_fall_movie_0_BeforeMovie",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli ktoś do nas podejdzie, ty gadaj, ok?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_fall_movie_0_DuringMovie",
+          "DialogueText": "Nie wszyscy cieniści są tacy! {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/186.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_fall_movie_0_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wszyscy cieniści są tacy!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_fall_movie_0_DuringMovie_2",
+          "DialogueText": "Krobus się krztusi...",
+          "AudioPath": "assets/pt-BR/Krobus/187.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_fall_movie_0_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Krobus się krztusi..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_fall_movie_0_AfterMovie",
+          "DialogueText": "Nie jestem przyzwyczajony do noszenia ubrań... To jest bardzo niekomfortowe! {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/188.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_fall_movie_0_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie jestem przyzwyczajony do noszenia ubrań... To jest bardzo niekomfortowe!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_*_BeforeMovie",
+          "DialogueText": "*Ekkhem*... Witaj! Jestem bardzo podekscytowany, że mogę być w centrum rozrywki wizualnej i jeść prażoną kukurydzę... Tak jak ty! {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/189.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_*_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ekkhem*... Witaj! Jestem bardzo podekscytowany, że mogę być w centrum rozrywki wizualnej i jeść prażoną kukurydzę... Tak jak ty!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_*_BeforeMovie",
+          "DialogueText": "*szept*... Jak mi idzie? {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/190.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_*_BeforeMovie",
+          "PageIndex": 1,
+          "DisplayPattern": "*szept*... Jak mi idzie?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Krobus_*_AfterMovie",
+          "DialogueText": "Czyli, Twój gatunek lubi godzinami oglądać błyszczące światełka? Ciekawe... {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Krobus/191.ogg",
+          "TranslationKey": "Strings/MovieReactions:Krobus_*_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Czyli, Twój gatunek lubi godzinami oglądać błyszczące światełka? Ciekawe..."
+        }
+      ]
+    }
+  ]
+}

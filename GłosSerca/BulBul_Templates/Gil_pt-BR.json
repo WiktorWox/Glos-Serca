@@ -1,0 +1,172 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "Wiktor.Test3.Gil.pt-BR",
+      "VoicePackName": "BulBul (Gil - pt-BR)",
+      "Character": "Gil",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Snoring",
+          "DialogueText": "...*chrapie*...",
+          "AudioPath": "assets/pt-BR/Gil/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Gil:Snoring",
+          "PageIndex": 0,
+          "DisplayPattern": "...*chrapie*..."
+        },
+        {
+          "DialogueFrom": "ComeBackLater",
+          "DialogueText": "... Wróć, gdy coś osiągniesz, smyku.",
+          "AudioPath": "assets/pt-BR/Gil/2_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Gil:ComeBackLater",
+          "PageIndex": 0,
+          "DisplayPattern": "... Wróć, gdy coś osiągniesz, smyku.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ComeBackLater",
+          "DialogueText": "Panienka wróci gdy coś osiągnie.",
+          "AudioPath": "assets/pt-BR/Gil/3_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Gil:ComeBackLater",
+          "PageIndex": 1,
+          "DisplayPattern": "Panienka wróci gdy coś osiągnie.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_NoRating",
+          "DialogueText": "Nastał nowy dzień... wróć gdy się wykażesz w pieczarze.",
+          "AudioPath": "assets/pt-BR/Gil/4.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_NoRating",
+          "PageIndex": 0,
+          "DisplayPattern": "Nastał nowy dzień... wróć gdy się wykażesz w pieczarze."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_NextYear",
+          "DialogueText": "To tyle na ten rok... *chrapie*...",
+          "AudioPath": "assets/pt-BR/Gil/5.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_NextYear",
+          "PageIndex": 0,
+          "DisplayPattern": "To tyle na ten rok... *chrapie*..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_ComeBack",
+          "DialogueText": "To tyle na dzisiaj. Wróć jutro, jeśli się odważysz... *chrapie*...",
+          "AudioPath": "assets/pt-BR/Gil/6.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_ComeBack",
+          "PageIndex": 0,
+          "DisplayPattern": "To tyle na dzisiaj. Wróć jutro, jeśli się odważysz... *chrapie*..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_SubmitRating",
+          "DialogueText": "Pokazać Gilowi ile udało Ci się zdobyć jajek?",
+          "AudioPath": "assets/pt-BR/Gil/7_male.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_SubmitRating",
+          "PageIndex": 0,
+          "DisplayPattern": "Pokazać Gilowi ile udało Ci się zdobyć jajek?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_SubmitRating",
+          "DialogueText": "(Zdobyte jajka {0})",
+          "AudioPath": "assets/pt-BR/Gil/8_female.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_SubmitRating",
+          "PageIndex": 1,
+          "DisplayPattern": "(Zdobyte jajka {0})",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_1to4",
+          "DialogueText": "...{0}? Ha ha ha ha.... dobrze, dzidziusiu. Oto Twoja nagródka... a teraz idź pobawić się z innymi dzieciaczkami.",
+          "AudioPath": "assets/pt-BR/Gil/9.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_1to4",
+          "PageIndex": 0,
+          "DisplayPattern": "...{0}? Ha ha ha ha.... dobrze, dzidziusiu. Oto Twoja nagródka... a teraz idź pobawić się z innymi dzieciaczkami."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_5to9",
+          "DialogueText": "...{0}? Nie jest to zbyt imponujące, ale przynajmniej się odważyłeś. Oto małe co nieco.",
+          "AudioPath": "assets/pt-BR/Gil/10_male.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_5to9",
+          "PageIndex": 0,
+          "DisplayPattern": "...{0}? Nie jest to zbyt imponujące, ale przynajmniej się odważyłeś. Oto małe co nieco.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_5to9",
+          "DialogueText": "...{0}? Nie jest to zbyt imponujące, ale przynajmniej się odważyłaś. Oto małe co nieco.",
+          "AudioPath": "assets/pt-BR/Gil/11_female.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_5to9",
+          "PageIndex": 1,
+          "DisplayPattern": "...{0}? Nie jest to zbyt imponujące, ale przynajmniej się odważyłaś. Oto małe co nieco.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_10to14",
+          "DialogueText": "{0}, co? Nie najgorzej... oczywiście jak byłem w Twoim wieku to zdobywałem dwa razy tyle. Zardzewiałym Mieczem i na czczo!",
+          "AudioPath": "assets/pt-BR/Gil/12.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_10to14",
+          "PageIndex": 0,
+          "DisplayPattern": "{0}, co? Nie najgorzej... oczywiście jak byłem w Twoim wieku to zdobywałem dwa razy tyle. Zardzewiałym Mieczem i na czczo!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_15to19",
+          "DialogueText": "{0}... Nie jest źle. Takich numerów szukamy w Gildii Awanturników. Oto Twoja nagroda.",
+          "AudioPath": "assets/pt-BR/Gil/13.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_15to19",
+          "PageIndex": 0,
+          "DisplayPattern": "{0}... Nie jest źle. Takich numerów szukamy w Gildii Awanturników. Oto Twoja nagroda."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_20to24",
+          "DialogueText": "{0}? Dobra, jestem pod wrażeniem...",
+          "AudioPath": "assets/pt-BR/Gil/14.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_20to24",
+          "PageIndex": 0,
+          "DisplayPattern": "{0}? Dobra, jestem pod wrażeniem..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_20to24",
+          "DialogueText": "Hej, Marlon! Słuchaj tu... {0} jajek na dzień dzisiejszy!",
+          "AudioPath": "assets/pt-BR/Gil/15.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_20to24",
+          "PageIndex": 1,
+          "DisplayPattern": "Hej, Marlon! Słuchaj tu... {0} jajek na dzień dzisiejszy!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_25",
+          "DialogueText": "{0}!?!",
+          "AudioPath": "assets/pt-BR/Gil/16.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_25",
+          "PageIndex": 0,
+          "DisplayPattern": "{0}!?!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_25",
+          "DialogueText": "No niech mnie... Mamy tu prawdziwego łowce Jajek Calico!",
+          "AudioPath": "assets/pt-BR/Gil/17.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_25",
+          "PageIndex": 1,
+          "DisplayPattern": "No niech mnie... Mamy tu prawdziwego łowce Jajek Calico!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_50",
+          "DialogueText": "{0}!?!?!?!?!?!?!? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Gil/18.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_50",
+          "PageIndex": 0,
+          "DisplayPattern": "{0}!?!?!?!?!?!?!?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_1000",
+          "DialogueText": "Słyszysz głos w swojej podświadomości: 'Pokazywanie ile jajek zdobyło się używając oszustw nie byłoby honorowe!'",
+          "AudioPath": "assets/pt-BR/Gil/19.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Gil_Rating_1000",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszysz głos w swojej podświadomości: 'Pokazywanie ile jajek zdobyło się używając oszustw nie byłoby honorowe!'"
+        }
+      ]
+    }
+  ]
+}

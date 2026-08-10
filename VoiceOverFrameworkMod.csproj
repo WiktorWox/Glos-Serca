@@ -14,6 +14,9 @@
 		<Compile Include="Class\**\*.cs" />
 		<Compile Include="Menus\**\*.cs" />
 		<Compile Include="Libs\NVorbis\**\*.cs" />
+		  <Content Include="VoicePacks\**\*">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
 	</ItemGroup>
 
 
@@ -30,7 +33,11 @@
 
 
 
-
+	<ItemGroup>
+		<None Include="GłosSerca\**\*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
 
 
 
