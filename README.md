@@ -2,11 +2,10 @@
 
 Mod dodający polski dubbing dla Stardew Valley. Tworzony przez mniejsze i większe osobistości polskiej sceny Voice Actingowej.
 
-## Użyte projekty
-**VoiceOverFrameworkMod** stworzone przez *jessevang*
-- [https://github.com/jessevang/VoiceOverFrameworkMod](https://github.com/jessevang/VoiceOverFrameworkMod)  
-- Pod [licencją MIT](thirdparty/NVorbis_License.txt)
+Tworzony na bazie [**VoiceOverFrameworkMod**](https://github.com/jessevang/VoiceOverFrameworkMod) stworzonego przez *jessevang*
+- [https://github.com/jessevang/VoiceOverFrameworkMod]
 
-**NVorbis** stworzone przez *Andrew Ward*
-- [https://github.com/NVorbis/NVorbis](https://github.com/NVorbis/NVorbis)  
+## Biblioteki zewnętrzne
+
+[**NVorbis**](https://github.com/NVorbis/NVorbis) stworzone przez *Andrew Ward*
 - Pod [licencją MIT](thirdparty/NVorbis_License.txt)

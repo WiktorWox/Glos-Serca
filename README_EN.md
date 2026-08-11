@@ -2,13 +2,9 @@
 
 Mod adding polish dubbing for Stardew Valley. Made by smaller and bigger people from polish Voice Acting community
 
-## Used projects
-**VoiceOverFrameworkMod** by *jessevang*
-- [https://github.com/jessevang/VoiceOverFrameworkMod](https://github.com/jessevang/VoiceOverFrameworkMod)  
-- Licensed under the [MIT License](thirdparty/NVorbis_License.txt)
+Made on base of [**VoiceOverFrameworkMod**](https://github.com/jessevang/VoiceOverFrameworkMod) by *jessevang*
 
-**NVorbis** by *Andrew Ward*
-- [https://github.com/NVorbis/NVorbis](https://github.com/NVorbis/NVorbis)  
-- Licensed under the [MIT License](thirdparty/NVorbis_License.txt)
+## Third-party libraries
 
-Mod under MIT Licence
+[**NVorbis**](https://github.com/NVorbis/NVorbis) by *Andrew Ward*
+- Under [MIT License](thirdparty/NVorbis_License.txt)
