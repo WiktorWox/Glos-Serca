@@ -69,7 +69,7 @@ namespace VoiceOverFrameworkMod
             int totalFilesLoaded = 0;
             int totalDefinitionsProcessed = 0; // Keep track of inner definitions too
 
-            var contentPack = this.Helper.ContentPacks.CreateFake(Path.Combine(this.Helper.DirectoryPath, "GłosSerca", "BulBul_Templates"));
+            var contentPack = this.Helper.ContentPacks.CreateFake(Path.Combine(this.Helper.DirectoryPath, "GłosSerca", "VoicePack"));
             {
                 this.Monitor.Log($"Scanning Content Pack: '{contentPack.Manifest.Name}' ({contentPack.Manifest.UniqueID}) at {contentPack.DirectoryPath}", LogLevel.Trace);
                 string packDir = contentPack.DirectoryPath;

@@ -52,13 +52,14 @@ namespace VoiceOverFrameworkMod
 
         private void CheckForDialogueV2()
         {
+            // relax thresholds near top of CheckForDialogueV2
             const bool ENABLE_PACK_FUZZY = true;          // same-language only
-            const double PACK_FUZZY_THRESHOLD = 0.80;
-            const int PACK_MIN_LEN_FOR_FUZZY = 6;
+            const double PACK_FUZZY_THRESHOLD = 0.65;     // lowered from 0.80
+            const int PACK_MIN_LEN_FOR_FUZZY = 3;         // lowered from 6
 
             // dictionary-side fuzzy (cross-language only)
-            const int DICT_MIN_LEN = 6;
-            const double DICT_FUZZY_THRESHOLD = 0.80;
+            const int DICT_MIN_LEN = 3;
+            const double DICT_FUZZY_THRESHOLD = 0.65;
 
             // — helpers (local) —
             static string FixCjkSpaces(string s)

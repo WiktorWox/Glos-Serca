@@ -342,9 +342,12 @@ namespace VoiceOverFrameworkMod
 
                 // Convert float samples to 16-bit PCM
                 byte[] byteBuffer = new byte[samplesRead * sizeof(short)];
+                float gain = Config?.MasterVolume ?? 1.0f; // may be >1
                 for (int i = 0; i < samplesRead; i++)
                 {
-                    short pcmSample = (short)Math.Clamp(floatBuffer[i] * short.MaxValue, short.MinValue, short.MaxValue);
+                    // apply gain then clamp to [-1,1] to avoid overflow
+                    float amplified = Math.Clamp(floatBuffer[i] * gain, -1.0f, 1.0f);
+                    short pcmSample = (short)(amplified * short.MaxValue);
                     byteBuffer[i * 2] = (byte)(pcmSample & 0xFF);
                     byteBuffer[i * 2 + 1] = (byte)((pcmSample >> 8) & 0xFF);
                 }

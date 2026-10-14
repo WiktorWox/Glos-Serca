@@ -1,0 +1,2288 @@
+DialogueFrom: 4
+DialogueText: O, Cześć.
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: A, no tak... Słyszałam, że będziemy mieli nowego farmera.
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: W sumie to trochę szkoda. Zawsze lubiłam chodzić po tych zarośniętych polach. {Portrait:Custom:9}
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Accept
+DialogueText: Hej, pewnie. Zróbmy to. Razem się powstydzimy. {Portrait:Happy}
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: Hej, pamiętasz o moich urodzinach... Dzięki, {Farmer_Name}! To miłe z Twojej strony! {Portrait:Happy}
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: Hej, pamiętasz o moich urodzinach... Dzięki, {Farmer_Name}! {Portrait:Happy}
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: Och, to, eeem... *niuch*... co to? {Portrait:Sad}
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: Wow... piękny kolor, tak jak ametyst. Dzięki!
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(TR)BasiliskPaw
+DialogueText: Obrzydliwe... Podoba mi się! {Portrait:Happy}
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)SkillBook_4
+DialogueText: Hej, to moja ulubiona gazeta! Tata nie pozwala mi wykupić subskrypcji, więc muszę kupować to na czarnym rynku... {Portrait:Happy}
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)Book_Void
+DialogueText: Łoo, to dziwnie wyglądająca książka... Podoba mi się!
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)Book_Void
+DialogueText: ... Oo... Jest w niej dużo potworów... {Portrait:Happy}
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)Book_Void
+DialogueText: Muszę ją przejrzeć zanim pójdę do jaskiń... Dzięki!
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)109
+DialogueText: Łoo... Skąd to masz? Jakość wykonania jest fascynująca...
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)109
+DialogueText: Jest trochę zardzewiały, ale dodam go do mojej kolekcji.
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)119
+DialogueText: Tak się zastanawiam... Tysiące lat temu, pewnie była gdzieś mała fioletowowłosa neandertalska dziewczynka, która grała na tym flecie, tak jak ja.
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)119
+DialogueText: ... Lepiej go umyję zanim spróbuję na nim zagrać. {Portrait:Happy}
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)66
+DialogueText: Wow... to mój ulubiony kolor! Dzięki, {Farmer_Name}! {Portrait:Happy}
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)66
+DialogueText: Dziękuję! To mój ulubiony kamień. Jest taki piękny.
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Chcę iść odkrywać, ale wiem, że mama się martwi. Nie chcę jej dodawać stresu.
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: GreenRainFinished
+DialogueText: I w taki sposób wszystko wróciło do normy. Magia! {Portrait:Happy}
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Widziałeś te wszystkie dziwne drzewa w mieście? Wszystko wygląda inaczej... czuję się jak w jakimś wróżkowym świecie.
+AudioName: 22_male.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Widziałaś te wszystkie dziwne drzewa w mieście? Wszystko wygląda inaczej... czuję się jak w jakimś wróżkowym świecie.
+AudioName: 23_female.ogg
+--------------------------------------------------
+DialogueFrom: cc_Begin
+DialogueText: Nie mów nikomu, ale wczoraj w nocy wkradłam się do domu kultury... Wydaje mi się, że jest nawiedzony!
+AudioName: 24.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)279
+DialogueText: O, wow... {Farmer_Name}! Na pewno chcesz mi to dać? To jest bardzo rzadkie!
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)279
+DialogueText: Przyznaję, że już mi cieknie ślinka... {Portrait:Happy}
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: mineArea_10_oneday
+DialogueText: Słyszałam, że odkrywasz stare kopalnie. Brzmi jak frajda! {Portrait:Happy}
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: mineArea_10_oneday
+DialogueText: ... Próbuję zebrać się w sobie, żeby tam zejść... {Portrait:Sad}
+AudioName: 28.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_733330_memory_oneday
+DialogueText: Sam i Sebastian spytali, czy chcę zagrać w ich kapeli na bębnach... Nigdy wcześniej nie grałam na bębnach, ale dobrze się przy tym bawię.
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_733330_memory_oneday
+DialogueText: Trzeba się nauczyć poruszać kończynami w innych rytmach, w tym samym czasie. Czuję, że mózg mi rośnie. {Portrait:Happy}
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_1_memory_oneweek
+DialogueText: Hej, w końcu przeszłam pierwszy poziom w Podróży Króla Prerii! Oglądanie jak grasz bardzo pomogło.
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_2_memory_oneday
+DialogueText: Sebastian mówił, że wczoraj przy obiedzie słyszał dziwną muzykę...
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_2_memory_oneday
+DialogueText: Nie mówiłam mu, że to my! Wydawało się lepiej zachować to w tajemnicy. {Portrait:Happy}
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_3
+DialogueText: Dusze mają własne zdanie... {Portrait:Love}
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: wonEggHunt
+DialogueText: Jak się czujesz po polowaniu na jajka? Cóż, za rok nie ma zmiłuj... {Portrait:Unique}
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: wonEggHunt_memory_oneyear
+DialogueText: Nadal jestem zła za polowanie na jajka w tamtym roku. Lepiej zacznij ćwiczyć...
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: dating_Abigail
+DialogueText: Abigail jest zarumieniona, ale wygląda na szczęśliwą.
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: dating_Abigail_memory_oneday
+DialogueText: ... Jesteś uroczy. {Portrait:Love}
+AudioName: 38_male.ogg
+--------------------------------------------------
+DialogueFrom: dating_Abigail_memory_oneday
+DialogueText: ... Jesteś urocza. {Portrait:Love}
+AudioName: 39_female.ogg
+--------------------------------------------------
+DialogueFrom: dating_Abigail_memory_oneyear
+DialogueText: Eem... {Farmer_Name}? Spotykamy się już prawie rok. Czy to gdziekolwiek zmierza? {Portrait:Sad}
+AudioName: 40.ogg
+--------------------------------------------------
+DialogueFrom: dating_Sebastian_memory_oneday
+DialogueText: Słyszałam, że spotykacie się z Sebastianem... Nie miałam pojęcia, że między wami coś jest... {Portrait:Custom:6}
+AudioName: 41.ogg
+--------------------------------------------------
+DialogueFrom: dating_Sam
+DialogueText: Hej, Słyszałam, że spotykacie się z Samem... To naprawdę dobry facet! {Portrait:Happy}
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: dating_Sam
+DialogueText: Długo się już przyjaźnimy. Lepiej dobrze go traktuj, bo będziesz mieć do czynienia ze mną!
+AudioName: 43.ogg
+--------------------------------------------------
+DialogueFrom: married_Sebastian
+DialogueText: Gratuluję wyjścia za mąż. Najwidoczniej Sebastian nie przeprowadzi się do miasta, jak to ciągle gadał. {Portrait:Custom:6}
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: married_Sebastian
+DialogueText: I dobrze. Byłoby mi przykro, jakby go tu nie było. Od zawsze jesteśmy dobrymi przyjaciółmi. {Portrait:Custom:6}
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: married_Sam
+DialogueText: Ha ha... Nie mogę uwierzyć w to, że Sam jest po ślubie. Kto by pomyślał? {Portrait:Happy}
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: married_Sam
+DialogueText: Żarty na bok. Myślę, że będzie dobrym ojcem.
+AudioName: 47.ogg
+--------------------------------------------------
+DialogueFrom: movieTheater
+DialogueText: Słyszałeś o nowym kinie? Nie mogę się doczekać, aż je sprawdzę! {Portrait:Happy}
+AudioName: 48_male.ogg
+--------------------------------------------------
+DialogueFrom: movieTheater
+DialogueText: Słyszałaś o nowym kinie? Nie mogę się doczekać, aż je sprawdzę! {Portrait:Happy}
+AudioName: 49_female.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Entering
+DialogueText: Mam nadzieję, że syrena tu przypłynie.
+AudioName: 50.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving
+DialogueText: Spytam Williego, czy będziemy mogli wrócić bardziej sceniczną drogą.
+AudioName: 51.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving_2
+DialogueText: Może w drodze powrotnej zobaczymy morskiego potwora.
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: Plaża jest fajna, ale bardzo szybko robi się tu nudno. Wolałabym iść do tej ciemnej dżungli, albo do wulkanu!
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore_2
+DialogueText: Hmm, myślisz, że udałoby mi się przemycić moją świnkę morską na wyspę?
+AudioName: 54.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore_2
+DialogueText: Nie, David i tak nie lubi pływać. {Portrait:Happy}
+AudioName: 55.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Umbrella
+DialogueText: Słońce bardzo szybko mnie przypieka. Na jakiś czas zostanę pod parasolem.
+AudioName: 56.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Umbrella
+DialogueText: Lubię siedzieć w cieniu. Od tego słońca kręci mi się w głowie.
+AudioName: 57.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Umbrella_2
+DialogueText: Hej {Farmer_Name}, zrobimy zamek z piasku?
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Umbrella_2
+DialogueText: W sumie, loch z piasku byłby o wiele lepszy! {Portrait:Happy}
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Umbrella_3
+DialogueText: Hej {Farmer_Name}, myślisz, że dasz radę zbudować tratwę?
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Umbrella_3
+DialogueText: Po drodze widziałam kilka ciekawych wysp, które chciałabym odwiedzić.
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Wander
+DialogueText: Na tak dużej wyspie muszą być jakieś zakopane skarby.
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Wander
+DialogueText: Szybko, przynieś mi łopatę!
+AudioName: 63.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Wander
+DialogueText: Spokojnie, tylko żartowałam. {Portrait:Happy}
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Bar
+DialogueText: Gus zrobił mi ciemnofioletowy napój, żeby pasował do moich włosów. Smakuje fantastycznie! {Portrait:Happy}
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Szkoda... Willy mówi, że mamy zostać na plaży... {Portrait:Sad}
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: A ja zabrałam ze sobą miecz... {Portrait:Sad}
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Accept_Spouse
+DialogueText: A... Ale... Chciałam zatańczyć z... {Portrait:Sad}
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Accept_Spouse
+DialogueText: Żartuję! Oczywiście, że z Tobą zatańczę. Kocham Cię. {Portrait:Happy}
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Decline
+DialogueText: Pochlebiasz mi... ale muszę Ci odmówić. Wybacz.
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: divorced
+DialogueText: Co ty tu robisz? Zostaw mnie w spokoju! {Portrait:Angry}
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: dumped_Girls
+DialogueText: Nie odzywaj się do mnie! {Portrait:Angry}
+AudioName: 72.ogg
+--------------------------------------------------
+DialogueFrom: secondChance_Girls
+DialogueText: *ech*... Nie mogę się ciągle na Ciebie złościć. {Farmer_Name}. Po prostu zapomnijmy o tym. {Portrait:Sad}
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: breakUp
+DialogueText: Ok... rozumiem. Widzisz mnie tylko jako przyjaciółkę... {Portrait:Sad}
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: breakUp
+DialogueText: Chyba nie była z nas dobra para... {Portrait:Sad}
+AudioName: 75.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: O, hej. Robisz sobie przerwę?
+AudioName: 76.ogg
+--------------------------------------------------
+DialogueFrom: Mon2
+DialogueText: Cześć!
+AudioName: 77.ogg
+--------------------------------------------------
+DialogueFrom: Mon2
+DialogueText: Chodzisz czasami na cmentarz? Spokojne miejsce. Lubię tam spędzać czas w samotności.
+AudioName: 78.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Mam zły dzień. {Portrait:Sad}
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Mówiłam, że mam zły dzień... Czego chcesz? {Portrait:Angry}
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: Tue2
+DialogueText: ...*ech*... {Portrait:Sad}
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: Tue2
+DialogueText: Wiem, że moi rodzice mają rację, ale czasami po prostu mnie nie rozumieją. Uch, czy oni nigdy nie byli młodzi?
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Hej. Od razu przepraszam jeśli Ci powiem coś niemiłego. Mało spałam.
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Czego chcesz?
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: # {Portrait:Happy} Abigail1
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: O nie, chyba tata będzie robił kolację... {Portrait:Sad}
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Nie mam dziś na nic ochoty... {Portrait:Unique}
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Wow, dzisiaj jest piątek? {Portrait:Unique}#
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Czasami całkowicie tracę rachubę czasu.
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: Fri2
+DialogueText: Wieczorem wszyscy spotkamy się w knajpie. To taka jakby piątkowa tradycja.
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: W takie dni jak ten, świeże górskie powietrze jest bardzo przyjemne. {Portrait:Happy}
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Ciekawe czy niedługo wyjdą żaby.
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: O kurczę... Cały weekend odkładałam pracę domową. Chyba dzisiaj zarwę kolejną noc... {Portrait:Sad}
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: {Farmer_Name}, Jak myślisz, co się stanie gdy umrzemy?
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Nie mam pojęcia.
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Wracamy jako straszne duchy.
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Idziemy do Nieba.
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Nasza dusza odchodzi na gwiezdne łąki.
+AudioName: 98.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Nic. Po prostu przestajemy istnieć.
+AudioName: 99.ogg
+--------------------------------------------------
+DialogueFrom: Sun_old
+DialogueText: Nic się nie stanie, tak? {Portrait:Unique}
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: Sun_old
+DialogueText: Może pojawi się jakiś pokręcony duch!
+AudioName: 101.ogg
+--------------------------------------------------
+DialogueFrom: Sun_17
+DialogueText: Hmm, ciekawe...
+AudioName: 102.ogg
+--------------------------------------------------
+DialogueFrom: Sun_18
+DialogueText: No, ciekawa teoria! {Portrait:Happy}
+AudioName: 103.ogg
+--------------------------------------------------
+DialogueFrom: Sun_nothing
+DialogueText: Wiesz, to raczej nie będzie takie złe. {Portrait:Custom:8}
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: Wed2
+DialogueText: Cześć {Farmer_Name}. Masz teraz przerwę?
+AudioName: 105.ogg
+--------------------------------------------------
+DialogueFrom: Wed2
+DialogueText: Ja też. W sumie nic niezwykłego... Po prostu nauka online.
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: Tue4
+DialogueText: Cześć. Dobrze Cię widzieć. {Portrait:Happy}
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: Tue4
+DialogueText: A... tak sobie odpoczywam... A jak Ci mija dzień?
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: Sat6
+DialogueText: Odwiedzasz mnie? To miłe. {Portrait:Happy}
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: Sat6
+DialogueText: Odwiedzasz czasami jaskinię?
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: Sat6
+DialogueText: Ciekawe. Może kiedyś się tam wybiorę. {Portrait:Love}
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Pamiętam jak się tu wprowadziłeś, trochę mi było szkoda, że ten las miał zostać przerobiony na farmę. Ale teraz cieszę się, że tu jesteś! {Portrait:Happy}
+AudioName: 112_male.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Pamiętam jak się tu wprowadziłaś, trochę mi było szkoda, że ten las miał zostać przerobiony na farmę. Ale teraz cieszę się, że tu jesteś! {Portrait:Happy}
+AudioName: 113_female.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: ... Cześć. {Portrait:Happy}
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Chcesz tu trochę posiedzieć? Pozwól, że poczytam z Twojej dłoni. *hihi* {Portrait:Happy}
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: Thu10
+DialogueText: Cześć. {Portrait:Love}
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: Thu10
+DialogueText: Czy czasami czujesz, jakby wszystko było nieprawdziwe? {Portrait:Love}
+AudioName: 117.ogg
+--------------------------------------------------
+DialogueFrom: Thu10
+DialogueText: Nie w złym sensie. {Portrait:Happy}
+AudioName: 118.ogg
+--------------------------------------------------
+DialogueFrom: Fri6
+DialogueText: Ptaki dziś wesoło ćwierkają. Są zbyt prymitywne, by zrozumieć przyszłość.
+AudioName: 119.ogg
+--------------------------------------------------
+DialogueFrom: Fri6
+DialogueText: Lepiej być jak one. Prawda?
+AudioName: 120.ogg
+--------------------------------------------------
+DialogueFrom: Event_VideoGame_Yes
+DialogueText: Wspaniale! Jestem pewna, że z łatwością przejdziemy ten poziom. {Portrait:Happy}
+AudioName: 121.ogg
+--------------------------------------------------
+DialogueFrom: Event_VideoGame_No
+DialogueText: Och? *ech*... Czyli chyba nigdy nie przejdę tego poziomu... {Portrait:Sad}
+AudioName: 122.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave1
+DialogueText: Widzisz? Teraz rozumiesz czemu tu jestem.
+AudioName: 123.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave1
+DialogueText: Całe moje życie tu mieszkałam, ale nie zrobiłam nic wartego zapamiętania. Chcę przeżyć przygodę! {Portrait:Custom:8}
+AudioName: 124.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave2
+DialogueText: Pewnie. I tak nie chcę niczego zabić. Chcę tylko pozwiedzać nowe tereny bez ryzykowania mojego zdrowia!
+AudioName: 125.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave2
+DialogueText: Całe moje życie tu mieszkałam i nie zrobiłam nic wartego zapamiętania. Chcę iść na przygodę! {Portrait:Custom:8}
+AudioName: 126.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave3
+DialogueText: Och, to dlatego, że jestem dziewczyną... tak?! Ugh... {Portrait:Unique}¦Czemu? Jestem taka silna jak ty! {Portrait:Angry}
+AudioName: 127.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave3
+DialogueText: Nie jestem delikatną księżniczką.. Umiem o siebie zadbać! {Portrait:Angry}
+AudioName: 128.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave3
+DialogueText: Całe moje życie tu mieszkałam i nie zrobiłam nic wartego zapamiętania. Chcę iść na przygodę! {Portrait:Custom:8}
+AudioName: 129.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave4
+DialogueText: Serio? To szokujące. {Portrait:Custom:8}
+AudioName: 130.ogg
+--------------------------------------------------
+DialogueFrom: Event_Grave4
+DialogueText: Całe moje życie tu mieszkałam i nie zrobiłam nic wartego zapamiętania. Chcę iść na przygodę! {Portrait:Custom:8}
+AudioName: 131.ogg
+--------------------------------------------------
+DialogueFrom: Event_Rain_1
+DialogueText: Rozumiem... {Portrait:Custom:8}
+AudioName: 132.ogg
+--------------------------------------------------
+DialogueFrom: Event_Rain_2
+DialogueText: Tak... Widzę, że potrafisz docenić ponurą atmosferę.
+AudioName: 133.ogg
+--------------------------------------------------
+DialogueFrom: Event_Rain_3
+DialogueText: ... Prawda. {Portrait:Custom:8}
+AudioName: 134.ogg
+--------------------------------------------------
+DialogueFrom: Event_Tragic_1
+DialogueText: Tak... moje życie jest w porządku... {Portrait:Sad}
+AudioName: 135.ogg
+--------------------------------------------------
+DialogueFrom: Event_Tragic_2
+DialogueText: ...! {Portrait:Happy}
+AudioName: 136.ogg
+--------------------------------------------------
+DialogueFrom: Event_Tragic_3
+DialogueText: Poczułabym się lepiej, gdybym w to mogła uwierzyć...
+AudioName: 137.ogg
+--------------------------------------------------
+DialogueFrom: Event_Tragic_3
+DialogueText: Ale nie wierzę. {Portrait:Sad}
+AudioName: 138.ogg
+--------------------------------------------------
+DialogueFrom: Event_Cave2_1
+DialogueText: {Farmer_Name}... {Portrait:Custom:8}
+AudioName: 139.ogg
+--------------------------------------------------
+DialogueFrom: Event_Cave2_2
+DialogueText: {Farmer_Name}... Nic mi nie jest. {Portrait:Custom:8}
+AudioName: 140.ogg
+--------------------------------------------------
+DialogueFrom: Event_Cave_1
+DialogueText: ... Ok. {Portrait:Custom:8}
+AudioName: 141.ogg
+--------------------------------------------------
+DialogueFrom: Event_Cave_2
+DialogueText: Wydaje mi się, że jeśli masz coś do stracenia to normalne, że się boisz... {Portrait:Love}
+AudioName: 142.ogg
+--------------------------------------------------
+DialogueFrom: Event_Cave_3
+DialogueText: ... Um, ok. Przepraszam. {Portrait:Custom:9}
+AudioName: 143.ogg
+--------------------------------------------------
+DialogueFrom: summer_1
+DialogueText: Nadeszło lato. Nie jest to moja ulubiona pora roku.
+AudioName: 144.ogg
+--------------------------------------------------
+DialogueFrom: summer_1
+DialogueText: Tak tu parno, że czuję jakbym siedziała w zupie.
+AudioName: 145.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: Moja świnka morska, David, nienawidzi tego ciepła. Jest wybredny.
+AudioName: 146.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue
+DialogueText: Czuć w powietrzu ciekawy zapach. Jakby... miodu. {Portrait:Unique}
+AudioName: 147.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed
+DialogueText: Ozdabiasz jakoś swój dom? Ja bym ozdobiła, gdybym tylko miała własny.
+AudioName: 148.ogg
+--------------------------------------------------
+DialogueFrom: summer_6
+DialogueText: Byłam w nocy na plaży... Czasami można zauważyć dziwne światła dryfujące nad oceanem.
+AudioName: 149.ogg
+--------------------------------------------------
+DialogueFrom: summer_6
+DialogueText: A może to był zwykły sen?... Dziwne.
+AudioName: 150.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu
+DialogueText: Gdybym tylko umiała walczyć, mogłabym teraz odkrywać górskie jaskinie. Może tam być bardzo fajnie.
+AudioName: 151.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu4
+DialogueText: Mam nadzieję, że nie opalę się zbyt mocno. {Portrait:Sad}
+AudioName: 152.ogg
+--------------------------------------------------
+DialogueFrom: summer_Fri
+DialogueText: Chciałabym mieć kota. Niestety, mój tata jest uczulony na koty. W sumie to na wszystko.
+AudioName: 153.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat
+DialogueText: Nie mogę się doczekać jesieni... ta chłodna bryza, spadające liście, zapach grzybów... *ech*
+AudioName: 154.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Ok... Powiedzmy, że wygrywasz darmową wycieczkę. Dokąd?
+AudioName: 155.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Na plażę
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Do ciemnej kopalni
+AudioName: 157.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Do starego lasu
+AudioName: 158.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Do Mega Centrum Joja
+AudioName: 159.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun_old
+DialogueText: Ja tak... Ale pewnie nie polubisz miejsc, o których ja myślę...
+AudioName: 160.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun_old
+DialogueText: Może kiedyś będziemy sąsiadami. Chyba oboje mamy tak samo dziwny gust. {Portrait:Happy}
+AudioName: 161.ogg
+--------------------------------------------------
+DialogueFrom: Sun_25
+DialogueText: Heh. Pewnie szybko by się znudziło.
+AudioName: 162.ogg
+--------------------------------------------------
+DialogueFrom: Sun_26
+DialogueText: Tak! To brzmi świetnie. {Portrait:Happy}
+AudioName: 163.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed2
+DialogueText: Chciałabym mieszkać w starym domku na farmie, tak jak ty.
+AudioName: 164.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed2
+DialogueText: Skrzypienie drewnianej podłogi, powolnie opadające pyłki kurzu przy promieniach słońca... Jest coś niezwykłego w tym starym budynku, prawda?
+AudioName: 165.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Ciekawy z Ciebie gość, {Farmer_Name}. Cieszę się, że tu jesteś. {Portrait:Happy}
+AudioName: 166_male.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Ciekawy z Ciebie babka, {Farmer_Name}. Cieszę się, że tu jesteś. {Portrait:Happy}
+AudioName: 167_male.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Ciekawa z Ciebie gość, {Farmer_Name}. Cieszę się, że tu jesteś. {Portrait:Happy}
+AudioName: 168_female.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Ciekawa z Ciebie babka, {Farmer_Name}. Cieszę się, że tu jesteś. {Portrait:Happy}
+AudioName: 169_female.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat6
+DialogueText: W sumie nawet lubię lato. {Portrait:Happy}
+AudioName: 170.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat6
+DialogueText: Śmieszne jest to, jak szybko zmieniamy zdanie.
+AudioName: 171.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon8
+DialogueText: Kiedyś myślałam, że to miasto jest jakoś tak bezbarwne, ale ostatnio niektóre rzeczy zaczynają mi się podobać. {Portrait:Happy}
+AudioName: 172.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu10
+DialogueText: Wow, nieźle dziś wyglądasz.
+AudioName: 173.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu10
+DialogueText: Znaczy... Letnie powietrze jest bardzo dobre dla Twojej skóry, prawda?... Heh... {Portrait:Love}
+AudioName: 174.ogg
+--------------------------------------------------
+DialogueFrom: summer_Fri10
+DialogueText: Czujesz czasami samotność na tej farmie?
+AudioName: 175.ogg
+--------------------------------------------------
+DialogueFrom: fall_1
+DialogueText: Ach... Jesień! {Portrait:Happy}
+AudioName: 176.ogg
+--------------------------------------------------
+DialogueFrom: fall_1
+DialogueText: Starczy mi tego lata.
+AudioName: 177.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: Muszę iść rozprostować nogi i zażyć świeżego powietrza.
+AudioName: 178.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue
+DialogueText: W większość dni próbuję pomagać przy sklepie. Biznes się trochę słabo rozkręca odkąd otworzyli Joja Market.
+AudioName: 179.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue
+DialogueText: Odkąd zamknęli Joja Market nasz sklep ma się świetnie! {Portrait:Happy}
+AudioName: 180.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed
+DialogueText: Już się nie mogę doczekać tych wszystkich dyń. {Portrait:Happy}
+AudioName: 181.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed
+DialogueText: Wigilia Duchów jest pod koniec jesieni. W porównaniu do Miasta Zuzu, święto u nas jest trochę mniejsze, ale dla takiego małego miasteczka jest w tym wiele frajdy.
+AudioName: 182.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu
+DialogueText: # {Portrait:Happy} AbigailHAND
+AudioName: 183.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu
+DialogueText: Tamtej nocy śniło mi się, że moja lewa ręka zmieniła się w %noun giganta. Czy to może coś znaczyć?
+AudioName: 184.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu
+DialogueText: Abigail nie ma teraz ochoty na rozmowę.
+AudioName: 185.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat
+DialogueText: Nie mogę uwierzyć, że udało Ci się naprawić stary Dom Kultury! Jestem zaskoczona.
+AudioName: 186.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat
+DialogueText: Masz na swojej farmie jakieś strachy na wróble?
+AudioName: 187.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: Myślałam o ponownym farbowaniu włosów... Jak myślisz?
+AudioName: 188.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: Pofarbuj na czarno.
+AudioName: 189.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: Czemu by nie blond?
+AudioName: 190.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: A może róż?
+AudioName: 191.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: Lubię takie włosy, jakie masz!
+AudioName: 192.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun_old
+DialogueText: Chciałam przefarbować włosy, ale zmieniłam zdanie.
+AudioName: 193.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun_old
+DialogueText: Tak? O co chodzi?
+AudioName: 194.ogg
+--------------------------------------------------
+DialogueFrom: Sun_27
+DialogueText: Myślę, że to bezpieczny wybór.
+AudioName: 195.ogg
+--------------------------------------------------
+DialogueFrom: Sun_27
+DialogueText: Przemyślę to.
+AudioName: 196.ogg
+--------------------------------------------------
+DialogueFrom: Sun_28
+DialogueText: Wiedziałam, że to powiesz. {Portrait:Unique}
+AudioName: 197.ogg
+--------------------------------------------------
+DialogueFrom: Sun_WildColor
+DialogueText: Zawsze można się z Tobą nieźle pośmiać. {Portrait:Happy}
+AudioName: 198.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed2
+DialogueText: Masz na swojej farmie jakieś dynie?
+AudioName: 199.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed2
+DialogueText: Weź zostaw jedną dla mnie! {Portrait:Happy}
+AudioName: 200.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Często kłócę się z moimi rodzicami, ale wiem, że się o mnie troszczą. Robią to, co według nich jest najlepsze. {Portrait:Sad}
+AudioName: 201.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Nie wiem czemu Ci to mówię. Nikomu nie gadaj. {Portrait:Custom:8}
+AudioName: 202.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat6
+DialogueText: Cześć. {Portrait:Happy}
+AudioName: 203.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat6
+DialogueText: Fajna fryzura... używasz jakiegoś innego szamponu?
+AudioName: 204.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon8
+DialogueText: W sumie widzę siebie jako farmera...
+AudioName: 205.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon8
+DialogueText: Ale jak niby miałabym nim zostać? *hihi* {Portrait:Love}
+AudioName: 206.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu10
+DialogueText: Śniłeś mi się ostatnio.
+AudioName: 207_male.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu10
+DialogueText: Śniłaś mi się ostatnio.
+AudioName: 208_female.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu10
+DialogueText: To był dobry sen. {Portrait:Happy}
+AudioName: 209.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri6
+DialogueText: Chciałabym, żeby jesień była dłuższa. {Portrait:Custom:8}
+AudioName: 210.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri6
+DialogueText: Gdy wiatr zaczyna wiać, czuje się jakbym miała pięć lat.
+AudioName: 211.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri10
+DialogueText: Zazwyczaj o tej porze roku czuję się samotnie, ale teraz już nie. {Portrait:Love}
+AudioName: 212.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri10
+DialogueText: {Farmer_Name}, masz jakieś plany na przyszłość?
+AudioName: 213.ogg
+--------------------------------------------------
+DialogueFrom: winter_1
+DialogueText: Jesień się skończyła... {Portrait:Sad}
+AudioName: 214.ogg
+--------------------------------------------------
+DialogueFrom: winter_1
+DialogueText: No... Ale zimę też lubię! {Portrait:Happy}
+AudioName: 215.ogg
+--------------------------------------------------
+DialogueFrom: winter_Mon
+DialogueText: Jest za zimno na wychodzenie z domu.
+AudioName: 216.ogg
+--------------------------------------------------
+DialogueFrom: winter_Mon
+DialogueText: Ale tak bardzo lubię lepić bałwany. {Portrait:Happy}
+AudioName: 217.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue
+DialogueText: Czy kubek gorącego kakao nie brzmi wspaniale?
+AudioName: 218.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed
+DialogueText: Cześć. Czy jako farmer nudzisz się w zimie?
+AudioName: 219.ogg
+--------------------------------------------------
+DialogueFrom: spring_12
+DialogueText: Oczywiście, że wezmę udział w jutrzejszym polowaniu na jajka. A ty?
+AudioName: 220.ogg
+--------------------------------------------------
+DialogueFrom: spring_23
+DialogueText: Jutro Taniec Kwiatów. Tańczenie jest spoko, ale każą mi ubierać tę głupią kieckę... {Portrait:Sad}
+AudioName: 221.ogg
+--------------------------------------------------
+DialogueFrom: winter_7
+DialogueText: Nie mogę się doczekać aż ulepię jutro bałwana.
+AudioName: 222.ogg
+--------------------------------------------------
+DialogueFrom: fall_26
+DialogueText: Będziesz jutro na Wigilii Duchów? Szukaj mnie w przeklętym labiryncie. {Portrait:Happy}
+AudioName: 223.ogg
+--------------------------------------------------
+DialogueFrom: summer_10
+DialogueText: Wszyscy czekają na jutrzejsze Luau. Są też trochę nerwowi wiedząc, że gubernator przyjeżdża.
+AudioName: 224.ogg
+--------------------------------------------------
+DialogueFrom: summer_27
+DialogueText: Nie możesz przegapić jutrzejszego festiwalu. To największe cudo tego miejsca.
+AudioName: 225.ogg
+--------------------------------------------------
+DialogueFrom: winter_24
+DialogueText: Jutro wypiję dużo żurawinowego sosu. {Portrait:Happy}
+AudioName: 226.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu
+DialogueText: Kolejny rok prawie się kończy.
+AudioName: 227.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu
+DialogueText: Jak ten czas szybko mija, prawda? {Portrait:Sad}
+AudioName: 228.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri
+DialogueText: Jedyna rzecz, jakiej się tu nauczyłam... Jeśli inaczej wyglądasz, to każdy się na Ciebie dziwnie patrzy.
+AudioName: 229.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat
+DialogueText: Weekend!
+AudioName: 230.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat
+DialogueText: To znaczy, że mogę dwa razy dłużej grać w gry. {Portrait:Happy}
+AudioName: 231.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat
+DialogueText: Pa.
+AudioName: 232.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Narysowałam dwa rysunki. Co o nich sądzisz?
+AudioName: 233.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Lubię dżunglową wyspę i tygrysa.
+AudioName: 234.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Ten ork z toporem fajnie wygląda.
+AudioName: 235.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Oba są wstrętne.
+AudioName: 236.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun_old
+DialogueText: Pamiętasz jak pokazałam Ci te rysunki? Przypadkowo je wyrzuciłam. {Portrait:Sad}
+AudioName: 237.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun_old
+DialogueText: Pamiętasz to z orkiem? Wystartowałam w konkursie online i wygrałam 50 monet! {Portrait:Happy}
+AudioName: 238.ogg
+--------------------------------------------------
+DialogueFrom: Sun_29
+DialogueText: Ach tak? W sumie ma to sens.
+AudioName: 239.ogg
+--------------------------------------------------
+DialogueFrom: Sun_30
+DialogueText: Cieszę się. Pokazywanie swojej sztuki innym jest trochę krępujące. Ale myślę, że ty i ja jesteśmy tacy sami.
+AudioName: 240.ogg
+--------------------------------------------------
+DialogueFrom: Sun_Bad
+DialogueText: Jak możesz! Czemu chcesz ranić moje uczucia w taki sposób? Gdzie Twoja wrażliwość! {Portrait:Sad}
+AudioName: 241.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed2
+DialogueText: Cześć. Nudzisz się? Jeśli chcesz, możesz posiedzieć u mnie w pokoju.
+AudioName: 242.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed2
+DialogueText: O ile nie będę się przebierać!
+AudioName: 243.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue4
+DialogueText: Ale mi zimno. Chciałabym mieć dwa kubki gorącego kakao dla nas dwojga. {Portrait:Happy}
+AudioName: 244.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat6
+DialogueText: Ostatnio dużo sobie rozmyślałam...
+AudioName: 245.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat6
+DialogueText: Och! Chcesz wiedzieć o czym? Cóż... {Portrait:Unique}
+AudioName: 246.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat6
+DialogueText: ... To tajemnica. {Portrait:Happy}
+AudioName: 247.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu10
+DialogueText: Kolejny rok prawie się kończy...
+AudioName: 248.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu10
+DialogueText: Ale ten był bardzo dobry, prawda? {Portrait:Happy}
+AudioName: 249.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed6
+DialogueText: Pewnie fajnie jest nie myśleć o roślinach w zimie.
+AudioName: 250.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed6
+DialogueText: A to znaczy, że możemy dłużej porozmawiać! {Portrait:Happy}
+AudioName: 251.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri10
+DialogueText: {Farmer_Name}, muszę Ci coś powiedzieć...
+AudioName: 252.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri10
+DialogueText: Chodzi o... em... cóż... Twoje buty! One, ee... wyglądają na czyste... *przełknięcie*
+AudioName: 253.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri10
+DialogueText: To wszystko... *ech* {Portrait:Sad}
+AudioName: 254.ogg
+--------------------------------------------------
+DialogueFrom: Wed4
+DialogueText: Nie ufam osobom, które nie lubią zwierząt...
+AudioName: 255.ogg
+--------------------------------------------------
+DialogueFrom: Wed4
+DialogueText: Ach, nie martw się! Wiem, że uwielbiasz zwierzęta! {Portrait:Happy}
+AudioName: 256.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Abigail0
+DialogueText: He he. Ja? Ślub? Nie powiedziałabym. {Portrait:Happy}
+AudioName: 257.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Abigail0
+DialogueText: Będziemy się ze sobą dobrze bawić. {Portrait:Happy}
+AudioName: 258.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Abigail1
+DialogueText: Jestem zaręczona. Wow! {Portrait:Happy}
+AudioName: 259.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Abigail1
+DialogueText: Teraz nasze życia kompletnie się zmienią. {Portrait:Love}
+AudioName: 260.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_0
+DialogueText: ... Nadal mnie kochasz? {Portrait:Sad}
+AudioName: 261.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_1
+DialogueText: *ech*... Może wzięliśmy ślub za szybko. {Portrait:Sad}
+AudioName: 262.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_2
+DialogueText: Nadal Ci ze mną dobrze?s
+AudioName: 263.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_3
+DialogueText: Robię coś źle? Inaczej się ostatnio zachowujesz. {Portrait:Sad}
+AudioName: 264.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_4
+DialogueText: Zastanawiasz się, co nam jeszcze pozostało? {Portrait:Sad}
+AudioName: 265.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_5
+DialogueText: Kiedyś się kochaliśmy... Co się stało? {Portrait:Sad}
+AudioName: 266.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_5
+DialogueText: Wiem, że trochę się postarzeliśmy... Po co był ten ślub? {Portrait:Angry}
+AudioName: 267.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_6
+DialogueText: Nasze życie jest zbyt krótkie... Czy to dobry sposób, na wykorzystanie tego czasu? {Portrait:Sad}
+AudioName: 268.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_7
+DialogueText: Kiedyś byłam dla Ciebie kimś wyjątkowym, najlepszym przyjacielem... Teraz zauważasz mnie tylko, gdy robię Ci obiad. {Portrait:Sad}
+AudioName: 269.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_8
+DialogueText: Ostatnio traktujesz mnie chłodno... Co się z Tobą dzieje? Zachowujesz się jak dusza topielca. {Portrait:Sad}
+AudioName: 270.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Bad_9
+DialogueText: Zastanawiam się, czy mogłam wybrać lepiej... Przed Twoim przyjazdem Sebastian był moim przyjacielem. Może to on był tym jedynym... {Portrait:Sad}
+AudioName: 271.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_1
+DialogueText: Tego zapachu nie da się pomylić... Grzyby, suche liście, dynia. Jesień! O tak. Piękne, prawda?
+AudioName: 272.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_15
+DialogueText: Już wiesz co wystawisz na jutrzejszych targach?
+AudioName: 273.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_2
+DialogueText: Czy w tym sezonie posadzimy wielgachną dynię? Prooooszę, Skarbie? {Portrait:Happy}
+AudioName: 274.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_20
+DialogueText: Kochanie... Przy Tobie nawet cała skrzynia kwarcu to drobiazg.
+AudioName: 275.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_20
+DialogueText: A skrzynia pełna ametystów? Hmm... Musiałabym się zastanowić. {Portrait:Happy}
+AudioName: 276.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_26
+DialogueText: Idziemy jutro na Wigilię Duchów?
+AudioName: 277.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_6
+DialogueText: Ach... jesień. Moja ulubiona pora roku. Jej kolory idealnie pasują do moich włosów, prawda?
+AudioName: 278.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_8
+DialogueText: Zima jest tuż tuż. Musimy sprawdzić dwa razy nasz system ogrzewania, zakręcić zawory i sprawdzić całą izolację domu.
+AudioName: 279.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_8
+DialogueText: Spokojnie, zajmę się tym.
+AudioName: 280.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/fall_Abigail
+DialogueText: Czy ja czuję zapach dyni? Może mi się wydawało... {Portrait:Happy}
+AudioName: 281.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/funLeave_Abigail
+DialogueText: Jakby co, idę do miasta. Muszę trochę się poruszać.
+AudioName: 282.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/funReturn_Abigail
+DialogueText: Hej! Jak Ci minął dzień? U mnie całkiem nieźle. Ten spacer był odświeżający. {Portrait:Happy}
+AudioName: 283.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_0
+DialogueText: Trudno w to uwierzyć, że jesteśmy razem... {Portrait:Love}
+AudioName: 284.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_1
+DialogueText: Słyszysz to? Czasami mam wrażenie, że ten dom może być nawiedzony. {Portrait:Unique}
+AudioName: 285.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_2
+DialogueText: Horoskop Welwicka zapowiedział dziś dobry dzień. Od razu poczułam się zmotywowana!
+AudioName: 286.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_3
+DialogueText: Nie pamiętam, kiedy ostatnio farbowałam włosy... Ten kolor chyba nigdy nie zejdzie.
+AudioName: 287.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_4
+DialogueText: Dobrze, że mam takie grube buty. Nie wyobrażam sobie chodzenia po tym błocie w tenisówkach. {Portrait:Happy}
+AudioName: 288.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_5
+DialogueText: Oglądałam ten syreni naszyjnik, który od Ciebie dostałam... Będę go nosić z dumą aż do śmierci. {Portrait:Love}
+AudioName: 289.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_6
+DialogueText: Hej. Wiem, że jesteś mądry, ale czasami się o Ciebie martwię. Na świecie jest wiele potworów. {Portrait:Custom:6}
+AudioName: 290_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_6
+DialogueText: Hej. Wiem, że jesteś mądra, ale czasami się o Ciebie martwię. Na świecie jest wiele potworów. {Portrait:Custom:6}
+AudioName: 291_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_6
+DialogueText: Obiecaj mi, że będziesz ostrożny. Nie chcę Cię stracić.
+AudioName: 292_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_6
+DialogueText: Obiecaj mi, że będziesz ostrożna. Nie chcę Cię stracić.
+AudioName: 293_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_7
+DialogueText: {Farmer_Name}? Chcę Ci tylko powiedzieć, że doceniam Twoją pracę. Jestem z Ciebie dumna. {Portrait:Love}
+AudioName: 294.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_8
+DialogueText: Nie martw się o mnie... wiem, że masz dużo obowiązków. Dobrze sobie tu radzę! {Portrait:Love}
+AudioName: 295.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_9
+DialogueText: Och, nie nudzę się... Cieszę się z tego co mamy.
+AudioName: 296.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Good_9
+DialogueText: To proste życie, ale podoba mi się. {Portrait:Happy}
+AudioName: 297.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_0
+DialogueText: Zawsze lubiłam to miejsce, jeszcze zanim się tu przeprowadziłeś. Teraz mogę spacerować po farmie, kiedy tylko zechcę! {Portrait:Happy}
+AudioName: 298_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_0
+DialogueText: Zawsze lubiłam to miejsce, jeszcze zanim się tu przeprowadziłaś. Teraz mogę spacerować po farmie, kiedy tylko zechcę! {Portrait:Happy}
+AudioName: 299_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_1
+DialogueText: Hej, {Farmer_Name}. Wybierasz się na wyprawę? Mam coś dla Ciebie... [286 287 205 732]
+AudioName: 300.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_1
+DialogueText: Na czarną godzinę. Powinno się przydać.
+AudioName: 301.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_2
+DialogueText: Idziesz do kopalni? Hej... Jeśli znajdziesz coś pysznego, nie zapomnij o mnie! {Portrait:Happy}
+AudioName: 302.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_3
+DialogueText: Hej! Zastanawiam się, co dziś porobić. Nie przywykłam jeszcze do takiej swobody!
+AudioName: 303.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_4
+DialogueText: Mogę trochę udekorować to miejsce? Cieszę się, że mam przestrzeń, nad którą mogę sama popracować.
+AudioName: 304.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Day_Abigail
+DialogueText: Na naszej farmie zawsze coś się dzieje... Uwielbiam to.
+AudioName: 305.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Night_0
+DialogueText: Miałam dziś udany dzień. Tu zawsze dzieje się coś ciekawego.
+AudioName: 306.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Night_1
+DialogueText: Hej! Opowiedz mi o swoim dniu. Wydarzyło się coś ciekawego? {Portrait:Happy}
+AudioName: 307.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Night_2
+DialogueText: Kiedyś byłam nocnym markiem, ale podoba mi się ten wiejski styl życia. Czuję się naturalnie.
+AudioName: 308.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Night_3
+DialogueText: *ziew*... W sumie mogłabym już pójść spać. {Portrait:Happy}
+AudioName: 309.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Night_4
+DialogueText: W nocy różne dźwięki są tu dużo wyraźniejsze. Nigdy mi się to nie znudzi.
+AudioName: 310.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Indoor_Night_Abigail
+DialogueText: Idziesz już spać? Przygotowałam dla nas elektryczny kocyk... {Portrait:Love}
+AudioName: 311.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_0
+DialogueText: Mam nadzieję, że nadal będziesz mnie kochał, kiedy się zestarzeję. To przecież nieuniknione!!
+AudioName: 312_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_0
+DialogueText: Mam nadzieję, że nadal będziesz mnie kochała, kiedy się zestarzeję. To przecież nieuniknione!!
+AudioName: 313_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_1
+DialogueText: Myślisz, że Twój dziadek byłby z nas dumny?
+AudioName: 314.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_2
+DialogueText: Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało...
+AudioName: 315.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_3
+DialogueText: Jeśli idziesz do miasta, to pozdrów każdego ode mnie.
+AudioName: 316.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_4
+DialogueText: Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mógł skupić się na swojej robocie.
+AudioName: 317_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_4
+DialogueText: Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mogła skupić się na swojej robocie.
+AudioName: 318_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_5
+DialogueText: Dobrze nam idzie finansowo, {Farmer_Name}?
+AudioName: 319.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_6
+DialogueText: Ciekawe, jak się miewa sklep mojego ojca? Powinnam kiedyś odwiedzić rodziców.
+AudioName: 320.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_7
+DialogueText: Kiedy odejdziesz do świata dusz, zrobię Ci małą kapliczkę obok tej Twojego Dziadka.
+AudioName: 321.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_8
+DialogueText: Nieważne, ile sprzątamy. I tak jest brudno.
+AudioName: 322.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_8
+DialogueText: Taki urok mieszkania na farmie.
+AudioName: 323.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Neutral_9
+DialogueText: Zastanawiam się, czy spędzimy tu całe życie? Pewnie w końcu zaczęłoby mnie to nudzić.
+AudioName: 324.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/NoBed_0
+DialogueText: Gdzie ja mam teraz spać...? {Portrait:Sad}
+AudioName: 325.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/NoBed_1
+DialogueText: Źle mi się dzisiaj spało... {Portrait:Sad}
+AudioName: 326.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/NoBed_2
+DialogueText: Spanie na ziemi nie należy do najwygodniejszych... {Portrait:Sad}
+AudioName: 327.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/NoBed_3
+DialogueText: Czy coś się stało z naszym łóżkiem...? {Portrait:Sad}
+AudioName: 328.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/OneKid_0
+DialogueText: Posiedziałeś dzisiaj trochę z %kid1?
+AudioName: 329_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/OneKid_0
+DialogueText: Posiedziałaś dzisiaj trochę z %kid1?
+AudioName: 330_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/OneKid_1
+DialogueText: Zastanawiam się, czy %kid1 będzie farmerem, tak jak ty.
+AudioName: 331.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/OneKid_2
+DialogueText: Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.
+AudioName: 332.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/OneKid_3
+DialogueText: Nie mogę w to uwierzyć. Jestem ''mamą''... Życie potrafi zaskoczyć. {Portrait:Happy}
+AudioName: 333.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_0
+DialogueText: Lekka bryza wieje dziś z gór. Pachnie jak świeża sosna i szałwia.
+AudioName: 334.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_1
+DialogueText: Hmm... Mamy sporo miejsca na Farmę Szlamu!
+AudioName: 335.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_2
+DialogueText: Pamiętaj, żeby wysprzątać kapliczkę Twojego Dziadka. Jest w niej coś wyjątkowego, czuję to.
+AudioName: 336.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_3
+DialogueText: Fajnie, że mamy własną jaskinię. Zawsze o czymś takim marzyłam. {Portrait:Happy}
+AudioName: 337.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_4
+DialogueText: Zawsze zapominam zabrać przekąsek. {Portrait:Happy}
+AudioName: 338.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_Abigail
+DialogueText: Trochę się tu pokręcę, okej?
+AudioName: 339.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Outdoor_Abigail
+DialogueText: Widzę mnóstwo ciekawych owadów i innych rzeczy. *hihi* {Portrait:Happy}
+AudioName: 340.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/patio_Abigail
+DialogueText: Abigail jest pogrążona w muzyce.
+AudioName: 341.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_0
+DialogueText: Ciemność... Deszcz... Lubię taką pogodę. {Portrait:Love}
+AudioName: 342.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_1
+DialogueText: Hej, pamiętasz to jezioro, przy którym się spotkaliśmy? Ta pogoda mi je przypomina.
+AudioName: 343.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_1
+DialogueText: Twoja mini harfa naprawdę mnie zaskoczyła... Nie spodziewałam się tego po Tobie. Chyba dlatego tak Cię lubię. {Portrait:Love}
+AudioName: 344.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_2
+DialogueText: Hej! Wstałam wcześniej i poszłam do jaskiń. Znalazłam to. Przypomniało mi o Tobie. [768 767 769 66 82]
+AudioName: 345.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_2
+DialogueText: Myślisz, że znajdziesz coś lepszego? Nie sądzę! {Portrait:Happy}
+AudioName: 346.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_3
+DialogueText: Niezły dzień na wyprawę do kopalni, co? Tylko uważaj na siebie.
+AudioName: 347.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_3
+DialogueText: Jeśli idziesz, zabierz Eliksir Zdrowia. Albo dwa.
+AudioName: 348.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_4
+DialogueText: Może dziś włączę ''Podróż Króla Prerii''... Przysięgam, że kiedyś przejdę to sama. {Portrait:Happy}
+AudioName: 349.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Day_Abigail
+DialogueText: Wieś wygląda o wiele lepiej w takie dni, prawda?
+AudioName: 350.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_0
+DialogueText: Poszłam do lasu... Przysięgam, że widziałam coś przerażającego. {Portrait:Custom:6}
+AudioName: 351.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_1
+DialogueText: Dobra noc, żeby zobaczyć ducha...
+AudioName: 352.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_2
+DialogueText: Czujesz to? W tym deszczu jest coś kojącego...
+AudioName: 353.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_3
+DialogueText: W takie noce lubię gasić światła i po prostu słuchać... {Portrait:Custom:8}
+AudioName: 354.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_4
+DialogueText: Zrobiłam zupę na kolację. Mam nadzieję, że nie wyszła aż tak okropna. [199 218 219 727 730] {Portrait:Happy}
+AudioName: 355.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_5
+DialogueText: Hej! Wyglądasz na zmęczonego. Może pomogę Ci się zrelaksować? {Portrait:Happy}
+AudioName: 356_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_5
+DialogueText: Ciężko pracowałaś? Słodko wyglądasz, kiedy jesteś zmęczona. {Portrait:Happy}
+AudioName: 357_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/Rainy_Night_Abigail
+DialogueText: Dźwięki deszczu ukołyszą nas do snu.
+AudioName: 358.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spouseRoom_Abigail
+DialogueText: Wstałam wcześniej i nakarmiłam Davida Juniora. Rano jest zawsze najbardziej energiczny.
+AudioName: 359.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spouseRoom_Abigail
+DialogueText: $e
+AudioName: 360.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spouseRoom_Abigail
+DialogueText: Mam nadzieję, że nie przeszkadza Ci zapach świnki morskiej.
+AudioName: 361.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_1
+DialogueText: Masz jakieś plany na nowy rok?
+AudioName: 362.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_12
+DialogueText: Hej, jutro Festiwal Jajek. Wybacz, ale nie dam Ci forów tylko dlatego, że jesteśmy małżeństwem! {Portrait:Happy}
+AudioName: 363.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_12
+DialogueText: Zamierzam to wygrać. Spróbuj mnie pokonać.
+AudioName: 364.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_2
+DialogueText: Masz jakieś postanowienia noworoczne? Ja próbuję zrzucić kilka kilogramów. {Portrait:Happy}
+AudioName: 365.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_23
+DialogueText: Mam nadzieję, że ćwiczysz na Taniec Kwiatów... To już jutro!
+AudioName: 366.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_8
+DialogueText: Po tej zimie czeka nas sporo roboty.
+AudioName: 367.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/spring_Abigail
+DialogueText: Może i lubię chłodne pory roku, ale pod koniec zawsze cieszę się, gdy nadchodzi wiosna.
+AudioName: 368.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_1
+DialogueText: Bardzo łatwo się opalam, więc o tej porze roku muszę uważać.
+AudioName: 369.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_1
+DialogueText: Mam nadzieję, że lubisz mnie bladą! {Portrait:Happy}
+AudioName: 370.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_15
+DialogueText: Lato... czyli dom pełen much.
+AudioName: 371.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_15
+DialogueText: Nie martw się, załatwię je. Lubię to! {Portrait:Happy}
+AudioName: 372.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_4
+DialogueText: Kochanie, uważaj, żeby nie dostać udaru słonecznego.
+AudioName: 373.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_4
+DialogueText: Pij dużo wody i nie przepracowuj się.
+AudioName: 374.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_8
+DialogueText: Przepraszam za zapach... Całą noc się pociłam.
+AudioName: 375.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/summer_Abigail
+DialogueText: O kurczę... Ale bym zjadła tort czekoladowy.
+AudioName: 376.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/TwoKids_0
+DialogueText: kid1 i %kid2 zjadły swoje czekoladowe płatki. Ale się darły!
+AudioName: 377.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/TwoKids_1
+DialogueText: Musimy poświęcać %kid1 dużo uwagi, odkąd mamy %kid2. Nie chcemy między nimi żadnej zazdrości.
+AudioName: 378.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/TwoKids_2
+DialogueText: Śniło mi się, że %kid2 zostanie słynnym łowcą potworów. Już wyobrażałam sobie ten malutki pancerz.
+AudioName: 379.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/TwoKids_3
+DialogueText: Fajny stary domek, dwoje dzieci i wspaniała farma. Nigdy nie myślałam, że zajdę tak daleko... Ale hej! Nasze życie dopiero się zaczyna. {Portrait:Happy}
+AudioName: 380.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/winter_1
+DialogueText: Brrr.... Ale mróz. Chyba nadeszła zima.
+AudioName: 381.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/winter_15
+DialogueText: Zimą fajnie spacerować po dolinie! Wszystko wygląda inaczej pod tą śnieżną pierzyną...
+AudioName: 382.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/winter_28
+DialogueText: To był wspaniały rok, {Farmer_Name}. Ciekawe co przyniesie nam następny. {Portrait:Love}
+AudioName: 383.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/winter_3
+DialogueText: W sumie lubię mrozy. Mogę wtedy owinąć się w kocyk! {Portrait:Happy}
+AudioName: 384.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/winter_7
+DialogueText: Weźmiesz jutro udział w zawodach w łowieniu ryb?
+AudioName: 385.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Abigail/winter_Abigail
+DialogueText: Pamiętasz, jak graliśmy razem w ''Króla Prerii''? To były dobre czasy. {Portrait:Happy}
+AudioName: 386.ogg
+--------------------------------------------------
+DialogueFrom: rainy
+DialogueText: Dolina wygląda ciekawiej, gdy pada, prawda?
+AudioName: 387.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/5:s0
+DialogueText: Cześć. Em... Chciałam Cię tylko przeprosić za moje wczorajsze zachowanie.
+AudioName: 388.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/5:s1
+DialogueText: Chyba rozumiesz o co chodzi... {Portrait:Love}
+AudioName: 389.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/5:s2
+DialogueText: Uch, ok... Pa.
+AudioName: 390.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s0
+DialogueText: Pewnie zastanawiasz się czemu jestem o tej porze na cmentarzu...
+AudioName: 391.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s1
+DialogueText: Cóż, jestem tu, bo to najlepsze miejsce, żeby posiedzieć w samotności.
+AudioName: 392.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s2
+DialogueText: I jestem spocona, bo ćwiczyłam walkę mieczem. {Portrait:Love}
+AudioName: 393.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s3
+DialogueText: Hej! Co... myślisz, że jestem za słaba na machanie mieczem? {Portrait:Angry}
+AudioName: 394.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s4
+DialogueText: Wybacz, czasami włącza mi się tryb obronny. {Portrait:Custom:8}
+AudioName: 395.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s5
+DialogueText: Chcę iść badać jaskinię w górach... ale wiem, że pójście tam bez broni jest zbyt niebezpiecznie.
+AudioName: 396.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s6
+DialogueText: Czasami używasz miecza, prawda?
+AudioName: 397.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s7
+DialogueText: Tak i jest to bardzo ekscytujące!
+AudioName: 398.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s8
+DialogueText: Tak, ale tylko w samoobronie
+AudioName: 399.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s9
+DialogueText: Tak, ale jest to niebezpieczne. Powinnaś na siebie uważać.
+AudioName: 400.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s10
+DialogueText: Nie
+AudioName: 401.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s11
+DialogueText: Tata? {Portrait:Custom:7}
+AudioName: 402.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s12
+DialogueText: Nie interesuj się! Myślisz, że powinnam być w domu i gotować, bo jestem dziewczyną?! {Portrait:Angry}
+AudioName: 403.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s13
+DialogueText: Serio! Jesteś starej daty, tato... {Portrait:Angry}
+AudioName: 404.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s14
+DialogueText: Chodźmy stąd, {Farmer_Name}. {Portrait:Angry}
+AudioName: 405.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s15
+DialogueText: To idziesz czy nie? {Portrait:Unique}
+AudioName: 406.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s16
+DialogueText: *ech*... Możesz uwierzyć, że moi rodzice byli kiedyś młodzi? W ogóle mnie nie rozumieją. {Portrait:Custom:8}
+AudioName: 407.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s17
+DialogueText: Wiem, wiem... dorastali w innych czasach, z innymi wartościami. Nadal mnie to czasem wkurza, ok? {Portrait:Unique}
+AudioName: 408.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s18
+DialogueText: Cóż, dzięki za wysłuchanie mnie {Farmer_Name}.
+AudioName: 409.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/4:s19
+DialogueText: Uch, teraz może pomożesz mi rozplątać włosy z tego krzaka? {Portrait:Happy}
+AudioName: 410.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195019:s0
+DialogueText: Hejka!
+AudioName: 411.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195019:s1
+DialogueText: Plotkowałyśmy o Burmistrzu Lewisie i Marnie... {Portrait:Happy}
+AudioName: 412.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s0
+DialogueText: Czekaj!
+AudioName: 413.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s1
+DialogueText: Nie spodziewałeś się, że spotkasz wszystkie swoje 'dziewczyny' w jednym pokoju, co {Farmer_Name}? {Portrait:Angry}
+AudioName: 414_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s2
+DialogueText: Nie spodziewałaś się, że spotkasz wszystkie swoje 'dziewczyny' w jednym pokoju, co {Farmer_Name}? {Portrait:Angry}
+AudioName: 415_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s3
+DialogueText: No? Co masz do powiedzenia? {Portrait:Angry}
+AudioName: 416.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s4
+DialogueText: Przepraszam... Co zrobiłem, było złe.
+AudioName: 417.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s5
+DialogueText: Panie, uspokójcie się! Mogę wyjaśnić...
+AudioName: 418.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/195012:s6
+DialogueText: Niezła próba, ale to niczego nie zmieni... {Portrait:Unique}
+AudioName: 419.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/lifestyleChoice:s0
+DialogueText: Z tego już nie dasz rady się wypłacać, {Farmer_Name}. {Portrait:Angry}
+AudioName: 420.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/150938:s0
+DialogueText: Nie.
+AudioName: 421.ogg
+--------------------------------------------------
+DialogueFrom: Event/ManorHouse/2123243:s0
+DialogueText: Fajnie
+AudioName: 422.ogg
+--------------------------------------------------
+DialogueFrom: Event/ManorHouse/2123243:s1
+DialogueText: Teraz ja!
+AudioName: 423.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s0
+DialogueText: {Farmer_Name}?
+AudioName: 424.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s1
+DialogueText: Przestraszyłeś mnie! Nie skradaj się tak do mnie!
+AudioName: 425_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s2
+DialogueText: Przestraszyłaś mnie! Nie skradaj się tak do mnie!
+AudioName: 426_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s3
+DialogueText: *ech*... Gram sobie w 'Podróż Króla Prerii' i nie mogę przejść pierwszego poziomu... {Portrait:Sad}
+AudioName: 427.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s4
+DialogueText: Ta gra jest absurdalnie trudna! {Portrait:Angry}
+AudioName: 428.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s5
+DialogueText: Albo ja nie umiem w to grać. {Portrait:Sad}
+AudioName: 429.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s6
+DialogueText: Hej, chcesz ze mną zagrać? Może razem nam się uda.
+AudioName: 430.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s7
+DialogueText: Ech, poddaję się... nigdy nie przejdę pierwszego poziomu. {Portrait:Sad}
+AudioName: 431.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/1:s8
+DialogueText: Cóż... Dzięki za chęci.
+AudioName: 432.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/beatGame:s0
+DialogueText: Hej, było fajnie! {Portrait:Happy}
+AudioName: 433.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/beatGame:s1
+DialogueText: Dzięki, {Farmer_Name}. Dobrze się znasz na graniu, prawda? W sumie to ma sens. {Portrait:Happy}
+AudioName: 434_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/beatGame:s2
+DialogueText: Dzięki, {Farmer_Name}. Nie przypuszczałam, że tak dobrze umiesz się posługiwać kontrolerem! Ale chyba masz wprawę. {Portrait:Happy}
+AudioName: 435_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s0
+DialogueText: Hej! Miałam nadzieję, że wpadniesz. Chciałam Ci coś pokazać.
+AudioName: 436.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s1
+DialogueText: Widzisz to? To plansza dusz.
+AudioName: 437.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s2
+DialogueText: Połóżmy razem dłoń na tym trójkącie... {Portrait:Love}
+AudioName: 438.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s3
+DialogueText: Teraz dusze nas pokierują... {Portrait:Happy}
+AudioName: 439.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s4
+DialogueText: PATRZ, rusza się! {Portrait:Custom:7}
+AudioName: 440.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s5
+DialogueText: J... A... 'Ja'...
+AudioName: 441.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s6
+DialogueText: ... '<'...
+AudioName: 442.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s7
+DialogueText: Patrz jak to idzie! Wychodzi... '%firstnameletter'...
+AudioName: 443.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s8
+DialogueText: Ja < %firstnameletter...?
+AudioName: 444.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s9
+DialogueText: Ups, przypadkowo wywróciłam plansze na ziemię! He he... {Portrait:Happy}
+AudioName: 445.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s10
+DialogueText: To tylko głupia gra, to nic nie znaczy. {Portrait:Custom:9}
+AudioName: 446.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/3:s11
+DialogueText: Ja, em, mam coś do zrobienia. Idź już... Wybacz. {Portrait:Custom:9}
+AudioName: 447.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s0
+DialogueText: Przestań mi mówić jak mam żyć! {Portrait:Angry}
+AudioName: 448.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s1
+DialogueText: Nie próbuj wzbudzić we mnie wyrzutów sumienia. {Portrait:Angry}
+AudioName: 449.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s2
+DialogueText: Doceniam to, że ty i tata mi pomagacie, ale kazanie mi ubierać się jak wy chcecie jest po prostu śmieszne. {Portrait:Angry}
+AudioName: 450.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s3
+DialogueText: Nie jestem już dzieckiem, Mamo. {Portrait:Unique}
+AudioName: 451.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s4
+DialogueText: Czy ktoś tam jest? {Portrait:Custom:7}
+AudioName: 452.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s5
+DialogueText: Przysięgam, ten dom jest nawiedzony.
+AudioName: 453.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s6
+DialogueText: Urgghh... {Portrait:Angry}
+AudioName: 454.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s7
+DialogueText: ... Pokłóciłam się z mamą. {Portrait:Sad}
+AudioName: 455.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s0
+DialogueText: {Farmer_Name}! Co ty tu robisz w taką pogodę? {Portrait:Custom:7}
+AudioName: 456.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s1
+DialogueText: Pracuję
+AudioName: 457.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s2
+DialogueText: Cieszę się pogodą
+AudioName: 458.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s3
+DialogueText: Mogę Cię zapytać o to samo
+AudioName: 459.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s4
+DialogueText: ... Przyszłam tu posiedzieć trochę w samotności. {Portrait:Custom:8}
+AudioName: 460.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s5
+DialogueText: Ale Twoje towarzystwo mi nie przeszkadza!
+AudioName: 461.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s6
+DialogueText: Chodź pod drzewo, bo przemokniesz.
+AudioName: 462.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s7
+DialogueText: Ciężko mi opisać to uczucie... oglądanie kropli deszczu szepczących nad cichym jeziorem. {Portrait:Custom:8}
+AudioName: 463.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s8
+DialogueText: Hej! To mini harfa! {Portrait:Happy}
+AudioName: 464.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s9
+DialogueText: Jesteś pełny niespodzianek, {Farmer_Name}. Jestem pod wrażeniem.
+AudioName: 465_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/2:s10
+DialogueText: Jesteś pełna niespodzianek, {Farmer_Name}. Jestem pod wrażeniem.
+AudioName: 466_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s0
+DialogueText: *smark* {Portrait:Sad}
+AudioName: 467.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s1
+DialogueText: Coś się stało?
+AudioName: 468.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s2
+DialogueText: Nic Ci nie jest?
+AudioName: 469.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s3
+DialogueText: Już od jakiegoś czasu ćwiczę walkę mieczem... {Portrait:Custom:9}
+AudioName: 470.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s4
+DialogueText: Pomyślałam, że dzisiaj jest ten dzień, w który w końcu wejdę do jaskiń... {Portrait:Custom:8}
+AudioName: 471.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s5
+DialogueText: ... ale się przestraszyłam. Nie dałam rady. {Portrait:Custom:8}
+AudioName: 472.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s6
+DialogueText: Chyba nie jestem taka twarda jak myślałam... {Portrait:Custom:8}
+AudioName: 473.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s7
+DialogueText: Ze mną jesteś bezpieczna.
+AudioName: 474.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s8
+DialogueText: Też się czasami boję.
+AudioName: 475.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s9
+DialogueText: Płaczesz jak jakiś dzidziuś. Przestań.
+AudioName: 476.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s10
+DialogueText: {Farmer_Name}, ja... bardzo Cię lubię... i nie tylko jako przyjaciela. Wiesz o tym, tak? {Portrait:Love}
+AudioName: 477.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s11
+DialogueText: Nie mogę w to uwierzyć, że to mówię... ale nie mogłam już wytrzymać. Za długo to w sobie dusiłam. {Portrait:Love}
+AudioName: 478.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s12
+DialogueText: Nie musisz nic mówić. Posiedźmy tu chwilę... {Portrait:Love}
+AudioName: 479_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mine/901756:s13
+DialogueText: Nie wiedziałam, że poczuję coś takiego do innej dziewczyny, dopóki Cię nie poznałam.
+AudioName: 480_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s0
+DialogueText: *głęboki wdech*...! {Portrait:Custom:7}
+AudioName: 481.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s1
+DialogueText: {Farmer_Name}...? {Portrait:Custom:6}
+AudioName: 482.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s2
+DialogueText: {Farmer_Name}... wszystko w porządku? {Portrait:Custom:6}
+AudioName: 483.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s3
+DialogueText: To zwykłe draśnięcie... przestraszyłam się!
+AudioName: 484.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s4
+DialogueText: N... nigdy jeszcze nikogo nie zabiłam... {Portrait:Sad}
+AudioName: 485.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s5
+DialogueText: Tak... zrobiłam to co musiałam. {Portrait:Sad}
+AudioName: 486.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s6
+DialogueText: Myślę że świat jest strasznym miejscem. Albo ty albo on, prawda? {Portrait:Custom:6}
+AudioName: 487.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s7
+DialogueText: ... Czy one nie próbują tylko przeżyć, tak jak my? {Portrait:Sad}
+AudioName: 488.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s8
+DialogueText: Może i są naszymi wrogami, ale i tak uważam, że zasługują na trochę współczucia. {Portrait:Custom:6}
+AudioName: 489.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s9
+DialogueText: I tak... zrobiłam co musiałam. {Portrait:Custom:6}
+AudioName: 490.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s10
+DialogueText: Hę? Brzmi trochę zabawnie, jak słyszysz to od osoby, którą się właśnie uratowało... {Portrait:Happy}
+AudioName: 491.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s11
+DialogueText: Ale... tak... Czasami jesteśmy zmuszeni do robienia rzeczy, których nie chcielibyśmy robić... Chyba uczę się tego gorszą metodą. {Portrait:Custom:6}
+AudioName: 492.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s12
+DialogueText: Hej! Uratowałam Cię, prawda? Może najpierw zastanów się, zanim spróbujesz wzbudzić we mnie poczucie winy. {Portrait:Angry}
+AudioName: 493.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s13
+DialogueText: Słuchaj... Musisz bardziej uważać. Nie chcę Cię stracić.
+AudioName: 494.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s14
+DialogueText: Zakopmy go gdzieś... ok? {Portrait:Custom:6}
+AudioName: 495.ogg
+--------------------------------------------------
+DialogueFrom: Event/Backwoods/6963327:s15
+DialogueText: Dobrze, że wzięłam ze sobą mój miecz! {Portrait:Custom:6}
+AudioName: 496.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Abigail_spouse
+DialogueText: W tamtym roku ukończyłam wszystkie te gry! {Portrait:Happy}
+AudioName: 497.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Abigail
+DialogueText: Już ukończyłam wszystkie gry... Co teraz?
+AudioName: 498.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Abigail_spouse_y2
+DialogueText: Czy te bronie nie są super? Może jedną z nich kupimy do domu? {Portrait:Neutral}
+AudioName: 499.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Abigail_y2
+DialogueText: To ostrze jest takie eleganckie. Może kiedyś będę miała tyle pieniędzy, żeby sobie takie kupić! {Portrait:Neutral}
+AudioName: 500.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail_spouse
+DialogueText: Musisz mi powiedzieć co tam jest, nie mogę tam iść... Pająki... {Portrait:Sad}
+AudioName: 501.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail
+DialogueText: Nie mogę iść dalej... Pająki... {Portrait:Sad}
+AudioName: 502.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail_spouse_y2
+DialogueText: Walczyłeś z takimi potworami? {Portrait:Neutral}
+AudioName: 503_male.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail_spouse_y2
+DialogueText: Walczyłaś z takimi potworami? {Portrait:Neutral}
+AudioName: 504_female.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail_spouse_y2
+DialogueText: Nawet... p-pająkami? {Portrait:Sad}
+AudioName: 505.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail_y2
+DialogueText: Widziałeś dekoracje na naszym domu? Nie podobają mi się... {Portrait:Sad}
+AudioName: 506_male.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Abigail_y2
+DialogueText: Widziałaś dekoracje na naszym domu? Nie podobają mi się... {Portrait:Sad}
+AudioName: 507_female.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Abigail_spouse
+DialogueText: Idź sobie. Dopóki polowanie na jajka się nie skończy, jesteśmy rywalami! {Portrait:Happy}
+AudioName: 508.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Abigail
+DialogueText: Szukanie jajek jest jak poszukiwania skarbów. {Portrait:Happy}
+AudioName: 509.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Abigail_y2
+DialogueText: Czy myślisz, że jestem na to za stara?
+AudioName: 510.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Abigail_y2
+DialogueText: Hmmph... Brzmisz jak moja mama! {Portrait:Angry}
+AudioName: 511.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Abigail_y2
+DialogueText: Też tak myślę. Jeśli nadal mam z tego frajdę, po co przestawać?
+AudioName: 512.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Abigail
+DialogueText: Nienawidzę tańczyć przed wszystkimi... To takie krępujące.
+AudioName: 513.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Abigail
+DialogueText: Mama mnie do tego zmusiła. {Portrait:Unique}
+AudioName: 514.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Abigail_spouse_y2
+DialogueText: Jak nie chcesz, to nie musimy tańczyć! {Portrait:Happy}
+AudioName: 515.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Abigail_y2
+DialogueText: W tym roku powinna tańczyć starszyzna. Na pewno by im się spodobało!
+AudioName: 516.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Abigail_spouse
+DialogueText: Nie będę Ci przeszkadzać w zabawie. Chcę pooglądać ocean.
+AudioName: 517.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Abigail
+DialogueText: Ciężko mi jest rozmawiać z innymi... Wolę oglądać ocean.
+AudioName: 518.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Abigail_spouse_y2
+DialogueText: Po spróbowaniu zupy, posiedźmy razem w dokach, z dala od innych. {Portrait:Neutral}
+AudioName: 519.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Abigail_y2
+DialogueText: Mój ojciec ma obsesję na punkcie wizyty gubernatora. Wszystko musi być idealne!
+AudioName: 520.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Abigail_y2
+DialogueText: Myślę, że chciałby zostać burmistrzem... {Portrait:Custom:9}
+AudioName: 521.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Abigail
+DialogueText: Cóż za rzadki i ekscytujący dzień...
+AudioName: 522.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Abigail_spouse_y2
+DialogueText: Przyniosłam nam kocyk, w razie jakby zrobiło się chłodno. {Portrait:Neutral}
+AudioName: 523.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Abigail_spouse_y2
+DialogueText: Jest trochę mały, ale jakoś się zmieścimy... {Portrait:Love}
+AudioName: 524.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Abigail_y2
+DialogueText: Podobno istnieje rzadki rodzaj zielonej meduzy. Chcę taką zobaczyć jako pierwsza! {Portrait:Neutral}
+AudioName: 525.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Abigail_spouse
+DialogueText: Zastanawiam się czy spróbować tych lasek cukrowych...
+AudioName: 526.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Abigail
+DialogueText: Nie ma to jak ciepły obiad w chłodny, zimowy dzień. {Portrait:Happy}
+AudioName: 527.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Abigail_spouse_y2
+DialogueText: Brr... ale zimnica! Chcę wrócić pod pierzynę...
+AudioName: 528.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Abigail_y2
+DialogueText: Zastanawiam się, który prezent jest dla mnie... {Portrait:Neutral}
+AudioName: 529.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Abigail_y2
+DialogueText: Mam nadzieję, że to ten duży! {Portrait:Happy}
+AudioName: 530.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail_spouse
+DialogueText: Hej, Kochanie... popatrz, to ty! {Portrait:Happy}
+AudioName: 531.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail
+DialogueText: Co myślisz o moim zimnym draniu?
+AudioName: 532.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail_spouse_y2
+DialogueText: Wyobraź sobie, jakbyśmy mieszkali razem w igloo! {Portrait:Happy}
+AudioName: 533.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail_spouse_y2
+DialogueText: Byłoby fajnie, ale dobrze mi z Tobą gdziekolwiek. {Portrait:Love}
+AudioName: 534.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail_y2
+DialogueText: Rzucałeś kiedyś masę kamyków na zamrożone jezioro? Robią przyjemny dźwięk.
+AudioName: 535_male.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail_y2
+DialogueText: Rzucałaś kiedyś masę kamyków na zamrożone jezioro? Robią przyjemny dźwięk.
+AudioName: 536_female.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Abigail_y2
+DialogueText: ... Nie mów tacie, ale noszę pod płaszczem sweter świąteczny.
+AudioName: 537.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Abigail:s0
+DialogueText: Uwielbiam to! Dziękuję, {Farmer_Name}!
+AudioName: 538.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Abigail:s1
+DialogueText: Hej, właśnie zgłodniałam. Wygląda apetycznie!
+AudioName: 539.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Abigail:s2
+DialogueText: Co ja niby mam z tym zrobić?
+AudioName: 540.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Abigail:s3
+DialogueText: Co ty sobie wyobrażasz? To jest okropne!
+AudioName: 541.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Abigail:s4
+DialogueText: To dla mnie? Dzięki.
+AudioName: 542.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SeedShop_Abigail_Drawers
+DialogueText: Hej, nawet o tym nie myśl! To własność prywatna! {Portrait:Angry}
+AudioName: 543.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Abigail_QualityLow
+DialogueText: Hej. kupiliśmy {2} na kolację, które sprzedałeś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}
+AudioName: 544_male.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Abigail_QualityLow
+DialogueText: Hej. kupiliśmy {2} na kolację, które sprzedałaś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}
+AudioName: 545_female.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Abigail_QualityLow
+DialogueText: Niestety smakowało jak {3}. {Portrait:Sad}
+AudioName: 546.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Abigail_QualityHigh
+DialogueText: Hej. kupiliśmy {2} na kolację, które sprzedałeś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}
+AudioName: 547_male.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Abigail_QualityHigh
+DialogueText: Hej. kupiliśmy {2} na kolację, które sprzedałaś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}
+AudioName: 548_female.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Abigail_QualityHigh
+DialogueText: Nawet nie było takie złe.
+AudioName: 549.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Abigail
+DialogueText: Patrzenie stąd na horyzont... Mam poczucie nieskończonych możliwości.
+AudioName: 550.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Abigail
+DialogueText: Cieszę się, że mogę odkrywać ten świat z Tobą... {Portrait:Love}
+AudioName: 551.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_summer_movie_0_BeforeMovie
+DialogueText: Nie mogę w to uwierzyć, że zrobili film o Królu Prerii... Miejmy nadzieję, że jest dobry!
+AudioName: 552.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_summer_movie_0_DuringMovie
+DialogueText: Posłuchaj... ma tą starą, znajomą muzykę. {Portrait:Happy}
+AudioName: 553.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_summer_movie_0_AfterMovie
+DialogueText: Cóż, gra aktorska była okropna, ale nadal się dobrze bawiłam. {Portrait:Happy}
+AudioName: 554.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_spring_movie_1_BeforeMovie
+DialogueText: Nie mogę się doczekać aż 'zbadam nasz tętniący życiem świat'... a ty? {Portrait:Happy}
+AudioName: 555.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_spring_movie_1_DuringMovie
+DialogueText: Tego nie wiedziałam!
+AudioName: 556.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_spring_movie_1_AfterMovie
+DialogueText: To było bardzo interesujące. Najbardziej podobały mi się szopy... Są takie słodkie! {Portrait:Happy}
+AudioName: 557.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_love_BeforeMovie
+DialogueText: Uwielbiam horrory... Mam nadzieję, że ten będzie straszny! {Portrait:Happy}
+AudioName: 558.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_love_DuringMovie
+DialogueText: Ha ha! Nie jest straszny, ale podoba mi się. {Portrait:Happy}
+AudioName: 559.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_love_DuringMovie_2
+DialogueText: Abigail się śmieje!
+AudioName: 560.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_love_AfterMovie
+DialogueText: Trochę kiczowaty, ale może być. {Portrait:Happy}
+AudioName: 561.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_like_BeforeMovie
+DialogueText: Hej! Dzięki za zaproszenie, chętnie pójdę na film. {Portrait:Happy}
+AudioName: 562.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_like_AfterMovie
+DialogueText: To było interesujące... Zastanawiam się co bym zrobiła w tej sytuacji?
+AudioName: 563.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_dislike_BeforeMovie
+DialogueText: Z tego co widziałam w zwiastunie, to zapowiada się na maraton spania... {Portrait:Custom:6}
+AudioName: 564.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_dislike_DuringMovie
+DialogueText: Obudź mnie, jak będzie coś ciekawego. {Portrait:Custom:6}
+AudioName: 565.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Abigail_dislike_AfterMovie
+DialogueText: *ziew*... To było nudne, co nie? {Portrait:Custom:6}
+AudioName: 566.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Abigail
+DialogueText: Cieszę się, że naprawiłeś autobus! {Portrait:Happy}
+AudioName: 567_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Abigail
+DialogueText: Cieszę się, że naprawiłaś autobus! {Portrait:Happy}
+AudioName: 568_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Abigail
+DialogueText: Zawsze chciałam zobaczyć coś poza Miastem Pelikan.
+AudioName: 569.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Abigail_marriage
+DialogueText: Myślałam, czy nie dołączyć do Ciebie w Kościanej Pieczarze, ale wtedy zobaczyłam stoisko z żarciem...
+AudioName: 570.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Abigail_marriage
+DialogueText: Możesz iść beze mnie... tylko uważaj!
+AudioName: 571.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Shop_Abigail
+DialogueText: Hej, wzięłam parę losowych rzeczy z mojej szafy. Chcesz coś?
+AudioName: 572.ogg
+--------------------------------------------------
