@@ -1,0 +1,926 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "ZieloneOczka.PolskiDubbingMod.Kent.pt-BR",
+      "VoicePackName": "PolskiDubbingVoicePack (Kent - pt-BR)",
+      "Character": "Kent",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Witaj, farmerze.",
+          "AudioPath": "assets/pt-BR/Kent/1_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj, erze.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Witaj, farmerko.",
+          "AudioPath": "assets/pt-BR/Kent/2_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Witaj, erko.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Tak długo mnie tu nie było... Czuję się tu trochę obco.",
+          "AudioPath": "assets/pt-BR/Kent/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Mon",
+          "PageIndex": 2,
+          "DisplayPattern": "Tak długo mnie tu nie było... Czuję się tu trochę obco."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "To dla mnie? Cóż, nie spodziewałem się tego... ale nie odmówię. Dzięki!",
+          "AudioPath": "assets/pt-BR/Kent/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "To dla mnie? Cóż, nie spodziewałem się tego... ale nie odmówię. Dzięki!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)Book_Bombs",
+          "DialogueText": "Cóż, nie znam krasnoludzkiego, ale to ciekawy przedmiot kolekcjonerski. Dziękuję.",
+          "AudioPath": "assets/pt-BR/Kent/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:AcceptGift_(O)Book_Bombs",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, nie znam krasnoludzkiego, ale to ciekawy przedmiot kolekcjonerski. Dziękuję."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Heh... Deszcz to błogosławieństwo. Przypomnienie, że zawsze istnieją siły większe niż wszystko, co stworzył człowiek.",
+          "AudioPath": "assets/pt-BR/Kent/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:GreenRain_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Heh... Deszcz to błogosławieństwo. Przypomnienie, że zawsze istnieją siły większe niż wszystko, co stworzył człowiek."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Jest to poniekąd pocieszające, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Kent/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:GreenRain_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Jest to poniekąd pocieszające, ."
+        },
+        {
+          "DialogueFrom": "Resort_Entering",
+          "DialogueText": "Hej, {Farmer_Name}. Dobrze Cię widzieć.",
+          "AudioPath": "assets/pt-BR/Kent/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Entering",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Dobrze Cię widzieć."
+        },
+        {
+          "DialogueFrom": "Resort_Leaving",
+          "DialogueText": "Pora wracać.",
+          "AudioPath": "assets/pt-BR/Kent/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Leaving",
+          "PageIndex": 0,
+          "DisplayPattern": "Pora wracać."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Stojąc na tej plaży... czuję rzadkie poczucie spokoju. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Shore",
+          "PageIndex": 0,
+          "DisplayPattern": "Stojąc na tej plaży... czuję rzadkie poczucie spokoju."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Ocean jest naprawdę wyjątkowy.",
+          "AudioPath": "assets/pt-BR/Kent/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Shore",
+          "PageIndex": 1,
+          "DisplayPattern": "Ocean jest naprawdę wyjątkowy."
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "To dobre miejsce do budowania więzi z rodziną. Naprawdę doceniam, że to naprawiłeś.",
+          "AudioPath": "assets/pt-BR/Kent/12_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Chair",
+          "PageIndex": 0,
+          "DisplayPattern": "To dobre miejsce do budowania więzi z rodziną. Naprawdę doceniam, że to naprawiłeś.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "To dobre miejsce do budowania więzi z rodziną. Naprawdę doceniam, że to naprawiłaś.",
+          "AudioPath": "assets/pt-BR/Kent/13_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Chair",
+          "PageIndex": 1,
+          "DisplayPattern": "To dobre miejsce do budowania więzi z rodziną. Naprawdę doceniam, że to naprawiłaś.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Resort_Bar",
+          "DialogueText": "Wezmę wodę.",
+          "AudioPath": "assets/pt-BR/Kent/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort_Bar",
+          "PageIndex": 0,
+          "DisplayPattern": "Wezmę wodę."
+        },
+        {
+          "DialogueFrom": "married_Sam",
+          "DialogueText": "Ojciec czuje dumę, widząc, jak jego syn staje się mężczyzną. Masz moje serdeczne błogosławieństwo. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:married_Sam",
+          "PageIndex": 0,
+          "DisplayPattern": "Ojciec czuje dumę, widząc, jak jego syn staje się mężczyzną. Masz moje serdeczne błogosławieństwo."
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "Fajnie się tutaj płynęło. Mogłem nawet wykorzystać część mojego szkolenia żeglarskiego do nawigacji. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Resort",
+          "PageIndex": 0,
+          "DisplayPattern": "Fajnie się tutaj płynęło. Mogłem nawet wykorzystać część mojego szkolenia żeglarskiego do nawigacji."
+        },
+        {
+          "DialogueFrom": "eventSeen_100_memory_oneday",
+          "DialogueText": "Przepraszam za wczoraj.",
+          "AudioPath": "assets/pt-BR/Kent/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:eventSeen_100_memory_oneday",
+          "PageIndex": 0,
+          "DisplayPattern": "Przepraszam za wczoraj."
+        },
+        {
+          "DialogueFrom": "eventSeen_100_memory_oneday",
+          "DialogueText": "Nie chcę żadnego specjalnego traktowania. Chcę po prostu być normalną osobą, jak każdy inny.",
+          "AudioPath": "assets/pt-BR/Kent/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:eventSeen_100_memory_oneday",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie chcę żadnego specjalnego traktowania. Chcę po prostu być normalną osobą, jak każdy inny."
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Em... ok. Dziękuję. Spotkamy się na miejscu. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:MovieInvitation",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... ok. Dziękuję. Spotkamy się na miejscu."
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "...! {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Kent/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 0,
+          "DisplayPattern": "...!"
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "... Skąd to masz? {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Kent/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 1,
+          "DisplayPattern": "... Skąd to masz?"
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "... {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Kent/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 2,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "On... walczyliśmy razem na wojnie, {Farmer_Name}. Był dla mnie jak brat.",
+          "AudioPath": "assets/pt-BR/Kent/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 3,
+          "DisplayPattern": "On... walczyliśmy razem na wojnie, . Był dla mnie jak brat."
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "Ale... tylko jeden z nas wrócił. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Kent/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 4,
+          "DisplayPattern": "Ale... tylko jeden z nas wrócił."
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "Do końca zachował zimną krew. Nawet w obliczu śmierci. Prawdziwy bohater... nigdy mu tego nie zapomnę.",
+          "AudioPath": "assets/pt-BR/Kent/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 5,
+          "DisplayPattern": "Do końca zachował zimną krew. Nawet w obliczu śmierci. Prawdziwy bohater... nigdy mu tego nie zapomnę."
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "Dziękuję Ci za to... to dla mnie naprawdę wiele znaczy.",
+          "AudioPath": "assets/pt-BR/Kent/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 6,
+          "DisplayPattern": "Dziękuję Ci za to... to dla mnie naprawdę wiele znaczy."
+        },
+        {
+          "DialogueFrom": "accept_864",
+          "DialogueText": "Proszę, weź to. Stało za naszą szafą przez lata i tylko się kurzyło.",
+          "AudioPath": "assets/pt-BR/Kent/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:accept_864",
+          "PageIndex": 7,
+          "DisplayPattern": "Proszę, weź to. Stało za naszą szafą przez lata i tylko się kurzyło."
+        },
+        {
+          "DialogueFrom": "reject_865",
+          "DialogueText": "Tak... Jest szczelnie zapakowane, żeby zachowało smak.",
+          "AudioPath": "assets/pt-BR/Kent/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:reject_865",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak... Jest szczelnie zapakowane, żeby zachowało smak."
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Nie wiem, czy kiedykolwiek znów przyzwyczaję się do takiego życia.",
+          "AudioPath": "assets/pt-BR/Kent/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Mon4",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wiem, czy kiedykolwiek znów przyzwyczaję się do takiego życia."
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Ten spokój jest dla mnie trochę dziwny... ale może to kwestia czasu.",
+          "AudioPath": "assets/pt-BR/Kent/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Mon4",
+          "PageIndex": 1,
+          "DisplayPattern": "Ten spokój jest dla mnie trochę dziwny... ale może to kwestia czasu."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Odkąd wyjechałem, wiele się nie zmieniło.",
+          "AudioPath": "assets/pt-BR/Kent/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Odkąd wyjechałem, wiele się nie zmieniło."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Pomijając to, że ty tu jesteś.",
+          "AudioPath": "assets/pt-BR/Kent/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Pomijając to, że ty tu jesteś."
+        },
+        {
+          "DialogueFrom": "Tue2",
+          "DialogueText": "Odkąd wyjechałem, wiele się nie zmieniło.",
+          "AudioPath": "assets/pt-BR/Kent/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Tue2",
+          "PageIndex": 0,
+          "DisplayPattern": "Odkąd wyjechałem, wiele się nie zmieniło."
+        },
+        {
+          "DialogueFrom": "Tue2",
+          "DialogueText": "Poza tym, że mamy nowego farmera. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Tue2",
+          "PageIndex": 1,
+          "DisplayPattern": "Poza tym, że mamy nowego era."
+        },
+        {
+          "DialogueFrom": "Tue6",
+          "DialogueText": "Czuję, że całkiem nieźle się zaaklimatyzowałem. Miło mieć przyjaciela w mieście. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Tue6",
+          "PageIndex": 0,
+          "DisplayPattern": "Czuję, że całkiem nieźle się zaaklimatyzowałem. Miło mieć przyjaciela w mieście."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "... Na wojnie straciłem wielu przyjaciół. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Wed6",
+          "PageIndex": 0,
+          "DisplayPattern": "... Na wojnie straciłem wielu przyjaciół."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Najgorsze jest to, że nie pamiętam już ich twarzy.",
+          "AudioPath": "assets/pt-BR/Kent/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Wed6",
+          "PageIndex": 1,
+          "DisplayPattern": "Najgorsze jest to, że nie pamiętam już ich twarzy."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Kent/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Wed6",
+          "PageIndex": 2,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Mieszkasz tu już od jakiegoś czasu, prawda? Twoja farma musi dobrze prosperować.",
+          "AudioPath": "assets/pt-BR/Kent/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Mieszkasz tu już od jakiegoś czasu, prawda? Twoja a musi dobrze prosperować."
+        },
+        {
+          "DialogueFrom": "Wed10",
+          "DialogueText": "Życie to wyjątkowy dar. Przychodzi i odchodzi w mgnieniu oka... Nigdy o tym nie zapominaj.",
+          "AudioPath": "assets/pt-BR/Kent/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Wed10",
+          "PageIndex": 0,
+          "DisplayPattern": "Życie to wyjątkowy dar. Przychodzi i odchodzi w mgnieniu oka... Nigdy o tym nie zapominaj."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "# {Portrait:Happy} Kent1",
+          "AudioPath": "assets/pt-BR/Kent/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu6",
+          "PageIndex": 0,
+          "DisplayPattern": "# Kent1"
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Od czwartej rano jestem na nogach... czasami zastanawiam się, czy kiedykolwiek wrócę do normalnego trybu życia.$k",
+          "AudioPath": "assets/pt-BR/Kent/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu6",
+          "PageIndex": 1,
+          "DisplayPattern": "Od czwartej rano jestem na nogach... czasami zastanawiam się, czy kiedykolwiek wrócę do normalnego trybu życia."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Sam naprawdę sporo urósł. Jest już mężczyzną.",
+          "AudioPath": "assets/pt-BR/Kent/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu6",
+          "PageIndex": 2,
+          "DisplayPattern": "Sam naprawdę sporo urósł. Jest już mężczyzną."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Szkoda, że nie mogłem być przy nim przez te wszystkie lata. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu6",
+          "PageIndex": 3,
+          "DisplayPattern": "Szkoda, że nie mogłem być przy nim przez te wszystkie lata."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Przyjaźnisz się z moim synem?",
+          "AudioPath": "assets/pt-BR/Kent/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyjaźnisz się z moim synem?"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Prawdopodobnie znasz go lepiej niż ja... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Prawdopodobnie znasz go lepiej niż ja..."
+        },
+        {
+          "DialogueFrom": "Thu_inlaw_Sam",
+          "DialogueText": "Witaj, {Farmer_Name}. Jak tam po ślubie?",
+          "AudioPath": "assets/pt-BR/Kent/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Thu_inlaw_Sam",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj, . Jak tam po ślubie?"
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Całkiem niezły dzień, żeby wybrać się na ryby, co nie?",
+          "AudioPath": "assets/pt-BR/Kent/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Całkiem niezły dzień, żeby wybrać się na ryby, co nie?"
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Powinienem zacząć chodzić na ryby. To by mi dobrze zrobiło.",
+          "AudioPath": "assets/pt-BR/Kent/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Fri4",
+          "PageIndex": 0,
+          "DisplayPattern": "Powinienem zacząć chodzić na ryby. To by mi dobrze zrobiło."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Jodi mówiła, że stałeś się częścią tej społeczności. Miło mi to słyszeć.",
+          "AudioPath": "assets/pt-BR/Kent/50_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Jodi mówiła, że stałeś się częścią tej społeczności. Miło mi to słyszeć.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Jodi mówiła, że stałaś się częścią tej społeczności. Miło mi to słyszeć.",
+          "AudioPath": "assets/pt-BR/Kent/51_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Jodi mówiła, że stałaś się częścią tej społeczności. Miło mi to słyszeć.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Mam problemy ze snem, więc nie przejmuj się, jeśli wyglądam na zmęczonego.",
+          "AudioPath": "assets/pt-BR/Kent/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sat8",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam problemy ze snem, więc nie przejmuj się, jeśli wyglądam na zmęczonego."
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Mam nadzieję, że to rozumiesz.",
+          "AudioPath": "assets/pt-BR/Kent/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sat8",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam nadzieję, że to rozumiesz."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Nie wiem, co ze sobą zrobić.",
+          "AudioPath": "assets/pt-BR/Kent/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wiem, co ze sobą zrobić."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Jestem przyzwyczajony do planowania każdego dnia.",
+          "AudioPath": "assets/pt-BR/Kent/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Jestem przyzwyczajony do planowania każdego dnia."
+        },
+        {
+          "DialogueFrom": "Sun4",
+          "DialogueText": "Masz jakieś zajęcie, co? To bardzo dobrze.",
+          "AudioPath": "assets/pt-BR/Kent/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sun4",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz jakieś zajęcie, co? To bardzo dobrze."
+        },
+        {
+          "DialogueFrom": "Sun4",
+          "DialogueText": "Za dużo wolności może przytłaczać. Wszyscy potrzebujemy jakiejś struktury w życiu.",
+          "AudioPath": "assets/pt-BR/Kent/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:Sun4",
+          "PageIndex": 1,
+          "DisplayPattern": "Za dużo wolności może przytłaczać. Wszyscy potrzebujemy jakiejś struktury w życiu."
+        },
+        {
+          "DialogueFrom": "event_popcorn1",
+          "DialogueText": "Cicho bądź! Przestań próbować mnie skłócić z żoną. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Kent/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:event_popcorn1",
+          "PageIndex": 0,
+          "DisplayPattern": "Cicho bądź! Przestań próbować mnie skłócić z żoną."
+        },
+        {
+          "DialogueFrom": "event_popcorn2",
+          "DialogueText": "... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:event_popcorn2",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "event_popcorn2",
+          "DialogueText": "Masz rację, {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:event_popcorn2",
+          "PageIndex": 1,
+          "DisplayPattern": "Masz rację, ."
+        },
+        {
+          "DialogueFrom": "event_popcorn3",
+          "DialogueText": "Nie kłam! Nie znoszę kłamstw bardziej niż czegokolwiek innego! {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Kent/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Kent:event_popcorn3",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie kłam! Nie znoszę kłamstw bardziej niż czegokolwiek innego!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/63:s0",
+          "DialogueText": "Em... witaj. Jestem Kent. Wróciłem ostatniej nocy... z zagranicy. Żona mi powiedziała, że wprowadził się nowy farmer.",
+          "AudioPath": "assets/pt-BR/Kent/62.ogg",
+          "TranslationKey": "Events/Farm:63:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... witaj. Jestem Kent. Wróciłem ostatniej nocy... z zagranicy. Żona mi powiedziała, że wprowadził się nowy er."
+        },
+        {
+          "DialogueFrom": "Event/Farm/63:s1",
+          "DialogueText": "Cóż, chciałem się tylko przedstawić... Do zobaczenia.",
+          "AudioPath": "assets/pt-BR/Kent/63.ogg",
+          "TranslationKey": "Events/Farm:63:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, chciałem się tylko przedstawić... Do zobaczenia."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/95:s0",
+          "DialogueText": "Cześć {Farmer_Name}. Proszę, zapraszam.",
+          "AudioPath": "assets/pt-BR/Kent/64.ogg",
+          "TranslationKey": "Events/SamHouse:95:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć . Proszę, zapraszam."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/95:s1",
+          "DialogueText": "He he. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/65.ogg",
+          "TranslationKey": "Events/SamHouse:95:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "He he."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/95:s2",
+          "DialogueText": "Mmm... Ten chrupiący Bass był przepyszny! Panierka była wspaniała...",
+          "AudioPath": "assets/pt-BR/Kent/66.ogg",
+          "TranslationKey": "Events/SamHouse:95:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mmm... Ten chrupiący Bass był przepyszny! Panierka była wspaniała..."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/95:s3",
+          "DialogueText": "Czuję się prawie jak członek rodziny.",
+          "AudioPath": "assets/pt-BR/Kent/67.ogg",
+          "TranslationKey": "Events/SamHouse:95:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Czuję się prawie jak członek rodziny."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s0",
+          "DialogueText": "AAAAAHHHHHHH!!! {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Kent/68.ogg",
+          "TranslationKey": "Events/SamHouse:100:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "AAAAAHHHHHHH!!!"
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s1",
+          "DialogueText": "Ten dźwięk... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/69.ogg",
+          "TranslationKey": "Events/SamHouse:100:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten dźwięk..."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s2",
+          "DialogueText": "Ten dźwięk przypomina mi o wojnie! {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Kent/70.ogg",
+          "TranslationKey": "Events/SamHouse:100:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten dźwięk przypomina mi o wojnie!"
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s3",
+          "DialogueText": "... Straciłem wielu przyjaciół w tych krwawych okopach. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/71.ogg",
+          "TranslationKey": "Events/SamHouse:100:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "... Straciłem wielu przyjaciół w tych krwawych okopach."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s4",
+          "DialogueText": "... Trochę się pozmieniało.",
+          "AudioPath": "assets/pt-BR/Kent/72.ogg",
+          "TranslationKey": "Events/SamHouse:100:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "... Trochę się pozmieniało."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s5",
+          "DialogueText": "(Powiedz mu coś) {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/73.ogg",
+          "TranslationKey": "Events/SamHouse:100:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "(Powiedz mu coś)"
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s6",
+          "DialogueText": "Powinniśmy winić Jodi... Mogła się domyślić!",
+          "AudioPath": "assets/pt-BR/Kent/74.ogg",
+          "TranslationKey": "Events/SamHouse:100:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Powinniśmy winić Jodi... Mogła się domyślić!"
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s7",
+          "DialogueText": "Wiem, że cierpisz... ale nie wiń swojej żony.",
+          "AudioPath": "assets/pt-BR/Kent/75.ogg",
+          "TranslationKey": "Events/SamHouse:100:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiem, że cierpisz... ale nie wiń swojej żony."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s8",
+          "DialogueText": "(Kłamstwo) To moja wina... Zachciało mi się popcornu",
+          "AudioPath": "assets/pt-BR/Kent/76.ogg",
+          "TranslationKey": "Events/SamHouse:100:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "(Kłamstwo) To moja wina... Zachciało mi się popcornu"
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s9",
+          "DialogueText": "... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Kent/77.ogg",
+          "TranslationKey": "Events/SamHouse:100:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/SamHouse/100:s10",
+          "DialogueText": "Wybacz, Kochanie. Nie wiedziałaś, że odgłosy popcornu mogą mnie denerwować.",
+          "AudioPath": "assets/pt-BR/Kent/78.ogg",
+          "TranslationKey": "Events/SamHouse:100:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, Kochanie. Nie wiedziałaś, że odgłosy popcornu mogą mnie denerwować."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3917590:s0",
+          "DialogueText": "Cieszę się, że mam pretekst żeby wyjść z domu i oderwać myśli od różnych rzeczy.",
+          "AudioPath": "assets/pt-BR/Kent/79.ogg",
+          "TranslationKey": "Events/Saloon:3917590:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że mam pretekst żeby wyjść z domu i oderwać myśli od różnych rzeczy."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Kent",
+          "DialogueText": "Czekam aż ten klaun zrobi coś śmiesznego.",
+          "AudioPath": "assets/pt-BR/Kent/80.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Czekam aż ten klaun zrobi coś śmiesznego."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Kent",
+          "DialogueText": "Rozczarowujące.",
+          "AudioPath": "assets/pt-BR/Kent/81.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Kent",
+          "PageIndex": 1,
+          "DisplayPattern": "Rozczarowujące."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Kent_y2",
+          "DialogueText": "*heh* Mój syn ma cela. Ciekawe czy ma to po mnie. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/82.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*heh* Mój syn ma cela. Ciekawe czy ma to po mnie."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Kent",
+          "DialogueText": "Hej, {Farmer_Name}. Dobry wieczór?",
+          "AudioPath": "assets/pt-BR/Kent/83.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Dobry wieczór?"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Kent_y2",
+          "DialogueText": "Nie wyglądają na takie twarde. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Kent/84.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wyglądają na takie twarde."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Kent",
+          "DialogueText": "Tak szczerze, to nie lubię jajek.",
+          "AudioPath": "assets/pt-BR/Kent/85.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak szczerze, to nie lubię jajek."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Kent",
+          "DialogueText": "Ta otwarta przestrzeń... Denerwuję się przez nią.",
+          "AudioPath": "assets/pt-BR/Kent/86.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Ta otwarta przestrzeń... Denerwuję się przez nią."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Kent",
+          "DialogueText": "*szept* Myśl pozytywnie, Kent. Myśl pozytywnie.",
+          "AudioPath": "assets/pt-BR/Kent/87.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Kent",
+          "PageIndex": 1,
+          "DisplayPattern": "*szept* Myśl pozytywnie, Kent. Myśl pozytywnie."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Kent_y2",
+          "DialogueText": "Zastanawiasz się czasami... czemu uważamy, że kwiatki są takie piękne?",
+          "AudioPath": "assets/pt-BR/Kent/88.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiasz się czasami... czemu uważamy, że kwiatki są takie piękne?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Kent_y2",
+          "DialogueText": "Jeśli z Jodi będziemy mieć kiedyś córkę, może nazwiemy ją po jakimś kwiatku. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/89.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Kent_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli z Jodi będziemy mieć kiedyś córkę, może nazwiemy ją po jakimś kwiatku."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Kent",
+          "DialogueText": "Hej, dobrze Cię widzieć.",
+          "AudioPath": "assets/pt-BR/Kent/90.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, dobrze Cię widzieć."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Kent_y2",
+          "DialogueText": "*niuch*... Zapachy najlepiej przywołują wspomnienia... {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Kent/91.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*... Zapachy najlepiej przywołują wspomnienia..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Kent_y2",
+          "DialogueText": "To może być dobre i złe...",
+          "AudioPath": "assets/pt-BR/Kent/92.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Kent_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "To może być dobre i złe..."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Kent",
+          "DialogueText": "Dobry wieczór, {Farmer_Name}. Mam nadzieję, że znajdziesz chwilę na odpoczynek przed zbiorami.",
+          "AudioPath": "assets/pt-BR/Kent/93.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobry wieczór, . Mam nadzieję, że znajdziesz chwilę na odpoczynek przed zbiorami."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Kent_y2",
+          "DialogueText": "Hej. Masz wielkie plany na jesień?",
+          "AudioPath": "assets/pt-BR/Kent/94.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Masz wielkie plany na jesień?"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Kent",
+          "DialogueText": "Dobry wieczór, {Farmer_Name}. Miłego ucztowania.",
+          "AudioPath": "assets/pt-BR/Kent/95.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobry wieczór, . Miłego ucztowania."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Kent_y2",
+          "DialogueText": "Jestem wdzięczny za to, że widzę jakie moje dziecko jest zdrowe i szczęśliwe. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/96.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem wdzięczny za to, że widzę jakie moje dziecko jest zdrowe i szczęśliwe."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Kent",
+          "DialogueText": "Lubię zimę. Jest spokojna.",
+          "AudioPath": "assets/pt-BR/Kent/97.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Lubię zimę. Jest spokojna."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Kent_y2",
+          "DialogueText": "Gotowy na zawody? Wszyscy myślimy, że wygrasz.",
+          "AudioPath": "assets/pt-BR/Kent/98_male.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Kent_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Gotowy na zawody? Wszyscy myślimy, że wygrasz.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Kent_y2",
+          "DialogueText": "Gotowa na zawody? Wszyscy myślimy, że wygrasz.",
+          "AudioPath": "assets/pt-BR/Kent/99_female.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Kent_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Gotowa na zawody? Wszyscy myślimy, że wygrasz.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Kent:s0",
+          "DialogueText": "O...! Mama zawsze mi to dawała, gdy byłem jeszcze dzieckiem. Cudowne wspomnienia... dziękuję.",
+          "AudioPath": "assets/pt-BR/Kent/100.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Kent:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "O...! Mama zawsze mi to dawała, gdy byłem jeszcze dzieckiem. Cudowne wspomnienia... dziękuję."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Kent:s1",
+          "DialogueText": "Hej, to dobry prezent. Dzięki.",
+          "AudioPath": "assets/pt-BR/Kent/101.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Kent:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, to dobry prezent. Dzięki."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Kent:s2",
+          "DialogueText": "Ach... To... Co to właściwie jest? Hmm...",
+          "AudioPath": "assets/pt-BR/Kent/102.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Kent:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... To... Co to właściwie jest? Hmm..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Kent:s3",
+          "DialogueText": "To... Dawali mi to w obozie jeńców w Gotoro. Chciałem o tym zapomnieć. *dreszcze*",
+          "AudioPath": "assets/pt-BR/Kent/103.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Kent:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "To... Dawali mi to w obozie jeńców w Gotoro. Chciałem o tym zapomnieć. *dreszcze*"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Kent:s4",
+          "DialogueText": "To miłe z Twojej strony. Na pewno to się spodoba mojej rodzinie.",
+          "AudioPath": "assets/pt-BR/Kent/104.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Kent:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "To miłe z Twojej strony. Na pewno to się spodoba mojej rodzinie."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_like_BeforeMovie",
+          "DialogueText": "Dzięki za zaproszenie, {Farmer_Name}. Ciężko mi wrócić do życia cywila, ale dzięki Tobie, czuję się jak w domu.",
+          "AudioPath": "assets/pt-BR/Kent/105.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_like_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za zaproszenie, . Ciężko mi wrócić do życia cywila, ale dzięki Tobie, czuję się jak w domu."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_like_DuringMovie",
+          "DialogueText": "To jest świetne... Przypomina mi o prostych czasach... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Kent/106.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_like_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest świetne... Przypomina mi o prostych czasach..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_like_DuringMovie_2",
+          "DialogueText": "Kent ma rzadki uśmiech na twarzy.",
+          "AudioPath": "assets/pt-BR/Kent/107.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_like_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Kent ma rzadki uśmiech na twarzy."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_like_AfterMovie",
+          "DialogueText": "Było fajnie. Kiedy jesteś pochłonięty filmem, wszystkie twoje troski i zmartwienia znikają.",
+          "AudioPath": "assets/pt-BR/Kent/108.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_like_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Było fajnie. Kiedy jesteś pochłonięty filmem, wszystkie twoje troski i zmartwienia znikają."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_dislike_BeforeMovie",
+          "DialogueText": "Nie jestem pewien co do tego filmu...",
+          "AudioPath": "assets/pt-BR/Kent/109.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_dislike_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie jestem pewien co do tego filmu..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_dislike_DuringMovie",
+          "DialogueText": "Kenta przelewa zimny pot...",
+          "AudioPath": "assets/pt-BR/Kent/110.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_dislike_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Kenta przelewa zimny pot..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Kent_dislike_AfterMovie",
+          "DialogueText": "To było dla mnie niezłym wyzwaniem. I tak doceniam twoje zaproszenie.",
+          "AudioPath": "assets/pt-BR/Kent/111.ogg",
+          "TranslationKey": "Strings/MovieReactions:Kent_dislike_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "To było dla mnie niezłym wyzwaniem. I tak doceniam twoje zaproszenie."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Kent",
+          "DialogueText": "Hej, {Farmer_Name}. Doskwiera Ci ten upał?",
+          "AudioPath": "assets/pt-BR/Kent/112.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Doskwiera Ci ten upał?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Kent",
+          "DialogueText": "Hej, mam parę rzeczy na sprzedaż. Daj znać, jak coś Ci wpadnie w oko.",
+          "AudioPath": "assets/pt-BR/Kent/113.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Kent",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, mam parę rzeczy na sprzedaż. Daj znać, jak coś Ci wpadnie w oko."
+        }
+      ]
+    }
+  ]
+}

@@ -53,13 +53,14 @@ namespace VoiceOverFrameworkMod
         private void CheckForDialogueV2()
         {
             // relax thresholds near top of CheckForDialogueV2
-            const bool ENABLE_PACK_FUZZY = true;          // same-language only
-            const double PACK_FUZZY_THRESHOLD = 0.65;     // lowered from 0.80
-            const int PACK_MIN_LEN_FOR_FUZZY = 3;         // lowered from 6
+            // Disable fuzzy matching entirely: use exact translation keys / display patterns only
+            const bool ENABLE_PACK_FUZZY = false;         // same-language only (disabled)
+            const double PACK_FUZZY_THRESHOLD = 1.1;      // impossible threshold to trigger
+            const int PACK_MIN_LEN_FOR_FUZZY = 9999;      // effectively disable
 
-            // dictionary-side fuzzy (cross-language only)
-            const int DICT_MIN_LEN = 3;
-            const double DICT_FUZZY_THRESHOLD = 0.65;
+            // dictionary-side fuzzy (cross-language only) — disabled
+            const int DICT_MIN_LEN = 9999;
+            const double DICT_FUZZY_THRESHOLD = 1.1;
 
             // — helpers (local) —
             static string FixCjkSpaces(string s)
@@ -477,13 +478,14 @@ namespace VoiceOverFrameworkMod
 
         private void CheckForEventV2()
         {
-            const bool ENABLE_PACK_FUZZY = true;           // same-language only
-            const double PACK_FUZZY_THRESHOLD = 0.80;      // events looser than dialogue
-            const int PACK_MIN_LEN_FOR_FUZZY = 6;
+            // Disable fuzzy matching for events as well
+            const bool ENABLE_PACK_FUZZY = false;         // same-language only (disabled)
+            const double PACK_FUZZY_THRESHOLD = 1.1;      // impossible threshold to trigger
+            const int PACK_MIN_LEN_FOR_FUZZY = 9999;      // effectively disable
 
-            // dictionary-side fuzzy (cross-language only)
-            const int DICT_MIN_LEN = 6;
-            const double DICT_FUZZY_THRESHOLD = 0.80;
+            // dictionary-side fuzzy (cross-language only) — disabled
+            const int DICT_MIN_LEN = 9999;
+            const double DICT_FUZZY_THRESHOLD = 1.1;
 
             // — helpers (local) —
             static string FixCjkSpaces(string s)

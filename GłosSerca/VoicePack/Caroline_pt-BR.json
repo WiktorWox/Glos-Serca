@@ -750,59 +750,59 @@
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
-          "DialogueText": "Oh, joy",
+          "DialogueText": "O radości",
           "AudioPath": "assets/pt-BR/Caroline/93.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, joy"
+          "DisplayPattern": "O radości"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s0",
-          "DialogueText": "Relaxed",
+          "DialogueText": "Wypoczęta",
           "AudioPath": "assets/pt-BR/Caroline/94.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Relaxed"
+          "DisplayPattern": "Wypoczęta"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s1",
-          "DialogueText": "Looks like the gemstones were put to good use...",
+          "DialogueText": "Wygląda na to, że kryształy zostały wykorzystane w dobrym celu...",
           "AudioPath": "assets/pt-BR/Caroline/95.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Looks like the gemstones were put to good use..."
+          "DisplayPattern": "Wygląda na to, że kryształy zostały wykorzystane w dobrym celu..."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s0",
-          "DialogueText": "Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all! {Portrait:Unique}",
+          "DialogueText": "Dość tego! Pozwalamy Ci tutaj mieszkać za darmo, dopóki nie skończysz szkoły. Nie doceniasz tego! {Portrait:Unique}",
           "AudioPath": "assets/pt-BR/Caroline/96.ogg",
           "TranslationKey": "Events/SeedShop:17:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all!"
+          "DisplayPattern": "Dość tego! Pozwalamy Ci tutaj mieszkać za darmo, dopóki nie skończysz szkoły. Nie doceniasz tego!"
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s1",
-          "DialogueText": "...You're right. I'm sorry. {Portrait:Sad}",
+          "DialogueText": "... Masz rację. Przepraszam. {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Caroline/97.ogg",
           "TranslationKey": "Events/SeedShop:17:s1",
           "PageIndex": 0,
-          "DisplayPattern": "...You're right. I'm sorry."
+          "DisplayPattern": "... Masz rację. Przepraszam."
         },
         {
           "DialogueFrom": "Event/SeedShop/58:s0",
-          "DialogueText": "Alright! That concludes our aerobics class!",
+          "DialogueText": "Dobrze! Na tym skończymy naszą sesję aerobiku!",
           "AudioPath": "assets/pt-BR/Caroline/98.ogg",
           "TranslationKey": "Events/SeedShop:58:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Alright! That concludes our aerobics class!"
+          "DisplayPattern": "Dobrze! Na tym skończymy naszą sesję aerobiku!"
         },
         {
           "DialogueFrom": "Event/SeedShop/58:s1",
-          "DialogueText": "Are you breaking a sweat? {Portrait:Happy}",
+          "DialogueText": "Spociłyście się? {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Caroline/99.ogg",
           "TranslationKey": "Events/SeedShop:58:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Are you breaking a sweat?"
+          "DisplayPattern": "Spociłyście się?"
         },
         {
           "DialogueFrom": "Event/CommunityCenter/Punch:s0",
@@ -814,147 +814,147 @@
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s0",
-          "DialogueText": "Oh, hi! Good morning, {Farmer_Name}. I'm glad you came in...",
+          "DialogueText": "O, hej! Dzień dobry, {Farmer_Name}. Cieszę się, że Cię widzę...",
           "AudioPath": "assets/pt-BR/Caroline/101.ogg",
           "TranslationKey": "Events/Sunroom:719926:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, hi! Good morning, . I'm glad you came in..."
+          "DisplayPattern": "O, hej! Dzień dobry, . Cieszę się, że Cię widzę..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s1",
-          "DialogueText": "I've been meaning to show you this... it's my private sunroom.",
+          "DialogueText": "Chciałam Ci to pokazać... To mój specjalny pokój.",
           "AudioPath": "assets/pt-BR/Caroline/102.ogg",
           "TranslationKey": "Events/Sunroom:719926:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I've been meaning to show you this... it's my private sunroom."
+          "DisplayPattern": "Chciałam Ci to pokazać... To mój specjalny pokój."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s2",
-          "DialogueText": "So, what do you think?",
+          "DialogueText": "Co o nim myślisz?",
           "AudioPath": "assets/pt-BR/Caroline/103.ogg",
           "TranslationKey": "Events/Sunroom:719926:s2",
           "PageIndex": 0,
-          "DisplayPattern": "So, what do you think?"
+          "DisplayPattern": "Co o nim myślisz?"
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s3",
-          "DialogueText": "Thank you! I've worked very hard to make it this way... {Portrait:Happy}",
+          "DialogueText": "Dziękuję! Ciężko nad nim pracowałam... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Caroline/104.ogg",
           "TranslationKey": "Events/Sunroom:719926:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Thank you! I've worked very hard to make it this way..."
+          "DisplayPattern": "Dziękuję! Ciężko nad nim pracowałam..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s4",
-          "DialogueText": "Yes... when I step in here, I feel calm and relaxed right away. It's really therapeutic!",
+          "DialogueText": "Tak... Gdy tu wchodzę, czuję spokój i od razu jestem zrelaksowana. Jest bardzo terapeutyczny!",
           "AudioPath": "assets/pt-BR/Caroline/105.ogg",
           "TranslationKey": "Events/Sunroom:719926:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Yes... when I step in here, I feel calm and relaxed right away. It's really therapeutic!"
+          "DisplayPattern": "Tak... Gdy tu wchodzę, czuję spokój i od razu jestem zrelaksowana. Jest bardzo terapeutyczny!"
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s5",
-          "DialogueText": "Oh? I find the warmth soothing, myself. {Portrait:Sad}",
+          "DialogueText": "Och? To ciepło mnie uspokaja. {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Caroline/106.ogg",
           "TranslationKey": "Events/Sunroom:719926:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Oh? I find the warmth soothing, myself."
+          "DisplayPattern": "Och? To ciepło mnie uspokaja."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s6",
-          "DialogueText": "It feels better if you keep still.",
+          "DialogueText": "Będzie lepiej, jak będziesz stać nieruchomo.",
           "AudioPath": "assets/pt-BR/Caroline/107.ogg",
           "TranslationKey": "Events/Sunroom:719926:s6",
           "PageIndex": 0,
-          "DisplayPattern": "It feels better if you keep still."
+          "DisplayPattern": "Będzie lepiej, jak będziesz stać nieruchomo."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s7",
-          "DialogueText": "Oh, but you're a professional... For me, it's just a hobby.",
+          "DialogueText": "Ale ty jesteś profesjonalistą... Dla mnie, to tylko hobby.",
           "AudioPath": "assets/pt-BR/Caroline/108.ogg",
           "TranslationKey": "Events/Sunroom:719926:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, but you're a professional... For me, it's just a hobby."
+          "DisplayPattern": "Ale ty jesteś profesjonalistą... Dla mnie, to tylko hobby."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s8",
-          "DialogueText": "You see, this is my sanctuary... a place where I can always find peace...",
+          "DialogueText": "Widzisz, to moje sanktuarium... miejsce, w którym zawsze znajduję spokój...",
           "AudioPath": "assets/pt-BR/Caroline/109.ogg",
           "TranslationKey": "Events/Sunroom:719926:s8",
           "PageIndex": 0,
-          "DisplayPattern": "You see, this is my sanctuary... a where I can always find peace..."
+          "DisplayPattern": "Widzisz, to moje sanktuarium... miejsce, w którym zawsze znajduję spokój..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s9",
-          "DialogueText": "And it's a perfect place to drink my home-grown tea! Here, let's have a cup...",
+          "DialogueText": "I jest to idealne miejsce na picie herbaty, którą sama wyhodowałam! Proszę, napijmy się...",
           "AudioPath": "assets/pt-BR/Caroline/110.ogg",
           "TranslationKey": "Events/Sunroom:719926:s9",
           "PageIndex": 0,
-          "DisplayPattern": "And it's a perfect to drink my home-grown tea! Here, let's have a cup..."
+          "DisplayPattern": "I jest to idealne miejsce na picie herbaty, którą sama wyhodowałam! Proszę, napijmy się..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s10",
-          "DialogueText": "Sure, no problem...",
+          "DialogueText": "Pewnie, nic nie szkodzi...",
           "AudioPath": "assets/pt-BR/Caroline/111.ogg",
           "TranslationKey": "Events/Sunroom:719926:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Sure, no problem..."
+          "DisplayPattern": "Pewnie, nic nie szkodzi..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s11",
-          "DialogueText": "Delicious",
+          "DialogueText": "Przepyszna",
           "AudioPath": "assets/pt-BR/Caroline/112.ogg",
           "TranslationKey": "Events/Sunroom:719926:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Delicious"
+          "DisplayPattern": "Przepyszna"
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s12",
-          "DialogueText": "I love to come in here for a fresh cup of tea every day.",
+          "DialogueText": "Uwielbiam tu przychodzić na kubek świeżej herbaty.",
           "AudioPath": "assets/pt-BR/Caroline/113.ogg",
           "TranslationKey": "Events/Sunroom:719926:s12",
           "PageIndex": 0,
-          "DisplayPattern": "I love to come in here for a fresh cup of tea every day."
+          "DisplayPattern": "Uwielbiam tu przychodzić na kubek świeżej herbaty."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s13",
-          "DialogueText": "It's my little ritual...",
+          "DialogueText": "To taki mój mały rytuał...",
           "AudioPath": "assets/pt-BR/Caroline/114.ogg",
           "TranslationKey": "Events/Sunroom:719926:s13",
           "PageIndex": 0,
-          "DisplayPattern": "It's my little ritual..."
+          "DisplayPattern": "To taki mój mały rytuał..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s14",
-          "DialogueText": "Uh... let me try to explain... {Portrait:Happy}",
+          "DialogueText": "Eeem... Spróbuję to jakoś wyjaśnić... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Caroline/115.ogg",
           "TranslationKey": "Events/Sunroom:719926:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Uh... let me try to explain..."
+          "DisplayPattern": "Eeem... Spróbuję to jakoś wyjaśnić..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s15",
-          "DialogueText": "I hope that makes sense...",
+          "DialogueText": "Mam nadzieję, że ma to sens...",
           "AudioPath": "assets/pt-BR/Caroline/116.ogg",
           "TranslationKey": "Events/Sunroom:719926:s15",
           "PageIndex": 0,
-          "DisplayPattern": "I hope that makes sense..."
+          "DisplayPattern": "Mam nadzieję, że ma to sens..."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s16",
-          "DialogueText": "Life can be pretty hectic, so having a hobby like this is nice.",
+          "DialogueText": "Życie bywa ciężkie, więc hobby takie jak to jest bardzo przyjemne.",
           "AudioPath": "assets/pt-BR/Caroline/117.ogg",
           "TranslationKey": "Events/Sunroom:719926:s16",
           "PageIndex": 0,
-          "DisplayPattern": "Life can be pretty hectic, so having a hobby like this is nice."
+          "DisplayPattern": "Życie bywa ciężkie, więc hobby takie jak to jest bardzo przyjemne."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s17",
-          "DialogueText": "Feel free to come here and relax any time you want, okay?",
+          "DialogueText": "Możesz tu przychodzić i sobie odpocząć kiedy tylko chcesz, ok?",
           "AudioPath": "assets/pt-BR/Caroline/118.ogg",
           "TranslationKey": "Events/Sunroom:719926:s17",
           "PageIndex": 0,
-          "DisplayPattern": "Feel free to come here and relax any you want, okay?"
+          "DisplayPattern": "Możesz tu przychodzić i sobie odpocząć kiedy tylko chcesz, ok?"
         },
         {
           "DialogueFrom": "Festival/fall16/Caroline",

@@ -3134,860 +3134,890 @@
         },
         {
           "DialogueFrom": "Event/Farm/5:s0",
-          "DialogueText": "Hi. Um... I just wanted to say sorry for acting so weird yesterday.",
+          "DialogueText": "Cześć. Em... Chciałam Cię tylko przeprosić za moje wczorajsze zachowanie.",
           "AudioPath": "assets/pt-BR/Abigail/388.ogg",
           "TranslationKey": "Events/Farm:5:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hi. Um... I just wanted to say sorry for acting so weird yesterday."
+          "DisplayPattern": "Cześć. Em... Chciałam Cię tylko przeprosić za moje wczorajsze zachowanie."
         },
         {
           "DialogueFrom": "Event/Farm/5:s1",
-          "DialogueText": "You probably understand what happened... {Portrait:Love}",
+          "DialogueText": "Chyba rozumiesz o co chodzi... {Portrait:Love}",
           "AudioPath": "assets/pt-BR/Abigail/389.ogg",
           "TranslationKey": "Events/Farm:5:s1",
           "PageIndex": 0,
-          "DisplayPattern": "You probably understand what happened..."
+          "DisplayPattern": "Chyba rozumiesz o co chodzi..."
         },
         {
           "DialogueFrom": "Event/Farm/5:s2",
-          "DialogueText": "Uh, okay...bye.",
+          "DialogueText": "Uch, ok... Pa.",
           "AudioPath": "assets/pt-BR/Abigail/390.ogg",
           "TranslationKey": "Events/Farm:5:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Uh, okay...bye."
+          "DisplayPattern": "Uch, ok... Pa."
         },
         {
           "DialogueFrom": "Event/Town/4:s0",
-          "DialogueText": "I guess you're wondering why I'm in the graveyard at this hour...",
+          "DialogueText": "Pewnie zastanawiasz się czemu jestem o tej porze na cmentarzu...",
           "AudioPath": "assets/pt-BR/Abigail/391.ogg",
           "TranslationKey": "Events/Town:4:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I guess you're wondering why I'm in the graveyard at this hour..."
+          "DisplayPattern": "Pewnie zastanawiasz się czemu jestem o tej porze na cmentarzu..."
         },
         {
           "DialogueFrom": "Event/Town/4:s1",
-          "DialogueText": "Well, I'm here because it's the best place in town to find some privacy.",
+          "DialogueText": "Cóż, jestem tu, bo to najlepsze miejsce, żeby posiedzieć w samotności.",
           "AudioPath": "assets/pt-BR/Abigail/392.ogg",
           "TranslationKey": "Events/Town:4:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Well, I'm here because it's the best in town to find some privacy."
+          "DisplayPattern": "Cóż, jestem tu, bo to najlepsze miejsce, żeby posiedzieć w samotności."
         },
         {
           "DialogueFrom": "Event/Town/4:s2",
-          "DialogueText": "And I'm all sweaty because I've been practicing my swordsmanship. {Portrait:Love}",
+          "DialogueText": "I jestem spocona, bo ćwiczyłam walkę mieczem. {Portrait:Love}",
           "AudioPath": "assets/pt-BR/Abigail/393.ogg",
           "TranslationKey": "Events/Town:4:s2",
           "PageIndex": 0,
-          "DisplayPattern": "And I'm all sweaty because I've been practicing my swordsmanship."
+          "DisplayPattern": "I jestem spocona, bo ćwiczyłam walkę mieczem."
         },
         {
           "DialogueFrom": "Event/Town/4:s3",
-          "DialogueText": "Hey! What... you think I'm too weak to swing a blade? {Portrait:Angry}",
+          "DialogueText": "Hej! Co... myślisz, że jestem za słaba na machanie mieczem? {Portrait:Angry}",
           "AudioPath": "assets/pt-BR/Abigail/394.ogg",
           "TranslationKey": "Events/Town:4:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Hey! What... you think I'm too weak to swing a blade?"
+          "DisplayPattern": "Hej! Co... myślisz, że jestem za słaba na machanie mieczem?"
         },
         {
           "DialogueFrom": "Event/Town/4:s4",
-          "DialogueText": "Sorry, I guess I'm getting a little defensive. {Portrait:Custom:8}",
+          "DialogueText": "Wybacz, czasami włącza mi się tryb obronny. {Portrait:Custom:8}",
           "AudioPath": "assets/pt-BR/Abigail/395.ogg",
           "TranslationKey": "Events/Town:4:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Sorry, I guess I'm getting a little defensive."
+          "DisplayPattern": "Wybacz, czasami włącza mi się tryb obronny."
         },
         {
           "DialogueFrom": "Event/Town/4:s5",
-          "DialogueText": "You see, I want to explore the mountain caves... But I know it's too dangerous to go there unarmed.",
+          "DialogueText": "Chcę iść badać jaskinię w górach... ale wiem, że pójście tam bez broni jest zbyt niebezpiecznie.",
           "AudioPath": "assets/pt-BR/Abigail/396.ogg",
           "TranslationKey": "Events/Town:4:s5",
           "PageIndex": 0,
-          "DisplayPattern": "You see, I want to explore the mountain caves... But I know it's too dangerous to go there unarmed."
+          "DisplayPattern": "Chcę iść badać jaskinię w górach... ale wiem, że pójście tam bez broni jest zbyt niebezpiecznie."
         },
         {
           "DialogueFrom": "Event/Town/4:s6",
-          "DialogueText": "You've used a sword before, haven't you?",
+          "DialogueText": "Czasami używasz miecza, prawda?",
           "AudioPath": "assets/pt-BR/Abigail/397.ogg",
           "TranslationKey": "Events/Town:4:s6",
           "PageIndex": 0,
-          "DisplayPattern": "You've used a sword before, haven't you?"
+          "DisplayPattern": "Czasami używasz miecza, prawda?"
         },
         {
           "DialogueFrom": "Event/Town/4:s7",
-          "DialogueText": "Yes, and it's exciting!",
+          "DialogueText": "Tak i jest to bardzo ekscytujące!",
           "AudioPath": "assets/pt-BR/Abigail/398.ogg",
           "TranslationKey": "Events/Town:4:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, and it's exciting!"
+          "DisplayPattern": "Tak i jest to bardzo ekscytujące!"
         },
         {
           "DialogueFrom": "Event/Town/4:s8",
-          "DialogueText": "Yes, but only in self-defense",
+          "DialogueText": "Tak, ale tylko w samoobronie",
           "AudioPath": "assets/pt-BR/Abigail/399.ogg",
           "TranslationKey": "Events/Town:4:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, but only in self-defense"
+          "DisplayPattern": "Tak, ale tylko w samoobronie"
         },
         {
           "DialogueFrom": "Event/Town/4:s9",
-          "DialogueText": "Yes, but it's dangerous. You should stay safe.",
+          "DialogueText": "Tak, ale jest to niebezpieczne. Powinnaś na siebie uważać.",
           "AudioPath": "assets/pt-BR/Abigail/400.ogg",
           "TranslationKey": "Events/Town:4:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, but it's dangerous. You should stay safe."
+          "DisplayPattern": "Tak, ale jest to niebezpieczne. Powinnaś na siebie uważać."
         },
         {
           "DialogueFrom": "Event/Town/4:s10",
-          "DialogueText": "No",
+          "DialogueText": "Nie",
           "AudioPath": "assets/pt-BR/Abigail/401.ogg",
           "TranslationKey": "Events/Town:4:s10",
           "PageIndex": 0,
-          "DisplayPattern": "No"
+          "DisplayPattern": "Nie"
         },
         {
           "DialogueFrom": "Event/Town/4:s11",
-          "DialogueText": "Dad? {Portrait:Custom:7}",
+          "DialogueText": "Tata? {Portrait:Custom:7}",
           "AudioPath": "assets/pt-BR/Abigail/402.ogg",
           "TranslationKey": "Events/Town:4:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Dad?"
+          "DisplayPattern": "Tata?"
         },
         {
           "DialogueFrom": "Event/Town/4:s12",
-          "DialogueText": "Mind your own business! You think I should be at home cooking dinner because I'm a girl, don't you?! {Portrait:Angry}",
+          "DialogueText": "Nie interesuj się! Myślisz, że powinnam być w domu i gotować, bo jestem dziewczyną?! {Portrait:Angry}",
           "AudioPath": "assets/pt-BR/Abigail/403.ogg",
           "TranslationKey": "Events/Town:4:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Mind your own business! You think I should be at home cooking dinner because I'm a girl, don't you?!"
+          "DisplayPattern": "Nie interesuj się! Myślisz, że powinnam być w domu i gotować, bo jestem dziewczyną?!"
         },
         {
           "DialogueFrom": "Event/Town/4:s13",
-          "DialogueText": "You're really stuck in the past, Dad... {Portrait:Angry}",
+          "DialogueText": "Serio! Jesteś starej daty, tato... {Portrait:Angry}",
           "AudioPath": "assets/pt-BR/Abigail/404.ogg",
           "TranslationKey": "Events/Town:4:s13",
           "PageIndex": 0,
-          "DisplayPattern": "You're really stuck in the past, Dad..."
+          "DisplayPattern": "Serio! Jesteś starej daty, tato..."
         },
         {
           "DialogueFrom": "Event/Town/4:s14",
-          "DialogueText": "Let's get out of here, {Farmer_Name}. {Portrait:Angry}",
+          "DialogueText": "Chodźmy stąd, {Farmer_Name}. {Portrait:Angry}",
           "AudioPath": "assets/pt-BR/Abigail/405.ogg",
           "TranslationKey": "Events/Town:4:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Let's get out of here, ."
+          "DisplayPattern": "Chodźmy stąd, ."
         },
         {
           "DialogueFrom": "Event/Town/4:s15",
-          "DialogueText": "Well, are you coming or not? {Portrait:Unique}",
+          "DialogueText": "To idziesz czy nie? {Portrait:Unique}",
           "AudioPath": "assets/pt-BR/Abigail/406.ogg",
           "TranslationKey": "Events/Town:4:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Well, are you coming or not?"
+          "DisplayPattern": "To idziesz czy nie?"
         },
         {
           "DialogueFrom": "Event/Town/4:s16",
-          "DialogueText": "*sigh*... Can you believe my parents were ever young? They don't understand my perspective at all. {Portrait:Custom:8}",
+          "DialogueText": "*ech*... Możesz uwierzyć, że moi rodzice byli kiedyś młodzi? W ogóle mnie nie rozumieją. {Portrait:Custom:8}",
           "AudioPath": "assets/pt-BR/Abigail/407.ogg",
           "TranslationKey": "Events/Town:4:s16",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... Can you believe my parents were ever young? They don't understand my perspective at all."
+          "DisplayPattern": "*ech*... Możesz uwierzyć, że moi rodzice byli kiedyś młodzi? W ogóle mnie nie rozumieją."
         },
         {
           "DialogueFrom": "Event/Town/4:s17",
-          "DialogueText": "I know, I know... they grew up in a different era, with different values. It still ticks me off sometimes, okay? {Portrait:Unique}",
+          "DialogueText": "Wiem, wiem... dorastali w innych czasach, z innymi wartościami. Nadal mnie to czasem wkurza, ok? {Portrait:Unique}",
           "AudioPath": "assets/pt-BR/Abigail/408.ogg",
           "TranslationKey": "Events/Town:4:s17",
           "PageIndex": 0,
-          "DisplayPattern": "I know, I know... they grew up in a different era, with different values. It still ticks me off somes, okay?"
+          "DisplayPattern": "Wiem, wiem... dorastali w innych czasach, z innymi wartościami. Nadal mnie to czasem wkurza, ok?"
         },
         {
           "DialogueFrom": "Event/Town/4:s18",
-          "DialogueText": "Well, thanks for hearing me out {Farmer_Name}.",
+          "DialogueText": "Cóż, dzięki za wysłuchanie mnie {Farmer_Name}.",
           "AudioPath": "assets/pt-BR/Abigail/409.ogg",
           "TranslationKey": "Events/Town:4:s18",
           "PageIndex": 0,
-          "DisplayPattern": "Well, thanks for hearing me out ."
+          "DisplayPattern": "Cóż, dzięki za wysłuchanie mnie ."
         },
         {
           "DialogueFrom": "Event/Town/4:s19",
-          "DialogueText": "Um, now could you help untangle my hair from this bush? {Portrait:Happy}",
+          "DialogueText": "Uch, teraz może pomożesz mi rozplątać włosy z tego krzaka? {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Abigail/410.ogg",
           "TranslationKey": "Events/Town:4:s19",
           "PageIndex": 0,
-          "DisplayPattern": "Um, now could you help untangle my hair from this bush?"
+          "DisplayPattern": "Uch, teraz może pomożesz mi rozplątać włosy z tego krzaka?"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195019:s0",
-          "DialogueText": "Hey there!",
+          "DialogueText": "Hejka!",
           "AudioPath": "assets/pt-BR/Abigail/411.ogg",
           "TranslationKey": "Events/HaleyHouse:195019:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey there!"
+          "DisplayPattern": "Hejka!"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195019:s1",
-          "DialogueText": "We were just gossiping about Mayor Lewis and Marnie... {Portrait:Happy}",
+          "DialogueText": "Plotkowałyśmy o Burmistrzu Lewisie i Marnie... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Abigail/412.ogg",
           "TranslationKey": "Events/HaleyHouse:195019:s1",
           "PageIndex": 0,
-          "DisplayPattern": "We were just gossiping about Mayor Lewis and Marnie..."
+          "DisplayPattern": "Plotkowałyśmy o Burmistrzu Lewisie i Marnie..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s0",
-          "DialogueText": "Hold it!",
+          "DialogueText": "Czekaj!",
           "AudioPath": "assets/pt-BR/Abigail/413.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hold it!"
+          "DisplayPattern": "Czekaj!"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s1",
-          "DialogueText": "Never thought you'd find all your 'girlfriends' in one room, huh {Farmer_Name}? {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/414.ogg",
+          "DialogueText": "Nie spodziewałeś się, że spotkasz wszystkie swoje 'dziewczyny' w jednym pokoju, co {Farmer_Name}? {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/414_male.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Never thought you'd find all your 'girlfriends' in one room, huh ?"
+          "DisplayPattern": "Nie spodziewałeś się, że spotkasz wszystkie swoje 'dziewczyny' w jednym pokoju, co ?",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s2",
-          "DialogueText": "Well? What do you have to say for yourself? {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/415.ogg",
+          "DialogueText": "Nie spodziewałaś się, że spotkasz wszystkie swoje 'dziewczyny' w jednym pokoju, co {Farmer_Name}? {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/415_female.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Well? What do you have to say for yourself?"
+          "DisplayPattern": "Nie spodziewałaś się, że spotkasz wszystkie swoje 'dziewczyny' w jednym pokoju, co ?",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s3",
-          "DialogueText": "I'm sorry... what I did was wrong.",
+          "DialogueText": "No? Co masz do powiedzenia? {Portrait:Angry}",
           "AudioPath": "assets/pt-BR/Abigail/416.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I'm sorry... what I did was wrong."
+          "DisplayPattern": "No? Co masz do powiedzenia?"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s4",
-          "DialogueText": "Ladies, calm down! I can explain...",
+          "DialogueText": "Przepraszam... Co zrobiłem, było złe.",
           "AudioPath": "assets/pt-BR/Abigail/417.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Ladies, calm down! I can explain..."
+          "DisplayPattern": "Przepraszam... Co zrobiłem, było złe."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s5",
-          "DialogueText": "Nice try, but that's not going to cut it... {Portrait:Unique}",
+          "DialogueText": "Panie, uspokójcie się! Mogę wyjaśnić...",
           "AudioPath": "assets/pt-BR/Abigail/418.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Nice try, but that's not going to cut it..."
+          "DisplayPattern": "Panie, uspokójcie się! Mogę wyjaśnić..."
+        },
+        {
+          "DialogueFrom": "Event/HaleyHouse/195012:s6",
+          "DialogueText": "Niezła próba, ale to niczego nie zmieni... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Abigail/419.ogg",
+          "TranslationKey": "Events/HaleyHouse:195012:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Niezła próba, ale to niczego nie zmieni..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/lifestyleChoice:s0",
-          "DialogueText": "You can't weasel your way out of this one, {Farmer_Name}. {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/419.ogg",
+          "DialogueText": "Z tego już nie dasz rady się wypłacać, {Farmer_Name}. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/420.ogg",
           "TranslationKey": "Events/HaleyHouse:lifestyleChoice:s0",
           "PageIndex": 0,
-          "DisplayPattern": "You can't weasel your way out of this one, ."
+          "DisplayPattern": "Z tego już nie dasz rady się wypłacać, ."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s0",
-          "DialogueText": "Nope.",
-          "AudioPath": "assets/pt-BR/Abigail/420.ogg",
+          "DialogueText": "Nie.",
+          "AudioPath": "assets/pt-BR/Abigail/421.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Nope."
+          "DisplayPattern": "Nie."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s0",
-          "DialogueText": "Cool",
-          "AudioPath": "assets/pt-BR/Abigail/421.ogg",
+          "DialogueText": "Fajnie",
+          "AudioPath": "assets/pt-BR/Abigail/422.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Cool"
+          "DisplayPattern": "Fajnie"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s1",
-          "DialogueText": "Me next!",
-          "AudioPath": "assets/pt-BR/Abigail/422.ogg",
+          "DialogueText": "Teraz ja!",
+          "AudioPath": "assets/pt-BR/Abigail/423.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Me next!"
+          "DisplayPattern": "Teraz ja!"
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s0",
           "DialogueText": "{Farmer_Name}?",
-          "AudioPath": "assets/pt-BR/Abigail/423.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/424.ogg",
           "TranslationKey": "Events/SeedShop:1:s0",
           "PageIndex": 0,
           "DisplayPattern": "?"
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s1",
-          "DialogueText": "You scared me, sneaking into my room like that!",
-          "AudioPath": "assets/pt-BR/Abigail/424.ogg",
+          "DialogueText": "Przestraszyłeś mnie! Nie skradaj się tak do mnie!",
+          "AudioPath": "assets/pt-BR/Abigail/425_male.ogg",
           "TranslationKey": "Events/SeedShop:1:s1",
           "PageIndex": 0,
-          "DisplayPattern": "You scared me, sneaking into my room like that!"
+          "DisplayPattern": "Przestraszyłeś mnie! Nie skradaj się tak do mnie!",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s2",
-          "DialogueText": "*sigh*... so I've been playing 'Journey of the Prairie King' for hours and I can't even beat the first level... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/425.ogg",
+          "DialogueText": "Przestraszyłaś mnie! Nie skradaj się tak do mnie!",
+          "AudioPath": "assets/pt-BR/Abigail/426_female.ogg",
           "TranslationKey": "Events/SeedShop:1:s2",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... so I've been playing 'Journey of the Prairie King' for hours and I can't even beat the first level..."
+          "DisplayPattern": "Przestraszyłaś mnie! Nie skradaj się tak do mnie!",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s3",
-          "DialogueText": "This game is ridiculously hard! {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/426.ogg",
+          "DialogueText": "*ech*... Gram sobie w 'Podróż Króla Prerii' i nie mogę przejść pierwszego poziomu... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/427.ogg",
           "TranslationKey": "Events/SeedShop:1:s3",
           "PageIndex": 0,
-          "DisplayPattern": "This game is ridiculously hard!"
+          "DisplayPattern": "*ech*... Gram sobie w 'Podróż Króla Prerii' i nie mogę przejść pierwszego poziomu..."
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s4",
-          "DialogueText": "Well, either that or I'm just terrible at it. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/427.ogg",
+          "DialogueText": "Ta gra jest absurdalnie trudna! {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/428.ogg",
           "TranslationKey": "Events/SeedShop:1:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Well, either that or I'm just terrible at it."
+          "DisplayPattern": "Ta gra jest absurdalnie trudna!"
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s5",
-          "DialogueText": "Hey, do you want to try this level together with me? I think I might do better with your help.",
-          "AudioPath": "assets/pt-BR/Abigail/428.ogg",
+          "DialogueText": "Albo ja nie umiem w to grać. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/429.ogg",
           "TranslationKey": "Events/SeedShop:1:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, do you want to try this level together with me? I think I might do better with your help."
+          "DisplayPattern": "Albo ja nie umiem w to grać."
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s6",
-          "DialogueText": "Ugh, I give up... I'll never get past the first level. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/429.ogg",
+          "DialogueText": "Hej, chcesz ze mną zagrać? Może razem nam się uda.",
+          "AudioPath": "assets/pt-BR/Abigail/430.ogg",
           "TranslationKey": "Events/SeedShop:1:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Ugh, I give up... I'll never get past the first level."
+          "DisplayPattern": "Hej, chcesz ze mną zagrać? Może razem nam się uda."
         },
         {
           "DialogueFrom": "Event/SeedShop/1:s7",
-          "DialogueText": "Oh well... thanks for trying.",
-          "AudioPath": "assets/pt-BR/Abigail/430.ogg",
+          "DialogueText": "Ech, poddaję się... nigdy nie przejdę pierwszego poziomu. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/431.ogg",
           "TranslationKey": "Events/SeedShop:1:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Oh well... thanks for trying."
+          "DisplayPattern": "Ech, poddaję się... nigdy nie przejdę pierwszego poziomu."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/1:s8",
+          "DialogueText": "Cóż... Dzięki za chęci.",
+          "AudioPath": "assets/pt-BR/Abigail/432.ogg",
+          "TranslationKey": "Events/SeedShop:1:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż... Dzięki za chęci."
         },
         {
           "DialogueFrom": "Event/SeedShop/beatGame:s0",
-          "DialogueText": "Hey, that was fun! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/431.ogg",
+          "DialogueText": "Hej, było fajnie! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/433.ogg",
           "TranslationKey": "Events/SeedShop:beatGame:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, that was fun!"
+          "DisplayPattern": "Hej, było fajnie!"
         },
         {
           "DialogueFrom": "Event/SeedShop/beatGame:s1",
-          "DialogueText": "Well thanks, {Farmer_Name}. You seem to really know your way around a joystick, huh? I guess that makes sense. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/432_male.ogg",
+          "DialogueText": "Dzięki, {Farmer_Name}. Dobrze się znasz na graniu, prawda? W sumie to ma sens. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/434_male.ogg",
           "TranslationKey": "Events/SeedShop:beatGame:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Well thanks, . You seem to really know your way around a joystick, huh? I guess that makes sense.",
+          "DisplayPattern": "Dzięki, . Dobrze się znasz na graniu, prawda? W sumie to ma sens.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/SeedShop/beatGame:s2",
-          "DialogueText": "Thanks, {Farmer_Name}. I didn't think you'd know how to work a joystick so well! But it seems you're experienced. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/433_female.ogg",
+          "DialogueText": "Dzięki, {Farmer_Name}. Nie przypuszczałam, że tak dobrze umiesz się posługiwać kontrolerem! Ale chyba masz wprawę. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/435_female.ogg",
           "TranslationKey": "Events/SeedShop:beatGame:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, . I didn't think you'd know how to work a joystick so well! But it seems you're experienced.",
+          "DisplayPattern": "Dzięki, . Nie przypuszczałam, że tak dobrze umiesz się posługiwać kontrolerem! Ale chyba masz wprawę.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s0",
-          "DialogueText": "Hey! I was hoping you'd show up. I wanna show you something.",
-          "AudioPath": "assets/pt-BR/Abigail/434.ogg",
+          "DialogueText": "Hej! Miałam nadzieję, że wpadniesz. Chciałam Ci coś pokazać.",
+          "AudioPath": "assets/pt-BR/Abigail/436.ogg",
           "TranslationKey": "Events/SeedShop:3:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey! I was hoping you'd show up. I wanna show you something."
+          "DisplayPattern": "Hej! Miałam nadzieję, że wpadniesz. Chciałam Ci coś pokazać."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s1",
-          "DialogueText": "See this? It's called a spirit board. Have you ever used one?",
-          "AudioPath": "assets/pt-BR/Abigail/435.ogg",
+          "DialogueText": "Widzisz to? To plansza dusz.",
+          "AudioPath": "assets/pt-BR/Abigail/437.ogg",
           "TranslationKey": "Events/SeedShop:3:s1",
           "PageIndex": 0,
-          "DisplayPattern": "See this? It's called a spirit board. Have you ever used one?"
+          "DisplayPattern": "Widzisz to? To plansza dusz."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s2",
-          "DialogueText": "Put your hands on the planchette with me... {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/436.ogg",
+          "DialogueText": "Połóżmy razem dłoń na tym trójkącie... {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Abigail/438.ogg",
           "TranslationKey": "Events/SeedShop:3:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Put your hands on the planchette with me..."
+          "DisplayPattern": "Połóżmy razem dłoń na tym trójkącie..."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s3",
-          "DialogueText": "Now the spirits will guide us toward a... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/437.ogg",
+          "DialogueText": "Teraz dusze nas pokierują... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/439.ogg",
           "TranslationKey": "Events/SeedShop:3:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Now the spirits will guide us toward a..."
+          "DisplayPattern": "Teraz dusze nas pokierują..."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s4",
-          "DialogueText": "LOOK, it's moving! {Portrait:Custom:7}",
-          "AudioPath": "assets/pt-BR/Abigail/438.ogg",
+          "DialogueText": "PATRZ, rusza się! {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Abigail/440.ogg",
           "TranslationKey": "Events/SeedShop:3:s4",
           "PageIndex": 0,
-          "DisplayPattern": "LOOK, it's moving!"
+          "DisplayPattern": "PATRZ, rusza się!"
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s5",
-          "DialogueText": "The first letter is... 'I' ...",
-          "AudioPath": "assets/pt-BR/Abigail/439.ogg",
+          "DialogueText": "J... A... 'Ja'...",
+          "AudioPath": "assets/pt-BR/Abigail/441.ogg",
           "TranslationKey": "Events/SeedShop:3:s5",
           "PageIndex": 0,
-          "DisplayPattern": "The first letter is... 'I' ..."
+          "DisplayPattern": "J... A... 'Ja'..."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s6",
-          "DialogueText": "Next is... '<' ...",
-          "AudioPath": "assets/pt-BR/Abigail/440.ogg",
+          "DialogueText": "... '<'...",
+          "AudioPath": "assets/pt-BR/Abigail/442.ogg",
           "TranslationKey": "Events/SeedShop:3:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Next is... '<' ..."
+          "DisplayPattern": "... '<'..."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s7",
-          "DialogueText": "Wow, look at it go! It's spelling out... '%firstnameletter'...",
-          "AudioPath": "assets/pt-BR/Abigail/441.ogg",
+          "DialogueText": "Patrz jak to idzie! Wychodzi... '%firstnameletter'...",
+          "AudioPath": "assets/pt-BR/Abigail/443.ogg",
           "TranslationKey": "Events/SeedShop:3:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Wow, look at it go! It's spelling out... ''..."
+          "DisplayPattern": "Patrz jak to idzie! Wychodzi... ''..."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s8",
-          "DialogueText": "I < %firstnameletter...?",
-          "AudioPath": "assets/pt-BR/Abigail/442.ogg",
+          "DialogueText": "Ja < %firstnameletter...?",
+          "AudioPath": "assets/pt-BR/Abigail/444.ogg",
           "TranslationKey": "Events/SeedShop:3:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I < ...?"
+          "DisplayPattern": "Ja < ...?"
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s9",
-          "DialogueText": "Oops, accidentally knocked over the board! Heh heh... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/443.ogg",
+          "DialogueText": "Ups, przypadkowo wywróciłam plansze na ziemię! He he... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/445.ogg",
           "TranslationKey": "Events/SeedShop:3:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Oops, accidentally knocked over the board! Heh heh..."
+          "DisplayPattern": "Ups, przypadkowo wywróciłam plansze na ziemię! He he..."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s10",
-          "DialogueText": "It's just a silly game, it doesn't mean anything. {Portrait:Custom:9}",
-          "AudioPath": "assets/pt-BR/Abigail/444.ogg",
+          "DialogueText": "To tylko głupia gra, to nic nie znaczy. {Portrait:Custom:9}",
+          "AudioPath": "assets/pt-BR/Abigail/446.ogg",
           "TranslationKey": "Events/SeedShop:3:s10",
           "PageIndex": 0,
-          "DisplayPattern": "It's just a silly game, it doesn't mean anything."
+          "DisplayPattern": "To tylko głupia gra, to nic nie znaczy."
         },
         {
           "DialogueFrom": "Event/SeedShop/3:s11",
-          "DialogueText": "I, um, have something to do. You'll have to go... Sorry. {Portrait:Custom:9}",
-          "AudioPath": "assets/pt-BR/Abigail/445.ogg",
+          "DialogueText": "Ja, em, mam coś do zrobienia. Idź już... Wybacz. {Portrait:Custom:9}",
+          "AudioPath": "assets/pt-BR/Abigail/447.ogg",
           "TranslationKey": "Events/SeedShop:3:s11",
           "PageIndex": 0,
-          "DisplayPattern": "I, um, have something to do. You'll have to go... Sorry."
+          "DisplayPattern": "Ja, em, mam coś do zrobienia. Idź już... Wybacz."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s0",
-          "DialogueText": "Stop telling me how to live my life! {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/446.ogg",
+          "DialogueText": "Przestań mi mówić jak mam żyć! {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/448.ogg",
           "TranslationKey": "Events/SeedShop:17:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Stop telling me how to live my life!"
+          "DisplayPattern": "Przestań mi mówić jak mam żyć!"
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s1",
-          "DialogueText": "Stop trying to make me feel guilty. {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/447.ogg",
+          "DialogueText": "Nie próbuj wzbudzić we mnie wyrzutów sumienia. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/449.ogg",
           "TranslationKey": "Events/SeedShop:17:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Stop trying to make me feel guilty."
+          "DisplayPattern": "Nie próbuj wzbudzić we mnie wyrzutów sumienia."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s2",
-          "DialogueText": "I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous. {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/448.ogg",
+          "DialogueText": "Doceniam to, że ty i tata mi pomagacie, ale kazanie mi ubierać się jak wy chcecie jest po prostu śmieszne. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/450.ogg",
           "TranslationKey": "Events/SeedShop:17:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous."
+          "DisplayPattern": "Doceniam to, że ty i tata mi pomagacie, ale kazanie mi ubierać się jak wy chcecie jest po prostu śmieszne."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s3",
-          "DialogueText": "I'm not a little girl anymore, Mom. {Portrait:Unique}",
-          "AudioPath": "assets/pt-BR/Abigail/449.ogg",
+          "DialogueText": "Nie jestem już dzieckiem, Mamo. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Abigail/451.ogg",
           "TranslationKey": "Events/SeedShop:17:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I'm not a little girl anymore, Mom."
+          "DisplayPattern": "Nie jestem już dzieckiem, Mamo."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s4",
-          "DialogueText": "Is someone there? {Portrait:Custom:7}",
-          "AudioPath": "assets/pt-BR/Abigail/450.ogg",
+          "DialogueText": "Czy ktoś tam jest? {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Abigail/452.ogg",
           "TranslationKey": "Events/SeedShop:17:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Is someone there?"
+          "DisplayPattern": "Czy ktoś tam jest?"
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s5",
-          "DialogueText": "I swear, this house is haunted.",
-          "AudioPath": "assets/pt-BR/Abigail/451.ogg",
+          "DialogueText": "Przysięgam, ten dom jest nawiedzony.",
+          "AudioPath": "assets/pt-BR/Abigail/453.ogg",
           "TranslationKey": "Events/SeedShop:17:s5",
           "PageIndex": 0,
-          "DisplayPattern": "I swear, this house is haunted."
+          "DisplayPattern": "Przysięgam, ten dom jest nawiedzony."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s6",
           "DialogueText": "Urgghh... {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/452.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/454.ogg",
           "TranslationKey": "Events/SeedShop:17:s6",
           "PageIndex": 0,
           "DisplayPattern": "Urgghh..."
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s7",
-          "DialogueText": "Sorry... I was fighting with my Mom earlier. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/453.ogg",
+          "DialogueText": "... Pokłóciłam się z mamą. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/455.ogg",
           "TranslationKey": "Events/SeedShop:17:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Sorry... I was fighting with my Mom earlier."
+          "DisplayPattern": "... Pokłóciłam się z mamą."
         },
         {
           "DialogueFrom": "Event/Mountain/2:s0",
-          "DialogueText": "{Farmer_Name}! Why are you out here in the rain? {Portrait:Custom:7}",
-          "AudioPath": "assets/pt-BR/Abigail/454.ogg",
+          "DialogueText": "{Farmer_Name}! Co ty tu robisz w taką pogodę? {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Abigail/456.ogg",
           "TranslationKey": "Events/Mountain:2:s0",
           "PageIndex": 0,
-          "DisplayPattern": "! Why are you out here in the rain?"
+          "DisplayPattern": "! Co ty tu robisz w taką pogodę?"
         },
         {
           "DialogueFrom": "Event/Mountain/2:s1",
-          "DialogueText": "Just doing some work",
-          "AudioPath": "assets/pt-BR/Abigail/455.ogg",
+          "DialogueText": "Pracuję",
+          "AudioPath": "assets/pt-BR/Abigail/457.ogg",
           "TranslationKey": "Events/Mountain:2:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Just doing some work"
+          "DisplayPattern": "Pracuję"
         },
         {
           "DialogueFrom": "Event/Mountain/2:s2",
-          "DialogueText": "Enjoying the weather",
-          "AudioPath": "assets/pt-BR/Abigail/456.ogg",
+          "DialogueText": "Cieszę się pogodą",
+          "AudioPath": "assets/pt-BR/Abigail/458.ogg",
           "TranslationKey": "Events/Mountain:2:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Enjoying the weather"
+          "DisplayPattern": "Cieszę się pogodą"
         },
         {
           "DialogueFrom": "Event/Mountain/2:s3",
-          "DialogueText": "I could ask you the same question",
-          "AudioPath": "assets/pt-BR/Abigail/457.ogg",
+          "DialogueText": "Mogę Cię zapytać o to samo",
+          "AudioPath": "assets/pt-BR/Abigail/459.ogg",
           "TranslationKey": "Events/Mountain:2:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I could ask you the same question"
+          "DisplayPattern": "Mogę Cię zapytać o to samo"
         },
         {
           "DialogueFrom": "Event/Mountain/2:s4",
-          "DialogueText": "...I came here to spend some time alone. {Portrait:Custom:8}",
-          "AudioPath": "assets/pt-BR/Abigail/458.ogg",
+          "DialogueText": "... Przyszłam tu posiedzieć trochę w samotności. {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Abigail/460.ogg",
           "TranslationKey": "Events/Mountain:2:s4",
           "PageIndex": 0,
-          "DisplayPattern": "...I came here to spend some alone."
+          "DisplayPattern": "... Przyszłam tu posiedzieć trochę w samotności."
         },
         {
           "DialogueFrom": "Event/Mountain/2:s5",
-          "DialogueText": "But I don't mind your company!",
-          "AudioPath": "assets/pt-BR/Abigail/459.ogg",
+          "DialogueText": "Ale Twoje towarzystwo mi nie przeszkadza!",
+          "AudioPath": "assets/pt-BR/Abigail/461.ogg",
           "TranslationKey": "Events/Mountain:2:s5",
           "PageIndex": 0,
-          "DisplayPattern": "But I don't mind your company!"
+          "DisplayPattern": "Ale Twoje towarzystwo mi nie przeszkadza!"
         },
         {
           "DialogueFrom": "Event/Mountain/2:s6",
-          "DialogueText": "You're getting soaked... come stand under the tree.",
-          "AudioPath": "assets/pt-BR/Abigail/460.ogg",
+          "DialogueText": "Chodź pod drzewo, bo przemokniesz.",
+          "AudioPath": "assets/pt-BR/Abigail/462.ogg",
           "TranslationKey": "Events/Mountain:2:s6",
           "PageIndex": 0,
-          "DisplayPattern": "You're getting soaked... come stand under the tree."
+          "DisplayPattern": "Chodź pod drzewo, bo przemokniesz."
         },
         {
           "DialogueFrom": "Event/Mountain/2:s7",
-          "DialogueText": "It's impossible to describe this feeling... watching the curtains of rain whisper above a silent lake. {Portrait:Custom:8}",
-          "AudioPath": "assets/pt-BR/Abigail/461.ogg",
+          "DialogueText": "Ciężko mi opisać to uczucie... oglądanie kropli deszczu szepczących nad cichym jeziorem. {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Abigail/463.ogg",
           "TranslationKey": "Events/Mountain:2:s7",
           "PageIndex": 0,
-          "DisplayPattern": "It's impossible to describe this feeling... watching the curtains of rain whisper above a silent lake."
+          "DisplayPattern": "Ciężko mi opisać to uczucie... oglądanie kropli deszczu szepczących nad cichym jeziorem."
         },
         {
           "DialogueFrom": "Event/Mountain/2:s8",
-          "DialogueText": "Hey! A mini-harp! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/462.ogg",
+          "DialogueText": "Hej! To mini harfa! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/464.ogg",
           "TranslationKey": "Events/Mountain:2:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Hey! A mini-harp!"
+          "DisplayPattern": "Hej! To mini harfa!"
         },
         {
           "DialogueFrom": "Event/Mountain/2:s9",
-          "DialogueText": "You're full of surprises, {Farmer_Name}. I'm impressed.",
-          "AudioPath": "assets/pt-BR/Abigail/463.ogg",
+          "DialogueText": "Jesteś pełny niespodzianek, {Farmer_Name}. Jestem pod wrażeniem.",
+          "AudioPath": "assets/pt-BR/Abigail/465_male.ogg",
           "TranslationKey": "Events/Mountain:2:s9",
           "PageIndex": 0,
-          "DisplayPattern": "You're full of surprises, . I'm impressed."
+          "DisplayPattern": "Jesteś pełny niespodzianek, . Jestem pod wrażeniem.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Mountain/2:s10",
+          "DialogueText": "Jesteś pełna niespodzianek, {Farmer_Name}. Jestem pod wrażeniem.",
+          "AudioPath": "assets/pt-BR/Abigail/466_female.ogg",
+          "TranslationKey": "Events/Mountain:2:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Jesteś pełna niespodzianek, . Jestem pod wrażeniem.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Mine/901756:s0",
-          "DialogueText": "*sniff* {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/464.ogg",
+          "DialogueText": "*smark* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/467.ogg",
           "TranslationKey": "Events/Mine:901756:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*sniff*"
+          "DisplayPattern": "*smark*"
         },
         {
           "DialogueFrom": "Event/Mine/901756:s1",
-          "DialogueText": "What happened?",
-          "AudioPath": "assets/pt-BR/Abigail/465.ogg",
+          "DialogueText": "Coś się stało?",
+          "AudioPath": "assets/pt-BR/Abigail/468.ogg",
           "TranslationKey": "Events/Mine:901756:s1",
           "PageIndex": 0,
-          "DisplayPattern": "What happened?"
+          "DisplayPattern": "Coś się stało?"
         },
         {
           "DialogueFrom": "Event/Mine/901756:s2",
-          "DialogueText": "Are you okay?",
-          "AudioPath": "assets/pt-BR/Abigail/466.ogg",
+          "DialogueText": "Nic Ci nie jest?",
+          "AudioPath": "assets/pt-BR/Abigail/469.ogg",
           "TranslationKey": "Events/Mine:901756:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Are you okay?"
+          "DisplayPattern": "Nic Ci nie jest?"
         },
         {
           "DialogueFrom": "Event/Mine/901756:s3",
-          "DialogueText": "You know I've been practicing my swordsmanship for a while... {Portrait:Custom:9}",
-          "AudioPath": "assets/pt-BR/Abigail/467.ogg",
+          "DialogueText": "Już od jakiegoś czasu ćwiczę walkę mieczem... {Portrait:Custom:9}",
+          "AudioPath": "assets/pt-BR/Abigail/470.ogg",
           "TranslationKey": "Events/Mine:901756:s3",
           "PageIndex": 0,
-          "DisplayPattern": "You know I've been practicing my swordsmanship for a while..."
+          "DisplayPattern": "Już od jakiegoś czasu ćwiczę walkę mieczem..."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s4",
-          "DialogueText": "Well I decided today would be the day I venture into the caves... {Portrait:Custom:8}",
-          "AudioPath": "assets/pt-BR/Abigail/468.ogg",
+          "DialogueText": "Pomyślałam, że dzisiaj jest ten dzień, w który w końcu wejdę do jaskiń... {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Abigail/471.ogg",
           "TranslationKey": "Events/Mine:901756:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Well I decided today would be the day I venture into the caves..."
+          "DisplayPattern": "Pomyślałam, że dzisiaj jest ten dzień, w który w końcu wejdę do jaskiń..."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s5",
-          "DialogueText": "...but I got scared. I couldn't do it. {Portrait:Custom:8}",
-          "AudioPath": "assets/pt-BR/Abigail/469.ogg",
+          "DialogueText": "... ale się przestraszyłam. Nie dałam rady. {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Abigail/472.ogg",
           "TranslationKey": "Events/Mine:901756:s5",
           "PageIndex": 0,
-          "DisplayPattern": "...but I got scared. I couldn't do it."
+          "DisplayPattern": "... ale się przestraszyłam. Nie dałam rady."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s6",
-          "DialogueText": "I guess I'm not as tough as I thought... {Portrait:Custom:8}",
-          "AudioPath": "assets/pt-BR/Abigail/470.ogg",
+          "DialogueText": "Chyba nie jestem taka twarda jak myślałam... {Portrait:Custom:8}",
+          "AudioPath": "assets/pt-BR/Abigail/473.ogg",
           "TranslationKey": "Events/Mine:901756:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I guess I'm not as tough as I thought..."
+          "DisplayPattern": "Chyba nie jestem taka twarda jak myślałam..."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s7",
-          "DialogueText": "You're safe with me.",
-          "AudioPath": "assets/pt-BR/Abigail/471.ogg",
+          "DialogueText": "Ze mną jesteś bezpieczna.",
+          "AudioPath": "assets/pt-BR/Abigail/474.ogg",
           "TranslationKey": "Events/Mine:901756:s7",
           "PageIndex": 0,
-          "DisplayPattern": "You're safe with me."
+          "DisplayPattern": "Ze mną jesteś bezpieczna."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s8",
-          "DialogueText": "I get scared too.",
-          "AudioPath": "assets/pt-BR/Abigail/472.ogg",
+          "DialogueText": "Też się czasami boję.",
+          "AudioPath": "assets/pt-BR/Abigail/475.ogg",
           "TranslationKey": "Events/Mine:901756:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I get scared too."
+          "DisplayPattern": "Też się czasami boję."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s9",
-          "DialogueText": "You're crying like a little baby. Stop.",
-          "AudioPath": "assets/pt-BR/Abigail/473.ogg",
+          "DialogueText": "Płaczesz jak jakiś dzidziuś. Przestań.",
+          "AudioPath": "assets/pt-BR/Abigail/476.ogg",
           "TranslationKey": "Events/Mine:901756:s9",
           "PageIndex": 0,
-          "DisplayPattern": "You're crying like a little baby. Stop."
+          "DisplayPattern": "Płaczesz jak jakiś dzidziuś. Przestań."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s10",
-          "DialogueText": "{Farmer_Name}, I... I really like you... And not just as a friend. You know that, right? {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/474.ogg",
+          "DialogueText": "{Farmer_Name}, ja... bardzo Cię lubię... i nie tylko jako przyjaciela. Wiesz o tym, tak? {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Abigail/477.ogg",
           "TranslationKey": "Events/Mine:901756:s10",
           "PageIndex": 0,
-          "DisplayPattern": ", I... I really like you... And not just as a friend. You know that, right?"
+          "DisplayPattern": ", ja... bardzo Cię lubię... i nie tylko jako przyjaciela. Wiesz o tym, tak?"
         },
         {
           "DialogueFrom": "Event/Mine/901756:s11",
-          "DialogueText": "I can't believe I'm actually saying this... But I can't keep it in anymore. I've felt this way for a long time. {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/475.ogg",
+          "DialogueText": "Nie mogę w to uwierzyć, że to mówię... ale nie mogłam już wytrzymać. Za długo to w sobie dusiłam. {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Abigail/478.ogg",
           "TranslationKey": "Events/Mine:901756:s11",
           "PageIndex": 0,
-          "DisplayPattern": "I can't believe I'm actually saying this... But I can't keep it in anymore. I've felt this way for a long ."
+          "DisplayPattern": "Nie mogę w to uwierzyć, że to mówię... ale nie mogłam już wytrzymać. Za długo to w sobie dusiłam."
         },
         {
           "DialogueFrom": "Event/Mine/901756:s12",
-          "DialogueText": "You don't have to say anything right now. Let's just stay here for a while... {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/476_male.ogg",
+          "DialogueText": "Nie musisz nic mówić. Posiedźmy tu chwilę... {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Abigail/479_male.ogg",
           "TranslationKey": "Events/Mine:901756:s12",
           "PageIndex": 0,
-          "DisplayPattern": "You don't have to say anything right now. Let's just stay here for a while...",
+          "DisplayPattern": "Nie musisz nic mówić. Posiedźmy tu chwilę...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Mine/901756:s13",
-          "DialogueText": "I didn't know I felt this way about other girls... until I met you.",
-          "AudioPath": "assets/pt-BR/Abigail/477_female.ogg",
+          "DialogueText": "Nie wiedziałam, że poczuję coś takiego do innej dziewczyny, dopóki Cię nie poznałam.",
+          "AudioPath": "assets/pt-BR/Abigail/480_female.ogg",
           "TranslationKey": "Events/Mine:901756:s13",
           "PageIndex": 0,
-          "DisplayPattern": "I didn't know I felt this way about other girls... until I met you.",
+          "DisplayPattern": "Nie wiedziałam, że poczuję coś takiego do innej dziewczyny, dopóki Cię nie poznałam.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s0",
-          "DialogueText": "*gasp*...! {Portrait:Custom:7}",
-          "AudioPath": "assets/pt-BR/Abigail/478.ogg",
+          "DialogueText": "*głęboki wdech*...! {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Abigail/481.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*gasp*...!"
+          "DisplayPattern": "*głęboki wdech*...!"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s1",
           "DialogueText": "{Farmer_Name}...? {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/479.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/482.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s1",
           "PageIndex": 0,
           "DisplayPattern": "...?"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s2",
-          "DialogueText": "{Farmer_Name}... are you okay? {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/480.ogg",
+          "DialogueText": "{Farmer_Name}... wszystko w porządku? {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/483.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s2",
           "PageIndex": 0,
-          "DisplayPattern": "... are you okay?"
+          "DisplayPattern": "... wszystko w porządku?"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s3",
-          "DialogueText": "It looks like you're just scraped up a little... you had me worried!",
-          "AudioPath": "assets/pt-BR/Abigail/481.ogg",
+          "DialogueText": "To zwykłe draśnięcie... przestraszyłam się!",
+          "AudioPath": "assets/pt-BR/Abigail/484.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s3",
           "PageIndex": 0,
-          "DisplayPattern": "It looks like you're just scraped up a little... you had me worried!"
+          "DisplayPattern": "To zwykłe draśnięcie... przestraszyłam się!"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s4",
-          "DialogueText": "I... I've never taken a life before... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/482.ogg",
+          "DialogueText": "N... nigdy jeszcze nikogo nie zabiłam... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/485.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I... I've never taken a life before..."
+          "DisplayPattern": "N... nigdy jeszcze nikogo nie zabiłam..."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s5",
-          "DialogueText": "Yeah... I did what I had to do. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/483.ogg",
+          "DialogueText": "Tak... zrobiłam to co musiałam. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/486.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Yeah... I did what I had to do."
+          "DisplayPattern": "Tak... zrobiłam to co musiałam."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s6",
-          "DialogueText": "I guess the world's a pretty tough place. It was either you or him, right? {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/484.ogg",
+          "DialogueText": "Myślę że świat jest strasznym miejscem. Albo ty albo on, prawda? {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/487.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I guess the world's a pretty tough . It was either you or him, right?"
+          "DisplayPattern": "Myślę że świat jest strasznym miejscem. Albo ty albo on, prawda?"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s7",
-          "DialogueText": "...Aren't they just trying to survive, like us? {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/485.ogg",
+          "DialogueText": "... Czy one nie próbują tylko przeżyć, tak jak my? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Abigail/488.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s7",
           "PageIndex": 0,
-          "DisplayPattern": "...Aren't they just trying to survive, like us?"
+          "DisplayPattern": "... Czy one nie próbują tylko przeżyć, tak jak my?"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s8",
-          "DialogueText": "They may be our enemies, but I still think they deserve sympathy. {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/486.ogg",
+          "DialogueText": "Może i są naszymi wrogami, ale i tak uważam, że zasługują na trochę współczucia. {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/489.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s8",
           "PageIndex": 0,
-          "DisplayPattern": "They may be our enemies, but I still think they deserve sympathy."
+          "DisplayPattern": "Może i są naszymi wrogami, ale i tak uważam, że zasługują na trochę współczucia."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s9",
-          "DialogueText": "Still... I did what had to be done. {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/487.ogg",
+          "DialogueText": "I tak... zrobiłam co musiałam. {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/490.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Still... I did what had to be done."
+          "DisplayPattern": "I tak... zrobiłam co musiałam."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s10",
-          "DialogueText": "Huh? That's pretty funny coming from someone who just got rescued... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/488.ogg",
+          "DialogueText": "Hę? Brzmi trochę zabawnie, jak słyszysz to od osoby, którą się właśnie uratowało... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Abigail/491.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Huh? That's pretty funny coming from someone who just got rescued..."
+          "DisplayPattern": "Hę? Brzmi trochę zabawnie, jak słyszysz to od osoby, którą się właśnie uratowało..."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s11",
-          "DialogueText": "But... yeah... Sometimes reality forces us to do things we'd rather not... Guess I'm learning that the hard way. {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/489.ogg",
+          "DialogueText": "Ale... tak... Czasami jesteśmy zmuszeni do robienia rzeczy, których nie chcielibyśmy robić... Chyba uczę się tego gorszą metodą. {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/492.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s11",
           "PageIndex": 0,
-          "DisplayPattern": "But... yeah... Somes reality forces us to do things we'd rather not... Guess I'm learning that the hard way."
+          "DisplayPattern": "Ale... tak... Czasami jesteśmy zmuszeni do robienia rzeczy, których nie chcielibyśmy robić... Chyba uczę się tego gorszą metodą."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s12",
-          "DialogueText": "Hey! I saved your life, didn't I? Maybe you should think about that instead of putting me on a guilt trip. {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/490.ogg",
+          "DialogueText": "Hej! Uratowałam Cię, prawda? Może najpierw zastanów się, zanim spróbujesz wzbudzić we mnie poczucie winy. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Abigail/493.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Hey! I saved your life, didn't I? Maybe you should think about that instead of putting me on a guilt trip."
+          "DisplayPattern": "Hej! Uratowałam Cię, prawda? Może najpierw zastanów się, zanim spróbujesz wzbudzić we mnie poczucie winy."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s13",
-          "DialogueText": "Look... You've gotta be more careful from now on. I don't want to lose you.",
-          "AudioPath": "assets/pt-BR/Abigail/491.ogg",
+          "DialogueText": "Słuchaj... Musisz bardziej uważać. Nie chcę Cię stracić.",
+          "AudioPath": "assets/pt-BR/Abigail/494.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s13",
           "PageIndex": 0,
-          "DisplayPattern": "Look... You've gotta be more careful from now on. I don't want to lose you."
+          "DisplayPattern": "Słuchaj... Musisz bardziej uważać. Nie chcę Cię stracić."
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s14",
-          "DialogueText": "Let's put him to rest nearby... okay? {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/492.ogg",
+          "DialogueText": "Zakopmy go gdzieś... ok? {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/495.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Let's put him to rest nearby... okay?"
+          "DisplayPattern": "Zakopmy go gdzieś... ok?"
         },
         {
           "DialogueFrom": "Event/Backwoods/6963327:s15",
-          "DialogueText": "Good thing I brought my sword today! {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/493.ogg",
+          "DialogueText": "Dobrze, że wzięłam ze sobą mój miecz! {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Abigail/496.ogg",
           "TranslationKey": "Events/Backwoods:6963327:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Good thing I brought my sword today!"
+          "DisplayPattern": "Dobrze, że wzięłam ze sobą mój miecz!"
         },
         {
           "DialogueFrom": "Festival/fall16/Abigail_spouse",
           "DialogueText": "W tamtym roku ukończyłam wszystkie te gry! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/494.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/497.ogg",
           "TranslationKey": "Data/Festivals/fall16:Abigail_spouse",
           "PageIndex": 0,
           "DisplayPattern": "W tamtym roku ukończyłam wszystkie te gry!"
@@ -3995,7 +4025,7 @@
         {
           "DialogueFrom": "Festival/fall16/Abigail",
           "DialogueText": "Już ukończyłam wszystkie gry... Co teraz?",
-          "AudioPath": "assets/pt-BR/Abigail/495.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/498.ogg",
           "TranslationKey": "Data/Festivals/fall16:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Już ukończyłam wszystkie gry... Co teraz?"
@@ -4003,7 +4033,7 @@
         {
           "DialogueFrom": "Festival/fall16/Abigail_spouse_y2",
           "DialogueText": "Czy te bronie nie są super? Może jedną z nich kupimy do domu? {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/496.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/499.ogg",
           "TranslationKey": "Data/Festivals/fall16:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Czy te bronie nie są super? Może jedną z nich kupimy do domu?"
@@ -4011,7 +4041,7 @@
         {
           "DialogueFrom": "Festival/fall16/Abigail_y2",
           "DialogueText": "To ostrze jest takie eleganckie. Może kiedyś będę miała tyle pieniędzy, żeby sobie takie kupić! {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/497.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/500.ogg",
           "TranslationKey": "Data/Festivals/fall16:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "To ostrze jest takie eleganckie. Może kiedyś będę miała tyle pieniędzy, żeby sobie takie kupić!"
@@ -4019,7 +4049,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail_spouse",
           "DialogueText": "Musisz mi powiedzieć co tam jest, nie mogę tam iść... Pająki... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/498.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/501.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Musisz mi powiedzieć co tam jest, nie mogę tam iść... Pająki..."
@@ -4027,7 +4057,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail",
           "DialogueText": "Nie mogę iść dalej... Pająki... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/499.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/502.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Nie mogę iść dalej... Pająki..."
@@ -4035,7 +4065,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail_spouse_y2",
           "DialogueText": "Walczyłeś z takimi potworami? {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/500_male.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/503_male.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Walczyłeś z takimi potworami?",
@@ -4044,7 +4074,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail_spouse_y2",
           "DialogueText": "Walczyłaś z takimi potworami? {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/501_female.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/504_female.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Walczyłaś z takimi potworami?",
@@ -4053,7 +4083,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail_spouse_y2",
           "DialogueText": "Nawet... p-pająkami? {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/502.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/505.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail_spouse_y2",
           "PageIndex": 2,
           "DisplayPattern": "Nawet... p-pająkami?"
@@ -4061,7 +4091,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail_y2",
           "DialogueText": "Widziałeś dekoracje na naszym domu? Nie podobają mi się... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/503_male.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/506_male.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "Widziałeś dekoracje na naszym domu? Nie podobają mi się...",
@@ -4070,7 +4100,7 @@
         {
           "DialogueFrom": "Festival/fall27/Abigail_y2",
           "DialogueText": "Widziałaś dekoracje na naszym domu? Nie podobają mi się... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/504_female.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/507_female.ogg",
           "TranslationKey": "Data/Festivals/fall27:Abigail_y2",
           "PageIndex": 1,
           "DisplayPattern": "Widziałaś dekoracje na naszym domu? Nie podobają mi się...",
@@ -4079,7 +4109,7 @@
         {
           "DialogueFrom": "Festival/spring13/Abigail_spouse",
           "DialogueText": "Idź sobie. Dopóki polowanie na jajka się nie skończy, jesteśmy rywalami! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/505.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/508.ogg",
           "TranslationKey": "Data/Festivals/spring13:Abigail_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Idź sobie. Dopóki polowanie na jajka się nie skończy, jesteśmy rywalami!"
@@ -4087,7 +4117,7 @@
         {
           "DialogueFrom": "Festival/spring13/Abigail",
           "DialogueText": "Szukanie jajek jest jak poszukiwania skarbów. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/506.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/509.ogg",
           "TranslationKey": "Data/Festivals/spring13:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Szukanie jajek jest jak poszukiwania skarbów."
@@ -4095,7 +4125,7 @@
         {
           "DialogueFrom": "Festival/spring13/Abigail_y2",
           "DialogueText": "Czy myślisz, że jestem na to za stara?",
-          "AudioPath": "assets/pt-BR/Abigail/507.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/510.ogg",
           "TranslationKey": "Data/Festivals/spring13:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "Czy myślisz, że jestem na to za stara?"
@@ -4103,7 +4133,7 @@
         {
           "DialogueFrom": "Festival/spring13/Abigail_y2",
           "DialogueText": "Hmmph... Brzmisz jak moja mama! {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/508.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/511.ogg",
           "TranslationKey": "Data/Festivals/spring13:Abigail_y2",
           "PageIndex": 1,
           "DisplayPattern": "Hmmph... Brzmisz jak moja mama!"
@@ -4111,7 +4141,7 @@
         {
           "DialogueFrom": "Festival/spring13/Abigail_y2",
           "DialogueText": "Też tak myślę. Jeśli nadal mam z tego frajdę, po co przestawać?",
-          "AudioPath": "assets/pt-BR/Abigail/509.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/512.ogg",
           "TranslationKey": "Data/Festivals/spring13:Abigail_y2",
           "PageIndex": 2,
           "DisplayPattern": "Też tak myślę. Jeśli nadal mam z tego frajdę, po co przestawać?"
@@ -4119,7 +4149,7 @@
         {
           "DialogueFrom": "Festival/spring24/Abigail",
           "DialogueText": "Nienawidzę tańczyć przed wszystkimi... To takie krępujące.",
-          "AudioPath": "assets/pt-BR/Abigail/510.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/513.ogg",
           "TranslationKey": "Data/Festivals/spring24:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Nienawidzę tańczyć przed wszystkimi... To takie krępujące."
@@ -4127,7 +4157,7 @@
         {
           "DialogueFrom": "Festival/spring24/Abigail",
           "DialogueText": "Mama mnie do tego zmusiła. {Portrait:Unique}",
-          "AudioPath": "assets/pt-BR/Abigail/511.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/514.ogg",
           "TranslationKey": "Data/Festivals/spring24:Abigail",
           "PageIndex": 1,
           "DisplayPattern": "Mama mnie do tego zmusiła."
@@ -4135,7 +4165,7 @@
         {
           "DialogueFrom": "Festival/spring24/Abigail_spouse_y2",
           "DialogueText": "Jak nie chcesz, to nie musimy tańczyć! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/512.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/515.ogg",
           "TranslationKey": "Data/Festivals/spring24:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Jak nie chcesz, to nie musimy tańczyć!"
@@ -4143,7 +4173,7 @@
         {
           "DialogueFrom": "Festival/spring24/Abigail_y2",
           "DialogueText": "W tym roku powinna tańczyć starszyzna. Na pewno by im się spodobało!",
-          "AudioPath": "assets/pt-BR/Abigail/513.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/516.ogg",
           "TranslationKey": "Data/Festivals/spring24:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "W tym roku powinna tańczyć starszyzna. Na pewno by im się spodobało!"
@@ -4151,7 +4181,7 @@
         {
           "DialogueFrom": "Festival/summer11/Abigail_spouse",
           "DialogueText": "Nie będę Ci przeszkadzać w zabawie. Chcę pooglądać ocean.",
-          "AudioPath": "assets/pt-BR/Abigail/514.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/517.ogg",
           "TranslationKey": "Data/Festivals/summer11:Abigail_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Nie będę Ci przeszkadzać w zabawie. Chcę pooglądać ocean."
@@ -4159,7 +4189,7 @@
         {
           "DialogueFrom": "Festival/summer11/Abigail",
           "DialogueText": "Ciężko mi jest rozmawiać z innymi... Wolę oglądać ocean.",
-          "AudioPath": "assets/pt-BR/Abigail/515.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/518.ogg",
           "TranslationKey": "Data/Festivals/summer11:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Ciężko mi jest rozmawiać z innymi... Wolę oglądać ocean."
@@ -4167,7 +4197,7 @@
         {
           "DialogueFrom": "Festival/summer11/Abigail_spouse_y2",
           "DialogueText": "Po spróbowaniu zupy, posiedźmy razem w dokach, z dala od innych. {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/516.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/519.ogg",
           "TranslationKey": "Data/Festivals/summer11:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Po spróbowaniu zupy, posiedźmy razem w dokach, z dala od innych."
@@ -4175,7 +4205,7 @@
         {
           "DialogueFrom": "Festival/summer11/Abigail_y2",
           "DialogueText": "Mój ojciec ma obsesję na punkcie wizyty gubernatora. Wszystko musi być idealne!",
-          "AudioPath": "assets/pt-BR/Abigail/517.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/520.ogg",
           "TranslationKey": "Data/Festivals/summer11:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "Mój ojciec ma obsesję na punkcie wizyty gubernatora. Wszystko musi być idealne!"
@@ -4183,7 +4213,7 @@
         {
           "DialogueFrom": "Festival/summer11/Abigail_y2",
           "DialogueText": "Myślę, że chciałby zostać burmistrzem... {Portrait:Custom:9}",
-          "AudioPath": "assets/pt-BR/Abigail/518.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/521.ogg",
           "TranslationKey": "Data/Festivals/summer11:Abigail_y2",
           "PageIndex": 1,
           "DisplayPattern": "Myślę, że chciałby zostać burmistrzem..."
@@ -4191,7 +4221,7 @@
         {
           "DialogueFrom": "Festival/summer28/Abigail",
           "DialogueText": "Cóż za rzadki i ekscytujący dzień...",
-          "AudioPath": "assets/pt-BR/Abigail/519.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/522.ogg",
           "TranslationKey": "Data/Festivals/summer28:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Cóż za rzadki i ekscytujący dzień..."
@@ -4199,7 +4229,7 @@
         {
           "DialogueFrom": "Festival/summer28/Abigail_spouse_y2",
           "DialogueText": "Przyniosłam nam kocyk, w razie jakby zrobiło się chłodno. {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/520.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/523.ogg",
           "TranslationKey": "Data/Festivals/summer28:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Przyniosłam nam kocyk, w razie jakby zrobiło się chłodno."
@@ -4207,7 +4237,7 @@
         {
           "DialogueFrom": "Festival/summer28/Abigail_spouse_y2",
           "DialogueText": "Jest trochę mały, ale jakoś się zmieścimy... {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/521.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/524.ogg",
           "TranslationKey": "Data/Festivals/summer28:Abigail_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Jest trochę mały, ale jakoś się zmieścimy..."
@@ -4215,7 +4245,7 @@
         {
           "DialogueFrom": "Festival/summer28/Abigail_y2",
           "DialogueText": "Podobno istnieje rzadki rodzaj zielonej meduzy. Chcę taką zobaczyć jako pierwsza! {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/522.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/525.ogg",
           "TranslationKey": "Data/Festivals/summer28:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "Podobno istnieje rzadki rodzaj zielonej meduzy. Chcę taką zobaczyć jako pierwsza!"
@@ -4223,7 +4253,7 @@
         {
           "DialogueFrom": "Festival/winter25/Abigail_spouse",
           "DialogueText": "Zastanawiam się czy spróbować tych lasek cukrowych...",
-          "AudioPath": "assets/pt-BR/Abigail/523.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/526.ogg",
           "TranslationKey": "Data/Festivals/winter25:Abigail_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Zastanawiam się czy spróbować tych lasek cukrowych..."
@@ -4231,7 +4261,7 @@
         {
           "DialogueFrom": "Festival/winter25/Abigail",
           "DialogueText": "Nie ma to jak ciepły obiad w chłodny, zimowy dzień. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/524.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/527.ogg",
           "TranslationKey": "Data/Festivals/winter25:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Nie ma to jak ciepły obiad w chłodny, zimowy dzień."
@@ -4239,7 +4269,7 @@
         {
           "DialogueFrom": "Festival/winter25/Abigail_spouse_y2",
           "DialogueText": "Brr... ale zimnica! Chcę wrócić pod pierzynę...",
-          "AudioPath": "assets/pt-BR/Abigail/525.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/528.ogg",
           "TranslationKey": "Data/Festivals/winter25:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Brr... ale zimnica! Chcę wrócić pod pierzynę..."
@@ -4247,7 +4277,7 @@
         {
           "DialogueFrom": "Festival/winter25/Abigail_y2",
           "DialogueText": "Zastanawiam się, który prezent jest dla mnie... {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Abigail/526.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/529.ogg",
           "TranslationKey": "Data/Festivals/winter25:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "Zastanawiam się, który prezent jest dla mnie..."
@@ -4255,7 +4285,7 @@
         {
           "DialogueFrom": "Festival/winter25/Abigail_y2",
           "DialogueText": "Mam nadzieję, że to ten duży! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/527.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/530.ogg",
           "TranslationKey": "Data/Festivals/winter25:Abigail_y2",
           "PageIndex": 1,
           "DisplayPattern": "Mam nadzieję, że to ten duży!"
@@ -4263,7 +4293,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail_spouse",
           "DialogueText": "Hej, Kochanie... popatrz, to ty! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/528.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/531.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Hej, Kochanie... popatrz, to ty!"
@@ -4271,7 +4301,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail",
           "DialogueText": "Co myślisz o moim zimnym draniu?",
-          "AudioPath": "assets/pt-BR/Abigail/529.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/532.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Co myślisz o moim zimnym draniu?"
@@ -4279,7 +4309,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail_spouse_y2",
           "DialogueText": "Wyobraź sobie, jakbyśmy mieszkali razem w igloo! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/530.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/533.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Wyobraź sobie, jakbyśmy mieszkali razem w igloo!"
@@ -4287,7 +4317,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail_spouse_y2",
           "DialogueText": "Byłoby fajnie, ale dobrze mi z Tobą gdziekolwiek. {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/531.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/534.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Byłoby fajnie, ale dobrze mi z Tobą gdziekolwiek."
@@ -4295,7 +4325,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail_y2",
           "DialogueText": "Rzucałeś kiedyś masę kamyków na zamrożone jezioro? Robią przyjemny dźwięk.",
-          "AudioPath": "assets/pt-BR/Abigail/532_male.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/535_male.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail_y2",
           "PageIndex": 0,
           "DisplayPattern": "Rzucałeś kiedyś masę kamyków na zamrożone jezioro? Robią przyjemny dźwięk.",
@@ -4304,7 +4334,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail_y2",
           "DialogueText": "Rzucałaś kiedyś masę kamyków na zamrożone jezioro? Robią przyjemny dźwięk.",
-          "AudioPath": "assets/pt-BR/Abigail/533_female.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/536_female.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail_y2",
           "PageIndex": 1,
           "DisplayPattern": "Rzucałaś kiedyś masę kamyków na zamrożone jezioro? Robią przyjemny dźwięk.",
@@ -4313,7 +4343,7 @@
         {
           "DialogueFrom": "Festival/winter8/Abigail_y2",
           "DialogueText": "... Nie mów tacie, ale noszę pod płaszczem sweter świąteczny.",
-          "AudioPath": "assets/pt-BR/Abigail/534.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/537.ogg",
           "TranslationKey": "Data/Festivals/winter8:Abigail_y2",
           "PageIndex": 2,
           "DisplayPattern": "... Nie mów tacie, ale noszę pod płaszczem sweter świąteczny."
@@ -4321,7 +4351,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Abigail:s0",
           "DialogueText": "Uwielbiam to! Dziękuję, {Farmer_Name}!",
-          "AudioPath": "assets/pt-BR/Abigail/535.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/538.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Abigail:s0",
           "PageIndex": 0,
           "DisplayPattern": "Uwielbiam to! Dziękuję, !"
@@ -4329,7 +4359,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Abigail:s1",
           "DialogueText": "Hej, właśnie zgłodniałam. Wygląda apetycznie!",
-          "AudioPath": "assets/pt-BR/Abigail/536.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/539.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Abigail:s1",
           "PageIndex": 0,
           "DisplayPattern": "Hej, właśnie zgłodniałam. Wygląda aycznie!"
@@ -4337,7 +4367,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Abigail:s2",
           "DialogueText": "Co ja niby mam z tym zrobić?",
-          "AudioPath": "assets/pt-BR/Abigail/537.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/540.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Abigail:s2",
           "PageIndex": 0,
           "DisplayPattern": "Co ja niby mam z tym zrobić?"
@@ -4345,7 +4375,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Abigail:s3",
           "DialogueText": "Co ty sobie wyobrażasz? To jest okropne!",
-          "AudioPath": "assets/pt-BR/Abigail/538.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/541.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Abigail:s3",
           "PageIndex": 0,
           "DisplayPattern": "Co ty sobie wyobrażasz? To jest okropne!"
@@ -4353,7 +4383,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Abigail:s4",
           "DialogueText": "To dla mnie? Dzięki.",
-          "AudioPath": "assets/pt-BR/Abigail/539.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/542.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Abigail:s4",
           "PageIndex": 0,
           "DisplayPattern": "To dla mnie? Dzięki."
@@ -4361,7 +4391,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SeedShop_Abigail_Drawers",
           "DialogueText": "Hej, nawet o tym nie myśl! To własność prywatna! {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Abigail/540.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/543.ogg",
           "TranslationKey": "Data/ExtraDialogue:SeedShop_Abigail_Drawers",
           "PageIndex": 0,
           "DisplayPattern": "Hej, nawet o tym nie myśl! To własność prywatna!"
@@ -4369,7 +4399,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Abigail_QualityLow",
           "DialogueText": "Hej. kupiliśmy {2} na kolację, które sprzedałeś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/541_male.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/544_male.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Abigail_QualityLow",
           "PageIndex": 0,
           "DisplayPattern": "Hej. kupiliśmy {2} na kolację, które sprzedałeś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić.",
@@ -4378,7 +4408,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Abigail_QualityLow",
           "DialogueText": "Hej. kupiliśmy {2} na kolację, które sprzedałaś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/542_female.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/545_female.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Abigail_QualityLow",
           "PageIndex": 1,
           "DisplayPattern": "Hej. kupiliśmy {2} na kolację, które sprzedałaś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić.",
@@ -4387,7 +4417,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Abigail_QualityLow",
           "DialogueText": "Niestety smakowało jak {3}. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Abigail/543.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/546.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Abigail_QualityLow",
           "PageIndex": 2,
           "DisplayPattern": "Niestety smakowało jak {3}."
@@ -4395,7 +4425,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Abigail_QualityHigh",
           "DialogueText": "Hej. kupiliśmy {2} na kolację, które sprzedałeś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/544_male.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/547_male.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Abigail_QualityHigh",
           "PageIndex": 0,
           "DisplayPattern": "Hej. kupiliśmy {2} na kolację, które sprzedałeś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić.",
@@ -4404,7 +4434,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Abigail_QualityHigh",
           "DialogueText": "Hej. kupiliśmy {2} na kolację, które sprzedałaś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/545_female.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/548_female.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Abigail_QualityHigh",
           "PageIndex": 1,
           "DisplayPattern": "Hej. kupiliśmy {2} na kolację, które sprzedałaś do sklepu... Chyba kończył się termin ważności, a tata nie chciał tego wyrzucić.",
@@ -4413,7 +4443,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Abigail_QualityHigh",
           "DialogueText": "Nawet nie było takie złe.",
-          "AudioPath": "assets/pt-BR/Abigail/546.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/549.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Abigail_QualityHigh",
           "PageIndex": 2,
           "DisplayPattern": "Nawet nie było takie złe."
@@ -4421,7 +4451,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Abigail",
           "DialogueText": "Patrzenie stąd na horyzont... Mam poczucie nieskończonych możliwości.",
-          "AudioPath": "assets/pt-BR/Abigail/547.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/550.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Patrzenie stąd na horyzont... Mam poczucie nieskończonych możliwości."
@@ -4429,7 +4459,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Abigail",
           "DialogueText": "Cieszę się, że mogę odkrywać ten świat z Tobą... {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Abigail/548.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/551.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Abigail",
           "PageIndex": 1,
           "DisplayPattern": "Cieszę się, że mogę odkrywać ten świat z Tobą..."
@@ -4437,7 +4467,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_summer_movie_0_BeforeMovie",
           "DialogueText": "Nie mogę w to uwierzyć, że zrobili film o Królu Prerii... Miejmy nadzieję, że jest dobry!",
-          "AudioPath": "assets/pt-BR/Abigail/549.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/552.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_summer_movie_0_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Nie mogę w to uwierzyć, że zrobili film o Królu Prerii... Miejmy nadzieję, że jest dobry!"
@@ -4445,7 +4475,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_summer_movie_0_DuringMovie",
           "DialogueText": "Posłuchaj... ma tą starą, znajomą muzykę. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/550.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/553.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_summer_movie_0_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Posłuchaj... ma tą starą, znajomą muzykę."
@@ -4453,7 +4483,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_summer_movie_0_AfterMovie",
           "DialogueText": "Cóż, gra aktorska była okropna, ale nadal się dobrze bawiłam. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/551.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/554.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_summer_movie_0_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Cóż, gra aktorska była okropna, ale nadal się dobrze bawiłam."
@@ -4461,7 +4491,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_spring_movie_1_BeforeMovie",
           "DialogueText": "Nie mogę się doczekać aż 'zbadam nasz tętniący życiem świat'... a ty? {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/552.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/555.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_spring_movie_1_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Nie mogę się doczekać aż 'zbadam nasz tętniący życiem świat'... a ty?"
@@ -4469,7 +4499,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_spring_movie_1_DuringMovie",
           "DialogueText": "Tego nie wiedziałam!",
-          "AudioPath": "assets/pt-BR/Abigail/553.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/556.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_spring_movie_1_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Tego nie wiedziałam!"
@@ -4477,7 +4507,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_spring_movie_1_AfterMovie",
           "DialogueText": "To było bardzo interesujące. Najbardziej podobały mi się szopy... Są takie słodkie! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/554.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/557.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_spring_movie_1_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "To było bardzo interesujące. Najbardziej podobały mi się szopy... Są takie słodkie!"
@@ -4485,7 +4515,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_love_BeforeMovie",
           "DialogueText": "Uwielbiam horrory... Mam nadzieję, że ten będzie straszny! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/555.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/558.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_love_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Uwielbiam horrory... Mam nadzieję, że ten będzie straszny!"
@@ -4493,7 +4523,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_love_DuringMovie",
           "DialogueText": "Ha ha! Nie jest straszny, ale podoba mi się. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/556.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/559.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_love_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Ha ha! Nie jest straszny, ale podoba mi się."
@@ -4501,7 +4531,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_love_DuringMovie_2",
           "DialogueText": "Abigail się śmieje!",
-          "AudioPath": "assets/pt-BR/Abigail/557.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/560.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_love_DuringMovie_2",
           "PageIndex": 0,
           "DisplayPattern": "Abigail się śmieje!"
@@ -4509,7 +4539,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_love_AfterMovie",
           "DialogueText": "Trochę kiczowaty, ale może być. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/558.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/561.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_love_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Trochę kiczowaty, ale może być."
@@ -4517,7 +4547,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_like_BeforeMovie",
           "DialogueText": "Hej! Dzięki za zaproszenie, chętnie pójdę na film. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/559.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/562.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_like_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Hej! Dzięki za zaproszenie, chętnie pójdę na film."
@@ -4525,7 +4555,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_like_AfterMovie",
           "DialogueText": "To było interesujące... Zastanawiam się co bym zrobiła w tej sytuacji?",
-          "AudioPath": "assets/pt-BR/Abigail/560.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/563.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_like_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "To było interesujące... Zastanawiam się co bym zrobiła w tej sytuacji?"
@@ -4533,7 +4563,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_dislike_BeforeMovie",
           "DialogueText": "Z tego co widziałam w zwiastunie, to zapowiada się na maraton spania... {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/561.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/564.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_dislike_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Z tego co widziałam w zwiastunie, to zapowiada się na maraton spania..."
@@ -4541,7 +4571,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_dislike_DuringMovie",
           "DialogueText": "Obudź mnie, jak będzie coś ciekawego. {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/562.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/565.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_dislike_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Obudź mnie, jak będzie coś ciekawego."
@@ -4549,7 +4579,7 @@
         {
           "DialogueFrom": "MovieReactions/Abigail_dislike_AfterMovie",
           "DialogueText": "*ziew*... To było nudne, co nie? {Portrait:Custom:6}",
-          "AudioPath": "assets/pt-BR/Abigail/563.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/566.ogg",
           "TranslationKey": "Strings/MovieReactions:Abigail_dislike_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "*ziew*... To było nudne, co nie?"
@@ -4557,7 +4587,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Abigail",
           "DialogueText": "Cieszę się, że naprawiłeś autobus! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/564_male.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/567_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Cieszę się, że naprawiłeś autobus!",
@@ -4566,7 +4596,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Abigail",
           "DialogueText": "Cieszę się, że naprawiłaś autobus! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Abigail/565_female.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/568_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Abigail",
           "PageIndex": 1,
           "DisplayPattern": "Cieszę się, że naprawiłaś autobus!",
@@ -4575,7 +4605,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Abigail",
           "DialogueText": "Zawsze chciałam zobaczyć coś poza Miastem Pelikan.",
-          "AudioPath": "assets/pt-BR/Abigail/566.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/569.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Abigail",
           "PageIndex": 2,
           "DisplayPattern": "Zawsze chciałam zobaczyć coś poza Miastem Pelikan."
@@ -4583,7 +4613,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Abigail_marriage",
           "DialogueText": "Myślałam, czy nie dołączyć do Ciebie w Kościanej Pieczarze, ale wtedy zobaczyłam stoisko z żarciem...",
-          "AudioPath": "assets/pt-BR/Abigail/567.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/570.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Abigail_marriage",
           "PageIndex": 0,
           "DisplayPattern": "Myślałam, czy nie dołączyć do Ciebie w Kościanej Pieczarze, ale wtedy zobaczyłam stoisko z żarciem..."
@@ -4591,7 +4621,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Abigail_marriage",
           "DialogueText": "Możesz iść beze mnie... tylko uważaj!",
-          "AudioPath": "assets/pt-BR/Abigail/568.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/571.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Abigail_marriage",
           "PageIndex": 1,
           "DisplayPattern": "Możesz iść beze mnie... tylko uważaj!"
@@ -4599,7 +4629,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Abigail",
           "DialogueText": "Hej, wzięłam parę losowych rzeczy z mojej szafy. Chcesz coś?",
-          "AudioPath": "assets/pt-BR/Abigail/569.ogg",
+          "AudioPath": "assets/pt-BR/Abigail/572.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Hej, wzięłam parę losowych rzeczy z mojej szafy. Chcesz coś?"
