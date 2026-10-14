@@ -155,7 +155,16 @@ namespace VoiceOverFrameworkMod
             if (!SelectedVoicePacks.TryGetValue(characterName, out string selectedVoicePackId) ||
                 string.IsNullOrEmpty(selectedVoicePackId) ||
                 selectedVoicePackId.Equals("None", StringComparison.OrdinalIgnoreCase))
-                return null;
+            {
+                // Use the normal character fallback when no explicit pack was
+                // configured. Exact TranslationKey lookups should not depend on
+                // the user having manually selected the pack.
+                var fallbackPack = GetSelectedVoicePack(characterName);
+                if (fallbackPack == null)
+                    return null;
+
+                selectedVoicePackId = fallbackPack.VoicePackId;
+            }
 
             // language selection (same as V1)
             string primaryLangStr = languageCode.ToString().ToLowerInvariant();
@@ -416,7 +425,7 @@ namespace VoiceOverFrameworkMod
         /// Count how many speak-ish commands for this speaker occur up to and including the current command.
         /// This reproduces the s{index} we assigned at template time without Harmony.
         /// </summary>
-        private int? ComputeSpeakIndexForCurrent(Event ev, string speakerName)
+        private int? ComputeSpeakIndexForCurrent(Event ev, string speakerName, int currentPageIndex = 0)
         {
             if (ev?.eventCommands == null || ev.eventCommands.Length == 0 || string.IsNullOrWhiteSpace(speakerName))
                 return null;
@@ -425,7 +434,7 @@ namespace VoiceOverFrameworkMod
             if (current < 0) current = 0;
             if (current >= ev.eventCommands.Length) current = ev.eventCommands.Length - 1;
 
-            int count = 0;
+            int serial = 0;
             for (int i = 0; i <= current; i++)
             {
                 string line = ev.eventCommands[i];
@@ -449,14 +458,30 @@ namespace VoiceOverFrameworkMod
 
                 if (actor != null && actor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
                 {
-                    // this occurrence contributes to the index
-                    // by the time the dialogue shows, ev.CurrentCommand is still on this command,
-                    // so including i==current gives the correct 0-based index.
-                    count++;
+                    // Each #$b# marker creates another displayed page and therefore
+                    // another event serial, even though it remains one speak command.
+                    int pageCount = 1;
+                    if (isSpeak)
+                        pageCount += Regex.Matches(line, @"#?\$b#?").Count;
+
+                    // Gender alternatives also occupy separate event serial slots.
+                    // Vanilla event syntax places the male branch before the female
+                    // branch: male^female.
+                    int genderBranchCount = isSpeak ? line.Count(c => c == '^') + 1 : 1;
+
+                    if (i == current)
+                    {
+                        int page = Math.Clamp(currentPageIndex, 0, pageCount - 1);
+                        int genderBranch = genderBranchCount > 1 && Game1.player?.IsMale != true ? 1 : 0;
+                        genderBranch = Math.Clamp(genderBranch, 0, genderBranchCount - 1);
+                        return serial + (genderBranch * pageCount) + page;
+                    }
+
+                    serial += genderBranchCount * pageCount;
                 }
             }
 
-            return count > 0 ? count - 1 : (int?)0; // if the first match is the current one, its index is 0
+            return serial > 0 ? serial - 1 : 0;
         }
 
 

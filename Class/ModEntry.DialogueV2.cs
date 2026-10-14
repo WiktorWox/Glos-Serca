@@ -610,6 +610,25 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
+            // Events have a stable identity even when the displayed text differs
+            // between languages (or when the pack's DisplayPattern is abbreviated).
+            // Resolve that identity before using the text/dictionary pipeline.
+            var currentEvent = GetCurrentEvent();
+            string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
+            int? eventSpeakIndex = ComputeSpeakIndexForCurrent(currentEvent, currentSpeaker?.Name, pageZero);
+            if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
+            {
+                string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
+                if (TryToPlayVoiceByTranslationKeys(
+                        currentSpeaker.Name,
+                        new[] { eventTranslationKey },
+                        LocalizedContentManager.CurrentLanguageCode))
+                {
+                    _lastPlayedLookupKey = patternKey;
+                    return;
+                }
+            }
+
             // ─────────────────────────────────────────────────────────────
             // Cross-language path → DictionaryV2 decides (exact → dict fuzzy over GAME language keys)
             // ─────────────────────────────────────────────────────────────
