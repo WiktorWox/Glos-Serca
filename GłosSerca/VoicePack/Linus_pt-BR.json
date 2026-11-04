@@ -33,6 +33,7 @@
           "TranslationKey": "Characters/Dialogue/Linus:Introduction",
           "PageIndex": 2,
           "DisplayPattern": "Nie zwracaj na mnie uwagi. Żyję tu samotnie.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "AcceptGift_(O)StardropTea",
@@ -758,440 +759,460 @@
         },
         {
           "DialogueFrom": "Event/Town/502969:s0",
-          "DialogueText": "It was me... I'm sorry. {Portrait:Sad}",
+          "DialogueText": "To byłem ja... przepraszam. {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Linus/94.ogg",
           "TranslationKey": "Events/Town:502969:s0",
           "PageIndex": 0,
-          "DisplayPattern": "It was me... I'm sorry."
+          "DisplayPattern": "To byłem ja... przepraszam."
         },
         {
           "DialogueFrom": "Event/Town/502969:s1",
-          "DialogueText": "I find a lot of hot, fresh food in these cans... stuff that will go to waste if I don't take it.",
+          "DialogueText": "W tych koszach znajduję dużo ciepłego i świeżego jedzenia... rzeczy, które by się zmarnowały, jakbym ich nie wziął.",
           "AudioPath": "assets/pt-BR/Linus/95.ogg",
           "TranslationKey": "Events/Town:502969:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I find a lot of hot, fresh food in these cans... stuff that will go to waste if I don't take it."
+          "DisplayPattern": "W tych koszach znajduję dużo ciepłego i świeżego jedzenia... rzeczy, które by się zmarnowały, jakbym ich nie wziął."
         },
         {
           "DialogueFrom": "Event/Town/502969:s2",
-          "DialogueText": "Do you think there's something wrong with what I'm doing?",
+          "DialogueText": "Myślisz, że jest coś złego w tym co robię?",
           "AudioPath": "assets/pt-BR/Linus/96.ogg",
           "TranslationKey": "Events/Town:502969:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Do you think there's something wrong with what I'm doing?"
+          "DisplayPattern": "Myślisz, że jest coś złego w tym co robię?"
         },
         {
           "DialogueFrom": "Event/Town/502969:s3",
-          "DialogueText": "Disgusting to you, maybe. To me, it's a way of life. And I haven't gotten sick yet. I only eat things that look fresh.",
+          "DialogueText": "Obleśne dla Ciebie. Dla mnie, to sposób na życie. I jeszcze nie zachorowałem. Jem tylko to, co wygląda na świeże.",
           "AudioPath": "assets/pt-BR/Linus/97.ogg",
           "TranslationKey": "Events/Town:502969:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Disgusting to you, maybe. To me, it's a way of life. And I haven't gotten sick yet. I only eat things that look fresh."
+          "DisplayPattern": "Obleśne dla Ciebie. Dla mnie, to sposób na życie. I jeszcze nie zachorowałem. Jem tylko to, co wygląda na świeże."
         },
         {
           "DialogueFrom": "Event/Town/502969:s4",
-          "DialogueText": "Thanks, {Farmer_Name}. I knew you were an open-minded person. I feel good about what I'm doing. I'm not harming anyone. {Portrait:Happy}",
+          "DialogueText": "Dzięki, {Farmer_Name}. Wiedziałem, że jesteś osobą o otwartym umyśle. Dobrze się czuję z tym co robię. Nikogo nie krzywdzę. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Linus/98.ogg",
           "TranslationKey": "Events/Town:502969:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, . I knew you were an open-minded person. I feel good about what I'm doing. I'm not harming anyone."
+          "DisplayPattern": "Dzięki, . Wiedziałem, że jesteś osobą o otwartym umyśle. Dobrze się czuję z tym co robię. Nikogo nie krzywdzę."
         },
         {
           "DialogueFrom": "Event/Town/502969:s5",
-          "DialogueText": "I don't believe in 'private property",
+          "DialogueText": "Nie wierzę we 'własność prywatną",
           "AudioPath": "assets/pt-BR/Linus/99.ogg",
           "TranslationKey": "Events/Town:502969:s5",
           "PageIndex": 0,
-          "DisplayPattern": "I don't believe in 'private property"
+          "DisplayPattern": "Nie wierzę we 'własność prywatną"
         },
         {
           "DialogueFrom": "Event/Town/502969:s6",
-          "DialogueText": "Not everyone's cut out for this world, {Farmer_Name}. You don't know what it's like to be me. I'm not harming anyone, I just want to live life in my own way. Is that so wrong?'",
+          "DialogueText": "Nie wszyscy są odcięci od tego świata, {Farmer_Name}. Nie wiesz jak to jest być mną. Nikogo nie krzywdzę, chcę żyć na własną rękę. Czy to źle?'",
           "AudioPath": "assets/pt-BR/Linus/100.ogg",
           "TranslationKey": "Events/Town:502969:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Not everyone's cut out for this world, . You don't know what it's like to be me. I'm not harming anyone, I just want to live life in my own way. Is that so wrong?'"
+          "DisplayPattern": "Nie wszyscy są odcięci od tego świata, . Nie wiesz jak to jest być mną. Nikogo nie krzywdzę, chcę żyć na własną rękę. Czy to źle?'"
         },
         {
           "DialogueFrom": "Event/Town/502969:s7",
-          "DialogueText": "You can go on home. I promise I won't rummage in George's can anymore.",
+          "DialogueText": "Możesz iść do domu. Obiecuję, że nie będę już nigdy więcej grzebać w koszu Georga.",
           "AudioPath": "assets/pt-BR/Linus/101.ogg",
           "TranslationKey": "Events/Town:502969:s7",
           "PageIndex": 0,
-          "DisplayPattern": "You can go on home. I promise I won't rummage in George's can anymore."
+          "DisplayPattern": "Możesz iść do domu. Obiecuję, że nie będę już nigdy więcej grzebać w koszu Georga."
         },
         {
           "DialogueFrom": "Event/Town/502969:s8",
-          "DialogueText": "You can tell him you scared off the raccoons for good.",
-          "AudioPath": "assets/pt-BR/Linus/102.ogg",
+          "DialogueText": "Możesz powiedzieć, że wystraszyłeś te szopy na dobre.",
+          "AudioPath": "assets/pt-BR/Linus/102_male.ogg",
           "TranslationKey": "Events/Town:502969:s8",
           "PageIndex": 0,
-          "DisplayPattern": "You can tell him you scared off the raccoons for good."
+          "DisplayPattern": "Możesz powiedzieć, że wystraszyłeś te szopy na dobre.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Town/502969:s9",
+          "DialogueText": "Możesz powiedzieć, że wystraszyłaś te szopy na dobre.",
+          "AudioPath": "assets/pt-BR/Linus/103_female.ogg",
+          "TranslationKey": "Events/Town:502969:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Możesz powiedzieć, że wystraszyłaś te szopy na dobre.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Mountain/26:s0",
-          "DialogueText": "{Farmer_Name}! Come stand next to the firepit. It feels great.",
-          "AudioPath": "assets/pt-BR/Linus/103.ogg",
+          "DialogueText": "{Farmer_Name}! Podejdź do ogniska. To takie przyjemne uczucie.",
+          "AudioPath": "assets/pt-BR/Linus/104.ogg",
           "TranslationKey": "Events/Mountain:26:s0",
           "PageIndex": 0,
-          "DisplayPattern": "! Come stand next to the firepit. It feels great."
+          "DisplayPattern": "! Podejdź do ogniska. To takie przyjemne uczucie."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s1",
-          "DialogueText": "I was hoping you'd come by sometime.",
-          "AudioPath": "assets/pt-BR/Linus/104.ogg",
+          "DialogueText": "Miałem nadzieję, że kiedyś przyjdziesz.",
+          "AudioPath": "assets/pt-BR/Linus/105.ogg",
           "TranslationKey": "Events/Mountain:26:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I was hoping you'd come by some."
+          "DisplayPattern": "Miałem nadzieję, że kiedyś przyjdziesz."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s2",
-          "DialogueText": "I wanted to say sorry for mistrusting you at first. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/105.ogg",
+          "DialogueText": "Chciałem Cię przeprosić za to, że Ci nie ufałem. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Linus/106.ogg",
           "TranslationKey": "Events/Mountain:26:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I wanted to say sorry for mistrusting you at first."
+          "DisplayPattern": "Chciałem Cię przeprosić za to, że Ci nie ufałem."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s3",
-          "DialogueText": "Most people don't treat me well, so I've learned to be cautious. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/106.ogg",
+          "DialogueText": "Większość ludzi traktuje mnie źle, więc jestem ostrożny. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Linus/107.ogg",
           "TranslationKey": "Events/Mountain:26:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Most people don't treat me well, so I've learned to be cautious."
+          "DisplayPattern": "Większość ludzi traktuje mnie źle, więc jestem ostrożny."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s4",
-          "DialogueText": "But you've been uncommonly nice to me. You're a unique person. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/107.ogg",
+          "DialogueText": "Ale ty byłeś dla mnie wyjątkowo miły. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/108_male.ogg",
           "TranslationKey": "Events/Mountain:26:s4",
           "PageIndex": 0,
-          "DisplayPattern": "But you've been uncommonly nice to me. You're a unique person."
+          "DisplayPattern": "Ale ty byłeś dla mnie wyjątkowo miły.",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Mountain/26:s5",
-          "DialogueText": "...And I consider you a good friend.",
-          "AudioPath": "assets/pt-BR/Linus/108.ogg",
+          "DialogueText": "Ale ty byłaś dla mnie wyjątkowo miła. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/109_female.ogg",
           "TranslationKey": "Events/Mountain:26:s5",
           "PageIndex": 0,
-          "DisplayPattern": "...And I consider you a good friend."
+          "DisplayPattern": "Ale ty byłaś dla mnie wyjątkowo miła.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Mountain/26:s6",
-          "DialogueText": "Hey, I want to show you something. Come inside. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/109.ogg",
+          "DialogueText": "... I uważam Cię za dobrego przyjaciela.",
+          "AudioPath": "assets/pt-BR/Linus/110.ogg",
           "TranslationKey": "Events/Mountain:26:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, I want to show you something. Come inside."
+          "DisplayPattern": "... I uważam Cię za dobrego przyjaciela."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s7",
-          "DialogueText": "Ah... there we go. See this? It's a special kind of fish bait that I make.",
-          "AudioPath": "assets/pt-BR/Linus/110.ogg",
+          "DialogueText": "Hej, chcę Ci coś pokazać. Wejdź do środka. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/111.ogg",
           "TranslationKey": "Events/Mountain:26:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... there we go. See this? It's a special kind of fish bait that I make."
+          "DisplayPattern": "Hej, chcę Ci coś pokazać. Wejdź do środka."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s8",
-          "DialogueText": "It's top quality stuff... I'd eat it myself!",
-          "AudioPath": "assets/pt-BR/Linus/111.ogg",
+          "DialogueText": "Ach... Tu jest. Widzisz to? To moja specjalna przynęta na ryby.",
+          "AudioPath": "assets/pt-BR/Linus/112.ogg",
           "TranslationKey": "Events/Mountain:26:s8",
           "PageIndex": 0,
-          "DisplayPattern": "It's top quality stuff... I'd eat it myself!"
+          "DisplayPattern": "Ach... Tu jest. Widzisz to? To moja specjalna przynęta na ryby."
         },
         {
           "DialogueFrom": "Event/Mountain/26:s9",
-          "DialogueText": "Here, I want you to have the recipe.",
-          "AudioPath": "assets/pt-BR/Linus/112.ogg",
+          "DialogueText": "To jest przynęta najwyższej jakości... Sam bym ją zjadł!",
+          "AudioPath": "assets/pt-BR/Linus/113.ogg",
           "TranslationKey": "Events/Mountain:26:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Here, I want you to have the recipe."
+          "DisplayPattern": "To jest przynęta najwyższej jakości... Sam bym ją zjadł!"
         },
         {
           "DialogueFrom": "Event/Mountain/26:s10",
-          "DialogueText": "Learned how to craft 'Wild Bait'",
-          "AudioPath": "assets/pt-BR/Linus/113.ogg",
+          "DialogueText": "Proszę, tu masz przepis.",
+          "AudioPath": "assets/pt-BR/Linus/114.ogg",
           "TranslationKey": "Events/Mountain:26:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Learned how to craft 'Wild Bait'"
+          "DisplayPattern": "Proszę, tu masz przepis."
+        },
+        {
+          "DialogueFrom": "Event/Mountain/26:s11",
+          "DialogueText": "Umiesz wytwarzać: 'Dzika Przynęta'",
+          "AudioPath": "assets/pt-BR/Linus/115.ogg",
+          "TranslationKey": "Events/Mountain:26:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Umiesz wytwarzać: 'Dzika Przynęta'"
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s0",
-          "DialogueText": "That's very nice of you, but no thanks! I've had great luck foraging today. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/114.ogg",
+          "DialogueText": "To bardzo miłe z Twojej strony, ale podziękuję! Miałem dziś szczęście przy zbieraniu. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/116.ogg",
           "TranslationKey": "Events/Mountain:371652:s0",
           "PageIndex": 0,
-          "DisplayPattern": "That's very nice of you, but no thanks! I've had great luck foraging today."
+          "DisplayPattern": "To bardzo miłe z Twojej strony, ale podziękuję! Miałem dziś szczęście przy zbieraniu."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s1",
           "DialogueText": "Er... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/115.ogg",
+          "AudioPath": "assets/pt-BR/Linus/117.ogg",
           "TranslationKey": "Events/Mountain:371652:s1",
           "PageIndex": 0,
           "DisplayPattern": "Er..."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s2",
-          "DialogueText": "Um... No, thanks. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/116.ogg",
+          "DialogueText": "Um... Nie, dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Linus/118.ogg",
           "TranslationKey": "Events/Mountain:371652:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Um... No, thanks."
+          "DisplayPattern": "Um... Nie, dzięki."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s3",
-          "DialogueText": "I appreciate the kindness... I really do... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/117.ogg",
+          "DialogueText": "Doceniam Twoją życzliwość... naprawdę... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Linus/119.ogg",
           "TranslationKey": "Events/Mountain:371652:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I appreciate the kindness... I really do..."
+          "DisplayPattern": "Doceniam Twoją życzliwość... naprawdę..."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s4",
-          "DialogueText": "But... I've told you before... I choose to live this way...",
-          "AudioPath": "assets/pt-BR/Linus/118.ogg",
+          "DialogueText": "Ale... już Ci mówiłem... Wybrałem to życie...",
+          "AudioPath": "assets/pt-BR/Linus/120.ogg",
           "TranslationKey": "Events/Mountain:371652:s4",
           "PageIndex": 0,
-          "DisplayPattern": "But... I've told you before... I choose to live this way..."
+          "DisplayPattern": "Ale... już Ci mówiłem... Wybrałem to życie..."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s5",
-          "DialogueText": "I like to be alone most of the time... I like the quiet sounds... moving with the rhythm of nature...",
-          "AudioPath": "assets/pt-BR/Linus/119.ogg",
+          "DialogueText": "Lubię spędzać czas w samotności... lubię ciszę... poruszać się w rytmie natury...",
+          "AudioPath": "assets/pt-BR/Linus/121.ogg",
           "TranslationKey": "Events/Mountain:371652:s5",
           "PageIndex": 0,
-          "DisplayPattern": "I like to be alone most of the ... I like the quiet sounds... moving with the rhythm of nature..."
+          "DisplayPattern": "Lubię spędzać czas w samotności... lubię ciszę... poruszać się w rytmie natury..."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s6",
-          "DialogueText": "It's a way of life that I'm comfortable with. I don't ever want to change that.",
-          "AudioPath": "assets/pt-BR/Linus/120.ogg",
+          "DialogueText": "To sposób życia, który mi się podoba. Nie chcę tego wcale zmieniać.",
+          "AudioPath": "assets/pt-BR/Linus/122.ogg",
           "TranslationKey": "Events/Mountain:371652:s6",
           "PageIndex": 0,
-          "DisplayPattern": "It's a way of life that I'm comfortable with. I don't ever want to change that."
+          "DisplayPattern": "To sposób życia, który mi się podoba. Nie chcę tego wcale zmieniać."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s7",
-          "DialogueText": "{Farmer_Name}... I cherish our friendship very much. And I know you do, too. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/121.ogg",
+          "DialogueText": "{Farmer_Name}... Bardzo cenię sobie naszą przyjaźń. I wiem, że ty też. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/123.ogg",
           "TranslationKey": "Events/Mountain:371652:s7",
           "PageIndex": 0,
-          "DisplayPattern": "... I cherish our friendship very much. And I know you do, too."
+          "DisplayPattern": "... Bardzo cenię sobie naszą przyjaźń. I wiem, że ty też."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s8",
-          "DialogueText": "But... You don't need to try and 'help' me... I know best how to live my own life... okay?",
-          "AudioPath": "assets/pt-BR/Linus/122.ogg",
+          "DialogueText": "Ale... ale nie musisz próbować mi 'pomagać'... Dobrze wiem jak radzić sobie w życiu... W porządku?",
+          "AudioPath": "assets/pt-BR/Linus/124.ogg",
           "TranslationKey": "Events/Mountain:371652:s8",
           "PageIndex": 0,
-          "DisplayPattern": "But... You don't need to try and 'help' me... I know best how to live my own life... okay?"
+          "DisplayPattern": "Ale... ale nie musisz próbować mi 'pomagać'... Dobrze wiem jak radzić sobie w życiu... W porządku?"
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s9",
-          "DialogueText": "...can you smell that? It's the sweet aroma of ripe berries... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/123.ogg",
+          "DialogueText": "... Czujecie to? Słodki zapach dojrzałych jagód... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/125.ogg",
           "TranslationKey": "Events/Mountain:371652:s9",
           "PageIndex": 0,
-          "DisplayPattern": "...can you smell that? It's the sweet aroma of ripe berries..."
+          "DisplayPattern": "... Czujecie to? Słodki zapach dojrzałych jagód..."
         },
         {
           "DialogueFrom": "Event/Mountain/linusWell:s0",
-          "DialogueText": "Thanks, {Farmer_Name}. You had me worried, there... I thought you were going to ask me to move on to the farm with you! *wink*",
-          "AudioPath": "assets/pt-BR/Linus/124.ogg",
+          "DialogueText": "Dzięki, {Farmer_Name}. Trochę się martwiłem... Myślałem, że chcesz mi zaproponować przeprowadzkę na Twoją farmę! *mrug*",
+          "AudioPath": "assets/pt-BR/Linus/126.ogg",
           "TranslationKey": "Events/Mountain:linusWell:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, . You had me worried, there... I thought you were going to ask me to move on to the with you! *wink*"
+          "DisplayPattern": "Dzięki, . Trochę się martwiłem... Myślałem, że chcesz mi zaproponować przeprowadzkę na Twoją ę! *mrug*"
         },
         {
           "DialogueFrom": "Event/Mountain/linusWell:s1",
-          "DialogueText": "You know, I consider you my closest friend in the valley... you've never tried to 'fix' me... you respect my way of life, even if you don't understand it. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/125.ogg",
+          "DialogueText": "Wiesz, uważam Cię za mojego najbliższego przyjaciela... nigdy nie próbujesz mnie 'naprawić'... szanujesz mój styl życia, nawet jeśli tego nie rozumiesz. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/127.ogg",
           "TranslationKey": "Events/Mountain:linusWell:s1",
           "PageIndex": 0,
-          "DisplayPattern": "You know, I consider you my closest friend in the valley... you've never tried to 'fix' me... you respect my way of life, even if you don't understand it."
+          "DisplayPattern": "Wiesz, uważam Cię za mojego najbliższego przyjaciela... nigdy nie próbujesz mnie 'naprawić'... szanujesz mój styl życia, nawet jeśli tego nie rozumiesz."
         },
         {
           "DialogueFrom": "Event/Mountain/linusWell:s2",
-          "DialogueText": "I really appreciate that.",
-          "AudioPath": "assets/pt-BR/Linus/126.ogg",
+          "DialogueText": "Naprawdę to doceniam.",
+          "AudioPath": "assets/pt-BR/Linus/128.ogg",
           "TranslationKey": "Events/Mountain:linusWell:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I really appreciate that."
+          "DisplayPattern": "Naprawdę to doceniam."
         },
         {
           "DialogueFrom": "Event/Mountain/linusWell:s3",
-          "DialogueText": "Ah... can you smell that? It's the sweet aroma of ripe berries... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/127.ogg",
+          "DialogueText": "Ach... czujecie to? Słodki zapach dojrzałych jagód... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/129.ogg",
           "TranslationKey": "Events/Mountain:linusWell:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... can you smell that? It's the sweet aroma of ripe berries..."
+          "DisplayPattern": "Ach... czujecie to? Słodki zapach dojrzałych jagód..."
         },
         {
           "DialogueFrom": "Event/Mountain/8357109:s0",
-          "DialogueText": "Ahhh... that feels good. {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Linus/128.ogg",
+          "DialogueText": "Ach... Miłe uczucie. {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Linus/130.ogg",
           "TranslationKey": "Events/Mountain:8357109:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ahhh... that feels good."
+          "DisplayPattern": "Ach... Miłe uczucie."
         },
         {
           "DialogueFrom": "Event/Mountain/8357109:s1",
-          "DialogueText": "The water's never been cleaner. {Portrait:Love}",
-          "AudioPath": "assets/pt-BR/Linus/129.ogg",
+          "DialogueText": "Woda nigdy nie była tak czysta. {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Linus/131.ogg",
           "TranslationKey": "Events/Mountain:8357109:s1",
           "PageIndex": 0,
-          "DisplayPattern": "The water's never been cleaner."
+          "DisplayPattern": "Woda nigdy nie była tak czysta."
         },
         {
           "DialogueFrom": "Event/Mountain/8357109:s2",
-          "DialogueText": "...And the same goes for me! Hehehe. {Portrait:Angry}",
-          "AudioPath": "assets/pt-BR/Linus/130.ogg",
+          "DialogueText": "... I to samo dotyczy mnie! He he he. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Linus/132.ogg",
           "TranslationKey": "Events/Mountain:8357109:s2",
           "PageIndex": 0,
-          "DisplayPattern": "...And the same goes for me! Hehehe."
+          "DisplayPattern": "... I to samo dotyczy mnie! He he he."
         },
         {
           "DialogueFrom": "Event/Mountain/8959199:s0",
-          "DialogueText": "Not yet...",
-          "AudioPath": "assets/pt-BR/Linus/131.ogg",
+          "DialogueText": "Jeszcze nie...",
+          "AudioPath": "assets/pt-BR/Linus/133.ogg",
           "TranslationKey": "Events/Mountain:8959199:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Not yet..."
+          "DisplayPattern": "Jeszcze nie..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s0",
-          "DialogueText": "Wait!",
-          "AudioPath": "assets/pt-BR/Linus/132.ogg",
+          "DialogueText": "Czekaj!",
+          "AudioPath": "assets/pt-BR/Linus/134.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Wait!"
+          "DisplayPattern": "Czekaj!"
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s1",
-          "DialogueText": "Hello, Leo... My name's Linus.",
-          "AudioPath": "assets/pt-BR/Linus/133.ogg",
+          "DialogueText": "Cześć, Leo... Jestem Linus.",
+          "AudioPath": "assets/pt-BR/Linus/135.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Hello, Leo... My 's Linus."
+          "DisplayPattern": "Cześć, Leo... Jestem Linus."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s2",
-          "DialogueText": "I've heard all about you, and your parrot family.",
-          "AudioPath": "assets/pt-BR/Linus/134.ogg",
+          "DialogueText": "Dużo słyszałem o Tobie i o Twojej ptasiej rodzinie.",
+          "AudioPath": "assets/pt-BR/Linus/136.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I've heard all about you, and your parrot family."
+          "DisplayPattern": "Dużo słyszałem o Tobie i o Twojej ptasiej rodzinie."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s3",
-          "DialogueText": "It's really something special! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/135.ogg",
+          "DialogueText": "To jest naprawdę coś wyjątkowego! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/137.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s3",
           "PageIndex": 0,
-          "DisplayPattern": "It's really something special!"
+          "DisplayPattern": "To jest naprawdę coś wyjątkowego!"
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s4",
           "DialogueText": "Leo...",
-          "AudioPath": "assets/pt-BR/Linus/136.ogg",
+          "AudioPath": "assets/pt-BR/Linus/138.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s4",
           "PageIndex": 0,
           "DisplayPattern": "Leo..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s5",
-          "DialogueText": "I'd like you to come back with us, to Stardew Valley.",
-          "AudioPath": "assets/pt-BR/Linus/137.ogg",
+          "DialogueText": "Chciałbym, żebyś popłynął razem z nami do Stardew.",
+          "AudioPath": "assets/pt-BR/Linus/139.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s5",
           "PageIndex": 0,
-          "DisplayPattern": "I'd like you to come back with us, to Stardew Valley."
+          "DisplayPattern": "Chciałbym, żebyś popłynął razem z nami do Stardew."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s6",
-          "DialogueText": "It's a beautiful place... not as warm as here, but still full of life... and I live right in the middle of it!",
-          "AudioPath": "assets/pt-BR/Linus/138.ogg",
+          "DialogueText": "To piękne miejsce... nie tak ciepłe, jak ta wyspa, ale i tak pełne życia... i też tam mieszkam!",
+          "AudioPath": "assets/pt-BR/Linus/140.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s6",
           "PageIndex": 0,
-          "DisplayPattern": "It's a beautiful ... not as warm as here, but still full of life... and I live right in the middle of it!"
+          "DisplayPattern": "To piękne miejsce... nie tak ciepłe, jak ta wyspa, ale i tak pełne życia... i też tam mieszkam!"
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s7",
-          "DialogueText": "I know the lay of the land, and many things about the waters, the trees, the animals, and more...",
-          "AudioPath": "assets/pt-BR/Linus/139.ogg",
+          "DialogueText": "Znam pewne miejsca i dużo rzeczy o wodach, drzewach, zwierzętach i wiele więcej...",
+          "AudioPath": "assets/pt-BR/Linus/141.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s7",
           "PageIndex": 0,
-          "DisplayPattern": "I know the lay of the land, and many things about the waters, the trees, the animals, and more..."
+          "DisplayPattern": "Znam pewne miejsca i dużo rzeczy o wodach, drzewach, zwierzętach i wiele więcej..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s8",
-          "DialogueText": "You see... I'm a child of nature, too. You might say we're 'birds of a feather'. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/140.ogg",
+          "DialogueText": "Widzisz... Też jestem dzieckiem natury. Możesz powiedzieć, że jesteśmy 'pisklętami z jednego gniazda'. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Linus/142.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s8",
           "PageIndex": 0,
-          "DisplayPattern": "You see... I'm a child of nature, too. You might say we're 'birds of a feather'."
+          "DisplayPattern": "Widzisz... Też jestem dzieckiem natury. Możesz powiedzieć, że jesteśmy 'pisklętami z jednego gniazda'."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s9",
-          "DialogueText": "But, I'm getting old... And I'd like to teach someone all that I've learned before moving on... {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/141.ogg",
+          "DialogueText": "Ale starzeję się... i zanim odejdę, to chciałbym kogoś nauczyć tego czego się sam nauczyłem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Linus/143.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s9",
           "PageIndex": 0,
-          "DisplayPattern": "But, I'm getting old... And I'd like to teach someone all that I've learned before moving on..."
+          "DisplayPattern": "Ale starzeję się... i zanim odejdę, to chciałbym kogoś nauczyć tego czego się sam nauczyłem..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s10",
-          "DialogueText": "Leo... will you come back with us?",
-          "AudioPath": "assets/pt-BR/Linus/142.ogg",
+          "DialogueText": "Leo... wrócisz z nami?",
+          "AudioPath": "assets/pt-BR/Linus/144.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Leo... will you come back with us?"
+          "DisplayPattern": "Leo... wrócisz z nami?"
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s11",
-          "DialogueText": "Well, let's not forget... the choice is really up to Leo...",
-          "AudioPath": "assets/pt-BR/Linus/143.ogg",
+          "DialogueText": "Cóż, nie zapomnijmy... że wybór należy do Leo...",
+          "AudioPath": "assets/pt-BR/Linus/145.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Well, let's not forget... the choice is really up to Leo..."
+          "DisplayPattern": "Cóż, nie zapomnijmy... że wybór należy do Leo..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s12",
-          "DialogueText": "I understand. This is Leo's home, after all. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/144.ogg",
+          "DialogueText": "Rozumiem. Nadal to jest jego dom. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Linus/146.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s12",
           "PageIndex": 0,
-          "DisplayPattern": "I understand. This is Leo's home, after all."
+          "DisplayPattern": "Rozumiem. Nadal to jest jego dom."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s13",
-          "DialogueText": "...It's hard to make changes. But sometimes it's for the best.",
-          "AudioPath": "assets/pt-BR/Linus/145.ogg",
+          "DialogueText": "... Ciężko coś zmieniać. Ale czasami tak jest najlepiej.",
+          "AudioPath": "assets/pt-BR/Linus/147.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s13",
           "PageIndex": 0,
-          "DisplayPattern": "...It's hard to make changes. But somes it's for the best."
+          "DisplayPattern": "... Ciężko coś zmieniać. Ale czasami tak jest najlepiej."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s14",
-          "DialogueText": "Still... the choice is really up to Leo.",
-          "AudioPath": "assets/pt-BR/Linus/146.ogg",
+          "DialogueText": "I tak... wybór należy do Leo.",
+          "AudioPath": "assets/pt-BR/Linus/148.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Still... the choice is really up to Leo."
+          "DisplayPattern": "I tak... wybór należy do Leo."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s15",
-          "DialogueText": "Great!",
-          "AudioPath": "assets/pt-BR/Linus/147.ogg",
+          "DialogueText": "Wspaniale!",
+          "AudioPath": "assets/pt-BR/Linus/149.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Great!"
+          "DisplayPattern": "Wspaniale!"
         },
         {
           "DialogueFrom": "Festival/fall16/Linus",
           "DialogueText": "Te zwierzęta nigdy nie oceniały ze względu na ich wygląd. Nie można powiedzieć tego samego o ludziach.",
-          "AudioPath": "assets/pt-BR/Linus/148.ogg",
+          "AudioPath": "assets/pt-BR/Linus/150.ogg",
           "TranslationKey": "Data/Festivals/fall16:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Te zwierzęta nigdy nie oceniały ze względu na ich wygląd. Nie można powiedzieć tego samego o ludziach."
@@ -1199,7 +1220,7 @@
         {
           "DialogueFrom": "Festival/fall16/Linus_y2",
           "DialogueText": "Zwierzęta są trochę jak ludzie... też mają uczucia i emocje. {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Linus/149.ogg",
+          "AudioPath": "assets/pt-BR/Linus/151.ogg",
           "TranslationKey": "Data/Festivals/fall16:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Zwierzęta są trochę jak ludzie... też mają uczucia i emocje."
@@ -1207,7 +1228,7 @@
         {
           "DialogueFrom": "Festival/fall27/Linus",
           "DialogueText": "Niezłe przedstawienie, stary druhu.",
-          "AudioPath": "assets/pt-BR/Linus/150.ogg",
+          "AudioPath": "assets/pt-BR/Linus/152.ogg",
           "TranslationKey": "Data/Festivals/fall27:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Niezłe przedstawienie, stary druhu."
@@ -1215,7 +1236,7 @@
         {
           "DialogueFrom": "Festival/fall27/Linus_y2",
           "DialogueText": "Ha ha! Kolejne świetne dzieło, stary druhu. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/151.ogg",
+          "AudioPath": "assets/pt-BR/Linus/153.ogg",
           "TranslationKey": "Data/Festivals/fall27:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ha ha! Kolejne świetne dzieło, stary druhu."
@@ -1223,7 +1244,7 @@
         {
           "DialogueFrom": "Festival/spring13/Linus",
           "DialogueText": "Nikt ze mną nie rozmawia... Po prostu przyszedłem po ostre jajka.",
-          "AudioPath": "assets/pt-BR/Linus/152.ogg",
+          "AudioPath": "assets/pt-BR/Linus/154.ogg",
           "TranslationKey": "Data/Festivals/spring13:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Nikt ze mną nie rozmawia... Po prostu przyszedłem po ostre jajka."
@@ -1231,7 +1252,7 @@
         {
           "DialogueFrom": "Festival/spring13/Linus_y2",
           "DialogueText": "Wrócę tu później, żeby coś zjeść. Tak sobie zerkam na przepysznie wyglądające ciasto!",
-          "AudioPath": "assets/pt-BR/Linus/153.ogg",
+          "AudioPath": "assets/pt-BR/Linus/155.ogg",
           "TranslationKey": "Data/Festivals/spring13:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Wrócę tu później, żeby coś zjeść. Tak sobie zerkam na przepysznie wyglądające ciasto!"
@@ -1239,7 +1260,7 @@
         {
           "DialogueFrom": "Festival/spring24/Linus",
           "DialogueText": "Och, witam. Miło, że ze mną rozmawiasz.",
-          "AudioPath": "assets/pt-BR/Linus/154.ogg",
+          "AudioPath": "assets/pt-BR/Linus/156.ogg",
           "TranslationKey": "Data/Festivals/spring24:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Och, witam. Miło, że ze mną rozmawiasz."
@@ -1247,7 +1268,7 @@
         {
           "DialogueFrom": "Festival/spring24/Linus",
           "DialogueText": "Wiosna już się kończy... Szkoda.",
-          "AudioPath": "assets/pt-BR/Linus/155.ogg",
+          "AudioPath": "assets/pt-BR/Linus/157.ogg",
           "TranslationKey": "Data/Festivals/spring24:Linus",
           "PageIndex": 1,
           "DisplayPattern": "Wiosna już się kończy... Szkoda."
@@ -1255,7 +1276,7 @@
         {
           "DialogueFrom": "Festival/spring24/Linus_y2",
           "DialogueText": "Czy sezon na maliny był dla Ciebie udany? {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Linus/156.ogg",
+          "AudioPath": "assets/pt-BR/Linus/158.ogg",
           "TranslationKey": "Data/Festivals/spring24:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Czy sezon na maliny był dla Ciebie udany?"
@@ -1263,7 +1284,7 @@
         {
           "DialogueFrom": "Festival/spring24/Linus_y2",
           "DialogueText": "Ja zebrałem wystarczająco, żeby zrobić słodką galaretkę! Przyniosłem wszystkim na spróbowanie. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/157.ogg",
+          "AudioPath": "assets/pt-BR/Linus/159.ogg",
           "TranslationKey": "Data/Festivals/spring24:Linus_y2",
           "PageIndex": 1,
           "DisplayPattern": "Ja zebrałem wystarczająco, żeby zrobić słodką galaretkę! Przyniosłem wszystkim na spróbowanie."
@@ -1271,7 +1292,7 @@
         {
           "DialogueFrom": "Festival/summer11/Linus",
           "DialogueText": "Powolny, nieustający obrót jest kluczem do uzyskania doskonałej pieczeni.",
-          "AudioPath": "assets/pt-BR/Linus/158.ogg",
+          "AudioPath": "assets/pt-BR/Linus/160.ogg",
           "TranslationKey": "Data/Festivals/summer11:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Powolny, nieustający obrót jest kluczem do uzyskania doskonałej pieczeni."
@@ -1279,7 +1300,7 @@
         {
           "DialogueFrom": "Festival/summer11/Linus_y2",
           "DialogueText": "Ach, czujesz to? {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Linus/159.ogg",
+          "AudioPath": "assets/pt-BR/Linus/161.ogg",
           "TranslationKey": "Data/Festivals/summer11:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ach, czujesz to?"
@@ -1287,7 +1308,7 @@
         {
           "DialogueFrom": "Festival/summer11/Linus_y2",
           "DialogueText": "To znak, że pieczeń jest prawie gotowa! {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/160.ogg",
+          "AudioPath": "assets/pt-BR/Linus/162.ogg",
           "TranslationKey": "Data/Festivals/summer11:Linus_y2",
           "PageIndex": 1,
           "DisplayPattern": "To znak, że pieczeń jest prawie gotowa!"
@@ -1295,7 +1316,7 @@
         {
           "DialogueFrom": "Festival/summer28/Linus",
           "DialogueText": "Wejdę jak przypłyną meduzy... Nie chcę nikomu przeszkadzać.",
-          "AudioPath": "assets/pt-BR/Linus/161.ogg",
+          "AudioPath": "assets/pt-BR/Linus/163.ogg",
           "TranslationKey": "Data/Festivals/summer28:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Wejdę jak przypłyną meduzy... Nie chcę nikomu przeszkadzać."
@@ -1303,7 +1324,7 @@
         {
           "DialogueFrom": "Festival/summer28/Linus_y2",
           "DialogueText": "Zauważyłem, że nikt inny nie używa tych doków, więc wszedłem tu po kryjomu. {Portrait:Neutral}",
-          "AudioPath": "assets/pt-BR/Linus/162.ogg",
+          "AudioPath": "assets/pt-BR/Linus/164.ogg",
           "TranslationKey": "Data/Festivals/summer28:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Zauważyłem, że nikt inny nie używa tych doków, więc wszedłem tu po kryjomu."
@@ -1311,7 +1332,7 @@
         {
           "DialogueFrom": "Festival/summer28/Linus_y2",
           "DialogueText": "Też lubię oglądać meduzy.",
-          "AudioPath": "assets/pt-BR/Linus/163.ogg",
+          "AudioPath": "assets/pt-BR/Linus/165.ogg",
           "TranslationKey": "Data/Festivals/summer28:Linus_y2",
           "PageIndex": 1,
           "DisplayPattern": "Też lubię oglądać meduzy."
@@ -1319,7 +1340,7 @@
         {
           "DialogueFrom": "Festival/winter25/Linus",
           "DialogueText": "Dołączyłbym... Ale nie jestem pewien, czy jestem tu mile widziany. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/164.ogg",
+          "AudioPath": "assets/pt-BR/Linus/166.ogg",
           "TranslationKey": "Data/Festivals/winter25:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Dołączyłbym... Ale nie jestem pewien, czy jestem tu mile widziany."
@@ -1327,7 +1348,7 @@
         {
           "DialogueFrom": "Festival/winter25/Linus_y2",
           "DialogueText": "Burmistrz mnie osobiście zaprosił do swojego stołu. Nie mógłbym odrzucić takiego zaproszenia!",
-          "AudioPath": "assets/pt-BR/Linus/165.ogg",
+          "AudioPath": "assets/pt-BR/Linus/167.ogg",
           "TranslationKey": "Data/Festivals/winter25:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Burmistrz mnie osobiście zaprosił do swojego stołu. Nie mógłbym odrzucić takiego zaproszenia!"
@@ -1335,7 +1356,7 @@
         {
           "DialogueFrom": "Festival/winter8/Linus",
           "DialogueText": "Budowanie igloo jest sztuką, której się nauczyłem od mieszkańców tundry mieszkających za zamarzniętym morzem.",
-          "AudioPath": "assets/pt-BR/Linus/166.ogg",
+          "AudioPath": "assets/pt-BR/Linus/168.ogg",
           "TranslationKey": "Data/Festivals/winter8:Linus",
           "PageIndex": 0,
           "DisplayPattern": "Budowanie igloo jest sztuką, której się nauczyłem od mieszkańców tundry mieszkających za zamarzniętym morzem."
@@ -1343,7 +1364,7 @@
         {
           "DialogueFrom": "Festival/winter8/Linus",
           "DialogueText": "To było dawno temu. {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/167.ogg",
+          "AudioPath": "assets/pt-BR/Linus/169.ogg",
           "TranslationKey": "Data/Festivals/winter8:Linus",
           "PageIndex": 1,
           "DisplayPattern": "To było dawno temu."
@@ -1351,7 +1372,7 @@
         {
           "DialogueFrom": "Festival/winter8/Linus",
           "DialogueText": "Igloo to dobry dom, ale łatwiej mieszkać co roku w moim namiocie.",
-          "AudioPath": "assets/pt-BR/Linus/168.ogg",
+          "AudioPath": "assets/pt-BR/Linus/170.ogg",
           "TranslationKey": "Data/Festivals/winter8:Linus",
           "PageIndex": 2,
           "DisplayPattern": "Igloo to dobry dom, ale łatwiej mieszkać co roku w moim namiocie."
@@ -1359,7 +1380,7 @@
         {
           "DialogueFrom": "Festival/winter8/Linus_y2",
           "DialogueText": "Ach... las zapadł w długi, zimowy sen... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/169.ogg",
+          "AudioPath": "assets/pt-BR/Linus/171.ogg",
           "TranslationKey": "Data/Festivals/winter8:Linus_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ach... las zapadł w długi, zimowy sen..."
@@ -1367,7 +1388,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Linus:s0",
           "DialogueText": "To wspaniałe! Dzięki Tobie mój dzień stał się lepszy.",
-          "AudioPath": "assets/pt-BR/Linus/170.ogg",
+          "AudioPath": "assets/pt-BR/Linus/172.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Linus:s0",
           "PageIndex": 0,
           "DisplayPattern": "To wspaniałe! Dzięki Tobie mój dzień stał się lepszy."
@@ -1375,7 +1396,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Linus:s1",
           "DialogueText": "To dobry prezent. Dziękuję!",
-          "AudioPath": "assets/pt-BR/Linus/171.ogg",
+          "AudioPath": "assets/pt-BR/Linus/173.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Linus:s1",
           "PageIndex": 0,
           "DisplayPattern": "To dobry prezent. Dziękuję!"
@@ -1383,7 +1404,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Linus:s2",
           "DialogueText": "Hmm... To dla mnie nic nie znaczy.",
-          "AudioPath": "assets/pt-BR/Linus/172.ogg",
+          "AudioPath": "assets/pt-BR/Linus/174.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Linus:s2",
           "PageIndex": 0,
           "DisplayPattern": "Hmm... To dla mnie nic nie znaczy."
@@ -1391,7 +1412,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Linus:s3",
           "DialogueText": "Czemu mi to dajesz? Lubię śmieci bo mieszkam w namiocie, tak? To okropne.",
-          "AudioPath": "assets/pt-BR/Linus/173.ogg",
+          "AudioPath": "assets/pt-BR/Linus/175.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Linus:s3",
           "PageIndex": 0,
           "DisplayPattern": "Czemu mi to dajesz? Lubię śmieci bo mieszkam w namiocie, tak? To okropne."
@@ -1399,7 +1420,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Linus:s4",
           "DialogueText": "Prezent? Jak miło.",
-          "AudioPath": "assets/pt-BR/Linus/174.ogg",
+          "AudioPath": "assets/pt-BR/Linus/176.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Linus:s4",
           "PageIndex": 0,
           "DisplayPattern": "Prezent? Jak miło."
@@ -1407,7 +1428,7 @@
         {
           "DialogueFrom": "ExtraDialogue/Mines_PlayerKilled_Linus",
           "DialogueText": "... Znalazłem Cię w kopalniach. Masz szczęście, że przechodziłem obok!",
-          "AudioPath": "assets/pt-BR/Linus/175.ogg",
+          "AudioPath": "assets/pt-BR/Linus/177.ogg",
           "TranslationKey": "Data/ExtraDialogue:Mines_PlayerKilled_Linus",
           "PageIndex": 0,
           "DisplayPattern": "... Znalazłem Cię w kopalniach. Masz szczęście, że przechodziłem obok!"
@@ -1415,7 +1436,7 @@
         {
           "DialogueFrom": "ExtraDialogue/Mines_PlayerKilled_Linus",
           "DialogueText": "Następnym razem uważaj na siebie, dobrze? {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/176.ogg",
+          "AudioPath": "assets/pt-BR/Linus/178.ogg",
           "TranslationKey": "Data/ExtraDialogue:Mines_PlayerKilled_Linus",
           "PageIndex": 1,
           "DisplayPattern": "Następnym razem uważaj na siebie, dobrze?"
@@ -1423,7 +1444,7 @@
         {
           "DialogueFrom": "MovieReactions/Linus_spring_movie_1_BeforeMovie",
           "DialogueText": "Czuję się tu jak nie u siebie... Mam nadzieję, że nikomu nie przeszkadzam. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/177.ogg",
+          "AudioPath": "assets/pt-BR/Linus/179.ogg",
           "TranslationKey": "Strings/MovieReactions:Linus_spring_movie_1_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czuję się tu jak nie u siebie... Mam nadzieję, że nikomu nie przeszkadzam."
@@ -1431,7 +1452,7 @@
         {
           "DialogueFrom": "MovieReactions/Linus_spring_movie_1_DuringMovie",
           "DialogueText": "Linus patrzy na podłogę...",
-          "AudioPath": "assets/pt-BR/Linus/178.ogg",
+          "AudioPath": "assets/pt-BR/Linus/180.ogg",
           "TranslationKey": "Strings/MovieReactions:Linus_spring_movie_1_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Linus patrzy na podłogę..."
@@ -1439,7 +1460,7 @@
         {
           "DialogueFrom": "MovieReactions/Linus_spring_movie_1_AfterMovie",
           "DialogueText": "Po co wpatrywać się w ekran, jak można przeżyć takie rzeczy samemu? {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/179.ogg",
+          "AudioPath": "assets/pt-BR/Linus/181.ogg",
           "TranslationKey": "Strings/MovieReactions:Linus_spring_movie_1_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Po co wpatrywać się w ekran, jak można przeżyć takie rzeczy samemu?"
@@ -1447,7 +1468,7 @@
         {
           "DialogueFrom": "MovieReactions/Linus_dislike_BeforeMovie",
           "DialogueText": "Czuję się tu jak nie u siebie... Mam nadzieję, że nikomu nie przeszkadzam. {Portrait:Sad}",
-          "AudioPath": "assets/pt-BR/Linus/180.ogg",
+          "AudioPath": "assets/pt-BR/Linus/182.ogg",
           "TranslationKey": "Strings/MovieReactions:Linus_dislike_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czuję się tu jak nie u siebie... Mam nadzieję, że nikomu nie przeszkadzam."
@@ -1455,7 +1476,7 @@
         {
           "DialogueFrom": "MovieReactions/Linus_dislike_DuringMovie",
           "DialogueText": "Linus patrzy na podłogę...",
-          "AudioPath": "assets/pt-BR/Linus/181.ogg",
+          "AudioPath": "assets/pt-BR/Linus/183.ogg",
           "TranslationKey": "Strings/MovieReactions:Linus_dislike_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Linus patrzy na podłogę..."
@@ -1463,7 +1484,7 @@
         {
           "DialogueFrom": "MovieReactions/Linus_dislike_AfterMovie",
           "DialogueText": "Nie jestem przyzwyczajony do takich symulacji... Wybacz, jeśli byłem rozczarowującym gościem, {Farmer_Name}. Nadal doceniam twoje zaproszenie!",
-          "AudioPath": "assets/pt-BR/Linus/182.ogg",
+          "AudioPath": "assets/pt-BR/Linus/184.ogg",
           "TranslationKey": "Strings/MovieReactions:Linus_dislike_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Nie jestem przyzwyczajony do takich symulacji... Wybacz, jeśli byłem rozczarowującym gościem, . Nadal doceniam twoje zaproszenie!"
@@ -1471,7 +1492,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Linus",
           "DialogueText": "Załapałem się na przejazd pod autobusem.",
-          "AudioPath": "assets/pt-BR/Linus/183.ogg",
+          "AudioPath": "assets/pt-BR/Linus/185.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Linus",
           "PageIndex": 0,
           "DisplayPattern": "Załapałem się na przejazd pod autobusem."
@@ -1479,7 +1500,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Linus",
           "DialogueText": "Ciężko znaleźć ten smak Pustyni Calico gdziekolwiek indziej. He he... {Portrait:Happy}",
-          "AudioPath": "assets/pt-BR/Linus/184.ogg",
+          "AudioPath": "assets/pt-BR/Linus/186.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Linus",
           "PageIndex": 1,
           "DisplayPattern": "Ciężko znaleźć ten smak Pustyni Calico gdziekolwiek indziej. He he..."

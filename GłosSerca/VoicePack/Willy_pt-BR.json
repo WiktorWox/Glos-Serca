@@ -3,8 +3,8 @@
   "VoicePacks": [
     {
       "Format": "2.0.0",
-      "VoicePackId": "Wiktor.Test3.Willy.pt-BR",
-      "VoicePackName": "BulBul (Willy - pt-BR)",
+      "VoicePackId": "ZieloneOczka.PolskiDubbingMod.Willy.pt-BR",
+      "VoicePackName": "PolskiDubbingVoicePack (Willy - pt-BR)",
       "Character": "Willy",
       "Language": "pt-BR",
       "Entries": [
@@ -650,125 +650,125 @@
         },
         {
           "DialogueFrom": "Event/Farm/980559:s0",
-          "DialogueText": "Good morning, lad!",
+          "DialogueText": "Dzień dobry, chłopcze!",
           "AudioPath": "assets/pt-BR/Willy/78_male.ogg",
           "TranslationKey": "Events/Farm:980559:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Good morning, lad!",
+          "DisplayPattern": "Dzień dobry, chłopcze!",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Farm/980559:s1",
-          "DialogueText": "Good morning, miss!",
+          "DialogueText": "Dzień dobry, panienko!",
           "AudioPath": "assets/pt-BR/Willy/79_female.ogg",
           "TranslationKey": "Events/Farm:980559:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Good morning, miss!",
+          "DisplayPattern": "Dzień dobry, panienko!",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Farm/980559:s2",
-          "DialogueText": "Sorry to bother you so early, but, eh... I've noticed you haven't been fishing much.",
+          "DialogueText": "Przepraszam, że przeszkadzam, ale... ech... Zauważyłem że nie za bardzo łowisz.",
           "AudioPath": "assets/pt-BR/Willy/80.ogg",
           "TranslationKey": "Events/Farm:980559:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Sorry to bother you so early, but, eh... I've noticed you haven't been fishing much."
+          "DisplayPattern": "Przepraszam, że przeszkadzam, ale... ech... Zauważyłem że nie za bardzo łowisz."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s3",
-          "DialogueText": "Aye... it can be difficult to get into the sport, for a beginner.",
+          "DialogueText": "Ajaj... dla początkującego może być ciężko rozpocząć uprawianie tego sportu.",
           "AudioPath": "assets/pt-BR/Willy/81.ogg",
           "TranslationKey": "Events/Farm:980559:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... it can be difficult to get into the sport, for a beginner."
+          "DisplayPattern": "Ajaj... dla początkującego może być ciężko rozpocząć uprawianie tego sportu."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s4",
-          "DialogueText": "So, I figured I'd give you a few pointers... maybe it'll help you develop yer sea legs!",
+          "DialogueText": "Pomyślałem, że dam Ci parę wskazówek... może pomogą Ci rozwinąć Twoje morskie nogi!",
           "AudioPath": "assets/pt-BR/Willy/82.ogg",
           "TranslationKey": "Events/Farm:980559:s4",
           "PageIndex": 0,
-          "DisplayPattern": "So, I figured I'd give you a few pointers... maybe it'll help you develop yer sea legs!"
+          "DisplayPattern": "Pomyślałem, że dam Ci parę wskazówek... może pomogą Ci rozwinąć Twoje morskie nogi!"
         },
         {
           "DialogueFrom": "Event/Farm/980559:s5",
-          "DialogueText": "So, you'll want to hold the rod like this, see?...",
+          "DialogueText": "A więc, musisz trzymać wędkę w ten sposób, widzisz?...",
           "AudioPath": "assets/pt-BR/Willy/83.ogg",
           "TranslationKey": "Events/Farm:980559:s5",
           "PageIndex": 0,
-          "DisplayPattern": "So, you'll want to hold the rod like this, see?..."
+          "DisplayPattern": "A więc, musisz trzymać wędkę w ten sposób, widzisz?..."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s6",
-          "DialogueText": "Willy gave you a quick lesson on fishing basics.",
+          "DialogueText": "Willy zrobił Ci szybką lekcje w łowieniu.",
           "AudioPath": "assets/pt-BR/Willy/84.ogg",
           "TranslationKey": "Events/Farm:980559:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Willy gave you a quick lesson on fishing basics."
+          "DisplayPattern": "Willy zrobił Ci szybką lekcje w łowieniu."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s7",
-          "DialogueText": "You feel more confident already!",
+          "DialogueText": "Czujesz się pewniej!",
           "AudioPath": "assets/pt-BR/Willy/85.ogg",
           "TranslationKey": "Events/Farm:980559:s7",
           "PageIndex": 0,
-          "DisplayPattern": "You feel more confident already!"
+          "DisplayPattern": "Czujesz się pewniej!"
         },
         {
           "DialogueFrom": "Event/Farm/980559:s8",
-          "DialogueText": "One more thing... I wanted to give you this.",
+          "DialogueText": "Jeszcze jedno... Chciałbym Ci to dać.",
           "AudioPath": "assets/pt-BR/Willy/86.ogg",
           "TranslationKey": "Events/Farm:980559:s8",
           "PageIndex": 0,
-          "DisplayPattern": "One more thing... I wanted to give you this."
+          "DisplayPattern": "Jeszcze jedno... Chciałbym Ci to dać."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s9",
-          "DialogueText": "It's called a 'training rod'. It should make catching fish a lot easier.",
+          "DialogueText": "To jest 'wędka treningowa'. Powinna Ci ułatwić łowienie ryb.",
           "AudioPath": "assets/pt-BR/Willy/87.ogg",
           "TranslationKey": "Events/Farm:980559:s9",
           "PageIndex": 0,
-          "DisplayPattern": "It's called a 'training rod'. It should make catching fish a lot easier."
+          "DisplayPattern": "To jest 'wędka treningowa'. Powinna Ci ułatwić łowienie ryb."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s10",
-          "DialogueText": "Just be aware that you'll only be able to catch basic fish with this. But it's a great way to develop your skills early on!",
+          "DialogueText": "Tylko wiedz, że tą wędką można wyłowić tylko ryby zwykłej jakości. Ale jest świetna do ćwiczeń!",
           "AudioPath": "assets/pt-BR/Willy/88.ogg",
           "TranslationKey": "Events/Farm:980559:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Just be aware that you'll only be able to catch basic fish with this. But it's a great way to develop your skills early on!"
+          "DisplayPattern": "Tylko wiedz, że tą wędką można wyłowić tylko ryby zwykłej jakości. Ale jest świetna do ćwiczeń!"
         },
         {
           "DialogueFrom": "Event/Farm/980559:s11",
-          "DialogueText": "I hope you'll give fishing another try. Once you get the hang of it, you'll be having a great time.",
+          "DialogueText": "Mam nadzieję, że dasz wędkarstwu drugą szansę. Jak się tego nauczysz, będziesz się świetnie bawić.",
           "AudioPath": "assets/pt-BR/Willy/89.ogg",
           "TranslationKey": "Events/Farm:980559:s11",
           "PageIndex": 0,
-          "DisplayPattern": "I hope you'll give fishing another try. Once you get the hang of it, you'll be having a great ."
+          "DisplayPattern": "Mam nadzieję, że dasz wędkarstwu drugą szansę. Jak się tego nauczysz, będziesz się świetnie bawić."
         },
         {
           "DialogueFrom": "Event/Farm/980559:s12",
-          "DialogueText": "Good luck out there! {Portrait:Happy}",
+          "DialogueText": "Powodzenia! {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/90.ogg",
           "TranslationKey": "Events/Farm:980559:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Good luck out there!"
+          "DisplayPattern": "Powodzenia!"
         },
         {
           "DialogueFrom": "Event/Town/191393:s0",
-          "DialogueText": "Me?",
+          "DialogueText": "Ja?",
           "AudioPath": "assets/pt-BR/Willy/91.ogg",
           "TranslationKey": "Events/Town:191393:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Me?"
+          "DisplayPattern": "Ja?"
         },
         {
           "DialogueFrom": "Event/Town/191393:s1",
-          "DialogueText": "Hehe... That I do. We showed up one morning and the place was crawlin' with 'em. {Portrait:Happy}",
+          "DialogueText": "He he... Pamiętam. Wstaliśmy rano i całe miasto było nimi obsypane. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/92.ogg",
           "TranslationKey": "Events/Town:191393:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Hehe... That I do. We showed up one morning and the was crawlin' with 'em."
+          "DisplayPattern": "He he... Pamiętam. Wstaliśmy rano i całe miasto było nimi obsypane."
         },
         {
           "DialogueFrom": "Event/Saloon/3206194:s0",
@@ -780,815 +780,815 @@
         },
         {
           "DialogueFrom": "Event/Saloon/3206194:s1",
-          "DialogueText": "The mushrooms are a tad chewier than last year...",
+          "DialogueText": "Grzyby są trochę twardsze niż rok temu...",
           "AudioPath": "assets/pt-BR/Willy/94.ogg",
           "TranslationKey": "Events/Saloon:3206194:s1",
           "PageIndex": 0,
-          "DisplayPattern": "The mushrooms are a tad chewier than last year..."
+          "DisplayPattern": "Grzyby są trochę twardsze niż rok temu..."
         },
         {
           "DialogueFrom": "Event/Saloon/3206194:s2",
-          "DialogueText": "Aye, lad",
+          "DialogueText": "Ajaj, majtku.",
           "AudioPath": "assets/pt-BR/Willy/95.ogg",
           "TranslationKey": "Events/Saloon:3206194:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Aye, lad"
+          "DisplayPattern": "Ajaj, majtku."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s0",
-          "DialogueText": "Ahoy there, son. {Portrait:Unique}",
+          "DialogueText": "Ahoj, synu. {Portrait:Unique}",
           "AudioPath": "assets/pt-BR/Willy/96_male.ogg",
           "TranslationKey": "Events/Beach:739330:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ahoy there, son.",
+          "DisplayPattern": "Ahoj, synu.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Beach/739330:s1",
-          "DialogueText": "Ahoy there, miss. {Portrait:Unique}",
+          "DialogueText": "Ahoj, damo. {Portrait:Unique}",
           "AudioPath": "assets/pt-BR/Willy/97_female.ogg",
           "TranslationKey": "Events/Beach:739330:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Ahoy there, miss.",
+          "DisplayPattern": "Ahoj, damo.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Beach/739330:s2",
-          "DialogueText": "Heard there was a newcomer in town... Good to finally meet ya. {Portrait:Unique}",
+          "DialogueText": "Słyszałem, że ktoś nowy wprowadził się do miasta... Dobrze Cię w końcu poznać. {Portrait:Unique}",
           "AudioPath": "assets/pt-BR/Willy/98.ogg",
           "TranslationKey": "Events/Beach:739330:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Heard there was a newcomer in town... Good to finally meet ya."
+          "DisplayPattern": "Słyszałem, że ktoś nowy wprowadził się do miasta... Dobrze Cię w końcu poznać."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s3",
-          "DialogueText": "Ah... I'm still tryin' to unwind from a month out on the salty seas... {Portrait:Happy}",
+          "DialogueText": "Ach... Ciągle próbuję się ogarnąć po miesiącu żeglowania... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/99.ogg",
           "TranslationKey": "Events/Beach:739330:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... I'm still tryin' to unwind from a month out on the salty seas..."
+          "DisplayPattern": "Ach... Ciągle próbuję się ogarnąć po miesiącu żeglowania..."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s4",
-          "DialogueText": "It was a big haul! I sold a lot of good fish.",
+          "DialogueText": "Ta wyprawa była bardzo owocna! Sprzedałem wiele dobrych ryb.",
           "AudioPath": "assets/pt-BR/Willy/100.ogg",
           "TranslationKey": "Events/Beach:739330:s4",
           "PageIndex": 0,
-          "DisplayPattern": "It was a big haul! I sold a lot of good fish."
+          "DisplayPattern": "Ta wyprawa była bardzo owocna! Sprzedałem wiele dobrych ryb."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s5",
-          "DialogueText": "Finally saved enough to buy me a new rod. {Portrait:Happy}",
+          "DialogueText": "W końcu uzbierałem pieniędzy na nową wędkę. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/101.ogg",
           "TranslationKey": "Events/Beach:739330:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Finally saved enough to buy me a new rod."
+          "DisplayPattern": "W końcu uzbierałem pieniędzy na nową wędkę."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s6",
-          "DialogueText": "Here, I want you to have my old fishing rod. {Portrait:Happy}",
+          "DialogueText": "Masz, weź moją starą wędkę. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/102.ogg",
           "TranslationKey": "Events/Beach:739330:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Here, I want you to have my old fishing rod."
+          "DisplayPattern": "Masz, weź moją starą wędkę."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s7",
-          "DialogueText": "It's important to me that the art o' fishing stays alive. And hey, maybe you'll buy somethin' from the shop once in a while. {Portrait:Happy}",
+          "DialogueText": "To dla mnie bardzo ważne, żeby sztuka wędkarstwa dalej tętniła życiem. I hej, może kiedyś kupisz coś z mojego sklepu? {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/103.ogg",
           "TranslationKey": "Events/Beach:739330:s7",
           "PageIndex": 0,
-          "DisplayPattern": "It's important to me that the art o' fishing stays alive. And hey, maybe you'll buy somethin' from the shop once in a while."
+          "DisplayPattern": "To dla mnie bardzo ważne, żeby sztuka wędkarstwa dalej tętniła życiem. I hej, może kiedyś kupisz coś z mojego sklepu?"
         },
         {
           "DialogueFrom": "Event/Beach/739330:s8",
-          "DialogueText": "There's good water here in the valley. All kinds o' fish.",
+          "DialogueText": "Woda w tych stronach jest bardzo dobra. Dużo tu różnych ryb.",
           "AudioPath": "assets/pt-BR/Willy/104.ogg",
           "TranslationKey": "Events/Beach:739330:s8",
           "PageIndex": 0,
-          "DisplayPattern": "There's good water here in the valley. All kinds o' fish."
+          "DisplayPattern": "Woda w tych stronach jest bardzo dobra. Dużo tu różnych ryb."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s9",
-          "DialogueText": "Oh yeah. My shop's back open now, so come by if you need supplies. {Portrait:Happy}",
+          "DialogueText": "Ach tak. Mój sklep jest znowu otwarty, więc wpadnij jeśli czegoś Ci będzie trzeba. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/105.ogg",
           "TranslationKey": "Events/Beach:739330:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Oh yeah. My shop's back open now, so come by if you need supplies."
+          "DisplayPattern": "Ach tak. Mój sklep jest znowu otwarty, więc wpadnij jeśli czegoś Ci będzie trzeba."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s10",
-          "DialogueText": "I'll also buy anything you catch.",
+          "DialogueText": "Kupię też wszystko co złapiesz.",
           "AudioPath": "assets/pt-BR/Willy/106.ogg",
           "TranslationKey": "Events/Beach:739330:s10",
           "PageIndex": 0,
-          "DisplayPattern": "I'll also buy anything you catch."
+          "DisplayPattern": "Kupię też wszystko co złapiesz."
         },
         {
           "DialogueFrom": "Event/Beach/739330:s11",
-          "DialogueText": "'If it smells, it sells'. Heh heh. That's what my ol' Pappy used to say, anyway. {Portrait:Happy}",
+          "DialogueText": "'Jak śmierdzi, to zleci'. He he. Mój tatko tak mawiał. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/107.ogg",
           "TranslationKey": "Events/Beach:739330:s11",
           "PageIndex": 0,
-          "DisplayPattern": "'If it smells, it sells'. Heh heh. That's what my ol' Pappy used to say, anyway."
+          "DisplayPattern": "'Jak śmierdzi, to zleci'. He he. Mój tatko tak mawiał."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s0",
-          "DialogueText": "Ah... it's a good thing you turned up, lad.",
+          "DialogueText": "Ach... dobrze, że jesteś, młodzieńcze.",
           "AudioPath": "assets/pt-BR/Willy/108_male.ogg",
           "TranslationKey": "Events/Beach:711130:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... it's a good thing you turned up, lad.",
+          "DisplayPattern": "Ach... dobrze, że jesteś, młodzieńcze.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Beach/711130:s1",
-          "DialogueText": "Ah... It's a good thing you turned up, miss.",
+          "DialogueText": "Ach... dobrze że panienka się zjawiła.",
           "AudioPath": "assets/pt-BR/Willy/109_female.ogg",
           "TranslationKey": "Events/Beach:711130:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... It's a good thing you turned up, miss.",
+          "DisplayPattern": "Ach... dobrze że panienka się zjawiła.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Beach/711130:s2",
-          "DialogueText": "I've got a... a bit of a problem I could use a hand with...",
+          "DialogueText": "Mam mały... problem, z którym przydałaby mi się pomoc...",
           "AudioPath": "assets/pt-BR/Willy/110.ogg",
           "TranslationKey": "Events/Beach:711130:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I've got a... a bit of a problem I could use a hand with..."
+          "DisplayPattern": "Mam mały... problem, z którym przydałaby mi się pomoc..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s3",
-          "DialogueText": "Er... It'd be best if I just showed ya...",
+          "DialogueText": "Em... Będzie lepiej, jak Ci pokażę...",
           "AudioPath": "assets/pt-BR/Willy/111.ogg",
           "TranslationKey": "Events/Beach:711130:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Er... It'd be best if I just showed ya..."
+          "DisplayPattern": "Em... Będzie lepiej, jak Ci pokażę..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s4",
-          "DialogueText": "Take a deep breath, now.",
+          "DialogueText": "Weź głęboki wdech.",
           "AudioPath": "assets/pt-BR/Willy/112.ogg",
           "TranslationKey": "Events/Beach:711130:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Take a deep breath, now."
+          "DisplayPattern": "Weź głęboki wdech."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s5",
-          "DialogueText": "As you can see...",
+          "DialogueText": "Jak widzisz...",
           "AudioPath": "assets/pt-BR/Willy/113.ogg",
           "TranslationKey": "Events/Beach:711130:s5",
           "PageIndex": 0,
-          "DisplayPattern": "As you can see..."
+          "DisplayPattern": "Jak widzisz..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s6",
-          "DialogueText": "And smell... heh...",
+          "DialogueText": "I czujesz... uch...",
           "AudioPath": "assets/pt-BR/Willy/114.ogg",
           "TranslationKey": "Events/Beach:711130:s6",
           "PageIndex": 0,
-          "DisplayPattern": "And smell... heh..."
+          "DisplayPattern": "I czujesz... uch..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s7",
-          "DialogueText": "The old girls 'ran wild' last night... heh... {Portrait:Happy}",
+          "DialogueText": "...moje maleństwa 'zdziczały' przez noc... uch... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/115.ogg",
           "TranslationKey": "Events/Beach:711130:s7",
           "PageIndex": 0,
-          "DisplayPattern": "The old girls 'ran wild' last night... heh..."
+          "DisplayPattern": "...moje maleństwa 'zdziczały' przez noc... uch..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s8",
-          "DialogueText": "My experiment needs a little work...",
+          "DialogueText": "Mój eksperyment potrzebuje jeszcze trochę pracy...",
           "AudioPath": "assets/pt-BR/Willy/116.ogg",
           "TranslationKey": "Events/Beach:711130:s8",
           "PageIndex": 0,
-          "DisplayPattern": "My experiment needs a little work..."
+          "DisplayPattern": "Mój eksperyment potrzebuje jeszcze trochę pracy..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s9",
-          "DialogueText": "Aye...",
+          "DialogueText": "Ajaj...",
           "AudioPath": "assets/pt-BR/Willy/117.ogg",
           "TranslationKey": "Events/Beach:711130:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Aye..."
+          "DisplayPattern": "Ajaj..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s10",
-          "DialogueText": "Aye... These are the finest, meatiest crabs you'll ever set yer eyes on. {Portrait:Happy}",
+          "DialogueText": "Aj... To są najlepsze, najmięsistsze kraby jakie kiedykolwiek zobaczysz na oczy. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/118.ogg",
           "TranslationKey": "Events/Beach:711130:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... These are the finest, meatiest crabs you'll ever set yer eyes on."
+          "DisplayPattern": "Aj... To są najlepsze, najmięsistsze kraby jakie kiedykolwiek zobaczysz na oczy."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s11",
-          "DialogueText": "They be a little too feisty, though... {Portrait:Sad}",
+          "DialogueText": "Niestety, są trochę zbyt zadziorne... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/119.ogg",
           "TranslationKey": "Events/Beach:711130:s11",
           "PageIndex": 0,
-          "DisplayPattern": "They be a little too feisty, though..."
+          "DisplayPattern": "Niestety, są trochę zbyt zadziorne..."
         },
         {
           "DialogueFrom": "Event/Beach/711130:s12",
-          "DialogueText": "Goodbye, me sweet ladies... {Portrait:Sad}",
+          "DialogueText": "Do widzenia, wy moje najsłodsze... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/120.ogg",
           "TranslationKey": "Events/Beach:711130:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Goodbye, me sweet ladies..."
+          "DisplayPattern": "Do widzenia, wy moje najsłodsze..."
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s0",
-          "DialogueText": "Hehe... they love it... Look at 'em go! {Portrait:Happy}",
+          "DialogueText": "He he... Uwielbiają to... popatrz no się! {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/121.ogg",
           "TranslationKey": "Events/Beach:3131209:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hehe... they love it... Look at 'em go!"
+          "DisplayPattern": "He he... Uwielbiają to... popatrz no się!"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s1",
-          "DialogueText": "Ahoy!",
+          "DialogueText": "Ahoj!",
           "AudioPath": "assets/pt-BR/Willy/122.ogg",
           "TranslationKey": "Events/Beach:3131209:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Ahoy!"
+          "DisplayPattern": "Ahoj!"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s2",
-          "DialogueText": "I was just thinkin' of you, lad.",
+          "DialogueText": "Właśnie o Tobie myślałem, chłopcze.",
           "AudioPath": "assets/pt-BR/Willy/123_male.ogg",
           "TranslationKey": "Events/Beach:3131209:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I was just thinkin' of you, lad.",
+          "DisplayPattern": "Właśnie o Tobie myślałem, chłopcze.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s3",
-          "DialogueText": "I was just thinkin' of you, miss.",
+          "DialogueText": "Właśnie o Tobie myślałem, panienko.",
           "AudioPath": "assets/pt-BR/Willy/124_female.ogg",
           "TranslationKey": "Events/Beach:3131209:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I was just thinkin' of you, miss.",
+          "DisplayPattern": "Właśnie o Tobie myślałem, panienko.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s4",
-          "DialogueText": "This bug meat you found is perfect!",
+          "DialogueText": "To robacze mięso jest idealne!",
           "AudioPath": "assets/pt-BR/Willy/125.ogg",
           "TranslationKey": "Events/Beach:3131209:s4",
           "PageIndex": 0,
-          "DisplayPattern": "This bug meat you found is perfect!"
+          "DisplayPattern": "To robacze mięso jest idealne!"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s5",
-          "DialogueText": "Hehe... When I said 'fresh', I didn't expect it to still be wrigglin'!",
+          "DialogueText": "He he... Gdy mówiłem 'świeże', nie myślałem, że będzie się jeszcze ruszać!",
           "AudioPath": "assets/pt-BR/Willy/126.ogg",
           "TranslationKey": "Events/Beach:3131209:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Hehe... When I said 'fresh', I didn't expect it to still be wrigglin'!"
+          "DisplayPattern": "He he... Gdy mówiłem 'świeże', nie myślałem, że będzie się jeszcze ruszać!"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s6",
-          "DialogueText": "But I'm not complaining! The fish love it... Hehehe... {Portrait:Happy}",
+          "DialogueText": "Ale nie narzekam! Ryby to uwielbiają... He he he... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/127.ogg",
           "TranslationKey": "Events/Beach:3131209:s6",
           "PageIndex": 0,
-          "DisplayPattern": "But I'm not complaining! The fish love it... Hehehe..."
+          "DisplayPattern": "Ale nie narzekam! Ryby to uwielbiają... He he he..."
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s7",
-          "DialogueText": "As a way of saying 'thanks', I wanted to teach you an old fisherman's secret... My ol' Pappy taught me this on a fishing trip many years ago.",
+          "DialogueText": "Jako 'podziękowanie', chcę Cię nauczyć starej tajemnicy rybackiej... Mój staruszek nauczył mnie tego dawno temu na wyprawie wędkarskiej.",
           "AudioPath": "assets/pt-BR/Willy/128.ogg",
           "TranslationKey": "Events/Beach:3131209:s7",
           "PageIndex": 0,
-          "DisplayPattern": "As a way of saying 'thanks', I wanted to teach you an old fisherman's secret... My ol' Pappy taught me this on a fishing trip many years ago."
+          "DisplayPattern": "Jako 'podziękowanie', chcę Cię nauczyć starej tajemnicy rybackiej... Mój staruszek nauczył mnie tego dawno temu na wyprawie wędkarskiej."
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s8",
-          "DialogueText": "Learned how to craft 'Quality Bobber'",
+          "DialogueText": "Umiesz Wytwarzać 'Wytrzymały Spławik'",
           "AudioPath": "assets/pt-BR/Willy/129.ogg",
           "TranslationKey": "Events/Beach:3131209:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Learned how to craft 'Quality Bobber'"
+          "DisplayPattern": "Umiesz Wytwarzać 'Wytrzymały Spławik'"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s9",
-          "DialogueText": "Using that bobber will attract higher quality fish.",
+          "DialogueText": "Ten spławik przyciągnie uwagę lepszych ryb.",
           "AudioPath": "assets/pt-BR/Willy/130.ogg",
           "TranslationKey": "Events/Beach:3131209:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Using that bobber will attract higher quality fish."
+          "DisplayPattern": "Ten spławik przyciągnie uwagę lepszych ryb."
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s10",
-          "DialogueText": "That means more money in yer pocket, lad. Hehe... {Portrait:Happy}",
+          "DialogueText": "Czyli więcej pieniędzy w kieszeni, chłopcze. He he... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/131_male.ogg",
           "TranslationKey": "Events/Beach:3131209:s10",
           "PageIndex": 0,
-          "DisplayPattern": "That means more money in yer pocket, lad. Hehe...",
+          "DisplayPattern": "Czyli więcej pieniędzy w kieszeni, chłopcze. He he...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s11",
-          "DialogueText": "That means more money in yer pocket, lass. Hehe... {Portrait:Happy}",
+          "DialogueText": "Czyli więcej pieniędzy w kieszeni, panienko. He he... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/132_female.ogg",
           "TranslationKey": "Events/Beach:3131209:s11",
           "PageIndex": 0,
-          "DisplayPattern": "That means more money in yer pocket, lass. Hehe...",
+          "DisplayPattern": "Czyli więcej pieniędzy w kieszeni, panienko. He he...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Beach/3131209:s12",
-          "DialogueText": "Got one!",
+          "DialogueText": "Mam ją!",
           "AudioPath": "assets/pt-BR/Willy/133.ogg",
           "TranslationKey": "Events/Beach:3131209:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Got one!"
+          "DisplayPattern": "Mam ją!"
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s0",
-          "DialogueText": "Hi, {Farmer_Name}.",
+          "DialogueText": "Cześć, {Farmer_Name}.",
           "AudioPath": "assets/pt-BR/Willy/134.ogg",
           "TranslationKey": "Events/Mountain:404798:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hi, ."
+          "DisplayPattern": "Cześć, ."
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s1",
-          "DialogueText": "It's odd... I'm not sure what caused this boulder to disappear.",
+          "DialogueText": "Dziwne... Nie wiem, co sprawiło, że ten głaz zniknął.",
           "AudioPath": "assets/pt-BR/Willy/135.ogg",
           "TranslationKey": "Events/Mountain:404798:s1",
           "PageIndex": 0,
-          "DisplayPattern": "It's odd... I'm not sure what caused this boulder to disappear."
+          "DisplayPattern": "Dziwne... Nie wiem, co sprawiło, że ten głaz zniknął."
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s2",
-          "DialogueText": "This stream is flowing from deep within the mountain.",
+          "DialogueText": "Ten strumień płynie z głębi góry.",
           "AudioPath": "assets/pt-BR/Willy/136.ogg",
           "TranslationKey": "Events/Mountain:404798:s2",
           "PageIndex": 0,
-          "DisplayPattern": "This stream is flowing from deep within the mountain."
+          "DisplayPattern": "Ten strumień płynie z głębi góry."
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s3",
-          "DialogueText": "Hey! Do you see that glistening in the water?",
+          "DialogueText": "Hej! Widzisz ten błysk w wodzie?",
           "AudioPath": "assets/pt-BR/Willy/137.ogg",
           "TranslationKey": "Events/Mountain:404798:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Hey! Do you see that glistening in the water?"
+          "DisplayPattern": "Hej! Widzisz ten błysk w wodzie?"
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s4",
-          "DialogueText": "Yes... that's quality ore! {Portrait:Happy}",
+          "DialogueText": "Tak... To ruda! {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/138.ogg",
           "TranslationKey": "Events/Mountain:404798:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Yes... that's quality ore!"
+          "DisplayPattern": "Tak... To ruda!"
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s5",
-          "DialogueText": "The flow of water must be carrying it out of the mountain.",
+          "DialogueText": "Pewnie przepływ wody ją tutaj przygarnął.",
           "AudioPath": "assets/pt-BR/Willy/139.ogg",
           "TranslationKey": "Events/Mountain:404798:s5",
           "PageIndex": 0,
-          "DisplayPattern": "The flow of water must be carrying it out of the mountain."
+          "DisplayPattern": "Pewnie przepływ wody ją tutaj przygarnął."
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s6",
-          "DialogueText": "You know what this means, right?",
+          "DialogueText": "Wiesz co to znaczy, prawda?",
           "AudioPath": "assets/pt-BR/Willy/140.ogg",
           "TranslationKey": "Events/Mountain:404798:s6",
           "PageIndex": 0,
-          "DisplayPattern": "You know what this means, right?"
+          "DisplayPattern": "Wiesz co to znaczy, prawda?"
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s7",
-          "DialogueText": "It means we can start panning for ore! {Portrait:Happy}",
+          "DialogueText": "To znaczy, że możemy przesiewać rudy! {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/141.ogg",
           "TranslationKey": "Events/Mountain:404798:s7",
           "PageIndex": 0,
-          "DisplayPattern": "It means we can start panning for ore!"
+          "DisplayPattern": "To znaczy, że możemy przesiewać rudy!"
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s8",
-          "DialogueText": "Here, I've got an extra pan in my backpack... why don't you take it?",
+          "DialogueText": "Proszę, mam tu zapasowy przesiewacz... może Ci się przydać.",
           "AudioPath": "assets/pt-BR/Willy/142.ogg",
           "TranslationKey": "Events/Mountain:404798:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Here, I've got an extra pan in my backpack... why don't you take it?"
+          "DisplayPattern": "Proszę, mam tu zapasowy przesiewacz... może Ci się przydać."
         },
         {
           "DialogueFrom": "Event/Mountain/404798:s9",
-          "DialogueText": "If you ever see ore glistening in the water, use that pan and see what you find.",
+          "DialogueText": "Jeśli zobaczysz w wodzie błyszczącą rudę, użyj tego przesiewacza.",
           "AudioPath": "assets/pt-BR/Willy/143.ogg",
           "TranslationKey": "Events/Mountain:404798:s9",
           "PageIndex": 0,
-          "DisplayPattern": "If you ever see ore glistening in the water, use that pan and see what you find."
+          "DisplayPattern": "Jeśli zobaczysz w wodzie błyszczącą rudę, użyj tego przesiewacza."
         },
         {
           "DialogueFrom": "Event/Mountain/8959199:s0",
-          "DialogueText": "Got one, lad!",
+          "DialogueText": "Mam ją, chłopcze!",
           "AudioPath": "assets/pt-BR/Willy/144.ogg",
           "TranslationKey": "Events/Mountain:8959199:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Got one, lad!"
+          "DisplayPattern": "Mam ją, chłopcze!"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s0",
-          "DialogueText": "Ahoy!",
+          "DialogueText": "Ahoj!",
           "AudioPath": "assets/pt-BR/Willy/145.ogg",
           "TranslationKey": "Events/FishShop:16253595:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ahoy!"
+          "DisplayPattern": "Ahoj!"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s1",
-          "DialogueText": "Come in... make yourself at home...",
+          "DialogueText": "Wejdź... Czuj się jak u siebie...",
           "AudioPath": "assets/pt-BR/Willy/146.ogg",
           "TranslationKey": "Events/FishShop:16253595:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Come in... make yourself at home..."
+          "DisplayPattern": "Wejdź... Czuj się jak u siebie..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s2",
-          "DialogueText": "Aye... that's good stuff, there. The fish go crazy for it.",
+          "DialogueText": "Ajaj... To dobry towar. Ryby za tym szaleją.",
           "AudioPath": "assets/pt-BR/Willy/147.ogg",
           "TranslationKey": "Events/FishShop:16253595:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... that's good stuff, there. The fish go crazy for it."
+          "DisplayPattern": "Ajaj... To dobry towar. Ryby za tym szaleją."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s3",
-          "DialogueText": "Just... eh... make sure to wash yer hands good after dipping them in those juices... {Portrait:Sad}",
+          "DialogueText": "Tylko... eem... pamiętaj o porządnym umyciu rąk po włożeniu ich w te soki... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/148.ogg",
           "TranslationKey": "Events/FishShop:16253595:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Just... eh... make sure to wash yer hands good after dipping them in those juices..."
+          "DisplayPattern": "Tylko... eem... pamiętaj o porządnym umyciu rąk po włożeniu ich w te soki..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s4",
-          "DialogueText": "The aroma has been known to linger for up to seven weeks, lad...",
+          "DialogueText": "Ten zapach może przylgnąć na siedem tygodni, chłopcze...",
           "AudioPath": "assets/pt-BR/Willy/149_male.ogg",
           "TranslationKey": "Events/FishShop:16253595:s4",
           "PageIndex": 0,
-          "DisplayPattern": "The aroma has been known to linger for up to seven weeks, lad...",
+          "DisplayPattern": "Ten zapach może przylgnąć na siedem tygodni, chłopcze...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s5",
-          "DialogueText": "The aroma has been known to linger for up to seven weeks, miss...",
+          "DialogueText": "Ten zapach może przylgnąć na siedem tygodni, panienko...",
           "AudioPath": "assets/pt-BR/Willy/150_female.ogg",
           "TranslationKey": "Events/FishShop:16253595:s5",
           "PageIndex": 0,
-          "DisplayPattern": "The aroma has been known to linger for up to seven weeks, miss...",
+          "DisplayPattern": "Ten zapach może przylgnąć na siedem tygodni, panienko...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s6",
-          "DialogueText": "So... you been catching a lot o' fish?",
+          "DialogueText": "To co, łowisz sporo ryb?",
           "AudioPath": "assets/pt-BR/Willy/151.ogg",
           "TranslationKey": "Events/FishShop:16253595:s6",
           "PageIndex": 0,
-          "DisplayPattern": "So... you been catching a lot o' fish?"
+          "DisplayPattern": "To co, łowisz sporo ryb?"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s7",
-          "DialogueText": "Aha! A man after me own heart... {Portrait:Happy}",
+          "DialogueText": "Aha! Swój chłop... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/152_male.ogg",
           "TranslationKey": "Events/FishShop:16253595:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Aha! A man after me own heart...",
+          "DisplayPattern": "Aha! Swój chłop...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s8",
-          "DialogueText": "Aha! A lady after me own heart... {Portrait:Happy}",
+          "DialogueText": "Aha! Panienka rybaczka... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/153_female.ogg",
           "TranslationKey": "Events/FishShop:16253595:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Aha! A lady after me own heart...",
+          "DisplayPattern": "Aha! Panienka rybaczka...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s9",
-          "DialogueText": "You can always trust a fisherman...",
+          "DialogueText": "Zawsze możesz zaufać rybakowi...",
           "AudioPath": "assets/pt-BR/Willy/154_male.ogg",
           "TranslationKey": "Events/FishShop:16253595:s9",
           "PageIndex": 0,
-          "DisplayPattern": "You can always trust a fisherman...",
+          "DisplayPattern": "Zawsze możesz zaufać rybakowi...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s10",
-          "DialogueText": "You can always count on a lady who fishes...",
+          "DialogueText": "Na taką panienkę zawsze można liczyć...",
           "AudioPath": "assets/pt-BR/Willy/155_female.ogg",
           "TranslationKey": "Events/FishShop:16253595:s10",
           "PageIndex": 0,
-          "DisplayPattern": "You can always count on a lady who fishes...",
+          "DisplayPattern": "Na taką panienkę zawsze można liczyć...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s11",
-          "DialogueText": "That's what me ol' Pappy used to say, at least. Haha! {Portrait:Happy}",
+          "DialogueText": "Tak właśnie mój Staruszek zwykł mawiać. Ha ha! {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/156.ogg",
           "TranslationKey": "Events/FishShop:16253595:s11",
           "PageIndex": 0,
-          "DisplayPattern": "That's what me ol' Pappy used to say, at least. Haha!"
+          "DisplayPattern": "Tak właśnie mój Staruszek zwykł mawiać. Ha ha!"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s12",
-          "DialogueText": "Well, keep it goin'... if you can catch every fish in these waters, I've got a special prize waitin' for ye...",
+          "DialogueText": "No, tak trzymaj... Jeśli złowisz każdą rybę z tych wód, dostaniesz ode mnie specjalną nagrodę...",
           "AudioPath": "assets/pt-BR/Willy/157.ogg",
           "TranslationKey": "Events/FishShop:16253595:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Well, keep it goin'... if you can catch every fish in these waters, I've got a special prize waitin' for ye..."
+          "DisplayPattern": "No, tak trzymaj... Jeśli złowisz każdą rybę z tych wód, dostaniesz ode mnie specjalną nagrodę..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s13",
-          "DialogueText": "Not the fishin' type, eh? That's too bad... {Portrait:Sad}",
+          "DialogueText": "Nie za bardzo, co? Szkoda... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/158.ogg",
           "TranslationKey": "Events/FishShop:16253595:s13",
           "PageIndex": 0,
-          "DisplayPattern": "Not the fishin' type, eh? That's too bad..."
+          "DisplayPattern": "Nie za bardzo, co? Szkoda..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s14",
-          "DialogueText": "Yes, it's a difficult sport... especially for a beginner.",
+          "DialogueText": "Tak, jest to trudne... zwłaszcza dla początkujących.",
           "AudioPath": "assets/pt-BR/Willy/159.ogg",
           "TranslationKey": "Events/FishShop:16253595:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, it's a difficult sport... especially for a beginner."
+          "DisplayPattern": "Tak, jest to trudne... zwłaszcza dla początkujących."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s15",
-          "DialogueText": "Have you tried the 'Training Rod'? I sell them right here, at a very low price.",
+          "DialogueText": "Może spróbujesz 'Wędki Dla Początkujących'? Mogę Ci ją sprzedać, za bardzo niską cenę.",
           "AudioPath": "assets/pt-BR/Willy/160.ogg",
           "TranslationKey": "Events/FishShop:16253595:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Have you tried the 'Training Rod'? I sell them right here, at a very low price."
+          "DisplayPattern": "Może spróbujesz 'Wędki Dla Początkujących'? Mogę Ci ją sprzedać, za bardzo niską cenę."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s16",
-          "DialogueText": "You should try using a 'Training Rod' until you get a little more experienced.",
+          "DialogueText": "Łów 'Wędką Dla Początkujących' dopóki nie dojdziesz do wprawy.",
           "AudioPath": "assets/pt-BR/Willy/161.ogg",
           "TranslationKey": "Events/FishShop:16253595:s16",
           "PageIndex": 0,
-          "DisplayPattern": "You should try using a 'Training Rod' until you get a little more experienced."
+          "DisplayPattern": "Łów 'Wędką Dla Początkujących' dopóki nie dojdziesz do wprawy."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s17",
-          "DialogueText": "Aye... well, business has been tough, lately. {Portrait:Sad}",
+          "DialogueText": "Aj... Cóż, ostatnio biznes słabo się kręci. {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/162.ogg",
           "TranslationKey": "Events/FishShop:16253595:s17",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... well, business has been tough, lately."
+          "DisplayPattern": "Aj... Cóż, ostatnio biznes słabo się kręci."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s18",
-          "DialogueText": "It all started about the same time that old community center fell to ruin... me fish just don't sell like they used to...",
+          "DialogueText": "Zaczęło się to w ten sam dzień, w którym stary dom kultury popadł w ruinę... Moje ryby już się nie sprzedają tak jak kiedyś...",
           "AudioPath": "assets/pt-BR/Willy/163.ogg",
           "TranslationKey": "Events/FishShop:16253595:s18",
           "PageIndex": 0,
-          "DisplayPattern": "It all started about the same that old community center fell to ruin... me fish just don't sell like they used to..."
+          "DisplayPattern": "Zaczęło się to w ten sam dzień, w którym stary dom kultury popadł w ruinę... Moje ryby już się nie sprzedają tak jak kiedyś..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s19",
-          "DialogueText": "I've been working double-time just to make ends meet!",
+          "DialogueText": "Brałem nadgodziny, żeby z czegoś żyć!",
           "AudioPath": "assets/pt-BR/Willy/164.ogg",
           "TranslationKey": "Events/FishShop:16253595:s19",
           "PageIndex": 0,
-          "DisplayPattern": "I've been working double- just to make ends meet!"
+          "DisplayPattern": "Brałem nadgodziny, żeby z czegoś żyć!"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s20",
-          "DialogueText": "No time for me own projects... {Portrait:Sad}",
+          "DialogueText": "Brak czasu na moje własne rzeczy... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/165.ogg",
           "TranslationKey": "Events/FishShop:16253595:s20",
           "PageIndex": 0,
-          "DisplayPattern": "No for me own projects..."
+          "DisplayPattern": "Brak czasu na moje własne rzeczy..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s21",
-          "DialogueText": "But, if things picked back up around here, I might have the time to show ya somethin'...",
+          "DialogueText": "Ale jak to wszystko jakoś wróci na nogi, to może dam radę Ci coś pokazać...",
           "AudioPath": "assets/pt-BR/Willy/166.ogg",
           "TranslationKey": "Events/FishShop:16253595:s21",
           "PageIndex": 0,
-          "DisplayPattern": "But, if things picked back up around here, I might have the to show ya somethin'..."
+          "DisplayPattern": "Ale jak to wszystko jakoś wróci na nogi, to może dam radę Ci coś pokazać..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s22",
-          "DialogueText": "Heh heh... yep. She's back there... an 'old friend' that's seen better days... {Portrait:Happy}",
+          "DialogueText": "He he... Tak. Jest tam, na zapleczu... Moja stara 'znajoma' która pamiętała lepsze czasy... {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/167.ogg",
           "TranslationKey": "Events/FishShop:16253595:s22",
           "PageIndex": 0,
-          "DisplayPattern": "Heh heh... yep. She's back there... an 'old friend' that's seen better days..."
+          "DisplayPattern": "He he... Tak. Jest tam, na zapleczu... Moja stara 'znajoma' która pamiętała lepsze czasy..."
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s23",
-          "DialogueText": "Some day, lad... you'll see what I mean.",
+          "DialogueText": "Może kiedyś, chłopcze... zobaczysz o co mi chodzi.",
           "AudioPath": "assets/pt-BR/Willy/168_male.ogg",
           "TranslationKey": "Events/FishShop:16253595:s23",
           "PageIndex": 0,
-          "DisplayPattern": "Some day, lad... you'll see what I mean.",
+          "DisplayPattern": "Może kiedyś, chłopcze... zobaczysz o co mi chodzi.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FishShop/16253595:s24",
-          "DialogueText": "Some day, miss... you'll see what I mean.",
+          "DialogueText": "Może kiedyś, panienko... zobaczysz o co mi chodzi.",
           "AudioPath": "assets/pt-BR/Willy/169_female.ogg",
           "TranslationKey": "Events/FishShop:16253595:s24",
           "PageIndex": 0,
-          "DisplayPattern": "Some day, miss... you'll see what I mean.",
+          "DisplayPattern": "Może kiedyś, panienko... zobaczysz o co mi chodzi.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s0",
-          "DialogueText": "Aye... a sad sight, isn't she?",
+          "DialogueText": "Ajaj... smutny widok, prawda?",
           "AudioPath": "assets/pt-BR/Willy/170.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... a sad sight, isn't she?"
+          "DisplayPattern": "Ajaj... smutny widok, prawda?"
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s1",
-          "DialogueText": "She was me father's boat... Served him well for over 50 years.",
+          "DialogueText": "To była łódź mojego ojca... Dobrze mu służyła przez ponad 50 lat.",
           "AudioPath": "assets/pt-BR/Willy/171.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s1",
           "PageIndex": 0,
-          "DisplayPattern": "She was me father's boat... Served him well for over 50 years."
+          "DisplayPattern": "To była łódź mojego ojca... Dobrze mu służyła przez ponad 50 lat."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s2",
-          "DialogueText": "But now she can barely stay afloat. {Portrait:Sad}",
+          "DialogueText": "A teraz ledwo się trzyma na wodzie. {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/172.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s2",
           "PageIndex": 0,
-          "DisplayPattern": "But now she can barely stay afloat."
+          "DisplayPattern": "A teraz ledwo się trzyma na wodzie."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s3",
-          "DialogueText": "I'd repair her myself, but I don't have the right materials, lad.",
+          "DialogueText": "Może bym ją naprawił, ale nie mam materiałów, chłopcze.",
           "AudioPath": "assets/pt-BR/Willy/173_male.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I'd repair her myself, but I don't have the right materials, lad.",
+          "DisplayPattern": "Może bym ją naprawił, ale nie mam materiałów, chłopcze.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s4",
-          "DialogueText": "I'd repair her myself, but I don't have the right materials, miss.",
+          "DialogueText": "Może bym ją naprawił, ale nie mam materiałów, panienko.",
           "AudioPath": "assets/pt-BR/Willy/174_female.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I'd repair her myself, but I don't have the right materials, miss.",
+          "DisplayPattern": "Może bym ją naprawił, ale nie mam materiałów, panienko.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s5",
-          "DialogueText": "Aye... 200 pieces of hardwood to patch the hull would be a good start.",
+          "DialogueText": "Ajaj... 200 sztuk twardego drewna żeby załatać kadłub byłoby dobrym początkiem.",
           "AudioPath": "assets/pt-BR/Willy/175.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... 200 pieces of hardwood to patch the hull would be a good start."
+          "DisplayPattern": "Ajaj... 200 sztuk twardego drewna żeby załatać kadłub byłoby dobrym początkiem."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s6",
-          "DialogueText": "But we'll also need to get the ticket machine back up, and the iridium anchor repaired.",
+          "DialogueText": "Ale musielibyśmy jeszcze naprawić maszynę do biletów i kotwicę z irydu.",
           "AudioPath": "assets/pt-BR/Willy/176.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s6",
           "PageIndex": 0,
-          "DisplayPattern": "But we'll also need to get the ticket machine back up, and the iridium anchor repaired."
+          "DisplayPattern": "Ale musielibyśmy jeszcze naprawić maszynę do biletów i kotwicę z irydu."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s7",
-          "DialogueText": "If I could get me hands on the right materials, and repair the ol' girl... well, then I could take you to the Fern Islands.",
+          "DialogueText": "Gdybym dostał w me dłonie właściwe materiały i naprawiłbym tę łódź... mógłbym Cię zabrać na Wyspy Paproci.",
           "AudioPath": "assets/pt-BR/Willy/177.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s7",
           "PageIndex": 0,
-          "DisplayPattern": "If I could get me hands on the right materials, and repair the ol' girl... well, then I could take you to the Fern Islands."
+          "DisplayPattern": "Gdybym dostał w me dłonie właściwe materiały i naprawiłbym tę łódź... mógłbym Cię zabrać na Wyspy Paproci."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s8",
-          "DialogueText": "Volcanic islands full of strange parrots, they say...",
+          "DialogueText": "Wyspy Wulkaniczne, mawiają że są pełne dziwnych papug...",
           "AudioPath": "assets/pt-BR/Willy/178.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Volcanic islands full of strange parrots, they say..."
+          "DisplayPattern": "Wyspy Wulkaniczne, mawiają że są pełne dziwnych papug..."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s9",
-          "DialogueText": "Aye... I thought you would, lad. {Portrait:Happy}",
+          "DialogueText": "Ajaj... tak myślałem, chłopcze. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/179_male.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... I thought you would, lad.",
+          "DisplayPattern": "Ajaj... tak myślałem, chłopcze.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s10",
-          "DialogueText": "Aye... I thought you would, miss. {Portrait:Happy}",
+          "DialogueText": "Ajaj... tak myślałem, panienko. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/180_female.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Aye... I thought you would, miss.",
+          "DisplayPattern": "Ajaj... tak myślałem, panienko.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s11",
-          "DialogueText": "I'll leave this door unlocked for ya... you can come drop off the materials whenever you like.",
+          "DialogueText": "Zostawię te drzwi otwarte... możesz zostawiać tu materiały kiedy tylko zechcesz.",
           "AudioPath": "assets/pt-BR/Willy/181.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s11",
           "PageIndex": 0,
-          "DisplayPattern": "I'll leave this door unlocked for ya... you can come drop off the materials whenever you like."
+          "DisplayPattern": "Zostawię te drzwi otwarte... możesz zostawiać tu materiały kiedy tylko zechcesz."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s12",
-          "DialogueText": "Alright, suit yourself... {Portrait:Sad}",
+          "DialogueText": "W porządku, jak sobie chcesz... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/182.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Alright, suit yourself..."
+          "DisplayPattern": "W porządku, jak sobie chcesz..."
         },
         {
           "DialogueFrom": "Event/BoatTunnel/9348571:s13",
-          "DialogueText": "If you have a change of heart, you can always come back and help out. I'll leave this door unlocked, anyhow.",
+          "DialogueText": "Jeśli zmienisz zdanie, zawsze możesz wrócić i pomóc. Zostawię te drzwi otwarte.",
           "AudioPath": "assets/pt-BR/Willy/183.ogg",
           "TranslationKey": "Events/BoatTunnel:9348571:s13",
           "PageIndex": 0,
-          "DisplayPattern": "If you have a change of heart, you can always come back and help out. I'll leave this door unlocked, anyhow."
+          "DisplayPattern": "Jeśli zmienisz zdanie, zawsze możesz wrócić i pomóc. Zostawię te drzwi otwarte."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s0",
-          "DialogueText": "Aye, lad... Linus lives on the mainland with the rest of us.",
+          "DialogueText": "Ajaj, chłopcze... Linus mieszka z nami na kontynencie.",
           "AudioPath": "assets/pt-BR/Willy/184.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Aye, lad... Linus lives on the mainland with the rest of us."
+          "DisplayPattern": "Ajaj, chłopcze... Linus mieszka z nami na kontynencie."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s1",
-          "DialogueText": "After hearing your story... I wanted to help. So, I talked to Linus here and hatched a little plan. {Portrait:Happy}",
+          "DialogueText": "Po wysłuchaniu Twojej historii... chciałem Ci jakoś pomóc. Więc, porozmawiałem z Linusem i obmyśliliśmy pewien plan. {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/185.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s1",
           "PageIndex": 0,
-          "DisplayPattern": "After hearing your story... I wanted to help. So, I talked to Linus here and hatched a little plan."
+          "DisplayPattern": "Po wysłuchaniu Twojej historii... chciałem Ci jakoś pomóc. Więc, porozmawiałem z Linusem i obmyśliliśmy pewien plan."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s2",
-          "DialogueText": "Go on, Linus... tell him.",
+          "DialogueText": "No, Linus... powiedz mu.",
           "AudioPath": "assets/pt-BR/Willy/186.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Go on, Linus... tell him."
+          "DisplayPattern": "No, Linus... powiedz mu."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s3",
-          "DialogueText": "I can take you back for a visit any time! {Portrait:Happy}",
+          "DialogueText": "Mogę zabierać Cię na odwiedziny kiedykolwiek zechcesz! {Portrait:Happy}",
           "AudioPath": "assets/pt-BR/Willy/187.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I can take you back for a visit any !"
+          "DisplayPattern": "Mogę zabierać Cię na odwiedziny kiedykolwiek zechcesz!"
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s4",
-          "DialogueText": "But, lad.... You can't live here forever...",
+          "DialogueText": "Ale chłopcze.... nie możesz tu mieszkać na zawsze...",
           "AudioPath": "assets/pt-BR/Willy/188.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s4",
           "PageIndex": 0,
-          "DisplayPattern": "But, lad.... You can't live here forever..."
+          "DisplayPattern": "Ale chłopcze.... nie możesz tu mieszkać na zawsze..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s5",
-          "DialogueText": "You know, there are other children back home, too. I'm sure they'd love to meet ya...",
+          "DialogueText": "U nas też jest dużo dzieci. Na pewno chciałyby Cię poznać...",
           "AudioPath": "assets/pt-BR/Willy/189.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s5",
           "PageIndex": 0,
-          "DisplayPattern": "You know, there are other children back home, too. I'm sure they'd love to meet ya..."
+          "DisplayPattern": "U nas też jest dużo dzieci. Na pewno chciałyby Cię poznać..."
         },
         {
           "DialogueFrom": "Event/IslandSouth/6497428:s6",
-          "DialogueText": "What do you think, {Farmer_Name}?",
+          "DialogueText": "Co o tym myślisz, {Farmer_Name}?",
           "AudioPath": "assets/pt-BR/Willy/190.ogg",
           "TranslationKey": "Events/IslandSouth:6497428:s6",
           "PageIndex": 0,
-          "DisplayPattern": "What do you think, ?"
+          "DisplayPattern": "Co o tym myślisz, ?"
         },
         {
           "DialogueFrom": "Event/IslandWest/6497423:s0",
-          "DialogueText": "Poor lad... {Portrait:Sad}",
+          "DialogueText": "Biedny dzieciak... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/191.ogg",
           "TranslationKey": "Events/IslandWest:6497423:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Poor lad..."
+          "DisplayPattern": "Biedny dzieciak..."
         },
         {
           "DialogueFrom": "Event/IslandWest/6497423:s1",
-          "DialogueText": "I wonder if there's some way to help... {Portrait:Sad}",
+          "DialogueText": "Zastanawiam się, czy można mu jakoś pomóc... {Portrait:Sad}",
           "AudioPath": "assets/pt-BR/Willy/192.ogg",
           "TranslationKey": "Events/IslandWest:6497423:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I wonder if there's some way to help..."
+          "DisplayPattern": "Zastanawiam się, czy można mu jakoś pomóc..."
         },
         {
           "DialogueFrom": "Festival/fall16/Willy",

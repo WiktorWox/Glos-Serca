@@ -615,7 +615,11 @@ namespace VoiceOverFrameworkMod
             // Resolve that identity before using the text/dictionary pipeline.
             var currentEvent = GetCurrentEvent();
             string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
-            int? eventSpeakIndex = ComputeSpeakIndexForCurrent(currentEvent, currentSpeaker?.Name, pageZero);
+            int? eventSpeakIndex = ComputeSpeakIndexForCurrent(
+                currentEvent,
+                currentSpeaker?.Name,
+                pageZero,
+                currentDisplayedText: currentDisplayedString);
             if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
             {
                 string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
