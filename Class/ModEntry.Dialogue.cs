@@ -480,6 +480,7 @@ namespace VoiceOverFrameworkMod
                        expected.Contains(actual, StringComparison.OrdinalIgnoreCase);
             }
 
+            bool skipQuickQuestionResponseCommand = false;
             for (int i = 0; i <= current; i++)
             {
                 string line = ev.eventCommands[i];
@@ -490,6 +491,27 @@ namespace VoiceOverFrameworkMod
                 bool isSpeak = line.StartsWith("speak ", StringComparison.OrdinalIgnoreCase);
                 bool isSplit = line.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
                 bool isTextAboveHead = line.StartsWith("textAboveHead ", StringComparison.OrdinalIgnoreCase);
+
+                // Stardew keeps the selected quickQuestion response as the
+                // next runtime event command. Its serial was already assigned
+                // from the answer alternatives above, so do not count this
+                // materialized response a second time.
+                if (skipQuickQuestionResponseCommand)
+                {
+                    if (isSpeak || isSplit || isTextAboveHead)
+                    {
+                        skipQuickQuestionResponseCommand = false;
+                        continue;
+                    }
+
+                    // A pause or bookkeeping command may appear between the
+                    // question and its materialized response.
+                    if (!line.StartsWith("pause ", StringComparison.OrdinalIgnoreCase) &&
+                        !line.StartsWith("addWorldState ", StringComparison.OrdinalIgnoreCase))
+                    {
+                        skipQuickQuestionResponseCommand = false;
+                    }
+                }
 
                 if (line.StartsWith("quickQuestion ", StringComparison.OrdinalIgnoreCase))
                 {
@@ -549,6 +571,7 @@ namespace VoiceOverFrameworkMod
                         serial = branchSerial + Math.Max(0, sections.Length - 1);
                     }
 
+                    skipQuickQuestionResponseCommand = true;
                     continue;
                 }
 
