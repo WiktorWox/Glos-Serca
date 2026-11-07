@@ -538,57 +538,56 @@ namespace VoiceOverFrameworkMod
                     int branchSerial = serial;
                     int selectedBranch = -1;
 
-                    for (int branch = 1; branch < sections.Length; branch++)
-                    {
-                        string branchText = sections[branch];
-                        string actorToken = branchText.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries).ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+                    //for (int branch = 1; branch < sections.Length; branch++)
+                    //{
+                    //    string branchText = sections[branch];
+                    //    string actorToken = branchText.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries).ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
 
-                        if ((i == current || current == i + 1) &&
-                            selectedBranch < 0 &&
-                            MatchesDisplayed(FirstPageText(branchText), currentDisplayedText))
-                        {
-                            selectedBranch = branch;
-                            // Each player answer occupies one serial slot.
-                            // The embedded speak text may contain several
-                            // #$b# pages, but those pages are not separate
-                            // answer alternatives in the generated pack.
-                            return branchSerial + branch - 1;
-                        }
+                    //    if ((i == current || current == i + 1) &&
+                    //        selectedBranch < 0 &&
+                    //        MatchesDisplayed(FirstPageText(branchText), currentDisplayedText))
+                    //    {
+                    //        selectedBranch = branch;
+                    //        // Each player answer occupies one serial slot.
+                    //        // The embedded speak text may contain several
+                    //        // #$b# pages, but those pages are not separate
+                    //        // answer alternatives in the generated pack.
+                    //        return branchSerial + branch - 1;
+                    //    }
 
-                        serial++;
-                    }
+                    //    serial++;
+                    //}
 
                     // The current page may be a later #$b# page from the
                     // selected embedded branch. Match it against every page
                     // in each branch before falling back to the branch start.
-                    if ((i == current || current == i + 1) && selectedBranch < 0 && !string.IsNullOrWhiteSpace(currentDisplayedText))
+                    int branchPages = 0;
+                    for (int branch = 1; branch < sections.Length; branch++)
                     {
-                        for (int branch = 1; branch < sections.Length; branch++)
+                        string branchText = sections[branch];
+                        int firstQuote = branchText.IndexOf('"');
+                        int lastQuote = branchText.LastIndexOf('"');
+                        string branchPayload = firstQuote >= 0 && lastQuote > firstQuote
+                            ? branchText.Substring(firstQuote + 1, lastQuote - firstQuote - 1)
+                            : string.Empty;
+                        string[] pages = string.IsNullOrWhiteSpace(branchPayload)
+                            ? Array.Empty<string>()
+                            : branchPayload.Split(new[] { "#$b#" }, StringSplitOptions.None);
+                        for (int page = 0; page < pages.Length; page++)
                         {
-                            string branchText = sections[branch];
-                            int firstQuote = branchText.IndexOf('"');
-                            int lastQuote = branchText.LastIndexOf('"');
-                            string branchPayload = firstQuote >= 0 && lastQuote > firstQuote
-                                ? branchText.Substring(firstQuote + 1, lastQuote - firstQuote - 1)
-                                : string.Empty;
-                            string[] pages = string.IsNullOrWhiteSpace(branchPayload)
-                                ? Array.Empty<string>()
-                                : branchPayload.Split(new[] { "#$b#" }, StringSplitOptions.None);
-                            for (int page = 0; page < pages.Length; page++)
+                            branchPages++;
+                            if (MatchesDisplayed(pages[page].Replace("$h", string.Empty).Replace("$s", string.Empty), currentDisplayedText))
                             {
-                                if (MatchesDisplayed(pages[page].Replace("$h", string.Empty).Replace("$s", string.Empty), currentDisplayedText))
-                                {
-                                    return branchSerial + branch - 1;
-                                }
+                                return branchSerial + branchPages - 1;
                             }
                         }
-
-                        // No displayed text matched this question's embedded
-                        // branches. The event has already moved past the
-                        // question, so count all answer alternatives and
-                        // continue scanning later commands.
-                        serial = branchSerial + Math.Max(0, sections.Length - 1);
                     }
+
+                    // No displayed text matched this question's embedded
+                    // branches. The event has already moved past the
+                    // question, so count all answer alternatives and
+                    // continue scanning later commands.
+                    serial = branchSerial + Math.Max(0, branchPages);
 
                     skipQuickQuestionResponseCommand = true;
                     continue;
