@@ -37,6 +37,7 @@ namespace VoiceOverFrameworkMod
         private string _v2_lastEventBase = null;
         private string _v2_lastEventPageFingerprint = null; // eventBase|speaker|sanitizedText
         private readonly Dictionary<string, int> _v2_eventSerialBySpeaker = new(StringComparer.OrdinalIgnoreCase);
+        private string _lastLoggedEventCommandSnapshot = null;
 
 
 
@@ -61,6 +62,24 @@ namespace VoiceOverFrameworkMod
                 CleanupStoppedVoiceInstances();
 
             bool eventActive = Game1.currentLocation?.currentEvent != null;
+
+            if (eventActive)
+            {
+                var activeEvent = Game1.currentLocation.currentEvent;
+                string[] commands = activeEvent.eventCommands ?? Array.Empty<string>();
+                string snapshot = $"{activeEvent.id}|{activeEvent.CurrentCommand}|{string.Join("\u001f", commands)}";
+                if (!string.Equals(snapshot, _lastLoggedEventCommandSnapshot, StringComparison.Ordinal))
+                {
+                    _lastLoggedEventCommandSnapshot = snapshot;
+                    Monitor.Log($"[EventCommands] EventId={activeEvent.id}, CurrentCommand={activeEvent.CurrentCommand}, Count={commands.Length}", LogLevel.Info);
+                    for (int commandIndex = 0; commandIndex < commands.Length; commandIndex++)
+                        Monitor.Log($"[EventCommands] {commandIndex}: {commands[commandIndex]}", LogLevel.Info);
+                }
+            }
+            else if (!eventActive)
+            {
+                _lastLoggedEventCommandSnapshot = null;
+            }
 
             var dlgBox = Game1.activeClickableMenu as DialogueBox;
             string speakerName = dlgBox?.characterDialogue?.speaker?.Name ?? Game1.currentSpeaker?.Name;
