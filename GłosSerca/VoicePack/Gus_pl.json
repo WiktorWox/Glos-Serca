@@ -1,0 +1,1454 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Gus.pl",
+      "VoicePackName": "Głos Serca (Gus)",
+      "Character": "Gus",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "No witam! Jestem Gus, kucharz i właściciel Gwiezdnej Knajpy.",
+          "AudioPath": "assets/pl/Gus/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Introduction",
+          "PageIndex": 0,
+          "DisplayPattern": "No witam! Jestem Gus, kucharz i właściciel Gwiezdnej Knajpy."
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Wpadnij, gdy będziesz potrzebować orzeźwienia. Zawsze mam gorącą kawę i zimnego browara. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Introduction",
+          "PageIndex": 1,
+          "DisplayPattern": "Wpadnij, gdy będziesz potrzebować orzeźwienia. Zawsze mam gorącą kawę i zimnego browara."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Oh, wow, dziękuję! Mam ochotę wypić ją całą, ale zachowam trochę do knajpy. Założę się, że można z tego zrobić świetny koktajl!",
+          "AudioPath": "assets/pl/Gus/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh, wow, dziękuję! Mam ochotę wypić ją całą, ale zachowam trochę do knajpy. Założę się, że można z tego zrobić świetny koktajl!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_Positive_category_cooking",
+          "DialogueText": "*niuch*... Ach. Wyśmienita potrawa. Wiesz, co lubię, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:AcceptGift_Positive_category_cooking",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*... Ach. Wyśmienita potrawa. Wiesz, co lubię, ."
+        },
+        {
+          "DialogueFrom": "accept_865",
+          "DialogueText": "*niuch* *niuch*... Ostry zapach!",
+          "AudioPath": "assets/pl/Gus/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:accept_865",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch* *niuch*... Ostry zapach!"
+        },
+        {
+          "DialogueFrom": "accept_865",
+          "DialogueText": "*siorb* *siorb*... Ten pikantny smak! Piaskowa tekstura!",
+          "AudioPath": "assets/pl/Gus/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:accept_865",
+          "PageIndex": 1,
+          "DisplayPattern": "*siorb* *siorb*... Ten pikantny smak! Piaskowa tekstura!"
+        },
+        {
+          "DialogueFrom": "accept_865",
+          "DialogueText": "To może być tylko wyśmienita sól pomidorowa! Wymienię się za to.",
+          "AudioPath": "assets/pl/Gus/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:accept_865",
+          "PageIndex": 2,
+          "DisplayPattern": "To może być tylko wyśmienita sól pomidorowa! Wymienię się za to."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Widziałem wczoraj prognozę pogody. Napędziło mi to stracha! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałem wczoraj prognozę pogody. Napędziło mi to stracha!"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Czy tam są potwory? Co się dzieje?",
+          "AudioPath": "assets/pl/Gus/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:GreenRain",
+          "PageIndex": 1,
+          "DisplayPattern": "Czy tam są potwory? Co się dzieje?"
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Cieszę się, że to już koniec. Mam już wystarczająco zmartwień z prowadzeniem tej knajpy — nie potrzeba mi jeszcze egzotycznej pogody!",
+          "AudioPath": "assets/pl/Gus/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:GreenRainFinished",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że to już koniec. Mam już wystarczająco zmartwień z prowadzeniem tej knajpy — nie potrzeba mi jeszcze egzotycznej pogody!"
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "*niuch*... Te deszcze mają specyficzny zapach. Czujesz? Prawie jak zmielone przyprawy...",
+          "AudioPath": "assets/pl/Gus/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:GreenRain_2",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*... Te deszcze mają specyficzny zapach. Czujesz? Prawie jak zmielone przyprawy..."
+        },
+        {
+          "DialogueFrom": "cropMatured_256",
+          "DialogueText": "Lewis mi powiedział, że Twoje pomidory dojrzały. To świetna wiadomość!",
+          "AudioPath": "assets/pl/Gus/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:cropMatured_256",
+          "PageIndex": 0,
+          "DisplayPattern": "Lewis mi powiedział, że Twoje pomidory dojrzały. To świetna wiadomość!"
+        },
+        {
+          "DialogueFrom": "cropMatured_256",
+          "DialogueText": "... Wyobraź sobie kulinarny świat bez pomidorów...",
+          "AudioPath": "assets/pl/Gus/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:cropMatured_256",
+          "PageIndex": 1,
+          "DisplayPattern": "... Wyobraź sobie kulinarny świat bez pomidorów..."
+        },
+        {
+          "DialogueFrom": "eventSeen_502969",
+          "DialogueText": "Ważne jest dla mnie, by ludzie odżywiali się zdrowo i smacznie. Niestety, w tych czasach nie każdy ma taką możliwość.",
+          "AudioPath": "assets/pl/Gus/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:eventSeen_502969",
+          "PageIndex": 0,
+          "DisplayPattern": "Ważne jest dla mnie, by ludzie odżywiali się zdrowo i smacznie. Niestety, w tych czasach nie każdy ma taką możliwość."
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Hej {Farmer_Name}, chciałem powiedzieć, że cieszę się z waszego szczęścia.",
+          "AudioPath": "assets/pl/Gus/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:married",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej , chciałem powiedzieć, że cieszę się z waszego szczęścia."
+        },
+        {
+          "DialogueFrom": "dating_Emily_memory_oneweek",
+          "DialogueText": "Emily ma ostatnio mnóstwo energii... Zastanawiam się, dlaczego? *mrug*",
+          "AudioPath": "assets/pl/Gus/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:dating_Emily_memory_oneweek",
+          "PageIndex": 0,
+          "DisplayPattern": "Emily ma ostatnio mnóstwo energii... Zastanawiam się, dlaczego? *mrug*"
+        },
+        {
+          "DialogueFrom": "divorced_once",
+          "DialogueText": "Hej, przykro mi z powodu waszego rozstania... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:divorced_once",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przykro mi z powodu waszego rozstania..."
+        },
+        {
+          "DialogueFrom": "divorced_once",
+          "DialogueText": "Jeśli potrzebujesz towarzystwa, zawsze jesteś tu mile widziany.",
+          "AudioPath": "assets/pl/Gus/18_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:divorced_once",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli potrzebujesz towarzystwa, zawsze jesteś tu mile widziany.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "divorced_once",
+          "DialogueText": "Jeśli potrzebujesz towarzystwa, zawsze jesteś tu mile widziana.",
+          "AudioPath": "assets/pl/Gus/19_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:divorced_once",
+          "PageIndex": 2,
+          "DisplayPattern": "Jeśli potrzebujesz towarzystwa, zawsze jesteś tu mile widziana.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "divorced_twice",
+          "DialogueText": "Kolejne nieudane małżeństwo? Cóż, zdarza się. Chyba będę Cię tu widywał częściej... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:divorced_twice",
+          "PageIndex": 0,
+          "DisplayPattern": "Kolejne nieudane małżeństwo? Cóż, zdarza się. Chyba będę Cię tu widywał częściej..."
+        },
+        {
+          "DialogueFrom": "eventSeen_3206194",
+          "DialogueText": "Hej, jeszcze raz dzięki za te wszystkie jajka. Dzięki Tobie omlet wyszedł wyśmienity!",
+          "AudioPath": "assets/pl/Gus/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:eventSeen_3206194",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, jeszcze raz dzięki za te wszystkie jajka. Dzięki Tobie omlet wyszedł wyśmienity!"
+        },
+        {
+          "DialogueFrom": "Resort_Entering",
+          "DialogueText": "Hej, {Farmer_Name}! Dobrze, że jesteś. Serwuję dobre rzeczy z baru.",
+          "AudioPath": "assets/pl/Gus/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Resort_Entering",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, ! Dobrze, że jesteś. Serwuję dobre rzeczy z baru."
+        },
+        {
+          "DialogueFrom": "Resort_Leaving",
+          "DialogueText": "Widzimy się w domu, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Gus/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Resort_Leaving",
+          "PageIndex": 0,
+          "DisplayPattern": "Widzimy się w domu, ."
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "Jak dopadnie Cię pragnienie, spotkamy się w barze.",
+          "AudioPath": "assets/pl/Gus/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Resort",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak dopadnie Cię pragnienie, spotkamy się w barze."
+        },
+        {
+          "DialogueFrom": "IslandSouth_14_21",
+          "DialogueText": "Hej, chcesz się napić? Mam trochę specjalnych napojów z lokalnych składników tej wyspy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:IslandSouth_14_21",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, chcesz się napić? Mam trochę specjalnych napojów z lokalnych składników tej wyspy."
+        },
+        {
+          "DialogueFrom": "willyCrabs",
+          "DialogueText": "To najlepsze krabowe ciastka, jakie kiedykolwiek zrobiłem...",
+          "AudioPath": "assets/pl/Gus/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:willyCrabs",
+          "PageIndex": 0,
+          "DisplayPattern": "To najlepsze krabowe ciastka, jakie kiedykolwiek zrobiłem..."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Tak, wiem dużo o ludziach mieszkających tutaj.",
+          "AudioPath": "assets/pl/Gus/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, wiem dużo o ludziach mieszkających tutaj."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Takie są zalety bycia barmanem. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Takie są zalety bycia barmanem."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Czasami słyszę nawet za dużo...",
+          "AudioPath": "assets/pl/Gus/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Mon",
+          "PageIndex": 2,
+          "DisplayPattern": "Czasami słyszę nawet za dużo..."
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "Hej. Słyszałem o Twojej życzliwości wobec Pam. To było bardzo miłe z Twojej strony! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:pamHouseUpgrade",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Słyszałem o Twojej życzliwości wobec Pam. To było bardzo miłe z Twojej strony!"
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "Niestety, to chyba jej nie odciągnie od 'trunków'...",
+          "AudioPath": "assets/pl/Gus/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:pamHouseUpgrade",
+          "PageIndex": 1,
+          "DisplayPattern": "Niestety, to chyba jej nie odciągnie od 'trunków'..."
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Spotkałem dzisiaj Pam... uśmiechała się od ucha do ucha! Mówiła, że ktoś wybudował jej dom!",
+          "AudioPath": "assets/pl/Gus/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:pamHouseUpgradeAnonymous",
+          "PageIndex": 0,
+          "DisplayPattern": "Spotkałem dzisiaj Pam... uśmiechała się od ucha do ucha! Mówiła, że ktoś wybudował jej dom!"
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Ktokolwiek to był, zasługuje na wszystko, co najlepsze! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:pamHouseUpgradeAnonymous",
+          "PageIndex": 1,
+          "DisplayPattern": "Ktokolwiek to był, zasługuje na wszystko, co najlepsze!"
+        },
+        {
+          "DialogueFrom": "Saloon",
+          "DialogueText": "Witaj. Czy mogę coś podać?",
+          "AudioPath": "assets/pl/Gus/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj. Czy mogę coś podać?"
+        },
+        {
+          "DialogueFrom": "Saloon4",
+          "DialogueText": "Witaj. Rozgość się.",
+          "AudioPath": "assets/pl/Gus/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon4",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj. Rozgość się."
+        },
+        {
+          "DialogueFrom": "SeedShop_Entry",
+          "DialogueText": "Cześć, Pierre!/Czego mi trzeba.../Ach, to dobrze wygląda!/Robię dziś mój specjalny sos!/Pierre! Co masz świeżego?/Pierre! Masz coś dla mnie?",
+          "AudioPath": "assets/pl/Gus/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Pierre!/Czego mi trzeba.../Ach, to dobrze wygląda!/Robię dziś mój specjalny sos!/Pierre! Co masz świeżego?/Pierre! Masz coś dla mnie?"
+        },
+        {
+          "DialogueFrom": "Saloon8",
+          "DialogueText": "Witaj {Farmer_Name}. Cieszę się, że Cię widzę! Zawsze jesteś tutaj mile widziany.",
+          "AudioPath": "assets/pl/Gus/37_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon8",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj . Cieszę się, że Cię widzę! Zawsze jesteś tutaj mile widziany.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Saloon8",
+          "DialogueText": "Witaj {Farmer_Name}. Cieszę się, że Cię widzę! Zawsze jesteś tutaj mile widziana.",
+          "AudioPath": "assets/pl/Gus/38_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon8",
+          "PageIndex": 1,
+          "DisplayPattern": "Witaj . Cieszę się, że Cię widzę! Zawsze jesteś tutaj mile widziana.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Saloon_Tue",
+          "DialogueText": "Cześć! Odpręż się i baw dobrze.",
+          "AudioPath": "assets/pl/Gus/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon_Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć! Odpręż się i baw dobrze."
+        },
+        {
+          "DialogueFrom": "Saloon_Thu",
+          "DialogueText": "Hej, wyglądasz, jakby przydał Ci się dobry trunek.",
+          "AudioPath": "assets/pl/Gus/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, wyglądasz, jakby przydał Ci się dobry trunek."
+        },
+        {
+          "DialogueFrom": "Saloon_Fri",
+          "DialogueText": "Biznes dziś dobrze się kręcił. Jestem zadowolony.",
+          "AudioPath": "assets/pl/Gus/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Saloon_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Biznes dziś dobrze się kręcił. Jestem zadowolony."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "W każdy tydzień oferuję inne potrawy, więc wpadaj często!",
+          "AudioPath": "assets/pl/Gus/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "W każdy tydzień oferuję inne potrawy, więc wpadaj często!"
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Możesz zasmakować czegoś niezwykłego. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Możesz zasmakować czegoś niezwykłego."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jeśli masz na coś alergię, daj znać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "Jeśli masz na coś alergię, daj znać."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "No dobrze, do zobaczenia.",
+          "AudioPath": "assets/pl/Gus/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Tue",
+          "PageIndex": 3,
+          "DisplayPattern": "No dobrze, do zobaczenia."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Emily pracuje tu od dłuższego czasu. Nie wiem, co bym bez niej zrobił!",
+          "AudioPath": "assets/pl/Gus/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Emily pracuje tu od dłuższego czasu. Nie wiem, co bym bez niej zrobił!"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Nie chciałbym sam zmywać tych wszystkich garów. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie chciałbym sam zmywać tych wszystkich garów."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Pam i Clint przychodzą do knajpy prawie codziennie.",
+          "AudioPath": "assets/pl/Gus/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Pam i Clint przychodzą do knajpy prawie codziennie."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Gdyby nie oni, prawdopodobnie bym zbankrutował. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Gdyby nie oni, prawdopodobnie bym zbankrutował."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Postaraj się ich nie spłoszyć!",
+          "AudioPath": "assets/pl/Gus/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu",
+          "PageIndex": 2,
+          "DisplayPattern": "Postaraj się ich nie spłoszyć!"
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Clint przychodzi codziennie wieczorem i siedzi sam przy stole.",
+          "AudioPath": "assets/pl/Gus/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu6",
+          "PageIndex": 0,
+          "DisplayPattern": "Clint przychodzi codziennie wieczorem i siedzi sam przy stole."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Czasami nerwowo gapi się na Emily. Hmm.",
+          "AudioPath": "assets/pl/Gus/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu6",
+          "PageIndex": 1,
+          "DisplayPattern": "Czasami nerwowo gapi się na Emily. Hmm."
+        },
+        {
+          "DialogueFrom": "Thu6",
+          "DialogueText": "Może to dlatego tak często przychodzi. No cóż, to więcej roboty dla mnie.",
+          "AudioPath": "assets/pl/Gus/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu6",
+          "PageIndex": 2,
+          "DisplayPattern": "Może to dlatego tak często przychodzi. No cóż, to więcej roboty dla mnie."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Pam przychodzi do knajpy codziennie wieczorem i pije za dużo piwa.",
+          "AudioPath": "assets/pl/Gus/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu8",
+          "PageIndex": 0,
+          "DisplayPattern": "Pam przychodzi do knajpy codziennie wieczorem i pije za dużo piwa."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Nie powinienem oceniać moich klientów.",
+          "AudioPath": "assets/pl/Gus/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Thu8",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie powinienem oceniać moich klientów."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Witaj, {Farmer_Name}. Jeśli chce Ci się pić, knajpa to strzał w dziesiątkę.",
+          "AudioPath": "assets/pl/Gus/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj, . Jeśli chce Ci się pić, knajpa to strzał w dziesiątkę."
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "W sumie to nie piję dużo. Robię to głównie, żeby zarobić na życie.",
+          "AudioPath": "assets/pl/Gus/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Fri4",
+          "PageIndex": 0,
+          "DisplayPattern": "W sumie to nie piję dużo. Robię to głównie, żeby zarobić na życie."
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Ale od czasu do czasu lubię napić się czegoś wytrawnego.",
+          "AudioPath": "assets/pl/Gus/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Fri4",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale od czasu do czasu lubię napić się czegoś wytrawnego."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Lubisz gotować, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Gus/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Lubisz gotować, ?"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Jeśli masz kuchnię i przepisy, możesz przygotować smaczne dania.",
+          "AudioPath": "assets/pl/Gus/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli masz kuchnię i przepisy, możesz przygotować smaczne dania."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Domowy obiad może być świetnym prezentem.",
+          "AudioPath": "assets/pl/Gus/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Sat",
+          "PageIndex": 2,
+          "DisplayPattern": "Domowy obiad może być świetnym prezentem."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Biznes się kręci dzięki moim stałym klientom.",
+          "AudioPath": "assets/pl/Gus/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Biznes się kręci dzięki moim stałym klientom."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Nie ma to jak lampka czerwonego wina w taki dzień, co?",
+          "AudioPath": "assets/pl/Gus/63.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie ma to jak lampka czerwonego wina w taki dzień, co?"
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Kocham swoją pracę. He he he.",
+          "AudioPath": "assets/pl/Gus/64.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Gus",
+          "PageIndex": 1,
+          "DisplayPattern": "Kocham swoją pracę. He he he."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s0",
+          "DialogueText": "Good morning!",
+          "AudioPath": "assets/pl/Gus/65.ogg",
+          "TranslationKey": "Events/Farm:980558:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Good morning!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s1",
+          "DialogueText": "Ah... what a beautiful day, huh?",
+          "AudioPath": "assets/pl/Gus/66.ogg",
+          "TranslationKey": "Events/Farm:980558:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Ah... what a beautiful day, huh?"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s2",
+          "DialogueText": "You know, as the Saloon owner, I hear about everything that's going on in town.",
+          "AudioPath": "assets/pl/Gus/67.ogg",
+          "TranslationKey": "Events/Farm:980558:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "You know, as the Saloon owner, I hear about everything that's going on in town."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s3",
+          "DialogueText": "I remember when you first moved here... everyone was a bit unsure of what to expect.",
+          "AudioPath": "assets/pl/Gus/68.ogg",
+          "TranslationKey": "Events/Farm:980558:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "I remember when you first moved here... everyone was a bit unsure of what to expect."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s4",
+          "DialogueText": "A stranger from the city... an unknown personality... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/69.ogg",
+          "TranslationKey": "Events/Farm:980558:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "A stranger from the city... an unknown personality..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s5",
+          "DialogueText": "One sec...",
+          "AudioPath": "assets/pl/Gus/70.ogg",
+          "TranslationKey": "Events/Farm:980558:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "One sec..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s6",
+          "DialogueText": "Sorry, I have to stir this pot every 5 minutes.",
+          "AudioPath": "assets/pl/Gus/71.ogg",
+          "TranslationKey": "Events/Farm:980558:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Sorry, I have to stir this pot every 5 minutes."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s7",
+          "DialogueText": "Anyway, what was I saying? Oh yeah... you know, it's like when you're making a sauce...",
+          "AudioPath": "assets/pl/Gus/72.ogg",
+          "TranslationKey": "Events/Farm:980558:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Anyway, what was I saying? Oh yeah... you know, it's like when you're making a sauce..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s8",
+          "DialogueText": "...If you put in a new spice you could ruin everything! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/73.ogg",
+          "TranslationKey": "Events/Farm:980558:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "...If you put in a new spice you could ruin everything!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s9",
+          "DialogueText": "...But then again, there's always a chance you'll create something new and delicious! Right? Hahahaha. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/74.ogg",
+          "TranslationKey": "Events/Farm:980558:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "...But then again, there's always a chance you'll create something new and delicious! Right? Hahahaha."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s10",
+          "DialogueText": "Er... What I'm trying to say is... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/75.ogg",
+          "TranslationKey": "Events/Farm:980558:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Er... What I'm trying to say is..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s11",
+          "DialogueText": "It's been great having you in town, and I've come to think of you as one of my good friends!",
+          "AudioPath": "assets/pl/Gus/76.ogg",
+          "TranslationKey": "Events/Farm:980558:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "It's been great having you in town, and I've come to think of you as one of my good friends!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s12",
+          "DialogueText": "Anyway, I came to give you something...",
+          "AudioPath": "assets/pl/Gus/77.ogg",
+          "TranslationKey": "Events/Farm:980558:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Anyway, I came to give you something..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s13",
+          "DialogueText": "I was cleaning out the back room and I found this old Mini-Jukebox. I want you to have it!",
+          "AudioPath": "assets/pl/Gus/78.ogg",
+          "TranslationKey": "Events/Farm:980558:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "I was cleaning out the back room and I found this old Mini-Jukebox. I want you to have it!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s14",
+          "DialogueText": "Received a 'Mini-Jukebox'",
+          "AudioPath": "assets/pl/Gus/79.ogg",
+          "TranslationKey": "Events/Farm:980558:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Received a 'Mini-Jukebox'"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s15",
+          "DialogueText": "It's actually an old Do-It-Yourself project of mine, from many years ago. They're pretty easy to make!",
+          "AudioPath": "assets/pl/Gus/80.ogg",
+          "TranslationKey": "Events/Farm:980558:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "It's actually an old Do-It-Yourself project of mine, from many years ago. They're pretty easy to make!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s16",
+          "DialogueText": "So, just in case you wanted to make more, I brought the blueprints for you...",
+          "AudioPath": "assets/pl/Gus/81.ogg",
+          "TranslationKey": "Events/Farm:980558:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "So, just in case you wanted to make more, I brought the blueprints for you..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s17",
+          "DialogueText": "Learned how to craft a 'Mini-Jukebox'",
+          "AudioPath": "assets/pl/Gus/82.ogg",
+          "TranslationKey": "Events/Farm:980558:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Learned how to craft a 'Mini-Jukebox'"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980558:s18",
+          "DialogueText": "Well, I'm gonna head home. I gotta get this marinara back on the stove! Have a good one!",
+          "AudioPath": "assets/pl/Gus/83.ogg",
+          "TranslationKey": "Events/Farm:980558:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "Well, I'm gonna head home. I gotta get this marinara back on the stove! Have a good one!"
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s0",
+          "DialogueText": "Great stuff!",
+          "AudioPath": "assets/pl/Gus/84.ogg",
+          "TranslationKey": "Events/Town:53:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Great stuff!"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s0",
+          "DialogueText": "I still dream of that garlic butter.",
+          "AudioPath": "assets/pl/Gus/85.ogg",
+          "TranslationKey": "Events/Town:191393:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "I still dream of that garlic butter."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s1",
+          "DialogueText": "Me too!",
+          "AudioPath": "assets/pl/Gus/86.ogg",
+          "TranslationKey": "Events/Town:191393:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Me too!"
+        },
+        {
+          "DialogueFrom": "Event/Town/502969:s0",
+          "DialogueText": "Wait. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/87.ogg",
+          "TranslationKey": "Events/Town:502969:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Wait."
+        },
+        {
+          "DialogueFrom": "Event/Town/502969:s1",
+          "DialogueText": "I know what you were doing, Linus. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/88.ogg",
+          "TranslationKey": "Events/Town:502969:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "I know what you were doing, Linus."
+        },
+        {
+          "DialogueFrom": "Event/Town/502969:s2",
+          "DialogueText": "If you need food... just ask. I don't want anyone in Pelican Town to go hungry.",
+          "AudioPath": "assets/pl/Gus/89.ogg",
+          "TranslationKey": "Events/Town:502969:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "If you need food... just ask. I don't want anyone in Pelican Town to go hungry."
+        },
+        {
+          "DialogueFrom": "Event/Town/502969:s3",
+          "DialogueText": "Here. I've got a basket of zucchini fritters for you. Just make sure you dip them in my spicy marinara! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/90.ogg",
+          "TranslationKey": "Events/Town:502969:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Here. I've got a basket of zucchini fritters for you. Just make sure you dip them in my spicy marinara!"
+        },
+        {
+          "DialogueFrom": "Event/Town/502969:s4",
+          "DialogueText": "Go on... take it.",
+          "AudioPath": "assets/pl/Gus/91.ogg",
+          "TranslationKey": "Events/Town:502969:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Go on... take it."
+        },
+        {
+          "DialogueFrom": "Event/Town/6184644:s0",
+          "DialogueText": "Nice!",
+          "AudioPath": "assets/pl/Gus/92.ogg",
+          "TranslationKey": "Events/Town:6184644:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Nice!"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/963113:s0",
+          "DialogueText": "I'm all ears.",
+          "AudioPath": "assets/pl/Gus/93.ogg",
+          "TranslationKey": "Events/SeedShop:963113:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm all ears."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/963113:s1",
+          "DialogueText": "That sounds pretty good! I could use some quality veggies for the saloon. How much does it cost?",
+          "AudioPath": "assets/pl/Gus/94.ogg",
+          "TranslationKey": "Events/SeedShop:963113:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "That sounds pretty good! I could use some quality veggies for the saloon. How much does it cost?"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/963113:s2",
+          "DialogueText": "What was that?",
+          "AudioPath": "assets/pl/Gus/95.ogg",
+          "TranslationKey": "Events/SeedShop:963113:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "What was that?"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/963113:s3",
+          "DialogueText": "Hahaha... for a moment there, I thought I heard, '25,000g'. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/96.ogg",
+          "TranslationKey": "Events/SeedShop:963113:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Hahaha... for a moment there, I thought I heard, '25,000g'."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/963113:s4",
+          "DialogueText": "Pierre, are you crazy? There's no way I could afford that. I'd have to sell the saloon! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/97.ogg",
+          "TranslationKey": "Events/SeedShop:963113:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Pierre, are you crazy? There's no way I could afford that. I'd have to sell the saloon!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/40:s0",
+          "DialogueText": "Hi. I'll take your order in a few moments.",
+          "AudioPath": "assets/pl/Gus/98.ogg",
+          "TranslationKey": "Events/Saloon:40:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Hi. I'll take your order in a few moments."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/40:s1",
+          "DialogueText": "... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/99.ogg",
+          "TranslationKey": "Events/Saloon:40:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/40:s2",
+          "DialogueText": "There you go, sir. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/100.ogg",
+          "TranslationKey": "Events/Saloon:40:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "There you go, sir."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s0",
+          "DialogueText": "Oh, hello there, buddy.",
+          "AudioPath": "assets/pl/Gus/101_male.ogg",
+          "TranslationKey": "Events/Saloon:96:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh, hello there, buddy.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s1",
+          "DialogueText": "Hi, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Gus/102_female.ogg",
+          "TranslationKey": "Events/Saloon:96:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Hi, .",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s2",
+          "DialogueText": "*sigh*... I'm just looking over last month's earnings... and it's not looking very good, {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/103.ogg",
+          "TranslationKey": "Events/Saloon:96:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "*sigh*... I'm just looking over last month's earnings... and it's not looking very good, ."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s3",
+          "DialogueText": "The worst thing... and I hate to say this because she's my friend... is Pam! She hasn't paid off her tab in weeks! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/104.ogg",
+          "TranslationKey": "Events/Saloon:96:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "The worst thing... and I hate to say this because she's my friend... is Pam! She hasn't paid off her tab in weeks!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s4",
+          "DialogueText": "...But I can't ask her to do it. I know she'll get defensive, and I don't want to hurt her feelings. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/105.ogg",
+          "TranslationKey": "Events/Saloon:96:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "...But I can't ask her to do it. I know she'll get defensive, and I don't want to hurt her feelings."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s5",
+          "DialogueText": "{Farmer_Name}, you gotta help me! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/106.ogg",
+          "TranslationKey": "Events/Saloon:96:s5",
+          "PageIndex": 0,
+          "DisplayPattern": ", you gotta help me!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s6",
+          "DialogueText": "Er... Well, okay Pam. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/107.ogg",
+          "TranslationKey": "Events/Saloon:96:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Er... Well, okay Pam."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s7",
+          "DialogueText": "Thanks, Pam! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/108.ogg",
+          "TranslationKey": "Events/Saloon:96:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Thanks, Pam!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s8",
+          "DialogueText": "And thank you, {Farmer_Name}. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/109.ogg",
+          "TranslationKey": "Events/Saloon:96:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "And thank you, ."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s9",
+          "DialogueText": "Now, let's get you that drink, Pam. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/110.ogg",
+          "TranslationKey": "Events/Saloon:96:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Now, let's get you that drink, Pam."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s10",
+          "DialogueText": "Thanks for your help, {Farmer_Name}. This cash is going to be a big help to the saloon.",
+          "AudioPath": "assets/pl/Gus/111.ogg",
+          "TranslationKey": "Events/Saloon:96:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Thanks for your help, . This cash is going to be a big help to the saloon."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3917590:s0",
+          "DialogueText": "I'm having a lot of fun. And it's good for business! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/112.ogg",
+          "TranslationKey": "Events/Saloon:3917590:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm having a lot of fun. And it's good for business!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3917590:s1",
+          "DialogueText": "Though maybe not so good for Shane's liver... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/113.ogg",
+          "TranslationKey": "Events/Saloon:3917590:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Though maybe not so good for Shane's liver..."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s0",
+          "DialogueText": "Well, folks... once again, we're gathered for a very special occasion.",
+          "AudioPath": "assets/pl/Gus/114.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Well, folks... once again, we're gathered for a very special occasion."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s1",
+          "DialogueText": "...A rare visit from a very dear friend...",
+          "AudioPath": "assets/pl/Gus/115.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "...A rare visit from a very dear friend..."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s2",
+          "DialogueText": "...My world-famous giant omelet! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/116.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "...My world-famous giant omelet!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s3",
+          "DialogueText": "Zesty bell pepper, juicy tomato, rich mushroom, and tangy cheese... all enrobed in a blanket of rich, fluffy egg. Dig in, folks.",
+          "AudioPath": "assets/pl/Gus/117.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Zesty bell pepper, juicy tomato, rich mushroom, and tangy cheese... all enrobed in a blanket of rich, fluffy egg. Dig in, folks."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s4",
+          "DialogueText": "Willy? What do you think?",
+          "AudioPath": "assets/pl/Gus/118.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Willy? What do you think?"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s5",
+          "DialogueText": "Is that a good thing? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/119.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Is that a good thing?"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s6",
+          "DialogueText": "Nope... You can thank {Farmer_Name} over at %farm Farm!",
+          "AudioPath": "assets/pl/Gus/120.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Nope... You can thank over at !"
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s0",
+          "DialogueText": "Hooo~... Back at it again, huh Willy? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/121.ogg",
+          "TranslationKey": "Events/Beach:711130:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Hooo~... Back at it again, huh Willy?"
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s1",
+          "DialogueText": "They look fresh all right...",
+          "AudioPath": "assets/pl/Gus/122.ogg",
+          "TranslationKey": "Events/Beach:711130:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "They look fresh all right..."
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s2",
+          "DialogueText": "I'll take the whole lot! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/123.ogg",
+          "TranslationKey": "Events/Beach:711130:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "I'll take the whole lot!"
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s3",
+          "DialogueText": "With a discount for the extra labor, of course...",
+          "AudioPath": "assets/pl/Gus/124.ogg",
+          "TranslationKey": "Events/Beach:711130:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "With a discount for the extra labor, of course..."
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s4",
+          "DialogueText": "Looks like we got 'em all...",
+          "AudioPath": "assets/pl/Gus/125.ogg",
+          "TranslationKey": "Events/Beach:711130:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Looks like we got 'em all..."
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s5",
+          "DialogueText": "Psst... {Farmer_Name}... Don't tell Willy, but I'll be doing a special on crab cakes at the saloon for the next few days...",
+          "AudioPath": "assets/pl/Gus/126.ogg",
+          "TranslationKey": "Events/Beach:711130:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Psst... ... Don't tell Willy, but I'll be doing a special on crab cakes at the saloon for the next few days..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Gus",
+          "DialogueText": "Jedz tyle ile chcesz! Wszystko za darmo... Pozdrowienia od Burmistrza Lewisa. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/127.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Jedz tyle ile chcesz! Wszystko za darmo... Pozdrowienia od Burmistrza Lewisa."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Gus",
+          "DialogueText": "Och! Nie zapomnij spróbować mojego słynnego sosu.",
+          "AudioPath": "assets/pl/Gus/128.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Gus",
+          "PageIndex": 1,
+          "DisplayPattern": "Och! Nie zapomnij spróbować mojego słynnego sosu."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Gus_y2",
+          "DialogueText": "Ciężko robić na cztery grille jednocześnie! Jest tu duży i głodny tłum, który trzeba nakarmić. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Gus/129.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciężko robić na cztery grille jednocześnie! Jest tu duży i głodny tłum, który trzeba nakarmić."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Gus_y2",
+          "DialogueText": "Do każdego kotleta dodałem odrobinkę mojego pikantnego sosu. *mrug*",
+          "AudioPath": "assets/pl/Gus/130.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Gus_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Do każdego kotleta dodałem odrobinkę mojego pikantnego sosu. *mrug*"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Gus",
+          "DialogueText": "Fajnie jest używać dyni do gotowania. Interesujący owoc.",
+          "AudioPath": "assets/pl/Gus/131.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Fajnie jest używać dyni do gotowania. Interesujący owoc."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Gus_y2",
+          "DialogueText": "Mam talent w rzeźbieniu dyni. Zwykle robię większość dyniowych latarni dla każdego w mieście.",
+          "AudioPath": "assets/pl/Gus/132.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam talent w rzeźbieniu dyni. Zwykle robię większość dyniowych latarni dla każdego w mieście."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Gus_y2",
+          "DialogueText": "Jedyne, czego oczekuję w zamian to te nasiona... posyp je szczyptą cynamonowego cukru i masz najlepszą przekąskę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/133.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Gus_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Jedyne, czego oczekuję w zamian to te nasiona... posyp je szczyptą cynamonowego cukru i masz najlepszą przekąskę!"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Gus",
+          "DialogueText": "Mam nadzieję, że wszystkim smakuje... Gotowałem całymi dniami, żeby zdążyć.",
+          "AudioPath": "assets/pl/Gus/134.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że wszystkim smakuje... Gotowałem całymi dniami, żeby zdążyć."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Gus",
+          "DialogueText": "Jajka sadzone, jajka gotowane, jajka w koszulce, ostre jajka, jajecznica, czekoladowe jajka... Dużo w tym wszystkim jajek! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/135.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Gus",
+          "PageIndex": 1,
+          "DisplayPattern": "Jajka sadzone, jajka gotowane, jajka w koszulce, ostre jajka, jajecznica, czekoladowe jajka... Dużo w tym wszystkim jajek!"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Gus_y2",
+          "DialogueText": "Ćśś... nie mów nikomu, ale tego roku spróbowałem czegoś nowego... Kacze jaja w kremie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/136.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ćśś... nie mów nikomu, ale tego roku spróbowałem czegoś nowego... Kacze jaja w kremie!"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Gus",
+          "DialogueText": "Zaczyna się sezon na żaby.",
+          "AudioPath": "assets/pl/Gus/137.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaczyna się sezon na żaby."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Gus_y2",
+          "DialogueText": "Próbowałeś sałatki z mniszka lekarskiego? Przygotowałem ją tutaj! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Gus/138_male.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Próbowałeś sałatki z mniszka lekarskiego? Przygotowałem ją tutaj!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Gus_y2",
+          "DialogueText": "Próbowałaś sałatki mniszka lekarskiego? Przygotowałem ją tutaj! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Gus/139_female.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Gus_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Próbowałaś sałatki mniszka lekarskiego? Przygotowałem ją tutaj!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Gus",
+          "DialogueText": "Ten głupi piach ciągle jest na jedzeniu!",
+          "AudioPath": "assets/pl/Gus/140.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten głupi piach ciągle jest na jedzeniu!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Gus_y2",
+          "DialogueText": "Jeden zły składnik zepsułby całą zupę... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Gus/141.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeden zły składnik zepsułby całą zupę..."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Gus",
+          "DialogueText": "'Meduzy Księżycowego Światła'... Ciekawe jak smakują? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/142.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "'Meduzy Księżycowego Światła'... Ciekawe jak smakują?"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Gus",
+          "DialogueText": "Oczywiście, że nigdy bym nie spróbował! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Gus/143.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Gus",
+          "PageIndex": 1,
+          "DisplayPattern": "Oczywiście, że nigdy bym nie spróbował!"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Gus_y2",
+          "DialogueText": "*niuch* Ach... zapach świeżości oceanu nigdy nie przestaje cieszyć. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Gus/144.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch* Ach... zapach świeżości oceanu nigdy nie przestaje cieszyć."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus",
+          "DialogueText": "To piękna sztuka, robienie lasek cukrowych. Naprawdę musisz szukać daleko, żeby znaleźć najlepsze składniki. W tych czasach nie są łatwe do znalezienia! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/145.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "To piękna sztuka, robienie lasek cukrowych. Naprawdę musisz szukać daleko, żeby znaleźć najlepsze składniki. W tych czasach nie są łatwe do znalezienia!"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus",
+          "DialogueText": "Zawsze używam pierścieniowego owocu na moje pierwsze laski. Nic nie może pobić tych jasnych czerwonych kolorów... I wszystkie są naturalne!",
+          "AudioPath": "assets/pl/Gus/146.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus",
+          "PageIndex": 1,
+          "DisplayPattern": "Zawsze używam pierścieniowego owocu na moje pierwsze laski. Nic nie może pobić tych jasnych czerwonych kolorów... I wszystkie są naturalne!"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus",
+          "DialogueText": "Och, chcesz poznać sekret moich mega podwójnych lasek? Ok, ale musisz obiecać, że nikomu nie powiesz. *szept* To dodatek wanilii, do uzupełnienia smaku wiśni. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/147.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus",
+          "PageIndex": 2,
+          "DisplayPattern": "Och, chcesz poznać sekret moich mega podwójnych lasek? Ok, ale musisz obiecać, że nikomu nie powiesz. *szept* To dodatek wanilii, do uzupełnienia smaku wiśni."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus",
+          "DialogueText": "Oczywiście, laski cukrowe o smaku mięty pieprzowej są standardowe i zawsze robię też sporą porcję.",
+          "AudioPath": "assets/pl/Gus/148.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus",
+          "PageIndex": 3,
+          "DisplayPattern": "Oczywiście, laski cukrowe o smaku mięty pieprzowej są standardowe i zawsze robię też sporą porcję."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus",
+          "DialogueText": "Hej, wyglądasz jakby Ci się chciało spać. Wszystko w porządku? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/149.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus",
+          "PageIndex": 4,
+          "DisplayPattern": "Hej, wyglądasz jakby Ci się chciało spać. Wszystko w porządku?"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus_y2",
+          "DialogueText": "Jedz! Jedz, póki jeszcze świeże i ciepłe. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Gus/150.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jedz! Jedz, póki jeszcze świeże i ciepłe."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Gus_y2",
+          "DialogueText": "Mógłbym długo opowiadać o mojej nowej metodzie robienia lasek cukrowych... ale w tym roku oszczędzę Ci szczegółów! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/151.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Gus_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Mógłbym długo opowiadać o mojej nowej metodzie robienia lasek cukrowych... ale w tym roku oszczędzę Ci szczegółów!"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Gus",
+          "DialogueText": "Wybacz, nie ma nic do jedzenia.",
+          "AudioPath": "assets/pl/Gus/152.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie ma nic do jedzenia."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Gus",
+          "DialogueText": "Zaczekaj na Święto Gwiazdy Polarnej. Najesz się za wsze czasy.",
+          "AudioPath": "assets/pl/Gus/153.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Gus",
+          "PageIndex": 1,
+          "DisplayPattern": "Zaczekaj na Święto Gwiazdy Polarnej. Najesz się za wsze czasy."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Gus_y2",
+          "DialogueText": "Za długo siedziałem w domu oglądając Gridballa... Dobrze jest wyjść na rześkie zimowe powietrze.",
+          "AudioPath": "assets/pl/Gus/154.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Gus_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Za długo siedziałem w domu oglądając Gridballa... Dobrze jest wyjść na rześkie zimowe powietrze."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Gus:s0",
+          "DialogueText": "To... dla mnie? Zaniemówiłem.",
+          "AudioPath": "assets/pl/Gus/155.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Gus:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "To... dla mnie? Zaniemówiłem."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Gus:s1",
+          "DialogueText": "Na pewno chcesz mi to dać?",
+          "AudioPath": "assets/pl/Gus/156.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Gus:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Na pewno chcesz mi to dać?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Gus:s2",
+          "DialogueText": "Nie, nie, nie...",
+          "AudioPath": "assets/pl/Gus/157.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Gus:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie, nie, nie..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Gus:s3",
+          "DialogueText": "To jest złom. Czuję się obrażony.",
+          "AudioPath": "assets/pl/Gus/158.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Gus:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest złom. Czuję się obrażony."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Gus:s4",
+          "DialogueText": "Ooo, jak słodko. Dziękuję.",
+          "AudioPath": "assets/pl/Gus/159.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Gus:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Ooo, jak słodko. Dziękuję."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_summer_movie_1_BeforeMovie",
+          "DialogueText": "Widziałem reklamę w telewizji. Wyglądało zabawnie!",
+          "AudioPath": "assets/pl/Gus/160.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_summer_movie_1_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałem reklamę w telewizji. Wyglądało zabawnie!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_summer_movie_1_AfterMovie",
+          "DialogueText": "Jako koneser amator, dziwna obsesja na punkcie jedzenia na bazie glutenu jest przezabawna. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/161.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_summer_movie_1_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Jako koneser amator, dziwna obsesja na punkcie jedzenia na bazie glutenu jest przezabawna."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_winter_movie_0_BeforeMovie",
+          "DialogueText": "Nie poczujesz prawdziwych świąt, dopóki nie zobaczysz '{0}'!",
+          "AudioPath": "assets/pl/Gus/162.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_winter_movie_0_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie poczujesz prawdziwych świąt, dopóki nie zobaczysz '{0}'!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_winter_movie_0_AfterMovie",
+          "DialogueText": "To podniosło mnie na duchu... I jakoś sprawia, że ten legendarny owoc wydaje się tak pyszny. Chciałbym go kiedyś spróbować.",
+          "AudioPath": "assets/pl/Gus/163.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_winter_movie_0_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "To podniosło mnie na duchu... I jakoś sprawia, że ten legendarny owoc wydaje się tak pyszny. Chciałbym go kiedyś spróbować."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_fall_movie_0_BeforeMovie",
+          "DialogueText": "Mówią, że ten film jest 'niekonwencjonalny'... Czy to znaczy, że jest zły? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/164.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_fall_movie_0_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówią, że ten film jest 'niekonwencjonalny'... Czy to znaczy, że jest zły?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_fall_movie_0_AfterMovie",
+          "DialogueText": "Jaki jest tego sens? Nie rozumiem. Może jestem za stary? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/165.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_fall_movie_0_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Jaki jest tego sens? Nie rozumiem. Może jestem za stary?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_like_BeforeMovie",
+          "DialogueText": "*niuch* *niuch*... Czuję coś smacznego...",
+          "AudioPath": "assets/pl/Gus/166.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_like_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch* *niuch*... Czuję coś smacznego..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Gus_like_AfterMovie",
+          "DialogueText": "Nie było najgorzej. Cieszę się, że przyszedłem!",
+          "AudioPath": "assets/pl/Gus/167.ogg",
+          "TranslationKey": "Strings/MovieReactions:Gus_like_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie było najgorzej. Cieszę się, że przyszedłem!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Gus",
+          "DialogueText": "Zwykle to ja zajmuje się jedzeniem na festiwale. Ale nie dzisiaj! Miło jest móc odpocząć. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/168.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Zwykle to ja zajmuje się jedzeniem na festiwale. Ale nie dzisiaj! Miło jest móc odpocząć."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Gus",
+          "DialogueText": "Masz ochotę na coś smakowitego?",
+          "AudioPath": "assets/pl/Gus/169.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Gus",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz ochotę na coś smakowitego?"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_Greeting",
+          "DialogueText": "Wchodź, śmiało!",
+          "AudioPath": "assets/pl/Gus/170.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_Greeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Wchodź, śmiało!"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_Summer",
+          "DialogueText": "Może podać coś chłodnego?",
+          "AudioPath": "assets/pl/Gus/171.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_Summer",
+          "PageIndex": 0,
+          "DisplayPattern": "Może podać coś chłodnego?"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_NotSummer",
+          "DialogueText": "Co podać?",
+          "AudioPath": "assets/pl/Gus/172.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_NotSummer",
+          "PageIndex": 0,
+          "DisplayPattern": "Co podać?"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_Snowing1",
+          "DialogueText": "Na dworze jest zimno, ale kawa jest gorąca!",
+          "AudioPath": "assets/pl/Gus/173.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_Snowing1",
+          "PageIndex": 0,
+          "DisplayPattern": "Na dworze jest zimno, ale kawa jest gorąca!"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_NotSnowing1",
+          "DialogueText": "Może jakiś ciepły posiłek?",
+          "AudioPath": "assets/pl/Gus/174.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_NotSnowing1",
+          "PageIndex": 0,
+          "DisplayPattern": "Może jakiś ciepły posiłek?"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_Raining",
+          "DialogueText": "Może coś gorącego do picia?",
+          "AudioPath": "assets/pl/Gus/175.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_Raining",
+          "PageIndex": 0,
+          "DisplayPattern": "Może coś gorącego do picia?"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_NotRaining",
+          "DialogueText": "Może coś do picia?",
+          "AudioPath": "assets/pl/Gus/176.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_NotRaining",
+          "PageIndex": 0,
+          "DisplayPattern": "Może coś do picia?"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_Snowing2",
+          "DialogueText": "Wchodź, ogrzej się!",
+          "AudioPath": "assets/pl/Gus/177.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_Snowing2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wchodź, ogrzej się!"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_NotSnowing2",
+          "DialogueText": "Witaj!",
+          "AudioPath": "assets/pl/Gus/178.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_NotSnowing2",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj!"
+        },
+        {
+          "DialogueFrom": "Saloon_Gus_RareGreeting",
+          "DialogueText": "Może coś do picia.",
+          "AudioPath": "assets/pl/Gus/179.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_RareGreeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Może coś do picia."
+        }
+      ]
+    }
+  ]
+}

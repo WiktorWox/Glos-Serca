@@ -57,7 +57,7 @@ Warto też nawiązać kontakt z autorem PR: dwa zespoły utrzymują równoległe
 
 ## 3. Pozostałe pomysły (zebrane wcześniej)
 
-- **Wykrywanie trybu tłumaczenia zamiast aliasu w configu.** Mod widzi listę załadowanych modów; obecność `DNKSH.spolszczenie` przy grze w pt-BR oznacza polski tekst. Zero konfiguracji dla gracza.
+- **Wykrywanie trybu tłumaczenia zamiast aliasu w configu.** Mod widzi listę załadowanych modów; obecność `DNKSH.spolszczenie` przy grze w pt-BR oznacza polski tekst. Dziś robi to domyślny alias `pt-BR → pl` w configu; wykrywanie zdjęłoby go z gracza.
 - **Głośne ostrzeżenie o niezgodności języka.** Gdy język gry nie pasuje do żadnej paczki ani aliasu, jednorazowy wpis WARN w logu zamiast ciszy. Najczęstsze zgłoszenie od graczy.
 - **Fuzzy matching jako ostatnia deska ratunku.** Po dopasowaniu po kluczu zostawić fuzzy tylko dla dialogów bez klucza i dymków, z progiem 0,90 zamiast 0,80, minimalną długością tekstu i logiem każdego użycia. Przed zmianą progu policzyć w środowisku testowym, jak często fuzzy w ogóle się odzywa.
 - **Normalizacja głośności plików.** Dwuprzebiegowy `loudnorm` (ffmpeg) do około -18 LUFS / -1,5 dBTP dla całej paczki zamiast wzmocnienia 400% z obcinaniem. Skan głośności wszystkich plików jest gotowy.

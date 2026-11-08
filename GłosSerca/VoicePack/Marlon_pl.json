@@ -1,0 +1,502 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Marlon.pl",
+      "VoicePackName": "Głos Serca (Marlon)",
+      "Character": "Marlon",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Event/Farm/690006:s0",
+          "DialogueText": "Bumped into Robin this morning... she told me you've got a new Slime Hutch!",
+          "AudioPath": "assets/pl/Marlon/1.ogg",
+          "TranslationKey": "Events/Farm:690006:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Bumped into Robin this morning... she told me you've got a new Slime Hutch!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s1",
+          "DialogueText": "Not bad!",
+          "AudioPath": "assets/pl/Marlon/2.ogg",
+          "TranslationKey": "Events/Farm:690006:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Not bad!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s2",
+          "DialogueText": "I was into slime breeding at your age. It's a great hobby... but dangerous.",
+          "AudioPath": "assets/pl/Marlon/3.ogg",
+          "TranslationKey": "Events/Farm:690006:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "I was into slime breeding at your age. It's a great hobby... but dangerous."
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s3",
+          "DialogueText": "How'd you think I lost this eye?",
+          "AudioPath": "assets/pl/Marlon/4.ogg",
+          "TranslationKey": "Events/Farm:690006:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "How'd you think I lost this eye?"
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s4",
+          "DialogueText": "Hah!",
+          "AudioPath": "assets/pl/Marlon/5.ogg",
+          "TranslationKey": "Events/Farm:690006:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Hah!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s5",
+          "DialogueText": "Just Kidding.",
+          "AudioPath": "assets/pl/Marlon/6.ogg",
+          "TranslationKey": "Events/Farm:690006:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Just Kidding."
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s6",
+          "DialogueText": "Here, I've got something for you.",
+          "AudioPath": "assets/pl/Marlon/7.ogg",
+          "TranslationKey": "Events/Farm:690006:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Here, I've got something for you."
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s7",
+          "DialogueText": "It's a slime egg. You can place that inside a slime incubator to hatch it.",
+          "AudioPath": "assets/pl/Marlon/8.ogg",
+          "TranslationKey": "Events/Farm:690006:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "It's a slime egg. You can that inside a slime incubator to hatch it."
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s8",
+          "DialogueText": "Now, take a good hard look at that egg. Next time you're out slime-hunting keep your eyes peeled for more eggs. They're rare, but slimes do drop them from time to time.",
+          "AudioPath": "assets/pl/Marlon/9.ogg",
+          "TranslationKey": "Events/Farm:690006:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Now, take a good hard look at that egg. Next you're out slime-hunting keep your eyes peeled for more eggs. They're rare, but slimes do drop them from to ."
+        },
+        {
+          "DialogueFrom": "Event/Farm/690006:s9",
+          "DialogueText": "Collect eggs from different slimes to add some variety to your herd!",
+          "AudioPath": "assets/pl/Marlon/10.ogg",
+          "TranslationKey": "Events/Farm:690006:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Collect eggs from different slimes to add some variety to your herd!"
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s0",
+          "DialogueText": "Hmmm...",
+          "AudioPath": "assets/pl/Marlon/11.ogg",
+          "TranslationKey": "Events/Mine:100162:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm..."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s1",
+          "DialogueText": "...I was just peering down into this old mine shaft.",
+          "AudioPath": "assets/pl/Marlon/12.ogg",
+          "TranslationKey": "Events/Mine:100162:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "...I was just peering down into this old mine shaft."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s2",
+          "DialogueText": "It's been abandoned for decades.",
+          "AudioPath": "assets/pl/Marlon/13.ogg",
+          "TranslationKey": "Events/Mine:100162:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "It's been aoned for decades."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s3",
+          "DialogueText": "Still, there's probably good ore down there.",
+          "AudioPath": "assets/pl/Marlon/14.ogg",
+          "TranslationKey": "Events/Mine:100162:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Still, there's probably good ore down there."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s4",
+          "DialogueText": "But a dark place, undisturbed for so long... I'm afraid ore isn't the only thing you'll find...",
+          "AudioPath": "assets/pl/Marlon/15.ogg",
+          "TranslationKey": "Events/Mine:100162:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "But a dark , undisturbed for so long... I'm afraid ore isn't the only thing you'll find..."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s5",
+          "DialogueText": "Here, take this. You might need it.",
+          "AudioPath": "assets/pl/Marlon/16.ogg",
+          "TranslationKey": "Events/Mine:100162:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Here, take this. You might need it."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s6",
+          "DialogueText": "Name's Marlon, by the way. I run the adventurer's guild right outside.",
+          "AudioPath": "assets/pl/Marlon/17.ogg",
+          "TranslationKey": "Events/Mine:100162:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "'s Marlon, by the way. I run the adventurer's guild right outside."
+        },
+        {
+          "DialogueFrom": "Event/Mine/100162:s7",
+          "DialogueText": "I'll keep my eye on you. Prove yourself and I might think about making you a member.",
+          "AudioPath": "assets/pl/Marlon/18.ogg",
+          "TranslationKey": "Events/Mine:100162:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "I'll keep my eye on you. Prove yourself and I might think about making you a member."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Marlon",
+          "DialogueText": "Miecze Clinta z każdym rokiem stają się ostrzejsze.",
+          "AudioPath": "assets/pl/Marlon/19.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Miecze Clinta z każdym rokiem stają się ostrzejsze."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Marlon",
+          "DialogueText": "Podobnie jak jego ceny...",
+          "AudioPath": "assets/pl/Marlon/20.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Marlon",
+          "PageIndex": 1,
+          "DisplayPattern": "Podobnie jak jego ceny..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Marlon_y2",
+          "DialogueText": "Szukam nowego oręża. Ciekawe czy dałbym radę wynegocjować wymianę z Clintem...",
+          "AudioPath": "assets/pl/Marlon/21.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Szukam nowego oręża. Ciekawe czy dałbym radę wynegocjować wymianę z Clintem..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Marlon",
+          "DialogueText": "Nie podchodź za blisko klatki.",
+          "AudioPath": "assets/pl/Marlon/22.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie podchodź za blisko klatki."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Marlon_y2",
+          "DialogueText": "W tym roku złapałem więcej potworów. Nie stój za blisko klatek.",
+          "AudioPath": "assets/pl/Marlon/23.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "W tym roku złapałem więcej potworów. Nie stój za blisko klatek."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Marlon",
+          "DialogueText": "Nawet z moją szwankującą nogą, nigdy nie opuszczam miastowych festiwali.",
+          "AudioPath": "assets/pl/Marlon/24.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Nawet z moją szwankującą nogą, nigdy nie opuszczam miastowych festiwali."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Marlon_y2",
+          "DialogueText": "Polujesz na jajka szlamu? To jest prawdziwe wyzwanie...",
+          "AudioPath": "assets/pl/Marlon/25.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Polujesz na jajka szlamu? To jest prawdziwe wyzwanie..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Marlon",
+          "DialogueText": "Marnie dziś ładnie wygląda...",
+          "AudioPath": "assets/pl/Marlon/26.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Marnie dziś ładnie wygląda..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Marlon_y2",
+          "DialogueText": "Hmm. Wydawało mi się, że coś widziałem w wodzie. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Marlon/27.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm. Wydawało mi się, że coś widziałem w wodzie."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Marlon",
+          "DialogueText": "Posiedzę tu przy drzewach... Powietrze jest tutaj o wiele chłodniejsze.",
+          "AudioPath": "assets/pl/Marlon/28.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Posiedzę tu przy drzewach... Powietrze jest tutaj o wiele chłodniejsze."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Marlon_y2",
+          "DialogueText": "Cześć.",
+          "AudioPath": "assets/pl/Marlon/29.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Marlon_y2",
+          "DialogueText": "Zupy? Tańca? Nie, dzięki. Tu mi dobrze. Poza tym, ktoś musi czuwać na wypadek potwora... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Marlon/30.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Marlon_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Zupy? Tańca? Nie, dzięki. Tu mi dobrze. Poza tym, ktoś musi czuwać na wypadek potwora..."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Marlon_y2",
+          "DialogueText": "Może i zostało mi tylko jedno dobre oko, ale zapewniam, że zauważę każdą kreaturę czyhającą w ciemności.",
+          "AudioPath": "assets/pl/Marlon/31.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Może i zostało mi tylko jedno dobre oko, ale zapewniam, że zauważę każdą kreaturę czyhającą w ciemności."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Marlon",
+          "DialogueText": "Hej, dobry wieczór.",
+          "AudioPath": "assets/pl/Marlon/32.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, dobry wieczór."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Marlon_y2",
+          "DialogueText": "Hmm? O, witam. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Marlon/33.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm? O, witam."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Marlon_y2",
+          "DialogueText": "Nie zwracaj na mnie uwagi. Baw się dobrze.",
+          "AudioPath": "assets/pl/Marlon/34.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Marlon_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie zwracaj na mnie uwagi. Baw się dobrze."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Marlon",
+          "DialogueText": "Dobry wieczór.",
+          "AudioPath": "assets/pl/Marlon/35.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobry wieczór."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Marlon_y2",
+          "DialogueText": "Ta pora roku nie jest taka zła. Zero robali w zimie...",
+          "AudioPath": "assets/pl/Marlon/36.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Marlon_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ta pora roku nie jest taka zła. Zero robali w zimie..."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Marlon_y2",
+          "DialogueText": "Myślisz, że w tym roku pokonasz Williego? To mocny zawodnik...",
+          "AudioPath": "assets/pl/Marlon/37.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Marlon_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Myślisz, że w tym roku pokonasz Williego? To mocny zawodnik..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Closed",
+          "DialogueText": "Nadal się przygotowuje. Może przyjdziesz później?",
+          "AudioPath": "assets/pl/Marlon/38.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Closed",
+          "PageIndex": 0,
+          "DisplayPattern": "Nadal się przygotowuje. Może przyjdziesz później?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Intro",
+          "DialogueText": "Hej, {Farmer_Name}. Witam w Budce Wyzwań Gildii Awanturników.",
+          "AudioPath": "assets/pl/Marlon/39.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Intro",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Witam w Budce Wyzwań Gildii Awanturników."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Intro",
+          "DialogueText": "Codziennie będziemy mieli dla Ciebie parę wyzwań do wybrania. Skończ jedno, a gildia nagrodzi cie dużą ilością Jajek Calico.",
+          "AudioPath": "assets/pl/Marlon/40.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Intro",
+          "PageIndex": 1,
+          "DisplayPattern": "Codziennie będziemy mieli dla Ciebie parę wyzwań do wybrania. Skończ jedno, a gildia nagrodzi cie dużą ilością Jajek Calico."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Intro",
+          "DialogueText": "Gdy wybierzesz wyzwanie, nie możesz później go zmienić, więc wybieraj mądrze!",
+          "AudioPath": "assets/pl/Marlon/41.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Intro",
+          "PageIndex": 2,
+          "DisplayPattern": "Gdy wybierzesz wyzwanie, nie możesz później go zmienić, więc wybieraj mądrze!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_1",
+          "DialogueText": "Chcesz się sprawdzić, co?",
+          "AudioPath": "assets/pl/Marlon/42.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcesz się sprawdzić, co?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_1",
+          "DialogueText": "Mam dla Ciebie parę wyzwań, które mogą Ci w tym pomóc.",
+          "AudioPath": "assets/pl/Marlon/43.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam dla Ciebie parę wyzwań, które mogą Ci w tym pomóc."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_2",
+          "DialogueText": "Czujesz duszę awanturnika?",
+          "AudioPath": "assets/pl/Marlon/44.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Czujesz duszę awanturnika?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_2",
+          "DialogueText": "Dobrze, oto dzisiejsze wyzwania.",
+          "AudioPath": "assets/pl/Marlon/45.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobrze, oto dzisiejsze wyzwania."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_3",
+          "DialogueText": "Mam nadzieję, że Twoja broń jest w dobrym stanie.",
+          "AudioPath": "assets/pl/Marlon/46.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że Twoja broń jest w dobrym stanie."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_3",
+          "DialogueText": "Będzie Ci potrzebna na dzisiejsze wyzwania.",
+          "AudioPath": "assets/pl/Marlon/47.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_3",
+          "PageIndex": 1,
+          "DisplayPattern": "Będzie Ci potrzebna na dzisiejsze wyzwania."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_4",
+          "DialogueText": "Widzę odwagę w Twoich oczach.",
+          "AudioPath": "assets/pl/Marlon/48.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Widzę odwagę w Twoich oczach."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_4",
+          "DialogueText": "Co powiesz na małe wyzwanie?",
+          "AudioPath": "assets/pl/Marlon/49.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_4",
+          "PageIndex": 1,
+          "DisplayPattern": "Co powiesz na małe wyzwanie?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Challenge_Chosen",
+          "DialogueText": "Nadal pracujesz nad wyzwaniem, co?",
+          "AudioPath": "assets/pl/Marlon/50.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Challenge_Chosen",
+          "PageIndex": 0,
+          "DisplayPattern": "Nadal pracujesz nad wyzwaniem, co?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Challenge_Chosen",
+          "DialogueText": "Cóż, oto one, jeśli chcesz sobie przypomnieć.",
+          "AudioPath": "assets/pl/Marlon/51.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Challenge_Chosen",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, oto one, jeśli chcesz sobie przypomnieć."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Challenge_Finished",
+          "DialogueText": "Bardzo dobrze.",
+          "AudioPath": "assets/pl/Marlon/52.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Challenge_Finished",
+          "PageIndex": 0,
+          "DisplayPattern": "Bardzo dobrze."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Challenge_Finished",
+          "DialogueText": "Jutro będziemy mieć więcej wyzwań, więc odpocznij trochę.",
+          "AudioPath": "assets/pl/Marlon/53.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Challenge_Finished",
+          "PageIndex": 1,
+          "DisplayPattern": "Jutro będziemy mieć więcej wyzwań, więc odpocznij trochę."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Challenge_Finished_LastDay",
+          "DialogueText": "Hej, udało Ci się! Jestem pod wrażeniem.",
+          "AudioPath": "assets/pl/Marlon/54.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Challenge_Finished_LastDay",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, udało Ci się! Jestem pod wrażeniem."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Marlon_Challenge_Finished_LastDay",
+          "DialogueText": "To tyle na ten rok, będziemy tu z Gilem następnym razem.",
+          "AudioPath": "assets/pl/Marlon/55.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Marlon_Challenge_Finished_LastDay",
+          "PageIndex": 1,
+          "DisplayPattern": "To tyle na ten rok, będziemy tu z Gilem następnym razem."
+        },
+        {
+          "DialogueFrom": "AdventureGuild_Marlon_Greeting_Male",
+          "DialogueText": "Powrócił!",
+          "AudioPath": "assets/pl/Marlon/56.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting_Male",
+          "PageIndex": 0,
+          "DisplayPattern": "Powrócił!"
+        },
+        {
+          "DialogueFrom": "AdventureGuild_Marlon_Greeting_Female",
+          "DialogueText": "Powróciła!",
+          "AudioPath": "assets/pl/Marlon/57.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting_Female",
+          "PageIndex": 0,
+          "DisplayPattern": "Powróciła!"
+        },
+        {
+          "DialogueFrom": "AdventureGuild_Marlon_Greeting1",
+          "DialogueText": "Potrzebujesz nowego miecza?",
+          "AudioPath": "assets/pl/Marlon/58.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting1",
+          "PageIndex": 0,
+          "DisplayPattern": "Potrzebujesz nowego miecza?"
+        },
+        {
+          "DialogueFrom": "AdventureGuild_Marlon_Greeting2",
+          "DialogueText": "Witaj.",
+          "AudioPath": "assets/pl/Marlon/59.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting2",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj."
+        },
+        {
+          "DialogueFrom": "AdventureGuild_Marlon_Greeting3",
+          "DialogueText": "Gil, wstawaj! Mamy gościa.",
+          "AudioPath": "assets/pl/Marlon/60.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting3",
+          "PageIndex": 0,
+          "DisplayPattern": "Gil, wstawaj! Mamy gościa."
+        },
+        {
+          "DialogueFrom": "AdventureGuild_Marlon_Greeting4",
+          "DialogueText": "Dobry wieczór.",
+          "AudioPath": "assets/pl/Marlon/61.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting4",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobry wieczór."
+        }
+      ]
+    }
+  ]
+}

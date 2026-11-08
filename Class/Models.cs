@@ -4,10 +4,10 @@ namespace VoiceOverFrameworkMod
 {
     public class ModConfig
     {
-        /// <summary>Language of the voice pack to use when the game language has no pack of its own. Głos Serca ships a pt-BR-tagged Polish pack.</summary>
-        public string DefaultLanguage { get; set; } = "pt-BR";
-        /// <summary>Game language -> pack language. Lets the Polish pack (tagged pt-BR, used with the pt-BR "Podmiana" translation) also match the additional-language Polish mod (code "pl").</summary>
-        public Dictionary<string, string> LanguageAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["pl"] = "pt-BR" };
+        /// <summary>Language of the voice pack to use when the game language has no pack of its own. Głos Serca ships a Polish ("pl") pack.</summary>
+        public string DefaultLanguage { get; set; } = "pl";
+        /// <summary>Game language -> pack language. The "Podmiana" Polish translation replaces the game's pt-BR texts, so a game running in pt-BR shows Polish and should use the "pl" pack. The additional-language Polish mod reports "pl" directly.</summary>
+        public Dictionary<string, string> LanguageAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["pt-BR"] = "pl" };
         public float MasterVolume { get; set; } = 1.0f;
         public bool turnoffdialoguetypingsound = true;
         public bool FallbackToDefaultIfMissing { get; set; } = false;

@@ -1,0 +1,22 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Birdie.pl",
+      "VoicePackName": "Głos Serca (Birdie)",
+      "Character": "Birdie",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "ExtraDialogue/Birdie_NoGift",
+          "DialogueText": "Och, nie nie nie... Nie potrzebuję prezentów, drogie dziecko. Zatrzymaj to dla siebie.",
+          "AudioPath": "assets/pl/Birdie/1.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Birdie_NoGift",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, nie nie nie... Nie potrzebuję prezentów, drogie dziecko. Zatrzymaj to dla siebie."
+        }
+      ]
+    }
+  ]
+}

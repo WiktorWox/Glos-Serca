@@ -1,0 +1,606 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Dwarf.pl",
+      "VoicePackName": "Głos Serca (Dwarf)",
+      "Character": "Dwarf",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Hej, jak na człowieka, całkiem nieźle ci idzie kopanie.",
+          "AudioPath": "assets/pl/Dwarf/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Introduction",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, jak na człowieka, całkiem nieźle ci idzie kopanie."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "O! Czytałem o tej tradycji... to 'prezent urodzinowy', tak? Hmm, ciekawe...",
+          "AudioPath": "assets/pl/Dwarf/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:AcceptBirthdayGift_Positive",
+          "PageIndex": 0,
+          "DisplayPattern": "O! Czytałem o tej tradycji... to 'prezent urodzinowy', tak? Hmm, ciekawe..."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "O! Czytałem o tej tradycji... to 'prezent urodzinowy', tak?",
+          "AudioPath": "assets/pl/Dwarf/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:AcceptBirthdayGift_Negative",
+          "PageIndex": 0,
+          "DisplayPattern": "O! Czytałem o tej tradycji... to 'prezent urodzinowy', tak?"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Czy dawanie takich śmieci to też część tej tradycji?",
+          "AudioPath": "assets/pl/Dwarf/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:AcceptBirthdayGift_Negative",
+          "PageIndex": 1,
+          "DisplayPattern": "Czy dawanie takich śmieci to też część tej tradycji?"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Niezbyt dobrze widzę kolor zielony.",
+          "AudioPath": "assets/pl/Dwarf/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Niezbyt dobrze widzę kolor zielony."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Tak to jest, jak się zbyt długo siedzi pod ziemią.",
+          "AudioPath": "assets/pl/Dwarf/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:GreenRain",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak to jest, jak się zbyt długo siedzi pod ziemią."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "*niuch*... czy to mleko? *siorb*... hmm... smaczne.",
+          "AudioPath": "assets/pl/Dwarf/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*... czy to mleko? *siorb*... hmm... smaczne."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Zgarnąłem to wszystko z powierzchni. Biorę od twoich ludzi w nocy.",
+          "AudioPath": "assets/pl/Dwarf/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Zgarnąłem to wszystko z powierzchni. Biorę od twoich ludzi w nocy."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Hmm? Co to znaczy \"własność prywatna\"?",
+          "AudioPath": "assets/pl/Dwarf/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Hmm? Co to znaczy \"własność prywatna\"?"
+        },
+        {
+          "DialogueFrom": "AcceptGift_Neutral_milk_item",
+          "DialogueText": "Ach, 'mleko'... *siorb*... Ciekawe. Przypomnij mi... skąd dokładnie pochodzi ten napój?",
+          "AudioPath": "assets/pl/Dwarf/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:AcceptGift_Neutral_milk_item",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, 'mleko'... *siorb*... Ciekawe. Przypomnij mi... skąd dokładnie pochodzi ten napój?"
+        },
+        {
+          "DialogueFrom": "AcceptGift_Neutral_milk_item",
+          "DialogueText": "...!!! *stfuuu*",
+          "AudioPath": "assets/pl/Dwarf/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:AcceptGift_Neutral_milk_item",
+          "PageIndex": 1,
+          "DisplayPattern": "...!!! *stfuuu*"
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Ach... gulasz z jaskiniowej marchewki, smażona jaskiniowa marchewka, zupa z pieczonej jaskiniowej marchewki i zapiekana jaskiniowa marchewka.",
+          "AudioPath": "assets/pl/Dwarf/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... gulasz z jaskiniowej marchewki, smażona jaskiniowa marchewka, zupa z pieczonej jaskiniowej marchewki i zapiekana jaskiniowa marchewka."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "... I crème brûlée z jaskiniowej marchewki na osłodę nocy.",
+          "AudioPath": "assets/pl/Dwarf/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "... I crème brûlée z jaskiniowej marchewki na osłodę nocy."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Co?",
+          "AudioPath": "assets/pl/Dwarf/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "Co?"
+        },
+        {
+          "DialogueFrom": "firstVisit_IslandNorth",
+          "DialogueText": "Jeśli wejdziesz do wulkanu na Imbirowej Wyspie, możesz spotkać innych takich jak ja. Nie martw się! Jesteśmy przyjaźni wobec ludzi.",
+          "AudioPath": "assets/pl/Dwarf/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:firstVisit_IslandNorth",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli wejdziesz do wulkanu na Imbirowej Wyspie, możesz spotkać innych takich jak ja. Nie martw się! Jesteśmy przyjaźni wobec ludzi."
+        },
+        {
+          "DialogueFrom": "mineArea_121",
+          "DialogueText": "Wiesz co? Jak na człowieka, całkiem dobrze kopiesz.",
+          "AudioPath": "assets/pl/Dwarf/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:mineArea_121",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz co? Jak na człowieka, całkiem dobrze kopiesz."
+        },
+        {
+          "DialogueFrom": "fishCaught_158",
+          "DialogueText": "Och, złowiłeś szkaradnicę? Dobrze je znam. Czasem trzymamy je jako zwierzątka domowe.",
+          "AudioPath": "assets/pl/Dwarf/17_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:fishCaught_158",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, złowiłeś szkaradnicę? Dobrze je znam. Czasem trzymamy je jako zwierzątka domowe.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_158",
+          "DialogueText": "Och, złowiłaś szkaradnicę? Dobrze je znam. Czasem trzymamy je jako zwierzątka domowe.",
+          "AudioPath": "assets/pl/Dwarf/18_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:fishCaught_158",
+          "PageIndex": 1,
+          "DisplayPattern": "Och, złowiłaś szkaradnicę? Dobrze je znam. Czasem trzymamy je jako zwierzątka domowe.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_161",
+          "DialogueText": "Och, złowiłeś rybę sopel? To energiczne, małe rybki, mimo mroźnego środowiska, w którym żyją. Moi ludzie jednak unikają zimnych miejsc... za zimno!",
+          "AudioPath": "assets/pl/Dwarf/19_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:fishCaught_161",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, złowiłeś rybę sopel? To energiczne, małe rybki, mimo mroźnego środowiska, w którym żyją. Moi ludzie jednak unikają zimnych miejsc... za zimno!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_161",
+          "DialogueText": "Och, złowiłaś rybę sopel? To energiczne, małe rybki, mimo mroźnego środowiska, w którym żyją. Moi ludzie jednak unikają zimnych miejsc... za zimno!",
+          "AudioPath": "assets/pl/Dwarf/20_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:fishCaught_161",
+          "PageIndex": 1,
+          "DisplayPattern": "Och, złowiłaś rybę sopel? To energiczne, małe rybki, mimo mroźnego środowiska, w którym żyją. Moi ludzie jednak unikają zimnych miejsc... za zimno!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_162",
+          "DialogueText": "Och, złowiłeś magmowego węgorza? Świetnie! Łowienie ich to ważna część naszej kultury. Uważamy je za przysmak!!",
+          "AudioPath": "assets/pl/Dwarf/21_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:fishCaught_162",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, złowiłeś magmowego węgorza? Świetnie! Łowienie ich to ważna część naszej kultury. Uważamy je za przysmak!!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_162",
+          "DialogueText": "Och, złowiłaś magmowego węgorza? Świetnie! Łowienie ich to ważna część naszej kultury. Uważamy je za przysmak!!",
+          "AudioPath": "assets/pl/Dwarf/22_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:fishCaught_162",
+          "PageIndex": 1,
+          "DisplayPattern": "Och, złowiłaś magmowego węgorza? Świetnie! Łowienie ich to ważna część naszej kultury. Uważamy je za przysmak!!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "firstVisit_Caldera",
+          "DialogueText": "Znalazłeś legendarną krasnoludzką kuźnię? Niesamowite... Nigdy jej nie widziałem.",
+          "AudioPath": "assets/pl/Dwarf/23_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:firstVisit_Caldera",
+          "PageIndex": 0,
+          "DisplayPattern": "Znalazłeś legendarną krasnoludzką kuźnię? Niesamowite... Nigdy jej nie widziałem.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "firstVisit_Caldera",
+          "DialogueText": "Znalazłaś legendarną krasnoludzką kuźnię? Niesamowite... Nigdy jej nie widziałem.",
+          "AudioPath": "assets/pl/Dwarf/24_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:firstVisit_Caldera",
+          "PageIndex": 1,
+          "DisplayPattern": "Znalazłaś legendarną krasnoludzką kuźnię? Niesamowite... Nigdy jej nie widziałem.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "firstVisit_Caldera",
+          "DialogueText": "Ta maszyneria jest tak stara, że nikt z moich ludzi nie wie, jak działa. Ale z całą pewnością to krasnoludzka technologia.",
+          "AudioPath": "assets/pl/Dwarf/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:firstVisit_Caldera",
+          "PageIndex": 2,
+          "DisplayPattern": "Ta maszyneria jest tak stara, że nikt z moich ludzi nie wie, jak działa. Ale z całą pewnością to krasnoludzka technologia."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Hej, chcesz coś kupić?",
+          "AudioPath": "assets/pl/Dwarf/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, chcesz coś kupić?"
+        },
+        {
+          "DialogueFrom": "Wed_6",
+          "DialogueText": "Dawno temu moi ludzie znali sekrety zaawansowanej technologii. Odkrycia archeologiczne to potwierdzają.",
+          "AudioPath": "assets/pl/Dwarf/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Wed_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Dawno temu moi ludzie znali sekrety zaawansowanej technologii. Odkrycia archeologiczne to potwierdzają."
+        },
+        {
+          "DialogueFrom": "Wed_6",
+          "DialogueText": "Ale zastanawiam się, skąd ona pochodzi? I co się z nią stało? Chyba nie na wszystkie pytania znajdziemy odpowiedzi...",
+          "AudioPath": "assets/pl/Dwarf/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Wed_6",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale zastanawiam się, skąd ona pochodzi? I co się z nią stało? Chyba nie na wszystkie pytania znajdziemy odpowiedzi..."
+        },
+        {
+          "DialogueFrom": "Thu_4",
+          "DialogueText": "Najlepiej czuję się pod ziemią.",
+          "AudioPath": "assets/pl/Dwarf/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Thu_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Najlepiej czuję się pod ziemią."
+        },
+        {
+          "DialogueFrom": "Thu_4",
+          "DialogueText": "Im głębiej w jaskiniach, tym lepiej.",
+          "AudioPath": "assets/pl/Dwarf/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Thu_4",
+          "PageIndex": 1,
+          "DisplayPattern": "Im głębiej w jaskiniach, tym lepiej."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Co? Pierwszy raz widzisz krasnoluda?",
+          "AudioPath": "assets/pl/Dwarf/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Co? Pierwszy raz widzisz krasnoluda?"
+        },
+        {
+          "DialogueFrom": "Sat_8",
+          "DialogueText": "Kopalnie bywają zdradliwe. Uważaj na siebie, przyjacielu.",
+          "AudioPath": "assets/pl/Dwarf/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Sat_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Kopalnie bywają zdradliwe. Uważaj na siebie, przyjacielu."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Kopalnie są niebezpieczne. Może kupisz coś ode mnie, żeby poprawić swoje bezpieczeństwo?",
+          "AudioPath": "assets/pl/Dwarf/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Kopalnie są niebezpieczne. Może kupisz coś ode mnie, żeby poprawić swoje bezpieczeństwo?"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Kiedyś musisz mi opowiedzieć o tym trunku, który nazywacie \"mlekiem\".",
+          "AudioPath": "assets/pl/Dwarf/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedyś musisz mi opowiedzieć o tym trunku, który nazywacie \"mlekiem\"."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Nie jesteś przypadkiem szpiegiem wysłanym przez Cienistych, co?",
+          "AudioPath": "assets/pl/Dwarf/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie jesteś przypadkiem szpiegiem wysłanym przez Cienistych, co?"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Mam cię na oku, rozumiesz?",
+          "AudioPath": "assets/pl/Dwarf/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam cię na oku, rozumiesz?"
+        },
+        {
+          "DialogueFrom": "Fri_2",
+          "DialogueText": "Większość ludzi boi się nieznanego... dlatego ukryłem tu swój sklep.",
+          "AudioPath": "assets/pl/Dwarf/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Fri_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Większość ludzi boi się nieznanego... dlatego ukryłem tu swój sklep."
+        },
+        {
+          "DialogueFrom": "Fri_2",
+          "DialogueText": "Twoje górnicze umiejętności udowodniły, że można ci ufać.",
+          "AudioPath": "assets/pl/Dwarf/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Dwarf:Fri_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Twoje górnicze umiejętności udowodniły, że można ci ufać."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Deszcz... Dla nas to niemal mit. Niektórzy z nas nigdy go nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/39.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Deszcz... Dla nas to niemal mit. Niektórzy z nas nigdy go nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s0",
+          "DialogueText": "A Shadow Person, above ground? This is outrageous!",
+          "AudioPath": "assets/pl/Dwarf/40.ogg",
+          "TranslationKey": "Events/Sewer:691039:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "A Shadow Person, above ground? This is outrageous!"
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s1",
+          "DialogueText": "Your people were responsible for the death of my entire family.",
+          "AudioPath": "assets/pl/Dwarf/41.ogg",
+          "TranslationKey": "Events/Sewer:691039:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Your people were responsible for the death of my entire family."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s2",
+          "DialogueText": "'Sorry' isn't going to cut it.",
+          "AudioPath": "assets/pl/Dwarf/42.ogg",
+          "TranslationKey": "Events/Sewer:691039:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "'Sorry' isn't going to cut it."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s3",
+          "DialogueText": "Let me at him! He's despicable.",
+          "AudioPath": "assets/pl/Dwarf/43.ogg",
+          "TranslationKey": "Events/Sewer:691039:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Let me at him! He's despicable."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s4",
+          "DialogueText": "Very well. I'll stay away from the sewer from now on.",
+          "AudioPath": "assets/pl/Dwarf/44.ogg",
+          "TranslationKey": "Events/Sewer:691039:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Very well. I'll stay away from the sewer from now on."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Dwarf",
+          "DialogueText": "Mówisz, że na dworze pada deszcz? *Ooo*",
+          "AudioPath": "assets/pl/Dwarf/45.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że na dworze pada deszcz? *Ooo*"
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Dwarf",
+          "DialogueText": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/46.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Dwarf",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Dwarf_y2",
+          "DialogueText": "Zaciekawiło mnie to ludzkie zebranie... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Dwarf/47.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Dwarf_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaciekawiło mnie to ludzkie zebranie..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Dwarf_y2",
+          "DialogueText": "Proszę, nie mów nikomu. Chciałbym tu pozostać w ukryciu... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Dwarf/48.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Dwarf_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Proszę, nie mów nikomu. Chciałbym tu pozostać w ukryciu..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Dwarf",
+          "DialogueText": "Mówisz, że pada? *Ooo*",
+          "AudioPath": "assets/pl/Dwarf/49.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że pada? *Ooo*"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Dwarf",
+          "DialogueText": "Deszcz... Jest dla nas prawie mitem. Większość z nas nigdy go nie doświadczyła.",
+          "AudioPath": "assets/pl/Dwarf/50.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Dwarf",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... Jest dla nas prawie mitem. Większość z nas nigdy go nie doświadczyła."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Dwarf_y2",
+          "DialogueText": "To miejsce jest bardzo dziwne... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Dwarf/51.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Dwarf_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "To miejsce jest bardzo dziwne..."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Dwarf",
+          "DialogueText": "Mówisz, że na powierzchni pada? *Ooo*",
+          "AudioPath": "assets/pl/Dwarf/52.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że na powierzchni pada? *Ooo*"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Dwarf",
+          "DialogueText": "Deszcz... jest dla nas prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/53.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Dwarf",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... jest dla nas prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Dwarf",
+          "DialogueText": "Mówisz, że na powierzchni pada deszcz? *Ooo*",
+          "AudioPath": "assets/pl/Dwarf/54.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że na powierzchni pada deszcz? *Ooo*"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Dwarf",
+          "DialogueText": "Deszcz... dla nas jest prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/55.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Dwarf",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... dla nas jest prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Dwarf_y2",
+          "DialogueText": "Mówisz, że na powierzchni pada deszcz?",
+          "AudioPath": "assets/pl/Dwarf/56.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Dwarf_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że na powierzchni pada deszcz?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Dwarf_y2",
+          "DialogueText": "Deszcz... dla nas jest prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/57.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Dwarf_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... dla nas jest prawie mitem. Niektórzy z nas przez całe życie go nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Dwarf",
+          "DialogueText": "Mówisz, że pada na zewnątrz? *Ooo*",
+          "AudioPath": "assets/pl/Dwarf/58.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że pada na zewnątrz? *Ooo*"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Dwarf",
+          "DialogueText": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/59.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Dwarf",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Dwarf_y2",
+          "DialogueText": "Mówisz, że pada na zewnątrz? *głęboki wdech*",
+          "AudioPath": "assets/pl/Dwarf/60.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Dwarf_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że pada na zewnątrz? *głęboki wdech*"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Dwarf_y2",
+          "DialogueText": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/61.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Dwarf_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Dwarf",
+          "DialogueText": "Mówisz, że pada na zewnątrz? *Ooo*",
+          "AudioPath": "assets/pl/Dwarf/62.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Dwarf",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że pada na zewnątrz? *Ooo*"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Dwarf",
+          "DialogueText": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/63.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Dwarf",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Dwarf_y2",
+          "DialogueText": "Mówisz, że pada na zewnątrz? *głęboki wdech*",
+          "AudioPath": "assets/pl/Dwarf/64.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Dwarf_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówisz, że pada na zewnątrz? *głęboki wdech*"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Dwarf_y2",
+          "DialogueText": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają.",
+          "AudioPath": "assets/pl/Dwarf/65.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Dwarf_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Deszcz... Jest dla nas prawie mitem. Niektórzy z nas przez całe życie tego nie doświadczają."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Dwarf:s0",
+          "DialogueText": "Hej, uwielbiam takie rzeczy. Możesz znaleźć wspaniałe rzeczy w kopalniach.",
+          "AudioPath": "assets/pl/Dwarf/66.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Dwarf:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, uwielbiam takie rzeczy. Możesz znaleźć wspaniałe rzeczy w kopalniach."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Dwarf:s1",
+          "DialogueText": "Ach, to przypomina mi o domu.",
+          "AudioPath": "assets/pl/Dwarf/67.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Dwarf:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, to przypomina mi o domu."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Dwarf:s2",
+          "DialogueText": "Hmm... ludzie to lubią?",
+          "AudioPath": "assets/pl/Dwarf/68.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Dwarf:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... ludzie to lubią?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Dwarf:s3",
+          "DialogueText": "Nie obchodzi mnie z jakiego gatunku jesteś. To bezwartościowy śmieć.",
+          "AudioPath": "assets/pl/Dwarf/69.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Dwarf:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie obchodzi mnie z jakiego gatunku jesteś. To bezwartościowy śmieć."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Dwarf:s4",
+          "DialogueText": "Podarunek! Dziękuję.",
+          "AudioPath": "assets/pl/Dwarf/70.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Dwarf:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Podarunek! Dziękuję."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Dwarf_love_BeforeMovie",
+          "DialogueText": "O, wow! Pałac zbudowany wyłącznie w celu rozrywki!",
+          "AudioPath": "assets/pl/Dwarf/71.ogg",
+          "TranslationKey": "Strings/MovieReactions:Dwarf_love_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "O, wow! Pałac zbudowany wyłącznie w celu rozrywki!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Dwarf_love_DuringMovie",
+          "DialogueText": "Krasnolud wydaje się w głębokim transie...",
+          "AudioPath": "assets/pl/Dwarf/72.ogg",
+          "TranslationKey": "Strings/MovieReactions:Dwarf_love_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Krasnolud wydaje się w głębokim transie..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Dwarf_love_AfterMovie",
+          "DialogueText": "Nic z tego nie zrozumiałem, ale migające światła były fascynujące!",
+          "AudioPath": "assets/pl/Dwarf/73.ogg",
+          "TranslationKey": "Strings/MovieReactions:Dwarf_love_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nic z tego nie zrozumiałem, ale migające światła były fascynujące!"
+        }
+      ]
+    }
+  ]
+}
