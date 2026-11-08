@@ -155,7 +155,14 @@ namespace VoiceOverFrameworkMod
             if (!SelectedVoicePacks.TryGetValue(characterName, out string selectedVoicePackId) ||
                 string.IsNullOrEmpty(selectedVoicePackId) ||
                 selectedVoicePackId.Equals("None", StringComparison.OrdinalIgnoreCase))
-                return null;
+            {
+                // No explicit selection: use the same fallback as the text pipeline
+                // (default-language pack, else first pack) instead of staying silent.
+                var fallbackPack = GetSelectedVoicePack(characterName);
+                if (fallbackPack == null)
+                    return null;
+                selectedVoicePackId = fallbackPack.VoicePackId;
+            }
 
             // language selection (same as V1)
             string primaryLangStr = languageCode.ToString().ToLowerInvariant();
