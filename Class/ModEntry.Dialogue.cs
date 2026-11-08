@@ -149,6 +149,7 @@ namespace VoiceOverFrameworkMod
             packUsed = null;
             matchedKey = null;
 
+            characterName = ResolvePackCharacter(characterName);
             if (!VoicePacksByCharacter.TryGetValue(characterName, out var availablePacks) || !availablePacks.Any())
                 return null;
 

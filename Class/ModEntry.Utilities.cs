@@ -114,6 +114,17 @@ namespace VoiceOverFrameworkMod
         /// config LanguageAliases applied. Custom languages added by mods (LanguageCode.mod) report
         /// their own code (e.g. "pl") instead of collapsing to English.
         /// </summary>
+        /// <summary>Map an event actor name to the voiced character it stands for (see <see cref="ModConfig.ActorAliases"/>).</summary>
+        internal string ResolvePackCharacter(string actorName)
+        {
+            if (string.IsNullOrWhiteSpace(actorName))
+                return actorName;
+            var aliases = Config?.ActorAliases;
+            return aliases != null && aliases.TryGetValue(actorName, out var character) && !string.IsNullOrWhiteSpace(character)
+                ? character
+                : actorName;
+        }
+
         internal string GetGameLanguageTag(LocalizedContentManager.LanguageCode? code = null)
         {
             var lc = code ?? LocalizedContentManager.CurrentLanguageCode;

@@ -349,7 +349,9 @@ namespace VoiceOverFrameworkMod
 
         private VoicePack GetSelectedVoicePack(string characterName)
         {
-            if (!VoicePacksByCharacter.TryGetValue(characterName, out var list) || list == null || !list.Any())
+            characterName = ResolvePackCharacter(characterName);
+            if (string.IsNullOrWhiteSpace(characterName) ||
+                !VoicePacksByCharacter.TryGetValue(characterName, out var list) || list == null || !list.Any())
                 return null;
 
             // 1) explicit per-character selection from config wins
