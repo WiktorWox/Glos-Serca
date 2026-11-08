@@ -660,7 +660,7 @@ namespace VoiceOverFrameworkMod
                     pageZero,
                     currentDisplayedText: currentDisplayedString);
                 if (Config.developerModeOn)
-                    Monitor.Log($"[V2-EVENT] base='{eventBaseKey}' speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} page={pageZero} speaker='{currentSpeaker?.Name}'", LogLevel.Debug);
+                    Monitor.Log($"[V2-EVENT] base='{eventBaseKey}' speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} page={pageZero} speaker='{currentSpeaker?.Name}' displayed='{currentDisplayedString}'", LogLevel.Debug);
                 if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
                 {
                     string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
