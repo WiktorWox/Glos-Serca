@@ -310,6 +310,7 @@ namespace VoiceOverFrameworkMod
                 newInstance.Volume = Math.Clamp(gameVolume * masterVolume, 0.0f, 1.0f);
 
                 newInstance.Play();
+                Monitor.Log($"[PlayVoiceFromFile] Playing '{absoluteAudioFilePath}' (volume {newInstance.Volume:0.00})", LogLevel.Debug);
 
                 currentVoiceInstance = newInstance;
 
