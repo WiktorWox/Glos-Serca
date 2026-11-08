@@ -1,0 +1,1148 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Wizard.pt-BR",
+      "VoicePackName": "Głos Serca (Wizard)",
+      "Character": "Wizard",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Ach, tak. Już dawno temu przewidziałem twoje przybycie, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Wizard/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Introduction",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, tak. Już dawno temu przewidziałem twoje przybycie, ."
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Jednakże twój ostateczny los spoczywa w twoich rękach.",
+          "AudioPath": "assets/pt-BR/Wizard/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Introduction",
+          "PageIndex": 1,
+          "DisplayPattern": "Jednakże twój ostateczny los spoczywa w twoich rękach."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Ach, co my tu mamy? Rzadki i potężny eliksir, bynajmniej. Tak, będzie doskonałym dodatkiem do mojej skrzynki odczynników.",
+          "AudioPath": "assets/pt-BR/Wizard/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, co my tu mamy? Rzadki i potężny eliksir, bynajmniej. Tak, będzie doskonałym dodatkiem do mojej skrzynki odczynników."
+        },
+        {
+          "DialogueFrom": "accept_868",
+          "DialogueText": "Ach... Arktyczny odłamek.",
+          "AudioPath": "assets/pt-BR/Wizard/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:accept_868",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... Arktyczny odłamek."
+        },
+        {
+          "DialogueFrom": "accept_868",
+          "DialogueText": "Najpotężniejsza substancja, w istocie... Silnie nasycona żywiołem lodu.",
+          "AudioPath": "assets/pt-BR/Wizard/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:accept_868",
+          "PageIndex": 1,
+          "DisplayPattern": "Najpotężniejsza substancja, w istocie... Silnie nasycona żywiołem lodu."
+        },
+        {
+          "DialogueFrom": "accept_868",
+          "DialogueText": "Wezmę to, jeśli nie masz nic przeciwko.",
+          "AudioPath": "assets/pt-BR/Wizard/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:accept_868",
+          "PageIndex": 2,
+          "DisplayPattern": "Wezmę to, jeśli nie masz nic przeciwko."
+        },
+        {
+          "DialogueFrom": "accept_868",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Wizard/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:accept_868",
+          "PageIndex": 3,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "accept_868",
+          "DialogueText": "... Em... Nadal tu jesteś. Och... Chcesz coś w zamian?",
+          "AudioPath": "assets/pt-BR/Wizard/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:accept_868",
+          "PageIndex": 4,
+          "DisplayPattern": "... Em... Nadal tu jesteś. Och... Chcesz coś w zamian?"
+        },
+        {
+          "DialogueFrom": "accept_868",
+          "DialogueText": "... Weź to.",
+          "AudioPath": "assets/pt-BR/Wizard/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:accept_868",
+          "PageIndex": 5,
+          "DisplayPattern": "... Weź to."
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Hmm... Wydaje mi się, że mogę ci dotrzymać towarzystwa... Tak. Gdy już tam będziesz, pojawię się. Żegnam.",
+          "AudioPath": "assets/pt-BR/Wizard/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:MovieInvitation",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Wydaje mi się, że mogę ci dotrzymać towarzystwa... Tak. Gdy już tam będziesz, pojawię się. Żegnam."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Choć niezwykłe deszcze mogą budzić niepokój, nie ma się czego obawiać.",
+          "AudioPath": "assets/pt-BR/Wizard/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Choć niezwykłe deszcze mogą budzić niepokój, nie ma się czego obawiać."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "To w istocie dzień wielkiej radości dla żywych istot.",
+          "AudioPath": "assets/pt-BR/Wizard/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:GreenRain",
+          "PageIndex": 1,
+          "DisplayPattern": "To w istocie dzień wielkiej radości dla żywych istot."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Natura to potężna siła... nie lekceważ jej.",
+          "AudioPath": "assets/pt-BR/Wizard/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:GreenRain_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Natura to potężna siła... nie lekceważ jej."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Wybacz mi, ale mam sprawy, którymi mogę się zająć tylko dzisiaj.",
+          "AudioPath": "assets/pt-BR/Wizard/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:GreenRain_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Wybacz mi, ale mam sprawy, którymi mogę się zająć tylko dzisiaj."
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Małżeństwo... hmm? Życzę ci więcej szczęścia, niż ja zaznałem...",
+          "AudioPath": "assets/pt-BR/Wizard/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:married",
+          "PageIndex": 0,
+          "DisplayPattern": "Małżeństwo... hmm? Życzę ci więcej szczęścia, niż ja zaznałem..."
+        },
+        {
+          "DialogueFrom": "roommates_Krobus",
+          "DialogueText": "Życie z kimś takim jak Krobus to nie lada wyzwanie. Ale może przynieść satysfakcję obu stronom, jestem tego pewien.",
+          "AudioPath": "assets/pt-BR/Wizard/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:roommates_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Życie z kimś takim jak Krobus to nie lada wyzwanie. Ale może przynieść satysfakcję obu stronom, jestem tego pewien."
+        },
+        {
+          "DialogueFrom": "roommates_Krobus",
+          "DialogueText": "Przyznam, że ciekawi mnie rezultat tak niezwykłej przyjaźni.",
+          "AudioPath": "assets/pt-BR/Wizard/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:roommates_Krobus",
+          "PageIndex": 1,
+          "DisplayPattern": "Przyznam, że ciekawi mnie rezultat tak niezwykłej przyjaźni."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Ach, tak. Widziałem wiele na temat twojej przyszłości, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Wizard/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, tak. Widziałem wiele na temat twojej przyszłości, ."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Wyjawienie ci tych informacji mogłoby mieć poważne konsekwencje.",
+          "AudioPath": "assets/pt-BR/Wizard/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Wyjawienie ci tych informacji mogłoby mieć poważne konsekwencje."
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Poza granicami ludzkiej cywilizacji natura naprawdę ukazuje swoje tajemnice.",
+          "AudioPath": "assets/pt-BR/Wizard/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Mon4",
+          "PageIndex": 0,
+          "DisplayPattern": "Poza granicami ludzkiej cywilizacji natura naprawdę ukazuje swoje tajemnice."
+        },
+        {
+          "DialogueFrom": "Mon8",
+          "DialogueText": "Istnieją miejsca na świecie nieskażone ograniczeniami współczesnego myślenia, gdzie magia tętni życiem...",
+          "AudioPath": "assets/pt-BR/Wizard/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Mon8",
+          "PageIndex": 0,
+          "DisplayPattern": "Istnieją miejsca na świecie nieskażone ograniczeniami współczesnego myślenia, gdzie magia tętni życiem..."
+        },
+        {
+          "DialogueFrom": "Sat6",
+          "DialogueText": "Choć nauka potrafi dokładnie opisać materię świata, nigdy nie wyjaśni jego najgłębszych tajemnic...",
+          "AudioPath": "assets/pt-BR/Wizard/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sat6",
+          "PageIndex": 0,
+          "DisplayPattern": "Choć nauka potrafi dokładnie opisać materię świata, nigdy nie wyjaśni jego najgłębszych tajemnic..."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jeśli nie masz nic ważnego do powiedzenia, zostaw mnie w spokoju. Mam wiele pracy.",
+          "AudioPath": "assets/pt-BR/Wizard/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli nie masz nic ważnego do powiedzenia, zostaw mnie w spokoju. Mam wiele pracy."
+        },
+        {
+          "DialogueFrom": "Tue4",
+          "DialogueText": "Ufam ci na tyle, by pozwolić ci wejść do mojej piwnicy. Traktuj wszystko, co tam znajdziesz, z należytym szacunkiem.",
+          "AudioPath": "assets/pt-BR/Wizard/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Tue4",
+          "PageIndex": 0,
+          "DisplayPattern": "Ufam ci na tyle, by pozwolić ci wejść do mojej piwnicy. Traktuj wszystko, co tam znajdziesz, z należytym szacunkiem."
+        },
+        {
+          "DialogueFrom": "Tue8",
+          "DialogueText": "Uszanowanie, {Farmer_Name}. Wierzę, że nie zajmujesz się czarną magią?",
+          "AudioPath": "assets/pt-BR/Wizard/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Tue8",
+          "PageIndex": 0,
+          "DisplayPattern": "Uszanowanie, . Wierzę, że nie zajmujesz się czarną magią?"
+        },
+        {
+          "DialogueFrom": "Tue10",
+          "DialogueText": "Jeśli rzeczywistość jest tworem umysłu, to opanowując jego moc, można kontrolować rzeczywistość...",
+          "AudioPath": "assets/pt-BR/Wizard/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Tue10",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli rzeczywistość jest tworem umysłu, to opanowując jego moc, można kontrolować rzeczywistość..."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Zrozumienie języka żywiołów wymaga wielu lat.",
+          "AudioPath": "assets/pt-BR/Wizard/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Zrozumienie języka żywiołów wymaga wielu lat."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Aby jednak mówić ich językiem, trzeba poświęcić im całe życie i wysiłek.",
+          "AudioPath": "assets/pt-BR/Wizard/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Aby jednak mówić ich językiem, trzeba poświęcić im całe życie i wysiłek."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "A teraz, jeśli pozwolisz...",
+          "AudioPath": "assets/pt-BR/Wizard/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Wed",
+          "PageIndex": 2,
+          "DisplayPattern": "A teraz, jeśli pozwolisz..."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Wokół nas kryje się wiele zagadek. Potrzeba cierpliwości, by je odkryć.",
+          "AudioPath": "assets/pt-BR/Wizard/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Wokół nas kryje się wiele zagadek. Potrzeba cierpliwości, by je odkryć."
+        },
+        {
+          "DialogueFrom": "Thu10",
+          "DialogueText": "Nie mów nikomu... ale mam powody, by sądzić, że jedna z miejscowych może być moją córką...",
+          "AudioPath": "assets/pt-BR/Wizard/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Thu10",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mów nikomu... ale mam powody, by sądzić, że jedna z miejscowych może być moją córką..."
+        },
+        {
+          "DialogueFrom": "Thu10",
+          "DialogueText": "Mogę się mylić... Zdarza się to rzadko, ale jednak się zdarza.",
+          "AudioPath": "assets/pt-BR/Wizard/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Thu10",
+          "PageIndex": 1,
+          "DisplayPattern": "Mogę się mylić... Zdarza się to rzadko, ale jednak się zdarza."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Wierzę, że mieszkańcy się mnie boją.",
+          "AudioPath": "assets/pt-BR/Wizard/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Wierzę, że mieszkańcy się mnie boją."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "To przykre, lecz zrozumiałe... Ludzie lękają się nieznanego.",
+          "AudioPath": "assets/pt-BR/Wizard/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "To przykre, lecz zrozumiałe... Ludzie lękają się nieznanego."
+        },
+        {
+          "DialogueFrom": "Fri6",
+          "DialogueText": "Dawno temu byłem żonaty. Po rozwodzie moja żona zaczęła krążyć po miasteczku, rzucając zaklęcia na wszystko, co napotkała.",
+          "AudioPath": "assets/pt-BR/Wizard/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Fri6",
+          "PageIndex": 0,
+          "DisplayPattern": "Dawno temu byłem żonaty. Po rozwodzie moja żona zaczęła krążyć po miasteczku, rzucając zaklęcia na wszystko, co napotkała."
+        },
+        {
+          "DialogueFrom": "Fri6",
+          "DialogueText": "Niezbyt dojrzały sposób wyrażania gniewu.",
+          "AudioPath": "assets/pt-BR/Wizard/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Fri6",
+          "PageIndex": 1,
+          "DisplayPattern": "Niezbyt dojrzały sposób wyrażania gniewu."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Uważaj... Stoisz w polu silnej energii magicznej.",
+          "AudioPath": "assets/pt-BR/Wizard/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Uważaj... Stoisz w polu silnej energii magicznej."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Nie bez powodu zbudowałem swoją wieżę właśnie tutaj.",
+          "AudioPath": "assets/pt-BR/Wizard/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie bez powodu zbudowałem swoją wieżę właśnie tutaj."
+        },
+        {
+          "DialogueFrom": "Sat2",
+          "DialogueText": "Czy zrobiłeś już postępy w pracy z leśnymi żywiołami?",
+          "AudioPath": "assets/pt-BR/Wizard/39_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sat2",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy zrobiłeś już postępy w pracy z leśnymi żywiołami?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Sat2",
+          "DialogueText": "Czy zrobiłaś już postępy w pracy z leśnymi żywiołami?",
+          "AudioPath": "assets/pt-BR/Wizard/40_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sat2",
+          "PageIndex": 1,
+          "DisplayPattern": "Czy zrobiłaś już postępy w pracy z leśnymi żywiołami?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Czasami dyskretnie obserwuję mieszkańców.",
+          "AudioPath": "assets/pt-BR/Wizard/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Czasami dyskretnie obserwuję mieszkańców."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Mam nadzieję, że znajdę wśród nich ucznia. Pewnego dnia opuszczę tę śmiertelną powłokę, ale moje nauki muszą być kontynuowane.",
+          "AudioPath": "assets/pt-BR/Wizard/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Wizard:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam nadzieję, że znajdę wśród nich ucznia. Pewnego dnia opuszczę tę śmiertelną powłokę, ale moje nauki muszą być kontynuowane."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Burzowe dni to jedyny czas, kiedy mogę porozumieć się z niektórymi żywiołami.",
+          "AudioPath": "assets/pt-BR/Wizard/43.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Burzowe dni to jedyny czas, kiedy mogę porozumieć się z niektórymi żywiołami."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Wątpię, byś to zrozumiał.",
+          "AudioPath": "assets/pt-BR/Wizard/44_male.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Wizard",
+          "PageIndex": 1,
+          "DisplayPattern": "Wątpię, byś to zrozumiał.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Wątpię, byś to zrozumiała.",
+          "AudioPath": "assets/pt-BR/Wizard/45_female.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Wizard",
+          "PageIndex": 2,
+          "DisplayPattern": "Wątpię, byś to zrozumiała.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s0",
+          "DialogueText": "Ach... Wejdź.",
+          "AudioPath": "assets/pt-BR/Wizard/46.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... Wejdź."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s1",
+          "DialogueText": "Jestem Rasmodius... Poszukujący tajemniczych prawd.",
+          "AudioPath": "assets/pt-BR/Wizard/47.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem Rasmodius... Poszukujący tajemniczych prawd."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s2",
+          "DialogueText": "Osoba o ciele fizycznym jak i wiecznym.",
+          "AudioPath": "assets/pt-BR/Wizard/48.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Osoba o ciele fizycznym jak i wiecznym."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s3",
+          "DialogueText": "Mistrz siedmiu żywiołów.",
+          "AudioPath": "assets/pt-BR/Wizard/49.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Mistrz siedmiu żywiołów."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s4",
+          "DialogueText": "Opiekun św-... wiesz o co mi chodzi.",
+          "AudioPath": "assets/pt-BR/Wizard/50.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Opiekun św-... wiesz o co mi chodzi."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s5",
+          "DialogueText": "A Ty... {Farmer_Name}. Osoba, której przybycie przewidywałem od dawna.",
+          "AudioPath": "assets/pt-BR/Wizard/51.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "A Ty... . Osoba, której przybycie przewidywałem od dawna."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s6",
+          "DialogueText": "Podejdź, chcę Ci coś pokazać.",
+          "AudioPath": "assets/pt-BR/Wizard/52.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Podejdź, chcę Ci coś pokazać."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s7",
+          "DialogueText": "Spójrz!",
+          "AudioPath": "assets/pt-BR/Wizard/53.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Spójrz!"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s8",
+          "DialogueText": "Widziałeś to stworzenie, prawda?",
+          "AudioPath": "assets/pt-BR/Wizard/54_male.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałeś to stworzenie, prawda?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s9",
+          "DialogueText": "Widziałaś to stworzenie, prawda?",
+          "AudioPath": "assets/pt-BR/Wizard/55_female.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałaś to stworzenie, prawda?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s10",
+          "DialogueText": "Nazywają siebie 'Junimo'...",
+          "AudioPath": "assets/pt-BR/Wizard/56.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Nazywają siebie 'Junimo'..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s11",
+          "DialogueText": "Tajemnicze dusze... z jakiegoś powodu, nie chcą ze mną rozmawiać.",
+          "AudioPath": "assets/pt-BR/Wizard/57.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Tajemnicze dusze... z jakiegoś powodu, nie chcą ze mną rozmawiać."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s12",
+          "DialogueText": "Nie jestem do końca pewien, czemu wprowadziły się do domu kultury, ale nie musisz się ich bać.",
+          "AudioPath": "assets/pt-BR/Wizard/58.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie jestem do końca pewien, czemu wprowadziły się do domu kultury, ale nie musisz się ich bać."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s13",
+          "DialogueText": "Hmmm? Znalazłeś złoty zwój napisany w nieznanym języku?",
+          "AudioPath": "assets/pt-BR/Wizard/59_male.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm? Znalazłeś złoty zwój napisany w nieznanym języku?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s14",
+          "DialogueText": "Hmmm? Znalazłaś złoty zwój napisany w nieznanym języku?",
+          "AudioPath": "assets/pt-BR/Wizard/60_female.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm? Znalazłaś złoty zwój napisany w nieznanym języku?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s15",
+          "DialogueText": "Fascynujące...",
+          "AudioPath": "assets/pt-BR/Wizard/61.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Fascynujące..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s16",
+          "DialogueText": "Zaczekaj. Sam to sprawdzę. Za chwilę wrócę.",
+          "AudioPath": "assets/pt-BR/Wizard/62.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaczekaj. Sam to sprawdzę. Za chwilę wrócę."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s17",
+          "DialogueText": "Znalazłem zapisek...",
+          "AudioPath": "assets/pt-BR/Wizard/63.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Znalazłem zapisek..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s18",
+          "DialogueText": "Język jest niejasny, ale udało mi się go rozszyfrować:",
+          "AudioPath": "assets/pt-BR/Wizard/64.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "Język jest niejasny, ale udało mi się go rozszyfrować:"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s19",
+          "DialogueText": "My, Junimo, chętnie Ci pomożemy. W zamian prosimy o prezenty z doliny. Jeśli jesteś z lasem, dostrzeżesz prawdziwą naturę tego zwoju.",
+          "AudioPath": "assets/pt-BR/Wizard/65.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "My, Junimo, chętnie Ci pomożemy. W zamian prosimy o prezenty z doliny. Jeśli jesteś z lasem, dostrzeżesz prawdziwą naturę tego zwoju."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s20",
+          "DialogueText": "Hmm... 'Jeśli jesteś z lasem'... Co to może oznaczać?",
+          "AudioPath": "assets/pt-BR/Wizard/66.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s20",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... 'Jeśli jesteś z lasem'... Co to może oznaczać?"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s21",
+          "DialogueText": "...*niuch*...*niuch*...",
+          "AudioPath": "assets/pt-BR/Wizard/67.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s21",
+          "PageIndex": 0,
+          "DisplayPattern": "...*niuch*...*niuch*..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s22",
+          "DialogueText": "A-ha! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/68.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s22",
+          "PageIndex": 0,
+          "DisplayPattern": "A-ha!"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s23",
+          "DialogueText": "Podejdź! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/69.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s23",
+          "PageIndex": 0,
+          "DisplayPattern": "Podejdź!"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s24",
+          "DialogueText": "W moim kotle jest wywar ze składnikami lasu. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/70.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s24",
+          "PageIndex": 0,
+          "DisplayPattern": "W moim kotle jest wywar ze składnikami lasu."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s25",
+          "DialogueText": "Młoda paproć, mech żarłoczny, karmelowy muchomor... Czujesz? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/71.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s25",
+          "PageIndex": 0,
+          "DisplayPattern": "Młoda paproć, mech żarłoczny, karmelowy muchomor... Czujesz?"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s26",
+          "DialogueText": "Proszę. Napij się. Niech esencja lasu wniknie w Twoje ciało. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/72.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s26",
+          "PageIndex": 0,
+          "DisplayPattern": "Proszę. Napij się. Niech esencja lasu wniknie w Twoje ciało."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/112:s27",
+          "DialogueText": "Otrzymujesz moc magii lasu! Możesz odkryć prawdziwe znaczenie zwojów junimo.",
+          "AudioPath": "assets/pt-BR/Wizard/73.ogg",
+          "TranslationKey": "Events/WizardHouse:112:s27",
+          "PageIndex": 0,
+          "DisplayPattern": "Otrzymujesz moc magii lasu! Możesz odkryć prawdziwe znaczenie zwojów junimo."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s0",
+          "DialogueText": "Masz mój atrament! Wspaniale.",
+          "AudioPath": "assets/pt-BR/Wizard/74.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz mój atrament! Wspaniale."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s1",
+          "DialogueText": "Emm...",
+          "AudioPath": "assets/pt-BR/Wizard/75.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Emm..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s2",
+          "DialogueText": "Czy... spotkałeś ją?",
+          "AudioPath": "assets/pt-BR/Wizard/76_male.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy... spotkałeś ją?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s3",
+          "DialogueText": "Czy... spotkałaś ją?",
+          "AudioPath": "assets/pt-BR/Wizard/77_female.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy... spotkałaś ją?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s4",
+          "DialogueText": "Nie? Cóż, a co z jej domem...?",
+          "AudioPath": "assets/pt-BR/Wizard/78.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie? Cóż, a co z jej domem...?"
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s5",
+          "DialogueText": "Myślisz, że mieszka sama? Czy... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/79.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślisz, że mieszka sama? Czy..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s6",
+          "DialogueText": "... W sumie, to nic nie mów... Nie chcę wiedzieć.",
+          "AudioPath": "assets/pt-BR/Wizard/80.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "... W sumie, to nic nie mów... Nie chcę wiedzieć."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s7",
+          "DialogueText": "Pewnie zastanawiasz się co z Twoją nagrodą. Proszę...",
+          "AudioPath": "assets/pt-BR/Wizard/81.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie zastanawiasz się co z Twoją nagrodą. Proszę..."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s8",
+          "DialogueText": "To księga przywoływania.",
+          "AudioPath": "assets/pt-BR/Wizard/82.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "To księga przywoływania."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s9",
+          "DialogueText": "Tajemniczy potencjał tej książki jest trudny do zrozumienia... ale ułatwię Ci to.",
+          "AudioPath": "assets/pt-BR/Wizard/83.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Tajemniczy potencjał tej książki jest trudny do zrozumienia... ale ułatwię Ci to."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s10",
+          "DialogueText": "Używając tej książki, możesz przywołać magiczne budowle na swoją farmę.",
+          "AudioPath": "assets/pt-BR/Wizard/84.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Używając tej książki, możesz przywołać magiczne budowle na swoją ę."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s11",
+          "DialogueText": "Na pewno Ci się przyda.",
+          "AudioPath": "assets/pt-BR/Wizard/85.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Na pewno Ci się przyda."
+        },
+        {
+          "DialogueFrom": "Event/WizardHouse/418172:s12",
+          "DialogueText": "Och, prawie zapomniałem powiedzieć... ekhem... Dziękuję.",
+          "AudioPath": "assets/pt-BR/Wizard/86.ogg",
+          "TranslationKey": "Events/WizardHouse:418172:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, prawie zapomniałem powiedzieć... ekhem... Dziękuję."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s0",
+          "DialogueText": "Cisza! Obydwaj!",
+          "AudioPath": "assets/pt-BR/Wizard/87.ogg",
+          "TranslationKey": "Events/Sewer:691039:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Cisza! Obydwaj!"
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s1",
+          "DialogueText": "Wojny żywiołów dawno się skończyły. Nie macie powodów do dalszych walk.",
+          "AudioPath": "assets/pt-BR/Wizard/88.ogg",
+          "TranslationKey": "Events/Sewer:691039:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Wojny żywiołów dawno się skończyły. Nie macie powodów do dalszych walk."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s2",
+          "DialogueText": "Musicie się pogodzić ze względu na ludzi, którzy tu mieszkają. Zapewne już to zauważyliście.",
+          "AudioPath": "assets/pt-BR/Wizard/89.ogg",
+          "TranslationKey": "Events/Sewer:691039:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Musicie się pogodzić ze względu na ludzi, którzy tu mieszkają. Zapewne już to zauważyliście."
+        },
+        {
+          "DialogueFrom": "Event/Sewer/691039:s3",
+          "DialogueText": "Bardzo dobrze. Rzucę na was 'Pieczęć Obietnicy' żeby potwierdzić tę umowę.",
+          "AudioPath": "assets/pt-BR/Wizard/90.ogg",
+          "TranslationKey": "Events/Sewer:691039:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Bardzo dobrze. Rzucę na was 'Pieczęć Obietnicy' żeby potwierdzić tę umowę."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s0",
+          "DialogueText": "Ach... {Farmer_Name}. Czekałem na Ciebie.",
+          "AudioPath": "assets/pt-BR/Wizard/91.ogg",
+          "TranslationKey": "Events/Railroad:529952:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... . Czekałem na Ciebie."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s1",
+          "DialogueText": "Czy wspominałem, że byłem kiedyś żonaty?",
+          "AudioPath": "assets/pt-BR/Wizard/92.ogg",
+          "TranslationKey": "Events/Railroad:529952:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy wspominałem, że byłem kiedyś żonaty?"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s2",
+          "DialogueText": "Dziwne, wiem... jak na takiego faceta jak ja. Ale to prawda.",
+          "AudioPath": "assets/pt-BR/Wizard/93.ogg",
+          "TranslationKey": "Events/Railroad:529952:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziwne, wiem... jak na takiego faceta jak ja. Ale to prawda."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s3",
+          "DialogueText": "Wiele lat ze sobą chodziliśmy, dopóki... dopóki nie popełniłem błędu, przez który odeszła.",
+          "AudioPath": "assets/pt-BR/Wizard/94.ogg",
+          "TranslationKey": "Events/Railroad:529952:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiele lat ze sobą chodziliśmy, dopóki... dopóki nie popełniłem błędu, przez który odeszła."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s4",
+          "DialogueText": "Jej złość i zazdrość były tak ogromne, że jej skóra zzieleniała i zaczęła biegać dookoła wsi, rzucając klątwy na wszystko co spotkała...",
+          "AudioPath": "assets/pt-BR/Wizard/95.ogg",
+          "TranslationKey": "Events/Railroad:529952:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Jej złość i zazdrość były tak ogromne, że jej skóra zzieleniała i zaczęła biegać dookoła wsi, rzucając klątwy na wszystko co spotkała..."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s5",
+          "DialogueText": "Gdy się o tym dowiedziałem, zamknąłem przejście do jej domu... żeby żaden z mieszkańców nie mógł paść ofiarą jej czarnej magii.",
+          "AudioPath": "assets/pt-BR/Wizard/96.ogg",
+          "TranslationKey": "Events/Railroad:529952:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy się o tym dowiedziałem, zamknąłem przejście do jej domu... żeby żaden z mieszkańców nie mógł paść ofiarą jej czarnej magii."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s6",
+          "DialogueText": "Jednak teraz, muszę je otworzyć... gdy się rozstaliśmy zabrała z sobą moje magiczne pióro!",
+          "AudioPath": "assets/pt-BR/Wizard/97.ogg",
+          "TranslationKey": "Events/Railroad:529952:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Jednak teraz, muszę je otworzyć... gdy się rozstaliśmy zabrała z sobą moje magiczne pióro!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s7",
+          "DialogueText": "Muszę je odzyskać! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Wizard/98.ogg",
+          "TranslationKey": "Events/Railroad:529952:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Muszę je odzyskać!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s8",
+          "DialogueText": "Zrobiłbym to sam, ale... nie chcę jej znowu widzieć. Dlatego też potrzebuję Twojej pomocy.",
+          "AudioPath": "assets/pt-BR/Wizard/99.ogg",
+          "TranslationKey": "Events/Railroad:529952:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Zrobiłbym to sam, ale... nie chcę jej znowu widzieć. Dlatego też potrzebuję Twojej pomocy."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s9",
+          "DialogueText": "Aby to zrobić, potrzebny Ci będzie mroczny talizman. Idź do Krobusa, do kanałów... powinien wiedzieć gdzie takowy znaleźć.",
+          "AudioPath": "assets/pt-BR/Wizard/100.ogg",
+          "TranslationKey": "Events/Railroad:529952:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Aby to zrobić, potrzebny Ci będzie mroczny talizman. Idź do Krobusa, do kanałów... powinien wiedzieć gdzie takowy znaleźć."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/529952:s10",
+          "DialogueText": "Liczę na Ciebie... jeśli odzyskasz moje magiczne pióro, obiecuję, że solidnie Ci to wynagrodzę... idź już!",
+          "AudioPath": "assets/pt-BR/Wizard/101.ogg",
+          "TranslationKey": "Events/Railroad:529952:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Liczę na Ciebie... jeśli odzyskasz moje magiczne pióro, obiecuję, że solidnie Ci to wynagrodzę... idź już!"
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard",
+          "DialogueText": "Welwick i ja znamy się od dłuższego czasu... Jest wybitną wróżbitką i dobrą przyjaciółką.",
+          "AudioPath": "assets/pt-BR/Wizard/102.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Welwick i ja znamy się od dłuższego czasu... Jest wybitną wróżbitką i dobrą przyjaciółką."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Wizard/103.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard",
+          "PageIndex": 1,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard",
+          "DialogueText": "Ten klaun... Skądś go znam.",
+          "AudioPath": "assets/pt-BR/Wizard/104.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard",
+          "PageIndex": 2,
+          "DisplayPattern": "Ten klaun... Skądś go znam."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard",
+          "DialogueText": "Był w szkole iluzji? A może w Karnawale Tajemnic? Hmm...",
+          "AudioPath": "assets/pt-BR/Wizard/105.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard",
+          "PageIndex": 3,
+          "DisplayPattern": "Był w szkole iluzji? A może w Karnawale Tajemnic? Hmm..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard_y2",
+          "DialogueText": "Jeśli zechcesz zajrzeć przez mgły jutra, porozmawiaj z moją przyjaciółką Welwick. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Wizard/106.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli zechcesz zajrzeć przez mgły jutra, porozmawiaj z moją przyjaciółką Welwick."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard_y2",
+          "DialogueText": "Ma niecodzienny dar...",
+          "AudioPath": "assets/pt-BR/Wizard/107.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Ma niecodzienny dar..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Wizard_y2",
+          "DialogueText": "Ten młodzieniec pod drzewem wydawał się zaintrygowany jej lekturą, ale nawet z moimi mocami, nie mogę zgłębić najskrytszych tajemnic serca... {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Wizard/108.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Wizard_y2",
+          "PageIndex": 2,
+          "DisplayPattern": "Ten młodzieniec pod drzewem wydawał się zaintrygowany jej lekturą, ale nawet z moimi mocami, nie mogę zgłębić najskrytszych tajemnic serca..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Wizard",
+          "DialogueText": "Sprawy przyziemnego ludu niewiele dla mnie znaczą, ale czarodzieje lubią, gdy mają szansę zobaczyć was z bliska.",
+          "AudioPath": "assets/pt-BR/Wizard/109.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Sprawy przyziemnego ludu niewiele dla mnie znaczą, ale czarodzieje lubią, gdy mają szansę zobaczyć was z bliska."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Wizard",
+          "DialogueText": "To dla nich stworzyłem ten głupi labirynt.",
+          "AudioPath": "assets/pt-BR/Wizard/110.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Wizard",
+          "PageIndex": 1,
+          "DisplayPattern": "To dla nich stworzyłem ten głupi labirynt."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Wizard_y2",
+          "DialogueText": "Prób ciąg dalszy... Każdy mag musi mieć ucznia...",
+          "AudioPath": "assets/pt-BR/Wizard/111.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Prób ciąg dalszy... Każdy mag musi mieć ucznia..."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Wizard",
+          "DialogueText": "Hmm... a gdzie są surowe jajka jaszczurki polane poczerniałym szpikiem?",
+          "AudioPath": "assets/pt-BR/Wizard/112.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... a gdzie są surowe jajka jaszczurki polane poczerniałym szpikiem?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Wizard",
+          "DialogueText": "Nie powinno cie tu być.",
+          "AudioPath": "assets/pt-BR/Wizard/113.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie powinno cie tu być."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Wizard_y2",
+          "DialogueText": "Hmm? Jak się tu wspiąłeś? {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Wizard/114_male.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm? Jak się tu wspiąłeś?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Wizard_y2",
+          "DialogueText": "Hmm? Jak się tu wspięłaś? {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Wizard/115_female.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Wizard_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Hmm? Jak się tu wspięłaś?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Wizard",
+          "DialogueText": "Morscy ludzie są ciekawi waszego święta.",
+          "AudioPath": "assets/pt-BR/Wizard/116.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Morscy ludzie są ciekawi waszego święta."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Wizard",
+          "DialogueText": "Są źli, gdy wrzucacie śmieci do oceanu.",
+          "AudioPath": "assets/pt-BR/Wizard/117.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Wizard",
+          "PageIndex": 1,
+          "DisplayPattern": "Są źli, gdy wrzucacie śmieci do oceanu."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Wizard_y2",
+          "DialogueText": "W czeluściach oceanu jest wiele tajemnic czekających tylko na odkrycie. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Wizard/118.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "W czeluściach oceanu jest wiele tajemnic czekających tylko na odkrycie."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Wizard",
+          "DialogueText": "Myślałem, że jestem dobrze schowany.",
+          "AudioPath": "assets/pt-BR/Wizard/119.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślałem, że jestem dobrze schowany."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Wizard",
+          "DialogueText": "Pewnie jesteś osobą pobłogosławioną darem jasnowidzenia.",
+          "AudioPath": "assets/pt-BR/Wizard/120.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Wizard",
+          "PageIndex": 1,
+          "DisplayPattern": "Pewnie jesteś osobą pobłogosławioną darem jasnowidzenia."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Wizard",
+          "DialogueText": "Jestem tu, aby obserwować Lunaloo... albo 'Meduzy Księżycowego Światła', jak to wy na nie mówicie. Mają niezwykle silną aurę magiczną wodnych form życia.",
+          "AudioPath": "assets/pt-BR/Wizard/121.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Wizard",
+          "PageIndex": 2,
+          "DisplayPattern": "Jestem tu, aby obserwować Lunaloo... albo 'Meduzy Księżycowego Światła', jak to wy na nie mówicie. Mają niezwykle silną aurę magiczną wodnych form życia."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Wizard_y2",
+          "DialogueText": "Świecące jaja Lunaloo są silnym odczynnikiem...",
+          "AudioPath": "assets/pt-BR/Wizard/122.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Świecące jaja Lunaloo są silnym odczynnikiem..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Wizard",
+          "DialogueText": "Ach, tajemnicza Gwiazda Polarna. Jeden z wielu powodów, dla którego wybrałem to miejsce do moich... badań.",
+          "AudioPath": "assets/pt-BR/Wizard/123.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, tajemnicza Gwiazda Polarna. Jeden z wielu powodów, dla którego wybrałem to miejsce do moich... badań."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Wizard_y2",
+          "DialogueText": "Ach, tajemnicza Gwiazda Polarna. Jeden z powodów, przez który wybrałem dolinę jako lokacje do moich... badań.",
+          "AudioPath": "assets/pt-BR/Wizard/124.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, tajemnicza Gwiazda Polarna. Jeden z powodów, przez który wybrałem dolinę jako lokacje do moich... badań."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Wizard",
+          "DialogueText": "Wykradasz się, by odwiedzić moją dziwną wieżę? Jesteś dziwny jak na miejscowego.",
+          "AudioPath": "assets/pt-BR/Wizard/125.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Wizard",
+          "PageIndex": 0,
+          "DisplayPattern": "Wykradasz się, by odwiedzić moją dziwną wieżę? Jesteś dziwny jak na miejscowego."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Wizard_y2",
+          "DialogueText": "Hmm? Jak ty się tu znalazłeś?",
+          "AudioPath": "assets/pt-BR/Wizard/126_male.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Wizard_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm? Jak ty się tu znalazłeś?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Wizard_y2",
+          "DialogueText": "Hmm? Jak ty się tu znalazłaś?",
+          "AudioPath": "assets/pt-BR/Wizard/127_female.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Wizard_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Hmm? Jak ty się tu znalazłaś?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Wizard_y2",
+          "DialogueText": "Nie zwracaj na mnie uwagi. Ja tylko oglądam...",
+          "AudioPath": "assets/pt-BR/Wizard/128.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Wizard_y2",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie zwracaj na mnie uwagi. Ja tylko oglądam..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Wizard:s0",
+          "DialogueText": "Ach, to jest nasycone potężną, tajemniczą energią. Przyda się w moich badaniach. Dziękuję!",
+          "AudioPath": "assets/pt-BR/Wizard/129.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Wizard:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, to jest nasycone potężną, tajemniczą energią. Przyda się w moich badaniach. Dziękuję!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Wizard:s1",
+          "DialogueText": "Wielkie dzięki. Ten przedmiot ma bardzo interesujące proporcje.",
+          "AudioPath": "assets/pt-BR/Wizard/130.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Wizard:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Wielkie dzięki. Ten przedmiot ma bardzo interesujące proporcje."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Wizard:s2",
+          "DialogueText": "To?... Chyba rzucę na to czar płomieni.",
+          "AudioPath": "assets/pt-BR/Wizard/131.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Wizard:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "To?... Chyba rzucę na to czar płomieni."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Wizard:s3",
+          "DialogueText": "Ughh... Ta rzecz jest całkowicie przyziemna. Proszę, w przyszłości nie zawracaj mi głowy takimi błahostkami.",
+          "AudioPath": "assets/pt-BR/Wizard/132.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Wizard:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Ughh... Ta rzecz jest całkowicie przyziemna. Proszę, w przyszłości nie zawracaj mi głowy takimi błahostkami."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Wizard:s4",
+          "DialogueText": "Dziękuję. Może się przydać... tak mi się wydaje.",
+          "AudioPath": "assets/pt-BR/Wizard/133.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Wizard:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję. Może się przydać... tak mi się wydaje."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Wizard_Hatch",
+          "DialogueText": "Gdzie idziesz? Tylko osoby godne mojego zaufania mają tam wstęp.",
+          "AudioPath": "assets/pt-BR/Wizard/134.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Wizard_Hatch",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdzie idziesz? Tylko osoby godne mojego zaufania mają tam wstęp."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Wizard_fall_movie_0_BeforeMovie",
+          "DialogueText": "Poczułem dziś tajemną moc przenikającą przez ten budynek...",
+          "AudioPath": "assets/pt-BR/Wizard/135.ogg",
+          "TranslationKey": "Strings/MovieReactions:Wizard_fall_movie_0_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Poczułem dziś tajemną moc przenikającą przez ten budynek..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Wizard_fall_movie_0_DuringMovie",
+          "DialogueText": "I pomyśleć, że laik nie wiedział, że to wszystko jest surowe, realistyczne!",
+          "AudioPath": "assets/pt-BR/Wizard/136.ogg",
+          "TranslationKey": "Strings/MovieReactions:Wizard_fall_movie_0_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "I pomyśleć, że laik nie wiedział, że to wszystko jest surowe, realistyczne!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Wizard_fall_movie_0_DuringMovie_2",
+          "DialogueText": "Widzisz błysk w oku Czarodzieja...",
+          "AudioPath": "assets/pt-BR/Wizard/137.ogg",
+          "TranslationKey": "Strings/MovieReactions:Wizard_fall_movie_0_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Widzisz błysk w oku Czarodzieja..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Wizard_fall_movie_0_AfterMovie",
+          "DialogueText": "Dla świadomych ezoterycznych tajemnic miało to głębokie znaczenie...",
+          "AudioPath": "assets/pt-BR/Wizard/138.ogg",
+          "TranslationKey": "Strings/MovieReactions:Wizard_fall_movie_0_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Dla świadomych ezoterycznych tajemnic miało to głębokie znaczenie..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Wizard_*_BeforeMovie",
+          "DialogueText": "...",
+          "AudioPath": "assets/pt-BR/Wizard/139.ogg",
+          "TranslationKey": "Strings/MovieReactions:Wizard_*_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Wizard_*_AfterMovie",
+          "DialogueText": "Odciągasz mnie od moich badań na takie coś?",
+          "AudioPath": "assets/pt-BR/Wizard/140.ogg",
+          "TranslationKey": "Strings/MovieReactions:Wizard_*_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Odciągasz mnie od moich badań na takie coś?"
+        }
+      ]
+    }
+  ]
+}

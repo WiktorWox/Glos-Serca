@@ -1,0 +1,1464 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Clint.pt-BR",
+      "VoicePackName": "Głos Serca (Clint)",
+      "Character": "Clint",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Em... Cześć. Jestem Clint.",
+          "AudioPath": "assets/pt-BR/Clint/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Introduction",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... Cześć. Jestem Clint."
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Jestem lokalnym kowalem. Jeśli potrzebujesz ulepszyć narzędzia, mogę Ci pomóc.",
+          "AudioPath": "assets/pt-BR/Clint/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Introduction",
+          "PageIndex": 1,
+          "DisplayPattern": "Jestem lokalnym kowalem. Jeśli potrzebujesz ulepszyć narzędzia, mogę Ci pomóc."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "Zwykle nie dostaję prezentów urodzinowych. To wiele dla mnie znaczy, {Farmer_Name}. Dziękuję.",
+          "AudioPath": "assets/pt-BR/Clint/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:AcceptBirthdayGift_Positive",
+          "PageIndex": 0,
+          "DisplayPattern": "Zwykle nie dostaję prezentów urodzinowych. To wiele dla mnie znaczy, . Dziękuję."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "To prezent urodzinowy? To, em... ciekawy wybór. Cóż... i tak dziękuję za pamięć.",
+          "AudioPath": "assets/pt-BR/Clint/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:AcceptBirthdayGift_Negative",
+          "PageIndex": 0,
+          "DisplayPattern": "To prezent urodzinowy? To, em... ciekawy wybór. Cóż... i tak dziękuję za pamięć."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Dajesz to... mnie? Raczej nie zasłużyłem, ale... dziękuję.",
+          "AudioPath": "assets/pt-BR/Clint/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Dajesz to... mnie? Raczej nie zasłużyłem, ale... dziękuję."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)SkillBook_3",
+          "DialogueText": "Oo, ciekawe... Trudno tu o takie książki.",
+          "AudioPath": "assets/pt-BR/Clint/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:AcceptGift_(O)SkillBook_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Oo, ciekawe... Trudno tu o takie książki."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)SkillBook_3",
+          "DialogueText": "Dużo w nich dobrych porad. Dzięki, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Clint/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:AcceptGift_(O)SkillBook_3",
+          "PageIndex": 1,
+          "DisplayPattern": "Dużo w nich dobrych porad. Dzięki, ."
+        },
+        {
+          "DialogueFrom": "mineArea_40",
+          "DialogueText": "Ach, po obdrapaniach na Twoim kilofie widzę, że dotarłeś do głębszych części kopalni.",
+          "AudioPath": "assets/pt-BR/Clint/8_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:mineArea_40",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, po obdrapaniach na Twoim kilofie widzę, że dotarłeś do głębszych części kopalni.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "mineArea_40",
+          "DialogueText": "Ach, po obdrapaniach na Twoim kilofie widzę, że dotarłaś do głębszych części kopalni.",
+          "AudioPath": "assets/pt-BR/Clint/9_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:mineArea_40",
+          "PageIndex": 1,
+          "DisplayPattern": "Ach, po obdrapaniach na Twoim kilofie widzę, że dotarłaś do głębszych części kopalni.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "mineArea_40",
+          "DialogueText": "Jeśli trudniej Ci rozbijać kamienie, warto ulepszyć kilof. W tym mogę Ci pomóc.",
+          "AudioPath": "assets/pt-BR/Clint/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:mineArea_40",
+          "PageIndex": 2,
+          "DisplayPattern": "Jeśli trudniej Ci rozbijać kamienie, warto ulepszyć kilof. W tym mogę Ci pomóc."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "W takich sytuacjach prawdziwy charakter człowieka zostaje wystawiony na próbę.",
+          "AudioPath": "assets/pt-BR/Clint/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "W takich sytuacjach prawdziwy charakter człowieka zostaje wystawiony na próbę."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Schowaa... znaczy się, obronię wszystkich przed toksycznym deszczem!",
+          "AudioPath": "assets/pt-BR/Clint/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRain",
+          "PageIndex": 1,
+          "DisplayPattern": "Schowaa... znaczy się, obronię wszystkich przed toksycznym deszczem!"
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Cóż, to trochę niewypał. A już myślałem, że w końcu będę miał szansę zostać bohaterem. No cóż... wracam do kamienia szlifierskiego.",
+          "AudioPath": "assets/pt-BR/Clint/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRainFinished",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, to trochę niewypał. A już myślałem, że w końcu będę miał szansę zostać bohaterem. No cóż... wracam do kamienia szlifierskiego."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Ciężko mi się do tego przyznać, ale czasami chciałbym, żeby wydarzyło się coś gorszego, a nie jakiś głupi zielony deszcz.",
+          "AudioPath": "assets/pt-BR/Clint/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRain_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciężko mi się do tego przyznać, ale czasami chciałbym, żeby wydarzyło się coś gorszego, a nie jakiś głupi zielony deszcz."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Coś z przytupem?",
+          "AudioPath": "assets/pt-BR/Clint/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRain_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Coś z przytupem?"
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Nie to, że chcę, by komuś stała się krzywda...",
+          "AudioPath": "assets/pt-BR/Clint/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRain_2",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie to, że chcę, by komuś stała się krzywda..."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Chciałbym poczuć, że żyję... że mam jakiś cel.",
+          "AudioPath": "assets/pt-BR/Clint/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:GreenRain_2",
+          "PageIndex": 3,
+          "DisplayPattern": "Chciałbym poczuć, że żyję... że mam jakiś cel."
+        },
+        {
+          "DialogueFrom": "mineArea_121",
+          "DialogueText": "Ciekawe. Na Twoim kilofie są płatki irydu... jaskinia na pustyni, co?",
+          "AudioPath": "assets/pt-BR/Clint/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:mineArea_121",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciekawe. Na Twoim kilofie są płatki irydu... jaskinia na pustyni, co?"
+        },
+        {
+          "DialogueFrom": "mineArea_121",
+          "DialogueText": "Zawsze chciałem porobić coś z tego materiału. Niełatwo go zdobyć.",
+          "AudioPath": "assets/pt-BR/Clint/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:mineArea_121",
+          "PageIndex": 1,
+          "DisplayPattern": "Zawsze chciałem porobić coś z tego materiału. Niełatwo go zdobyć."
+        },
+        {
+          "DialogueFrom": "eventSeen_101_memory_oneweek",
+          "DialogueText": "Czy Emily wspominała coś o naszej randce?",
+          "AudioPath": "assets/pt-BR/Clint/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:eventSeen_101_memory_oneweek",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy Emily wspominała coś o naszej randce?"
+        },
+        {
+          "DialogueFrom": "eventSeen_101_memory_oneweek",
+          "DialogueText": "Czekaj, nie mów mi... lepiej żebym nie wiedział. Może uda mi się jeszcze ocalić godność. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:eventSeen_101_memory_oneweek",
+          "PageIndex": 1,
+          "DisplayPattern": "Czekaj, nie mów mi... lepiej żebym nie wiedział. Może uda mi się jeszcze ocalić godność."
+        },
+        {
+          "DialogueFrom": "dating_Emily",
+          "DialogueText": "Ja... Ee... Słyszałem, że Ty i Emily jesteście razem. Gratuluję. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:dating_Emily",
+          "PageIndex": 0,
+          "DisplayPattern": "Ja... Ee... Słyszałem, że Ty i Emily jesteście razem. Gratuluję."
+        },
+        {
+          "DialogueFrom": "married_Emily",
+          "DialogueText": "Clint patrzy na podłogę i nic nie mówi.",
+          "AudioPath": "assets/pt-BR/Clint/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:married_Emily",
+          "PageIndex": 0,
+          "DisplayPattern": "Clint patrzy na podłogę i nic nie mówi."
+        },
+        {
+          "DialogueFrom": "divorced_Emily",
+          "DialogueText": "Ostatnio poczułem dziwny przypływ nadziei.",
+          "AudioPath": "assets/pt-BR/Clint/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:divorced_Emily",
+          "PageIndex": 0,
+          "DisplayPattern": "Ostatnio poczułem dziwny przypływ nadziei."
+        },
+        {
+          "DialogueFrom": "Resort_Entering",
+          "DialogueText": "Założę swoje specjalne czerwone kąpielówki. Powinny przyciągać wzrok.",
+          "AudioPath": "assets/pt-BR/Clint/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Entering",
+          "PageIndex": 0,
+          "DisplayPattern": "Założę swoje specjalne czerwone kąpielówki. Powinny przyciągać wzrok."
+        },
+        {
+          "DialogueFrom": "Resort_Leaving",
+          "DialogueText": "Cóż... Nie wyszło tak, jak sobie wyobrażałem...",
+          "AudioPath": "assets/pt-BR/Clint/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Leaving",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż... Nie wyszło tak, jak sobie wyobrażałem..."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "No nie... Zapomniałem obciąć paznokci u stóp. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Shore",
+          "PageIndex": 0,
+          "DisplayPattern": "No nie... Zapomniałem obciąć paznokci u stóp."
+        },
+        {
+          "DialogueFrom": "Resort_Shore_2",
+          "DialogueText": "Myślałem, że praca przy piecu przygotuje mnie na taki upał, ale pocę się w miejscach, o których mi się nie śniło. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Shore_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślałem, że praca przy piecu przygotuje mnie na taki upał, ale pocę się w miejscach, o których mi się nie śniło."
+        },
+        {
+          "DialogueFrom": "Resort_Shore_2",
+          "DialogueText": "Mam nadzieję, że nikt nie zauważy...",
+          "AudioPath": "assets/pt-BR/Clint/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Shore_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam nadzieję, że nikt nie zauważy..."
+        },
+        {
+          "DialogueFrom": "Resort_Shore_2",
+          "DialogueText": "Ciało Clinta lśni...",
+          "AudioPath": "assets/pt-BR/Clint/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Shore_2",
+          "PageIndex": 2,
+          "DisplayPattern": "Ciało Clinta lśni..."
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "Ał... Strasznie się spaliłem... Ał. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Chair",
+          "PageIndex": 0,
+          "DisplayPattern": "Ał... Strasznie się spaliłem... Ał."
+        },
+        {
+          "DialogueFrom": "Resort_Bar",
+          "DialogueText": "Jestem głodny... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort_Bar",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem głodny..."
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "*Ech*... Wszyscy jesteśmy na plaży, a ja i tak czuję się samotny... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Resort",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*... Wszyscy jesteśmy na plaży, a ja i tak czuję się samotny..."
+        },
+        {
+          "DialogueFrom": "reject_868",
+          "DialogueText": "Hmm... Ciekawy kamień, jeszcze takiego nie widziałem.",
+          "AudioPath": "assets/pt-BR/Clint/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:reject_868",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Ciekawy kamień, jeszcze takiego nie widziałem."
+        },
+        {
+          "DialogueFrom": "reject_868",
+          "DialogueText": "Nie wiem, co z nim zrobić. Zajmuję się przyziemnymi sprawami, nie magią...",
+          "AudioPath": "assets/pt-BR/Clint/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:reject_868",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie wiem, co z nim zrobić. Zajmuję się przyziemnymi sprawami, nie magią..."
+        },
+        {
+          "DialogueFrom": "cc_Minecart",
+          "DialogueText": "W dziwny sposób stary system wózków kopalnianych znów działa. Teraz wyprawa do kopalni i z powrotem jest o wiele wygodniejsza.",
+          "AudioPath": "assets/pt-BR/Clint/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:cc_Minecart",
+          "PageIndex": 0,
+          "DisplayPattern": "W dziwny sposób stary system wózków kopalnianych znów działa. Teraz wyprawa do kopalni i z powrotem jest o wiele wygodniejsza."
+        },
+        {
+          "DialogueFrom": "cc_Minecart",
+          "DialogueText": "Nie przyzwyczajaj się za bardzo... skoro nagle zaczęło działać, równie nagle może przestać...",
+          "AudioPath": "assets/pt-BR/Clint/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:cc_Minecart",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie przyzwyczajaj się za bardzo... skoro nagle zaczęło działać, równie nagle może przestać..."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Tak. Jestem kowalem.",
+          "AudioPath": "assets/pt-BR/Clint/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak. Jestem kowalem."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Mój ojciec też był kowalem.",
+          "AudioPath": "assets/pt-BR/Clint/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Mój ojciec też był kowalem."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Na pewno nie zgadniesz, kim był mój pradziadek...",
+          "AudioPath": "assets/pt-BR/Clint/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 2,
+          "DisplayPattern": "Na pewno nie zgadniesz, kim był mój pradziadek..."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Kowalem.",
+          "AudioPath": "assets/pt-BR/Clint/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 3,
+          "DisplayPattern": "Kowalem."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Pajacem.",
+          "AudioPath": "assets/pt-BR/Clint/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 4,
+          "DisplayPattern": "Pajacem."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Sarkastycznym palantem.",
+          "AudioPath": "assets/pt-BR/Clint/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 5,
+          "DisplayPattern": "Sarkastycznym palantem."
+        },
+        {
+          "DialogueFrom": "Mon_old",
+          "DialogueText": "Tak, mój pradziadek również był kowalem.",
+          "AudioPath": "assets/pt-BR/Clint/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon_old",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, mój pradziadek również był kowalem."
+        },
+        {
+          "DialogueFrom": "Mon_9",
+          "DialogueText": "Skąd to wiesz? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Skąd to wiesz?"
+        },
+        {
+          "DialogueFrom": "Mon_clown",
+          "DialogueText": "Ha ha ha. Dobre. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon_clown",
+          "PageIndex": 0,
+          "DisplayPattern": "Ha ha ha. Dobre."
+        },
+        {
+          "DialogueFrom": "Mon_rude",
+          "DialogueText": "Wow. To nie było miłe. Chciałem być zabawny, a Ty przesadzasz.",
+          "AudioPath": "assets/pt-BR/Clint/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon_rude",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow. To nie było miłe. Chciałem być zabawny, a Ty przesadzasz."
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Ciesz się, że jesteś farmerem, {Farmer_Name}. Lepiej pracować na świeżym powietrzu niż cały dzień przy gorącym piecu.",
+          "AudioPath": "assets/pt-BR/Clint/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon4",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciesz się, że jesteś erem, . Lepiej pracować na świeżym powietrzu niż cały dzień przy gorącym piecu."
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Jestem kowalem tylko dlatego, że ojciec mnie do tego zmusił.",
+          "AudioPath": "assets/pt-BR/Clint/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon4",
+          "PageIndex": 1,
+          "DisplayPattern": "Jestem kowalem tylko dlatego, że ojciec mnie do tego zmusił."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jeśli chcesz, żebym ulepszył Twoje narzędzia, przynieś mi kilka sztabek wybranego materiału.",
+          "AudioPath": "assets/pt-BR/Clint/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli chcesz, żebym ulepszył Twoje narzędzia, przynieś mi kilka sztabek wybranego materiału."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Oczywiście — nie za darmo.",
+          "AudioPath": "assets/pt-BR/Clint/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Oczywiście — nie za darmo."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Hej. Czego Ci trzeba?",
+          "AudioPath": "assets/pt-BR/Clint/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Czego Ci trzeba?"
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "O, cześć, {Farmer_Name}. Przepraszam, jeśli wyglądam niechlujnie. Od rana pracuję przy piecu. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Wed6",
+          "PageIndex": 0,
+          "DisplayPattern": "O, cześć, . Przepraszam, jeśli wyglądam niechlujnie. Od rana pracuję przy piecu."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Potrzebujesz czegoś, czy po prostu mnie odwiedzasz?",
+          "AudioPath": "assets/pt-BR/Clint/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Wed6",
+          "PageIndex": 1,
+          "DisplayPattern": "Potrzebujesz czegoś, czy po prostu mnie odwiedzasz?"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Biznes ostatnio się nie kręci.",
+          "AudioPath": "assets/pt-BR/Clint/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Biznes ostatnio się nie kręci."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Może chcesz coś ulepszyć? Potrzebuję pieniędzy.",
+          "AudioPath": "assets/pt-BR/Clint/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Może chcesz coś ulepszyć? Potrzebuję pieniędzy."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Słyszałem, że Emily ma przyjaciółkę, która mieszka na pustyni. Wiesz coś o niej?",
+          "AudioPath": "assets/pt-BR/Clint/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Thu8",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałem, że Emily ma przyjaciółkę, która mieszka na pustyni. Wiesz coś o niej?"
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Zastanawiam się, czy jest singielką... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Thu8",
+          "PageIndex": 1,
+          "DisplayPattern": "Zastanawiam się, czy jest singielką..."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Pogoda mnie teraz nie obchodzi. Zazwyczaj cały rok jestem przy moim sklepie.",
+          "AudioPath": "assets/pt-BR/Clint/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Pogoda mnie teraz nie obchodzi. Zazwyczaj cały rok jestem przy moim sklepie."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Smutne, co?",
+          "AudioPath": "assets/pt-BR/Clint/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Smutne, co?"
+        },
+        {
+          "DialogueFrom": "Fri8",
+          "DialogueText": "Powinienem zacząć oszczędzać na komputer...",
+          "AudioPath": "assets/pt-BR/Clint/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Fri8",
+          "PageIndex": 0,
+          "DisplayPattern": "Powinienem zacząć oszczędzać na komputer..."
+        },
+        {
+          "DialogueFrom": "Fri8",
+          "DialogueText": "Może znajdę sobie dziewczynę przez 'internet'... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Fri8",
+          "PageIndex": 1,
+          "DisplayPattern": "Może znajdę sobie dziewczynę przez 'internet'..."
+        },
+        {
+          "DialogueFrom": "Fri8",
+          "DialogueText": "Co? Nie oceniaj! Nie każdy jest fajnym, atrakcyjnym, towarzyskim farmerem, wiesz? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Fri8",
+          "PageIndex": 2,
+          "DisplayPattern": "Co? Nie oceniaj! Nie każdy jest fajnym, atrakcyjnym, towarzyskim erem, wiesz?"
+        },
+        {
+          "DialogueFrom": "Fri8",
+          "DialogueText": "Co ma niby zrobić ktoś taki jak ja? *stęk* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Fri8",
+          "PageIndex": 3,
+          "DisplayPattern": "Co ma niby zrobić ktoś taki jak ja? *stęk*"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Czasami zastanawiam się, jak w ogóle trafiłem do tego miasta. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Czasami zastanawiam się, jak w ogóle trafiłem do tego miasta."
+        },
+        {
+          "DialogueFrom": "Sat6",
+          "DialogueText": "A niech mnie... Jestem za stary, żeby robić coś ciekawego. Jedyne, co mi pozostało, to lata ciężkiej pracy przy piecach.",
+          "AudioPath": "assets/pt-BR/Clint/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sat6",
+          "PageIndex": 0,
+          "DisplayPattern": "A niech mnie... Jestem za stary, żeby robić coś ciekawego. Jedyne, co mi pozostało, to lata ciężkiej pracy przy piecach."
+        },
+        {
+          "DialogueFrom": "Sat10",
+          "DialogueText": "Jak się trzymają Twoje narzędzia?",
+          "AudioPath": "assets/pt-BR/Clint/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sat10",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak się trzymają Twoje narzędzia?"
+        },
+        {
+          "DialogueFrom": "Sat10",
+          "DialogueText": "Jeśli trzeba coś naprawić, przyjdź do mojej kuźni. Gwarantuję, że posłużą Ci przez całe życie!",
+          "AudioPath": "assets/pt-BR/Clint/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sat10",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli trzeba coś naprawić, przyjdź do mojej kuźni. Gwarantuję, że posłużą Ci przez całe życie!"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Nie masz nic do roboty?",
+          "AudioPath": "assets/pt-BR/Clint/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie masz nic do roboty?"
+        },
+        {
+          "DialogueFrom": "Sun4",
+          "DialogueText": "Jak się trzymają Twoje narzędzia?",
+          "AudioPath": "assets/pt-BR/Clint/70.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sun4",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak się trzymają Twoje narzędzia?"
+        },
+        {
+          "DialogueFrom": "Sun8",
+          "DialogueText": "Nie wiem, czy ludzie to zauważają, albo czy ich to obchodzi, ale jestem bardzo dumny ze swojej pracy.",
+          "AudioPath": "assets/pt-BR/Clint/71.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sun8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wiem, czy ludzie to zauważają, albo czy ich to obchodzi, ale jestem bardzo dumny ze swojej pracy."
+        },
+        {
+          "DialogueFrom": "Sun8",
+          "DialogueText": "Gdy byłem małym chłopcem, nie myślałem o zostaniu kowalem. Ale teraz nim jestem. I chcę być najlepszym kowalem, jakim mogę zostać.",
+          "AudioPath": "assets/pt-BR/Clint/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Sun8",
+          "PageIndex": 1,
+          "DisplayPattern": "Gdy byłem małym chłopcem, nie myślałem o zostaniu kowalem. Ale teraz nim jestem. I chcę być najlepszym kowalem, jakim mogę zostać."
+        },
+        {
+          "DialogueFrom": "event_advice1",
+          "DialogueText": "Ok... Zapamiętam to.",
+          "AudioPath": "assets/pt-BR/Clint/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:event_advice1",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok... Zapamiętam to."
+        },
+        {
+          "DialogueFrom": "event_advice2",
+          "DialogueText": "W tym cały problem... zachowuję się naturalnie... a i tak nigdy mi się nie udało. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:event_advice2",
+          "PageIndex": 0,
+          "DisplayPattern": "W tym cały problem... zachowuję się naturalnie... a i tak nigdy mi się nie udało."
+        },
+        {
+          "DialogueFrom": "Mon8",
+          "DialogueText": "Ciężko mi się do tego przyznać, ale czasem cieszę się, że ojciec zmusił mnie do zostania kowalem. Przynajmniej mam zawód.",
+          "AudioPath": "assets/pt-BR/Clint/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon8",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciężko mi się do tego przyznać, ale czasem cieszę się, że ojciec zmusił mnie do zostania kowalem. Przynajmniej mam zawód."
+        },
+        {
+          "DialogueFrom": "Mon8",
+          "DialogueText": "Gdybym nie miał pracy, prawdopodobnie całymi dniami siedziałbym i użalał się nad sobą. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon8",
+          "PageIndex": 1,
+          "DisplayPattern": "Gdybym nie miał pracy, prawdopodobnie całymi dniami siedziałbym i użalał się nad sobą."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "To może być dobry dzień na eksplorację kopalni... Kto wie, może znajdziesz jakieś rzadkie rudy.",
+          "AudioPath": "assets/pt-BR/Clint/77.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "To może być dobry dzień na eksplorację kopalni... Kto wie, może znajdziesz jakieś rzadkie rudy."
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s0",
+          "DialogueText": "Uh... Hi there. Good morning.",
+          "AudioPath": "assets/pt-BR/Clint/78.ogg",
+          "TranslationKey": "Events/Farm:992553:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Uh... Hi there. Good morning."
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s1",
+          "DialogueText": "I noticed that you've been breaking some rocks open and finding ore. That's good!",
+          "AudioPath": "assets/pt-BR/Clint/79.ogg",
+          "TranslationKey": "Events/Farm:992553:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "I noticed that you've been breaking some rocks open and finding ore. That's good!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s2",
+          "DialogueText": "If you want to get the most out of the ores you find, you'll need a furnace.",
+          "AudioPath": "assets/pt-BR/Clint/80.ogg",
+          "TranslationKey": "Events/Farm:992553:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "If you want to get the most out of the ores you find, you'll need a furnace."
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s3",
+          "DialogueText": "Just so happens I had an extra set of blueprints lying around. Here, I want you to have them.",
+          "AudioPath": "assets/pt-BR/Clint/81.ogg",
+          "TranslationKey": "Events/Farm:992553:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Just so happens I had an extra set of blueprints lying around. Here, I want you to have them."
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s4",
+          "DialogueText": "Learned how to craft a 'Furnace'",
+          "AudioPath": "assets/pt-BR/Clint/82.ogg",
+          "TranslationKey": "Events/Farm:992553:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Learned how to craft a 'Furnace'"
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s5",
+          "DialogueText": "The furnace allows you to smelt metal bars. The bars can be used for crafting, construction, and tool upgrades.",
+          "AudioPath": "assets/pt-BR/Clint/83.ogg",
+          "TranslationKey": "Events/Farm:992553:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "The furnace allows you to smelt metal bars. The bars can be used for crafting, construction, and tool upgrades."
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s6",
+          "DialogueText": "When you've smelted a few copper bars, consider having me upgrade one of your tools. It can make your work a lot easier.",
+          "AudioPath": "assets/pt-BR/Clint/84.ogg",
+          "TranslationKey": "Events/Farm:992553:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "When you've smelted a few copper bars, consider having me upgrade one of your tools. It can make your work a lot easier."
+        },
+        {
+          "DialogueFrom": "Event/Farm/992553:s7",
+          "DialogueText": "Well, okay. I'm heading home. Take it easy.",
+          "AudioPath": "assets/pt-BR/Clint/85.ogg",
+          "TranslationKey": "Events/Farm:992553:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Well, okay. I'm heading home. Take it easy."
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s0",
+          "DialogueText": "I... I... Uh...",
+          "AudioPath": "assets/pt-BR/Clint/86.ogg",
+          "TranslationKey": "Events/Town:831125:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "I... I... Uh..."
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s1",
+          "DialogueText": "I'm sorry! {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/87.ogg",
+          "TranslationKey": "Events/Town:831125:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm sorry!"
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s2",
+          "DialogueText": "It's hard to remember my lines when her face is right in front of me like that... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/88.ogg",
+          "TranslationKey": "Events/Town:831125:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "It's hard to remember my lines when her face is right in front of me like that..."
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s3",
+          "DialogueText": "No! It's not like that... This is just something I have to do. It's very important to me.",
+          "AudioPath": "assets/pt-BR/Clint/89.ogg",
+          "TranslationKey": "Events/Town:831125:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "No! It's not like that... This is just something I have to do. It's very important to me."
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s4",
+          "DialogueText": "I've just got to try new 'Joja Bluu' cola. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Clint/90.ogg",
+          "TranslationKey": "Events/Town:831125:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "I've just got to try new 'Joja Bluu' cola."
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s5",
+          "DialogueText": "It's got three times the sorbitol for a thick, sweet blast. And it's cheaper than water! {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Clint/91.ogg",
+          "TranslationKey": "Events/Town:831125:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "It's got three s the sorbitol for a thick, sweet blast. And it's cheaper than water!"
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s6",
+          "DialogueText": "Have no fear, my dear. The world-class science team at Joja Headquarters have determined that 'Joja Bluu' does not cause a significant erosion of the stomach lining. So you can drink it whenever you like, as much as you like. {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Clint/92.ogg",
+          "TranslationKey": "Events/Town:831125:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Have no fear, my dear. The world-class science team at Joja Headquarters have determined that 'Joja Bluu' does not cause a significant erosion of the stomach lining. So you can drink it whenever you like, as much as you like."
+        },
+        {
+          "DialogueFrom": "Event/Town/831125:s7",
+          "DialogueText": "The real question is... 'When will YOU turn bluu?'... *glug* *glug*... Ahh... {Portrait:Angry}",
+          "AudioPath": "assets/pt-BR/Clint/93.ogg",
+          "TranslationKey": "Events/Town:831125:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "The real question is... 'When will YOU turn bluu?'... *glug* *glug*... Ahh..."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s0",
+          "DialogueText": "{Farmer_Name}! {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/94.ogg",
+          "TranslationKey": "Events/Town:101:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "!"
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s1",
+          "DialogueText": "...You caught me. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/95.ogg",
+          "TranslationKey": "Events/Town:101:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "...You caught me."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s2",
+          "DialogueText": "I was planning to ask Emily on a date. I was at her doorstep and everything... but then I heard her coming and I dove into this bush. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/96.ogg",
+          "TranslationKey": "Events/Town:101:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "I was planning to ask Emily on a date. I was at her doorstep and everything... but then I heard her coming and I dove into this bush."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s3",
+          "DialogueText": "Now I'm waiting until she's done talking with Caroline so I can sneak back into my house. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/97.ogg",
+          "TranslationKey": "Events/Town:101:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Now I'm waiting until she's done talking with Caroline so I can sneak back into my house."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s4",
+          "DialogueText": "What did you just say? You'll never upgrade your tools again if I don't ask her out? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/98.ogg",
+          "TranslationKey": "Events/Town:101:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "What did you just say? You'll never upgrade your tools again if I don't ask her out?"
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s5",
+          "DialogueText": "You're a villain, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Clint/99.ogg",
+          "TranslationKey": "Events/Town:101:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "You're a villain, ."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s6",
+          "DialogueText": "*sigh* ...alright, I'll do it. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/100.ogg",
+          "TranslationKey": "Events/Town:101:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "*sigh* ...alright, I'll do it."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s7",
+          "DialogueText": "I gotta remember that advice {Farmer_Name} gave me in the saloon.",
+          "AudioPath": "assets/pt-BR/Clint/101.ogg",
+          "TranslationKey": "Events/Town:101:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "I gotta remember that advice gave me in the saloon."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s8",
+          "DialogueText": "Um... Emily?",
+          "AudioPath": "assets/pt-BR/Clint/102.ogg",
+          "TranslationKey": "Events/Town:101:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Um... Emily?"
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s9",
+          "DialogueText": "I was wondering if you'd go w... with... tomorrow, me... *gulp* {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/103.ogg",
+          "TranslationKey": "Events/Town:101:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "I was wondering if you'd go w... with... tomorrow, me... *gulp*"
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s10",
+          "DialogueText": "I've got two tickets for the Grampleton Carnival tomorrow. W... Would you go with me? {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/104.ogg",
+          "TranslationKey": "Events/Town:101:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "I've got two tickets for the Grampleton Carnival tomorrow. W... Would you go with me?"
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s11",
+          "DialogueText": "Really? Okay! I'll pick you up at five. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/105.ogg",
+          "TranslationKey": "Events/Town:101:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Really? Okay! I'll pick you up at five."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s12",
+          "DialogueText": "Did you see that?! I've got a date tomorrow night! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/106.ogg",
+          "TranslationKey": "Events/Town:101:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Did you see that?! I've got a date tomorrow night!"
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s13",
+          "DialogueText": "Oh man...I'm so nervous. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/107.ogg",
+          "TranslationKey": "Events/Town:101:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh man...I'm so nervous."
+        },
+        {
+          "DialogueFrom": "Event/Town/101:s14",
+          "DialogueText": "Thanks for forcing me to do that, earlier. I'm scared, but also very pleased. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/108.ogg",
+          "TranslationKey": "Events/Town:101:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Thanks for forcing me to do that, earlier. I'm scared, but also very pleased."
+        },
+        {
+          "DialogueFrom": "Event/Town/6184644:s0",
+          "DialogueText": "It's an old family recipe. I baked it right in the smelting oven.",
+          "AudioPath": "assets/pt-BR/Clint/109.ogg",
+          "TranslationKey": "Events/Town:6184644:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "It's an old family recipe. I baked it right in the smelting oven."
+        },
+        {
+          "DialogueFrom": "Event/Town/6184644:s1",
+          "DialogueText": "Oh, um... I may have burnt the bottom a little, so... uh... you might have to peel off a layer of charred matter. But the rest is totally edible.",
+          "AudioPath": "assets/pt-BR/Clint/110.ogg",
+          "TranslationKey": "Events/Town:6184644:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh, um... I may have burnt the bottom a little, so... uh... you might have to peel off a layer of charred matter. But the rest is totally edible."
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s0",
+          "DialogueText": "Oh no...",
+          "AudioPath": "assets/pt-BR/Clint/111.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh no..."
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s1",
+          "DialogueText": "M...Me?",
+          "AudioPath": "assets/pt-BR/Clint/112.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "M...Me?"
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s2",
+          "DialogueText": "*gulp*... Okay, Emily. I'll do it. {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/113.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "*gulp*... Okay, Emily. I'll do it."
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s3",
+          "DialogueText": "Aww? Cute? ...*sigh*... {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Clint/114.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Aww? Cute? ...*sigh*..."
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s4",
+          "DialogueText": "I couldn't do it! I don't wanna break out of my shell! {Portrait:Custom:6}",
+          "AudioPath": "assets/pt-BR/Clint/115.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "I couldn't do it! I don't wanna break out of my shell!"
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s5",
+          "DialogueText": "...Oh. I... I guess I'm interrupting something here, aren't I? {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Clint/116.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "...Oh. I... I guess I'm interrupting something here, aren't I?"
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s6",
+          "DialogueText": "I understand. I'll leave now... Congrats, {Farmer_Name}. {Portrait:Custom:7}",
+          "AudioPath": "assets/pt-BR/Clint/117.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "I understand. I'll leave now... Congrats, ."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s0",
+          "DialogueText": "Hello, {Farmer_Name}... care to join me?",
+          "AudioPath": "assets/pt-BR/Clint/118.ogg",
+          "TranslationKey": "Events/Saloon:97:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Hello, ... care to join me?"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s1",
+          "DialogueText": "Let me just go ahead and tell you what's on my mind. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/119.ogg",
+          "TranslationKey": "Events/Saloon:97:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Let me just go ahead and tell you what's on my mind."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s2",
+          "DialogueText": "I have terrible luck with women, {Farmer_Name}...*sigh* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/120.ogg",
+          "TranslationKey": "Events/Saloon:97:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "I have terrible luck with women, ...*sigh*"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s3",
+          "DialogueText": "I'm a nice guy if you get to know me, I swear! {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/121.ogg",
+          "TranslationKey": "Events/Saloon:97:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm a nice guy if you get to know me, I swear!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s4",
+          "DialogueText": "The girls all seem to like you, {Farmer_Name}...",
+          "AudioPath": "assets/pt-BR/Clint/122_male.ogg",
+          "TranslationKey": "Events/Saloon:97:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "The girls all seem to like you, ...",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s5",
+          "DialogueText": "You're a girl, {Farmer_Name}...",
+          "AudioPath": "assets/pt-BR/Clint/123_female.ogg",
+          "TranslationKey": "Events/Saloon:97:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "You're a girl, ...",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s6",
+          "DialogueText": "Got any tips?",
+          "AudioPath": "assets/pt-BR/Clint/124_male.ogg",
+          "TranslationKey": "Events/Saloon:97:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Got any tips?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s7",
+          "DialogueText": "What advice can you give me?",
+          "AudioPath": "assets/pt-BR/Clint/125_female.ogg",
+          "TranslationKey": "Events/Saloon:97:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "What advice can you give me?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s8",
+          "DialogueText": "Impress women with your strength and charm",
+          "AudioPath": "assets/pt-BR/Clint/126.ogg",
+          "TranslationKey": "Events/Saloon:97:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Impress women with your strength and charm"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s9",
+          "DialogueText": "Act crazy, to keep people guessing",
+          "AudioPath": "assets/pt-BR/Clint/127.ogg",
+          "TranslationKey": "Events/Saloon:97:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Act crazy, to keep people guessing"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s10",
+          "DialogueText": "Just act natural... be yourself",
+          "AudioPath": "assets/pt-BR/Clint/128.ogg",
+          "TranslationKey": "Events/Saloon:97:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Just act natural... be yourself"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s11",
+          "DialogueText": "Treat women the same as men",
+          "AudioPath": "assets/pt-BR/Clint/129.ogg",
+          "TranslationKey": "Events/Saloon:97:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Treat women the same as men"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s12",
+          "DialogueText": "Yes!",
+          "AudioPath": "assets/pt-BR/Clint/130.ogg",
+          "TranslationKey": "Events/Saloon:97:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Yes!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s13",
+          "DialogueText": "Er.. I mean, I'll have the Big n' Cheesy. With extra sauce, please. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/131.ogg",
+          "TranslationKey": "Events/Saloon:97:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Er.. I mean, I'll have the Big n' Cheesy. With extra sauce, please."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s14",
+          "DialogueText": "... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/132.ogg",
+          "TranslationKey": "Events/Saloon:97:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s15",
+          "DialogueText": "Er... *ahem* Th...Thanks, Emily. For... taking my order.",
+          "AudioPath": "assets/pt-BR/Clint/133.ogg",
+          "TranslationKey": "Events/Saloon:97:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Er... *ahem* Th...Thanks, Emily. For... taking my order."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s16",
+          "DialogueText": "Um, Emily? I was...*gulp*... I was wondering... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/134.ogg",
+          "TranslationKey": "Events/Saloon:97:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Um, Emily? I was...*gulp*... I was wondering..."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s17",
+          "DialogueText": "... never mind. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/135.ogg",
+          "TranslationKey": "Events/Saloon:97:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "... never mind."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s18",
+          "DialogueText": "*sigh* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/136.ogg",
+          "TranslationKey": "Events/Saloon:97:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "*sigh*"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/97:s19",
+          "DialogueText": "I'm doomed... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/137.ogg",
+          "TranslationKey": "Events/Saloon:97:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm doomed..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Clint",
+          "DialogueText": "Czasami narzekam na swoją pracę, ale jestem z niej dumny.",
+          "AudioPath": "assets/pt-BR/Clint/138.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Czasami narzekam na swoją pracę, ale jestem z niej dumny."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Clint",
+          "DialogueText": "To niektóre z moich najlepszych produktów. Mam nadzieję, że Ci się spodobają.",
+          "AudioPath": "assets/pt-BR/Clint/139.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Clint",
+          "PageIndex": 1,
+          "DisplayPattern": "To niektóre z moich najlepszych produktów. Mam nadzieję, że Ci się spodobają."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Clint_y2",
+          "DialogueText": "Pociesza mnie to, że inni interesują się moją pracą. Dzięki temu czuję, że robię coś dobrego dla świata.",
+          "AudioPath": "assets/pt-BR/Clint/140.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Pociesza mnie to, że inni interesują się moją pracą. Dzięki temu czuję, że robię coś dobrego dla świata."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Clint_y2",
+          "DialogueText": "Niektóre z tych rzeczy skończyłem w tamtym tygodniu. Przyjrzyj im się dokładnie, to moje dzieło!",
+          "AudioPath": "assets/pt-BR/Clint/141.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Clint_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Niektóre z tych rzeczy skończyłem w tamtym tygodniu. Przyjrzyj im się dokładnie, to moje dzieło!"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Clint",
+          "DialogueText": "Jedna z moich iryzowanych irydem maczug szybko by się z nimi rozprawiła.",
+          "AudioPath": "assets/pt-BR/Clint/142.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Jedna z moich iryzowanych irydem maczug szybko by się z nimi rozprawiła."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Clint_y2",
+          "DialogueText": "Dałem radę przejść przez labirynt... a teraz pora na dyniowe piwko!",
+          "AudioPath": "assets/pt-BR/Clint/143.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Dałem radę przejść przez labirynt... a teraz pora na dyniowe piwko!"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Clint_y2",
+          "DialogueText": "... Staram się ignorować te pajęcze monstrum, które za mną widzisz jak tylko mogę. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Clint/144.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Clint_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "... Staram się ignorować te pajęcze monstrum, które za mną widzisz jak tylko mogę."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Clint",
+          "DialogueText": "Jest więcej jedzenia? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/145.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest więcej jedzenia?"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Clint_y2",
+          "DialogueText": "O nie... *przełyk*... Same sałatki... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/146.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "O nie... *przełyk*... Same sałatki..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Clint",
+          "DialogueText": "Zastanawiam się czy Emily chciałaby ze mną zatańczyć?",
+          "AudioPath": "assets/pt-BR/Clint/147.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się czy Emily chciałaby ze mną zatańczyć?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Clint_y2",
+          "DialogueText": "*ech* Każdy z kimś tańczy... a ja znowu jestem sam... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/148.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech* Każdy z kimś tańczy... a ja znowu jestem sam..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Clint_y2",
+          "DialogueText": "Ech, no cóż... Zatopię moje smutki w tej słodkiej galaretce.",
+          "AudioPath": "assets/pt-BR/Clint/149.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Clint_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Ech, no cóż... Zatopię moje smutki w tej słodkiej galaretce."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Clint",
+          "DialogueText": "Ale się najadłem! Tylko co jeszcze można tu robić oprócz jedzenia?",
+          "AudioPath": "assets/pt-BR/Clint/150.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale się najadłem! Tylko co jeszcze można tu robić oprócz jedzenia?"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Clint_y2",
+          "DialogueText": "*mlask* Na tym festiwalu jest zawsze najlepsze jedzenie.",
+          "AudioPath": "assets/pt-BR/Clint/151.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*mlask* Na tym festiwalu jest zawsze najlepsze jedzenie."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Clint",
+          "DialogueText": "Ubrałem dzisiaj moje specjalne buty... Nikt nie zauważył. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/152.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Ubrałem dzisiaj moje specjalne buty... Nikt nie zauważył."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Clint_y2",
+          "DialogueText": "Podszedłem za blisko i fala zmoczyła mi stopę... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/153.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Podszedłem za blisko i fala zmoczyła mi stopę..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Clint",
+          "DialogueText": "*ech*... Wszystkie te szczęśliwe rodziny. A dla mnie kolejny samotny rok.",
+          "AudioPath": "assets/pt-BR/Clint/154.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*... Wszystkie te szczęśliwe rodziny. A dla mnie kolejny samotny rok."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Clint_y2",
+          "DialogueText": "Przydałyby mi się nowe narzędzia. Moje już są trochę zardzewiałe. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Clint/155.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Przydałyby mi się nowe narzędzia. Moje już są trochę zardzewiałe."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Clint",
+          "DialogueText": "Emily tak po prostu zaczęła mi pomagać... Czy może to coś oznaczać? *przełknięcie* {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/156.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Emily tak po prostu zaczęła mi pomagać... Czy może to coś oznaczać? *przełknięcie*"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Clint_y2",
+          "DialogueText": "Te grudy śniegu nie uformują się w kulki... {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Clint/157.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Clint_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Te grudy śniegu nie uformują się w kulki..."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Clint_y2",
+          "DialogueText": "Chyba lepiej mi idzie praca w cieple niż w zimnie. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/158.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Clint_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Chyba lepiej mi idzie praca w cieple niż w zimnie."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Clint:s0",
+          "DialogueText": "Tak! Właśnie tego mi było trzeba!",
+          "AudioPath": "assets/pt-BR/Clint/159.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Clint:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak! Właśnie tego mi było trzeba!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Clint:s1",
+          "DialogueText": "Zabawny prezent. Dzięki!",
+          "AudioPath": "assets/pt-BR/Clint/160.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Clint:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Zabawny prezent. Dzięki!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Clint:s2",
+          "DialogueText": "*Ech*...",
+          "AudioPath": "assets/pt-BR/Clint/161.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Clint:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Clint:s3",
+          "DialogueText": "Przez to czuję się przygnębiony.",
+          "AudioPath": "assets/pt-BR/Clint/162.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Clint:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Przez to czuję się przygnębiony."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Clint:s4",
+          "DialogueText": "Dzięki.",
+          "AudioPath": "assets/pt-BR/Clint/163.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Clint:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Clint_NoInventorySpace",
+          "DialogueText": "Hej. Twoje narzędzie jest gotowe, ale chyba nie masz miejsca w ekwipunku.",
+          "AudioPath": "assets/pt-BR/Clint/164.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Clint_NoInventorySpace",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Twoje narzędzie jest gotowe, ale chyba nie masz miejsca w ekwipunku."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Clint_StillWorking",
+          "DialogueText": "Jeszcze pracuję nad {0}. Dzisiaj jeszcze nie skończę.",
+          "AudioPath": "assets/pt-BR/Clint/165.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Clint_StillWorking",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeszcze pracuję nad {0}. Dzisiaj jeszcze nie skończę."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Mines_PlayerKilled_Clint",
+          "DialogueText": "... Znalazłem się w kopalniach. Przez to wyciąganie Cię nadwyrężyłem sobie plecy.",
+          "AudioPath": "assets/pt-BR/Clint/166.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Mines_PlayerKilled_Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "... Znalazłem się w kopalniach. Przez to wyciąganie Cię nadwyrężyłem sobie plecy."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Mines_PlayerKilled_Clint",
+          "DialogueText": "Następnym razem uważaj na siebie, dobrze? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/167.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Mines_PlayerKilled_Clint",
+          "PageIndex": 1,
+          "DisplayPattern": "Następnym razem uważaj na siebie, dobrze?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_winter_movie_1_BeforeMovie",
+          "DialogueText": "Ten film to romans, tak? *ech* {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/168.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_winter_movie_1_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten film to romans, tak? *ech*"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_winter_movie_1_DuringMovie",
+          "DialogueText": "Czemu miałaby polubić TEGO gościa? Według mnie, to całkowicie nierealne... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Clint/169.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_winter_movie_1_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Czemu miałaby polubić TEGO gościa? Według mnie, to całkowicie nierealne..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_winter_movie_1_DuringMovie_2",
+          "DialogueText": "Clint się krzywi.",
+          "AudioPath": "assets/pt-BR/Clint/170.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_winter_movie_1_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Clint się krzywi."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_winter_movie_1_AfterMovie",
+          "DialogueText": "Ten film był przygnębiający... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/171.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_winter_movie_1_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten film był przygnębiający..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_like_BeforeMovie",
+          "DialogueText": "Czyli 'męski wieczór', co? Czyli mam sobie sam coś kupić?",
+          "AudioPath": "assets/pt-BR/Clint/172_male.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_like_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Czyli 'męski wieczór', co? Czyli mam sobie sam coś kupić?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_like_BeforeMovie",
+          "DialogueText": "Och... C... czy my jesteśmy na randce? {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/173_female.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_like_BeforeMovie",
+          "PageIndex": 1,
+          "DisplayPattern": "Och... C... czy my jesteśmy na randce?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_like_DuringMovie",
+          "DialogueText": "To tylko... *czkawka*... Joja Cola. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/174_male.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_like_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "To tylko... *czkawka*... Joja Cola.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_like_DuringMovie",
+          "DialogueText": "*szepcze*... Jeśli jesteś, em... zmęczona... możesz położyć swoją głowę na mo... moim ramieniu. Heh... Albo nie! {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Clint/175_female.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_like_DuringMovie",
+          "PageIndex": 1,
+          "DisplayPattern": "*szepcze*... Jeśli jesteś, em... zmęczona... możesz położyć swoją głowę na mo... moim ramieniu. Heh... Albo nie!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_like_DuringMovie_2",
+          "DialogueText": "Clint bierze łyka z nieoznakowanej butelki.",
+          "AudioPath": "assets/pt-BR/Clint/176.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_like_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Clint bierze łyka z nieoznakowanej butelki."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Clint_like_AfterMovie",
+          "DialogueText": "Hej... było fajnie, nie? {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Clint/177.ogg",
+          "TranslationKey": "Strings/MovieReactions:Clint_like_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej... było fajnie, nie?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Clint",
+          "DialogueText": "Hej, {Farmer_Name}. Tak szczerze, nie lubię festiwali.",
+          "AudioPath": "assets/pt-BR/Clint/178.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Tak szczerze, nie lubię festiwali."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Clint",
+          "DialogueText": "Ale gorzej bym się czuł jakbym został w domu, wiedząc, że każdy poszedł i dobrze się bawi. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Clint/179.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Clint",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale gorzej bym się czuł jakbym został w domu, wiedząc, że każdy poszedł i dobrze się bawi."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Clint",
+          "DialogueText": "Potrzebujesz jakiejś rudy?",
+          "AudioPath": "assets/pt-BR/Clint/180.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Clint",
+          "PageIndex": 0,
+          "DisplayPattern": "Potrzebujesz jakiejś rudy?"
+        }
+      ]
+    }
+  ]
+}

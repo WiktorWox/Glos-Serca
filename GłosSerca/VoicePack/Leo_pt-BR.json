@@ -1,0 +1,1026 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Leo.pt-BR",
+      "VoicePackName": "Głos Serca (Leo)",
+      "Character": "Leo",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Cześć... Wszystko w porządku?",
+          "AudioPath": "assets/pt-BR/Leo/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć... Wszystko w porządku?"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Wow, smakuje dokładnie jak złote orzechy! To niesamowite!",
+          "AudioPath": "assets/pt-BR/Leo/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, smakuje dokładnie jak złote orzechy! To niesamowite!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(TR)ParrotEgg",
+          "DialogueText": "To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłeś. Zaopiekuję się nim.",
+          "AudioPath": "assets/pt-BR/Leo/3_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:AcceptGift_(TR)ParrotEgg",
+          "PageIndex": 0,
+          "DisplayPattern": "To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłeś. Zaopiekuję się nim.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(TR)ParrotEgg",
+          "DialogueText": "To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłaś. Zaopiekuję się nim.",
+          "AudioPath": "assets/pt-BR/Leo/4_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:AcceptGift_(TR)ParrotEgg",
+          "PageIndex": 1,
+          "DisplayPattern": "To cenne jajko... dzidziuś! Cieszę się, że mi je przyniosłaś. Zaopiekuję się nim.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Wszystkiego, co wiem, nauczyły mnie papugi...",
+          "AudioPath": "assets/pt-BR/Leo/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Mon4",
+          "PageIndex": 0,
+          "DisplayPattern": "Wszystkiego, co wiem, nauczyły mnie papugi..."
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Ale na pewno jest wiele rzeczy na tym świecie, których jeszcze nie rozumiem. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Mon4",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale na pewno jest wiele rzeczy na tym świecie, których jeszcze nie rozumiem."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Gdy słońce się gniewa, dżungla daje nam schronienie.",
+          "AudioPath": "assets/pt-BR/Leo/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy słońce się gniewa, dżungla daje nam schronienie."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Nie znajdzie nas w zaroślach. Przechytrzyłem je! Ha ha... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie znajdzie nas w zaroślach. Przechytrzyłem je! Ha ha..."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "... Wybacz... nie chcę dzisiaj rozmawiać. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "... Wybacz... nie chcę dzisiaj rozmawiać."
+        },
+        {
+          "DialogueFrom": "Wed2",
+          "DialogueText": "W wulkanie trzeba być ostrożnym... Duchy nie lubią wędrowców.",
+          "AudioPath": "assets/pt-BR/Leo/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Wed2",
+          "PageIndex": 0,
+          "DisplayPattern": "W wulkanie trzeba być ostrożnym... Duchy nie lubią wędrowców."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Widziałeś innych takich jak ty?",
+          "AudioPath": "assets/pt-BR/Leo/11_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałeś innych takich jak ty?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Widziałaś innych takich jak ty?",
+          "AudioPath": "assets/pt-BR/Leo/12_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Widziałaś innych takich jak ty?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Staram się z nimi nie rozmawiać. Czuję się bezpieczniej wśród swoich... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Thu",
+          "PageIndex": 2,
+          "DisplayPattern": "Staram się z nimi nie rozmawiać. Czuję się bezpieczniej wśród swoich..."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Kiedyś, w nocy, gdy byłem na szczycie wulkanu, widziałem światła w oddali.",
+          "AudioPath": "assets/pt-BR/Leo/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedyś, w nocy, gdy byłem na szczycie wulkanu, widziałem światła w oddali."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Ciekawe, czy tam też mieszkają ptasie rodziny, takie jak moja? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Ciekawe, czy tam też mieszkają ptasie rodziny, takie jak moja?"
+        },
+        {
+          "DialogueFrom": "Fri3",
+          "DialogueText": "Ciekawe, czy Twój dom widać z czubka wulkanu?",
+          "AudioPath": "assets/pt-BR/Leo/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Fri3",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciekawe, czy Twój dom widać z czubka wulkanu?"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "... Mam dziś zły dzień. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "... Mam dziś zły dzień."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "A ty idź... baw się. Zostaw mnie w spokoju. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "A ty idź... baw się. Zostaw mnie w spokoju."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Gdy pada deszcz, przylatują przedziwne ptaki.",
+          "AudioPath": "assets/pt-BR/Leo/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy pada deszcz, przylatują przedziwne ptaki."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Próbuję z nimi rozmawiać... ale one po prostu odlatują. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Próbuję z nimi rozmawiać... ale one po prostu odlatują."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Chyba nie chcą się ze mną zaprzyjaźnić... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Leo:Sun",
+          "PageIndex": 2,
+          "DisplayPattern": "Chyba nie chcą się ze mną zaprzyjaźnić..."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Dolina jest spokojna, gdy pada.",
+          "AudioPath": "assets/pt-BR/Leo/22.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Dolina jest spokojna, gdy pada."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Dla mnie... natura to ktoś, kogo znam. Z różnymi humorami.",
+          "AudioPath": "assets/pt-BR/Leo/23.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Leo",
+          "PageIndex": 1,
+          "DisplayPattern": "Dla mnie... natura to ktoś, kogo znam. Z różnymi humorami."
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s0",
+          "DialogueText": "It's ready!",
+          "AudioPath": "assets/pt-BR/Leo/24.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "It's ready!"
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s1",
+          "DialogueText": "Haha! ...That was a great day! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/25.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Haha! ...That was a great day!"
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s2",
+          "DialogueText": "You know... I still miss my family back on the island... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/26.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "You know... I still miss my family back on the island..."
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s3",
+          "DialogueText": "But mostly, I feel happy about the memories, not sad.",
+          "AudioPath": "assets/pt-BR/Leo/27.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "But mostly, I feel happy about the memories, not sad."
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s4",
+          "DialogueText": "...and I really feel like I belong here! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/28.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "...and I really feel like I belong here!"
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s5",
+          "DialogueText": "It's a beautiful world, friends...",
+          "AudioPath": "assets/pt-BR/Leo/29.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "It's a beautiful world, friends..."
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s6",
+          "DialogueText": "...and I'm glad to be part of it! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/30.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "...and I'm glad to be part of it!"
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s0",
+          "DialogueText": "L... leave the island? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/31.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "L... leave the island?"
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s1",
+          "DialogueText": "O... other kids? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/32.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "O... other kids?"
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s2",
+          "DialogueText": "I... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/33.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "I..."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s3",
+          "DialogueText": "I'll go...",
+          "AudioPath": "assets/pt-BR/Leo/34.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "I'll go..."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s4",
+          "DialogueText": "But... my family... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/35.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "But... my family..."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s5",
+          "DialogueText": "She says...",
+          "AudioPath": "assets/pt-BR/Leo/36.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "She says..."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s6",
+          "DialogueText": "She says the parrots are all happy for me.",
+          "AudioPath": "assets/pt-BR/Leo/37.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "She says the parrots are all happy for me."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s7",
+          "DialogueText": "...And that they want me to start the next chapter of life, wherever it may lead...",
+          "AudioPath": "assets/pt-BR/Leo/38.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "...And that they want me to start the next chapter of life, wherever it may lead..."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s8",
+          "DialogueText": "And no matter what happens... they'll always be my family... forever.",
+          "AudioPath": "assets/pt-BR/Leo/39.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "And no matter what happens... they'll always be my family... forever."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s9",
+          "DialogueText": "Goodbye!",
+          "AudioPath": "assets/pt-BR/Leo/40.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Goodbye!"
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s10",
+          "DialogueText": "I'm ready! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/41.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm ready!"
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s11",
+          "DialogueText": "A new arrival to the valley...",
+          "AudioPath": "assets/pt-BR/Leo/42.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "A new arrival to the valley..."
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s12",
+          "DialogueText": "It seems our little town is growing!",
+          "AudioPath": "assets/pt-BR/Leo/43.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "It seems our little town is growing!"
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s0",
+          "DialogueText": "What are you doing, {Farmer_Name}?",
+          "AudioPath": "assets/pt-BR/Leo/44.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "What are you doing, ?"
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s1",
+          "DialogueText": "Waves... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/45.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Waves..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s2",
+          "DialogueText": "The other birds say the reason Leo can't fly... is because Leo spend too much time in the waves, long ago. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/46.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "The other birds say the reason Leo can't fly... is because Leo spend too much in the waves, long ago."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s3",
+          "DialogueText": "My wings full of water, now. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/47.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "My wings full of water, now."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s4",
+          "DialogueText": "Fish? Easy... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/48.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Fish? Easy..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s5",
+          "DialogueText": "If you want to say 'hi', you just have to ask.",
+          "AudioPath": "assets/pt-BR/Leo/49.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "If you want to say 'hi', you just have to ask."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s6",
+          "DialogueText": "Hmm... I don't understand that, yet. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/50.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... I don't understand that, yet."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s7",
+          "DialogueText": "Maybe when I become an elder, someday.",
+          "AudioPath": "assets/pt-BR/Leo/51.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Maybe when I become an elder, someday."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s8",
+          "DialogueText": "Oh.. Yeah. Leo ponders the big questions, too.",
+          "AudioPath": "assets/pt-BR/Leo/52.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Oh.. Yeah. Leo ponders the big questions, too."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s9",
+          "DialogueText": "Like... 'will I find more walnuts on the beach, or in the volcano?'",
+          "AudioPath": "assets/pt-BR/Leo/53.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Like... 'will I find more walnuts on the beach, or in the volcano?'"
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s10",
+          "DialogueText": "*sigh*...Life complicated... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/54.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "*sigh*...Life complicated..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s11",
+          "DialogueText": "{Farmer_Name}? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/55.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "?"
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s12",
+          "DialogueText": "Tell me about the place you come from... your home. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/56.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Tell me about the you come from... your home."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s13",
+          "DialogueText": "People... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/57.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "People..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s14",
+          "DialogueText": "Sounds nice.",
+          "AudioPath": "assets/pt-BR/Leo/58.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Sounds nice."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s15",
+          "DialogueText": "Cold? ...I don't understand... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/59.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Cold? ...I don't understand..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s16",
+          "DialogueText": "Farm? So, you're saying you grow your own walnuts? You don't have to hunt for them? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/60.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "? So, you're saying you grow your own walnuts? You don't have to hunt for them?"
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s17",
+          "DialogueText": "...Wow.. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/61.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "...Wow.."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s18",
+          "DialogueText": "I'm thinking... {Farmer_Name} is smart. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/62.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm thinking... is smart."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s19",
+          "DialogueText": "Are... Are there... other kids? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/63.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "Are... Are there... other kids?"
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s20",
+          "DialogueText": "...I know I'm not actually a bird, {Farmer_Name}... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/64.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s20",
+          "PageIndex": 0,
+          "DisplayPattern": "...I know I'm not actually a bird, ..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s21",
+          "DialogueText": "I'm like you. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/65.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s21",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm like you."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s22",
+          "DialogueText": "But I don't like thinking about it... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/66.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s22",
+          "PageIndex": 0,
+          "DisplayPattern": "But I don't like thinking about it..."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s23",
+          "DialogueText": "...because I'm so alone. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/67.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s23",
+          "PageIndex": 0,
+          "DisplayPattern": "...because I'm so alone."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s24",
+          "DialogueText": "With my bird family, I feel like I belong. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/68.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s24",
+          "PageIndex": 0,
+          "DisplayPattern": "With my bird family, I feel like I belong."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s25",
+          "DialogueText": "But... I don't belong. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/69.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s25",
+          "PageIndex": 0,
+          "DisplayPattern": "But... I don't belong."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s26",
+          "DialogueText": "...I don't belong anywhere... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/70.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s26",
+          "PageIndex": 0,
+          "DisplayPattern": "...I don't belong anywhere..."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s0",
+          "DialogueText": "Sorry... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/71.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Sorry..."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s1",
+          "DialogueText": "It's hard to remember to talk... normally... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/72.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "It's hard to remember to talk... normally..."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s2",
+          "DialogueText": "You think I'm weird, don't you? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/73.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "You think I'm weird, don't you?"
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s3",
+          "DialogueText": "Thanks for saying that.",
+          "AudioPath": "assets/pt-BR/Leo/74.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Thanks for saying that."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s4",
+          "DialogueText": "Thanks, I've gotten used to you too! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/75.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Thanks, I've gotten used to you too!"
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s5",
+          "DialogueText": "Hehe... You're getting pretty good at that! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/76.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Hehe... You're getting pretty good at that!"
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s6",
+          "DialogueText": "Sometimes I wonder how different my life would be if I had never washed up on this island... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/77.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Somes I wonder how different my life would be if I had never washed up on this island..."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s7",
+          "DialogueText": "Back home, I didn't really care about birds. I never thought to listen to what they might be saying. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/78.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Back home, I didn't really care about birds. I never thought to listen to what they might be saying."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s8",
+          "DialogueText": "Though I guess that's normal for... normal kids. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/79.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Though I guess that's normal for... normal kids."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s9",
+          "DialogueText": "I wonder what... normal kids would have to say about me... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/80.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "I wonder what... normal kids would have to say about me..."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s10",
+          "DialogueText": "Do you think I could ever be a normal kid again? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/81.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Do you think I could ever be a normal kid again?"
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s11",
+          "DialogueText": "Yes",
+          "AudioPath": "assets/pt-BR/Leo/82.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Yes"
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s12",
+          "DialogueText": "No",
+          "AudioPath": "assets/pt-BR/Leo/83.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "No"
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s13",
+          "DialogueText": "Maybe...",
+          "AudioPath": "assets/pt-BR/Leo/84.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Maybe..."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s14",
+          "DialogueText": "Hmmm... I guess you're right. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/85.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm... I guess you're right."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s15",
+          "DialogueText": "Though living on this island has given me a lot of experiences normal kids would never have. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/86.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Though living on this island has given me a lot of experiences normal kids would never have."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s16",
+          "DialogueText": "If it weren't for the parrots... who knows what would have happened to me.",
+          "AudioPath": "assets/pt-BR/Leo/87.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "If it weren't for the parrots... who knows what would have happened to me."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s17",
+          "DialogueText": "I'm happy I met them. I'll always consider them to be my family, even if that makes me a little strange. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/88.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "I'm happy I met them. I'll always consider them to be my family, even if that makes me a little strange."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s18",
+          "DialogueText": "Anyways, thanks for talking to me, {Farmer_Name}.",
+          "AudioPath": "assets/pt-BR/Leo/89.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "Anyways, thanks for talking to me, ."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s19",
+          "DialogueText": "Maybe some day, you can be a part of our family too, hehe. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/90.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "Maybe some day, you can be a part of our family too, hehe."
+        },
+        {
+          "DialogueFrom": "Event/IslandNorth/6497421:s20",
+          "DialogueText": "Here, let me teach you how to say \"Let's play\" in parrot talk!",
+          "AudioPath": "assets/pt-BR/Leo/91.ogg",
+          "TranslationKey": "Events/IslandNorth:6497421:s20",
+          "PageIndex": 0,
+          "DisplayPattern": "Here, let me teach you how to say \"Let's play\" in parrot talk!"
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Leo",
+          "DialogueText": "Ha ha! Nigdy czegoś takiego nie widziałem... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/92.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Ha ha! Nigdy czegoś takiego nie widziałem..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Leo_y2",
+          "DialogueText": "Zaprzyjaźniam się z tymi ptakami! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/93.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaprzyjaźniam się z tymi ptakami!"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Leo",
+          "DialogueText": "Szeroko otwarte oczy Leo są przyklejone do ekranu. Nie możesz odwrócić jego uwagi.",
+          "AudioPath": "assets/pt-BR/Leo/94.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Szeroko otwarte oczy Leo są przyklejone do ekranu. Nie możesz odwrócić jego uwagi."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Leo_y2",
+          "DialogueText": "To labirynt w labiryncie... Kręci mi się w głowie... {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Leo/95.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "To labirynt w labiryncie... Kręci mi się w głowie..."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Leo",
+          "DialogueText": "Pomysł z polowaniem na jajka jest trochę dziwny... Ale myślę, że jajka nie należą do nikogo z członków mojej rodziny... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/96.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Pomysł z polowaniem na jajka jest trochę dziwny... Ale myślę, że jajka nie należą do nikogo z członków mojej rodziny..."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Leo",
+          "DialogueText": "No cóż.. I tak dołączę! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/97.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Leo",
+          "PageIndex": 1,
+          "DisplayPattern": "No cóż.. I tak dołączę!"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Leo",
+          "DialogueText": "Tutejsze kwiaty są ładne, ale nie są tak kolorowe jak u mnie! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/98.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Tutejsze kwiaty są ładne, ale nie są tak kolorowe jak u mnie!"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Leo",
+          "DialogueText": "Zastanawiam się czy kiedykolwiek będę musiał wstać i iść tańczyć... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/99.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Leo",
+          "PageIndex": 1,
+          "DisplayPattern": "Zastanawiam się czy kiedykolwiek będę musiał wstać i iść tańczyć..."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Leo_y2",
+          "DialogueText": "Potrzebujesz partnera do tańca? Czy ptak się liczy? {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Leo/100.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Potrzebujesz partnera do tańca? Czy ptak się liczy?"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Leo",
+          "DialogueText": "Ćśśś... Uczę się tajemnicy idealnej pieczeni.",
+          "AudioPath": "assets/pt-BR/Leo/101.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Ćśśś... Uczę się tajemnicy idealnej pieczeni."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Leo_y2",
+          "DialogueText": "Mój dom jest w tę stronę, za oceanem. Wydaje się tak blisko, a jednak tak daleko. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Leo/102.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mój dom jest w tę stronę, za oceanem. Wydaje się tak blisko, a jednak tak daleko."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Leo_y2",
+          "DialogueText": "Mam nadzieję, że moi przyjaciele sobie radzą. {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Leo/103.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Leo_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam nadzieję, że moi przyjaciele sobie radzą."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Leo",
+          "DialogueText": "Meduzy księżycowego światła są moimi starymi przyjaciółmi... Też przepływają przez moją wyspę.",
+          "AudioPath": "assets/pt-BR/Leo/104.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Meduzy księżycowego światła są moimi starymi przyjaciółmi... Też przepływają przez moją wyspę."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Leo_y2",
+          "DialogueText": "Moi starzy przyjaciele wkrótce nas odwiedzą! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/105.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Moi starzy przyjaciele wkrótce nas odwiedzą!"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Leo",
+          "DialogueText": "Linus nie chce dołączyć. Czuję się niekomfortowo, dlatego dotrzymam mu towarzystwa.",
+          "AudioPath": "assets/pt-BR/Leo/106.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Linus nie chce dołączyć. Czuję się niekomfortowo, dlatego dotrzymam mu towarzystwa."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Leo",
+          "DialogueText": "Zrobimy sobie małą ucztę... tłuczony korzeń zimowy i ryba przyprawiona jagodami! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/107.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Leo",
+          "PageIndex": 1,
+          "DisplayPattern": "Zrobimy sobie małą ucztę... tłuczony korzeń zimowy i ryba przyprawiona jagodami!"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Leo_y2",
+          "DialogueText": "Nie znam większości z tych rzeczy... ale są bardzo smaczne! {Portrait:Neutral}",
+          "AudioPath": "assets/pt-BR/Leo/108.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie znam większości z tych rzeczy... ale są bardzo smaczne!"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Leo",
+          "DialogueText": "Można zrobić igloo dwa razy cieplejsze, jeśli zapchasz pióra pomiędzy ścianami!",
+          "AudioPath": "assets/pt-BR/Leo/109.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Można zrobić igloo dwa razy cieplejsze, jeśli zapchasz pióra pomiędzy ścianami!"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Leo_y2",
+          "DialogueText": "*chrup* *chrup* Śnieg robi śmieszny dźwięk jak się po nim chodzi! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/110.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Leo_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*chrup* *chrup* Śnieg robi śmieszny dźwięk jak się po nim chodzi!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Leo:s0",
+          "DialogueText": "Uwielbiam to. Dam to do mojego gniazdka.",
+          "AudioPath": "assets/pt-BR/Leo/111.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Leo:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Uwielbiam to. Dam to do mojego gniazdka."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Leo:s1",
+          "DialogueText": "Na pewno? To miłe z twojej strony...",
+          "AudioPath": "assets/pt-BR/Leo/112.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Leo:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Na pewno? To miłe z twojej strony..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Leo:s2",
+          "DialogueText": "Och... Nie wiem czy to strawię...",
+          "AudioPath": "assets/pt-BR/Leo/113.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Leo:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Nie wiem czy to strawię..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Leo:s3",
+          "DialogueText": "*niuch* *niuch*... Dlaczego mi to dajesz? Mam to dla Ciebie zakopać?",
+          "AudioPath": "assets/pt-BR/Leo/114.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Leo:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch* *niuch*... Dlaczego mi to dajesz? Mam to dla Ciebie zakopać?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Leo:s4",
+          "DialogueText": "Przyjmę ten prezent.",
+          "AudioPath": "assets/pt-BR/Leo/115.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Leo:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyjmę ten prezent."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_leo_rescue",
+          "DialogueText": "Raczej przeżyjesz. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Leo/116.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_leo_rescue",
+          "PageIndex": 0,
+          "DisplayPattern": "Raczej przeżyjesz."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_leo_rescue",
+          "DialogueText": "Moi ptasi przyjaciele zauważyli Cię i powiedzieli, że jesteś w niebezpieczeństwie, więc Cię tu przyprowadziłem. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/117.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_leo_rescue",
+          "PageIndex": 1,
+          "DisplayPattern": "Moi ptasi przyjaciele zauważyli Cię i powiedzieli, że jesteś w niebezpieczeństwie, więc Cię tu przyprowadziłem."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_leo_rescue",
+          "DialogueText": "Proszę, uważaj. Nie chcę już być smutny... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Leo/118.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_leo_rescue",
+          "PageIndex": 2,
+          "DisplayPattern": "Proszę, uważaj. Nie chcę już być smutny..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Leo_love_BeforeMovie",
+          "DialogueText": "Nie mogę się doczekać aż to zobaczę... Chcę się nauczyć wszystkiego o świecie!",
+          "AudioPath": "assets/pt-BR/Leo/119.ogg",
+          "TranslationKey": "Strings/MovieReactions:Leo_love_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę się doczekać aż to zobaczę... Chcę się nauczyć wszystkiego o świecie!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Leo_love_DuringMovie",
+          "DialogueText": "Leo jest przyklejony do ekranu!",
+          "AudioPath": "assets/pt-BR/Leo/120.ogg",
+          "TranslationKey": "Strings/MovieReactions:Leo_love_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Leo jest przyklejony do ekranu!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Leo_love_AfterMovie",
+          "DialogueText": "Widzisz to? Pokazali Wyspy Paproci... Mieszkałem tam! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Leo/121.ogg",
+          "TranslationKey": "Strings/MovieReactions:Leo_love_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Widzisz to? Pokazali Wyspy Paproci... Mieszkałem tam!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Leo_like_BeforeMovie",
+          "DialogueText": "Cieszę się, że tu jestem. To wszystko jest takie ciekawe!",
+          "AudioPath": "assets/pt-BR/Leo/122.ogg",
+          "TranslationKey": "Strings/MovieReactions:Leo_like_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że tu jestem. To wszystko jest takie ciekawe!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Leo_like_DuringMovie",
+          "DialogueText": "Leo jest bardzo zaciekawiony filmem.",
+          "AudioPath": "assets/pt-BR/Leo/123.ogg",
+          "TranslationKey": "Strings/MovieReactions:Leo_like_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Leo jest bardzo zaciekawiony filmem."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Leo_like_AfterMovie",
+          "DialogueText": "Wow... To było jak magia!",
+          "AudioPath": "assets/pt-BR/Leo/124.ogg",
+          "TranslationKey": "Strings/MovieReactions:Leo_like_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow... To było jak magia!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Leo",
+          "DialogueText": "Lubię to miejsce. Pogoda przypomina mi o domu.",
+          "AudioPath": "assets/pt-BR/Leo/125.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Lubię to miejsce. Pogoda przypomina mi o domu."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Leo",
+          "DialogueText": "Mogę dostać kilka jajek? Chcę je dać to mojego gniazdka.",
+          "AudioPath": "assets/pt-BR/Leo/126.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Leo",
+          "PageIndex": 0,
+          "DisplayPattern": "Mogę dostać kilka jajek? Chcę je dać to mojego gniazdka."
+        }
+      ]
+    }
+  ]
+}

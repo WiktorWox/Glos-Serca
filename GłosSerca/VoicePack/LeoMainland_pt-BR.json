@@ -1,0 +1,360 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.LeoMainland.pt-BR",
+      "VoicePackName": "Głos Serca (LeoMainland)",
+      "Character": "LeoMainland",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "4",
+          "DialogueText": "Widziałem wielkie mango lecące po niebie. Linus powiedział, że to balon! {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/LeoMainland/1.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:4",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałem wielkie mango lecące po niebie. Linus powiedział, że to balon!"
+        },
+        {
+          "DialogueFrom": "4",
+          "DialogueText": "Myślałem, że tylko ptaki potrafią latać...",
+          "AudioPath": "assets/pt-BR/LeoMainland/2.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:4",
+          "PageIndex": 1,
+          "DisplayPattern": "Myślałem, że tylko ptaki potrafią latać..."
+        },
+        {
+          "DialogueFrom": "18",
+          "DialogueText": "Gdy pierwszy raz się tu zjawiłem, Linus zrobił mi ubranie z liści, takie jak to...",
+          "AudioPath": "assets/pt-BR/LeoMainland/3.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:18",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy pierwszy raz się tu zjawiłem, Linus zrobił mi ubranie z liści, takie jak to..."
+        },
+        {
+          "DialogueFrom": "18",
+          "DialogueText": "Ale wyglądałem śmiesznie... jak puszyste mango! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/4.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:18",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale wyglądałem śmiesznie... jak puszyste mango!"
+        },
+        {
+          "DialogueFrom": "18",
+          "DialogueText": "Myślę, że jednak wolę pozostać przy piórach.",
+          "AudioPath": "assets/pt-BR/LeoMainland/5.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:18",
+          "PageIndex": 2,
+          "DisplayPattern": "Myślę, że jednak wolę pozostać przy piórach."
+        },
+        {
+          "DialogueFrom": "LeoDeparture",
+          "DialogueText": "Muszę znaleźć jakieś miejsce do zamieszkania... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/6.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:LeoDeparture",
+          "PageIndex": 0,
+          "DisplayPattern": "Muszę znaleźć jakieś miejsce do zamieszkania..."
+        },
+        {
+          "DialogueFrom": "LeoDeparture",
+          "DialogueText": "Ale mam plan... będę polegał na moich przyjaciołach.",
+          "AudioPath": "assets/pt-BR/LeoMainland/7.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:LeoDeparture",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale mam plan... będę polegał na moich przyjaciołach."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Wow, smakuje dokładnie jak złote orzechy! To niesamowite!",
+          "AudioPath": "assets/pt-BR/LeoMainland/8.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, smakuje dokładnie jak złote orzechy! To niesamowite!"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Podoba mi się ta pogoda... jest taka wilgotna. Przypomina mi las na wyspie.",
+          "AudioPath": "assets/pt-BR/LeoMainland/9.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Podoba mi się ta pogoda... jest taka wilgotna. Przypomina mi las na wyspie."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Na początku źle się czułem z tym, że musiałem opuścić wyspę. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/10.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu8",
+          "PageIndex": 0,
+          "DisplayPattern": "Na początku źle się czułem z tym, że musiałem opuścić wyspę."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Ale z czasem się do tego przyzwyczaiłem.",
+          "AudioPath": "assets/pt-BR/LeoMainland/11.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu8",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale z czasem się do tego przyzwyczaiłem."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Jestem bardzo elastyczny! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/12.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu8",
+          "PageIndex": 2,
+          "DisplayPattern": "Jestem bardzo elastyczny!"
+        },
+        {
+          "DialogueFrom": "Thu10",
+          "DialogueText": "Na początku czułem się tutaj obco. Ale teraz mam wielu przyjaciół! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/13.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu10",
+          "PageIndex": 0,
+          "DisplayPattern": "Na początku czułem się tutaj obco. Ale teraz mam wielu przyjaciół!"
+        },
+        {
+          "DialogueFrom": "Thu10",
+          "DialogueText": "Po raz pierwszy czuję, że naprawdę gdzieś przynależę...",
+          "AudioPath": "assets/pt-BR/LeoMainland/14.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu10",
+          "PageIndex": 1,
+          "DisplayPattern": "Po raz pierwszy czuję, że naprawdę gdzieś przynależę..."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Panna Penny robi wszystko, co może, żeby pomóc mi się uczyć. Jest bardzo miła...",
+          "AudioPath": "assets/pt-BR/LeoMainland/15.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Panna Penny robi wszystko, co może, żeby pomóc mi się uczyć. Jest bardzo miła..."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "... Na szczęście pamiętam trochę rzeczy z dawnego, bardzo dawnego życia... zanim trafiłem na wyspę... więc nie jest tak trudno.",
+          "AudioPath": "assets/pt-BR/LeoMainland/16.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "... Na szczęście pamiętam trochę rzeczy z dawnego, bardzo dawnego życia... zanim trafiłem na wyspę... więc nie jest tak trudno."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Panna Penny mówi, że jest zaskoczona tym, ile już wiem!",
+          "AudioPath": "assets/pt-BR/LeoMainland/17.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "Panna Penny mówi, że jest zaskoczona tym, ile już wiem!"
+        },
+        {
+          "DialogueFrom": "Tue10",
+          "DialogueText": "Myślę, że Jas i Vincent na początku uważali mnie za dziwaka. Kilka razy zapiszczałem na lekcjach... to nie pomogło. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/18.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Tue10",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślę, że Jas i Vincent na początku uważali mnie za dziwaka. Kilka razy zapiszczałem na lekcjach... to nie pomogło."
+        },
+        {
+          "DialogueFrom": "Tue10",
+          "DialogueText": "To była duża zmiana dla wszystkich. Ale teraz jesteśmy dobrymi przyjaciółmi! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/19.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Tue10",
+          "PageIndex": 1,
+          "DisplayPattern": "To była duża zmiana dla wszystkich. Ale teraz jesteśmy dobrymi przyjaciółmi!"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Nauczę się wszystkiego, co tylko możliwe, od Linusa i panny Penny! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/20.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Nauczę się wszystkiego, co tylko możliwe, od Linusa i panny Penny!"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Burmistrz Lewis mówi, że jestem na dobrej drodze, żeby zostać 'prawowitym obywatelem'... cokolwiek to znaczy.",
+          "AudioPath": "assets/pt-BR/LeoMainland/21.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Burmistrz Lewis mówi, że jestem na dobrej drodze, żeby zostać 'prawowitym obywatelem'... cokolwiek to znaczy."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Zauważyłeś wszystkie interesujące ptaki, które tu mieszkają?",
+          "AudioPath": "assets/pt-BR/LeoMainland/22_male.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Zauważyłeś wszystkie interesujące ptaki, które tu mieszkają?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Zauważyłaś wszystkie interesujące ptaki, które tu mieszkają?",
+          "AudioPath": "assets/pt-BR/LeoMainland/23_female.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Zauważyłaś wszystkie interesujące ptaki, które tu mieszkają?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Jeśli się dobrze wsłuchasz, mogą Ci coś powiedzieć.",
+          "AudioPath": "assets/pt-BR/LeoMainland/24.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Thu",
+          "PageIndex": 2,
+          "DisplayPattern": "Jeśli się dobrze wsłuchasz, mogą Ci coś powiedzieć."
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Ptakom z doliny zimno niespecjalnie przeszkadza.",
+          "AudioPath": "assets/pt-BR/LeoMainland/25.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:winter_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Ptakom z doliny zimno niespecjalnie przeszkadza."
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Trochę zazdroszczę ich ciepłych piórek... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/26.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:winter_Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Trochę zazdroszczę ich ciepłych piórek..."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Linus uczy mnie wszystkiego o dzikich przysmakach doliny. Jest tu tyle dobrych rzeczy! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/27.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Linus uczy mnie wszystkiego o dzikich przysmakach doliny. Jest tu tyle dobrych rzeczy!"
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Ale... trochę tęsknię za złotymi orzechami na śniadanie każdego dnia... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/28.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale... trochę tęsknię za złotymi orzechami na śniadanie każdego dnia..."
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Linus nauczył mnie, jak przygotować specjalną rybę nacieraną ostrymi jagodami...",
+          "AudioPath": "assets/pt-BR/LeoMainland/29.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:winter_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Linus nauczył mnie, jak przygotować specjalną rybę nacieraną ostrymi jagodami..."
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Mówi, że jeśli będę jadł jej wystarczająco dużo, zimą nie będzie mi zimno! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/30.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:winter_Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Mówi, że jeśli będę jadł jej wystarczająco dużo, zimą nie będzie mi zimno!"
+        },
+        {
+          "DialogueFrom": "Fri8",
+          "DialogueText": "Wujek Linus mówi, że najpierw powinienem 'ugotować' rybę, zanim ją zjem... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/31.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Fri8",
+          "PageIndex": 0,
+          "DisplayPattern": "Wujek Linus mówi, że najpierw powinienem 'ugotować' rybę, zanim ją zjem..."
+        },
+        {
+          "DialogueFrom": "Fri8",
+          "DialogueText": "Trudno mi się do tego przyzwyczaić... taka wysuszona... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/32.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Fri8",
+          "PageIndex": 1,
+          "DisplayPattern": "Trudno mi się do tego przyzwyczaić... taka wysuszona..."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Hej, {Farmer_Name}. Miło Cię znowu zobaczyć, jak za dawnych czasów. Było super!",
+          "AudioPath": "assets/pt-BR/LeoMainland/33.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Miło Cię znowu zobaczyć, jak za dawnych czasów. Było super!"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Wiesz, gdy pierwszy raz Cię zobaczyłem, byłem przestraszony... wiedziałem, że moje życie się zmieni. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/LeoMainland/34.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Wiesz, gdy pierwszy raz Cię zobaczyłem, byłem przestraszony... wiedziałem, że moje życie się zmieni."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Dolina Stardew może być moim domem... ale wyspa zawsze będzie moim prawdziwym domem.",
+          "AudioPath": "assets/pt-BR/LeoMainland/35.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Dolina Stardew może być moim domem... ale wyspa zawsze będzie moim prawdziwym domem."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Dobrze czasem tam wrócić, choć na chwilę.",
+          "AudioPath": "assets/pt-BR/LeoMainland/36.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobrze czasem tam wrócić, choć na chwilę."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Może kiedyś odwiedzę Miasto Zuzu... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/LeoMainland/37.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Może kiedyś odwiedzę Miasto Zuzu..."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Ale jeszcze nie jestem na to gotowy. Ten świat wciąż wydaje mi się obcy i dobrze mi tu, gdzie jestem! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/38.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale jeszcze nie jestem na to gotowy. Ten świat wciąż wydaje mi się obcy i dobrze mi tu, gdzie jestem!"
+        },
+        {
+          "DialogueFrom": "Sun10",
+          "DialogueText": "Papugi chciały, żebym Ci podziękował za wszystkie złote orzechy, które od Ciebie dostały. Bardzo im smakowały. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/39.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sun10",
+          "PageIndex": 0,
+          "DisplayPattern": "Papugi chciały, żebym Ci podziękował za wszystkie złote orzechy, które od Ciebie dostały. Bardzo im smakowały."
+        },
+        {
+          "DialogueFrom": "Sat10",
+          "DialogueText": "{Farmer_Name}? Em... Trochę się wstydzę zapytać... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/LeoMainland/40.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sat10",
+          "PageIndex": 0,
+          "DisplayPattern": "? Em... Trochę się wstydzę zapytać..."
+        },
+        {
+          "DialogueFrom": "Sat10",
+          "DialogueText": "Ale... myślisz, że Jas mogłaby kiedyś polubić kogoś takiego jak ja? {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/LeoMainland/41.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sat10",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale... myślisz, że Jas mogłaby kiedyś polubić kogoś takiego jak ja?"
+        },
+        {
+          "DialogueFrom": "Sat10",
+          "DialogueText": "A może jestem zbyt dziwny? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/LeoMainland/42.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sat10",
+          "PageIndex": 2,
+          "DisplayPattern": "A może jestem zbyt dziwny?"
+        },
+        {
+          "DialogueFrom": "Sat10",
+          "DialogueText": "Ha ha ha... nieważne. Kiedyś się przekonam. {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/LeoMainland/43.ogg",
+          "TranslationKey": "Characters/Dialogue/LeoMainland:Sat10",
+          "PageIndex": 3,
+          "DisplayPattern": "Ha ha ha... nieważne. Kiedyś się przekonam."
+        }
+      ]
+    }
+  ]
+}

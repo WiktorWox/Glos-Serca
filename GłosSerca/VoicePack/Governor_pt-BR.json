@@ -1,0 +1,254 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Governor.pt-BR",
+      "VoicePackName": "Głos Serca (Governor)",
+      "Character": "Governor",
+      "Language": "pt-BR",
+      "Entries": [
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction6",
+          "DialogueText": "pause 1000/playMusic ocean/speak Governor \"Hmm... Jest trochę pikantna... Ale nawet dobra!\"/pause 600/emote Governor 8/speak Governor \"Chwila... Coś pływa w mojej misce... Co to? {Portrait:Sad}\"/pause 500/showFrame Governor 14/playSound slimeHit/jump Governor/pause 500/showFrame Lewis 24/jump Lewis/textAboveHead Lewis \"Cooo?!\"/showFrame Emily 26/pause 1000/showFrame Marnie 16/jump Marnie/textAboveHead Marnie \"*Głęboki wdech*\"/pause 1000/shake Governor 2000/emote Governor 12/pause 500/showFrame Emily 4/showFrame Marnie 8/speak Governor \"To... Toż to skandal! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Governor/1.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction6",
+          "PageIndex": 0,
+          "DisplayPattern": "pause 1000/playMusic ocean/speak Governor \"Hmm... Jest trochę pikantna... Ale nawet dobra!\"/pause 600/emote Governor 8/speak Governor \"Chwila... Coś pływa w mojej misce... Co to?\"/pause 500/showFrame Governor 14/playSound slimeHit/jump Governor/pause 500/showFrame Lewis 24/jump Lewis/textAboveHead Lewis \"Cooo?!\"/showFrame Emily 26/pause 1000/showFrame Marnie 16/jump Marnie/textAboveHead Marnie \"*Głęboki wdech*\"/pause 1000/shake Governor 2000/emote Governor 12/pause 500/showFrame Emily 4/showFrame Marnie 8/speak Governor \"To... Toż to skandal!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction6",
+          "DialogueText": "W całym moim życiu nie byłem tak urażony! {Portrait:Happy}\"/pause 600/showFrame Governor 13/playSound throw/specificTemporarySprite luauShorts/pause 500/jump Lewis/pause 1000/speak Governor \"Fuj... Niedobrze mi. {Portrait:Unique}\"/pause 400/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport Lewis clamp true/pause 1000/speak Lewis \"Ktokolwiek brał udział w tym okrutnym akcie wandalizmu, jest naprawdę zepsuty. Używanie mojej prywatnej własności do takich chorych pomysłów! {Portrait:Love}",
+          "AudioPath": "assets/pt-BR/Governor/2.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction6",
+          "PageIndex": 1,
+          "DisplayPattern": "W całym moim życiu nie byłem tak urażony!\"/pause 600/showFrame Governor 13/playSound throw/specificTemporarySprite luauShorts/pause 500/jump Lewis/pause 1000/speak Governor \"Fuj... Niedobrze mi.\"/pause 400/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport Lewis clamp true/pause 1000/speak Lewis \"Ktokolwiek brał udział w tym okrutnym akcie wandalizmu, jest naprawdę zepsuty. Używanie mojej prywatnej własności do takich chorych pomysłów!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction6",
+          "DialogueText": "I żeby zepsuć tak perfekcyjnie dobrą zupę... Niewybaczalne! Nigdy tak się nie wstydziłem za tę społeczność... Odrażające. {Portrait:Love}\"/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis \"Wszyscy do domu, koniec festiwalu. {Portrait:Sad}\"/pause 500/globalFade/viewport -1000 -1000/message \"Ten 'mały psikus' nie wyszedł za dobrze...\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/3.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction6",
+          "PageIndex": 2,
+          "DisplayPattern": "I żeby zepsuć tak perfekcyjnie dobrą zupę... Niewybaczalne! Nigdy tak się nie wstydziłem za tę społeczność... Odrażające.\"/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis \"Wszyscy do domu, koniec festiwalu.\"/pause 500/globalFade/viewport -1000 -1000/message \"Ten 'mały psikus' nie wyszedł za dobrze...\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction5",
+          "DialogueText": "emote Governor 40/pause 400/speak Governor \"Hmmm... Nie jest zła, ale czegoś tu brakuje... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Governor/4.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction5",
+          "PageIndex": 0,
+          "DisplayPattern": "emote Governor 40/pause 400/speak Governor \"Hmmm... Nie jest zła, ale czegoś tu brakuje..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction5",
+          "DialogueText": "Czy każdy dodał coś do zupy? Czuję jakby brakowało czyjegoś unikalnego smaku.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Ma pan rację... Jest trochę mdła. {Portrait:Sad}\"/pause 1000/speak Lewis \"Dziękuję za pańską wizytę, panie Gubernatorze. Przykro mi, że zupa nie była najlepsza.\"/pause 500/faceDirection Lewis 2/speak Lewis \"A więc... Chce ktoś trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Zupa była mdła, ale i tak było fajnie!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/5.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction5",
+          "PageIndex": 1,
+          "DisplayPattern": "Czy każdy dodał coś do zupy? Czuję jakby brakowało czyjegoś unikalnego smaku.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Ma pan rację... Jest trochę mdła.\"/pause 1000/speak Lewis \"Dziękuję za pańską wizytę, panie Gubernatorze. Przykro mi, że zupa nie była najlepsza.\"/pause 500/faceDirection Lewis 2/speak Lewis \"A więc... Chce ktoś trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Zupa była mdła, ale i tak było fajnie!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction4",
+          "DialogueText": "emote Governor 16/pause 600/shake Governor 1000/jump Governor/pause 800/playMusic SettlingIn/speak Governor \"O mój... To jest najlepsza zupa, jaką kiedykolwiek jadłem! {Portrait:Happy}\"/shake Governor 5000/animate Governor false true 100 9 10 11 11 10/pause 800/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Ma pan rację... Jest przepyszna! {Portrait:Happy}\"/pause 500/faceDirection Lewis 2/speak Lewis \"Dobra robota, ludzie! Chce ktoś spróbować? {Portrait:Happy}\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Gubernator nie żartował... Zupa była nie z tego świata!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/6.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction4",
+          "PageIndex": 0,
+          "DisplayPattern": "emote Governor 16/pause 600/shake Governor 1000/jump Governor/pause 800/playMusic SettlingIn/speak Governor \"O mój... To jest najlepsza zupa, jaką kiedykolwiek jadłem!\"/shake Governor 5000/animate Governor false true 100 9 10 11 11 10/pause 800/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Ma pan rację... Jest przepyszna!\"/pause 500/faceDirection Lewis 2/speak Lewis \"Dobra robota, ludzie! Chce ktoś spróbować?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Gubernator nie żartował... Zupa była nie z tego świata!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction3",
+          "DialogueText": "emote Governor 32/pause 400/playMusic jaunty/speak Governor \"Ach... bardzo dobra zupa. Produkty z doliny nigdy nie zawodzą!\"/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Mmm... Smaczna. Dobrze się spisaliście.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Kto chce trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Luau było udane! Dobrze, że było w tej zupie coś z mojej farmy.\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/7.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction3",
+          "PageIndex": 0,
+          "DisplayPattern": "emote Governor 32/pause 400/playMusic jaunty/speak Governor \"Ach... bardzo dobra zupa. Produkty z doliny nigdy nie zawodzą!\"/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Mmm... Smaczna. Dobrze się spisaliście.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Kto chce trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Luau było udane! Dobrze, że było w tej zupie coś z mojej y.\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction2",
+          "DialogueText": "pause 400/playMusic ocean/speak Governor \"Hmm... Nie mam wiele do powiedzenia. Zwykła zupa.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Ma pan rację... Nie ma w niej nic specjalnego. Ale nie jest zła.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Chce ktoś trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Zupa była taka se... ale i tak Luau było udane!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/8.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction2",
+          "PageIndex": 0,
+          "DisplayPattern": "pause 400/playMusic ocean/speak Governor \"Hmm... Nie mam wiele do powiedzenia. Zwykła zupa.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Ma pan rację... Nie ma w niej nic specjalnego. Ale nie jest zła.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Chce ktoś trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Zupa była taka se... ale i tak Luau było udane!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction1",
+          "DialogueText": "emote Governor 28/pause 400/playMusic ocean/speak Governor \"Um... wstrętna ta zupa. Chyba w tym roku sobie odpuszczę. {Portrait:Sad}\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Fuj. Ktoś pewnie dodał składnik strasznie niskiej jakości. {Portrait:Sad}\"/pause 500/faceDirection Lewis 2/speak Lewis \"Chce ktoś spróbować?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Zupa nie była najlepsza, ale i tak Luau było udane!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/9.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction1",
+          "PageIndex": 0,
+          "DisplayPattern": "emote Governor 28/pause 400/playMusic ocean/speak Governor \"Um... wstrętna ta zupa. Chyba w tym roku sobie odpuszczę.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Fuj. Ktoś pewnie dodał składnik strasznie niskiej jakości.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Chce ktoś spróbować?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Zupa nie była najlepsza, ale i tak Luau było udane!\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/governorReaction0",
+          "DialogueText": "pause 500/showFrame Governor 13/pause 500/shake Governor 2000/emote Governor 12/pause 500/speak Governor \"Ble! Ohyda! Chyba zaraz... {Portrait:Unique}\"/showFrame Governor 13/jump Lewis/pause 800/speak Governor \"Muszę sobie usiąść... {Portrait:Unique}\"/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport 35 12 true/pause 1000/speak Lewis \"Brawo... Ktokolwiek dodał wstrętny składnik sprawił, że Gubernator zemdlał! Wstyd mi za was. {Portrait:Love}\"/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis \"Wszyscy do domu, koniec festiwalu. {Portrait:Sad}\"/pause 500/globalFade/viewport -1000 -1000/message \"Katastrofa...\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end",
+          "AudioPath": "assets/pt-BR/Governor/10.ogg",
+          "TranslationKey": "Data/Festivals/summer11:governorReaction0",
+          "PageIndex": 0,
+          "DisplayPattern": "pause 500/showFrame Governor 13/pause 500/shake Governor 2000/emote Governor 12/pause 500/speak Governor \"Ble! Ohyda! Chyba zaraz... \"/showFrame Governor 13/jump Lewis/pause 800/speak Governor \"Muszę sobie usiąść...\"/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport 35 12 true/pause 1000/speak Lewis \"Brawo... Ktokolwiek dodał wstrętny składnik sprawił, że Gubernator zemdlał! Wstyd mi za was.\"/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis \"Wszyscy do domu, koniec festiwalu.\"/pause 500/globalFade/viewport -1000 -1000/message \"Katastrofa...\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor",
+          "DialogueText": "Cóż za piękna okazja... uwielbiam tu przyjeżdżać.",
+          "AudioPath": "assets/pt-BR/Governor/11.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Governor",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż za piękna okazja... uwielbiam tu przyjeżdżać."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor",
+          "DialogueText": "Muszę z kimś porozmawiać o zakupie domku letniskowego.",
+          "AudioPath": "assets/pt-BR/Governor/12.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Governor",
+          "PageIndex": 1,
+          "DisplayPattern": "Muszę z kimś porozmawiać o zakupie domku letniskowego."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor_y2",
+          "DialogueText": "Co roku z niecierpliwością czekam aż odwiedzę Dolinę Stardew. To miejsce ma swój urok!",
+          "AudioPath": "assets/pt-BR/Governor/13.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Governor_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Co roku z niecierpliwością czekam aż odwiedzę Dolinę Stardew. To miejsce ma swój urok!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:0",
+          "DialogueText": "Oczywiście! Cały rok na to czekałem.",
+          "AudioPath": "assets/pt-BR/Governor/14.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Oczywiście! Cały rok na to czekałem."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:1",
+          "DialogueText": "... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Governor/15.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:2",
+          "DialogueText": "Hmm... Jest trochę pikantna... Ale nawet dobra!",
+          "AudioPath": "assets/pt-BR/Governor/16.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Jest trochę pikantna... Ale nawet dobra!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:3",
+          "DialogueText": "Chwila... Coś pływa w mojej misce... Co to? {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Governor/17.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Chwila... Coś pływa w mojej misce... Co to?"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:4",
+          "DialogueText": "To... Toż to skandal! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Governor/18.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "To... Toż to skandal!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:4",
+          "DialogueText": "W całym moim życiu nie byłem tak urażony! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Governor/19.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s4",
+          "PageIndex": 1,
+          "DisplayPattern": "W całym moim życiu nie byłem tak urażony!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:5",
+          "DialogueText": "Fuj... Niedobrze mi. {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Governor/20.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Fuj... Niedobrze mi."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:6",
+          "DialogueText": "Hmmm... Nie jest zła, ale czegoś tu brakuje... {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Governor/21.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm... Nie jest zła, ale czegoś tu brakuje..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:6",
+          "DialogueText": "Czy każdy dodał coś do zupy? Czuję jakby brakowało czyjegoś unikalnego smaku.",
+          "AudioPath": "assets/pt-BR/Governor/22.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s6",
+          "PageIndex": 1,
+          "DisplayPattern": "Czy każdy dodał coś do zupy? Czuję jakby brakowało czyjegoś unikalnego smaku."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:7",
+          "DialogueText": "O mój... To jest najlepsza zupa, jaką kiedykolwiek jadłem! {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Governor/23.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "O mój... To jest najlepsza zupa, jaką kiedykolwiek jadłem!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:8",
+          "DialogueText": "Ach... bardzo dobra zupa. Produkty z doliny nigdy nie zawodzą!",
+          "AudioPath": "assets/pt-BR/Governor/24.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... bardzo dobra zupa. Produkty z doliny nigdy nie zawodzą!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:9",
+          "DialogueText": "Hmm... Nie mam wiele do powiedzenia. Zwykła zupa.",
+          "AudioPath": "assets/pt-BR/Governor/25.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Nie mam wiele do powiedzenia. Zwykła zupa."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:10",
+          "DialogueText": "Um... wstrętna ta zupa. Chyba w tym roku sobie odpuszczę. {Portrait:Sad}",
+          "AudioPath": "assets/pt-BR/Governor/26.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Um... wstrętna ta zupa. Chyba w tym roku sobie odpuszczę."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:11",
+          "DialogueText": "Ble! Ohyda! Chyba zaraz... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Governor/27.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Ble! Ohyda! Chyba zaraz..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:12",
+          "DialogueText": "Muszę sobie usiąść... {Portrait:Unique}",
+          "AudioPath": "assets/pt-BR/Governor/28.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Muszę sobie usiąść..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:13",
+          "DialogueText": "Z przyjemnością! Przyglądałem się tej zupie przez całe popołudnie.",
+          "AudioPath": "assets/pt-BR/Governor/29.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Z przyjemnością! Przyglądałem się tej zupie przez całe popołudnie."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Governor:speak:14",
+          "DialogueText": "... {Portrait:Happy}",
+          "AudioPath": "assets/pt-BR/Governor/30.ogg",
+          "TranslationKey": "Festivals/summer11:Governor:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        }
+      ]
+    }
+  ]
+}

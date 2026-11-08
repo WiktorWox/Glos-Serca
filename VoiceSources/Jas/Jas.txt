@@ -1,0 +1,480 @@
+DialogueFrom: Introduction
+DialogueText: ... {Portrait:Unique}
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: Cześć... {Portrait:Unique}
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: Wow, prezent urodzinowy! Jest super! {Portrait:Happy}
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Boję się... {Portrait:Sad}
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Mam nadzieję, że moja sukienka nie stanie się zielona przez ten deszcz... {Portrait:Sad}
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: Prezent urodzinowy? Och... nie podoba mi się. {Portrait:Sad}
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: Na pewno? Ładnie pachnie! Będę piła łyczek dziennie. {Portrait:Happy}
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(TR)FairyBox
+DialogueText: Wow, jest piękne! I jest w niej wróżka? *hihi*... Słyszę jak śpiewa. Będzie moją sekretną przyjaciółką. {Portrait:Happy}
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)103
+DialogueText: Och, mała lalka! Jest trochę brudna, ale zrobię jej kąpiel. Dzięki! {Portrait:Happy}
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_Positive_doll_item
+DialogueText: Och, podoba mi się! Będzie pasował do reszty moich przyjaciół. {Portrait:Happy}
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_Negative_alcohol_item
+DialogueText: Umm... nie powinnam tego pić. To nie jest dla dorosłych? {Portrait:Sad}
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_Negative_coffee_item
+DialogueText: Och... Ciocia Marnie nie pozwala mi jeszcze pić kawy... {Portrait:Sad}
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Entering
+DialogueText: Widzę kraba!
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving
+DialogueText: Mam piasek w bucie... {Portrait:Sad}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: Zbieram muszelki... Zrobię naszyjnik!
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Ciocia Marnie mówiła, żebym się zbytnio nie opaliła... ale jak chodzę szybciej jest mi zimniej, więc chyba nic mi nie będzie. {Portrait:Happy}
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: movieTheater
+DialogueText: Ciocia Marnie mówi, że jestem jeszcze za mała, żeby poszła sama oglądać filmy... {Portrait:Sad}
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: reject_869
+DialogueText: Fuj, ohyda! {Portrait:Sad}
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: married_Shane
+DialogueText: Mam nadzieję, że Shane nadal będzie mnie odwiedzał... {Portrait:Sad}
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: married
+DialogueText: *ech*... mam nadzieję, że kiedyś wezmę ślub. {Portrait:Unique}
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: cropMatured_595
+DialogueText: Um... Udało Ci się kiedyś zobaczyć wróżkę?
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: cropMatured_595
+DialogueText: Wow! Też bym chciała. {Portrait:Happy}
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: cropMatured_595
+DialogueText: ... Mi też nie. {Portrait:Sad}
+AudioName: 23.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_3910975
+DialogueText: ... Czy Shaneowi nic się nie stało? {Portrait:Sad}
+AudioName: 24.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_3910975_memory_oneweek
+DialogueText: Miałam koszmar, że dom się palił... {Portrait:Sad}
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_3910974
+DialogueText: *hihi*... Patrz, mam prawdziwe królicze kapcie! {Portrait:Happy}
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Och... Szukasz cioci Marnie? {Portrait:Unique}
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Dzień dobry, Panie {Farmer_Name}.
+AudioName: 28_male.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Dzień dobry, Pani {Farmer_Name}.
+AudioName: 29_female.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Fajnie się mieszka na farmie. {Portrait:Happy}
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Co? *hihi* {Portrait:Happy}
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: ... Cześć.
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: Tue6
+DialogueText: Jak chcesz to możesz się pobawić moimi lalkami. Tylko jak skończysz to wyczesz im włosy.
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: ... {Portrait:Unique}
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: Wed2
+DialogueText: ... Cześć. {Portrait:Unique}
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: Wed4
+DialogueText: Ciocia Marnie nie wypuści mnie po 18 godzinie. To nie fair! {Portrait:Sad}
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: Wed4
+DialogueText: Już się nie boje ciemności!
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Nie powinnam rozmawiać z nieznajomymi... {Portrait:Unique}
+AudioName: 38.ogg
+--------------------------------------------------
+DialogueFrom: Thu2
+DialogueText: Panna Penny uczy mnie pisać. {Portrait:Happy}
+AudioName: 39.ogg
+--------------------------------------------------
+DialogueFrom: Thu2
+DialogueText: Ma ładne pismo.
+AudioName: 40.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: ... Nie znam Cię. {Portrait:Unique}
+AudioName: 41.ogg
+--------------------------------------------------
+DialogueFrom: Fri2
+DialogueText: Podoba Ci się moja kokarda?
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Lubię mieszkać na farmie... Uwielbiam lody z mleka naszych krów.
+AudioName: 43.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Pachniesz jak trawa. {Portrait:Unique}
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: Sat2
+DialogueText: Czasami szukam w rzece raków. Nie mów tego cioci Marnie... ale nakarmiłam jednym krowę.
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: Sat2
+DialogueText: Zasmakował jej.
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Zawsze jest Pan dla mnie miły, Panie {Farmer_Name}. {Portrait:Happy}
+AudioName: 47_male.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Zawsze jest Pan dla mnie miła, Panno {Farmer_Name}. {Portrait:Happy}
+AudioName: 48_male.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Zawsze jest Pani dla mnie miły, Panie {Farmer_Name}. {Portrait:Happy}
+AudioName: 49_female.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Zawsze jest Pani dla mnie miła, Panno {Farmer_Name}. {Portrait:Happy}
+AudioName: 50_female.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Dorośli są zazwyczaj nudni, ale ty to zupełnie co innego.
+AudioName: 51.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Um... Cz... Czy czegoś Ci trzeba? {Portrait:Unique}
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Nie powinnam rozmawiać z nieznajomymi. {Portrait:Unique}
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Shane ciągle gdzieś wychodzi, a ciocia Marnie jest cały czas zajęta... więc wymyślam se własne zabawy.
+AudioName: 54.ogg
+--------------------------------------------------
+DialogueFrom: Sun2
+DialogueText: Dobrze, że mam tyle zabawek. {Portrait:Happy}
+AudioName: 55.ogg
+--------------------------------------------------
+DialogueFrom: Sun10
+DialogueText: Wiesz, że Shane jest moim ojcem chrzestnym? Był przyjacielem moich rodziców, ale. {Portrait:Sad}
+AudioName: 56.ogg
+--------------------------------------------------
+DialogueFrom: Sun10
+DialogueText: ... Zmarli. *smark* {Portrait:Sad}
+AudioName: 57.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s0
+DialogueText: Uwielbiam ją! {Portrait:Happy}
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/6184643:s0
+DialogueText: Panno Penny? Okładka się oderwała od mojej książki z matematyki... {Portrait:Sad}
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/181928:s0
+DialogueText: Naturalny zasób jest materialnym źródłem bogactwa występującym w stanie naturalnym i mającym wartość ekonomiczną. {Portrait:Love}
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/181928:s1
+DialogueText: O taak! {Portrait:Happy}
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s0
+DialogueText: Fu... Śmierdzi. {Portrait:Sad}
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s1
+DialogueText: Chyba Gunther ma klucz.
+AudioName: 63.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s2
+DialogueText: Widziałam jak mu kiedyś wypadł z kieszeni taki duży zardzewiały klucz.
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s3
+DialogueText: Straszne drzwi jak te, powinny pasować do dużego i starego klucza. {Portrait:Love}
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s4
+DialogueText: Coś tam jest! {Portrait:Unique}
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s0
+DialogueText: Są dla mnie zbyt ostre! {Portrait:Sad}
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s1
+DialogueText: Em... Co robisz z robakami, Vincent?
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s2
+DialogueText: *Głęboki wdech*!
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s3
+DialogueText: To okropne! Nie, nie, nie, nie, nie... {Portrait:Sad}
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s4
+DialogueText: Panie {Farmer_Name}? Proszę... odłóż te robaki na ziemię, żeby mogły żyć w spokoju.
+AudioName: 71_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s5
+DialogueText: Panno {Farmer_Name}? Proszę... niech pani odłoży te robaki na ziemię, żeby mogły żyć w spokoju.
+AudioName: 72_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s6
+DialogueText: Uczysz się jak czyścić cebulę dymkę... bez ranienia żadnego robaka.
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s7
+DialogueText: Cebula dymka jest teraz warta 5x więcej monet!
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3910674:s0
+DialogueText: ... *Chlip*...
+AudioName: 75.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3910974:s0
+DialogueText: T... To są prawdziwe kapcie królisie!! {Portrait:Happy}
+AudioName: 76.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3910974:s1
+DialogueText: Pewnie kosztowały fortunę! {Portrait:Unique}
+AudioName: 77.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3910974:s2
+DialogueText: Skąd miałeś tyle pieniędzy? {Portrait:Unique}
+AudioName: 78.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3900074:s0
+DialogueText: Wujek Shane jest w stodole. Kazał przekazać... ee... że chce Ci coś pokazać.
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3900074:s1
+DialogueText: White Chicken
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3900074:s2
+DialogueText: Blue Chicken
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3900074:s3
+DialogueText: Blue Chicken
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3900074:s4
+DialogueText: Blue Chicken
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: Event/AnimalShop/3900074:s5
+DialogueText: Blue Chicken
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Jas
+DialogueText: Ał! Kura dziobnęła mnie w mały paluszek! {Portrait:Unique}
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Jas_y2
+DialogueText: Muuu! Muuuuuu! {Portrait:Happy}
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Jas_y2
+DialogueText: Próbuję porozmawiać z małymi krówkami. {Portrait:Neutral}
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Jas
+DialogueText: Ale ciociu Marnie! Chcę iść do labiryntu! Nie boję się! {Portrait:Sad}
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Jas_y2
+DialogueText: Chodźmy w tę stronę!%noturn {Portrait:Happy}
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Jas
+DialogueText: Mam nadzieję, że znajdę jakieś jajka zanim Vincent wszystkie zabierze... {Portrait:Sad}
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Jas_y2
+DialogueText: Postaram się w tym roku wygrać!
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Jas
+DialogueText: Kiedyś to ja zostanę królową kwiatów!
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Jas_y2
+DialogueText: *hihi* Dobrze to robię? {Portrait:Happy}
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Jas
+DialogueText: Vincent nie jest dobrym tancerzem.
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Jas_y2
+DialogueText: A... ale... Muszę to jeść? {Portrait:Sad}
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Jas
+DialogueText: Może w tym roku będą młode meduzy!
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Jas_y2
+DialogueText: Skąd meduzy wiedzą gdzie płynąć, jak nie mają oczu? {Portrait:Neutral}
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Jas
+DialogueText: Och! Prezenty! {Portrait:Happy}
+AudioName: 98.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Jas_y2
+DialogueText: Można już otwierać prezenty? {Portrait:Neutral}
+AudioName: 99.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Jas
+DialogueText: Dam mu marchewkowy nos! {Portrait:Happy}
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Jas_y2
+DialogueText: Nie zimno tym rybom? {Portrait:Unique}
+AudioName: 101.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Jas:s0
+DialogueText: !!!... Wow!! Dziękuję! {Portrait:Happy}
+AudioName: 102.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Jas:s1
+DialogueText: Kocham prezenty! Dziękuję!
+AudioName: 103.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Jas:s2
+DialogueText: Czy to prezent? Och... {Portrait:Sad}
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Jas:s3
+DialogueText: Fujka. {Portrait:Sad}
+AudioName: 105.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Jas:s4
+DialogueText: Dziękuję!
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_love_BeforeMovie
+DialogueText: Cieszę się, że idziemy do kina!
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_love_DuringMovie
+DialogueText: Jas jest zachwycona!
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_love_AfterMovie
+DialogueText: Było super! Dzięki za zaproszenie! {Portrait:Happy}
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_like_BeforeMovie
+DialogueText: To film dla dorosłych, tak? Nic mi nie będzie!
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_like_DuringMovie
+DialogueText: Jas kiwa głową i odwraca wzrok.
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_like_AfterMovie
+DialogueText: To było dobre! Miało... um... dobre 'di-al-ogi'!... Prawda?
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_horror_BeforeMovie
+DialogueText: N... nie jestem pewna, czy mogę zobaczyć ten film... {Portrait:Sad}
+AudioName: 113.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_horror_DuringMovie
+DialogueText: Boje się... {Portrait:Sad}
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_horror_DuringMovie_2
+DialogueText: Jas się trzęsie.
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Jas_horror_AfterMovie
+DialogueText: *smarknięcie*... {Portrait:Sad}
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Jas
+DialogueText: Fajnie tu, ale chciałabym zjeść loda...
+AudioName: 117.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Shop_Jas
+DialogueText: Cześć... mm... *hihi*
+AudioName: 118.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Jas_IceCream
+DialogueText: Czy... to dla mnie? {Portrait:Unique}
+AudioName: 119.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Jas_IceCream
+DialogueText: Wow! Własnie tego chciałam... Dziękuję! To miłe z Twojej strony! {Portrait:Happy}
+AudioName: 120.ogg
+--------------------------------------------------
