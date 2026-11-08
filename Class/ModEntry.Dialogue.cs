@@ -488,7 +488,6 @@ namespace VoiceOverFrameworkMod
                        expected.Contains(actual, StringComparison.OrdinalIgnoreCase);
             }
 
-            bool skipQuickQuestionResponseCommand = false;
             for (int i = 0; i <= current; i++)
             {
                 string line = ev.eventCommands[i];
@@ -500,95 +499,116 @@ namespace VoiceOverFrameworkMod
                 bool isSplit = line.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
                 bool isTextAboveHead = line.StartsWith("textAboveHead ", StringComparison.OrdinalIgnoreCase);
 
-                // Stardew keeps the selected quickQuestion response as the
-                // next runtime event command. Its serial was already assigned
-                // from the answer alternatives above, so do not count this
-                // materialized response a second time.
-                if (skipQuickQuestionResponseCommand)
-                {
-                    if (isSpeak || isSplit || isTextAboveHead)
-                    {
-                        skipQuickQuestionResponseCommand = false;
-                        string respActor = line.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
-                            .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
-                        // The materialized answer was already counted above only if it is this
-                        // speaker's; another actor's line must still be counted normally.
-                        if (respActor != null && respActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
-                            continue;
-                    }
-
-                    // A pause or bookkeeping command may appear between the
-                    // question and its materialized response.
-                    if (!line.StartsWith("pause ", StringComparison.OrdinalIgnoreCase) &&
-                        !line.StartsWith("addWorldState ", StringComparison.OrdinalIgnoreCase))
-                    {
-                        skipQuickQuestionResponseCommand = false;
-                    }
-                }
-
                 if (line.StartsWith("quickQuestion ", StringComparison.OrdinalIgnoreCase))
                 {
+                    // quickQuestion "#A#B#C(break)cmd\cmd\speak X "..."(break)..." : the template generator
+                    // assigns one slot per page of every speak in every branch, in branch order, for the
+                    // speaker of that speak. At runtime the game inserts the chosen branch's commands
+                    // right after the question, so those must not be counted a second time.
                     string[] sections = line.Split(new[] { "(break)" }, StringSplitOptions.None);
                     int branchSerial = serial;
-                    int selectedBranch = -1;
-
-                    //for (int branch = 1; branch < sections.Length; branch++)
-                    //{
-                    //    string branchText = sections[branch];
-                    //    string actorToken = branchText.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries).ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
-
-                    //    if ((i == current || current == i + 1) &&
-                    //        selectedBranch < 0 &&
-                    //        MatchesDisplayed(FirstPageText(branchText), currentDisplayedText))
-                    //    {
-                    //        selectedBranch = branch;
-                    //        // Each player answer occupies one serial slot.
-                    //        // The embedded speak text may contain several
-                    //        // #$b# pages, but those pages are not separate
-                    //        // answer alternatives in the generated pack.
-                    //        return branchSerial + branch - 1;
-                    //    }
-
-                    //    serial++;
-                    //}
-
-                    // The current page may be a later #$b# page from the
-                    // selected embedded branch. Match it against every page
-                    // in each branch before falling back to the branch start.
                     int branchPages = 0;
+                    int materializedCount = 0;
+
                     for (int branch = 1; branch < sections.Length; branch++)
                     {
-                        string branchText = sections[branch];
-                        // Only this speaker's branches occupy slots in this speaker's numbering.
-                        string branchActor = branchText.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
-                            .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
-                        if (branchActor == null || !branchActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
-                            continue;
-                        int firstQuote = branchText.IndexOf('"');
-                        int lastQuote = branchText.LastIndexOf('"');
-                        string branchPayload = firstQuote >= 0 && lastQuote > firstQuote
-                            ? branchText.Substring(firstQuote + 1, lastQuote - firstQuote - 1)
-                            : string.Empty;
-                        string[] pages = string.IsNullOrWhiteSpace(branchPayload)
-                            ? Array.Empty<string>()
-                            : branchPayload.Split(new[] { "#$b#" }, StringSplitOptions.None);
-                        for (int page = 0; page < pages.Length; page++)
+                        string[] branchCmds = sections[branch].Split('\\');
+
+                        // Is this the branch the game materialized after the question?
+                        bool materialized = branchCmds.Length > 0;
+                        for (int c = 0; c < branchCmds.Length && materialized; c++)
                         {
-                            branchPages++;
-                            if (MatchesDisplayed(pages[page].Replace("$h", string.Empty).Replace("$s", string.Empty), currentDisplayedText))
+                            int idx = i + 1 + c;
+                            if (idx >= ev.eventCommands.Length ||
+                                !string.Equals(ev.eventCommands[idx]?.Trim(), branchCmds[c].Trim(), StringComparison.Ordinal))
+                                materialized = false;
+                        }
+                        if (materialized)
+                            materializedCount = Math.Max(materializedCount, branchCmds.Length);
+
+                        foreach (string rawCmd in branchCmds)
+                        {
+                            string cmd = rawCmd.Trim();
+                            bool cSpeak = cmd.StartsWith("speak ", StringComparison.OrdinalIgnoreCase);
+                            bool cSplit = cmd.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
+                            bool cBubble = cmd.StartsWith("textAboveHead ", StringComparison.OrdinalIgnoreCase);
+                            if (!cSpeak && !cSplit && !cBubble)
+                                continue;
+                            string cActor = cmd.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
+                                .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+                            if (cActor == null || !cActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
+                                continue;
+
+                            int q1 = cmd.IndexOf('"');
+                            int q2 = cmd.LastIndexOf('"');
+                            string payload = q1 >= 0 && q2 > q1 ? cmd.Substring(q1 + 1, q2 - q1 - 1) : string.Empty;
+                            if (cBubble || cSplit || string.IsNullOrWhiteSpace(payload))
                             {
-                                return branchSerial + branchPages - 1;
+                                branchPages += 1;
+                                continue;
+                            }
+                            // Same expansion as the generator: gender variants (^) and #$b# pages are separate slots.
+                            var pageTexts = new List<string>();
+                            foreach (string variant in payload.Split('^'))
+                                foreach (string page in variant.Split(new[] { "#$b#" }, StringSplitOptions.None))
+                                    pageTexts.Add(page);
+                            foreach (string page in pageTexts)
+                            {
+                                branchPages++;
+                                if (i == current && MatchesDisplayed(page.Replace("$h", string.Empty).Replace("$s", string.Empty), currentDisplayedText))
+                                    return branchSerial + branchPages - 1;
                             }
                         }
                     }
 
-                    // No displayed text matched this question's embedded
-                    // branches. The event has already moved past the
-                    // question, so count all answer alternatives and
-                    // continue scanning later commands.
-                    serial = branchSerial + Math.Max(0, branchPages);
+                    // Is the current command one of the materialized branch commands? Then the displayed
+                    // line is inside the chosen branch: its index is the slot offset of that branch plus the
+                    // slots of this speaker's earlier speaks in the branch plus the current page.
+                    if (materializedCount > 0 && current > i && current <= i + materializedCount)
+                    {
+                        int slotsBefore = 0;
+                        for (int branch = 1; branch < sections.Length; branch++)
+                        {
+                            string[] branchCmds = sections[branch].Split('\\');
+                            bool isChosen = branchCmds.Length == materializedCount;
+                            for (int c = 0; c < branchCmds.Length && isChosen; c++)
+                                if (!string.Equals(ev.eventCommands[i + 1 + c]?.Trim(), branchCmds[c].Trim(), StringComparison.Ordinal))
+                                    isChosen = false;
 
-                    skipQuickQuestionResponseCommand = true;
+                            for (int c = 0; c < branchCmds.Length; c++)
+                            {
+                                string cmd = branchCmds[c].Trim();
+                                bool cSpeak = cmd.StartsWith("speak ", StringComparison.OrdinalIgnoreCase);
+                                bool cSplit = cmd.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
+                                bool cBubble = cmd.StartsWith("textAboveHead ", StringComparison.OrdinalIgnoreCase);
+                                if (!cSpeak && !cSplit && !cBubble)
+                                    continue;
+                                string cActor = cmd.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
+                                    .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+                                bool mine = cActor != null && cActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase);
+
+                                int q1 = cmd.IndexOf('"');
+                                int q2 = cmd.LastIndexOf('"');
+                                string payload = q1 >= 0 && q2 > q1 ? cmd.Substring(q1 + 1, q2 - q1 - 1) : string.Empty;
+                                int variants = (cSpeak && !string.IsNullOrEmpty(payload)) ? payload.Count(ch => ch == '^') + 1 : 1;
+                                int pages = (cSpeak && !string.IsNullOrEmpty(payload)) ? Regex.Matches(payload, @"#?\$b#?").Count : 0;
+
+                                if (isChosen && i + 1 + c == current)
+                                {
+                                    if (!mine) break;
+                                    int variantIndex = variants > 1 && Game1.player?.IsMale != true ? 1 : 0;
+                                    if (currentPageIndex <= 0)
+                                        return branchSerial + slotsBefore + Math.Clamp(variantIndex, 0, variants - 1);
+                                    return branchSerial + slotsBefore + variants + Math.Clamp(currentPageIndex - 1, 0, Math.Max(0, pages - 1));
+                                }
+                                if (mine)
+                                    slotsBefore += variants + pages;
+                            }
+                        }
+                    }
+
+                    serial = branchSerial + branchPages;
+                    i += materializedCount; // skip the materialized branch commands (already counted above)
                     continue;
                 }
 
