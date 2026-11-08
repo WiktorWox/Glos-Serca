@@ -43,7 +43,7 @@ namespace VoiceOverFrameworkMod
 
             // --- Language Selection Logic ---
             // 1. Primary target is the actual game language passed in
-            string primaryLangStr = languageCode.ToString().ToLowerInvariant(); // e.g., "en", "zh"
+            string primaryLangStr = GetGameLanguageTag(languageCode).ToLowerInvariant(); // e.g., "en", "zh"
 
             // 2. Secondary target is the user's configured default (might be the same as primary)
             string configDefaultLangStr = (Config.DefaultLanguage ?? "en").ToLowerInvariant();
@@ -614,7 +614,7 @@ namespace VoiceOverFrameworkMod
                 return null;
 
             // language chain (same as V1)
-            string primaryLangStr = languageCode.ToString().ToLowerInvariant();
+            string primaryLangStr = GetGameLanguageTag(languageCode).ToLowerInvariant();
             string configDefaultLangStr = (Config?.DefaultLanguage ?? "en").ToLowerInvariant();
             const string hardcodedFallbackLangStr = "en";
             bool allowFallbackToEnglish = Config?.FallbackToDefaultIfMissing ?? true;

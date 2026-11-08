@@ -109,6 +109,36 @@ namespace VoiceOverFrameworkMod
         }
 
 
+        /// <summary>
+        /// The game's current language as a voice-pack style tag ("en", "pt-BR", "pl", ...), with
+        /// config LanguageAliases applied. Custom languages added by mods (LanguageCode.mod) report
+        /// their own code (e.g. "pl") instead of collapsing to English.
+        /// </summary>
+        internal string GetGameLanguageTag(LocalizedContentManager.LanguageCode? code = null)
+        {
+            var lc = code ?? LocalizedContentManager.CurrentLanguageCode;
+            string tag = lc switch
+            {
+                LocalizedContentManager.LanguageCode.en => "en",
+                LocalizedContentManager.LanguageCode.es => "es-ES",
+                LocalizedContentManager.LanguageCode.zh => "zh-CN",
+                LocalizedContentManager.LanguageCode.ja => "ja-JP",
+                LocalizedContentManager.LanguageCode.pt => "pt-BR",
+                LocalizedContentManager.LanguageCode.fr => "fr-FR",
+                LocalizedContentManager.LanguageCode.ko => "ko-KR",
+                LocalizedContentManager.LanguageCode.it => "it-IT",
+                LocalizedContentManager.LanguageCode.de => "de-DE",
+                LocalizedContentManager.LanguageCode.hu => "hu-HU",
+                LocalizedContentManager.LanguageCode.ru => "ru-RU",
+                LocalizedContentManager.LanguageCode.tr => "tr-TR",
+                LocalizedContentManager.LanguageCode.mod => LocalizedContentManager.CurrentModLanguage?.LanguageCode ?? "en",
+                _ => "en"
+            };
+            if (Config?.LanguageAliases != null && Config.LanguageAliases.TryGetValue(tag, out var aliased) && !string.IsNullOrWhiteSpace(aliased))
+                tag = aliased;
+            return tag;
+        }
+
         // List of known language codes used by Stardew Valley
         private readonly List<string> KnownStardewLanguages = new List<string> {
             "en", "es-ES", "zh-CN", "ja-JP", "pt-BR", "fr-FR", "ko-KR", "it-IT", "de-DE", "hu-HU", "ru-RU", "tr-TR"

@@ -167,7 +167,7 @@ namespace VoiceOverFrameworkMod
             }
 
             // language selection (same as V1)
-            string primaryLangStr = languageCode.ToString().ToLowerInvariant();
+            string primaryLangStr = GetGameLanguageTag(languageCode).ToLowerInvariant();
             string configDefaultLangStr = (Config?.DefaultLanguage ?? "en").ToLowerInvariant();
             const string hardcodedFallbackLangStr = "en";
             bool allowFallbackToEnglish = Config?.FallbackToDefaultIfMissing ?? true;
