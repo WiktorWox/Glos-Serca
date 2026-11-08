@@ -4593,24 +4593,6 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Penny",
           "PageIndex": 0,
           "DisplayPattern": "Cześć! Mam nadzieję, że znajdziesz coś co Ci się spodoba."
-        },
-        {
-          "DialogueFrom": "Event/Forest/choseAnimals:s3",
-          "DialogueText": "Vincent! Behave yourself. Ms. {Farmer_Name} makes his living working on the farm! It's not a playground. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Penny/453_female.ogg",
-          "TranslationKey": "Events/Forest:choseAnimals:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent! Behave yourself. Ms. makes his living working on the ! It's not a playground.",
-          "GenderVariant": "female"
-        },
-        {
-          "DialogueFrom": "Event/Forest/choseAnimals:s4",
-          "DialogueText": "Vincent! Behave yourself. Ms. {Farmer_Name} makes her living working on the farm! It's not a playground. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Penny/454_female.ogg",
-          "TranslationKey": "Events/Forest:choseAnimals:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent! Behave yourself. Ms. makes her living working on the ! It's not a playground.",
-          "GenderVariant": "female"
         }
       ]
     }
