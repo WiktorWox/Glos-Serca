@@ -197,6 +197,174 @@
           "DisplayPattern": "Dla mnie... natura to ktoś, kogo znam. Z różnymi humorami."
         },
         {
+          "DialogueFrom": "Event/IslandHut/1039573:s0",
+          "DialogueText": "... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leo/128.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s1",
+          "DialogueText": "... T... ty... Ptasi przyjaciel? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leo/129.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "... T... ty... Ptasi przyjaciel?"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s2",
+          "DialogueText": "... Wyglądasz w porządku.",
+          "AudioPath": "assets/pl/Leo/130.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "... Wyglądasz w porządku."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s3",
+          "DialogueText": "... Ona pyta, czy ty ptasi przyjaciel.",
+          "AudioPath": "assets/pl/Leo/131.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ona pyta, czy ty ptasi przyjaciel."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s4",
+          "DialogueText": "Powiedziałem... tak. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/132.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Powiedziałem... tak."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s5",
+          "DialogueText": "... Straszna burza... Fale... Pioruny... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/133.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "... Straszna burza... Fale... Pioruny..."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s6",
+          "DialogueText": "Matka... Ojciec... porwani przez ocean... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/134.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Matka... Ojciec... porwani przez ocean..."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s7",
+          "DialogueText": "J... ja znalazłem się na lądzie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/135.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "J... ja znalazłem się na lądzie..."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s8",
+          "DialogueText": "... Nie, nie, nie... T... To był tylko sen... tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/136.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie, nie, nie... T... To był tylko sen... tak?"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s9",
+          "DialogueText": "... Nie... urodziłem się tutaj, tak jak każdy z moich ptasich przyjaciół. Nie widzisz?",
+          "AudioPath": "assets/pl/Leo/137.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie... urodziłem się tutaj, tak jak każdy z moich ptasich przyjaciół. Nie widzisz?"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s10",
+          "DialogueText": "Ha ha! Słyszysz? Umiemy mówić! Mówimy! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/138.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Ha ha! Słyszysz? Umiemy mówić! Mówimy!"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s11",
+          "DialogueText": "Lat? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/139.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Lat?"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s12",
+          "DialogueText": "... Nie myślimy w ten sposób.",
+          "AudioPath": "assets/pl/Leo/140.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie myślimy w ten sposób."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s13",
+          "DialogueText": "U nas jest... 'Ile zjadłeś złotych orzechów?' {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/141.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "U nas jest... 'Ile zjadłeś złotych orzechów?'"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s14",
+          "DialogueText": "... Ja zjadłem 3,729 złotych orzechów.",
+          "AudioPath": "assets/pl/Leo/142.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ja zjadłem 3,729 złotych orzechów."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s15",
+          "DialogueText": "... Ale nie jesteś jeszcze stary, dopóki nie zjesz 10,000. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/143.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ale nie jesteś jeszcze stary, dopóki nie zjesz 10,000."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s16",
+          "DialogueText": "Kiedyś zjem tyle! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/144.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedyś zjem tyle!"
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s17",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Leo/145.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s18",
+          "DialogueText": "... Coś mi się przypomniało. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/146.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "... Coś mi się przypomniało."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s19",
+          "DialogueText": "Moje imie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/147.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "Moje imie..."
+        },
+        {
+          "DialogueFrom": "Event/IslandHut/1039573:s20",
+          "DialogueText": "... Leo.",
+          "AudioPath": "assets/pl/Leo/148.ogg",
+          "TranslationKey": "Events/IslandHut:1039573:s20",
+          "PageIndex": 0,
+          "DisplayPattern": "... Leo."
+        },
+        {
           "DialogueFrom": "Event/Mountain/8959199:s0",
           "DialogueText": "Gotowe!",
           "AudioPath": "assets/pl/Leo/24.ogg",
