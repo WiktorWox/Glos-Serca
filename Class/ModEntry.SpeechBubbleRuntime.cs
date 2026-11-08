@@ -24,6 +24,17 @@ namespace VoiceOverFrameworkMod
                     yield return c;
             }
 
+            // Event actors (including temporary actors created by
+            // addTemporaryActor) are not necessarily added to the location's
+            // regular character list.
+            var eventActors = Game1.currentLocation?.currentEvent?.actors;
+            if (eventActors != null)
+            {
+                foreach (var actor in eventActors)
+                    if (actor != null)
+                        yield return actor;
+            }
+
             if (Game1.player != null)
                 yield return Game1.player;
 

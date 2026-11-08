@@ -156,11 +156,13 @@ namespace VoiceOverFrameworkMod
                 string.IsNullOrEmpty(selectedVoicePackId) ||
                 selectedVoicePackId.Equals("None", StringComparison.OrdinalIgnoreCase))
             {
-                // No explicit selection: use the same fallback as the text pipeline
-                // (default-language pack, else first pack) instead of staying silent.
+                // Use the normal character fallback when no explicit pack was
+                // configured. Exact TranslationKey lookups should not depend on
+                // the user having manually selected the pack.
                 var fallbackPack = GetSelectedVoicePack(characterName);
                 if (fallbackPack == null)
                     return null;
+
                 selectedVoicePackId = fallbackPack.VoicePackId;
             }
 
@@ -423,27 +425,156 @@ namespace VoiceOverFrameworkMod
         /// Count how many speak-ish commands for this speaker occur up to and including the current command.
         /// This reproduces the s{index} we assigned at template time without Harmony.
         /// </summary>
-        private int? ComputeSpeakIndexForCurrent(Event ev, string speakerName)
+        private int? ComputeSpeakIndexForCurrent(
+            Event ev,
+            string speakerName,
+            int currentPageIndex = 0,
+            int commandIndexOverride = -1,
+            string currentDisplayedText = null)
         {
             if (ev?.eventCommands == null || ev.eventCommands.Length == 0 || string.IsNullOrWhiteSpace(speakerName))
                 return null;
 
-            int current = ev.CurrentCommand; // public property
+            int current = commandIndexOverride >= 0 ? commandIndexOverride : ev.CurrentCommand; // public property
             if (current < 0) current = 0;
             if (current >= ev.eventCommands.Length) current = ev.eventCommands.Length - 1;
 
-            int count = 0;
+            int serial = 0;
+
+            static bool IsSpeakCommand(string value) =>
+                value.StartsWith("speak ", StringComparison.OrdinalIgnoreCase) ||
+                value.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
+
+            static int CountSlots(string value)
+            {
+                if (!IsSpeakCommand(value))
+                    return 0;
+
+                bool split = value.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
+                int branches = split ? 1 : value.Count(c => c == '^') + 1;
+                int pages = split ? 0 : Regex.Matches(value, @"#?\$b#?").Count;
+                return branches + pages;
+            }
+
+            static string FirstPageText(string value)
+            {
+                int quote = value.IndexOf('"');
+                if (quote < 0) return string.Empty;
+                string text = value.Substring(quote + 1);
+                int endQuote = text.LastIndexOf('"');
+                if (endQuote >= 0) text = text.Substring(0, endQuote);
+                text = text.Split(new[] { "#$b#" }, StringSplitOptions.None)[0];
+                text = text.Replace("$h", string.Empty).Replace("$s", string.Empty);
+                return text.Trim();
+            }
+
+            static bool MatchesDisplayed(string commandText, string displayed)
+            {
+                if (string.IsNullOrWhiteSpace(commandText) || string.IsNullOrWhiteSpace(displayed))
+                    return false;
+
+                string expected = commandText.Replace("@", Utility.FilterUserName(Game1.player?.Name) ?? string.Empty);
+                string actual = displayed.Trim();
+                return string.Equals(expected, actual, StringComparison.OrdinalIgnoreCase) ||
+                       actual.Contains(expected, StringComparison.OrdinalIgnoreCase) ||
+                       expected.Contains(actual, StringComparison.OrdinalIgnoreCase);
+            }
+
+            bool skipQuickQuestionResponseCommand = false;
             for (int i = 0; i <= current; i++)
             {
                 string line = ev.eventCommands[i];
                 if (string.IsNullOrWhiteSpace(line))
                     continue;
 
-                // commands look like: "speak Abigail \"...\"" or "splitSpeak Abigail \"a~b\""
+                // Commands include normal dialogue and event speech bubbles.
                 bool isSpeak = line.StartsWith("speak ", StringComparison.OrdinalIgnoreCase);
                 bool isSplit = line.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
+                bool isTextAboveHead = line.StartsWith("textAboveHead ", StringComparison.OrdinalIgnoreCase);
 
-                if (!isSpeak && !isSplit)
+                // Stardew keeps the selected quickQuestion response as the
+                // next runtime event command. Its serial was already assigned
+                // from the answer alternatives above, so do not count this
+                // materialized response a second time.
+                if (skipQuickQuestionResponseCommand)
+                {
+                    if (isSpeak || isSplit || isTextAboveHead)
+                    {
+                        skipQuickQuestionResponseCommand = false;
+                        continue;
+                    }
+
+                    // A pause or bookkeeping command may appear between the
+                    // question and its materialized response.
+                    if (!line.StartsWith("pause ", StringComparison.OrdinalIgnoreCase) &&
+                        !line.StartsWith("addWorldState ", StringComparison.OrdinalIgnoreCase))
+                    {
+                        skipQuickQuestionResponseCommand = false;
+                    }
+                }
+
+                if (line.StartsWith("quickQuestion ", StringComparison.OrdinalIgnoreCase))
+                {
+                    string[] sections = line.Split(new[] { "(break)" }, StringSplitOptions.None);
+                    int branchSerial = serial;
+                    int selectedBranch = -1;
+
+                    //for (int branch = 1; branch < sections.Length; branch++)
+                    //{
+                    //    string branchText = sections[branch];
+                    //    string actorToken = branchText.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries).ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+
+                    //    if ((i == current || current == i + 1) &&
+                    //        selectedBranch < 0 &&
+                    //        MatchesDisplayed(FirstPageText(branchText), currentDisplayedText))
+                    //    {
+                    //        selectedBranch = branch;
+                    //        // Each player answer occupies one serial slot.
+                    //        // The embedded speak text may contain several
+                    //        // #$b# pages, but those pages are not separate
+                    //        // answer alternatives in the generated pack.
+                    //        return branchSerial + branch - 1;
+                    //    }
+
+                    //    serial++;
+                    //}
+
+                    // The current page may be a later #$b# page from the
+                    // selected embedded branch. Match it against every page
+                    // in each branch before falling back to the branch start.
+                    int branchPages = 0;
+                    for (int branch = 1; branch < sections.Length; branch++)
+                    {
+                        string branchText = sections[branch];
+                        int firstQuote = branchText.IndexOf('"');
+                        int lastQuote = branchText.LastIndexOf('"');
+                        string branchPayload = firstQuote >= 0 && lastQuote > firstQuote
+                            ? branchText.Substring(firstQuote + 1, lastQuote - firstQuote - 1)
+                            : string.Empty;
+                        string[] pages = string.IsNullOrWhiteSpace(branchPayload)
+                            ? Array.Empty<string>()
+                            : branchPayload.Split(new[] { "#$b#" }, StringSplitOptions.None);
+                        for (int page = 0; page < pages.Length; page++)
+                        {
+                            branchPages++;
+                            if (MatchesDisplayed(pages[page].Replace("$h", string.Empty).Replace("$s", string.Empty), currentDisplayedText))
+                            {
+                                return branchSerial + branchPages - 1;
+                            }
+                        }
+                    }
+
+                    // No displayed text matched this question's embedded
+                    // branches. The event has already moved past the
+                    // question, so count all answer alternatives and
+                    // continue scanning later commands.
+                    serial = branchSerial + Math.Max(0, branchPages);
+
+                    skipQuickQuestionResponseCommand = true;
+                    continue;
+                }
+
+                if (!isSpeak && !isSplit && !isTextAboveHead)
                     continue;
 
                 // extract actor token (2nd token)
@@ -456,14 +587,61 @@ namespace VoiceOverFrameworkMod
 
                 if (actor != null && actor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
                 {
-                    // this occurrence contributes to the index
-                    // by the time the dialogue shows, ev.CurrentCommand is still on this command,
-                    // so including i==current gives the correct 0-based index.
-                    count++;
+                    // In-speak questions ("$q ...#Question#$r ...#Answer#...") are expanded by the
+                    // template generator into one slot for the question plus one per answer
+                    // (see DialogueUtil $q/$r expansion). Mirror that so later lines keep their index.
+                    if (isSpeak &&
+                        (line.IndexOf("$q", StringComparison.OrdinalIgnoreCase) >= 0 ||
+                         line.IndexOf("$r", StringComparison.OrdinalIgnoreCase) >= 0))
+                    {
+                        int qSlots = 0;
+                        int qOpen = line.IndexOf('"');
+                        int qClose = line.LastIndexOf('"');
+                        string qPayload = qOpen >= 0 && qClose > qOpen ? line.Substring(qOpen + 1, qClose - qOpen - 1) : line;
+                        string[] qSegs = qPayload.Split('#');
+                        for (int qi = 0; qi < qSegs.Length; qi++)
+                        {
+                            string seg = qSegs[qi]?.Trim() ?? string.Empty;
+                            if (seg.Length == 0) continue;
+                            if ((seg.StartsWith("$q", StringComparison.OrdinalIgnoreCase) ||
+                                 seg.StartsWith("$r", StringComparison.OrdinalIgnoreCase)) &&
+                                qi + 1 < qSegs.Length && !string.IsNullOrWhiteSpace(qSegs[qi + 1]))
+                                qSlots++;
+                        }
+                        if (i == current)
+                            return serial; // the displayed text is the question itself
+                        serial += Math.Max(1, qSlots);
+                        continue;
+                    }
+
+                    // Gender alternatives occupy separate first-page slots, while
+                    // #$b# pages after the selected branch are shared continuations.
+                    // Do not multiply the continuation pages by the branch count.
+                    int branchCount = isSpeak ? line.Count(c => c == '^') + 1 : 1;
+                    int continuationPageCount = isSpeak
+                        ? Regex.Matches(line, @"#?\$b#?").Count
+                        : 0;
+
+                    if (i == current)
+                    {
+                        int branchIndex = branchCount > 1 && Game1.player?.IsMale != true ? 1 : 0;
+                        branchIndex = Math.Clamp(branchIndex, 0, branchCount - 1);
+
+                        if (currentPageIndex <= 0)
+                            return serial + branchIndex;
+
+                        int continuationPage = Math.Clamp(
+                            currentPageIndex - 1,
+                            0,
+                            Math.Max(0, continuationPageCount - 1));
+                        return serial + branchCount + continuationPage;
+                    }
+
+                    serial += branchCount + continuationPageCount;
                 }
             }
 
-            return count > 0 ? count - 1 : (int?)0; // if the first match is the current one, its index is 0
+            return serial > 0 ? serial - 1 : 0;
         }
 
 
