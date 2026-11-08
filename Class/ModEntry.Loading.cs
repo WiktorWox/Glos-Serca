@@ -171,8 +171,21 @@ namespace VoiceOverFrameworkMod
                                     else
                                         keyForLookup = entry.DialogueText;
 
-                                    if (!string.IsNullOrWhiteSpace(keyForLookup) && !entriesDict.ContainsKey(keyForLookup))
-                                        entriesDict[keyForLookup] = audioPath;
+                                    if (!string.IsNullOrWhiteSpace(keyForLookup))
+                                    {
+                                        if (!entriesDict.TryGetValue(keyForLookup, out var existingTextAudio))
+                                        {
+                                            entriesDict[keyForLookup] = audioPath;
+                                        }
+                                        else if (!string.Equals(existingTextAudio, audioPath, StringComparison.OrdinalIgnoreCase))
+                                        {
+                                            // Same text on several days/keys: prefer the entry whose recording exists.
+                                            string packDirForText = Path.GetDirectoryName(filePath) ?? string.Empty;
+                                            if (!File.Exists(Path.Combine(packDirForText, existingTextAudio)) &&
+                                                File.Exists(Path.Combine(packDirForText, audioPath)))
+                                                entriesDict[keyForLookup] = audioPath;
+                                        }
+                                    }
 
                                     // --- DialogueFrom mapping (kept) ---
                                     if (!string.IsNullOrWhiteSpace(entry.DialogueFrom))
@@ -212,8 +225,21 @@ namespace VoiceOverFrameworkMod
                                     if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DisplayPattern))
                                     {
                                         var dpKey = CanonDisplay(entry.DisplayPattern);
-                                        if (!entriesByDisplayPattern.ContainsKey(dpKey))
+                                        if (!entriesByDisplayPattern.TryGetValue(dpKey, out var existingAudio))
+                                        {
                                             entriesByDisplayPattern[dpKey] = audioPath;
+                                        }
+                                        else if (!string.Equals(existingAudio, audioPath, StringComparison.OrdinalIgnoreCase))
+                                        {
+                                            // Several lines can share one display pattern (e.g. "Hi, @." on different days).
+                                            // Prefer the entry whose audio file actually exists, so an unrecorded duplicate
+                                            // doesn't shadow a recorded one.
+                                            string packDirForFile = Path.GetDirectoryName(filePath) ?? string.Empty;
+                                            bool existingPresent = File.Exists(Path.Combine(packDirForFile, existingAudio));
+                                            bool newPresent = File.Exists(Path.Combine(packDirForFile, audioPath));
+                                            if (!existingPresent && newPresent)
+                                                entriesByDisplayPattern[dpKey] = audioPath;
+                                        }
                                     }
                                 }
 

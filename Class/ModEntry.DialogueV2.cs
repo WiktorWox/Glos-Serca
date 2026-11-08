@@ -191,6 +191,9 @@ namespace VoiceOverFrameworkMod
             if (string.IsNullOrWhiteSpace(patternKey))
                 return;
 
+            if (Config.developerModeOn)
+                Monitor.Log($"[V2-KEY] speaker='{currentSpeaker.Name}' displayed='{currentDisplayedString}' removable=[{string.Join("|", removable)}] patternKey='{patternKey}' inPack={(selectedPack?.Entries?.ContainsKey(patternKey) == true ? "yes" : "no")}", LogLevel.Debug);
+
             // ─────────────────────────────────────────────────────────────
             // Cross-language path → DictionaryV2 decides (exact → dict fuzzy over GAME language keys)
             // ─────────────────────────────────────────────────────────────
