@@ -878,365 +878,365 @@
         },
         {
           "DialogueFrom": "Event/Farm/65:s0",
-          "DialogueText": "Hi {Farmer_Name}! I have some good news for you. A few days ago I made a breakthrough in my research on the local environment. {Portrait:Happy}",
+          "DialogueText": "Cześć {Farmer_Name}! Mam dobre wieści. Kilka dni temu odkryłem przełom w moich badaniach nad naszym otoczeniem. {Portrait:Happy}",
           "AudioPath": "assets/pl/Demetrius/109.ogg",
           "TranslationKey": "Events/Farm:65:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hi ! I have some good news for you. A few days ago I made a breakthrough in my research on the local environment."
+          "DisplayPattern": "Cześć ! Mam dobre wieści. Kilka dni temu odkryłem przełom w moich badaniach nad naszym otoczeniem."
         },
         {
           "DialogueFrom": "Event/Farm/65:s1",
-          "DialogueText": "I'll spare you the technical details and get to the point... You know that empty cave you have, over in the cliffs?",
+          "DialogueText": "Przejdę do sedna... Widzisz tę pustą jaskinię trochę na zachód?",
           "AudioPath": "assets/pl/Demetrius/110.ogg",
           "TranslationKey": "Events/Farm:65:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I'll spare you the technical details and get to the point... You know that empty cave you have, over in the cliffs?"
+          "DisplayPattern": "Przejdę do sedna... Widzisz tę pustą jaskinię trochę na zachód?"
         },
         {
           "DialogueFrom": "Event/Farm/65:s2",
-          "DialogueText": "Well, I have a way to turn it into something useful... for both of us.",
+          "DialogueText": "Cóż, mogę ją zmienić na coś użytecznego... Dla nas obojga.",
           "AudioPath": "assets/pl/Demetrius/111.ogg",
           "TranslationKey": "Events/Farm:65:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Well, I have a way to turn it into something useful... for both of us."
+          "DisplayPattern": "Cóż, mogę ją zmienić na coś użytecznego... Dla nas obojga."
         },
         {
           "DialogueFrom": "Event/Farm/65:s3",
-          "DialogueText": "I'd like to set up the cave to attract some local species. That way I can observe them in a more controlled environment. And you can harvest whatever products they produce.",
+          "DialogueText": "Chciałbym przygotować jaskinię, żeby przyciągała lokalne gatunki. W ten sposób będę mógł je obserwować w kontrolowanym otoczeniu. A ty możesz zbierać wszystko co wyprodukują.",
           "AudioPath": "assets/pl/Demetrius/112.ogg",
           "TranslationKey": "Events/Farm:65:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I'd like to set up the cave to attract some local species. That way I can observe them in a more controlled environment. And you can harvest whatever products they produce."
+          "DisplayPattern": "Chciałbym przygotować jaskinię, żeby przyciągała lokalne gatunki. W ten sposób będę mógł je obserwować w kontrolowanym otoczeniu. A ty możesz zbierać wszystko co wyprodukują."
         },
         {
           "DialogueFrom": "Event/Farm/65:s4",
-          "DialogueText": "I can either set up the cave to attract mushrooms or fruit bats. The bats will sometimes leave fruit for you to collect.",
+          "DialogueText": "To może być jaskinia na grzyby lub przyciągająca owocowe nietoperze. Nietoperze czasami zostawiają owoce.",
           "AudioPath": "assets/pl/Demetrius/113.ogg",
           "TranslationKey": "Events/Farm:65:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I can either set up the cave to attract mushrooms or fruit bats. The bats will somes leave fruit for you to collect."
+          "DisplayPattern": "To może być jaskinia na grzyby lub przyciągająca owocowe nietoperze. Nietoperze czasami zostawiają owoce."
         },
         {
           "DialogueFrom": "Event/Farm/65:s5",
-          "DialogueText": "Alright! I'll go set it up for you right now! It shouldn't take any time at all. {Portrait:Happy}",
+          "DialogueText": "Dobrze! Od razu to dla Ciebie przygotuję! Nie powinno zająć długo. {Portrait:Happy}",
           "AudioPath": "assets/pl/Demetrius/114.ogg",
           "TranslationKey": "Events/Farm:65:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Alright! I'll go set it up for you right now! It shouldn't take any at all."
+          "DisplayPattern": "Dobrze! Od razu to dla Ciebie przygotuję! Nie powinno zająć długo."
         },
         {
           "DialogueFrom": "Event/Farm/65:s6",
-          "DialogueText": "Thanks for letting me do this.",
+          "DialogueText": "Dzięki za pozwolenie.",
           "AudioPath": "assets/pl/Demetrius/115.ogg",
           "TranslationKey": "Events/Farm:65:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks for letting me do this."
+          "DisplayPattern": "Dzięki za pozwolenie."
         },
         {
           "DialogueFrom": "Event/Farm/65:s7",
-          "DialogueText": "I'm excited to see what happens with that cave. Aren't you?",
+          "DialogueText": "Jestem podekscytowany tym, co się stanie z tą jaskinią. A ty?",
           "AudioPath": "assets/pl/Demetrius/116.ogg",
           "TranslationKey": "Events/Farm:65:s7",
           "PageIndex": 0,
-          "DisplayPattern": "I'm excited to see what happens with that cave. Aren't you?"
+          "DisplayPattern": "Jestem podekscytowany tym, co się stanie z tą jaskinią. A ty?"
         },
         {
           "DialogueFrom": "Event/Farm/65:s8",
-          "DialogueText": "I hope you're pleased with the work I did.",
+          "DialogueText": "Mam nadzieję, że Ci się to spodoba.",
           "AudioPath": "assets/pl/Demetrius/117.ogg",
           "TranslationKey": "Events/Farm:65:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I hope you're pleased with the work I did."
+          "DisplayPattern": "Mam nadzieję, że Ci się to spodoba."
         },
         {
           "DialogueFrom": "Event/Town/53:s0",
-          "DialogueText": "I love your art, Leah! 'Post-Dimensional Nullspace' is my favorite. {Portrait:Happy}",
+          "DialogueText": "Kocham Twoją sztukę, Leah! 'Pusta przestrzeń' jest moją ulubioną. {Portrait:Happy}",
           "AudioPath": "assets/pl/Demetrius/118.ogg",
           "TranslationKey": "Events/Town:53:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I love your art, Leah! 'Post-Dimensional Nullspace' is my ."
+          "DisplayPattern": "Kocham Twoją sztukę, Leah! 'Pusta przestrzeń' jest moją ulubioną."
         },
         {
           "DialogueFrom": "Event/Town/191393:s0",
-          "DialogueText": "I'm in.",
+          "DialogueText": "Dołączam się.",
           "AudioPath": "assets/pl/Demetrius/119.ogg",
           "TranslationKey": "Events/Town:191393:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I'm in."
+          "DisplayPattern": "Dołączam się."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s0",
-          "DialogueText": "Thanks for helping out, {Farmer_Name}.",
+          "DialogueText": "Dzięki za pomoc, {Farmer_Name}.",
           "AudioPath": "assets/pl/Demetrius/120.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks for helping out, ."
+          "DisplayPattern": "Dzięki za pomoc, ."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s1",
-          "DialogueText": "Maru's a good kid. She's my special little girl...",
+          "DialogueText": "Maru to dobre dziecko. Jest moją wyjątkową córeczką...",
           "AudioPath": "assets/pl/Demetrius/121.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Maru's a good kid. She's my special little girl..."
+          "DisplayPattern": "Maru to dobre dziecko. Jest moją wyjątkową córeczką..."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s2",
-          "DialogueText": "I wouldn't want anything getting in the way of her bright future, know what I mean? {Portrait:Angry}",
+          "DialogueText": "Nie chciałbym, żeby coś stanęło na drodze do jej świetlanej przyszłości. Wiesz o co mi chodzi? {Portrait:Angry}",
           "AudioPath": "assets/pl/Demetrius/122.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I wouldn't want anything getting in the way of her bright future, know what I mean?"
+          "DisplayPattern": "Nie chciałbym, żeby coś stanęło na drodze do jej świetlanej przyszłości. Wiesz o co mi chodzi?"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s3",
-          "DialogueText": "Just some food for thought... *chuckle* {Portrait:Happy}",
+          "DialogueText": "Na przykład jedzenie... *hihi* {Portrait:Happy}",
           "AudioPath": "assets/pl/Demetrius/123.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Just some food for thought... *chuckle*"
+          "DisplayPattern": "Na przykład jedzenie... *hihi*"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s4",
-          "DialogueText": "...I was just telling {Farmer_Name} about the soil samples we're testing.",
+          "DialogueText": "... Opowiadałem {Farmer_Name} o próbkach ziemi, które badamy.",
           "AudioPath": "assets/pl/Demetrius/124.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s4",
           "PageIndex": 0,
-          "DisplayPattern": "...I was just telling about the soil samples we're testing."
+          "DisplayPattern": "... Opowiadałem o próbkach ziemi, które badamy."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s5",
-          "DialogueText": "Right, {Farmer_Name}?",
+          "DialogueText": "Prawda, {Farmer_Name}?",
           "AudioPath": "assets/pl/Demetrius/125.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Right, ?"
+          "DisplayPattern": "Prawda, ?"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s6",
-          "DialogueText": "(Say nothing)",
+          "DialogueText": "(Nic nie mów)",
           "AudioPath": "assets/pl/Demetrius/126.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s6",
           "PageIndex": 0,
-          "DisplayPattern": "(Say nothing)"
+          "DisplayPattern": "(Nic nie mów)"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/6:s7",
-          "DialogueText": "Actually, your Dad was being weird.",
+          "DialogueText": "W sumie, Twój tata dziwnie się zachowywał.",
           "AudioPath": "assets/pl/Demetrius/127.ogg",
           "TranslationKey": "Events/ScienceHouse:6:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Actually, your Dad was being weird."
+          "DisplayPattern": "W sumie, Twój tata dziwnie się zachowywał."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/DadWeird:s0",
-          "DialogueText": "Okay, okay... we were talking about you, sweetie. {Portrait:Angry}",
+          "DialogueText": "Ok, ok... rozmawialiśmy o Tobie, słonko. {Portrait:Angry}",
           "AudioPath": "assets/pl/Demetrius/128.ogg",
           "TranslationKey": "Events/ScienceHouse:DadWeird:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Okay, okay... we were talking about you, sweetie."
+          "DisplayPattern": "Ok, ok... rozmawialiśmy o Tobie, słonko."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/DadWeird:s1",
-          "DialogueText": "I wanted to say a few things to {Farmer_Name} about you... but I didn't want to embarrass you. I shouldn't have lied about it. {Portrait:Sad}",
+          "DialogueText": "Chciałem tylko o Tobie poopowiadać... ale nie chciałem Cię zawstydzać. Nie powinienem Cię okłamywać. {Portrait:Sad}",
           "AudioPath": "assets/pl/Demetrius/129.ogg",
           "TranslationKey": "Events/ScienceHouse:DadWeird:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I wanted to say a few things to about you... but I didn't want to embarrass you. I shouldn't have lied about it."
+          "DisplayPattern": "Chciałem tylko o Tobie poopowiadać... ale nie chciałem Cię zawstydzać. Nie powinienem Cię okłamywać."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s0",
-          "DialogueText": "I don't understand. Tomatoes are fruits!",
+          "DialogueText": "Nie rozumiem. Pomidory są owocami!",
           "AudioPath": "assets/pl/Demetrius/130.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I don't understand. Tomatoes are fruits!"
+          "DisplayPattern": "Nie rozumiem. Pomidory są owocami!"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s1",
-          "DialogueText": "{Farmer_Name}! I'm glad you're here. You'll be able to put this argument to rest.",
+          "DialogueText": "{Farmer_Name}! Cieszę się, że jesteś. Dzięki Tobie rozstrzygniemy nasz spór.",
           "AudioPath": "assets/pl/Demetrius/131.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s1",
           "PageIndex": 0,
-          "DisplayPattern": "! I'm glad you're here. You'll be able to put this argument to rest."
+          "DisplayPattern": "! Cieszę się, że jesteś. Dzięki Tobie rozstrzygniemy nasz spór."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s2",
-          "DialogueText": "How would you classify a tomato?",
+          "DialogueText": "Pomidor to owoc czy warzywo?",
           "AudioPath": "assets/pl/Demetrius/132.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s2",
           "PageIndex": 0,
-          "DisplayPattern": "How would you classify a tomato?"
+          "DisplayPattern": "Pomidor to owoc czy warzywo?"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s3",
-          "DialogueText": "Vegetable",
+          "DialogueText": "Warzywo",
           "AudioPath": "assets/pl/Demetrius/133.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Vegetable"
+          "DisplayPattern": "Warzywo"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s4",
-          "DialogueText": "Fruit",
+          "DialogueText": "Owoc",
           "AudioPath": "assets/pl/Demetrius/134.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Fruit"
+          "DisplayPattern": "Owoc"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s5",
-          "DialogueText": "I just want you to understand my point of view.",
+          "DialogueText": "Chcę tylko, żebyście zrozumieli mój punkt widzenia.",
           "AudioPath": "assets/pl/Demetrius/135.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s5",
           "PageIndex": 0,
-          "DisplayPattern": "I just want you to understand my point of view."
+          "DisplayPattern": "Chcę tylko, żebyście zrozumieli mój punkt widzenia."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s6",
-          "DialogueText": "It's hard for me to know exactly what assumptions I should make when you tell me something.",
+          "DialogueText": "Trudno mi zrozumieć co dokładnie macie na myśli.",
           "AudioPath": "assets/pl/Demetrius/136.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s6",
           "PageIndex": 0,
-          "DisplayPattern": "It's hard for me to know exactly what assumptions I should make when you tell me something."
+          "DisplayPattern": "Trudno mi zrozumieć co dokładnie macie na myśli."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s7",
-          "DialogueText": "But I'll try to get better at it.",
+          "DialogueText": "Ale spróbuję się poprawić.",
           "AudioPath": "assets/pl/Demetrius/137.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s7",
           "PageIndex": 0,
-          "DisplayPattern": "But I'll try to get better at it."
+          "DisplayPattern": "Ale spróbuję się poprawić."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s8",
-          "DialogueText": "Thanks for your help, {Farmer_Name}. {Portrait:Happy}",
+          "DialogueText": "Dzięki za pomoc, {Farmer_Name}. {Portrait:Happy}",
           "AudioPath": "assets/pl/Demetrius/138.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks for your help, ."
+          "DisplayPattern": "Dzięki za pomoc, ."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s0",
-          "DialogueText": "Ah Ha! I knew it! {Portrait:Love}",
+          "DialogueText": "Aha! Wiedziałem! {Portrait:Love}",
           "AudioPath": "assets/pl/Demetrius/139.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ah Ha! I knew it!"
+          "DisplayPattern": "Aha! Wiedziałem!"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s1",
-          "DialogueText": "Agh! What is it?! {Portrait:Custom:6}",
+          "DialogueText": "AAA! Co to jest?! {Portrait:Custom:6}",
           "AudioPath": "assets/pl/Demetrius/140.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Agh! What is it?!"
+          "DisplayPattern": "AAA! Co to jest?!"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s2",
-          "DialogueText": "Sweet Yoba... it talks! {Portrait:Custom:6}",
+          "DialogueText": "Słodki Yoba... To mówi! {Portrait:Custom:6}",
           "AudioPath": "assets/pl/Demetrius/141.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Sweet Yoba... it talks!"
+          "DisplayPattern": "Słodki Yoba... To mówi!"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s3",
-          "DialogueText": "This is why you've locked yourself in your room the last few months? {Portrait:Angry}",
+          "DialogueText": "To dlatego siedziałaś tu przez kilka miesięcy? {Portrait:Angry}",
           "AudioPath": "assets/pl/Demetrius/142.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s3",
           "PageIndex": 0,
-          "DisplayPattern": "This is why you've locked yourself in your room the last few months?"
+          "DisplayPattern": "To dlatego siedziałaś tu przez kilka miesięcy?"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s4",
-          "DialogueText": "...and I thought you were down here fooling around with {Farmer_Name}... {Portrait:Sad}",
+          "DialogueText": "... a ja myślałem, że ty i {Farmer_Name} razem się wygłupialiście... {Portrait:Sad}",
           "AudioPath": "assets/pl/Demetrius/143.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s4",
           "PageIndex": 0,
-          "DisplayPattern": "...and I thought you were down here fooling around with ..."
+          "DisplayPattern": "... a ja myślałem, że ty i razem się wygłupialiście..."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s5",
-          "DialogueText": "It's okay, Maru. Let MarILDA go free. {Portrait:Angry}",
+          "DialogueText": "Nic się nie dzieje, Maru. Pozwól jej odejść. {Portrait:Angry}",
           "AudioPath": "assets/pl/Demetrius/144.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s5",
           "PageIndex": 0,
-          "DisplayPattern": "It's okay, Maru. Let MarILDA go free."
+          "DisplayPattern": "Nic się nie dzieje, Maru. Pozwól jej odejść."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s6",
-          "DialogueText": "Your mother and I can take care of ourselves. I know you're ready to start a life of your own, and I've come to terms with the thought of not having you around anymore.",
+          "DialogueText": "Twoja matka i ja damy sobie radę. Wiem, że jesteś gotowa żyć na własną rękę i pogodziłem się z tym, że kiedyś może Cię tu nie być.",
           "AudioPath": "assets/pl/Demetrius/145.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Your mother and I can take care of ourselves. I know you're ready to start a life of your own, and I've come to terms with the thought of not having you around anymore."
+          "DisplayPattern": "Twoja matka i ja damy sobie radę. Wiem, że jesteś gotowa żyć na własną rękę i pogodziłem się z tym, że kiedyś może Cię tu nie być."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s7",
-          "DialogueText": "Besides, this... creation of yours seems pretty advanced. It wouldn't feel right to keep her as a servant.",
+          "DialogueText": "Ponadto, ta... konstrukcja jest bardzo zaawansowana. Zmarnowalibyśmy ją, gdyby została naszą służącą.",
           "AudioPath": "assets/pl/Demetrius/146.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Besides, this... creation of yours seems pretty advanced. It wouldn't feel right to keep her as a servant."
+          "DisplayPattern": "Ponadto, ta... konstrukcja jest bardzo zaawansowana. Zmarnowalibyśmy ją, gdyby została naszą służącą."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s8",
-          "DialogueText": "{Farmer_Name}, I'm sorry I mistrusted you. You're a good guy. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Demetrius/147_male.ogg",
+          "DialogueText": "{Farmer_Name}, Wybacz, że Ci nie ufałem. Jesteś w porządku. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/147.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s8",
           "PageIndex": 0,
-          "DisplayPattern": ", I'm sorry I mistrusted you. You're a good guy.",
-          "GenderVariant": "male"
+          "DisplayPattern": ", Wybacz, że Ci nie ufałem. Jesteś w porządku."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s9",
-          "DialogueText": "{Farmer_Name}, I'm sorry I mistrusted you. You're a fine young woman. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Demetrius/148_female.ogg",
+          "DialogueText": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałeś na to wpływ, to jestem ci wdzięczny.",
+          "AudioPath": "assets/pl/Demetrius/148_male.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s9",
           "PageIndex": 0,
-          "DisplayPattern": ", I'm sorry I mistrusted you. You're a fine young woman.",
-          "GenderVariant": "female"
+          "DisplayPattern": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałeś na to wpływ, to jestem ci wdzięczny.",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/10:s10",
-          "DialogueText": "I've never seen Maru so lively and creative... and I've never been more proud of her. If you've had a hand in that, then you have my gratitude.",
-          "AudioPath": "assets/pl/Demetrius/149.ogg",
+          "DialogueText": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałaś na to wpływ, to jestem ci wdzięczny.",
+          "AudioPath": "assets/pl/Demetrius/149_female.ogg",
           "TranslationKey": "Events/ScienceHouse:10:s10",
           "PageIndex": 0,
-          "DisplayPattern": "I've never seen Maru so lively and creative... and I've never been more proud of her. If you've had a hand in that, then you have my gratitude."
+          "DisplayPattern": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałaś na to wpływ, to jestem ci wdzięczny.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s0",
-          "DialogueText": "Um... Robin? What's the point of the four posts? It seems like an inefficient use of materials. {Portrait:Sad}",
+          "DialogueText": "Um... Robin? Po co są te cztery słupy? Wyglądają na zmarnowane materiały. {Portrait:Sad}",
           "AudioPath": "assets/pl/Demetrius/150.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Um... Robin? What's the point of the four posts? It seems like an inefficient use of materials."
+          "DisplayPattern": "Um... Robin? Po co są te cztery słupy? Wyglądają na zmarnowane materiały."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s1",
-          "DialogueText": "Hmm, I see your point.. But we can't let that outweigh the utility and efficiency of the sleep receptacle.",
+          "DialogueText": "Hmm, rozumiem Twój tok rozumowania... Ale nie można pozwolić, aby przeważyło to nad użytecznością i wydajnością pojemnika do spania.",
           "AudioPath": "assets/pl/Demetrius/151.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Hmm, I see your point.. But we can't let that outweigh the utility and efficiency of the sleep receptacle."
+          "DisplayPattern": "Hmm, rozumiem Twój tok rozumowania... Ale nie można pozwolić, aby przeważyło to nad użytecznością i wydajnością pojemnika do spania."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s2",
-          "DialogueText": "*ahem*... Well... If anyone needs me, I'll be in the doghouse... {Portrait:Angry}",
+          "DialogueText": "*ekhem*... Cóż... Jeśli ktokolwiek będzie mnie potrzebował, będę w budzie... {Portrait:Angry}",
           "AudioPath": "assets/pl/Demetrius/152.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s2",
           "PageIndex": 0,
-          "DisplayPattern": "*ahem*... Well... If anyone needs me, I'll be in the doghouse..."
+          "DisplayPattern": "*ekhem*... Cóż... Jeśli ktokolwiek będzie mnie potrzebował, będę w budzie..."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s3",
-          "DialogueText": "Great minds think alike... {Portrait:Happy}",
+          "DialogueText": "Wielkie umysły myślą tak samo... {Portrait:Happy}",
           "AudioPath": "assets/pl/Demetrius/153.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Great minds think alike..."
+          "DisplayPattern": "Wielkie umysły myślą tak samo..."
         },
         {
           "DialogueFrom": "Festival/fall16/Demetrius",

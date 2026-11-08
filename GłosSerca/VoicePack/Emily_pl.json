@@ -2412,982 +2412,992 @@
         },
         {
           "DialogueFrom": "Event/Farm/3917600:s0",
-          "DialogueText": "Hey, honey... before you get to work today, do you have a moment?",
+          "DialogueText": "Hej, kochanie... zanim pójdziesz do pracy, masz może chwilę?",
           "AudioPath": "assets/pl/Emily/299.ogg",
           "TranslationKey": "Events/Farm:3917600:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, honey... before you get to work today, do you have a moment?"
+          "DisplayPattern": "Hej, kochanie... zanim pójdziesz do pracy, masz może chwilę?"
         },
         {
           "DialogueFrom": "Event/Farm/3917600:s1",
-          "DialogueText": "I've been working on something special for you... but I need a little help finishing it.",
+          "DialogueText": "Pracowałam nad czymś wyjątkowym, specjalnie dla Ciebie... ale potrzebuję drobnej pomocy.",
           "AudioPath": "assets/pl/Emily/300.ogg",
           "TranslationKey": "Events/Farm:3917600:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I've been working on something special for you... but I need a little help finishing it."
+          "DisplayPattern": "Pracowałam nad czymś wyjątkowym, specjalnie dla Ciebie... ale potrzebuję drobnej pomocy."
         },
         {
           "DialogueFrom": "Event/Farm/3917600:s2",
-          "DialogueText": "It's a secret, so I can't tell you what it is... but could you bring me 200 pieces of fiber?",
+          "DialogueText": "To tajemnica, więc nie mogę Ci powiedzieć o co chodzi... ale możesz mi przynieść 200 sztuk włókna?",
           "AudioPath": "assets/pl/Emily/301.ogg",
           "TranslationKey": "Events/Farm:3917600:s2",
           "PageIndex": 0,
-          "DisplayPattern": "It's a secret, so I can't tell you what it is... but could you bring me 200 pieces of fiber?"
+          "DisplayPattern": "To tajemnica, więc nie mogę Ci powiedzieć o co chodzi... ale możesz mi przynieść 200 sztuk włókna?"
         },
         {
           "DialogueFrom": "Event/Farm/3917600:s3",
-          "DialogueText": "That's all I need! Just bring the 200 fiber by when you have a chance... no rush!",
+          "DialogueText": "To wszystko, czego mi trzeba! Po prostu przynieś mi je, przy najbliższej okazji... bez pośpiechu!",
           "AudioPath": "assets/pl/Emily/302.ogg",
           "TranslationKey": "Events/Farm:3917600:s3",
           "PageIndex": 0,
-          "DisplayPattern": "That's all I need! Just bring the 200 fiber by when you have a chance... no rush!"
+          "DisplayPattern": "To wszystko, czego mi trzeba! Po prostu przynieś mi je, przy najbliższej okazji... bez pośpiechu!"
         },
         {
           "DialogueFrom": "Event/Farm/3917600:s4",
-          "DialogueText": "No peeking! You'll see the end result soon.",
+          "DialogueText": "Bez podglądania! Zobaczysz jak skończę.",
           "AudioPath": "assets/pl/Emily/303.ogg",
           "TranslationKey": "Events/Farm:3917600:s4",
           "PageIndex": 0,
-          "DisplayPattern": "No peeking! You'll see the end result soon."
+          "DisplayPattern": "Bez podglądania! Zobaczysz jak skończę."
         },
         {
           "DialogueFrom": "Event/Farm/992559:s0",
-          "DialogueText": "Hi {Farmer_Name}! Good morning!",
+          "DialogueText": "Cześć {Farmer_Name}! Dzień dobry!",
           "AudioPath": "assets/pl/Emily/304.ogg",
           "TranslationKey": "Events/Farm:992559:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hi ! Good morning!"
+          "DisplayPattern": "Cześć ! Dzień dobry!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s1",
-          "DialogueText": "You seem to be doing well... the farm looks great! {Portrait:Happy}",
+          "DialogueText": "Dobrze Ci się powodzi... Ładnie masz tu na farmie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Emily/305.ogg",
           "TranslationKey": "Events/Farm:992559:s1",
           "PageIndex": 0,
-          "DisplayPattern": "You seem to be doing well... the looks great!"
+          "DisplayPattern": "Dobrze Ci się powodzi... Ładnie masz tu na ie!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s2",
-          "DialogueText": "So... you've been here a while, and I'm sure you've acquired some 'cloth' by now... right?",
+          "DialogueText": "Mieszkasz tu już dość długo i na pewno masz jakieś 'płótno'... tak?",
           "AudioPath": "assets/pl/Emily/306.ogg",
           "TranslationKey": "Events/Farm:992559:s2",
           "PageIndex": 0,
-          "DisplayPattern": "So... you've been here a while, and I'm sure you've acquired some 'cloth' by now... right?"
+          "DisplayPattern": "Mieszkasz tu już dość długo i na pewno masz jakieś 'płótno'... tak?"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s3",
-          "DialogueText": "Well, did you know that you can use cloth to tailor all kinds of clothes? All you need is access to a sewing machine...",
+          "DialogueText": "Wiesz, że możesz używać płótna do szycia ubrań? Jedyne czego będzie Ci trzeba, to maszyna do szycia...",
           "AudioPath": "assets/pl/Emily/307.ogg",
           "TranslationKey": "Events/Farm:992559:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Well, did you know that you can use cloth to tailor all kinds of clothes? All you need is access to a sewing machine..."
+          "DisplayPattern": "Wiesz, że możesz używać płótna do szycia ubrań? Jedyne czego będzie Ci trzeba, to maszyna do szycia..."
         },
         {
           "DialogueFrom": "Event/Farm/992559:s4",
-          "DialogueText": "And I happen to have one at home! Feel free to swing by and use it any time. {Portrait:Happy}",
+          "DialogueText": "I tak się składa, że mam jedną w domu! Używaj jej ile chcesz. {Portrait:Happy}",
           "AudioPath": "assets/pl/Emily/308.ogg",
           "TranslationKey": "Events/Farm:992559:s4",
           "PageIndex": 1,
-          "DisplayPattern": "And I happen to have one at home! Feel free to swing by and use it any ."
+          "DisplayPattern": "I tak się składa, że mam jedną w domu! Używaj jej ile chcesz."
         },
         {
           "DialogueFrom": "Event/Farm/992559:s5",
-          "DialogueText": "You can now access Emily's sewing machine!",
+          "DialogueText": "Od teraz możesz używać maszyny do szycia Emily!",
           "AudioPath": "assets/pl/Emily/309.ogg",
           "TranslationKey": "Events/Farm:992559:s5",
           "PageIndex": 0,
-          "DisplayPattern": "You can now access Emily's sewing machine!"
+          "DisplayPattern": "Od teraz możesz używać maszyny do szycia Emily!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s6",
-          "DialogueText": "To start tailoring, you'll need a piece of cloth and a secondary item. Experiment and see what unique styles are out there!",
+          "DialogueText": "Żeby zacząć szyć, będzie potrzebny materiał i drugi przedmiot. Eksperymentuj, żeby odkrywać nowe stylowe ciuszki!",
           "AudioPath": "assets/pl/Emily/310.ogg",
           "TranslationKey": "Events/Farm:992559:s6",
           "PageIndex": 0,
-          "DisplayPattern": "To start tailoring, you'll need a piece of cloth and a secondary item. Experiment and see what unique styles are out there!"
+          "DisplayPattern": "Żeby zacząć szyć, będzie potrzebny materiał i drugi przedmiot. Eksperymentuj, żeby odkrywać nowe stylowe ciuszki!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s0",
-          "DialogueText": "Good morning, {Farmer_Name}. {Portrait:Happy}",
+          "DialogueText": "Dzień dobry, {Farmer_Name}. {Portrait:Happy}",
           "AudioPath": "assets/pl/Emily/311.ogg",
           "TranslationKey": "Events/Farm:992559:s0",
           "PageIndex": 1,
-          "DisplayPattern": "Good morning, ."
+          "DisplayPattern": "Dzień dobry, ."
         },
         {
           "DialogueFrom": "Event/Farm/992559:s1",
-          "DialogueText": "I just remembered... I have a sewing machine at my old place!",
+          "DialogueText": "Przypomniałam sobie... Że miałam maszynę do szycia w moim dawnym domu!",
           "AudioPath": "assets/pl/Emily/312.ogg",
           "TranslationKey": "Events/Farm:992559:s1",
           "PageIndex": 1,
-          "DisplayPattern": "I just remembered... I have a sewing machine at my old !"
+          "DisplayPattern": "Przypomniałam sobie... Że miałam maszynę do szycia w moim dawnym domu!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s2",
-          "DialogueText": "If you ever feel like making clothes, you should swing by and check it out. {Portrait:Happy}",
+          "DialogueText": "Jeśli chcesz coś uszyć, wpadnij i sprawdź. {Portrait:Happy}",
           "AudioPath": "assets/pl/Emily/313.ogg",
           "TranslationKey": "Events/Farm:992559:s2",
           "PageIndex": 1,
-          "DisplayPattern": "If you ever feel like making clothes, you should swing by and check it out."
+          "DisplayPattern": "Jeśli chcesz coś uszyć, wpadnij i sprawdź."
         },
         {
           "DialogueFrom": "Event/Farm/992559:s3",
-          "DialogueText": "You can now access Emily's sewing machine!",
+          "DialogueText": "Od teraz możesz używać maszyny do szycia Emily!",
           "AudioPath": "assets/pl/Emily/314.ogg",
           "TranslationKey": "Events/Farm:992559:s3",
           "PageIndex": 1,
-          "DisplayPattern": "You can now access Emily's sewing machine!"
+          "DisplayPattern": "Od teraz możesz używać maszyny do szycia Emily!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s4",
-          "DialogueText": "To start tailoring, you'll need a piece of cloth and a secondary item. Experiment and see what unique styles are out there!",
+          "DialogueText": "Żeby zacząć szyć, będzie potrzebny materiał i drugi przedmiot. Eksperymentuj, żeby odkrywać nowe stylowe ciuszki!",
           "AudioPath": "assets/pl/Emily/315.ogg",
           "TranslationKey": "Events/Farm:992559:s4",
           "PageIndex": 0,
-          "DisplayPattern": "To start tailoring, you'll need a piece of cloth and a secondary item. Experiment and see what unique styles are out there!"
+          "DisplayPattern": "Żeby zacząć szyć, będzie potrzebny materiał i drugi przedmiot. Eksperymentuj, żeby odkrywać nowe stylowe ciuszki!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s5",
-          "DialogueText": "I'm going to have a lot of fun seeing you in all kinds of different outfits! {Portrait:Happy}",
+          "DialogueText": "Nie mogę się doczekać aż Cię zobaczę w nowych strojach! {Portrait:Happy}",
           "AudioPath": "assets/pl/Emily/316.ogg",
           "TranslationKey": "Events/Farm:992559:s5",
           "PageIndex": 1,
-          "DisplayPattern": "I'm going to have a lot of fun seeing you in all kinds of different outfits!"
+          "DisplayPattern": "Nie mogę się doczekać aż Cię zobaczę w nowych strojach!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s0",
-          "DialogueText": "Welcome home, {Farmer_Name}. I hope you had a nice day.",
+          "DialogueText": "Witaj w domu, {Farmer_Name}. Mam nadzieję, że wszystko u Ciebie w porządku.",
           "AudioPath": "assets/pl/Emily/317.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Welcome home, . I hope you had a nice day."
+          "DisplayPattern": "Witaj w domu, . Mam nadzieję, że wszystko u Ciebie w porządku."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s1",
-          "DialogueText": "So... I finished that secret project I was working on.",
+          "DialogueText": "Skończyłam mój tajny projekt nad którym pracowałam.",
           "AudioPath": "assets/pl/Emily/318.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s1",
           "PageIndex": 0,
-          "DisplayPattern": "So... I finished that secret project I was working on."
+          "DisplayPattern": "Skończyłam mój tajny projekt nad którym pracowałam."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s2",
-          "DialogueText": "It's a brand new hand-made outfit for you! {Portrait:Happy}",
+          "DialogueText": "To nowiutki, własnoręcznie zrobiony strój, specjalnie dla Ciebie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Emily/319.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s2",
           "PageIndex": 0,
-          "DisplayPattern": "It's a brand new hand-made outfit for you!"
+          "DisplayPattern": "To nowiutki, własnoręcznie zrobiony strój, specjalnie dla Ciebie!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s3",
-          "DialogueText": "Received Emily's Magic Hat, Emily's Magic Boots, Emily's Magic Shirt, and a matching set of pants!",
+          "DialogueText": "Otrzymano Magiczną Czapkę Emily, Magiczne Buty Emily, Magiczną Koszule Emily i spodnie do kompletu!",
           "AudioPath": "assets/pl/Emily/320.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Received Emily's Magic Hat, Emily's Magic Boots, Emily's Magic Shirt, and a matching set of pants!"
+          "DisplayPattern": "Otrzymano Magiczną Czapkę Emily, Magiczne Buty Emily, Magiczną Koszule Emily i spodnie do kompletu!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s4",
-          "DialogueText": "I've always loved sewing and making crafts... So I thought it'd be nice to make you something by hand. I had a lot of fun!",
+          "DialogueText": "Zawsze uwielbiałam szyć... więc pomyślałam, że zrobię Ci coś własnoręcznie. Dobrze się przy tym bawiłam!",
           "AudioPath": "assets/pl/Emily/321.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I've always loved sewing and making crafts... So I thought it'd be nice to make you something by hand. I had a lot of fun!"
+          "DisplayPattern": "Zawsze uwielbiałam szyć... więc pomyślałam, że zrobię Ci coś własnoręcznie. Dobrze się przy tym bawiłam!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s5",
-          "DialogueText": "I hope it fits right... and that the fiber isn't too itchy.",
+          "DialogueText": "Mam nadzieję, że pasuje... i że materiał cię nie gryzie.",
           "AudioPath": "assets/pl/Emily/322.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s5",
           "PageIndex": 0,
-          "DisplayPattern": "I hope it fits right... and that the fiber isn't too itchy."
+          "DisplayPattern": "Mam nadzieję, że pasuje... i że materiał cię nie gryzie."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s6",
-          "DialogueText": "There's boots, a hat, a shirt, and pants! It's a complete outfit.",
+          "DialogueText": "Buty, czapka, koszula i spodnie! Cały komplet.",
           "AudioPath": "assets/pl/Emily/323.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s6",
           "PageIndex": 0,
-          "DisplayPattern": "There's boots, a hat, a shirt, and pants! It's a complete outfit."
+          "DisplayPattern": "Buty, czapka, koszula i spodnie! Cały komplet."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s7",
-          "DialogueText": "Now, when you wear those clothes, you'll think of me... and you'll know I'm here waiting for you to come home safe... okay? {Portrait:Love}",
-          "AudioPath": "assets/pl/Emily/324.ogg",
+          "DialogueText": "Jak to będziesz nosić, będziesz myślał o mnie... i będziesz wiedział, że na Ciebie czekam i że masz wrócić do domu w jednym kawałku... rozumiesz? {Portrait:Love}",
+          "AudioPath": "assets/pl/Emily/324_male.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Now, when you wear those clothes, you'll think of me... and you'll know I'm here waiting for you to come home safe... okay?"
+          "DisplayPattern": "Jak to będziesz nosić, będziesz myślał o mnie... i będziesz wiedział, że na Ciebie czekam i że masz wrócić do domu w jednym kawałku... rozumiesz?",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3917601:s8",
-          "DialogueText": "Time for bed.",
-          "AudioPath": "assets/pl/Emily/325.ogg",
+          "DialogueText": "Jak je będziesz nosiła, będziesz myślała o mnie... i będziesz wiedziała, że na Ciebie czekam i że masz wrócić do domu w jednym kawałku... rozumiesz? {Portrait:Love}",
+          "AudioPath": "assets/pl/Emily/325_female.ogg",
           "TranslationKey": "Events/FarmHouse:3917601:s8",
           "PageIndex": 0,
-          "DisplayPattern": "for bed."
+          "DisplayPattern": "Jak je będziesz nosiła, będziesz myślała o mnie... i będziesz wiedziała, że na Ciebie czekam i że masz wrócić do domu w jednym kawałku... rozumiesz?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917601:s9",
+          "DialogueText": "Pora spać.",
+          "AudioPath": "assets/pl/Emily/326.ogg",
+          "TranslationKey": "Events/FarmHouse:3917601:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Pora spać."
         },
         {
           "DialogueFrom": "Event/Town/831125:s0",
-          "DialogueText": "Yes!",
-          "AudioPath": "assets/pl/Emily/326.ogg",
+          "DialogueText": "Tak!",
+          "AudioPath": "assets/pl/Emily/327.ogg",
           "TranslationKey": "Events/Town:831125:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Yes!"
+          "DisplayPattern": "Tak!"
         },
         {
           "DialogueFrom": "Event/Town/831125:s1",
-          "DialogueText": "I thought we had something special... I guess I was wrong. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/327.ogg",
+          "DialogueText": "Myślałam, że łączy nas coś specjalnego... Chyba się myliłam. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/328.ogg",
           "TranslationKey": "Events/Town:831125:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I thought we had something special... I guess I was wrong."
+          "DisplayPattern": "Myślałam, że łączy nas coś specjalnego... Chyba się myliłam."
         },
         {
           "DialogueFrom": "Event/Town/831125:s2",
-          "DialogueText": "I thought we had something special... You said you wouldn't leave me for anything. I guess that was a lie. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/328.ogg",
+          "DialogueText": "Myślałam, że łączy nas coś specjalnego... Mówiłeś, że mnie nie zostawisz. Jednak to były kłamstwa. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/329.ogg",
           "TranslationKey": "Events/Town:831125:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I thought we had something special... You said you wouldn't leave me for anything. I guess that was a lie."
+          "DisplayPattern": "Myślałam, że łączy nas coś specjalnego... Mówiłeś, że mnie nie zostawisz. Jednak to były kłamstwa."
         },
         {
           "DialogueFrom": "Event/Town/831125:s3",
-          "DialogueText": "But... But... Isn't soda unhealthy? You promised me... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/329.ogg",
+          "DialogueText": "Ale... Ale... Czy to jest zdrowe? Obiecałeś mi... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/330.ogg",
           "TranslationKey": "Events/Town:831125:s3",
           "PageIndex": 0,
-          "DisplayPattern": "But... But... Isn't soda unhealthy? You promised me..."
+          "DisplayPattern": "Ale... Ale... Czy to jest zdrowe? Obiecałeś mi..."
         },
         {
           "DialogueFrom": "Event/Town/831125:s4",
-          "DialogueText": "...Clint? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/330.ogg",
+          "DialogueText": "... Clint? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/331.ogg",
           "TranslationKey": "Events/Town:831125:s4",
           "PageIndex": 0,
-          "DisplayPattern": "...Clint?"
+          "DisplayPattern": "... Clint?"
         },
         {
           "DialogueFrom": "Event/Town/831125:s5",
-          "DialogueText": "What a productive day... I got some great footage.",
-          "AudioPath": "assets/pl/Emily/331.ogg",
+          "DialogueText": "Cóż za produktywny dzień... Mam świetny materiał.",
+          "AudioPath": "assets/pl/Emily/332.ogg",
           "TranslationKey": "Events/Town:831125:s5",
           "PageIndex": 0,
-          "DisplayPattern": "What a productive day... I got some great footage."
+          "DisplayPattern": "Cóż za produktywny dzień... Mam świetny materiał."
         },
         {
           "DialogueFrom": "Event/Town/101:s0",
-          "DialogueText": "Sorry, Caroline. Could you excuse me for a minute?",
-          "AudioPath": "assets/pl/Emily/332.ogg",
+          "DialogueText": "Przepraszam, Caroline. Czy mogłabyś mi na chwilę wybaczyć?",
+          "AudioPath": "assets/pl/Emily/333.ogg",
           "TranslationKey": "Events/Town:101:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Sorry, Caroline. Could you excuse me for a minute?"
+          "DisplayPattern": "Przepraszam, Caroline. Czy mogłabyś mi na chwilę wybaczyć?"
         },
         {
           "DialogueFrom": "Event/Town/101:s1",
-          "DialogueText": "Yes, Clint?",
-          "AudioPath": "assets/pl/Emily/333.ogg",
+          "DialogueText": "Tak, Clint?",
+          "AudioPath": "assets/pl/Emily/334.ogg",
           "TranslationKey": "Events/Town:101:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, Clint?"
+          "DisplayPattern": "Tak, Clint?"
         },
         {
           "DialogueFrom": "Event/Town/101:s2",
-          "DialogueText": "Sure, Clint! That sounds fun! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/334.ogg",
+          "DialogueText": "Pewnie, Clint! Brzmi fajnie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/335.ogg",
           "TranslationKey": "Events/Town:101:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Sure, Clint! That sounds fun!"
+          "DisplayPattern": "Pewnie, Clint! Brzmi fajnie!"
         },
         {
           "DialogueFrom": "Event/Town/101:s3",
-          "DialogueText": "Okay! See you tomorrow!",
-          "AudioPath": "assets/pl/Emily/335.ogg",
+          "DialogueText": "Ok! Do zobaczenia jutro!",
+          "AudioPath": "assets/pl/Emily/336.ogg",
           "TranslationKey": "Events/Town:101:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Okay! See you tomorrow!"
+          "DisplayPattern": "Ok! Do zobaczenia jutro!"
         },
         {
           "DialogueFrom": "Event/Town/191393:s0",
-          "DialogueText": "It... It was a lot of fun... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/336.ogg",
+          "DialogueText": "Była... była z tym masa frajdy... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/337.ogg",
           "TranslationKey": "Events/Town:191393:s0",
           "PageIndex": 0,
-          "DisplayPattern": "It... It was a lot of fun..."
+          "DisplayPattern": "Była... była z tym masa frajdy..."
         },
         {
           "DialogueFrom": "Event/Town/463391:s0",
-          "DialogueText": "Ah... Another beautiful day in Pelican Town.",
-          "AudioPath": "assets/pl/Emily/337.ogg",
+          "DialogueText": "Ach... Kolejny, piękny dzień w Mieście Pelikan.",
+          "AudioPath": "assets/pl/Emily/338.ogg",
           "TranslationKey": "Events/Town:463391:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... Another beautiful day in Pelican Town."
+          "DisplayPattern": "Ach... Kolejny, piękny dzień w Mieście Pelikan."
         },
         {
           "DialogueFrom": "Event/Town/463391:s1",
-          "DialogueText": "My friends!",
-          "AudioPath": "assets/pl/Emily/338.ogg",
+          "DialogueText": "Przyjaciele!",
+          "AudioPath": "assets/pl/Emily/339.ogg",
           "TranslationKey": "Events/Town:463391:s1",
           "PageIndex": 0,
-          "DisplayPattern": "My friends!"
+          "DisplayPattern": "Przyjaciele!"
         },
         {
           "DialogueFrom": "Event/Town/463391:s2",
-          "DialogueText": "Oh no! You poor thing! {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/339.ogg",
+          "DialogueText": "O nie! Biedactwo! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/340.ogg",
           "TranslationKey": "Events/Town:463391:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Oh no! You poor thing!"
+          "DisplayPattern": "O nie! Biedactwo!"
         },
         {
           "DialogueFrom": "Event/Town/463391:s3",
-          "DialogueText": "Your wing's broken. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/340.ogg",
+          "DialogueText": "Masz złamane skrzydło. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/341.ogg",
           "TranslationKey": "Events/Town:463391:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Your wing's broken."
+          "DisplayPattern": "Masz złamane skrzydło."
         },
         {
           "DialogueFrom": "Event/Town/463391:s4",
-          "DialogueText": "Oh, you're a bit different than the others, aren't you? Just like me... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/341.ogg",
+          "DialogueText": "Och, jesteś trochę inna niż pozostali, prawda? Tak jak ja... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/342.ogg",
           "TranslationKey": "Events/Town:463391:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, you're a bit different than the others, aren't you? Just like me..."
+          "DisplayPattern": "Och, jesteś trochę inna niż pozostali, prawda? Tak jak ja..."
         },
         {
           "DialogueFrom": "Event/Town/463391:s5",
-          "DialogueText": "Don't worry. I'll nurse you back to health, little one. Everything will be alright. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/342.ogg",
+          "DialogueText": "Nie martw się. Zaopiekuje się tobą. Wszystko będzie dobrze. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/343.ogg",
           "TranslationKey": "Events/Town:463391:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Don't worry. I'll nurse you back to health, little one. Everything will be alright."
+          "DisplayPattern": "Nie martw się. Zaopiekuje się tobą. Wszystko będzie dobrze."
         },
         {
           "DialogueFrom": "Event/Town/463391:s6",
-          "DialogueText": "Emily took the injured parrot into her home and bandaged the wing.",
-          "AudioPath": "assets/pl/Emily/343.ogg",
+          "DialogueText": "Emily wzięła zranioną papugę do domu i zabandażowała jej skrzydło.",
+          "AudioPath": "assets/pl/Emily/344.ogg",
           "TranslationKey": "Events/Town:463391:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Emily took the injured parrot into her home and aged the wing."
+          "DisplayPattern": "Emily wzięła zranioną papugę do domu i zaażowała jej skrzydło."
         },
         {
           "DialogueFrom": "Event/Town/463391:s7",
-          "DialogueText": "He's all set up in her room. But as a token of respect, she didn't give the bird a name.",
-          "AudioPath": "assets/pl/Emily/344.ogg",
+          "DialogueText": "Jest w jej pokoju. Ale z szacunku nie dała jej imienia.",
+          "AudioPath": "assets/pl/Emily/345.ogg",
           "TranslationKey": "Events/Town:463391:s7",
           "PageIndex": 0,
-          "DisplayPattern": "He's all set up in her room. But as a token of respect, she didn't give the bird a ."
+          "DisplayPattern": "Jest w jej pokoju. Ale z szacunku nie dała jej imienia."
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
-          "DialogueText": "I am!",
-          "AudioPath": "assets/pl/Emily/345.ogg",
+          "DialogueText": "Już!",
+          "AudioPath": "assets/pl/Emily/346.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I am!"
+          "DisplayPattern": "Już!"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/11:s0",
-          "DialogueText": "You're being childish, Haley. I do the vast majority of work in this house, and you know it. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/346.ogg",
+          "DialogueText": "Zachowujesz się jak dziecko, Haley. Większość obowiązków w tym domu jest na mojej głowie i dobrze o tym wiesz. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/347.ogg",
           "TranslationKey": "Events/HaleyHouse:11:s0",
           "PageIndex": 0,
-          "DisplayPattern": "You're being childish, Haley. I do the vast majority of work in this house, and you know it."
+          "DisplayPattern": "Zachowujesz się jak dziecko, Haley. Większość obowiązków w tym domu jest na mojej głowie i dobrze o tym wiesz."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/11:s1",
-          "DialogueText": "He has a name, you know. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/347_male.ogg",
+          "DialogueText": "On ma imię, wiesz? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/348_male.ogg",
           "TranslationKey": "Events/HaleyHouse:11:s1",
           "PageIndex": 0,
-          "DisplayPattern": "He has a , you know.",
+          "DisplayPattern": "On ma imię, wiesz?",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/11:s2",
-          "DialogueText": "She has a name, you know. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/348_female.ogg",
+          "DialogueText": "Ona ma imię, wiesz? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/349_female.ogg",
           "TranslationKey": "Events/HaleyHouse:11:s2",
           "PageIndex": 0,
-          "DisplayPattern": "She has a , you know.",
+          "DisplayPattern": "Ona ma imię, wiesz?",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/11:s3",
-          "DialogueText": "*sigh*... I'm really sorry to involve you in this, {Farmer_Name}. Haley is complaining because I asked her to clean under the cushions. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/349.ogg",
+          "DialogueText": "*ech*... Wybacz, że Cię w to wciągamy, {Farmer_Name}. Haley marudzi, bo poprosiłam ją o posprzątanie pod poduszkami. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/350.ogg",
           "TranslationKey": "Events/HaleyHouse:11:s3",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... I'm really sorry to involve you in this, . Haley is complaining because I asked her to clean under the cushions."
+          "DisplayPattern": "*ech*... Wybacz, że Cię w to wciągamy, . Haley marudzi, bo poprosiłam ją o posprzątanie pod poduszkami."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/11:s4",
-          "DialogueText": "Thanks, {Farmer_Name}. That was a great solution. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/350.ogg",
+          "DialogueText": "Dzięki, {Farmer_Name}. To było najlepsze rozwiązanie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/351.ogg",
           "TranslationKey": "Events/HaleyHouse:11:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, . That was a great solution."
+          "DisplayPattern": "Dzięki, . To było najlepsze rozwiązanie."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/haleyWontDoIt:s0",
-          "DialogueText": "*sigh*... I guess I'll just do it, then... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/351.ogg",
+          "DialogueText": "*ech*... chyba tak zrobię... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/352.ogg",
           "TranslationKey": "Events/HaleyHouse:haleyWontDoIt:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... I guess I'll just do it, then..."
+          "DisplayPattern": "*ech*... chyba tak zrobię..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s0",
-          "DialogueText": "Come in, {Farmer_Name}! I want to show you something. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/352.ogg",
+          "DialogueText": "Wejdź, {Farmer_Name}! Chcę Ci coś pokazać. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/353.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Come in, ! I want to show you something."
+          "DisplayPattern": "Wejdź, ! Chcę Ci coś pokazać."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s1",
-          "DialogueText": "It's my secret hobby... I've been practicing for months.",
-          "AudioPath": "assets/pl/Emily/353.ogg",
+          "DialogueText": "To moje hobby... ćwiczyłam je przez wiele miesięcy.",
+          "AudioPath": "assets/pl/Emily/354.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s1",
           "PageIndex": 0,
-          "DisplayPattern": "It's my secret hobby... I've been practicing for months."
+          "DisplayPattern": "To moje hobby... ćwiczyłam je przez wiele miesięcy."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s2",
-          "DialogueText": "Now, sit back, relax, and allow yourself to be carried away to a better place... okay?",
-          "AudioPath": "assets/pl/Emily/354.ogg",
+          "DialogueText": "Usiądź, rozluźnij się i daj się przenieść w lepsze miejsce... ok?",
+          "AudioPath": "assets/pl/Emily/355.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Now, sit back, relax, and allow yourself to be carried away to a better ... okay?"
+          "DisplayPattern": "Usiądź, rozluźnij się i daj się przenieść w lepsze miejsce... ok?"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s3",
-          "DialogueText": "So... *gasp*... what did you think? {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/355.ogg",
+          "DialogueText": "A więc... *Wdech*... co o tym myślisz? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/356.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s3",
           "PageIndex": 0,
-          "DisplayPattern": "So... *gasp*... what did you think?"
+          "DisplayPattern": "A więc... *Wdech*... co o tym myślisz?"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s4",
-          "DialogueText": "That was amazing!",
-          "AudioPath": "assets/pl/Emily/356.ogg",
+          "DialogueText": "To było wspaniałe!",
+          "AudioPath": "assets/pl/Emily/357.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s4",
           "PageIndex": 0,
-          "DisplayPattern": "That was amazing!"
+          "DisplayPattern": "To było wspaniałe!"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s5",
-          "DialogueText": "That was embarrassing...",
-          "AudioPath": "assets/pl/Emily/357.ogg",
+          "DialogueText": "To było niezręczne...",
+          "AudioPath": "assets/pl/Emily/358.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s5",
           "PageIndex": 0,
-          "DisplayPattern": "That was embarrassing..."
+          "DisplayPattern": "To było niezręczne..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s6",
-          "DialogueText": "(Say nothing and do a slow clap)",
-          "AudioPath": "assets/pl/Emily/358.ogg",
+          "DialogueText": "(Nic nie mów i powoli klaskaj)",
+          "AudioPath": "assets/pl/Emily/359.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s6",
           "PageIndex": 0,
-          "DisplayPattern": "(Say nothing and do a slow clap)"
+          "DisplayPattern": "(Nic nie mów i powoli klaskaj)"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s7",
-          "DialogueText": "Phew... that was quite a workout... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/359.ogg",
+          "DialogueText": "Fiu... To był niezły wysiłek... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/360.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Phew... that was quite a workout..."
+          "DisplayPattern": "Fiu... To był niezły wysiłek..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s8",
-          "DialogueText": "I haven't been this sweaty since I ordered the pepper platter at Abigail's graduation fiesta! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/360.ogg",
+          "DialogueText": "Nie spociłam się tak odkąd zamówiłam ostrą tacę na imprezie z okazji ukończenia szkoły u Abigail! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/361.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I haven't been this sweaty since I ordered the pepper platter at Abigail's graduation fiesta!"
+          "DisplayPattern": "Nie spociłam się tak odkąd zamówiłam ostrą tacę na imprezie z okazji ukończenia szkoły u Abigail!"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s9",
-          "DialogueText": "...Well, I'd better take a shower. Thanks for watching.",
-          "AudioPath": "assets/pl/Emily/361.ogg",
+          "DialogueText": "... Cóż, lepiej wezmę prysznic. Dzięki za przyjście.",
+          "AudioPath": "assets/pl/Emily/362.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s9",
           "PageIndex": 0,
-          "DisplayPattern": "...Well, I'd better take a shower. Thanks for watching."
+          "DisplayPattern": "... Cóż, lepiej wezmę prysznic. Dzięki za przyjście."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/917409:s10",
-          "DialogueText": "Don't tell anyone about the dance. That was for your eyes only.",
-          "AudioPath": "assets/pl/Emily/362.ogg",
+          "DialogueText": "Nikomu nie mów o tym tańcu. On był tylko dla Ciebie.",
+          "AudioPath": "assets/pl/Emily/363.ogg",
           "TranslationKey": "Events/HaleyHouse:917409:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Don't tell anyone about the dance. That was for your eyes only."
+          "DisplayPattern": "Nikomu nie mów o tym tańcu. On był tylko dla Ciebie."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s0",
-          "DialogueText": "Mui-wah",
-          "AudioPath": "assets/pl/Emily/363.ogg",
+          "DialogueText": "M-ła",
+          "AudioPath": "assets/pl/Emily/364.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Mui-wah"
+          "DisplayPattern": "M-ła"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s1",
-          "DialogueText": "Muuui-wah",
-          "AudioPath": "assets/pl/Emily/364.ogg",
+          "DialogueText": "Mmmm-ła",
+          "AudioPath": "assets/pl/Emily/365.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Muuui-wah"
+          "DisplayPattern": "Mmmm-ła"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s2",
-          "DialogueText": "Why are you here? {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/365.ogg",
+          "DialogueText": "Czemu tu jesteś? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/366.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Why are you here?"
+          "DisplayPattern": "Czemu tu jesteś?"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s3",
           "DialogueText": "... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/366.ogg",
+          "AudioPath": "assets/pl/Emily/367.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s3",
           "PageIndex": 0,
           "DisplayPattern": "..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s4",
-          "DialogueText": "That reminded me of something. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/367.ogg",
+          "DialogueText": "To mi o czymś przypomniało. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/368.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s4",
           "PageIndex": 0,
-          "DisplayPattern": "That reminded me of something."
+          "DisplayPattern": "To mi o czymś przypomniało."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s5",
-          "DialogueText": "Even the tiniest, blandest, simplest light holds a wonderful secret.",
-          "AudioPath": "assets/pl/Emily/368.ogg",
+          "DialogueText": "Nawet najcieńsze, najłagodniejsze, najprostsze światło skrywa wspaniałą tajemnicę.",
+          "AudioPath": "assets/pl/Emily/369.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Even the tiniest, blandest, simplest light holds a wonderful secret."
+          "DisplayPattern": "Nawet najcieńsze, najłagodniejsze, najprostsze światło skrywa wspaniałą tajemnicę."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s6",
-          "DialogueText": "Nowwwwww I know why you're here. It's a sign. Hahaha! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/369.ogg",
+          "DialogueText": "Iiiii wiem dlaczego tu jesteś. To znak. Ha ha ha! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/370.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Nowwwwww I know why you're here. It's a sign. Hahaha!"
+          "DisplayPattern": "Iiiii wiem dlaczego tu jesteś. To znak. Ha ha ha!"
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s7",
-          "DialogueText": "{Farmer_Name}... There's something special about {Farmer_Name}... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/370.ogg",
+          "DialogueText": "{Farmer_Name}... jest coś specjalnego w tej osobie... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/371.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s7",
           "PageIndex": 0,
-          "DisplayPattern": "... There's something special about ..."
+          "DisplayPattern": "... jest coś specjalnego w tej osobie..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/471942:s8",
-          "DialogueText": "Our destinies will intersect... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/371.ogg",
+          "DialogueText": "Nasze drogi kiedyś się skrzyżują... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/372.ogg",
           "TranslationKey": "Events/HaleyHouse:471942:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Our destinies will intersect..."
+          "DisplayPattern": "Nasze drogi kiedyś się skrzyżują..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s0",
-          "DialogueText": "Th... That night in the tent... you whispered such sweet things to me in the dark... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/372.ogg",
+          "DialogueText": "T... Ta noc w namiocie... te słodkie szepty... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/373.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Th... That night in the tent... you whispered such sweet things to me in the dark..."
+          "DisplayPattern": "T... Ta noc w namiocie... te słodkie szepty..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/195012:s1",
-          "DialogueText": "Now I have to face each day knowing it was all a lie. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/373.ogg",
+          "DialogueText": "Teraz wiem, że to były zwykłe kłamstwa. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Emily/374.ogg",
           "TranslationKey": "Events/HaleyHouse:195012:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Now I have to face each day knowing it was all a lie."
+          "DisplayPattern": "Teraz wiem, że to były zwykłe kłamstwa."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/choseToExplain:s0",
-          "DialogueText": "Do you really expect us to believe that? You're just digging yourself into a deeper hole... {Portrait:Angry}",
-          "AudioPath": "assets/pl/Emily/374.ogg",
+          "DialogueText": "Naprawdę myślisz, że Ci uwierzymy? Po prostu wkopujesz się w jeszcze większe bagno... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Emily/375.ogg",
           "TranslationKey": "Events/HaleyHouse:choseToExplain:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Do you really expect us to believe that? You're just digging yourself into a deeper hole..."
+          "DisplayPattern": "Naprawdę myślisz, że Ci uwierzymy? Po prostu wkopujesz się w jeszcze większe bagno..."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s0",
-          "DialogueText": "Great... everyone has their stone.",
-          "AudioPath": "assets/pl/Emily/375.ogg",
+          "DialogueText": "Świetnie... każdy ma swój kamień.",
+          "AudioPath": "assets/pl/Emily/376.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Great... everyone has their stone."
+          "DisplayPattern": "Świetnie... każdy ma swój kamień."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s1",
-          "DialogueText": "Now, close your eyes, and take slow, deep breaths. Focus on your lungs.",
-          "AudioPath": "assets/pl/Emily/376.ogg",
+          "DialogueText": "Teraz zamknijcie oczy i weźcie powolne, głębokie wdechy. Skupcie się na płucach.",
+          "AudioPath": "assets/pl/Emily/377.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Now, close your eyes, and take slow, deep breaths. Focus on your lungs."
+          "DisplayPattern": "Teraz zamknijcie oczy i weźcie powolne, głębokie wdechy. Skupcie się na płucach."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s2",
-          "DialogueText": "Visualize the pure energy flowing into your body with every breath.",
-          "AudioPath": "assets/pl/Emily/377.ogg",
+          "DialogueText": "Wyobraźcie sobie czystą energię, wpływającą do ciała z każdym wdechem.",
+          "AudioPath": "assets/pl/Emily/378.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Visualize the pure energy flowing into your body with every breath."
+          "DisplayPattern": "Wyobraźcie sobie czystą energię, wpływającą do ciała z każdym wdechem."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s3",
-          "DialogueText": "And when you exhale, feel all the tension and negative energy flowing out, leaving you more and more relaxed with every breath.",
-          "AudioPath": "assets/pl/Emily/378.ogg",
+          "DialogueText": "A z każdym wydechem, poczujcie jak schodzi całe napięcie i negatywna energia.",
+          "AudioPath": "assets/pl/Emily/379.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s3",
           "PageIndex": 0,
-          "DisplayPattern": "And when you exhale, feel all the tension and negative energy flowing out, leaving you more and more relaxed with every breath."
+          "DisplayPattern": "A z każdym wydechem, poczujcie jak schodzi całe napięcie i negatywna energia."
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s4",
-          "DialogueText": "Now, open your heart to the vibrational frequency of your stone. Do you feel anything?",
-          "AudioPath": "assets/pl/Emily/379.ogg",
+          "DialogueText": "Teraz, otwórzcie swoje serca na wibracje waszych kamieni. Czujecie coś?",
+          "AudioPath": "assets/pl/Emily/380.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Now, open your heart to the vibrational frequency of your stone. Do you feel anything?"
+          "DisplayPattern": "Teraz, otwórzcie swoje serca na wibracje waszych kamieni. Czujecie coś?"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s0",
-          "DialogueText": "Welcome to clothing therapy!",
-          "AudioPath": "assets/pl/Emily/380.ogg",
+          "DialogueText": "Witamy na ciuszkowej terapii!",
+          "AudioPath": "assets/pl/Emily/381.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Welcome to clothing therapy!"
+          "DisplayPattern": "Witamy na ciuszkowej terapii!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s1",
-          "DialogueText": "You're probably wondering... what is clothing therapy?",
-          "AudioPath": "assets/pl/Emily/381.ogg",
+          "DialogueText": "Zastanawiacie się pewnie... czym jest ciuszkowa terapia?",
+          "AudioPath": "assets/pl/Emily/382.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s1",
           "PageIndex": 0,
-          "DisplayPattern": "You're probably wondering... what is clothing therapy?"
+          "DisplayPattern": "Zastanawiacie się pewnie... czym jest ciuszkowa terapia?"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s2",
-          "DialogueText": "I'll try to explain.",
-          "AudioPath": "assets/pl/Emily/382.ogg",
+          "DialogueText": "Pozwólcie, że wyjaśnię.",
+          "AudioPath": "assets/pl/Emily/383.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I'll try to explain."
+          "DisplayPattern": "Pozwólcie, że wyjaśnię."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s3",
-          "DialogueText": "So many of us are struggling with personal issues... things holding us back from living how we want. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/383.ogg",
+          "DialogueText": "Niektóre osoby mają swoje problemy... rzeczy które przeszkadzają nam żyć tak jakbyśmy chcieli. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/384.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s3",
           "PageIndex": 0,
-          "DisplayPattern": "So many of us are struggling with personal issues... things holding us back from living how we want."
+          "DisplayPattern": "Niektóre osoby mają swoje problemy... rzeczy które przeszkadzają nam żyć tak jakbyśmy chcieli."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s4",
-          "DialogueText": "It's important to me that everyone has a free and happy life... so I came up with a new kind of therapy to help people achieve that. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/384.ogg",
+          "DialogueText": "Ważne jest dla mnie, aby każdy żył swobodnie i szczęśliwie... więc wpadłam na pomysł z nowym rodzajem terapii, żeby w tym pomóc. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/385.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s4",
           "PageIndex": 0,
-          "DisplayPattern": "It's important to me that everyone has a free and happy life... so I came up with a new kind of therapy to help people achieve that."
+          "DisplayPattern": "Ważne jest dla mnie, aby każdy żył swobodnie i szczęśliwie... więc wpadłam na pomysł z nowym rodzajem terapii, żeby w tym pomóc."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s5",
-          "DialogueText": "It's based on the amazing power of self-expression. Self-expression is a wonderful healing tool, did you know that?",
-          "AudioPath": "assets/pl/Emily/385.ogg",
+          "DialogueText": "Terapia jest oparta na wspaniałej mocy wyrażania siebie. Wyrażanie siebie jest świetnym lekarstwem, wiedzieliście?",
+          "AudioPath": "assets/pl/Emily/386.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s5",
           "PageIndex": 0,
-          "DisplayPattern": "It's based on the amazing power of self-expression. Self-expression is a wonderful healing tool, did you know that?"
+          "DisplayPattern": "Terapia jest oparta na wspaniałej mocy wyrażania siebie. Wyrażanie siebie jest świetnym lekarstwem, wiedzieliście?"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s6",
-          "DialogueText": "Behind this curtain, you'll find racks and racks of clothes. There's endless options to choose from.",
-          "AudioPath": "assets/pl/Emily/386.ogg",
+          "DialogueText": "Za tą kurtyną znajdziecie masę ciuchów. Opcji jest nieskończenie wiele.",
+          "AudioPath": "assets/pl/Emily/387.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Behind this curtain, you'll find racks and racks of clothes. There's endless options to choose from."
+          "DisplayPattern": "Za tą kurtyną znajdziecie masę ciuchów. Opcji jest nieskończenie wiele."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s7",
-          "DialogueText": "Your job is simple: find the outfit that truly speaks to you, and put it on.",
-          "AudioPath": "assets/pl/Emily/387.ogg",
+          "DialogueText": "Wasze zadanie jest proste: znajdźcie ciuchy, które do was przemawiają i załóżcie je na siebie.",
+          "AudioPath": "assets/pl/Emily/388.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Your job is simple: find the outfit that truly speaks to you, and put it on."
+          "DisplayPattern": "Wasze zadanie jest proste: znajdźcie ciuchy, które do was przemawiają i załóżcie je na siebie."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s8",
-          "DialogueText": "Feel confident in yourself and your choice. You all have a unique style to share with the world!",
-          "AudioPath": "assets/pl/Emily/388.ogg",
+          "DialogueText": "Bądźcie pewni siebie i swojego wyboru. Wszyscy macie unikatowy styl, którym możecie się podzielić ze światem!",
+          "AudioPath": "assets/pl/Emily/389.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Feel confident in yourself and your choice. You all have a unique style to share with the world!"
+          "DisplayPattern": "Bądźcie pewni siebie i swojego wyboru. Wszyscy macie unikatowy styl, którym możecie się podzielić ze światem!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s9",
-          "DialogueText": "Shane, you're up first! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/389.ogg",
+          "DialogueText": "Shane, ty zaczynasz! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/390.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Shane, you're up first!"
+          "DisplayPattern": "Shane, ty zaczynasz!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s10",
-          "DialogueText": "Ah, {Farmer_Name}. You're just in time. Just observe and keep an open mind... okay?",
-          "AudioPath": "assets/pl/Emily/390.ogg",
+          "DialogueText": "Ach, {Farmer_Name}. Zjawiasz się w odpowiednim momencie. Wejdź i oglądaj... ok?",
+          "AudioPath": "assets/pl/Emily/391.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Ah, . You're just in . Just observe and keep an open mind... okay?"
+          "DisplayPattern": "Ach, . Zjawiasz się w odpowiednim momencie. Wejdź i oglądaj... ok?"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s11",
-          "DialogueText": "Shane, it's a new side of you we've never known about. That's great!",
-          "AudioPath": "assets/pl/Emily/391.ogg",
+          "DialogueText": "Shane. To Twoja nowa strona, której żaden z nas jeszcze nie widział. Wspaniale!",
+          "AudioPath": "assets/pl/Emily/392.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Shane, it's a new side of you we've never known about. That's great!"
+          "DisplayPattern": "Shane. To Twoja nowa strona, której żaden z nas jeszcze nie widział. Wspaniale!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s12",
-          "DialogueText": "Now, go outside with confidence and show the world!",
-          "AudioPath": "assets/pl/Emily/392.ogg",
+          "DialogueText": "Teraz, wyjdź na zewnątrz z pewnością siebie i pokaż się całemu światu!",
+          "AudioPath": "assets/pl/Emily/393.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Now, go outside with confidence and show the world!"
+          "DisplayPattern": "Teraz, wyjdź na zewnątrz z pewnością siebie i pokaż się całemu światu!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s13",
-          "DialogueText": "Okay, everyone gets a turn!",
-          "AudioPath": "assets/pl/Emily/393.ogg",
+          "DialogueText": "Ok, niech każdy wybierze coś dla siebie!",
+          "AudioPath": "assets/pl/Emily/394.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s13",
           "PageIndex": 0,
-          "DisplayPattern": "Okay, everyone gets a turn!"
+          "DisplayPattern": "Ok, niech każdy wybierze coś dla siebie!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s14",
-          "DialogueText": "Beautiful!",
-          "AudioPath": "assets/pl/Emily/394.ogg",
+          "DialogueText": "Pięknie!",
+          "AudioPath": "assets/pl/Emily/395.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Beautiful!"
+          "DisplayPattern": "Pięknie!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s15",
-          "DialogueText": "Lookin' sharp!",
-          "AudioPath": "assets/pl/Emily/395.ogg",
+          "DialogueText": "Dobrze wyglądasz!",
+          "AudioPath": "assets/pl/Emily/396.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Lookin' sharp!"
+          "DisplayPattern": "Dobrze wyglądasz!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s16",
-          "DialogueText": "Very nice!",
-          "AudioPath": "assets/pl/Emily/396.ogg",
+          "DialogueText": "Super!",
+          "AudioPath": "assets/pl/Emily/397.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s16",
           "PageIndex": 0,
-          "DisplayPattern": "Very nice!"
+          "DisplayPattern": "Super!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s17",
-          "DialogueText": "Clint? You're up!",
-          "AudioPath": "assets/pl/Emily/397.ogg",
+          "DialogueText": "Clint? Teraz ty!",
+          "AudioPath": "assets/pl/Emily/398.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s17",
           "PageIndex": 0,
-          "DisplayPattern": "Clint? You're up!"
+          "DisplayPattern": "Clint? Teraz ty!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s18",
-          "DialogueText": "Awww, cute!",
-          "AudioPath": "assets/pl/Emily/398.ogg",
+          "DialogueText": "Ooo, ale słodziak!",
+          "AudioPath": "assets/pl/Emily/399.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s18",
           "PageIndex": 0,
-          "DisplayPattern": "Awww, cute!"
+          "DisplayPattern": "Ooo, ale słodziak!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s19",
-          "DialogueText": "Well, that went very well!",
-          "AudioPath": "assets/pl/Emily/399.ogg",
+          "DialogueText": "Cóż, dobrze wyszło!",
+          "AudioPath": "assets/pl/Emily/400.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s19",
           "PageIndex": 0,
-          "DisplayPattern": "Well, that went very well!"
+          "DisplayPattern": "Cóż, dobrze wyszło!"
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s20",
-          "DialogueText": "I just hope this experience helps everyone break out of their shells a bit.",
-          "AudioPath": "assets/pl/Emily/400.ogg",
+          "DialogueText": "Mam nadzieję, że to doświadczenie pomogło wam trochę rozłupać wasze skorupy.",
+          "AudioPath": "assets/pl/Emily/401.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s20",
           "PageIndex": 0,
-          "DisplayPattern": "I just hope this experience helps everyone break out of their shells a bit."
+          "DisplayPattern": "Mam nadzieję, że to doświadczenie pomogło wam trochę rozłupać wasze skorupy."
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s21",
-          "DialogueText": "{Farmer_Name}... um... {Portrait:Love}",
-          "AudioPath": "assets/pl/Emily/401.ogg",
+          "DialogueText": "{Farmer_Name}... ee... {Portrait:Love}",
+          "AudioPath": "assets/pl/Emily/402.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s21",
           "PageIndex": 0,
-          "DisplayPattern": "... um..."
+          "DisplayPattern": "... ee..."
         },
         {
           "DialogueFrom": "Event/Saloon/97:s0",
-          "DialogueText": "Hi Clint, what can I get for you tonight? {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/402.ogg",
+          "DialogueText": "Cześć Clint, co podać? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/403.ogg",
           "TranslationKey": "Events/Saloon:97:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hi Clint, what can I get for you tonight?"
+          "DisplayPattern": "Cześć Clint, co podać?"
         },
         {
           "DialogueFrom": "Event/Saloon/97:s1",
-          "DialogueText": "Hi {Farmer_Name}.",
-          "AudioPath": "assets/pl/Emily/403.ogg",
+          "DialogueText": "Cześć {Farmer_Name}.",
+          "AudioPath": "assets/pl/Emily/404.ogg",
           "TranslationKey": "Events/Saloon:97:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Hi ."
+          "DisplayPattern": "Cześć ."
         },
         {
           "DialogueFrom": "Event/Saloon/97:s2",
-          "DialogueText": "Yes, Clint? {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/404.ogg",
+          "DialogueText": "Tak, Clint? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/405.ogg",
           "TranslationKey": "Events/Saloon:97:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, Clint?"
+          "DisplayPattern": "Tak, Clint?"
         },
         {
           "DialogueFrom": "Event/Saloon/97:s3",
-          "DialogueText": "Hi, Shane! Here's your beverage. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/405.ogg",
+          "DialogueText": "Cześć, Shane! Oto Twój napitek. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/406.ogg",
           "TranslationKey": "Events/Saloon:97:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Hi, Shane! Here's your beverage."
+          "DisplayPattern": "Cześć, Shane! Oto Twój napitek."
         },
         {
           "DialogueFrom": "Event/Saloon/97:s4",
-          "DialogueText": "It's fine! Thanks for asking, Shane! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/406.ogg",
+          "DialogueText": "Nie najgorzej! Dzięki, że pytasz, Shane! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/407.ogg",
           "TranslationKey": "Events/Saloon:97:s4",
           "PageIndex": 0,
-          "DisplayPattern": "It's fine! Thanks for asking, Shane!"
+          "DisplayPattern": "Nie najgorzej! Dzięki, że pytasz, Shane!"
         },
         {
           "DialogueFrom": "Event/Saloon/97:s5",
-          "DialogueText": "Do you have any new chicken stories for me?",
-          "AudioPath": "assets/pl/Emily/407.ogg",
+          "DialogueText": "Masz dla mnie jakieś nowe opowieści o kurach?",
+          "AudioPath": "assets/pl/Emily/408.ogg",
           "TranslationKey": "Events/Saloon:97:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Do you have any new chicken stories for me?"
+          "DisplayPattern": "Masz dla mnie jakieś nowe opowieści o kurach?"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s0",
-          "DialogueText": "I've got a linguini with mushroom cream sauce for Mr. {Farmer_Name}.",
-          "AudioPath": "assets/pl/Emily/408_male.ogg",
+          "DialogueText": "Mam linguini Z sosem grzybowym dla pana {Farmer_Name}a.",
+          "AudioPath": "assets/pl/Emily/409_male.ogg",
           "TranslationKey": "Events/Saloon:911526:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I've got a linguini with mushroom cream sauce for Mr. .",
+          "DisplayPattern": "Mam linguini Z sosem grzybowym dla pana a.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s1",
-          "DialogueText": "I've got a kale and walnut salad for the lady.",
-          "AudioPath": "assets/pl/Emily/409_female.ogg",
+          "DialogueText": "Mam sałatkę jarmużową z orzechami włoskimi dla damy.",
+          "AudioPath": "assets/pl/Emily/410_female.ogg",
           "TranslationKey": "Events/Saloon:911526:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I've got a kale and walnut salad for the lady.",
+          "DisplayPattern": "Mam sałatkę jarmużową z orzechami włoskimi dla damy.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s2",
-          "DialogueText": "...and a grilled steak for Alex.",
-          "AudioPath": "assets/pl/Emily/410_male.ogg",
+          "DialogueText": "... I grilowany stek dla Alexa.",
+          "AudioPath": "assets/pl/Emily/411_male.ogg",
           "TranslationKey": "Events/Saloon:911526:s2",
           "PageIndex": 0,
-          "DisplayPattern": "...and a grilled steak for Alex.",
+          "DisplayPattern": "... I grilowany stek dla Alexa.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s3",
-          "DialogueText": "And a grilled steak for the gentleman.",
-          "AudioPath": "assets/pl/Emily/411_female.ogg",
+          "DialogueText": "I grilowany stek dla dżentelmana.",
+          "AudioPath": "assets/pl/Emily/412_female.ogg",
           "TranslationKey": "Events/Saloon:911526:s3",
           "PageIndex": 0,
-          "DisplayPattern": "And a grilled steak for the gentleman.",
+          "DisplayPattern": "I grilowany stek dla dżentelmana.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s0",
-          "DialogueText": "Hi!",
-          "AudioPath": "assets/pl/Emily/412.ogg",
+          "DialogueText": "Cześć!",
+          "AudioPath": "assets/pl/Emily/413.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hi!"
+          "DisplayPattern": "Cześć!"
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s0",
-          "DialogueText": "Well, this is fun, isn't it?",
-          "AudioPath": "assets/pl/Emily/413.ogg",
+          "DialogueText": "Fajnie tu, prawda?",
+          "AudioPath": "assets/pl/Emily/414.ogg",
           "TranslationKey": "Events/Woods:2123343:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Well, this is fun, isn't it?"
+          "DisplayPattern": "Fajnie tu, prawda?"
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s1",
-          "DialogueText": "Kind of spooky, actually... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/414.ogg",
+          "DialogueText": "I troszkę strasznie... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/415.ogg",
           "TranslationKey": "Events/Woods:2123343:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Kind of spooky, actually..."
+          "DisplayPattern": "I troszkę strasznie..."
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s2",
-          "DialogueText": "Heh... it's chilly out here... {Portrait:Love}",
-          "AudioPath": "assets/pl/Emily/415.ogg",
+          "DialogueText": "Heh... trochę tu chłodno... {Portrait:Love}",
+          "AudioPath": "assets/pl/Emily/416.ogg",
           "TranslationKey": "Events/Woods:2123343:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Heh... it's chilly out here..."
+          "DisplayPattern": "Heh... trochę tu chłodno..."
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s3",
-          "DialogueText": "A bear! I hope he's not hungry... {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Emily/416.ogg",
+          "DialogueText": "To niedźwiedź! Mam nadzieję, że nie jest głodny... {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Emily/417.ogg",
           "TranslationKey": "Events/Woods:2123343:s3",
           "PageIndex": 0,
-          "DisplayPattern": "A bear! I hope he's not hungry..."
+          "DisplayPattern": "To niedźwiedź! Mam nadzieję, że nie jest głodny..."
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s4",
-          "DialogueText": "Oh... the other sleeping bag is still outside... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/417.ogg",
+          "DialogueText": "O nie... drugi śpiwór jest na zewnątrz... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/418.ogg",
           "TranslationKey": "Events/Woods:2123343:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Oh... the other sleeping bag is still outside..."
+          "DisplayPattern": "O nie... drugi śpiwór jest na zewnątrz..."
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s5",
-          "DialogueText": "No way am I going back out there! {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Emily/418.ogg",
+          "DialogueText": "Nie ma mowy, nie wyjdę po niego! {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Emily/419.ogg",
           "TranslationKey": "Events/Woods:2123343:s5",
           "PageIndex": 0,
-          "DisplayPattern": "No way am I going back out there!"
+          "DisplayPattern": "Nie ma mowy, nie wyjdę po niego!"
         },
         {
           "DialogueFrom": "Event/Woods/2123343:s6",
-          "DialogueText": "Um.. {Farmer_Name}? You don't mind sharing a sleeping bag with me, do you? {Portrait:Love}",
-          "AudioPath": "assets/pl/Emily/419.ogg",
+          "DialogueText": "Um.. {Farmer_Name}? Podzielisz się śpiworem, nie? {Portrait:Love}",
+          "AudioPath": "assets/pl/Emily/420.ogg",
           "TranslationKey": "Events/Woods:2123343:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Um.. ? You don't mind sharing a sleeping bag with me, do you?"
+          "DisplayPattern": "Um.. ? Podzielisz się śpiworem, nie?"
         },
         {
           "DialogueFrom": "Event/Temp/poppy:s0",
           "DialogueText": "Wow! Te elektroniczne dźwięki były głębokie! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/420.ogg",
+          "AudioPath": "assets/pl/Emily/421.ogg",
           "TranslationKey": "Events/Temp:poppy:s0",
           "PageIndex": 0,
           "DisplayPattern": "Wow! Te elektroniczne dźwięki były głębokie!"
@@ -3395,7 +3405,7 @@
         {
           "DialogueFrom": "Event/Temp/poppy:s1",
           "DialogueText": "Łuuu! To było świetne! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/421.ogg",
+          "AudioPath": "assets/pl/Emily/422.ogg",
           "TranslationKey": "Events/Temp:poppy:s1",
           "PageIndex": 0,
           "DisplayPattern": "Łuuu! To było świetne!"
@@ -3403,7 +3413,7 @@
         {
           "DialogueFrom": "Event/Temp/heavy:s0",
           "DialogueText": "Wow! Te elektroniczne dźwięki były głębokie! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/422.ogg",
+          "AudioPath": "assets/pl/Emily/423.ogg",
           "TranslationKey": "Events/Temp:heavy:s0",
           "PageIndex": 0,
           "DisplayPattern": "Wow! Te elektroniczne dźwięki były głębokie!"
@@ -3411,7 +3421,7 @@
         {
           "DialogueFrom": "Event/Temp/heavy:s1",
           "DialogueText": "Łuuu! To było świetne! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/423.ogg",
+          "AudioPath": "assets/pl/Emily/424.ogg",
           "TranslationKey": "Events/Temp:heavy:s1",
           "PageIndex": 0,
           "DisplayPattern": "Łuuu! To było świetne!"
@@ -3419,7 +3429,7 @@
         {
           "DialogueFrom": "Event/Temp/techno:s0",
           "DialogueText": "Wow! Te elektroniczne dźwięki były głębokie! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/424.ogg",
+          "AudioPath": "assets/pl/Emily/425.ogg",
           "TranslationKey": "Events/Temp:techno:s0",
           "PageIndex": 0,
           "DisplayPattern": "Wow! Te elektroniczne dźwięki były głębokie!"
@@ -3427,7 +3437,7 @@
         {
           "DialogueFrom": "Event/Temp/techno:s1",
           "DialogueText": "Łuuu! To było świetne! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/425.ogg",
+          "AudioPath": "assets/pl/Emily/426.ogg",
           "TranslationKey": "Events/Temp:techno:s1",
           "PageIndex": 0,
           "DisplayPattern": "Łuuu! To było świetne!"
@@ -3435,7 +3445,7 @@
         {
           "DialogueFrom": "Event/Temp/honkytonk:s0",
           "DialogueText": "Wow! Te elektroniczne dźwięki były głębokie! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/426.ogg",
+          "AudioPath": "assets/pl/Emily/427.ogg",
           "TranslationKey": "Events/Temp:honkytonk:s0",
           "PageIndex": 0,
           "DisplayPattern": "Wow! Te elektroniczne dźwięki były głębokie!"
@@ -3443,7 +3453,7 @@
         {
           "DialogueFrom": "Event/Temp/honkytonk:s1",
           "DialogueText": "Łuuu! To było świetne! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/427.ogg",
+          "AudioPath": "assets/pl/Emily/428.ogg",
           "TranslationKey": "Events/Temp:honkytonk:s1",
           "PageIndex": 0,
           "DisplayPattern": "Łuuu! To było świetne!"
@@ -3451,7 +3461,7 @@
         {
           "DialogueFrom": "Festival/fall16/Emily",
           "DialogueText": "Wiesz, byłabym dobrym klaunem. Chyba minęłam się z moim powołaniem.",
-          "AudioPath": "assets/pl/Emily/428.ogg",
+          "AudioPath": "assets/pl/Emily/429.ogg",
           "TranslationKey": "Data/Festivals/fall16:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Wiesz, byłabym dobrym klaunem. Chyba minęłam się z moim powołaniem."
@@ -3459,7 +3469,7 @@
         {
           "DialogueFrom": "Festival/fall16/Emily_spouse_y2",
           "DialogueText": "Sandy przyjechała tu prosto z Pustyni Calico.",
-          "AudioPath": "assets/pl/Emily/429.ogg",
+          "AudioPath": "assets/pl/Emily/430.ogg",
           "TranslationKey": "Data/Festivals/fall16:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Sandy przyjechała tu prosto z Pustyni Calico."
@@ -3467,7 +3477,7 @@
         {
           "DialogueFrom": "Festival/fall16/Emily_spouse_y2",
           "DialogueText": "Nieczęsto ją tu widzę!",
-          "AudioPath": "assets/pl/Emily/430.ogg",
+          "AudioPath": "assets/pl/Emily/431.ogg",
           "TranslationKey": "Data/Festivals/fall16:Emily_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Nieczęsto ją tu widzę!"
@@ -3475,7 +3485,7 @@
         {
           "DialogueFrom": "Festival/fall16/Emily_y2",
           "DialogueText": "Gdy ja i Sandy byłyśmy dziećmi, żartowałyśmy, że kiedyś uciekniemy i dołączymy do cyrku. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/431.ogg",
+          "AudioPath": "assets/pl/Emily/432.ogg",
           "TranslationKey": "Data/Festivals/fall16:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "Gdy ja i Sandy byłyśmy dziećmi, żartowałyśmy, że kiedyś uciekniemy i dołączymy do cyrku."
@@ -3483,7 +3493,7 @@
         {
           "DialogueFrom": "Festival/fall16/Emily_y2",
           "DialogueText": "Nie wydaje mi się, żebyśmy to zrobiły, ale fajnie jest sobie pomarzyć. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/432.ogg",
+          "AudioPath": "assets/pl/Emily/433.ogg",
           "TranslationKey": "Data/Festivals/fall16:Emily_y2",
           "PageIndex": 1,
           "DisplayPattern": "Nie wydaje mi się, żebyśmy to zrobiły, ale fajnie jest sobie pomarzyć."
@@ -3491,7 +3501,7 @@
         {
           "DialogueFrom": "Festival/fall27/Emily",
           "DialogueText": "Podobają Ci się dyniowe latarnie? Sama je wyrzeźbiłam.",
-          "AudioPath": "assets/pl/Emily/433.ogg",
+          "AudioPath": "assets/pl/Emily/434.ogg",
           "TranslationKey": "Data/Festivals/fall27:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Podobają Ci się dyniowe latarnie? Sama je wyrzeźbiłam."
@@ -3499,7 +3509,7 @@
         {
           "DialogueFrom": "Festival/fall27/Emily_spouse_y2",
           "DialogueText": "*hihi* wiedziałam, że tu trafisz. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/434.ogg",
+          "AudioPath": "assets/pl/Emily/435.ogg",
           "TranslationKey": "Data/Festivals/fall27:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "*hihi* wiedziałam, że tu trafisz."
@@ -3507,7 +3517,7 @@
         {
           "DialogueFrom": "Festival/fall27/Emily_y2",
           "DialogueText": "Oooo. Też znalazłeś sekretne przejście! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/435_male.ogg",
+          "AudioPath": "assets/pl/Emily/436_male.ogg",
           "TranslationKey": "Data/Festivals/fall27:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "Oooo. Też znalazłeś sekretne przejście!",
@@ -3516,7 +3526,7 @@
         {
           "DialogueFrom": "Festival/fall27/Emily_y2",
           "DialogueText": "Oooo. Też znalazłaś sekretne przejście! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/436_female.ogg",
+          "AudioPath": "assets/pl/Emily/437_female.ogg",
           "TranslationKey": "Data/Festivals/fall27:Emily_y2",
           "PageIndex": 1,
           "DisplayPattern": "Oooo. Też znalazłaś sekretne przejście!",
@@ -3525,7 +3535,7 @@
         {
           "DialogueFrom": "Festival/spring13/Emily",
           "DialogueText": "Kolorowałam te jajka od rana... To moja ulubiona część tej pory roku. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/437.ogg",
+          "AudioPath": "assets/pl/Emily/438.ogg",
           "TranslationKey": "Data/Festivals/spring13:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Kolorowałam te jajka od rana... To moja ulubiona część tej pory roku."
@@ -3533,7 +3543,7 @@
         {
           "DialogueFrom": "Festival/spring13/Emily_y2",
           "DialogueText": "W tym roku uszyłam małe spodnie i czapki dla niektórych jajek. Wyglądają uroczo! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/438.ogg",
+          "AudioPath": "assets/pl/Emily/439.ogg",
           "TranslationKey": "Data/Festivals/spring13:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "W tym roku uszyłam małe spodnie i czapki dla niektórych jajek. Wyglądają uroczo!"
@@ -3541,7 +3551,7 @@
         {
           "DialogueFrom": "Festival/spring24/Emily",
           "DialogueText": "Uff... Ale się najadłam. Hej, spróbuj tej czerwonej galaretki!",
-          "AudioPath": "assets/pl/Emily/439.ogg",
+          "AudioPath": "assets/pl/Emily/440.ogg",
           "TranslationKey": "Data/Festivals/spring24:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Uff... Ale się najadłam. Hej, spróbuj tej czerwonej galaretki!"
@@ -3549,7 +3559,7 @@
         {
           "DialogueFrom": "Festival/spring24/Emily_spouse_y2",
           "DialogueText": "Hej, zastanawiałam się co porabiasz! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/440.ogg",
+          "AudioPath": "assets/pl/Emily/441.ogg",
           "TranslationKey": "Data/Festivals/spring24:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Hej, zastanawiałam się co porabiasz!"
@@ -3557,7 +3567,7 @@
         {
           "DialogueFrom": "Festival/spring24/Emily_y2",
           "DialogueText": "O, hej! Dzisiaj rzucam wyzwanie mojej siostrze na tytuł królowej kwiatów. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/441.ogg",
+          "AudioPath": "assets/pl/Emily/442.ogg",
           "TranslationKey": "Data/Festivals/spring24:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "O, hej! Dzisiaj rzucam wyzwanie mojej siostrze na tytuł królowej kwiatów."
@@ -3565,7 +3575,7 @@
         {
           "DialogueFrom": "Festival/spring24/Emily_y2",
           "DialogueText": "Pracowałam nad moją choreografią! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/442.ogg",
+          "AudioPath": "assets/pl/Emily/443.ogg",
           "TranslationKey": "Data/Festivals/spring24:Emily_y2",
           "PageIndex": 1,
           "DisplayPattern": "Pracowałam nad moją choreografią!"
@@ -3573,7 +3583,7 @@
         {
           "DialogueFrom": "Festival/summer11/Emily",
           "DialogueText": "Emily nie odpowiada.",
-          "AudioPath": "assets/pl/Emily/443.ogg",
+          "AudioPath": "assets/pl/Emily/444.ogg",
           "TranslationKey": "Data/Festivals/summer11:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Emily nie odpowiada."
@@ -3581,7 +3591,7 @@
         {
           "DialogueFrom": "Festival/summer11/Emily_spouse_y2",
           "DialogueText": "*dyszy* To chyba czas na przerwę. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/444.ogg",
+          "AudioPath": "assets/pl/Emily/445.ogg",
           "TranslationKey": "Data/Festivals/summer11:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "*dyszy* To chyba czas na przerwę."
@@ -3589,7 +3599,7 @@
         {
           "DialogueFrom": "Festival/summer11/Emily_spouse_y2",
           "DialogueText": "Później zatańczymy, ok? {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/445.ogg",
+          "AudioPath": "assets/pl/Emily/446.ogg",
           "TranslationKey": "Data/Festivals/summer11:Emily_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Później zatańczymy, ok?"
@@ -3597,7 +3607,7 @@
         {
           "DialogueFrom": "Festival/summer11/Emily_y2",
           "DialogueText": "*dyszy* Wszystko leży w biodrach! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/446.ogg",
+          "AudioPath": "assets/pl/Emily/447.ogg",
           "TranslationKey": "Data/Festivals/summer11:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "*dyszy* Wszystko leży w biodrach!"
@@ -3605,7 +3615,7 @@
         {
           "DialogueFrom": "Festival/summer11/Emily_y2",
           "DialogueText": "to chyba czas na przerwę. Zaczynam się pocić! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/447.ogg",
+          "AudioPath": "assets/pl/Emily/448.ogg",
           "TranslationKey": "Data/Festivals/summer11:Emily_y2",
           "PageIndex": 1,
           "DisplayPattern": "to chyba czas na przerwę. Zaczynam się pocić!"
@@ -3613,7 +3623,7 @@
         {
           "DialogueFrom": "Festival/summer28/Emily",
           "DialogueText": "Spójrz na niekończące się morze. Głęboko pod wodą, wszystkie formy życia poruszają się w ciemnościach.",
-          "AudioPath": "assets/pl/Emily/448.ogg",
+          "AudioPath": "assets/pl/Emily/449.ogg",
           "TranslationKey": "Data/Festivals/summer28:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Spójrz na niekończące się morze. Głęboko pod wodą, wszystkie formy życia poruszają się w ciemnościach."
@@ -3621,7 +3631,7 @@
         {
           "DialogueFrom": "Festival/summer28/Emily",
           "DialogueText": "Niesamowite, prawda?",
-          "AudioPath": "assets/pl/Emily/449.ogg",
+          "AudioPath": "assets/pl/Emily/450.ogg",
           "TranslationKey": "Data/Festivals/summer28:Emily",
           "PageIndex": 1,
           "DisplayPattern": "Niesamowite, prawda?"
@@ -3629,7 +3639,7 @@
         {
           "DialogueFrom": "Festival/summer28/Emily_spouse_y2",
           "DialogueText": "Hej, tu jesteś! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/450.ogg",
+          "AudioPath": "assets/pl/Emily/451.ogg",
           "TranslationKey": "Data/Festivals/summer28:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Hej, tu jesteś!"
@@ -3637,7 +3647,7 @@
         {
           "DialogueFrom": "Festival/summer28/Emily_spouse_y2",
           "DialogueText": "Ocean kryje w sobie mnóstwo tajemnic i cudów. To niesamowite. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/451.ogg",
+          "AudioPath": "assets/pl/Emily/452.ogg",
           "TranslationKey": "Data/Festivals/summer28:Emily_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Ocean kryje w sobie mnóstwo tajemnic i cudów. To niesamowite."
@@ -3645,7 +3655,7 @@
         {
           "DialogueFrom": "Festival/summer28/Emily_y2",
           "DialogueText": "Meduzy księżycowego światła posiadają ciemnoniebieską aurę tajemniczości... {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/452.ogg",
+          "AudioPath": "assets/pl/Emily/453.ogg",
           "TranslationKey": "Data/Festivals/summer28:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "Meduzy księżycowego światła posiadają ciemnoniebieską aurę tajemniczości..."
@@ -3653,7 +3663,7 @@
         {
           "DialogueFrom": "Festival/summer28/Emily_y2",
           "DialogueText": "Jest w tym coś więcej, niżeli mogłoby się wydawać. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Emily/453.ogg",
+          "AudioPath": "assets/pl/Emily/454.ogg",
           "TranslationKey": "Data/Festivals/summer28:Emily_y2",
           "PageIndex": 1,
           "DisplayPattern": "Jest w tym coś więcej, niżeli mogłoby się wydawać."
@@ -3661,7 +3671,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily",
           "DialogueText": "{Farmer_Name}! Co chcesz znaleźć pod choinką?",
-          "AudioPath": "assets/pl/Emily/454.ogg",
+          "AudioPath": "assets/pl/Emily/455.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily",
           "PageIndex": 0,
           "DisplayPattern": "! Co chcesz znaleźć pod choinką?"
@@ -3669,7 +3679,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily",
           "DialogueText": "Tylko praca? Zero zabawy. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/455.ogg",
+          "AudioPath": "assets/pl/Emily/456.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily",
           "PageIndex": 1,
           "DisplayPattern": "Tylko praca? Zero zabawy."
@@ -3677,7 +3687,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily",
           "DialogueText": "Ooo... Brzmi nieźle. Tylko daj mi spróbować. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/456.ogg",
+          "AudioPath": "assets/pl/Emily/457.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily",
           "PageIndex": 2,
           "DisplayPattern": "Ooo... Brzmi nieźle. Tylko daj mi spróbować."
@@ -3685,7 +3695,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily",
           "DialogueText": "Rozumiem. To dobry prezent!",
-          "AudioPath": "assets/pl/Emily/457.ogg",
+          "AudioPath": "assets/pl/Emily/458.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily",
           "PageIndex": 3,
           "DisplayPattern": "Rozumiem. To dobry prezent!"
@@ -3693,7 +3703,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily_spouse_y2",
           "DialogueText": "Gdy ja i Haley byłyśmy dziećmi, zawsze dekorowałyśmy ciasteczka na ten festiwal.",
-          "AudioPath": "assets/pl/Emily/458.ogg",
+          "AudioPath": "assets/pl/Emily/459.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Gdy ja i Haley byłyśmy dziećmi, zawsze dekorowałyśmy ciasteczka na ten festiwal."
@@ -3701,7 +3711,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily_spouse_y2",
           "DialogueText": "Musimy to jeszcze kiedyś zrobić! Nie można pozwolić, żeby dobre tradycje zanikły. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/459.ogg",
+          "AudioPath": "assets/pl/Emily/460.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Musimy to jeszcze kiedyś zrobić! Nie można pozwolić, żeby dobre tradycje zanikły."
@@ -3709,7 +3719,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily_y2",
           "DialogueText": "Patrz! to 'Gwiazda Polarna'!%noturn {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Emily/460.ogg",
+          "AudioPath": "assets/pl/Emily/461.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "Patrz! to 'Gwiazda Polarna'!"
@@ -3717,7 +3727,7 @@
         {
           "DialogueFrom": "Festival/winter25/Emily_y2",
           "DialogueText": "Oj, mój błąd. To tylko dekoracja! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/461.ogg",
+          "AudioPath": "assets/pl/Emily/462.ogg",
           "TranslationKey": "Data/Festivals/winter25:Emily_y2",
           "PageIndex": 1,
           "DisplayPattern": "Oj, mój błąd. To tylko dekoracja!"
@@ -3725,7 +3735,7 @@
         {
           "DialogueFrom": "Festival/winter8/Emily",
           "DialogueText": "Wow, ten bałwan potrzebuje zmiany. Kto to ulepił? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Emily/462.ogg",
+          "AudioPath": "assets/pl/Emily/463.ogg",
           "TranslationKey": "Data/Festivals/winter8:Emily",
           "PageIndex": 0,
           "DisplayPattern": "Wow, ten bałwan potrzebuje zmiany. Kto to ulepił?"
@@ -3733,7 +3743,7 @@
         {
           "DialogueFrom": "Festival/winter8/Emily_spouse_y2",
           "DialogueText": "Ta da! To ty!",
-          "AudioPath": "assets/pl/Emily/463.ogg",
+          "AudioPath": "assets/pl/Emily/464.ogg",
           "TranslationKey": "Data/Festivals/winter8:Emily_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ta da! To ty!"
@@ -3741,7 +3751,7 @@
         {
           "DialogueFrom": "Festival/winter8/Emily_spouse_y2",
           "DialogueText": "Co? Nie widzisz podobieństwa? Moim zdaniem jest idealny!",
-          "AudioPath": "assets/pl/Emily/464.ogg",
+          "AudioPath": "assets/pl/Emily/465.ogg",
           "TranslationKey": "Data/Festivals/winter8:Emily_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Co? Nie widzisz podobieństwa? Moim zdaniem jest idealny!"
@@ -3749,7 +3759,7 @@
         {
           "DialogueFrom": "Festival/winter8/Emily_y2",
           "DialogueText": "Bałwan musi jakoś wyglądać! Czy kapelusz i szalik nie są stylowe?",
-          "AudioPath": "assets/pl/Emily/465.ogg",
+          "AudioPath": "assets/pl/Emily/466.ogg",
           "TranslationKey": "Data/Festivals/winter8:Emily_y2",
           "PageIndex": 0,
           "DisplayPattern": "Bałwan musi jakoś wyglądać! Czy kapelusz i szalik nie są stylowe?"
@@ -3757,7 +3767,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Emily:s0",
           "DialogueText": "Ten prezent jest fantastyczny! Tak bardzo Ci dziękuję!",
-          "AudioPath": "assets/pl/Emily/466.ogg",
+          "AudioPath": "assets/pl/Emily/467.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Emily:s0",
           "PageIndex": 0,
           "DisplayPattern": "Ten prezent jest fantastyczny! Tak bardzo Ci dziękuję!"
@@ -3765,7 +3775,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Emily:s1",
           "DialogueText": "Dziękuję! Ten prezent ma pozytywną energię, czuję to.",
-          "AudioPath": "assets/pl/Emily/467.ogg",
+          "AudioPath": "assets/pl/Emily/468.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Emily:s1",
           "PageIndex": 0,
           "DisplayPattern": "Dziękuję! Ten prezent ma pozytywną energię, czuję to."
@@ -3773,7 +3783,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Emily:s2",
           "DialogueText": "Wybacz, {Farmer_Name}. Nie podoba mi się to.",
-          "AudioPath": "assets/pl/Emily/468.ogg",
+          "AudioPath": "assets/pl/Emily/469.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Emily:s2",
           "PageIndex": 0,
           "DisplayPattern": "Wybacz, . Nie podoba mi się to."
@@ -3781,7 +3791,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Emily:s3",
           "DialogueText": "Ten prezent ma silną negatywną energie. Nie mogę tego znieść.",
-          "AudioPath": "assets/pl/Emily/469.ogg",
+          "AudioPath": "assets/pl/Emily/470.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Emily:s3",
           "PageIndex": 0,
           "DisplayPattern": "Ten prezent ma silną negatywną energie. Nie mogę tego znieść."
@@ -3789,7 +3799,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Emily:s4",
           "DialogueText": "Dzięki!",
-          "AudioPath": "assets/pl/Emily/470.ogg",
+          "AudioPath": "assets/pl/Emily/471.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Emily:s4",
           "PageIndex": 0,
           "DisplayPattern": "Dzięki!"
@@ -3797,7 +3807,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Emily",
           "DialogueText": "To wyjątkowy moment...",
-          "AudioPath": "assets/pl/Emily/471.ogg",
+          "AudioPath": "assets/pl/Emily/472.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Emily",
           "PageIndex": 0,
           "DisplayPattern": "To wyjątkowy moment..."
@@ -3805,7 +3815,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Emily",
           "DialogueText": "Zawsze wiedziałam, że kiedyś będę tu stała, obok Ciebie. Zawsze to czułam w moim sercu.",
-          "AudioPath": "assets/pl/Emily/472.ogg",
+          "AudioPath": "assets/pl/Emily/473.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Emily",
           "PageIndex": 1,
           "DisplayPattern": "Zawsze wiedziałam, że kiedyś będę tu stała, obok Ciebie. Zawsze to czułam w moim sercu."
@@ -3813,7 +3823,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Emily",
           "DialogueText": "I to wszystko się teraz spełniło.\"/pause 500/speak Emily \"Świat jest tajemniczym i specjalnym miejscem... {Portrait:Love}\"",
-          "AudioPath": "assets/pl/Emily/473.ogg",
+          "AudioPath": "assets/pl/Emily/474.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Emily",
           "PageIndex": 2,
           "DisplayPattern": "I to wszystko się teraz spełniło.\"/pause 500/speak Emily \"Świat jest tajemniczym i specjalnym miejscem...\""
@@ -3821,7 +3831,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_spring_movie_1_BeforeMovie",
           "DialogueText": "Zjadłam całą garść orzechów, żeby przygotować się do tego filmu... Jedzenie dla mózgu!",
-          "AudioPath": "assets/pl/Emily/474.ogg",
+          "AudioPath": "assets/pl/Emily/475.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_spring_movie_1_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Zjadłam całą garść orzechów, żeby przygotować się do tego filmu... Jedzenie dla mózgu!"
@@ -3829,7 +3839,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_spring_movie_1_AfterMovie",
           "DialogueText": "Czuje się trochę mądrzejsza niż wcześniej... A ty?",
-          "AudioPath": "assets/pl/Emily/475.ogg",
+          "AudioPath": "assets/pl/Emily/476.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_spring_movie_1_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czuje się trochę mądrzejsza niż wcześniej... A ty?"
@@ -3837,7 +3847,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_love_BeforeMovie",
           "DialogueText": "Gdy zobaczyłam plakat tego filmu, poczułam bardzo pozytywną energię. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/476.ogg",
+          "AudioPath": "assets/pl/Emily/477.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_love_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Gdy zobaczyłam plakat tego filmu, poczułam bardzo pozytywną energię."
@@ -3845,7 +3855,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_love_AfterMovie",
           "DialogueText": "Ten film był w pewnym sensie bardzo uduchowiony... Prawda? Podobało mi się! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/477.ogg",
+          "AudioPath": "assets/pl/Emily/478.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_love_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Ten film był w pewnym sensie bardzo uduchowiony... Prawda? Podobało mi się!"
@@ -3853,7 +3863,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_like_BeforeMovie",
           "DialogueText": "Z chęcią zobaczę z Tobą film! Zwykle całkowicie się gubię w fabule.",
-          "AudioPath": "assets/pl/Emily/478.ogg",
+          "AudioPath": "assets/pl/Emily/479.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_like_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Z chęcią zobaczę z Tobą film! Zwykle całkowicie się gubię w fabule."
@@ -3861,7 +3871,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_like_AfterMovie",
           "DialogueText": "Czuję po tym filmie pozytywną energię... Czyli to był dobry film! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/479.ogg",
+          "AudioPath": "assets/pl/Emily/480.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_like_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czuję po tym filmie pozytywną energię... Czyli to był dobry film!"
@@ -3869,7 +3879,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_dislike_BeforeMovie",
           "DialogueText": "Zazwyczaj oglądam bardziej pozytywne filmy, więc to będzie ciekawe.",
-          "AudioPath": "assets/pl/Emily/480.ogg",
+          "AudioPath": "assets/pl/Emily/481.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_dislike_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Zazwyczaj oglądam bardziej pozytywne filmy, więc to będzie ciekawe."
@@ -3877,7 +3887,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_dislike_DuringMovie",
           "DialogueText": "Yoba, proszę! Chroń mnie przed ciemną energią tego filmu. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Emily/481.ogg",
+          "AudioPath": "assets/pl/Emily/482.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_dislike_DuringMovie",
           "PageIndex": 0,
           "DisplayPattern": "Yoba, proszę! Chroń mnie przed ciemną energią tego filmu."
@@ -3885,7 +3895,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_dislike_DuringMovie_2",
           "DialogueText": "Emily szepcze do siebie...",
-          "AudioPath": "assets/pl/Emily/482.ogg",
+          "AudioPath": "assets/pl/Emily/483.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_dislike_DuringMovie_2",
           "PageIndex": 0,
           "DisplayPattern": "Emily szepcze do siebie..."
@@ -3893,7 +3903,7 @@
         {
           "DialogueFrom": "MovieReactions/Emily_dislike_AfterMovie",
           "DialogueText": "Po tym filmie poziomy mojej energii są bardzo niskie... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Emily/483.ogg",
+          "AudioPath": "assets/pl/Emily/484.ogg",
           "TranslationKey": "Strings/MovieReactions:Emily_dislike_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Po tym filmie poziomy mojej energii są bardzo niskie..."
@@ -3901,7 +3911,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Emily_marriage",
           "DialogueText": "Hej, {Farmer_Name}! Kocham Cię takiego, jaki jesteś... ale jak chcesz, możesz wejść do pudełka!",
-          "AudioPath": "assets/pl/Emily/484.ogg",
+          "AudioPath": "assets/pl/Emily/485.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Emily_marriage",
           "PageIndex": 0,
           "DisplayPattern": "Hej, ! Kocham Cię takiego, jaki jesteś... ale jak chcesz, możesz wejść do pudełka!"
@@ -3909,7 +3919,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Emily2_marriage",
           "DialogueText": "Dobrze się bawiłam, ale byłam tak zajęta, że nie zrobiłam w domu nic. Mam nadzieję, że masz się dobrze!",
-          "AudioPath": "assets/pl/Emily/485.ogg",
+          "AudioPath": "assets/pl/Emily/486.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Emily2_marriage",
           "PageIndex": 0,
           "DisplayPattern": "Dobrze się bawiłam, ale byłam tak zajęta, że nie zrobiłam w domu nic. Mam nadzieję, że masz się dobrze!"
@@ -3917,7 +3927,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Emily3_marriage",
           "DialogueText": "Nie pamiętam... karmiłam papugę?",
-          "AudioPath": "assets/pl/Emily/486.ogg",
+          "AudioPath": "assets/pl/Emily/487.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Emily3_marriage",
           "PageIndex": 0,
           "DisplayPattern": "Nie pamiętam... karmiłam papugę?"
@@ -3925,7 +3935,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Emily",
           "DialogueText": "Hmm... Wyczuwam, że Twój styl nie do końca odpowiada Twoim wewnętrznym uczuciom. Wejdź do pudełka i jakoś temu poradzimy!",
-          "AudioPath": "assets/pl/Emily/487.ogg",
+          "AudioPath": "assets/pl/Emily/488.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Emily",
           "PageIndex": 0,
           "DisplayPattern": "Hmm... Wyczuwam, że Twój styl nie do końca odpowiada Twoim wewnętrznym uczuciom. Wejdź do pudełka i jakoś temu poradzimy!"
@@ -3933,7 +3943,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_AlreadyStyled",
           "DialogueText": "Wyglądasz świetnie! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/488.ogg",
+          "AudioPath": "assets/pl/Emily/489.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_AlreadyStyled",
           "PageIndex": 0,
           "DisplayPattern": "Wyglądasz świetnie!"
@@ -3941,7 +3951,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_AlreadyStyled",
           "DialogueText": "Wróć jutro na kolejną metamorfozę!",
-          "AudioPath": "assets/pl/Emily/489.ogg",
+          "AudioPath": "assets/pl/Emily/490.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_AlreadyStyled",
           "PageIndex": 1,
           "DisplayPattern": "Wróć jutro na kolejną metamorfozę!"
@@ -3949,7 +3959,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_InventoryFull",
           "DialogueText": "Hmm, Twój plecak jest pełny. Wróć jak zrobisz sobie miejsce na pełny strój!",
-          "AudioPath": "assets/pl/Emily/490.ogg",
+          "AudioPath": "assets/pl/Emily/491.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_InventoryFull",
           "PageIndex": 0,
           "DisplayPattern": "Hmm, Twój plecak jest pełny. Wróć jak zrobisz sobie miejsce na pełny strój!"
@@ -3957,7 +3967,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_1",
           "DialogueText": "Ok, zanim kontynuujemy, pozwól, że sprawdzę Twoją aurę, żeby zobaczyć jaki styl najbardziej cie uszczęśliwi...",
-          "AudioPath": "assets/pl/Emily/491.ogg",
+          "AudioPath": "assets/pl/Emily/492.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_1",
           "PageIndex": 0,
           "DisplayPattern": "Ok, zanim kontynuujemy, pozwól, że sprawdzę Twoją aurę, żeby zobaczyć jaki styl najbardziej cie uszczęśliwi..."
@@ -3965,7 +3975,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_2",
           "DialogueText": "Tak... widzę...",
-          "AudioPath": "assets/pl/Emily/492.ogg",
+          "AudioPath": "assets/pl/Emily/493.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_2",
           "PageIndex": 0,
           "DisplayPattern": "Tak... widzę..."
@@ -3973,7 +3983,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction1",
           "DialogueText": "Ups, wybacz jeśli łaskoczę.",
-          "AudioPath": "assets/pl/Emily/493.ogg",
+          "AudioPath": "assets/pl/Emily/494.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction1",
           "PageIndex": 0,
           "DisplayPattern": "Ups, wybacz jeśli łaskoczę."
@@ -3981,7 +3991,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction2",
           "DialogueText": "Ojć, wybacz jeśli zabolało!",
-          "AudioPath": "assets/pl/Emily/494.ogg",
+          "AudioPath": "assets/pl/Emily/495.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction2",
           "PageIndex": 0,
           "DisplayPattern": "Ojć, wybacz jeśli zabolało!"
@@ -3989,7 +3999,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction3",
           "DialogueText": "Wow zdecydowanie za dużo żelu do włosów...",
-          "AudioPath": "assets/pl/Emily/495.ogg",
+          "AudioPath": "assets/pl/Emily/496.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction3",
           "PageIndex": 0,
           "DisplayPattern": "Wow zdecydowanie za dużo żelu do włosów..."
@@ -3997,7 +4007,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction4",
           "DialogueText": "Nie... tak nie będzie...",
-          "AudioPath": "assets/pl/Emily/496.ogg",
+          "AudioPath": "assets/pl/Emily/497.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction4",
           "PageIndex": 0,
           "DisplayPattern": "Nie... tak nie będzie..."
@@ -4005,7 +4015,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction5",
           "DialogueText": "Hej, łap!",
-          "AudioPath": "assets/pl/Emily/497.ogg",
+          "AudioPath": "assets/pl/Emily/498.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction5",
           "PageIndex": 0,
           "DisplayPattern": "Hej, łap!"
@@ -4013,7 +4023,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction6",
           "DialogueText": "O patrz, placek z kalafiora...",
-          "AudioPath": "assets/pl/Emily/498.ogg",
+          "AudioPath": "assets/pl/Emily/499.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction6",
           "PageIndex": 0,
           "DisplayPattern": "O patrz, k z kalafiora..."
@@ -4021,7 +4031,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction7",
           "DialogueText": "Trochę skrócić tutaj...",
-          "AudioPath": "assets/pl/Emily/499.ogg",
+          "AudioPath": "assets/pl/Emily/500.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction7",
           "PageIndex": 0,
           "DisplayPattern": "Trochę skrócić tutaj..."
@@ -4029,7 +4039,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction8",
           "DialogueText": "Pozwól, że trochę to zmażę palcem...",
-          "AudioPath": "assets/pl/Emily/500.ogg",
+          "AudioPath": "assets/pl/Emily/501.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction8",
           "PageIndex": 0,
           "DisplayPattern": "Pozwól, że trochę to zmażę palcem..."
@@ -4037,7 +4047,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction9",
           "DialogueText": "Ok, przygotuj się, to może być trochę ciasne...",
-          "AudioPath": "assets/pl/Emily/501.ogg",
+          "AudioPath": "assets/pl/Emily/502.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction9",
           "PageIndex": 0,
           "DisplayPattern": "Ok, przygotuj się, to może być trochę ciasne..."
@@ -4045,7 +4055,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_3",
           "DialogueText": "Ok, mamy to! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/502.ogg",
+          "AudioPath": "assets/pl/Emily/503.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_3",
           "PageIndex": 0,
           "DisplayPattern": "Ok, mamy to!"
@@ -4053,7 +4063,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_3",
           "DialogueText": "Wchodzę, nie bój się!",
-          "AudioPath": "assets/pl/Emily/503.ogg",
+          "AudioPath": "assets/pl/Emily/504.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_3",
           "PageIndex": 1,
           "DisplayPattern": "Wchodzę, nie bój się!"
@@ -4061,7 +4071,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_4",
           "DialogueText": "Już!",
-          "AudioPath": "assets/pl/Emily/504.ogg",
+          "AudioPath": "assets/pl/Emily/505.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_4",
           "PageIndex": 0,
           "DisplayPattern": "Już!"
@@ -4069,7 +4079,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_5",
           "DialogueText": "Tak! Czuję to, Twoje wewnętrzne i zewnętrzne ja są teraz w doskonałej harmonii! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/505.ogg",
+          "AudioPath": "assets/pl/Emily/506.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_5",
           "PageIndex": 0,
           "DisplayPattern": "Tak! Czuję to, Twoje wewnętrzne i zewnętrzne ja są teraz w doskonałej harmonii!"
@@ -4077,7 +4087,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_5",
           "DialogueText": "Nie mogę się doczekać aż zobaczysz swoje nowe 'ja'! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/506.ogg",
+          "AudioPath": "assets/pl/Emily/507.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_5",
           "PageIndex": 1,
           "DisplayPattern": "Nie mogę się doczekać aż zobaczysz swoje nowe 'ja'!"
@@ -4085,7 +4095,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Done",
           "DialogueText": "No? Co o tym myślisz?",
-          "AudioPath": "assets/pl/Emily/507.ogg",
+          "AudioPath": "assets/pl/Emily/508.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Done",
           "PageIndex": 0,
           "DisplayPattern": "No? Co o tym myślisz?"
@@ -4093,7 +4103,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Done",
           "DialogueText": "Włożyłam Ci Twoje stare ubrania do plecaka, jeśli zmienisz zdanie! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Emily/508.ogg",
+          "AudioPath": "assets/pl/Emily/509.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Done",
           "PageIndex": 1,
           "DisplayPattern": "Włożyłam Ci Twoje stare ubrania do plecaka, jeśli zmienisz zdanie!"
@@ -4101,7 +4111,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Emily",
           "DialogueText": "Ach, przyjemnie tu w cieniu.",
-          "AudioPath": "assets/pl/Emily/509.ogg",
+          "AudioPath": "assets/pl/Emily/510.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Emily",
           "PageIndex": 0,
           "DisplayPattern": "Ach, przyjemnie tu w cieniu."

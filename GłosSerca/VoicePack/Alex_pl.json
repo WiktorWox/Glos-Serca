@@ -2970,1034 +2970,1054 @@
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s0",
-          "DialogueText": "Hey, {Farmer_Name}. Before you head out...",
+          "DialogueText": "Hej, {Farmer_Name}. Zanim wyjdziesz...",
           "AudioPath": "assets/pl/Alex/364.ogg",
           "TranslationKey": "Events/Farm:3917587:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, . Before you head out..."
+          "DisplayPattern": "Hej, . Zanim wyjdziesz..."
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s1",
-          "DialogueText": "I hate to ask this... but can I have 5,000g?",
-          "AudioPath": "assets/pl/Alex/365.ogg",
+          "DialogueText": "Ciężko mi prosić... ale czy dałbyś mi 5,000 monet?",
+          "AudioPath": "assets/pl/Alex/365_male.ogg",
           "TranslationKey": "Events/Farm:3917587:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I hate to ask this... but can I have 5,000g?"
+          "DisplayPattern": "Ciężko mi prosić... ale czy dałbyś mi 5,000 monet?",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s2",
-          "DialogueText": "It's for a secret project I'm working on... I know we have a joint bank account, but I thought I should ask anyway.",
-          "AudioPath": "assets/pl/Alex/366.ogg",
+          "DialogueText": "Ciężko mi prosić... ale czy dałabyś mi 5,000 monet?",
+          "AudioPath": "assets/pl/Alex/366_female.ogg",
           "TranslationKey": "Events/Farm:3917587:s2",
           "PageIndex": 0,
-          "DisplayPattern": "It's for a secret project I'm working on... I know we have a joint bank account, but I thought I should ask anyway."
+          "DisplayPattern": "Ciężko mi prosić... ale czy dałabyś mi 5,000 monet?",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s3",
-          "DialogueText": "Give Alex 5,000g for his secret project?",
+          "DialogueText": "To na mój tajny projekt, nad którym pracuję... Wiem, że mamy wspólne konto bankowe, ale pomyślałem, że powinienem zapytać.",
           "AudioPath": "assets/pl/Alex/367.ogg",
           "TranslationKey": "Events/Farm:3917587:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Give Alex 5,000g for his secret project?"
+          "DisplayPattern": "To na mój tajny projekt, nad którym pracuję... Wiem, że mamy wspólne konto bankowe, ale pomyślałem, że powinienem zapytać."
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s4",
-          "DialogueText": "Yes",
+          "DialogueText": "Dać Alexowi 5,000 złota na jego tajny projekt?",
           "AudioPath": "assets/pl/Alex/368.ogg",
           "TranslationKey": "Events/Farm:3917587:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Yes"
+          "DisplayPattern": "Dać Alexowi 5,000 złota na jego tajny projekt?"
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s5",
-          "DialogueText": "No",
+          "DialogueText": "Tak",
           "AudioPath": "assets/pl/Alex/369.ogg",
           "TranslationKey": "Events/Farm:3917587:s5",
           "PageIndex": 0,
-          "DisplayPattern": "No"
+          "DisplayPattern": "Tak"
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s6",
-          "DialogueText": "Really? You won't spare a measly 5,000g to make me happy? {Portrait:Angry}",
+          "DialogueText": "Nie",
           "AudioPath": "assets/pl/Alex/370.ogg",
           "TranslationKey": "Events/Farm:3917587:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Really? You won't spare a measly 5,000g to make me happy?"
+          "DisplayPattern": "Nie"
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s7",
-          "DialogueText": "I didn't know you were such a cheapskate... {Portrait:Sad}",
+          "DialogueText": "Naprawdę? Nie dasz mi 5,000 marnych sztuk złota, żeby mnie uszczęśliwić? {Portrait:Angry}",
           "AudioPath": "assets/pl/Alex/371.ogg",
           "TranslationKey": "Events/Farm:3917587:s7",
           "PageIndex": 0,
-          "DisplayPattern": "I didn't know you were such a cheapskate..."
+          "DisplayPattern": "Naprawdę? Nie dasz mi 5,000 marnych sztuk złota, żeby mnie uszczęśliwić?"
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s8",
-          "DialogueText": "I just wanted to have a little fun... {Portrait:Sad}",
+          "DialogueText": "Nie wiedziałem, że taki z Ciebie dusigrosz... {Portrait:Sad}",
           "AudioPath": "assets/pl/Alex/372.ogg",
           "TranslationKey": "Events/Farm:3917587:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I just wanted to have a little fun..."
+          "DisplayPattern": "Nie wiedziałem, że taki z Ciebie dusigrosz..."
         },
         {
           "DialogueFrom": "Event/Farm/3917587:s9",
-          "DialogueText": "I don't want to talk to you right now... {Portrait:Sad}",
+          "DialogueText": "Chciałem się trochę rozerwać... {Portrait:Sad}",
           "AudioPath": "assets/pl/Alex/373.ogg",
           "TranslationKey": "Events/Farm:3917587:s9",
           "PageIndex": 0,
-          "DisplayPattern": "I don't want to talk to you right now..."
+          "DisplayPattern": "Chciałem się trochę rozerwać..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/3917587:s10",
+          "DialogueText": "Nie chcę teraz z Tobą rozmawiać... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/374.ogg",
+          "TranslationKey": "Events/Farm:3917587:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie chcę teraz z Tobą rozmawiać..."
         },
         {
           "DialogueFrom": "Event/Farm/giveAlexMoney:s0",
-          "DialogueText": "Great! Swing by the Saloon on Sunday and I'll show you the end result! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/374.ogg",
+          "DialogueText": "Wspaniale! Przyjdź do knajpy w niedzielę, a pokażę Ci jak to wyszło! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/375.ogg",
           "TranslationKey": "Events/Farm:giveAlexMoney:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Great! Swing by the Saloon on Sunday and I'll show you the end result!"
+          "DisplayPattern": "Wspaniale! Przyjdź do knajpy w niedzielę, a pokażę Ci jak to wyszło!"
         },
         {
           "DialogueFrom": "Event/Town/2481135:s0",
-          "DialogueText": "That's a good boy, Dusty.",
-          "AudioPath": "assets/pl/Alex/375.ogg",
+          "DialogueText": "Dobry piesek.",
+          "AudioPath": "assets/pl/Alex/376.ogg",
           "TranslationKey": "Events/Town:2481135:s0",
           "PageIndex": 0,
-          "DisplayPattern": "That's a good boy, Dusty."
+          "DisplayPattern": "Dobry piesek."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s1",
-          "DialogueText": "You might be the only one around here who understands me. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/376.ogg",
+          "DialogueText": "Tylko ty mnie rozumiesz. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/377.ogg",
           "TranslationKey": "Events/Town:2481135:s1",
           "PageIndex": 0,
-          "DisplayPattern": "You might be the only one around here who understands me."
+          "DisplayPattern": "Tylko ty mnie rozumiesz."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s2",
-          "DialogueText": "No one else has seen the kind of stuff you and I have. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/377.ogg",
+          "DialogueText": "Nikt nie widział tego, co ty i ja. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/378.ogg",
           "TranslationKey": "Events/Town:2481135:s2",
           "PageIndex": 0,
-          "DisplayPattern": "No one else has seen the kind of stuff you and I have."
+          "DisplayPattern": "Nikt nie widział tego, co ty i ja."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s3",
-          "DialogueText": "{Farmer_Name}! Did you overhear me talking? {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Alex/378.ogg",
+          "DialogueText": "{Farmer_Name}! Podsłuchiwałeś mnie? {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Alex/379_male.ogg",
           "TranslationKey": "Events/Town:2481135:s3",
           "PageIndex": 0,
-          "DisplayPattern": "! Did you overhear me talking?"
+          "DisplayPattern": "! Podsłuchiwałeś mnie?",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Town/2481135:s4",
-          "DialogueText": "Yes, I heard everything.",
-          "AudioPath": "assets/pl/Alex/379.ogg",
+          "DialogueText": "{Farmer_Name}! Podsłuchiwałaś mnie? {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Alex/380_female.ogg",
           "TranslationKey": "Events/Town:2481135:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Yes, I heard everything."
+          "DisplayPattern": "! Podsłuchiwałaś mnie?",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Town/2481135:s5",
-          "DialogueText": "Not really... why?",
-          "AudioPath": "assets/pl/Alex/380.ogg",
+          "DialogueText": "Tak.",
+          "AudioPath": "assets/pl/Alex/381.ogg",
           "TranslationKey": "Events/Town:2481135:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Not really... why?"
+          "DisplayPattern": "Tak."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s6",
-          "DialogueText": "I don't really like to talk about it, but I guess I'll explain... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/381.ogg",
+          "DialogueText": "W sumie to nie... a co?",
+          "AudioPath": "assets/pl/Alex/382.ogg",
           "TranslationKey": "Events/Town:2481135:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I don't really like to talk about it, but I guess I'll explain..."
+          "DisplayPattern": "W sumie to nie... a co?"
         },
         {
           "DialogueFrom": "Event/Town/2481135:s7",
-          "DialogueText": "Have you ever wondered why I live with my grandparents? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/382.ogg",
+          "DialogueText": "Nie lubię o tym rozmawiać, ale chyba Ci to opowiem... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/383.ogg",
           "TranslationKey": "Events/Town:2481135:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Have you ever wondered why I live with my grandparents?"
+          "DisplayPattern": "Nie lubię o tym rozmawiać, ale chyba Ci to opowiem..."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s8",
-          "DialogueText": "You see, my father wasn't a good guy... He... Well, he ruined everything for me and my mom. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/383.ogg",
+          "DialogueText": "Zastanawiało Cię kiedyś, czemu mieszkam z dziadkami? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/384.ogg",
           "TranslationKey": "Events/Town:2481135:s8",
           "PageIndex": 0,
-          "DisplayPattern": "You see, my father wasn't a good guy... He... Well, he ruined everything for me and my mom."
+          "DisplayPattern": "Zastanawiało Cię kiedyś, czemu mieszkam z dziadkami?"
         },
         {
           "DialogueFrom": "Event/Town/2481135:s9",
-          "DialogueText": "Half the time he was gone... The other half he'd drink all night and tell me I'm worthless, that I'd never amount to anything. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/384.ogg",
+          "DialogueText": "Widzisz, mój ojciec nie był dobrym gościem... On... zniszczył życie mi i mojej mamie. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/385.ogg",
           "TranslationKey": "Events/Town:2481135:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Half the he was gone... The other half he'd drink all night and tell me I'm worthless, that I'd never amount to anything."
+          "DisplayPattern": "Widzisz, mój ojciec nie był dobrym gościem... On... zniszczył życie mi i mojej mamie."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s10",
-          "DialogueText": "I think he resented me for being young... Bitter because he'd wasted his youth doing nothing and had gotten nowhere in life.",
-          "AudioPath": "assets/pl/Alex/385.ogg",
+          "DialogueText": "Połowę czasu go nie było... Drugą połowę pił i mówił, że jestem bezwartościowy, że nigdy niczego nie osiągnę. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/386.ogg",
           "TranslationKey": "Events/Town:2481135:s10",
           "PageIndex": 0,
-          "DisplayPattern": "I think he resented me for being young... Bitter because he'd wasted his youth doing nothing and had gotten nowhere in life."
+          "DisplayPattern": "Połowę czasu go nie było... Drugą połowę pił i mówił, że jestem bezwartościowy, że nigdy niczego nie osiągnę."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s11",
-          "DialogueText": "Well... that's my take on it, anyway. Who knows what was going on in his mind. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/386.ogg",
+          "DialogueText": "Chyba mnie tak traktował, bo byłem młody... Przykre, bo zmarnował całą swoją młodość i niczego w życiu nie osiągnął.",
+          "AudioPath": "assets/pl/Alex/387.ogg",
           "TranslationKey": "Events/Town:2481135:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Well... that's my take on it, anyway. Who knows what was going on in his mind."
+          "DisplayPattern": "Chyba mnie tak traktował, bo byłem młody... Przykre, bo zmarnował całą swoją młodość i niczego w życiu nie osiągnął."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s12",
-          "DialogueText": "One day he left, and soon after that Mom got sick and passed away. I had no choice but to move in with my grandparents. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/387.ogg",
+          "DialogueText": "Cóż... tak mi się przynajmniej wydaje. Kto wie co on miał w tej głowie. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/388.ogg",
           "TranslationKey": "Events/Town:2481135:s12",
           "PageIndex": 0,
-          "DisplayPattern": "One day he left, and soon after that Mom got sick and passed away. I had no choice but to move in with my grandparents."
+          "DisplayPattern": "Cóż... tak mi się przynajmniej wydaje. Kto wie co on miał w tej głowie."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s13",
-          "DialogueText": "You seem like someone I can trust... That's why I'm telling you this, {Farmer_Name}. I don't want any sympathy. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/388.ogg",
+          "DialogueText": "Pewnego razu odszedł, a wkrótce po tym mama zachorowała i umarła. Nie miałem innego wyboru, musiałem zamieszkać z dziadkami. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/389.ogg",
           "TranslationKey": "Events/Town:2481135:s13",
           "PageIndex": 0,
-          "DisplayPattern": "You seem like someone I can trust... That's why I'm telling you this, . I don't want any sympathy."
+          "DisplayPattern": "Pewnego razu odszedł, a wkrótce po tym mama zachorowała i umarła. Nie miałem innego wyboru, musiałem zamieszkać z dziadkami."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s14",
-          "DialogueText": "If there's one good thing about my past, it's that it made me strong.",
-          "AudioPath": "assets/pl/Alex/389.ogg",
+          "DialogueText": "Chyba mogę Ci zaufać... Dlatego Ci to mówię, {Farmer_Name}. Nie chcę współczucia. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/390.ogg",
           "TranslationKey": "Events/Town:2481135:s14",
           "PageIndex": 0,
-          "DisplayPattern": "If there's one good thing about my past, it's that it made me strong."
+          "DisplayPattern": "Chyba mogę Ci zaufać... Dlatego Ci to mówię, . Nie chcę współczucia."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s15",
-          "DialogueText": "Now... let me show you what Dusty will do for a barbecued steak. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/390.ogg",
+          "DialogueText": "Jedyna zaleta mojej przeszłości, jest taka, że dzięki niej jestem silny.",
+          "AudioPath": "assets/pl/Alex/391.ogg",
           "TranslationKey": "Events/Town:2481135:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Now... let me show you what Dusty will do for a barbecued steak."
+          "DisplayPattern": "Jedyna zaleta mojej przeszłości, jest taka, że dzięki niej jestem silny."
         },
         {
           "DialogueFrom": "Event/Town/2481135:s16",
-          "DialogueText": "Ha! Look at him slobbering. I think he might like steak as much as I do. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/391.ogg",
+          "DialogueText": "A teraz pokażę co zrobi Dusty dla mięska. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/392.ogg",
           "TranslationKey": "Events/Town:2481135:s16",
           "PageIndex": 0,
-          "DisplayPattern": "Ha! Look at him slobbering. I think he might like steak as much as I do."
+          "DisplayPattern": "A teraz pokażę co zrobi Dusty dla mięska."
+        },
+        {
+          "DialogueFrom": "Event/Town/2481135:s17",
+          "DialogueText": "Ha! Popatrz jak mu cieknie ślina. Chyba lubi steki tak samo jak ja. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/393.ogg",
+          "TranslationKey": "Events/Town:2481135:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Ha! Popatrz jak mu cieknie ślina. Chyba lubi steki tak samo jak ja."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s0",
-          "DialogueText": "Oh... I was talking to Dusty.",
-          "AudioPath": "assets/pl/Alex/392.ogg",
+          "DialogueText": "Och... Mówiłem do Dustiego.",
+          "AudioPath": "assets/pl/Alex/394.ogg",
           "TranslationKey": "Events/Town:didntHear:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Oh... I was talking to Dusty."
+          "DisplayPattern": "Och... Mówiłem do Dustiego."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s1",
-          "DialogueText": "He and I have a lot in common, actually. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/393.ogg",
+          "DialogueText": "Mamy wiele wspólnego. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/395.ogg",
           "TranslationKey": "Events/Town:didntHear:s1",
           "PageIndex": 0,
-          "DisplayPattern": "He and I have a lot in common, actually."
+          "DisplayPattern": "Mamy wiele wspólnego."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s2",
-          "DialogueText": "I don't usually like to talk about it... But we've been friends for a while now and I think I can trust you. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/394.ogg",
+          "DialogueText": "Zazwyczaj nie lubię o tym rozmawiać... Ale przyjaźnimy się już od dłuższego czasu i myślę, że mogę Ci zaufać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/396.ogg",
           "TranslationKey": "Events/Town:didntHear:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I don't usually like to talk about it... But we've been friends for a while now and I think I can trust you."
+          "DisplayPattern": "Zazwyczaj nie lubię o tym rozmawiać... Ale przyjaźnimy się już od dłuższego czasu i myślę, że mogę Ci zaufać."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s3",
-          "DialogueText": "Have you ever wondered why I live with my grandparents? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/395.ogg",
+          "DialogueText": "Zastanawiało Cię kiedyś, czemu mieszkam z dziadkami? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/397.ogg",
           "TranslationKey": "Events/Town:didntHear:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Have you ever wondered why I live with my grandparents?"
+          "DisplayPattern": "Zastanawiało Cię kiedyś, czemu mieszkam z dziadkami?"
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s4",
-          "DialogueText": "My father wasn't a good guy... He... Well he ruined everything for me and my mom. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/396.ogg",
+          "DialogueText": "Mój ojciec nie był dobrym gościem... On... zniszczył życie mi i mojej mamie. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/398.ogg",
           "TranslationKey": "Events/Town:didntHear:s4",
           "PageIndex": 0,
-          "DisplayPattern": "My father wasn't a good guy... He... Well he ruined everything for me and my mom."
+          "DisplayPattern": "Mój ojciec nie był dobrym gościem... On... zniszczył życie mi i mojej mamie."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s5",
-          "DialogueText": "Half the time he was gone... The other half he'd drink all night and tell me I'm worthless, that I'd never amount to anything. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/397.ogg",
+          "DialogueText": "Połowę czasu go nie było... Drugą połowę pił i mówił, że jestem bezwartościowy i że niczego nie osiągnę. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/399.ogg",
           "TranslationKey": "Events/Town:didntHear:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Half the he was gone... The other half he'd drink all night and tell me I'm worthless, that I'd never amount to anything."
+          "DisplayPattern": "Połowę czasu go nie było... Drugą połowę pił i mówił, że jestem bezwartościowy i że niczego nie osiągnę."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s6",
-          "DialogueText": "I think he resented me for being young... Bitter because he'd wasted his youth doing nothing and had gotten nowhere in life. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/398.ogg",
+          "DialogueText": "Chyba mnie tak traktował, bo byłem młody... Przykre, bo zmarnował całą swoją młodość i niczego w życiu nie osiągnął. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/400.ogg",
           "TranslationKey": "Events/Town:didntHear:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I think he resented me for being young... Bitter because he'd wasted his youth doing nothing and had gotten nowhere in life."
+          "DisplayPattern": "Chyba mnie tak traktował, bo byłem młody... Przykre, bo zmarnował całą swoją młodość i niczego w życiu nie osiągnął."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s7",
-          "DialogueText": "Well... that's my take on it, anyway. Who knows what was going on in his mind. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/399.ogg",
+          "DialogueText": "Cóż... tak mi się przynajmniej wydaje. Kto wie co on miał w tej głowie. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/401.ogg",
           "TranslationKey": "Events/Town:didntHear:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Well... that's my take on it, anyway. Who knows what was going on in his mind."
+          "DisplayPattern": "Cóż... tak mi się przynajmniej wydaje. Kto wie co on miał w tej głowie."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s8",
-          "DialogueText": "One day he left, and soon after that Mom got sick and passed away. I had no choice but to move in with my grandparents. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/400.ogg",
+          "DialogueText": "Pewnego razu odszedł, a wkrótce po tym mama zachorowała i umarła. Nie miałem innego wyboru, musiałem zamieszkać z dziadkami. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/402.ogg",
           "TranslationKey": "Events/Town:didntHear:s8",
           "PageIndex": 0,
-          "DisplayPattern": "One day he left, and soon after that Mom got sick and passed away. I had no choice but to move in with my grandparents."
+          "DisplayPattern": "Pewnego razu odszedł, a wkrótce po tym mama zachorowała i umarła. Nie miałem innego wyboru, musiałem zamieszkać z dziadkami."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s9",
-          "DialogueText": "You know what? There's no sense dwelling on this stuff... I don't want any sympathy from anyone.",
-          "AudioPath": "assets/pl/Alex/401.ogg",
+          "DialogueText": "Wiesz co? Nie ma sensu drążyć tematu... Nie chcę od nikogo współczucia.",
+          "AudioPath": "assets/pl/Alex/403.ogg",
           "TranslationKey": "Events/Town:didntHear:s9",
           "PageIndex": 0,
-          "DisplayPattern": "You know what? There's no sense dwelling on this stuff... I don't want any sympathy from anyone."
+          "DisplayPattern": "Wiesz co? Nie ma sensu drążyć tematu... Nie chcę od nikogo współczucia."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s10",
-          "DialogueText": "You have to look on the positive side of things... My childhood wasn't great, but it did make me strong. I had to be.",
-          "AudioPath": "assets/pl/Alex/402.ogg",
+          "DialogueText": "Trzeba patrzyć na pozytywne strony... Moje dzieciństwo nie było usłane różami, ale dzięki temu jestem silniejszy. Musiałem być.",
+          "AudioPath": "assets/pl/Alex/404.ogg",
           "TranslationKey": "Events/Town:didntHear:s10",
           "PageIndex": 0,
-          "DisplayPattern": "You have to look on the positive side of things... My childhood wasn't great, but it did make me strong. I had to be."
+          "DisplayPattern": "Trzeba patrzyć na pozytywne strony... Moje dzieciństwo nie było usłane różami, ale dzięki temu jestem silniejszy. Musiałem być."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s11",
-          "DialogueText": "Here, let me show you what Dusty will do for a barbecued steak. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/403.ogg",
+          "DialogueText": "Teraz Ci pokażę co zrobi Dusty dla mięska. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/405.ogg",
           "TranslationKey": "Events/Town:didntHear:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Here, let me show you what Dusty will do for a barbecued steak."
+          "DisplayPattern": "Teraz Ci pokażę co zrobi Dusty dla mięska."
         },
         {
           "DialogueFrom": "Event/Town/didntHear:s12",
-          "DialogueText": "Ha! Look at him slobbering. I think he might like steak as much as I do. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/404.ogg",
+          "DialogueText": "Ha! Patrz jak mu cieknie ślina. Chyba lubi steki tak samo jak ja. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/406.ogg",
           "TranslationKey": "Events/Town:didntHear:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Ha! Look at him slobbering. I think he might like steak as much as I do."
+          "DisplayPattern": "Ha! Patrz jak mu cieknie ślina. Chyba lubi steki tak samo jak ja."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s0",
-          "DialogueText": "*sigh* {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/405.ogg",
+          "DialogueText": "*ech* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/407.ogg",
           "TranslationKey": "Events/JoshHouse:21:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*"
+          "DisplayPattern": "*ech*"
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s1",
-          "DialogueText": "Oh, Hi {Farmer_Name}. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/406.ogg",
+          "DialogueText": "Och, hej {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/408.ogg",
           "TranslationKey": "Events/JoshHouse:21:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, Hi ."
+          "DisplayPattern": "Och, hej ."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s2",
-          "DialogueText": "Look at all these books. I haven't read a single one. Just the thought of cracking one open makes me nervous. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/407.ogg",
+          "DialogueText": "Popatrz na te wszystkie książki. Nie przeczytałem ani jednej. Na samą myśl o otwieraniu jednej aż mam dreszcze. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/409.ogg",
           "TranslationKey": "Events/JoshHouse:21:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Look at all these s. I haven't read a single one. Just the thought of cracking one open makes me nervous."
+          "DisplayPattern": "Popatrz na te wszystkie książki. Nie przeczytałem ani jednej. Na samą myśl o otwieraniu jednej aż mam dreszcze."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s3",
-          "DialogueText": "But you can't make a decent living in this world without a brain... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/408.ogg",
+          "DialogueText": "Ale nie da się na tym świecie dobrze żyć bez mózgu... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/410.ogg",
           "TranslationKey": "Events/JoshHouse:21:s3",
           "PageIndex": 0,
-          "DisplayPattern": "But you can't make a decent living in this world without a brain..."
+          "DisplayPattern": "Ale nie da się na tym świecie dobrze żyć bez mózgu..."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s4",
-          "DialogueText": "I'm worthless... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/409.ogg",
+          "DialogueText": "Jestem bezwartościowy... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/411.ogg",
           "TranslationKey": "Events/JoshHouse:21:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I'm worthless..."
+          "DisplayPattern": "Jestem bezwartościowy..."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s5",
-          "DialogueText": "That's crazy. You're a genius!",
-          "AudioPath": "assets/pl/Alex/410.ogg",
+          "DialogueText": "To szaleństwo. Jesteś geniuszem!",
+          "AudioPath": "assets/pl/Alex/412.ogg",
           "TranslationKey": "Events/JoshHouse:21:s5",
           "PageIndex": 0,
-          "DisplayPattern": "That's crazy. You're a genius!"
+          "DisplayPattern": "To szaleństwo. Jesteś geniuszem!"
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s6",
-          "DialogueText": "We all have our strengths and weaknesses.",
-          "AudioPath": "assets/pl/Alex/411.ogg",
+          "DialogueText": "Wszyscy mamy wady i zalety.",
+          "AudioPath": "assets/pl/Alex/413.ogg",
           "TranslationKey": "Events/JoshHouse:21:s6",
           "PageIndex": 0,
-          "DisplayPattern": "We all have our strengths and weaknesses."
+          "DisplayPattern": "Wszyscy mamy wady i zalety."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s7",
-          "DialogueText": "Worthless? Yeah, that about sums it up.",
-          "AudioPath": "assets/pl/Alex/412.ogg",
+          "DialogueText": "Bezwartościowy? No, dobre podsumowanie.",
+          "AudioPath": "assets/pl/Alex/414.ogg",
           "TranslationKey": "Events/JoshHouse:21:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Worthless? Yeah, that about sums it up."
+          "DisplayPattern": "Bezwartościowy? No, dobre podsumowanie."
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s8",
-          "DialogueText": "Well, I'm not going to give up! {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/413.ogg",
+          "DialogueText": "Cóż, nie zamierzam się poddać! {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/415.ogg",
           "TranslationKey": "Events/JoshHouse:21:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Well, I'm not going to give up!"
+          "DisplayPattern": "Cóż, nie zamierzam się poddać!"
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s9",
-          "DialogueText": "If I work hard, I can do anything!",
-          "AudioPath": "assets/pl/Alex/414.ogg",
+          "DialogueText": "Jak będę ciężko pracował, mogę zrobić wszystko!",
+          "AudioPath": "assets/pl/Alex/416.ogg",
           "TranslationKey": "Events/JoshHouse:21:s9",
           "PageIndex": 0,
-          "DisplayPattern": "If I work hard, I can do anything!"
+          "DisplayPattern": "Jak będę ciężko pracował, mogę zrobić wszystko!"
         },
         {
           "DialogueFrom": "Event/JoshHouse/21:s10",
-          "DialogueText": "Hey, maybe one day soon we'll have dinner and discuss ....phi-lo-so-phy. Isn't that what you smart people talk about? {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/415.ogg",
+          "DialogueText": "Hej, może kiedyś będziemy jeść obiad i porozmawiamy o... fi-lo-zo-fii. Czy nie o tym wy mądrzy ludzie rozmawiacie? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/417.ogg",
           "TranslationKey": "Events/JoshHouse:21:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, maybe one day soon we'll have dinner and discuss ....phi-lo-so-phy. Isn't that what you smart people talk about?"
+          "DisplayPattern": "Hej, może kiedyś będziemy jeść obiad i porozmawiamy o... fi-lo-zo-fii. Czy nie o tym wy mądrzy ludzie rozmawiacie?"
         },
         {
           "DialogueFrom": "Event/JoshHouse/2119820:s0",
-          "DialogueText": "Oh! Hey... I was just doing my daily strength training routine. {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Alex/416.ogg",
+          "DialogueText": "O! Hej... Właśnie robiłem mój codzienny trening. {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Alex/418.ogg",
           "TranslationKey": "Events/JoshHouse:2119820:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Oh! Hey... I was just doing my daily strength training routine."
+          "DisplayPattern": "O! Hej... Właśnie robiłem mój codzienny trening."
         },
         {
           "DialogueFrom": "Event/JoshHouse/2119820:s1",
-          "DialogueText": "... sorry I have no shirt on. {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Alex/417.ogg",
+          "DialogueText": "... Wybacz, nie mam na sobie koszulki. {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Alex/419.ogg",
           "TranslationKey": "Events/JoshHouse:2119820:s1",
           "PageIndex": 0,
-          "DisplayPattern": "... sorry I have no shirt on."
+          "DisplayPattern": "... Wybacz, nie mam na sobie koszulki."
         },
         {
           "DialogueFrom": "Event/JoshHouse/2119820:s2",
-          "DialogueText": "Uh... {Farmer_Name}? I've been meaning to talk to you about something... {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Alex/418.ogg",
+          "DialogueText": "Ee... {Farmer_Name}? Chciałem Ci o czymś powiedzieć... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Alex/420.ogg",
           "TranslationKey": "Events/JoshHouse:2119820:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Uh... ? I've been meaning to talk to you about something..."
+          "DisplayPattern": "Ee... ? Chciałem Ci o czymś powiedzieć..."
         },
         {
           "DialogueFrom": "Event/JoshHouse/2119820:s3",
-          "DialogueText": "I've started to realize that... well, that I've been really rude towards you in the past. You know, about going pro and all that. {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Alex/419.ogg",
+          "DialogueText": "Odkryłem że... cóż, ostatnio bywałem wredny w stosunku do Ciebie. No wiesz, to gadanie, że będę najlepszy i tak dalej. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Alex/421.ogg",
           "TranslationKey": "Events/JoshHouse:2119820:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I've started to realize that... well, that I've been really rude towards you in the past. You know, about going pro and all that."
+          "DisplayPattern": "Odkryłem że... cóż, ostatnio bywałem wredny w stosunku do Ciebie. No wiesz, to gadanie, że będę najlepszy i tak dalej."
         },
         {
           "DialogueFrom": "Event/JoshHouse/2119820:s4",
-          "DialogueText": "I guess I might not actually be cut out for professional sports... maybe it was just a childish dream... you know? {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Alex/420.ogg",
+          "DialogueText": "Wydaje mi się, że mogę nie dać rady w profesjonalnym sporcie... może to były tylko dziecinne marzenia... wiesz? {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Alex/422.ogg",
           "TranslationKey": "Events/JoshHouse:2119820:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I guess I might not actually be cut out for professional sports... maybe it was just a childish dream... you know?"
+          "DisplayPattern": "Wydaje mi się, że mogę nie dać rady w profesjonalnym sporcie... może to były tylko dziecinne marzenia... wiesz?"
         },
         {
           "DialogueFrom": "Event/JoshHouse/2119820:s5",
-          "DialogueText": "Anyway... I want to apologize to you for bragging and being annoying about it. I appreciate that you stayed friends with me through all that. {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Alex/421.ogg",
+          "DialogueText": "Chciałem Cię przeprosić za moje zachowanie. Cieszę się, że dalej chcesz się ze mną przyjaźnić. {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Alex/423.ogg",
           "TranslationKey": "Events/JoshHouse:2119820:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Anyway... I want to apologize to you for bragging and being annoying about it. I appreciate that you stayed friends with me through all that."
+          "DisplayPattern": "Chciałem Cię przeprosić za moje zachowanie. Cieszę się, że dalej chcesz się ze mną przyjaźnić."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s0",
-          "DialogueText": "Thanks, Gus. That was great.",
-          "AudioPath": "assets/pl/Alex/422.ogg",
+          "DialogueText": "Dzięki, Gus. To było świetne.",
+          "AudioPath": "assets/pl/Alex/424.ogg",
           "TranslationKey": "Events/Saloon:911526:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, Gus. That was great."
+          "DisplayPattern": "Dzięki, Gus. To było świetne."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s1",
-          "DialogueText": "This is nice... I've never dined in here before.",
-          "AudioPath": "assets/pl/Alex/423.ogg",
+          "DialogueText": "Ładnie tu... Nigdy tu jeszcze nie jadłem.",
+          "AudioPath": "assets/pl/Alex/425.ogg",
           "TranslationKey": "Events/Saloon:911526:s1",
           "PageIndex": 0,
-          "DisplayPattern": "This is nice... I've never dined in here before."
+          "DisplayPattern": "Ładnie tu... Nigdy tu jeszcze nie jadłem."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s2",
-          "DialogueText": "Um, anyway... I reserved this private room so we could talk... {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/424.ogg",
+          "DialogueText": "Em... zarezerwowałem prywatny pokój, żebyśmy mogli porozmawiać... {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/426.ogg",
           "TranslationKey": "Events/Saloon:911526:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Um, anyway... I reserved this private room so we could talk..."
+          "DisplayPattern": "Em... zarezerwowałem prywatny pokój, żebyśmy mogli porozmawiać..."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s3",
-          "DialogueText": "Thanks.",
-          "AudioPath": "assets/pl/Alex/425.ogg",
+          "DialogueText": "Dzięki.",
+          "AudioPath": "assets/pl/Alex/427.ogg",
           "TranslationKey": "Events/Saloon:911526:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks."
+          "DisplayPattern": "Dzięki."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s4",
-          "DialogueText": "So, what I wanted to say was... {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/426.ogg",
+          "DialogueText": "Chciałem Ci powiedzieć, że... {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/428.ogg",
           "TranslationKey": "Events/Saloon:911526:s4",
           "PageIndex": 0,
-          "DisplayPattern": "So, what I wanted to say was..."
+          "DisplayPattern": "Chciałem Ci powiedzieć, że..."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s5",
-          "DialogueText": "*gulp* {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/427.ogg",
+          "DialogueText": "*Przełknięcie* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/429.ogg",
           "TranslationKey": "Events/Saloon:911526:s5",
           "PageIndex": 0,
-          "DisplayPattern": "*gulp*"
+          "DisplayPattern": "*Przełknięcie*"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s6",
-          "DialogueText": "Well... when we first met, I was instantly drawn to you. It was confusing... I'd never felt that way about anyone. {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/428_male.ogg",
+          "DialogueText": "Cóż... gdy spotkaliśmy się po raz pierwszy, Czułem do Ciebie pociąg. To było dziwne... nigdy tego jeszcze nie czułem do nikogo. {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/430_male.ogg",
           "TranslationKey": "Events/Saloon:911526:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Well... when we first met, I was instantly drawn to you. It was confusing... I'd never felt that way about anyone.",
+          "DisplayPattern": "Cóż... gdy spotkaliśmy się po raz pierwszy, Czułem do Ciebie pociąg. To było dziwne... nigdy tego jeszcze nie czułem do nikogo.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s7",
-          "DialogueText": "When I first met you, I thought you were really cute. {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/429_female.ogg",
+          "DialogueText": "Gdy pierwszy raz Cię spotkałem, wyglądałaś bardzo uroczo. {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/431_female.ogg",
           "TranslationKey": "Events/Saloon:911526:s7",
           "PageIndex": 0,
-          "DisplayPattern": "When I first met you, I thought you were really cute.",
+          "DisplayPattern": "Gdy pierwszy raz Cię spotkałem, wyglądałaś bardzo uroczo.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s8",
-          "DialogueText": "I kept telling myself 'You can't have these kinds of feelings for another guy'. {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/430_male.ogg",
+          "DialogueText": "Powtarzałem sobie 'Nie możesz czuć tego do innego gościa'. {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/432_male.ogg",
           "TranslationKey": "Events/Saloon:911526:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I kept telling myself 'You can't have these kinds of feelings for another guy'.",
+          "DisplayPattern": "Powtarzałem sobie 'Nie możesz czuć tego do innego gościa'.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s9",
-          "DialogueText": "Normally, when I have a crush on someone, the feeling goes away pretty quick... {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/431_female.ogg",
+          "DialogueText": "Normalnie, gdy się w kimś zakochasz, po jakimś czasie to uczucie zanika... {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/433_female.ogg",
           "TranslationKey": "Events/Saloon:911526:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Normally, when I have a crush on someone, the feeling goes away pretty quick...",
+          "DisplayPattern": "Normalnie, gdy się w kimś zakochasz, po jakimś czasie to uczucie zanika...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s10",
-          "DialogueText": "...But my heart was telling me something else.",
-          "AudioPath": "assets/pl/Alex/432_male.ogg",
+          "DialogueText": "... Ale moje serce mówiło mi coś innego.",
+          "AudioPath": "assets/pl/Alex/434_male.ogg",
           "TranslationKey": "Events/Saloon:911526:s10",
           "PageIndex": 0,
-          "DisplayPattern": "...But my heart was telling me something else.",
+          "DisplayPattern": "... Ale moje serce mówiło mi coś innego.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s11",
-          "DialogueText": "...But with you, it kept growing. {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/433_female.ogg",
+          "DialogueText": "... Ale przy Tobie, to uczucie dalej rosło. {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/435_female.ogg",
           "TranslationKey": "Events/Saloon:911526:s11",
           "PageIndex": 0,
-          "DisplayPattern": "...But with you, it kept growing.",
+          "DisplayPattern": "... Ale przy Tobie, to uczucie dalej rosło.",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s12",
-          "DialogueText": "I feel the same way.",
-          "AudioPath": "assets/pl/Alex/434.ogg",
+          "DialogueText": "Czuję dokładnie to samo.",
+          "AudioPath": "assets/pl/Alex/436.ogg",
           "TranslationKey": "Events/Saloon:911526:s12",
           "PageIndex": 0,
-          "DisplayPattern": "I feel the same way."
+          "DisplayPattern": "Czuję dokładnie to samo."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s13",
-          "DialogueText": "I'm sorry... I don't feel that way about you.",
-          "AudioPath": "assets/pl/Alex/435.ogg",
+          "DialogueText": "Wybacz... nie lubię Cię w ten sposób.",
+          "AudioPath": "assets/pl/Alex/437.ogg",
           "TranslationKey": "Events/Saloon:911526:s13",
           "PageIndex": 0,
-          "DisplayPattern": "I'm sorry... I don't feel that way about you."
+          "DisplayPattern": "Wybacz... nie lubię Cię w ten sposób."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s14",
           "DialogueText": "... {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/436.ogg",
+          "AudioPath": "assets/pl/Alex/438.ogg",
           "TranslationKey": "Events/Saloon:911526:s14",
           "PageIndex": 0,
           "DisplayPattern": "..."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s15",
-          "DialogueText": "I can't believe it took this long to say that to each other. {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/437.ogg",
+          "DialogueText": "Ciężko uwierzyć, że tak długo nam zajęło powiedzenie tego. {Portrait:Love}",
+          "AudioPath": "assets/pl/Alex/439.ogg",
           "TranslationKey": "Events/Saloon:911526:s15",
           "PageIndex": 0,
-          "DisplayPattern": "I can't believe it took this long to say that to each other."
+          "DisplayPattern": "Ciężko uwierzyć, że tak długo nam zajęło powiedzenie tego."
         },
         {
           "DialogueFrom": "Event/Saloon/911526:s16",
-          "DialogueText": "Mmm... this steak is outstanding. Can you smell that fragrant sauce? {Portrait:Custom:10}",
-          "AudioPath": "assets/pl/Alex/438.ogg",
+          "DialogueText": "Mmm... ten stek jest nie z tej ziemi. Czujesz zapach tego sosu? {Portrait:Custom:10}",
+          "AudioPath": "assets/pl/Alex/440.ogg",
           "TranslationKey": "Events/Saloon:911526:s16",
           "PageIndex": 0,
-          "DisplayPattern": "Mmm... this steak is outstanding. Can you smell that fragrant sauce?"
+          "DisplayPattern": "Mmm... ten stek jest nie z tej ziemi. Czujesz zapach tego sosu?"
         },
         {
           "DialogueFrom": "Event/Saloon/rejectJosh:s0",
-          "DialogueText": "...Oh... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/439.ogg",
+          "DialogueText": "... Och... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/441.ogg",
           "TranslationKey": "Events/Saloon:rejectJosh:s0",
           "PageIndex": 0,
-          "DisplayPattern": "...Oh..."
+          "DisplayPattern": "... Och..."
         },
         {
           "DialogueFrom": "Event/Saloon/rejectJosh:s1",
-          "DialogueText": "I...I'm sorry if I made you uncomfortable... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/440.ogg",
+          "DialogueText": "I... Wybacz, jeśli czujesz się przeze mnie nieswojo... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/442.ogg",
           "TranslationKey": "Events/Saloon:rejectJosh:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I...I'm sorry if I made you uncomfortable..."
+          "DisplayPattern": "I... Wybacz, jeśli czujesz się przeze mnie nieswojo..."
         },
         {
           "DialogueFrom": "Event/Saloon/rejectJosh:s2",
-          "DialogueText": "I'm not hungry anymore... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/441.ogg",
+          "DialogueText": "Straciłem apetyt... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/443.ogg",
           "TranslationKey": "Events/Saloon:rejectJosh:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I'm not hungry anymore..."
+          "DisplayPattern": "Straciłem ayt..."
         },
         {
           "DialogueFrom": "Event/Saloon/195099:s0",
-          "DialogueText": "What's up?",
-          "AudioPath": "assets/pl/Alex/442.ogg",
+          "DialogueText": "Co tam?",
+          "AudioPath": "assets/pl/Alex/444.ogg",
           "TranslationKey": "Events/Saloon:195099:s0",
           "PageIndex": 0,
-          "DisplayPattern": "What's up?"
+          "DisplayPattern": "Co tam?"
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s0",
-          "DialogueText": "Hold it!",
-          "AudioPath": "assets/pl/Alex/443.ogg",
+          "DialogueText": "Czekaj!",
+          "AudioPath": "assets/pl/Alex/445.ogg",
           "TranslationKey": "Events/Saloon:195013:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hold it!"
+          "DisplayPattern": "Czekaj!"
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s1",
-          "DialogueText": "{Farmer_Name}? I thought... I thought we were 'one of a kind'... But you were just using me? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/444_male.ogg",
+          "DialogueText": "{Farmer_Name}? Myślałem... myślałem że jesteśmy 'jedyni w swoim rodzaju'... ale po prostu mnie wykorzystywałeś? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/446_male.ogg",
           "TranslationKey": "Events/Saloon:195013:s1",
           "PageIndex": 0,
-          "DisplayPattern": "? I thought... I thought we were 'one of a kind'... But you were just using me?",
+          "DisplayPattern": "? Myślałem... myślałem że jesteśmy 'jedyni w swoim rodzaju'... ale po prostu mnie wykorzystywałeś?",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s2",
-          "DialogueText": "What are you looking at *me* for? You think I'm gonna come to your rescue? {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/445_female.ogg",
+          "DialogueText": "Co się na *mnie* patrzysz? Myślisz że przyjdę na ratunek? {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/447_female.ogg",
           "TranslationKey": "Events/Saloon:195013:s2",
           "PageIndex": 0,
-          "DisplayPattern": "What are you looking at *me* for? You think I'm gonna come to your rescue?",
+          "DisplayPattern": "Co się na *mnie* patrzysz? Myślisz że przyjdę na ratunek?",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s3",
-          "DialogueText": "That's right!",
-          "AudioPath": "assets/pl/Alex/446.ogg",
+          "DialogueText": "Prawda!",
+          "AudioPath": "assets/pl/Alex/448.ogg",
           "TranslationKey": "Events/Saloon:195013:s3",
           "PageIndex": 0,
-          "DisplayPattern": "That's right!"
+          "DisplayPattern": "Prawda!"
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s4",
-          "DialogueText": "Sure...",
-          "AudioPath": "assets/pl/Alex/447.ogg",
+          "DialogueText": "Tak...",
+          "AudioPath": "assets/pl/Alex/449.ogg",
           "TranslationKey": "Events/Saloon:195013:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Sure..."
+          "DisplayPattern": "Tak..."
         },
         {
           "DialogueFrom": "Event/Saloon/choseToExplain:s0",
-          "DialogueText": "Yeah, right!",
-          "AudioPath": "assets/pl/Alex/448.ogg",
+          "DialogueText": "Tak, jasne!",
+          "AudioPath": "assets/pl/Alex/450.ogg",
           "TranslationKey": "Events/Saloon:choseToExplain:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Yeah, right!"
+          "DisplayPattern": "Tak, jasne!"
         },
         {
           "DialogueFrom": "Event/Saloon/crying:s0",
-          "DialogueText": "I'll assume this is just another act... {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/449_male.ogg",
+          "DialogueText": "Zakładam, że to kolejny podstęp... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/451_male.ogg",
           "TranslationKey": "Events/Saloon:crying:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I'll assume this is just another act...",
+          "DisplayPattern": "Zakładam, że to kolejny podstęp...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/crying:s1",
-          "DialogueText": "Typical... {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/450_female.ogg",
+          "DialogueText": "Typowe... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/452_female.ogg",
           "TranslationKey": "Events/Saloon:crying:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Typical...",
+          "DisplayPattern": "Typowe...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s0",
-          "DialogueText": "Big play!",
-          "AudioPath": "assets/pl/Alex/451.ogg",
+          "DialogueText": "Zagranie!",
+          "AudioPath": "assets/pl/Alex/453.ogg",
           "TranslationKey": "Events/Saloon:3917590:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Big play!"
+          "DisplayPattern": "Zagranie!"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s1",
-          "DialogueText": "There we go!",
-          "AudioPath": "assets/pl/Alex/452.ogg",
+          "DialogueText": "W końcu!",
+          "AudioPath": "assets/pl/Alex/454.ogg",
           "TranslationKey": "Events/Saloon:3917590:s1",
           "PageIndex": 0,
-          "DisplayPattern": "There we go!"
+          "DisplayPattern": "W końcu!"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s2",
-          "DialogueText": "Hey, {Farmer_Name}! You made it! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/453.ogg",
+          "DialogueText": "Hej, {Farmer_Name}! Jesteś! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/455.ogg",
           "TranslationKey": "Events/Saloon:3917590:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, ! You made it!"
+          "DisplayPattern": "Hej, ! Jesteś!"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s3",
-          "DialogueText": "So... what do you think?",
-          "AudioPath": "assets/pl/Alex/454.ogg",
+          "DialogueText": "Więc... co o tym myślisz?",
+          "AudioPath": "assets/pl/Alex/456.ogg",
           "TranslationKey": "Events/Saloon:3917590:s3",
           "PageIndex": 0,
-          "DisplayPattern": "So... what do you think?"
+          "DisplayPattern": "Więc... co o tym myślisz?"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s4",
-          "DialogueText": "I've been thinking... You know how I used to dream of being an athlete someday?",
-          "AudioPath": "assets/pl/Alex/455.ogg",
+          "DialogueText": "Tak sobie myślałem... Pamiętasz jak kiedyś gadałem o zostaniu atletą?",
+          "AudioPath": "assets/pl/Alex/457.ogg",
           "TranslationKey": "Events/Saloon:3917590:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I've been thinking... You know how I used to dream of being an athlete someday?"
+          "DisplayPattern": "Tak sobie myślałem... Pamiętasz jak kiedyś gadałem o zostaniu atletą?"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s5",
-          "DialogueText": "Well, my life ended up turning out a bit different... {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/456.ogg",
+          "DialogueText": "Cóż... skończyłem troszkę inaczej... {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/458.ogg",
           "TranslationKey": "Events/Saloon:3917590:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Well, my life ended up turning out a bit different..."
+          "DisplayPattern": "Cóż... skończyłem troszkę inaczej..."
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s6",
-          "DialogueText": "I'm happy, though, don't get me wrong! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/457.ogg",
+          "DialogueText": "Jestem szczęśliwy, nie zrozum mnie źle! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/459.ogg",
           "TranslationKey": "Events/Saloon:3917590:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I'm happy, though, don't get me wrong!"
+          "DisplayPattern": "Jestem szczęśliwy, nie zrozum mnie źle!"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s7",
-          "DialogueText": "...But I thought it would be cool to have a place where us guys could hang out and watch the Sunday game. Gus liked the idea so much he offered me part of his back room!",
-          "AudioPath": "assets/pl/Alex/458.ogg",
+          "DialogueText": "... Ale pomyślałem, że fajnie by było gdybyśmy mieli jakieś miejsce, żeby pooglądać z chłopakami niedzielny mecz. Gusowi tak się spodobał ten pomysł, że użyczył mi część swojego zaplecza!",
+          "AudioPath": "assets/pl/Alex/460.ogg",
           "TranslationKey": "Events/Saloon:3917590:s7",
           "PageIndex": 0,
-          "DisplayPattern": "...But I thought it would be cool to have a where us guys could hang out and watch the Sunday game. Gus liked the idea so much he offered me part of his back room!"
+          "DisplayPattern": "... Ale pomyślałem, że fajnie by było gdybyśmy mieli jakieś miejsce, żeby pooglądać z chłopakami niedzielny mecz. Gusowi tak się spodobał ten pomysł, że użyczył mi część swojego zaplecza!"
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s8",
-          "DialogueText": "This way, I get to keep part of 'the dream' alive, in a small way.",
-          "AudioPath": "assets/pl/Alex/459.ogg",
+          "DialogueText": "W ten sposób, spełniło się moje 'marzenie', nawet w małym stopniu.",
+          "AudioPath": "assets/pl/Alex/461.ogg",
           "TranslationKey": "Events/Saloon:3917590:s8",
           "PageIndex": 0,
-          "DisplayPattern": "This way, I get to keep part of 'the dream' alive, in a small way."
+          "DisplayPattern": "W ten sposób, spełniło się moje 'marzenie', nawet w małym stopniu."
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s9",
-          "DialogueText": "Thanks, Grandpa.",
-          "AudioPath": "assets/pl/Alex/460.ogg",
+          "DialogueText": "Dzięki, Dziadku.",
+          "AudioPath": "assets/pl/Alex/462.ogg",
           "TranslationKey": "Events/Saloon:3917590:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, Grandpa."
+          "DisplayPattern": "Dzięki, Dziadku."
         },
         {
           "DialogueFrom": "Event/Beach/20:s0",
-          "DialogueText": "Oh, hi.",
-          "AudioPath": "assets/pl/Alex/461.ogg",
+          "DialogueText": "Och, cześć.",
+          "AudioPath": "assets/pl/Alex/463.ogg",
           "TranslationKey": "Events/Beach:20:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, hi."
+          "DisplayPattern": "Och, cześć."
         },
         {
           "DialogueFrom": "Event/Beach/20:s1",
-          "DialogueText": "Um, it's {Farmer_Name}, right?",
-          "AudioPath": "assets/pl/Alex/462.ogg",
+          "DialogueText": "Hmm, {Farmer_Name}, tak?",
+          "AudioPath": "assets/pl/Alex/464.ogg",
           "TranslationKey": "Events/Beach:20:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Um, it's , right?"
+          "DisplayPattern": "Hmm, , tak?"
         },
         {
           "DialogueFrom": "Event/Beach/20:s2",
-          "DialogueText": "I'm just enjoying this great weather, {Farmer_Name}.",
-          "AudioPath": "assets/pl/Alex/463.ogg",
+          "DialogueText": "Cieszę się dobrą pogodą, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Alex/465.ogg",
           "TranslationKey": "Events/Beach:20:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I'm just enjoying this great weather, ."
+          "DisplayPattern": "Cieszę się dobrą pogodą, ."
         },
         {
           "DialogueFrom": "Event/Beach/20:s3",
           "DialogueText": "Hmm... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Alex/464.ogg",
+          "AudioPath": "assets/pl/Alex/466.ogg",
           "TranslationKey": "Events/Beach:20:s3",
           "PageIndex": 0,
           "DisplayPattern": "Hmm..."
         },
         {
           "DialogueFrom": "Event/Beach/20:s4",
-          "DialogueText": "Hey, go long! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/465.ogg",
+          "DialogueText": "Hej, dawaj w długą! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Alex/467.ogg",
           "TranslationKey": "Events/Beach:20:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, go long!"
+          "DisplayPattern": "Hej, dawaj w długą!"
         },
         {
           "DialogueFrom": "Event/Beach/20:s5",
-          "DialogueText": "Heh... Nice try.",
-          "AudioPath": "assets/pl/Alex/466.ogg",
+          "DialogueText": "Ha... Niezła próba.",
+          "AudioPath": "assets/pl/Alex/468.ogg",
           "TranslationKey": "Events/Beach:20:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Heh... Nice try."
+          "DisplayPattern": "Ha... Niezła próba."
         },
         {
           "DialogueFrom": "Event/Beach/20:s6",
-          "DialogueText": "I'm going to be the first professional gridball player from Stardew Valley... There's no doubt in my mind.",
-          "AudioPath": "assets/pl/Alex/467.ogg",
+          "DialogueText": "Będę pierwszym profesjonalnym graczem gridballa z Doliny Stardew... Jestem tego pewny.",
+          "AudioPath": "assets/pl/Alex/469.ogg",
           "TranslationKey": "Events/Beach:20:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I'm going to be the first professional gridball player from Stardew Valley... There's no doubt in my mind."
+          "DisplayPattern": "Będę pierwszym profesjonalnym graczem gridballa z Doliny Stardew... Jestem tego pewny."
         },
         {
           "DialogueFrom": "Event/Beach/20:s7",
-          "DialogueText": "I already led my school's team to the regional playoffs... Now I'm just training and getting stronger so I can claim my spot on the roster of the Zuzu City Tunnelers. You just wait!",
-          "AudioPath": "assets/pl/Alex/468.ogg",
+          "DialogueText": "Już prowadzę moją szkolną drużynę na rozgrywki regionalne... I ćwiczę, żeby być silniejszym i znaleźć się na liście Tunnelersów z Miasta Zuzu. Tylko poczekaj!",
+          "AudioPath": "assets/pl/Alex/470.ogg",
           "TranslationKey": "Events/Beach:20:s7",
           "PageIndex": 0,
-          "DisplayPattern": "I already led my school's team to the regional playoffs... Now I'm just training and getting stronger so I can claim my spot on the roster of the Zuzu City Tunnelers. You just wait!"
+          "DisplayPattern": "Już prowadzę moją szkolną drużynę na rozgrywki regionalne... I ćwiczę, żeby być silniejszym i znaleźć się na liście Tunnelersów z Miasta Zuzu. Tylko poczekaj!"
         },
         {
           "DialogueFrom": "Event/Beach/20:s8",
-          "DialogueText": "I believe in you!",
-          "AudioPath": "assets/pl/Alex/469.ogg",
+          "DialogueText": "Wierzę w Ciebie!",
+          "AudioPath": "assets/pl/Alex/471.ogg",
           "TranslationKey": "Events/Beach:20:s8",
           "PageIndex": 0,
-          "DisplayPattern": "I believe in you!"
+          "DisplayPattern": "Wierzę w Ciebie!"
         },
         {
           "DialogueFrom": "Event/Beach/20:s9",
-          "DialogueText": "Wow, you're really arrogant.",
-          "AudioPath": "assets/pl/Alex/470.ogg",
+          "DialogueText": "Wow, ale jesteś arogancki.",
+          "AudioPath": "assets/pl/Alex/472.ogg",
           "TranslationKey": "Events/Beach:20:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Wow, you're really arrogant."
+          "DisplayPattern": "Wow, ale jesteś arogancki."
         },
         {
           "DialogueFrom": "Event/Beach/20:s10",
-          "DialogueText": "Thanks, {Farmer_Name}. I'll remember that.",
-          "AudioPath": "assets/pl/Alex/471.ogg",
+          "DialogueText": "Dzięki, {Farmer_Name}. Zapamiętam to.",
+          "AudioPath": "assets/pl/Alex/473.ogg",
           "TranslationKey": "Events/Beach:20:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks, . I'll remember that."
+          "DisplayPattern": "Dzięki, . Zapamiętam to."
         },
         {
           "DialogueFrom": "Event/Beach/20:s11",
-          "DialogueText": "Hey, that was fun, huh?",
-          "AudioPath": "assets/pl/Alex/472.ogg",
+          "DialogueText": "Hej, fajnie było, nie?",
+          "AudioPath": "assets/pl/Alex/474.ogg",
           "TranslationKey": "Events/Beach:20:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Hey, that was fun, huh?"
+          "DisplayPattern": "Hej, fajnie było, nie?"
         },
         {
           "DialogueFrom": "Event/Beach/arrogantJosh:s0",
-          "DialogueText": "Hmmph... I think someone's a little jealous. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/473.ogg",
+          "DialogueText": "Hmmph... Chyba ktoś tu jest odrobinkę zazdrosny. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/475.ogg",
           "TranslationKey": "Events/Beach:arrogantJosh:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hmmph... I think someone's a little jealous."
+          "DisplayPattern": "Hmmph... Chyba ktoś tu jest odrobinkę zazdrosny."
         },
         {
           "DialogueFrom": "Event/Beach/arrogantJosh:s1",
-          "DialogueText": "I'm out of here. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Alex/474.ogg",
+          "DialogueText": "Idę stąd. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Alex/476.ogg",
           "TranslationKey": "Events/Beach:arrogantJosh:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I'm out of here."
+          "DisplayPattern": "Idę stąd."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s0",
-          "DialogueText": "*sniff*... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/475.ogg",
+          "DialogueText": "*smark*... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/477.ogg",
           "TranslationKey": "Events/Beach:288847:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*sniff*..."
+          "DisplayPattern": "*smark*..."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s1",
-          "DialogueText": "Oh... {Farmer_Name}. You saw me crying. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/476.ogg",
+          "DialogueText": "Och... {Farmer_Name}. Tak, płaczę. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/478.ogg",
           "TranslationKey": "Events/Beach:288847:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Oh... . You saw me crying."
+          "DisplayPattern": "Och... . Tak, płaczę."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s2",
-          "DialogueText": "It was today, twelve years ago... that my Mom died. {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/477.ogg",
+          "DialogueText": "To tego dnia, dwanaście lat temu... Zmarła moja mama. {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/479.ogg",
           "TranslationKey": "Events/Beach:288847:s2",
           "PageIndex": 0,
-          "DisplayPattern": "It was today, twelve years ago... that my Mom died."
+          "DisplayPattern": "To tego dnia, dwanaście lat temu... Zmarła moja mama."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s3",
-          "DialogueText": "I still remember her well... she'd make salted radish sandwiches for lunch... and toss the gridball with me in the back yard. {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/478.ogg",
+          "DialogueText": "Bardzo dobrze ją pamiętam... na lunch robiła mi kanapki z rzodkiewką... graliśmy razem w gridballa w naszym ogródku. {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/480.ogg",
           "TranslationKey": "Events/Beach:288847:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I still remember her well... she'd make salted radish sandwiches for lunch... and toss the gridball with me in the back yard."
+          "DisplayPattern": "Bardzo dobrze ją pamiętam... na lunch robiła mi kanapki z rzodkiewką... graliśmy razem w gridballa w naszym ogródku."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s4",
-          "DialogueText": "She took good care of me... and I was too young to really say 'thanks'. Now she's gone forever. {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/479.ogg",
+          "DialogueText": "Dobrze się mną opiekowała... i byłem za młody, żeby to docenić. A teraz odeszła... na zawsze. {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/481.ogg",
           "TranslationKey": "Events/Beach:288847:s4",
           "PageIndex": 0,
-          "DisplayPattern": "She took good care of me... and I was too young to really say 'thanks'. Now she's gone forever."
+          "DisplayPattern": "Dobrze się mną opiekowała... i byłem za młody, żeby to docenić. A teraz odeszła... na zawsze."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s5",
-          "DialogueText": "This is the only keepsake I have left... her secret music box. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/480.ogg",
+          "DialogueText": "To jedyna pamiątka, jaką po niej mam... jej pozytywka. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Alex/482.ogg",
           "TranslationKey": "Events/Beach:288847:s5",
           "PageIndex": 0,
-          "DisplayPattern": "This is the only keepsake I have left... her secret music box."
+          "DisplayPattern": "To jedyna pamiątka, jaką po niej mam... jej pozytywka."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s6",
-          "DialogueText": "So... What are you thinking right now, {Farmer_Name}? {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/481.ogg",
+          "DialogueText": "O czym tak dumasz, {Farmer_Name}? {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/483.ogg",
           "TranslationKey": "Events/Beach:288847:s6",
           "PageIndex": 0,
-          "DisplayPattern": "So... What are you thinking right now, ?"
+          "DisplayPattern": "O czym tak dumasz, ?"
         },
         {
           "DialogueFrom": "Event/Beach/288847:s7",
-          "DialogueText": "Honor your mother's memory by always doing your best.",
-          "AudioPath": "assets/pl/Alex/482.ogg",
+          "DialogueText": "Szanuj pamięć o swojej mamie, robiąc zawsze wszystko, co w Twojej mocy.",
+          "AudioPath": "assets/pl/Alex/484.ogg",
           "TranslationKey": "Events/Beach:288847:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Honor your mother's memory by always doing your best."
+          "DisplayPattern": "Szanuj pamięć o swojej mamie, robiąc zawsze wszystko, co w Twojej mocy."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s8",
-          "DialogueText": "You shouldn't dwell in the past.",
-          "AudioPath": "assets/pl/Alex/483.ogg",
+          "DialogueText": "Nie powinieneś rozdrapywać starych ran.",
+          "AudioPath": "assets/pl/Alex/485.ogg",
           "TranslationKey": "Events/Beach:288847:s8",
           "PageIndex": 0,
-          "DisplayPattern": "You shouldn't dwell in the past."
+          "DisplayPattern": "Nie powinieneś rozdrapywać starych ran."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s9",
-          "DialogueText": "I'll always be here for you if you get lonely.",
-          "AudioPath": "assets/pl/Alex/484.ogg",
+          "DialogueText": "Zawsze tu dla Ciebie będę, możesz na mnie liczyć.",
+          "AudioPath": "assets/pl/Alex/486.ogg",
           "TranslationKey": "Events/Beach:288847:s9",
           "PageIndex": 0,
-          "DisplayPattern": "I'll always be here for you if you get lonely."
+          "DisplayPattern": "Zawsze tu dla Ciebie będę, możesz na mnie liczyć."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s10",
-          "DialogueText": "Get over it. Life is hard for everyone.",
-          "AudioPath": "assets/pl/Alex/485.ogg",
+          "DialogueText": "Przebolej to. Życie to nie bajka.",
+          "AudioPath": "assets/pl/Alex/487.ogg",
           "TranslationKey": "Events/Beach:288847:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Get over it. Life is hard for everyone."
+          "DisplayPattern": "Przebolej to. Życie to nie bajka."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s11",
-          "DialogueText": "Well, there's no sense sitting around sniveling... let's head back to town. {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/486.ogg",
+          "DialogueText": "Nie ma sensu siedzieć i marudzić... Wracajmy. {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Alex/488.ogg",
           "TranslationKey": "Events/Beach:288847:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Well, there's no sense sitting around sniveling... let's head back to town."
+          "DisplayPattern": "Nie ma sensu siedzieć i marudzić... Wracajmy."
         },
         {
           "DialogueFrom": "Event/Beach/288847:s12",
           "DialogueText": "Um... {Farmer_Name}? {Portrait:Custom:9}",
-          "AudioPath": "assets/pl/Alex/487.ogg",
+          "AudioPath": "assets/pl/Alex/489.ogg",
           "TranslationKey": "Events/Beach:288847:s12",
           "PageIndex": 0,
           "DisplayPattern": "Um... ?"
         },
         {
           "DialogueFrom": "Event/Beach/288847:s13",
-          "DialogueText": "Don't tell anyone I was crying. Okay? {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Alex/488.ogg",
+          "DialogueText": "Nie mów nikomu, że płakałem. Ok? {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Alex/490.ogg",
           "TranslationKey": "Events/Beach:288847:s13",
           "PageIndex": 0,
-          "DisplayPattern": "Don't tell anyone I was crying. Okay?"
+          "DisplayPattern": "Nie mów nikomu, że płakałem. Ok?"
         },
         {
           "DialogueFrom": "Event/Beach/288847:s14",
-          "DialogueText": "Hey! {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Alex/489.ogg",
+          "DialogueText": "Hej! {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Alex/491.ogg",
           "TranslationKey": "Events/Beach:288847:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Hey!"
+          "DisplayPattern": "Hej!"
         },
         {
           "DialogueFrom": "Event/BusStop/9581348:s0",
-          "DialogueText": "Goal!",
-          "AudioPath": "assets/pl/Alex/490.ogg",
+          "DialogueText": "Gol!",
+          "AudioPath": "assets/pl/Alex/492.ogg",
           "TranslationKey": "Events/BusStop:9581348:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Goal!"
+          "DisplayPattern": "Gol!"
         },
         {
           "DialogueFrom": "Festival/fall16/Alex_spouse",
           "DialogueText": "Spędzam czas ze starymi dobrymi przyjaciółmi... Idź i baw się dobrze.",
-          "AudioPath": "assets/pl/Alex/491.ogg",
+          "AudioPath": "assets/pl/Alex/493.ogg",
           "TranslationKey": "Data/Festivals/fall16:Alex_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Spędzam czas ze starymi dobrymi przyjaciółmi... Idź i baw się dobrze."
@@ -4005,7 +4025,7 @@
         {
           "DialogueFrom": "Festival/fall16/Alex",
           "DialogueText": "Grałem w tę grę 'siłową' tak dużo, że moje ręce są jak guma.",
-          "AudioPath": "assets/pl/Alex/492.ogg",
+          "AudioPath": "assets/pl/Alex/494.ogg",
           "TranslationKey": "Data/Festivals/fall16:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Grałem w tę grę 'siłową' tak dużo, że moje ręce są jak guma."
@@ -4013,7 +4033,7 @@
         {
           "DialogueFrom": "Festival/fall16/Alex_spouse_y2",
           "DialogueText": "Jadłeś coś? Za dużo jest do próbowania! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/493_male.ogg",
+          "AudioPath": "assets/pl/Alex/495_male.ogg",
           "TranslationKey": "Data/Festivals/fall16:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Jadłeś coś? Za dużo jest do próbowania!",
@@ -4022,7 +4042,7 @@
         {
           "DialogueFrom": "Festival/fall16/Alex_spouse_y2",
           "DialogueText": "Jadłaś coś? Za dużo jest do próbowania! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/494_female.ogg",
+          "AudioPath": "assets/pl/Alex/496_female.ogg",
           "TranslationKey": "Data/Festivals/fall16:Alex_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Jadłaś coś? Za dużo jest do próbowania!",
@@ -4031,7 +4051,7 @@
         {
           "DialogueFrom": "Festival/fall16/Alex_spouse_y2",
           "DialogueText": "Już zjadłem trzy kanapki... Mmm... to sosiwo...",
-          "AudioPath": "assets/pl/Alex/495.ogg",
+          "AudioPath": "assets/pl/Alex/497.ogg",
           "TranslationKey": "Data/Festivals/fall16:Alex_spouse_y2",
           "PageIndex": 2,
           "DisplayPattern": "Już zjadłem trzy kanapki... Mmm... to sosiwo..."
@@ -4039,7 +4059,7 @@
         {
           "DialogueFrom": "Festival/fall16/Alex_y2",
           "DialogueText": "Co każde sto wygranych gier siłowych, jem kolejną kanapkę z grilla. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/496.ogg",
+          "AudioPath": "assets/pl/Alex/498.ogg",
           "TranslationKey": "Data/Festivals/fall16:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Co każde sto wygranych gier siłowych, jem kolejną kanapkę z grilla."
@@ -4047,7 +4067,7 @@
         {
           "DialogueFrom": "Festival/fall27/Alex",
           "DialogueText": "Tu jest coś dziwnego. Ale jak się tam dostać?",
-          "AudioPath": "assets/pl/Alex/497.ogg",
+          "AudioPath": "assets/pl/Alex/499.ogg",
           "TranslationKey": "Data/Festivals/fall27:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Tu jest coś dziwnego. Ale jak się tam dostać?"
@@ -4055,7 +4075,7 @@
         {
           "DialogueFrom": "Festival/fall27/Alex",
           "DialogueText": "Musi być gdzieś tutaj sekretne przejście.",
-          "AudioPath": "assets/pl/Alex/498.ogg",
+          "AudioPath": "assets/pl/Alex/500.ogg",
           "TranslationKey": "Data/Festivals/fall27:Alex",
           "PageIndex": 1,
           "DisplayPattern": "Musi być gdzieś tutaj sekretne przejście."
@@ -4063,7 +4083,7 @@
         {
           "DialogueFrom": "Festival/fall27/Alex_spouse_y2",
           "DialogueText": "Hej, udało Ci się ominąć te dziwne dłonie. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/499.ogg",
+          "AudioPath": "assets/pl/Alex/501.ogg",
           "TranslationKey": "Data/Festivals/fall27:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Hej, udało Ci się ominąć te dziwne dłonie."
@@ -4071,7 +4091,7 @@
         {
           "DialogueFrom": "Festival/fall27/Alex_spouse_y2",
           "DialogueText": "Chyba słyszałem wołanie o pomoc. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/500.ogg",
+          "AudioPath": "assets/pl/Alex/502.ogg",
           "TranslationKey": "Data/Festivals/fall27:Alex_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Chyba słyszałem wołanie o pomoc."
@@ -4079,7 +4099,7 @@
         {
           "DialogueFrom": "Festival/fall27/Alex_y2",
           "DialogueText": "Chyba słyszałem kobiecy krzyk... Potrzebuje mojej pomocy! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/501.ogg",
+          "AudioPath": "assets/pl/Alex/503.ogg",
           "TranslationKey": "Data/Festivals/fall27:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Chyba słyszałem kobiecy krzyk... Potrzebuje mojej pomocy!"
@@ -4087,7 +4107,7 @@
         {
           "DialogueFrom": "Festival/spring13/Alex_spouse",
           "DialogueText": "Ech... Chyba zjadłem za dużo jajek... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/502.ogg",
+          "AudioPath": "assets/pl/Alex/504.ogg",
           "TranslationKey": "Data/Festivals/spring13:Alex_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Ech... Chyba zjadłem za dużo jajek..."
@@ -4095,7 +4115,7 @@
         {
           "DialogueFrom": "Festival/spring13/Alex",
           "DialogueText": "Próbuję jeść przynajmniej trzy jajka na dzień.",
-          "AudioPath": "assets/pl/Alex/503.ogg",
+          "AudioPath": "assets/pl/Alex/505.ogg",
           "TranslationKey": "Data/Festivals/spring13:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Próbuję jeść przynajmniej trzy jajka na dzień."
@@ -4103,7 +4123,7 @@
         {
           "DialogueFrom": "Festival/spring13/Alex",
           "DialogueText": "Potrzebuję tych protein dla moich nóg.",
-          "AudioPath": "assets/pl/Alex/504.ogg",
+          "AudioPath": "assets/pl/Alex/506.ogg",
           "TranslationKey": "Data/Festivals/spring13:Alex",
           "PageIndex": 1,
           "DisplayPattern": "Potrzebuję tych protein dla moich nóg."
@@ -4111,7 +4131,7 @@
         {
           "DialogueFrom": "Festival/spring13/Alex_y2",
           "DialogueText": "Zastanawiam się, co by się stało z moimi rękami i nogami, gdybym jadł trzydzieści jajek na dzień?",
-          "AudioPath": "assets/pl/Alex/505.ogg",
+          "AudioPath": "assets/pl/Alex/507.ogg",
           "TranslationKey": "Data/Festivals/spring13:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Zastanawiam się, co by się stało z moimi rękami i nogami, gdybym jadł trzydzieści jajek na dzień?"
@@ -4119,7 +4139,7 @@
         {
           "DialogueFrom": "Festival/spring24/Alex",
           "DialogueText": "Tak tylko podziwiam widoki... he he.",
-          "AudioPath": "assets/pl/Alex/506.ogg",
+          "AudioPath": "assets/pl/Alex/508.ogg",
           "TranslationKey": "Data/Festivals/spring24:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Tak tylko podziwiam widoki... he he."
@@ -4127,7 +4147,7 @@
         {
           "DialogueFrom": "Festival/spring24/Alex_spouse_y2",
           "DialogueText": "Hej, mam dzisiaj dobrze przeczucia. Ten taniec pójdzie nam świetnie... tylko daj mi prowadzić. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/507.ogg",
+          "AudioPath": "assets/pl/Alex/509.ogg",
           "TranslationKey": "Data/Festivals/spring24:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Hej, mam dzisiaj dobrze przeczucia. Ten taniec pójdzie nam świetnie... tylko daj mi prowadzić."
@@ -4135,7 +4155,7 @@
         {
           "DialogueFrom": "Festival/spring24/Alex_y2",
           "DialogueText": "Kluczem dobrego tańca jest pewność siebie. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/508.ogg",
+          "AudioPath": "assets/pl/Alex/510.ogg",
           "TranslationKey": "Data/Festivals/spring24:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Kluczem dobrego tańca jest pewność siebie."
@@ -4143,7 +4163,7 @@
         {
           "DialogueFrom": "Festival/summer11/Alex_spouse",
           "DialogueText": "Hej, każda wymówka jest dobra, żeby wyjść na plażę. Pogoda jest wspaniała!",
-          "AudioPath": "assets/pl/Alex/509.ogg",
+          "AudioPath": "assets/pl/Alex/511.ogg",
           "TranslationKey": "Data/Festivals/summer11:Alex_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Hej, każda wymówka jest dobra, żeby wyjść na plażę. Pogoda jest wspaniała!"
@@ -4151,7 +4171,7 @@
         {
           "DialogueFrom": "Festival/summer11/Alex",
           "DialogueText": "Wspaniała pogoda na plażową balangę, co nie?",
-          "AudioPath": "assets/pl/Alex/510.ogg",
+          "AudioPath": "assets/pl/Alex/512.ogg",
           "TranslationKey": "Data/Festivals/summer11:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Wspaniała pogoda na plażową balangę, co nie?"
@@ -4159,7 +4179,7 @@
         {
           "DialogueFrom": "Festival/summer11/Alex_spouse_y2",
           "DialogueText": "Dzisiaj... zjem tyle ile zechcę. Jutro zrobię więcej pompek! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/511.ogg",
+          "AudioPath": "assets/pl/Alex/513.ogg",
           "TranslationKey": "Data/Festivals/summer11:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Dzisiaj... zjem tyle ile zechcę. Jutro zrobię więcej pompek!"
@@ -4167,7 +4187,7 @@
         {
           "DialogueFrom": "Festival/summer11/Alex_y2",
           "DialogueText": "Myślisz, że jakbym wszedł do wody, inni by weszli ze mną? Nie chcę sam pływać! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/512.ogg",
+          "AudioPath": "assets/pl/Alex/514.ogg",
           "TranslationKey": "Data/Festivals/summer11:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Myślisz, że jakbym wszedł do wody, inni by weszli ze mną? Nie chcę sam pływać!"
@@ -4175,7 +4195,7 @@
         {
           "DialogueFrom": "Festival/summer28/Alex",
           "DialogueText": "Nie mogę uwierzyć, że lato się skończyło... Czuję jakby się dopiero zaczęło. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/513.ogg",
+          "AudioPath": "assets/pl/Alex/515.ogg",
           "TranslationKey": "Data/Festivals/summer28:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Nie mogę uwierzyć, że lato się skończyło... Czuję jakby się dopiero zaczęło."
@@ -4183,7 +4203,7 @@
         {
           "DialogueFrom": "Festival/summer28/Alex_spouse_y2",
           "DialogueText": "Chwilę posiedzę sobie z rodziną. Spotkamy się na dokach, ok? {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/514.ogg",
+          "AudioPath": "assets/pl/Alex/516.ogg",
           "TranslationKey": "Data/Festivals/summer28:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Chwilę posiedzę sobie z rodziną. Spotkamy się na dokach, ok?"
@@ -4191,7 +4211,7 @@
         {
           "DialogueFrom": "Festival/summer28/Alex_y2",
           "DialogueText": "Szkoda, że lato musi się skończyć, ale takie jest życie... {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/515.ogg",
+          "AudioPath": "assets/pl/Alex/517.ogg",
           "TranslationKey": "Data/Festivals/summer28:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Szkoda, że lato musi się skończyć, ale takie jest życie..."
@@ -4199,7 +4219,7 @@
         {
           "DialogueFrom": "Festival/winter25/Alex_spouse",
           "DialogueText": "Za co jestem wdzięczny? Pokażę Ci jak wrócimy do domu... {Portrait:Love}",
-          "AudioPath": "assets/pl/Alex/516.ogg",
+          "AudioPath": "assets/pl/Alex/518.ogg",
           "TranslationKey": "Data/Festivals/winter25:Alex_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Za co jestem wdzięczny? Pokażę Ci jak wrócimy do domu..."
@@ -4207,7 +4227,7 @@
         {
           "DialogueFrom": "Festival/winter25/Alex",
           "DialogueText": "Och, hejka. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/517.ogg",
+          "AudioPath": "assets/pl/Alex/519.ogg",
           "TranslationKey": "Data/Festivals/winter25:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Och, hejka."
@@ -4215,7 +4235,7 @@
         {
           "DialogueFrom": "Festival/winter25/Alex_spouse_y2",
           "DialogueText": "Mów jak będzie Ci zimno. Dam Ci moją kurtkę. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Alex/518.ogg",
+          "AudioPath": "assets/pl/Alex/520.ogg",
           "TranslationKey": "Data/Festivals/winter25:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Mów jak będzie Ci zimno. Dam Ci moją kurtkę."
@@ -4223,7 +4243,7 @@
         {
           "DialogueFrom": "Festival/winter25/Alex_y2",
           "DialogueText": "Wydaje mi się, czy pod drzewkiem jest prezent w kształcie gridballa podpisany dla mnie? {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/519.ogg",
+          "AudioPath": "assets/pl/Alex/521.ogg",
           "TranslationKey": "Data/Festivals/winter25:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Wydaje mi się, czy pod drzewkiem jest prezent w kształcie gridballa podpisany dla mnie?"
@@ -4231,7 +4251,7 @@
         {
           "DialogueFrom": "Festival/winter8/Alex_spouse",
           "DialogueText": "Będę Cię dopingował, gdy będziesz łowić ryby w tych zawodach.",
-          "AudioPath": "assets/pl/Alex/520.ogg",
+          "AudioPath": "assets/pl/Alex/522.ogg",
           "TranslationKey": "Data/Festivals/winter8:Alex_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Będę Cię dopingował, gdy będziesz łowić ryby w tych zawodach."
@@ -4239,7 +4259,7 @@
         {
           "DialogueFrom": "Festival/winter8/Alex",
           "DialogueText": "Bałwany są spoko. Ale czekam na wiosnę.",
-          "AudioPath": "assets/pl/Alex/521.ogg",
+          "AudioPath": "assets/pl/Alex/523.ogg",
           "TranslationKey": "Data/Festivals/winter8:Alex",
           "PageIndex": 0,
           "DisplayPattern": "Bałwany są spoko. Ale czekam na wiosnę."
@@ -4247,7 +4267,7 @@
         {
           "DialogueFrom": "Festival/winter8/Alex_spouse_y2",
           "DialogueText": "Hej! Wygrasz dzisiejsze zawody, ja to wiem. Daj nam powód do dumy!",
-          "AudioPath": "assets/pl/Alex/522.ogg",
+          "AudioPath": "assets/pl/Alex/524.ogg",
           "TranslationKey": "Data/Festivals/winter8:Alex_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Hej! Wygrasz dzisiejsze zawody, ja to wiem. Daj nam powód do dumy!"
@@ -4255,7 +4275,7 @@
         {
           "DialogueFrom": "Festival/winter8/Alex_y2",
           "DialogueText": "Myślisz, że przeszkadzałoby to komuś, gdybym po festiwalu dał nura do tego jeziora?",
-          "AudioPath": "assets/pl/Alex/523.ogg",
+          "AudioPath": "assets/pl/Alex/525.ogg",
           "TranslationKey": "Data/Festivals/winter8:Alex_y2",
           "PageIndex": 0,
           "DisplayPattern": "Myślisz, że przeszkadzałoby to komuś, gdybym po festiwalu dał nura do tego jeziora?"
@@ -4263,7 +4283,7 @@
         {
           "DialogueFrom": "Festival/winter8/Alex_y2",
           "DialogueText": "Słyszałem, że morsowanie jest dobre dla mięśni.",
-          "AudioPath": "assets/pl/Alex/524.ogg",
+          "AudioPath": "assets/pl/Alex/526.ogg",
           "TranslationKey": "Data/Festivals/winter8:Alex_y2",
           "PageIndex": 1,
           "DisplayPattern": "Słyszałem, że morsowanie jest dobre dla mięśni."
@@ -4271,7 +4291,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Alex:s0",
           "DialogueText": "Hej, świetnie! Uwielbiam to!",
-          "AudioPath": "assets/pl/Alex/525.ogg",
+          "AudioPath": "assets/pl/Alex/527.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Alex:s0",
           "PageIndex": 0,
           "DisplayPattern": "Hej, świetnie! Uwielbiam to!"
@@ -4279,7 +4299,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Alex:s1",
           "DialogueText": "Super! Dzięki.",
-          "AudioPath": "assets/pl/Alex/526.ogg",
+          "AudioPath": "assets/pl/Alex/528.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Alex:s1",
           "PageIndex": 0,
           "DisplayPattern": "Super! Dzięki."
@@ -4287,7 +4307,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Alex:s2",
           "DialogueText": "Em... Ok. Dzięki.",
-          "AudioPath": "assets/pl/Alex/527.ogg",
+          "AudioPath": "assets/pl/Alex/529.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Alex:s2",
           "PageIndex": 0,
           "DisplayPattern": "Em... Ok. Dzięki."
@@ -4295,7 +4315,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Alex:s3",
           "DialogueText": "Ty tak na serio? To śmieć.",
-          "AudioPath": "assets/pl/Alex/528.ogg",
+          "AudioPath": "assets/pl/Alex/530.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Alex:s3",
           "PageIndex": 0,
           "DisplayPattern": "Ty tak na serio? To śmieć."
@@ -4303,7 +4323,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Alex:s4",
           "DialogueText": "Dzięki!",
-          "AudioPath": "assets/pl/Alex/529.ogg",
+          "AudioPath": "assets/pl/Alex/531.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Alex:s4",
           "PageIndex": 0,
           "DisplayPattern": "Dzięki!"
@@ -4311,7 +4331,7 @@
         {
           "DialogueFrom": "ExtraDialogue/JoshHouse_Alex_Trash",
           "DialogueText": "Em... Co ty robisz? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/530.ogg",
+          "AudioPath": "assets/pl/Alex/532.ogg",
           "TranslationKey": "Data/ExtraDialogue:JoshHouse_Alex_Trash",
           "PageIndex": 0,
           "DisplayPattern": "Em... Co ty robisz?"
@@ -4319,7 +4339,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Alex",
           "DialogueText": "Hej, ostatnio kupiłem {1} {2}. Babcia zrobiła z tego jej specjalną zapiekankę...",
-          "AudioPath": "assets/pl/Alex/531.ogg",
+          "AudioPath": "assets/pl/Alex/533.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Alex",
           "PageIndex": 0,
           "DisplayPattern": "Hej, ostatnio kupiłem {1} {2}. Babcia zrobiła z tego jej specjalną zapiekankę..."
@@ -4327,7 +4347,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Alex",
           "DialogueText": "W końcu odkryłem kim chciałem być... I mam pewność co do przyszłości.\"/pause 500/speak Alex \"Nie wiem, czy doszedłbym tu bez Ciebie, {Farmer_Name}.\"",
-          "AudioPath": "assets/pl/Alex/532.ogg",
+          "AudioPath": "assets/pl/Alex/534.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Alex",
           "PageIndex": 0,
           "DisplayPattern": "W końcu odkryłem kim chciałem być... I mam pewność co do przyszłości.\"/pause 500/speak Alex \"Nie wiem, czy doszedłbym tu bez Ciebie, .\""
@@ -4335,7 +4355,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_summer_movie_1_BeforeMovie",
           "DialogueText": "Ten podobno ma być zabawny, Nie mogę się doczekać.",
-          "AudioPath": "assets/pl/Alex/533.ogg",
+          "AudioPath": "assets/pl/Alex/535.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_summer_movie_1_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Ten podobno ma być zabawny, Nie mogę się doczekać."
@@ -4343,7 +4363,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_summer_movie_1_AfterMovie",
           "DialogueText": "Hah! Podoba mi się. Ale nie wiem czy mógłbym przeżyć na takich krążkach glutenowych.",
-          "AudioPath": "assets/pl/Alex/534.ogg",
+          "AudioPath": "assets/pl/Alex/536.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_summer_movie_1_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Hah! Podoba mi się. Ale nie wiem czy mógłbym przeżyć na takich krążkach glutenowych."
@@ -4351,7 +4371,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_love_BeforeMovie",
           "DialogueText": "Nie mogłem się doczekać aż go obejrzę. Dzięki za bilet, {Farmer_Name}!",
-          "AudioPath": "assets/pl/Alex/535.ogg",
+          "AudioPath": "assets/pl/Alex/537.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_love_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Nie mogłem się doczekać aż go obejrzę. Dzięki za bilet, !"
@@ -4359,7 +4379,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_love_AfterMovie",
           "DialogueText": "To było świetne! W nogach wciąż mnie mrowi z podniecenia.",
-          "AudioPath": "assets/pl/Alex/536.ogg",
+          "AudioPath": "assets/pl/Alex/538.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_love_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "To było świetne! W nogach wciąż mnie mrowi z podniecenia."
@@ -4367,7 +4387,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_like_BeforeMovie",
           "DialogueText": "Hej, jestem bardzo podekscytowany tym filmem! Ale przydałaby się jakaś przekąska...",
-          "AudioPath": "assets/pl/Alex/537.ogg",
+          "AudioPath": "assets/pl/Alex/539.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_like_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Hej, jestem bardzo podekscytowany tym filmem! Ale przydałaby się jakaś przekąska..."
@@ -4375,7 +4395,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_like_AfterMovie",
           "DialogueText": "Hej, to było nawet dobre. Dzięki za zaproszenie, {Farmer_Name}.",
-          "AudioPath": "assets/pl/Alex/538.ogg",
+          "AudioPath": "assets/pl/Alex/540.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_like_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Hej, to było nawet dobre. Dzięki za zaproszenie, ."
@@ -4383,7 +4403,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_dislike_BeforeMovie",
           "DialogueText": "Ten film wygląda jak dla kujonów, ale zobaczymy.",
-          "AudioPath": "assets/pl/Alex/539.ogg",
+          "AudioPath": "assets/pl/Alex/541.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_dislike_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Ten film wygląda jak dla kujonów, ale zobaczymy."
@@ -4391,7 +4411,7 @@
         {
           "DialogueFrom": "MovieReactions/Alex_dislike_AfterMovie",
           "DialogueText": "Nie mogę powiedzieć czy był nudny. Albo nie jestem zbyt mądry, żeby go zrozumieć... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Alex/540.ogg",
+          "AudioPath": "assets/pl/Alex/542.ogg",
           "TranslationKey": "Strings/MovieReactions:Alex_dislike_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Nie mogę powiedzieć czy był nudny. Albo nie jestem zbyt mądry, żeby go zrozumieć..."
@@ -4399,7 +4419,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Alex_marriage",
           "DialogueText": "Hej... słodko wyglądasz na tym pustynnym słońcu... {Portrait:Happy}",
-          "AudioPath": "assets/pl/Alex/541.ogg",
+          "AudioPath": "assets/pl/Alex/543.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Alex_marriage",
           "PageIndex": 0,
           "DisplayPattern": "Hej... słodko wyglądasz na tym pustynnym słońcu..."
@@ -4407,7 +4427,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Alex",
           "DialogueText": "Widziałeś jak duże są te Jajka Calico?",
-          "AudioPath": "assets/pl/Alex/542_male.ogg",
+          "AudioPath": "assets/pl/Alex/544_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Alex",
           "PageIndex": 0,
           "DisplayPattern": "Widziałeś jak duże są te Jajka Calico?",
@@ -4416,7 +4436,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Alex",
           "DialogueText": "Widziałaś jak duże są te Jajka Calico?",
-          "AudioPath": "assets/pl/Alex/543_female.ogg",
+          "AudioPath": "assets/pl/Alex/545_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Alex",
           "PageIndex": 1,
           "DisplayPattern": "Widziałaś jak duże są te Jajka Calico?",
@@ -4425,7 +4445,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Alex",
           "DialogueText": "Ile w tym białka...",
-          "AudioPath": "assets/pl/Alex/544.ogg",
+          "AudioPath": "assets/pl/Alex/546.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Alex",
           "PageIndex": 2,
           "DisplayPattern": "Ile w tym białka..."
@@ -4433,7 +4453,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Alex",
           "DialogueText": "Hej, masz jakieś jajka?",
-          "AudioPath": "assets/pl/Alex/545.ogg",
+          "AudioPath": "assets/pl/Alex/547.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Alex",
           "PageIndex": 0,
           "DisplayPattern": "Hej, masz jakieś jajka?"

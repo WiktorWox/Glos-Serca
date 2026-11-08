@@ -2408,1004 +2408,1024 @@
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s0",
-          "DialogueText": "{Farmer_Name}! I've just received the most exciting news!",
+          "DialogueText": "{Farmer_Name}! Właśnie otrzymałem najbardziej ekscytującą wiadomość!",
           "AudioPath": "assets/pl/Elliott/297.ogg",
           "TranslationKey": "Events/Farm:3912125:s0",
           "PageIndex": 0,
-          "DisplayPattern": "! I've just received the most exciting news!"
+          "DisplayPattern": "! Właśnie otrzymałem najbardziej ekscytującą wiadomość!"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s1",
-          "DialogueText": "It's very short notice... but I've been invited to do a reading tour for my book, '%book'!",
+          "DialogueText": "Będzie krótko... zostałem zaproszony w trasę, na której będę czytał '%book'!",
           "AudioPath": "assets/pl/Elliott/298.ogg",
           "TranslationKey": "Events/Farm:3912125:s1",
           "PageIndex": 0,
-          "DisplayPattern": "It's very short notice... but I've been invited to do a reading tour for my , ''!"
+          "DisplayPattern": "Będzie krótko... zostałem zaproszony w trasę, na której będę czytał ''!"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s2",
-          "DialogueText": "...I'll be out of town for a week. Will you be okay? {Portrait:Sad}",
+          "DialogueText": "... Wyjeżdżam na tydzień. Dobrze? {Portrait:Sad}",
           "AudioPath": "assets/pl/Elliott/299.ogg",
           "TranslationKey": "Events/Farm:3912125:s2",
           "PageIndex": 0,
-          "DisplayPattern": "...I'll be out of town for a week. Will you be okay?"
+          "DisplayPattern": "... Wyjeżdżam na tydzień. Dobrze?"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s3",
-          "DialogueText": "I'll miss you very much, my dear.",
+          "DialogueText": "Będę za Tobą tęsknił, kochanie.",
           "AudioPath": "assets/pl/Elliott/300.ogg",
           "TranslationKey": "Events/Farm:3912125:s3",
           "PageIndex": 0,
-          "DisplayPattern": "I'll miss you very much, my dear."
+          "DisplayPattern": "Będę za Tobą tęsknił, kochanie."
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s4",
-          "DialogueText": "And I'll write to you every day, of course!",
+          "DialogueText": "I oczywiście codziennie będę do Ciebie pisał!",
           "AudioPath": "assets/pl/Elliott/301.ogg",
           "TranslationKey": "Events/Farm:3912125:s4",
           "PageIndex": 0,
-          "DisplayPattern": "And I'll write to you every day, of course!"
+          "DisplayPattern": "I oczywiście codziennie będę do Ciebie pisał!"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s5",
-          "DialogueText": "Hah... good one. Now, don't get too excited... {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/302.ogg",
+          "DialogueText": "Hah... Dobre. Tylko żebyś się za bardzo nie podekscytował... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/302_male.ogg",
           "TranslationKey": "Events/Farm:3912125:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Hah... good one. Now, don't get too excited..."
+          "DisplayPattern": "Hah... Dobre. Tylko żebyś się za bardzo nie podekscytował...",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s6",
-          "DialogueText": "I'll be sure to write to you every day. I'll miss you!",
-          "AudioPath": "assets/pl/Elliott/303.ogg",
+          "DialogueText": "Hah... Dobre. Tylko żebyś się za bardzo nie podekscytowała... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/303_female.ogg",
           "TranslationKey": "Events/Farm:3912125:s6",
           "PageIndex": 0,
-          "DisplayPattern": "I'll be sure to write to you every day. I'll miss you!"
+          "DisplayPattern": "Hah... Dobre. Tylko żebyś się za bardzo nie podekscytowała...",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s7",
-          "DialogueText": "But, my dear... This is a rare opportunity for me. I must go! {Portrait:Sad}",
+          "DialogueText": "Codziennie będę do Ciebie pisał, będę za Tobą tęsknił!",
           "AudioPath": "assets/pl/Elliott/304.ogg",
           "TranslationKey": "Events/Farm:3912125:s7",
           "PageIndex": 0,
-          "DisplayPattern": "But, my dear... This is a rare opportunity for me. I must go!"
+          "DisplayPattern": "Codziennie będę do Ciebie pisał, będę za Tobą tęsknił!"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s8",
-          "DialogueText": "Please don't make me feel guilty about this. I'll write to you every day, and I'll be back before you know it.",
+          "DialogueText": "Ale skarbie... To dla mnie okazja jedyna w swoim rodzaju. muszę! {Portrait:Sad}",
           "AudioPath": "assets/pl/Elliott/305.ogg",
           "TranslationKey": "Events/Farm:3912125:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Please don't make me feel guilty about this. I'll write to you every day, and I'll be back before you know it."
+          "DisplayPattern": "Ale skarbie... To dla mnie okazja jedyna w swoim rodzaju. muszę!"
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s9",
-          "DialogueText": "I leave early tomorrow morning...",
+          "DialogueText": "Proszę, nie chcę się przez to czuć winny. Będę do Ciebie codziennie pisał i wrócę nim się obejrzysz.",
           "AudioPath": "assets/pl/Elliott/306.ogg",
           "TranslationKey": "Events/Farm:3912125:s9",
           "PageIndex": 0,
-          "DisplayPattern": "I leave early tomorrow morning..."
+          "DisplayPattern": "Proszę, nie chcę się przez to czuć winny. Będę do Ciebie codziennie pisał i wrócę nim się obejrzysz."
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s10",
-          "DialogueText": "I need to pack! {Portrait:Custom:8}",
+          "DialogueText": "Wyjeżdżam wczesnym porankiem...",
           "AudioPath": "assets/pl/Elliott/307.ogg",
           "TranslationKey": "Events/Farm:3912125:s10",
           "PageIndex": 0,
-          "DisplayPattern": "I need to pack!"
+          "DisplayPattern": "Wyjeżdżam wczesnym porankiem..."
         },
         {
           "DialogueFrom": "Event/Farm/3912125:s11",
-          "DialogueText": "Don't let me forget my hairbrush, my hairspray, my fine-tooth comb, and my pomegranate conditioner!",
+          "DialogueText": "Muszę się spakować! {Portrait:Custom:8}",
           "AudioPath": "assets/pl/Elliott/308.ogg",
           "TranslationKey": "Events/Farm:3912125:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Don't let me forget my hairbrush, my hairspray, my fine-tooth comb, and my pomegranate conditioner!"
+          "DisplayPattern": "Muszę się spakować!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/3912125:s12",
+          "DialogueText": "Nie mogę zapomnieć mojej szczotki do włosów, lakieru do włosów, grzebienia i odżywki z granatu!",
+          "AudioPath": "assets/pl/Elliott/309.ogg",
+          "TranslationKey": "Events/Farm:3912125:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę zapomnieć mojej szczotki do włosów, lakieru do włosów, grzebienia i odżywki z granatu!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3912132:s0",
-          "DialogueText": "{Farmer_Name}... I'm back...",
-          "AudioPath": "assets/pl/Elliott/309.ogg",
+          "DialogueText": "{Farmer_Name}... Wróciłem...",
+          "AudioPath": "assets/pl/Elliott/310.ogg",
           "TranslationKey": "Events/FarmHouse:3912132:s0",
           "PageIndex": 0,
-          "DisplayPattern": "... I'm back..."
+          "DisplayPattern": "... Wróciłem..."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3912132:s1",
-          "DialogueText": "Ah... I've missed you. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/310.ogg",
+          "DialogueText": "Ach... Tęskniłem za Tobą. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/311.ogg",
           "TranslationKey": "Events/FarmHouse:3912132:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... I've missed you."
+          "DisplayPattern": "Ach... Tęskniłem za Tobą."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3912132:s2",
-          "DialogueText": "One drop of the big city and I'm quenched... I much prefer being back here with you!",
-          "AudioPath": "assets/pl/Elliott/311.ogg",
+          "DialogueText": "Jedna kropla z wielkiego miasta i jestem zgaszony... Wolę tu siedzieć z Tobą!",
+          "AudioPath": "assets/pl/Elliott/312.ogg",
           "TranslationKey": "Events/FarmHouse:3912132:s2",
           "PageIndex": 0,
-          "DisplayPattern": "One drop of the big city and I'm quenched... I much prefer being back here with you!"
+          "DisplayPattern": "Jedna kropla z wielkiego miasta i jestem zgaszony... Wolę tu siedzieć z Tobą!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3912132:s3",
-          "DialogueText": "Well, I guess it's back to the old routine once again! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/312.ogg",
+          "DialogueText": "I z powrotem do starej rutyny! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/313.ogg",
           "TranslationKey": "Events/FarmHouse:3912132:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Well, I guess it's back to the old routine once again!"
+          "DisplayPattern": "I z powrotem do starej rutyny!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/3912132:s4",
-          "DialogueText": "I've got some chores to catch up on...",
-          "AudioPath": "assets/pl/Elliott/313.ogg",
+          "DialogueText": "Mam parę obowiązków, które muszę nadrobić...",
+          "AudioPath": "assets/pl/Elliott/314.ogg",
           "TranslationKey": "Events/FarmHouse:3912132:s4",
           "PageIndex": 0,
-          "DisplayPattern": "I've got some chores to catch up on..."
+          "DisplayPattern": "Mam parę obowiązków, które muszę nadrobić..."
         },
         {
           "DialogueFrom": "Event/FarmHouse/3912132:s5",
-          "DialogueText": "It's good to be back...",
-          "AudioPath": "assets/pl/Elliott/314.ogg",
+          "DialogueText": "Dobrze jest wrócić...",
+          "AudioPath": "assets/pl/Elliott/315.ogg",
           "TranslationKey": "Events/FarmHouse:3912132:s5",
           "PageIndex": 0,
-          "DisplayPattern": "It's good to be back..."
+          "DisplayPattern": "Dobrze jest wrócić..."
         },
         {
           "DialogueFrom": "Event/Saloon/40:s0",
-          "DialogueText": "Hello, {Farmer_Name}! What a pleasant surprise!",
-          "AudioPath": "assets/pl/Elliott/315.ogg",
+          "DialogueText": "Witaj, {Farmer_Name}! Jaka miła niespodzianka!",
+          "AudioPath": "assets/pl/Elliott/316.ogg",
           "TranslationKey": "Events/Saloon:40:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hello, ! What a pleasant surprise!"
+          "DisplayPattern": "Witaj, ! Jaka miła niespodzianka!"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s1",
-          "DialogueText": "I was just stopping in to relax after an eight hour writing session. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/316.ogg",
+          "DialogueText": "Właśnie miałem odpocząć po ośmiogodzinnej sesji pisania. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/317.ogg",
           "TranslationKey": "Events/Saloon:40:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I was just stopping in to relax after an eight hour writing session."
+          "DisplayPattern": "Właśnie miałem odpocząć po ośmiogodzinnej sesji pisania."
         },
         {
           "DialogueFrom": "Event/Saloon/40:s2",
-          "DialogueText": "Bartender! Two of your finest ales, please!",
-          "AudioPath": "assets/pl/Elliott/317_male.ogg",
+          "DialogueText": "Barman! Dwa najlepsze piwa, proszę!",
+          "AudioPath": "assets/pl/Elliott/318_male.ogg",
           "TranslationKey": "Events/Saloon:40:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Bartender! Two of your finest ales, please!",
+          "DisplayPattern": "Barman! Dwa najlepsze piwa, proszę!",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s3",
-          "DialogueText": "Bartender! Fetch me your finest ale. And bring some wine for the lady!",
-          "AudioPath": "assets/pl/Elliott/318_female.ogg",
+          "DialogueText": "Barman! Jedno najlepsze piwo. A dla damy jakieś dobre wino!",
+          "AudioPath": "assets/pl/Elliott/319_female.ogg",
           "TranslationKey": "Events/Saloon:40:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Bartender! Fetch me your finest ale. And bring some wine for the lady!",
+          "DisplayPattern": "Barman! Jedno najlepsze piwo. A dla damy jakieś dobre wino!",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s4",
-          "DialogueText": "Wait. I propose a toast! To...",
-          "AudioPath": "assets/pl/Elliott/319.ogg",
+          "DialogueText": "Czekaj. Chcę wznieść toast! Za...",
+          "AudioPath": "assets/pl/Elliott/320.ogg",
           "TranslationKey": "Events/Saloon:40:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Wait. I propose a toast! To..."
+          "DisplayPattern": "Czekaj. Chcę wznieść toast! Za..."
         },
         {
           "DialogueFrom": "Event/Saloon/40:s5",
-          "DialogueText": "To Pelican Town!",
-          "AudioPath": "assets/pl/Elliott/320.ogg",
+          "DialogueText": "Za Miasto Pelikan!",
+          "AudioPath": "assets/pl/Elliott/321.ogg",
           "TranslationKey": "Events/Saloon:40:s5",
           "PageIndex": 0,
-          "DisplayPattern": "To Pelican Town!"
+          "DisplayPattern": "Za Miasto Pelikan!"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s6",
-          "DialogueText": "To our friendship!",
-          "AudioPath": "assets/pl/Elliott/321.ogg",
+          "DialogueText": "Za naszą przyjaźń!",
+          "AudioPath": "assets/pl/Elliott/322.ogg",
           "TranslationKey": "Events/Saloon:40:s6",
           "PageIndex": 0,
-          "DisplayPattern": "To our friendship!"
+          "DisplayPattern": "Za naszą przyjaźń!"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s7",
-          "DialogueText": "To my good health!",
-          "AudioPath": "assets/pl/Elliott/322.ogg",
+          "DialogueText": "Za dobre zdrowie!",
+          "AudioPath": "assets/pl/Elliott/323.ogg",
           "TranslationKey": "Events/Saloon:40:s7",
           "PageIndex": 0,
-          "DisplayPattern": "To my good health!"
+          "DisplayPattern": "Za dobre zdrowie!"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s8",
-          "DialogueText": "To your doom!",
-          "AudioPath": "assets/pl/Elliott/323.ogg",
+          "DialogueText": "Za Twoją zgubę!",
+          "AudioPath": "assets/pl/Elliott/324.ogg",
           "TranslationKey": "Events/Saloon:40:s8",
           "PageIndex": 0,
-          "DisplayPattern": "To your doom!"
+          "DisplayPattern": "Za Twoją zgubę!"
         },
         {
           "DialogueFrom": "Event/Saloon/40:s9",
-          "DialogueText": "*Hic*... Strong stuff... {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/324.ogg",
+          "DialogueText": "*czkawka*... Mocny towar... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/325.ogg",
           "TranslationKey": "Events/Saloon:40:s9",
           "PageIndex": 0,
-          "DisplayPattern": "*Hic*... Strong stuff..."
+          "DisplayPattern": "*czkawka*... Mocny towar..."
         },
         {
           "DialogueFrom": "Event/Saloon/195099:s0",
-          "DialogueText": "Don't worry, I've never played before, either. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/325.ogg",
+          "DialogueText": "Nie martw się, też gram pierwszy raz. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/326.ogg",
           "TranslationKey": "Events/Saloon:195099:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Don't worry, I've never played before, either."
+          "DisplayPattern": "Nie martw się, też gram pierwszy raz."
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s0",
-          "DialogueText": "For once, I'm at a loss for words... {Portrait:Angry}",
-          "AudioPath": "assets/pl/Elliott/326.ogg",
+          "DialogueText": "Po raz pierwszy, brak mi słów... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Elliott/327.ogg",
           "TranslationKey": "Events/Saloon:195013:s0",
           "PageIndex": 0,
-          "DisplayPattern": "For once, I'm at a loss for words..."
+          "DisplayPattern": "Po raz pierwszy, brak mi słów..."
         },
         {
           "DialogueFrom": "Event/Saloon/195013:s1",
-          "DialogueText": "Absolutely. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Elliott/327.ogg",
+          "DialogueText": "Oczywiście. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Elliott/328.ogg",
           "TranslationKey": "Events/Saloon:195013:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Absolutely."
+          "DisplayPattern": "Oczywiście."
         },
         {
           "DialogueFrom": "Event/Saloon/choseToExplain:s0",
-          "DialogueText": "Don't blame others for your mistakes! You're just losing more respect with us... {Portrait:Angry}",
-          "AudioPath": "assets/pl/Elliott/328.ogg",
+          "DialogueText": "Nie obwiniaj innych za swoje błędy! Tylko się bardziej poniżasz... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Elliott/329.ogg",
           "TranslationKey": "Events/Saloon:choseToExplain:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Don't blame others for your mistakes! You're just losing more respect with us..."
+          "DisplayPattern": "Nie obwiniaj innych za swoje błędy! Tylko się bardziej poniżasz..."
         },
         {
           "DialogueFrom": "Event/Beach/43:s0",
-          "DialogueText": "Hey.",
-          "AudioPath": "assets/pl/Elliott/329.ogg",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Elliott/330.ogg",
           "TranslationKey": "Events/Beach:43:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hey."
+          "DisplayPattern": "Hej."
         },
         {
           "DialogueFrom": "Event/Beach/43:s1",
-          "DialogueText": "Look... I fixed up that old rowboat that's been sitting by my house. Pretty nice, huh?",
-          "AudioPath": "assets/pl/Elliott/330.ogg",
+          "DialogueText": "Popatrz... Naprawiłem moją łódkę. Nieźle, co?",
+          "AudioPath": "assets/pl/Elliott/331.ogg",
           "TranslationKey": "Events/Beach:43:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Look... I fixed up that old rowboat that's been sitting by my house. Pretty nice, huh?"
+          "DisplayPattern": "Popatrz... Naprawiłem moją łódkę. Nieźle, co?"
         },
         {
           "DialogueFrom": "Event/Beach/43:s2",
-          "DialogueText": "{Farmer_Name}... Would you do me the honor of joining me for her maiden voyage? {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/331.ogg",
+          "DialogueText": "{Farmer_Name}... może chcesz ze mną wyruszyć na jej dziewiczy rejs? {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/332.ogg",
           "TranslationKey": "Events/Beach:43:s2",
           "PageIndex": 0,
-          "DisplayPattern": "... Would you do me the honor of joining me for her maiden voyage?"
+          "DisplayPattern": "... może chcesz ze mną wyruszyć na jej dziewiczy rejs?"
         },
         {
           "DialogueFrom": "Event/Beach/43:s3",
-          "DialogueText": "Get in the boat?",
-          "AudioPath": "assets/pl/Elliott/332.ogg",
+          "DialogueText": "Wsiadasz?",
+          "AudioPath": "assets/pl/Elliott/333.ogg",
           "TranslationKey": "Events/Beach:43:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Get in the boat?"
+          "DisplayPattern": "Wsiadasz?"
         },
         {
           "DialogueFrom": "Event/Beach/43:s4",
-          "DialogueText": "Yes",
-          "AudioPath": "assets/pl/Elliott/333.ogg",
+          "DialogueText": "Tak",
+          "AudioPath": "assets/pl/Elliott/334.ogg",
           "TranslationKey": "Events/Beach:43:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Yes"
+          "DisplayPattern": "Tak"
         },
         {
           "DialogueFrom": "Event/Beach/43:s5",
-          "DialogueText": "No",
-          "AudioPath": "assets/pl/Elliott/334.ogg",
+          "DialogueText": "Nie",
+          "AudioPath": "assets/pl/Elliott/335.ogg",
           "TranslationKey": "Events/Beach:43:s5",
           "PageIndex": 0,
-          "DisplayPattern": "No"
+          "DisplayPattern": "Nie"
         },
         {
           "DialogueFrom": "Event/Beach/43:s6",
-          "DialogueText": "So my book's been out for a while now... It's not a best-seller or anything, but it's been getting some good reviews from the critics.",
-          "AudioPath": "assets/pl/Elliott/335.ogg",
+          "DialogueText": "Moja książka od jakiegoś czasu jest w sklepach... To nie jest bestseller czy coś, ale dostaje dobre recenzje od krytyków.",
+          "AudioPath": "assets/pl/Elliott/336.ogg",
           "TranslationKey": "Events/Beach:43:s6",
           "PageIndex": 0,
-          "DisplayPattern": "So my 's been out for a while now... It's not a best-seller or anything, but it's been getting some good reviews from the critics."
+          "DisplayPattern": "Moja książka od jakiegoś czasu jest w sklepach... To nie jest bestseller czy coś, ale dostaje dobre recenzje od krytyków."
         },
         {
           "DialogueFrom": "Event/Beach/43:s7",
-          "DialogueText": "And I really couldn't have finished it without your moral support. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/336.ogg",
+          "DialogueText": "I nie mógłbym jej skończyć bez Twojej pomocy. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/337.ogg",
           "TranslationKey": "Events/Beach:43:s7",
           "PageIndex": 0,
-          "DisplayPattern": "And I really couldn't have finished it without your moral support."
+          "DisplayPattern": "I nie mógłbym jej skończyć bez Twojej pomocy."
         },
         {
           "DialogueFrom": "Event/Beach/43:s8",
-          "DialogueText": "Actually, that's not true at all. I would've finished it either way. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/337.ogg",
+          "DialogueText": "W sumie to nie do końca. I tak bym ją skończył. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/338.ogg",
           "TranslationKey": "Events/Beach:43:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Actually, that's not true at all. I would've finished it either way."
+          "DisplayPattern": "W sumie to nie do końca. I tak bym ją skończył."
         },
         {
           "DialogueFrom": "Event/Beach/43:s9",
-          "DialogueText": "But I am grateful that you believed in me... in my vision. And, well...",
-          "AudioPath": "assets/pl/Elliott/338.ogg",
+          "DialogueText": "Ale jestem wdzięczny za Twoją wiarę we mnie... W moją wizję. I, cóż...",
+          "AudioPath": "assets/pl/Elliott/339.ogg",
           "TranslationKey": "Events/Beach:43:s9",
           "PageIndex": 0,
-          "DisplayPattern": "But I am grateful that you believed in me... in my vision. And, well..."
+          "DisplayPattern": "Ale jestem wdzięczny za Twoją wiarę we mnie... W moją wizję. I, cóż..."
         },
         {
           "DialogueFrom": "Event/Beach/43:s10",
-          "DialogueText": "Um... {Farmer_Name}? How do I say this... {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/339.ogg",
+          "DialogueText": "Hmm... {Farmer_Name}? Jakby to powiedzieć... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/340.ogg",
           "TranslationKey": "Events/Beach:43:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Um... ? How do I say this..."
+          "DisplayPattern": "Hmm... ? Jakby to powiedzieć..."
         },
         {
           "DialogueFrom": "Event/Beach/43:s11",
-          "DialogueText": "Well, we've been friends for a while now... But I'm... I'm not sure if I feel that way about you anymore. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/340.ogg",
+          "DialogueText": "Cóż, jesteśmy przyjaciółmi od dosyć dawna... Ale... nie wiem czy nadal uważam Cię za przyjaciela. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/341.ogg",
           "TranslationKey": "Events/Beach:43:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Well, we've been friends for a while now... But I'm... I'm not sure if I feel that way about you anymore."
+          "DisplayPattern": "Cóż, jesteśmy przyjaciółmi od dosyć dawna... Ale... nie wiem czy nadal uważam Cię za przyjaciela."
         },
         {
           "DialogueFrom": "Event/Beach/43:s12",
-          "DialogueText": "No! I'm not saying I want to cut all ties with you! {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/341.ogg",
+          "DialogueText": "Nie! Nie mówię, że chcę zakończyć znajomość! {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/342.ogg",
           "TranslationKey": "Events/Beach:43:s12",
           "PageIndex": 0,
-          "DisplayPattern": "No! I'm not saying I want to cut all ties with you!"
+          "DisplayPattern": "Nie! Nie mówię, że chcę zakończyć znajomość!"
         },
         {
           "DialogueFrom": "Event/Beach/43:s13",
-          "DialogueText": "In fact... quite the opposite. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/342.ogg",
+          "DialogueText": "W sumie... wręcz przeciwnie. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/343.ogg",
           "TranslationKey": "Events/Beach:43:s13",
           "PageIndex": 0,
-          "DisplayPattern": "In fact... quite the opposite."
+          "DisplayPattern": "W sumie... wręcz przeciwnie."
         },
         {
           "DialogueFrom": "Event/Beach/43:s14",
-          "DialogueText": "...Let's see, how do I put this...? {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/343.ogg",
+          "DialogueText": "... Jakby to powiedzieć...? {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/344.ogg",
           "TranslationKey": "Events/Beach:43:s14",
           "PageIndex": 0,
-          "DisplayPattern": "...Let's see, how do I put this...?"
+          "DisplayPattern": "... Jakby to powiedzieć...?"
         },
         {
           "DialogueFrom": "Event/Beach/43:s15",
-          "DialogueText": "For once, I'm at a loss for words...",
-          "AudioPath": "assets/pl/Elliott/344.ogg",
+          "DialogueText": "Pierwszy raz nie wiem co powiedzieć...",
+          "AudioPath": "assets/pl/Elliott/345.ogg",
           "TranslationKey": "Events/Beach:43:s15",
           "PageIndex": 0,
-          "DisplayPattern": "For once, I'm at a loss for words..."
+          "DisplayPattern": "Pierwszy raz nie wiem co powiedzieć..."
         },
         {
           "DialogueFrom": "Event/Beach/43:s16",
-          "DialogueText": "{Farmer_Name}? You're trembling... {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/345.ogg",
+          "DialogueText": "{Farmer_Name}? Zimno Ci? Trzęsiesz się... {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/346.ogg",
           "TranslationKey": "Events/Beach:43:s16",
           "PageIndex": 0,
-          "DisplayPattern": "? You're trembling..."
+          "DisplayPattern": "? Zimno Ci? Trzęsiesz się..."
         },
         {
           "DialogueFrom": "Event/Beach/43:s17",
-          "DialogueText": "I'm happy.",
-          "AudioPath": "assets/pl/Elliott/346.ogg",
+          "DialogueText": "Cieszę się.",
+          "AudioPath": "assets/pl/Elliott/347.ogg",
           "TranslationKey": "Events/Beach:43:s17",
           "PageIndex": 0,
-          "DisplayPattern": "I'm happy."
+          "DisplayPattern": "Cieszę się."
         },
         {
           "DialogueFrom": "Event/Beach/43:s18",
-          "DialogueText": "You're making me very uncomfortable. Stop.",
-          "AudioPath": "assets/pl/Elliott/347.ogg",
+          "DialogueText": "Czuję się przez Ciebie niekomfortowo. Przestań.",
+          "AudioPath": "assets/pl/Elliott/348.ogg",
           "TranslationKey": "Events/Beach:43:s18",
           "PageIndex": 0,
-          "DisplayPattern": "You're making me very uncomfortable. Stop."
+          "DisplayPattern": "Czuję się przez Ciebie niekomfortowo. Przestań."
         },
         {
           "DialogueFrom": "Event/Beach/43:s19",
-          "DialogueText": "We'd better head back before the southern wind picks up. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/348_male.ogg",
+          "DialogueText": "Lepiej wracajmy, zanim podniesie się południowy wiatr. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/349_male.ogg",
           "TranslationKey": "Events/Beach:43:s19",
           "PageIndex": 0,
-          "DisplayPattern": "We'd better head back before the southern wind picks up.",
+          "DisplayPattern": "Lepiej wracajmy, zanim podniesie się południowy wiatr.",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/Beach/43:s20",
-          "DialogueText": "Uh oh... The vibration from your body has caught the attention of a Crimsonfish... We'd better get out of here. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/349_female.ogg",
+          "DialogueText": "Uch och... Twoje drganie przyciągnęły uwagę karmazynowych ryb... Lepiej stąd spływać. {Portrait:Love}. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/350_female.ogg",
           "TranslationKey": "Events/Beach:43:s20",
           "PageIndex": 0,
-          "DisplayPattern": "Uh oh... The vibration from your body has caught the attention of a Crimsonfish... We'd better get out of here.",
+          "DisplayPattern": "Uch och... Twoje drganie przyciągnęły uwagę karmazynowych ryb... Lepiej stąd spływać..",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/Beach/43:s21",
-          "DialogueText": "Look at the valley from here... it finally looks like 'Home'.",
-          "AudioPath": "assets/pl/Elliott/350.ogg",
+          "DialogueText": "Popatrz na dolinę... W końcu widać 'Dom'.",
+          "AudioPath": "assets/pl/Elliott/351.ogg",
           "TranslationKey": "Events/Beach:43:s21",
           "PageIndex": 0,
-          "DisplayPattern": "Look at the valley from here... it finally looks like 'Home'."
+          "DisplayPattern": "Popatrz na dolinę... W końcu widać 'Dom'."
         },
         {
           "DialogueFrom": "Event/Beach/43:s22",
-          "DialogueText": "*sigh*... What a day... {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/351.ogg",
+          "DialogueText": "*ech*... Co za dzień... {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/352.ogg",
           "TranslationKey": "Events/Beach:43:s22",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... What a day..."
+          "DisplayPattern": "*ech*... Co za dzień..."
         },
         {
           "DialogueFrom": "Event/Beach/NoToElliott:s0",
-          "DialogueText": "I see. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/352.ogg",
+          "DialogueText": "Rozumiem. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/353.ogg",
           "TranslationKey": "Events/Beach:NoToElliott:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I see."
+          "DisplayPattern": "Rozumiem."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s0",
-          "DialogueText": "{Farmer_Name}! Come in.",
-          "AudioPath": "assets/pl/Elliott/353.ogg",
+          "DialogueText": "{Farmer_Name}! Wejdź.",
+          "AudioPath": "assets/pl/Elliott/354.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s0",
           "PageIndex": 0,
-          "DisplayPattern": "! Come in."
+          "DisplayPattern": "! Wejdź."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s1",
-          "DialogueText": "Welcome to my humble... well, shack.",
-          "AudioPath": "assets/pl/Elliott/354.ogg",
+          "DialogueText": "Witaj w mojej skromnej... cóż... chatce!",
+          "AudioPath": "assets/pl/Elliott/355.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Welcome to my humble... well, shack."
+          "DisplayPattern": "Witaj w mojej skromnej... cóż... chatce!"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s2",
-          "DialogueText": "This is my writing desk. It's where I spend most of my time.",
-          "AudioPath": "assets/pl/Elliott/355.ogg",
+          "DialogueText": "To moje biurko do pisania. Tutaj zazwyczaj spędzam najwięcej czasu.",
+          "AudioPath": "assets/pl/Elliott/356.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s2",
           "PageIndex": 0,
-          "DisplayPattern": "This is my writing desk. It's where I spend most of my ."
+          "DisplayPattern": "To moje biurko do pisania. Tutaj zazwyczaj spędzam najwięcej czasu."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s3",
-          "DialogueText": "For as long as I can remember, I've wanted to be a writer. Have I told you that?",
-          "AudioPath": "assets/pl/Elliott/356.ogg",
+          "DialogueText": "Odkąd pamiętam, chciałem zostać pisarzem. Już to mówiłem?",
+          "AudioPath": "assets/pl/Elliott/357.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s3",
           "PageIndex": 0,
-          "DisplayPattern": "For as long as I can remember, I've wanted to be a writer. Have I told you that?"
+          "DisplayPattern": "Odkąd pamiętam, chciałem zostać pisarzem. Już to mówiłem?"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s4",
-          "DialogueText": "That's why I live out here by myself. I figured a lonely life by the sea would help me focus on my literary aspirations... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Elliott/357.ogg",
+          "DialogueText": "Dlatego właśnie mieszkam tu sam. Odkryłem, że samotne życie przy oceanie pomaga mi się skupić na moich literackich aspiracjach... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/358.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s4",
           "PageIndex": 0,
-          "DisplayPattern": "That's why I live out here by myself. I figured a lonely life by the sea would help me focus on my literary aspirations..."
+          "DisplayPattern": "Dlatego właśnie mieszkam tu sam. Odkryłem, że samotne życie przy oceanie pomaga mi się skupić na moich literackich aspiracjach..."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s5",
-          "DialogueText": "Everyone back home said I was nuts... that I could never make it as a writer.",
-          "AudioPath": "assets/pl/Elliott/358.ogg",
+          "DialogueText": "Cała moja rodzina mówiła, że mnie pogrzało... że nigdy nie dam sobie rady jako pisarz.",
+          "AudioPath": "assets/pl/Elliott/359.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Everyone back home said I was nuts... that I could never make it as a writer."
+          "DisplayPattern": "Cała moja rodzina mówiła, że mnie pogrzało... że nigdy nie dam sobie rady jako pisarz."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s6",
-          "DialogueText": "Can you believe it? They said 'For every successful author there's 1000 who fail miserably'. Such pessimism... it's sickening.",
-          "AudioPath": "assets/pl/Elliott/359.ogg",
+          "DialogueText": "Możesz w to uwierzyć? Mówili, że 'Na każdego dobrego pisarza przypada 1000, którym się nie udaje'. Ale pesymizm... to odrażające.",
+          "AudioPath": "assets/pl/Elliott/360.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Can you believe it? They said 'For every successful author there's 1000 who fail miserably'. Such pessimism... it's sickening."
+          "DisplayPattern": "Możesz w to uwierzyć? Mówili, że 'Na każdego dobrego pisarza przypada 1000, którym się nie udaje'. Ale pesymizm... to odrażające."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s7",
-          "DialogueText": "I can see it in your eyes... you believe in me, {Farmer_Name}. You've got that spark.",
-          "AudioPath": "assets/pl/Elliott/360.ogg",
+          "DialogueText": "Widzę to w twoich oczach... wierzysz we mnie, {Farmer_Name}. Masz ten błysk w oku.",
+          "AudioPath": "assets/pl/Elliott/361.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s7",
           "PageIndex": 0,
-          "DisplayPattern": "I can see it in your eyes... you believe in me, . You've got that spark."
+          "DisplayPattern": "Widzę to w twoich oczach... wierzysz we mnie, . Masz ten błysk w oku."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s8",
-          "DialogueText": "Now that's inspiring! That's what I'm looking for...",
-          "AudioPath": "assets/pl/Elliott/361.ogg",
+          "DialogueText": "I to mnie inspiruje! Tego właśnie szukałem...",
+          "AudioPath": "assets/pl/Elliott/362.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Now that's inspiring! That's what I'm looking for..."
+          "DisplayPattern": "I to mnie inspiruje! Tego właśnie szukałem..."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s9",
-          "DialogueText": "A question... What kind of books do you like, {Farmer_Name}?",
-          "AudioPath": "assets/pl/Elliott/362.ogg",
+          "DialogueText": "Pytanie... Jakie książki lubisz, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Elliott/363.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s9",
           "PageIndex": 0,
-          "DisplayPattern": "A question... What kind of s do you like, ?"
+          "DisplayPattern": "Pytanie... Jakie książki lubisz, ?"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s10",
-          "DialogueText": "Mystery",
-          "AudioPath": "assets/pl/Elliott/363.ogg",
+          "DialogueText": "Tajemnicze",
+          "AudioPath": "assets/pl/Elliott/364.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Mystery"
+          "DisplayPattern": "Tajemnicze"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s11",
-          "DialogueText": "Romance",
-          "AudioPath": "assets/pl/Elliott/364.ogg",
+          "DialogueText": "Romanse",
+          "AudioPath": "assets/pl/Elliott/365.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Romance"
+          "DisplayPattern": "Romanse"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s12",
           "DialogueText": "Sci-Fi",
-          "AudioPath": "assets/pl/Elliott/365.ogg",
+          "AudioPath": "assets/pl/Elliott/366.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s12",
           "PageIndex": 0,
           "DisplayPattern": "Sci-Fi"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s13",
-          "DialogueText": "Well! Enough talk about me!",
-          "AudioPath": "assets/pl/Elliott/366.ogg",
+          "DialogueText": "Więc! Koniec rozmawiania o mnie!",
+          "AudioPath": "assets/pl/Elliott/367.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s13",
           "PageIndex": 0,
-          "DisplayPattern": "Well! Enough talk about me!"
+          "DisplayPattern": "Więc! Koniec rozmawiania o mnie!"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s14",
-          "DialogueText": "Hmm... you probably know a lot about plants, don't you?",
-          "AudioPath": "assets/pl/Elliott/367.ogg",
+          "DialogueText": "Hmm... Wiesz dużo o roślinach, prawda?",
+          "AudioPath": "assets/pl/Elliott/368.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Hmm... you probably know a lot about plants, don't you?"
+          "DisplayPattern": "Hmm... Wiesz dużo o roślinach, prawda?"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s15",
-          "DialogueText": "Would you mind taking a look at this rose, here? I'm afraid it's not doing so well. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/368.ogg",
+          "DialogueText": "Możesz obejrzeć tę różę, o tu? Boję się, że nie ma się za dobrze. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/369.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s15",
           "PageIndex": 0,
-          "DisplayPattern": "Would you mind taking a look at this rose, here? I'm afraid it's not doing so well."
+          "DisplayPattern": "Możesz obejrzeć tę różę, o tu? Boję się, że nie ma się za dobrze."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/39:s16",
-          "DialogueText": "Thanks for talking with me... I'll be thinking about what you said.",
-          "AudioPath": "assets/pl/Elliott/369.ogg",
+          "DialogueText": "Dziękuję za wspólną rozmowę... Zastanowię się nad tym co powiedziałeś.",
+          "AudioPath": "assets/pl/Elliott/370_male.ogg",
           "TranslationKey": "Events/ElliottHouse:39:s16",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks for talking with me... I'll be thinking about what you said."
+          "DisplayPattern": "Dziękuję za wspólną rozmowę... Zastanowię się nad tym co powiedziałeś.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/ElliottHouse/39:s17",
+          "DialogueText": "Dziękuję za wspólną rozmowę... Zastanowię się nad tym co powiedziałaś.",
+          "AudioPath": "assets/pl/Elliott/371_female.ogg",
+          "TranslationKey": "Events/ElliottHouse:39:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję za wspólną rozmowę... Zastanowię się nad tym co powiedziałaś.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/423502:s0",
-          "DialogueText": "Ah... I thought someone was there. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/370.ogg",
+          "DialogueText": "Ach... Wiedziałem, że ktoś tam jest. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/372.ogg",
           "TranslationKey": "Events/ElliottHouse:423502:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ah... I thought someone was there."
+          "DisplayPattern": "Ach... Wiedziałem, że ktoś tam jest."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/423502:s1",
-          "DialogueText": "That was wonderful.",
-          "AudioPath": "assets/pl/Elliott/371.ogg",
+          "DialogueText": "To było wspaniałe.",
+          "AudioPath": "assets/pl/Elliott/373.ogg",
           "TranslationKey": "Events/ElliottHouse:423502:s1",
           "PageIndex": 0,
-          "DisplayPattern": "That was wonderful."
+          "DisplayPattern": "To było wspaniałe."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/423502:s2",
-          "DialogueText": "How long have you been playing?",
-          "AudioPath": "assets/pl/Elliott/372.ogg",
+          "DialogueText": "Jak długo grasz?",
+          "AudioPath": "assets/pl/Elliott/374.ogg",
           "TranslationKey": "Events/ElliottHouse:423502:s2",
           "PageIndex": 0,
-          "DisplayPattern": "How long have you been playing?"
+          "DisplayPattern": "Jak długo grasz?"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/423502:s3",
-          "DialogueText": "Thank you. I'm not very good, but it's fun to play. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/373.ogg",
+          "DialogueText": "Nie jestem najlepszy, ale dobrze się przy tym bawię. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/375.ogg",
           "TranslationKey": "Events/ElliottHouse:423502:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Thank you. I'm not very good, but it's fun to play."
+          "DisplayPattern": "Nie jestem najlepszy, ale dobrze się przy tym bawię."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/howLong:s0",
-          "DialogueText": "Oh, I'm not sure... I've been dabbling in piano since I was a kid. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/374.ogg",
+          "DialogueText": "Och, nie jestem pewien... Od dziecka gram na fortepianie. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/376.ogg",
           "TranslationKey": "Events/ElliottHouse:howLong:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Oh, I'm not sure... I've been dabbling in piano since I was a kid."
+          "DisplayPattern": "Och, nie jestem pewien... Od dziecka gram na fortepianie."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/howLong:s1",
-          "DialogueText": "I'm not very good, but it's fun.",
-          "AudioPath": "assets/pl/Elliott/375.ogg",
+          "DialogueText": "Nie jestem najlepszy, ale dobrze się przy tym bawię.",
+          "AudioPath": "assets/pl/Elliott/377.ogg",
           "TranslationKey": "Events/ElliottHouse:howLong:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I'm not very good, but it's fun."
+          "DisplayPattern": "Nie jestem najlepszy, ale dobrze się przy tym bawię."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s0",
-          "DialogueText": "I've been working day and night to try and finish my book... It's been driving me insane, {Farmer_Name}. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Elliott/376.ogg",
+          "DialogueText": "Pracowałem dniami i nocami, żeby skończyć moją książkę... Prawie oszalałem, {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/378.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s0",
           "PageIndex": 0,
-          "DisplayPattern": "I've been working day and night to try and finish my ... It's been driving me insane, ."
+          "DisplayPattern": "Pracowałem dniami i nocami, żeby skończyć moją książkę... Prawie oszalałem, ."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s1",
-          "DialogueText": "An occasional tune is the only recreation I allow myself. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/377.ogg",
+          "DialogueText": "Sporadyczna melodia jest jedyną rozrywką, na którą sobie pozwalam. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/379.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s1",
           "PageIndex": 0,
-          "DisplayPattern": "An occasional tune is the only recreation I allow myself."
+          "DisplayPattern": "Sporadyczna melodia jest jedyną rozrywką, na którą sobie pozwalam."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s2",
-          "DialogueText": "There's just too much work to do! And my bank account's starting to run dry. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/378.ogg",
+          "DialogueText": "Za dużo mam roboty! A moje konto bankowe powoli wysycha. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/380.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s2",
           "PageIndex": 0,
-          "DisplayPattern": "There's just too much work to do! And my bank account's starting to run dry."
+          "DisplayPattern": "Za dużo mam roboty! A moje konto bankowe powoli wysycha."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s3",
-          "DialogueText": "Sometimes I wish I could just throw it all away and become a farmer like you. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/379.ogg",
+          "DialogueText": "Czasami chciałbym móc to wszystko rzucić i zostać farmerem, tak jak ty. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/381.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Somes I wish I could just throw it all away and become a er like you."
+          "DisplayPattern": "Czasami chciałbym móc to wszystko rzucić i zostać erem, tak jak ty."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s4",
-          "DialogueText": "It's just as hard to be a farmer, you know.",
-          "AudioPath": "assets/pl/Elliott/380.ogg",
+          "DialogueText": "Ciężko jest być farmerem, no wiesz.",
+          "AudioPath": "assets/pl/Elliott/382.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s4",
           "PageIndex": 0,
-          "DisplayPattern": "It's just as hard to be a er, you know."
+          "DisplayPattern": "Ciężko jest być erem, no wiesz."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s5",
-          "DialogueText": "Come live on the farm, I could use the extra help.",
-          "AudioPath": "assets/pl/Elliott/381.ogg",
+          "DialogueText": "Chodź zamieszkać na farmie, przydałaby mi się pomoc.",
+          "AudioPath": "assets/pl/Elliott/383.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Come live on the , I could use the extra help."
+          "DisplayPattern": "Chodź zamieszkać na ie, przydałaby mi się pomoc."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s6",
-          "DialogueText": "You're right... that was an insensitive thing to say. {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/382.ogg",
+          "DialogueText": "Masz rację... to nie w porządku. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/384.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s6",
           "PageIndex": 0,
-          "DisplayPattern": "You're right... that was an insensitive thing to say."
+          "DisplayPattern": "Masz rację... to nie w porządku."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s7",
-          "DialogueText": "What I meant is that I'd like to get away from this dark, musty prison and experience a little bit of real life... that's all. {Portrait:Sad}",
-          "AudioPath": "assets/pl/Elliott/383.ogg",
+          "DialogueText": "Miałem na myśli, że chciałem wyjść z tego ciemnego i stęchłego więzienia, chciałem trochę zasmakować prawdziwego życia... to wszystko. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/385.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s7",
           "PageIndex": 0,
-          "DisplayPattern": "What I meant is that I'd like to get away from this dark, musty prison and experience a little bit of real life... that's all."
+          "DisplayPattern": "Miałem na myśli, że chciałem wyjść z tego ciemnego i stęchłego więzienia, chciałem trochę zasmakować prawdziwego życia... to wszystko."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/elliottPianoJoin:s8",
-          "DialogueText": "*sigh*... sorry I'm complaining like this. I just need someone to talk to now and then. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/384.ogg",
+          "DialogueText": "*ech*... wybacz, że tak marudzę. Czasami muszę się komuś wygadać. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/386.ogg",
           "TranslationKey": "Events/ElliottHouse:elliottPianoJoin:s8",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... sorry I'm complaining like this. I just need someone to talk to now and then."
+          "DisplayPattern": "*ech*... wybacz, że tak marudzę. Czasami muszę się komuś wygadać."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/extraHelp:s0",
-          "DialogueText": "Seriously? {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/385.ogg",
+          "DialogueText": "Serio? {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/387.ogg",
           "TranslationKey": "Events/ElliottHouse:extraHelp:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Seriously?"
+          "DisplayPattern": "Serio?"
         },
         {
           "DialogueFrom": "Event/ElliottHouse/extraHelp:s1",
-          "DialogueText": "It sounds wonderful... but I can't give up on my novel. It's already half-way done. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/386.ogg",
+          "DialogueText": "Brzmi wspaniale... ale nie mogę porzucić mojej noweli. Jest już w połowie skończona. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/388.ogg",
           "TranslationKey": "Events/ElliottHouse:extraHelp:s1",
           "PageIndex": 0,
-          "DisplayPattern": "It sounds wonderful... but I can't give up on my novel. It's already half-way done."
+          "DisplayPattern": "Brzmi wspaniale... ale nie mogę porzucić mojej noweli. Jest już w połowie skończona."
         },
         {
           "DialogueFrom": "Event/ElliottHouse/extraHelp:s2",
-          "DialogueText": "*sigh*... sorry I'm complaining like this. I just need someone to talk to now and then. {Portrait:Custom:7}",
-          "AudioPath": "assets/pl/Elliott/387.ogg",
+          "DialogueText": "*ech*... wybacz, że tak marudzę. Czasami muszę się komuś wygadać. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Elliott/389.ogg",
           "TranslationKey": "Events/ElliottHouse:extraHelp:s2",
           "PageIndex": 0,
-          "DisplayPattern": "*sigh*... sorry I'm complaining like this. I just need someone to talk to now and then."
+          "DisplayPattern": "*ech*... wybacz, że tak marudzę. Czasami muszę się komuś wygadać."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s0",
-          "DialogueText": "{Farmer_Name}, you made it! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/388.ogg",
+          "DialogueText": "{Farmer_Name}, nareszcie jesteś! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/390.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s0",
           "PageIndex": 0,
-          "DisplayPattern": ", you made it!"
+          "DisplayPattern": ", nareszcie jesteś!"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s1",
-          "DialogueText": "I feel so relieved to be done with my book... it's like an elephant's been lifted off my shoulders.",
-          "AudioPath": "assets/pl/Elliott/389.ogg",
+          "DialogueText": "Czuję się tak lekko po ukończeniu mojej książki... to tak jakby ktoś ściągnął mi słonia z pleców.",
+          "AudioPath": "assets/pl/Elliott/391.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s1",
           "PageIndex": 0,
-          "DisplayPattern": "I feel so relieved to be done with my ... it's like an elephant's been lifted off my shoulders."
+          "DisplayPattern": "Czuję się tak lekko po ukończeniu mojej książki... to tak jakby ktoś ściągnął mi słonia z pleców."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s2",
-          "DialogueText": "Well, I'd better get started with the reading... Wish me luck. {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/390.ogg",
+          "DialogueText": "Cóż, lepiej zacznę czytać... Życz mi powodzenia. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Elliott/392.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Well, I'd better get started with the reading... Wish me luck."
+          "DisplayPattern": "Cóż, lepiej zacznę czytać... Życz mi powodzenia."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s3",
-          "DialogueText": "Good afternoon, everyone.",
-          "AudioPath": "assets/pl/Elliott/391.ogg",
+          "DialogueText": "Dzień dobry.",
+          "AudioPath": "assets/pl/Elliott/393.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Good afternoon, everyone."
+          "DisplayPattern": "Dzień dobry."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s4",
-          "DialogueText": "Ever since I was a young boy, I've dreamt of becoming a writer.",
-          "AudioPath": "assets/pl/Elliott/392.ogg",
+          "DialogueText": "Odkąd byłem jeszcze dzieckiem, marzyłem o zostaniu pisarzem.",
+          "AudioPath": "assets/pl/Elliott/394.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Ever since I was a young boy, I've dreamt of becoming a writer."
+          "DisplayPattern": "Odkąd byłem jeszcze dzieckiem, marzyłem o zostaniu pisarzem."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s5",
-          "DialogueText": "When the time came for me to leave home and start my own life, I moved here. I was drawn to the peaceful beauty of the valley, and hoped that days of quiet reflection in this idyllic atmosphere would fan the literary flames.",
-          "AudioPath": "assets/pl/Elliott/393.ogg",
+          "DialogueText": "Gdy nadszedł ten czas, opuściłem dom i zacząłem żyć na własną rękę, przeprowadziłem się tutaj. Przyciągnęło mnie piękno tego miejsca z nadzieją, że te ciche dni sielankowej atmosfery rozpalą mój literacki ogień.",
+          "AudioPath": "assets/pl/Elliott/395.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s5",
           "PageIndex": 0,
-          "DisplayPattern": "When the came for me to leave home and start my own life, I moved here. I was drawn to the peaceful beauty of the valley, and hoped that days of quiet reflection in this idyllic atmosphere would fan the literary flames."
+          "DisplayPattern": "Gdy nadszedł ten czas, opuściłem dom i zacząłem żyć na własną rękę, przeprowadziłem się tutaj. Przyciągnęło mnie piękno tego miejsca z nadzieją, że te ciche dni sielankowej atmosfery rozpalą mój literacki ogień."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s6",
-          "DialogueText": "After countless hours scribbling at my writing desk, I present to you my first novel: 'The Rise And Fall Of Planet Yazzo'... It's a sci-fi epic spanning thousands of years in an exotic planetary system.",
-          "AudioPath": "assets/pl/Elliott/394.ogg",
+          "DialogueText": "Po wielu godzinach pisania, prezentuje wam moją pierwszą nowele: 'Wzlot i Upadek Planety Yazzo'... To książka sci-fi sięgająca tysiące lat w egzotycznym systemie planetarnym.",
+          "AudioPath": "assets/pl/Elliott/396.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s6",
           "PageIndex": 0,
-          "DisplayPattern": "After countless hours scribbling at my writing desk, I present to you my first novel: 'The Rise And Fall Of Planet Yazzo'... It's a sci-fi epic spanning thousands of years in an exotic planetary system."
+          "DisplayPattern": "Po wielu godzinach pisania, prezentuje wam moją pierwszą nowele: 'Wzlot i Upadek Planety Yazzo'... To książka sci-fi sięgająca tysiące lat w egzotycznym systemie planetarnym."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s7",
-          "DialogueText": "Chapter One.",
-          "AudioPath": "assets/pl/Elliott/395.ogg",
+          "DialogueText": "Rozdział Pierwszy.",
+          "AudioPath": "assets/pl/Elliott/397.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Chapter One."
+          "DisplayPattern": "Rozdział Pierwszy."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s8",
-          "DialogueText": "Commander Yutkin stepped through the golden archway as the airlock snapped shut behind him. Today was his first day on Planet Yazzo, and all 14 of the alliance delegates had been summoned to the Grand Spire...",
-          "AudioPath": "assets/pl/Elliott/396.ogg",
+          "DialogueText": "Dowódca Yutkin przeszedł przez złoty łuk, gdy śluza za nim się zamknęła. Dzień dzisiejszy był jego pierwszym dniem na Planecie Yazzo, wezwano 14 sojuszniczych delegatów do Wielkiej Iglicy...",
+          "AudioPath": "assets/pl/Elliott/398.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Commander Yutkin stepped through the golden archway as the airlock snapped shut behind him. Today was his first day on Planet Yazzo, and all 14 of the alliance delegates had been summoned to the Grand Spire..."
+          "DisplayPattern": "Dowódca Yutkin przeszedł przez złoty łuk, gdy śluza za nim się zamknęła. Dzień dzisiejszy był jego pierwszym dniem na Planecie Yazzo, wezwano 14 sojuszniczych delegatów do Wielkiej Iglicy..."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s9",
-          "DialogueText": "...And as the 7th moon descended beneath the horizon, the planet of Yazzo would begin its sinister transformation... an event for which Commander Yutkin was completely unprepared.",
-          "AudioPath": "assets/pl/Elliott/397.ogg",
+          "DialogueText": "... I gdy siódmy księżyc zstąpił za horyzont planety, Yazzo zaczyna swoją złowieszczą przemianę... wydarzenie, na które Dowódca Yutkin był kompletnie nieprzygotowany.",
+          "AudioPath": "assets/pl/Elliott/399.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s9",
           "PageIndex": 0,
-          "DisplayPattern": "...And as the 7th moon descended beneath the horizon, the planet of Yazzo would begin its sinister transformation... an event for which Commander Yutkin was completely unprepared."
+          "DisplayPattern": "... I gdy siódmy księżyc zstąpił za horyzont planety, Yazzo zaczyna swoją złowieszczą przemianę... wydarzenie, na które Dowódca Yutkin był kompletnie nieprzygotowany."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s10",
-          "DialogueText": "Well, that concludes my reading. I'll be selling signed copies of the book by the front desk. Thanks for listening! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/398.ogg",
+          "DialogueText": "Cóż, na tym kończy się moje czytanie. Będę sprzedawał podpisane kopie przy biurku. Dziękuję za uwagę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/400.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Well, that concludes my reading. I'll be selling signed copies of the by the front desk. Thanks for listening!"
+          "DisplayPattern": "Cóż, na tym kończy się moje czytanie. Będę sprzedawał podpisane kopie przy biurku. Dziękuję za uwagę!"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s11",
-          "DialogueText": "Well, how was it?",
-          "AudioPath": "assets/pl/Elliott/399.ogg",
+          "DialogueText": "I jak?",
+          "AudioPath": "assets/pl/Elliott/401.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Well, how was it?"
+          "DisplayPattern": "I jak?"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s12",
-          "DialogueText": "Thanks. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/400.ogg",
+          "DialogueText": "Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/402.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks."
+          "DisplayPattern": "Dzięki."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s13",
-          "DialogueText": "You know, I got the idea for making a sci-fi book from you. Do you remember?",
-          "AudioPath": "assets/pl/Elliott/401.ogg",
+          "DialogueText": "Wiesz co? To był Twój pomysł na napisanie książki sci-fi. Pamiętasz?",
+          "AudioPath": "assets/pl/Elliott/403.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s13",
           "PageIndex": 0,
-          "DisplayPattern": "You know, I got the idea for making a sci-fi from you. Do you remember?"
+          "DisplayPattern": "Wiesz co? To był Twój pomysł na napisanie książki sci-fi. Pamiętasz?"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/1848481:s14",
-          "DialogueText": "That's why I've dedicated this book to you... {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/402.ogg",
+          "DialogueText": "Dlatego dedykuję ją Tobie... {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/404.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:1848481:s14",
           "PageIndex": 0,
-          "DisplayPattern": "That's why I've dedicated this to you..."
+          "DisplayPattern": "Dlatego dedykuję ją Tobie..."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s0",
-          "DialogueText": "After countless hours scribbling at my writing desk, I present to you my first book: 'Blue Tower'... It's a mystery novel set in a surreal, dystopian future.",
-          "AudioPath": "assets/pl/Elliott/403.ogg",
+          "DialogueText": "Po wielu godzinach pisania, prezentuję wam moją pierwszą książkę: 'Niebieska Wieża'... jest to tajemnicza nowela położona w surrealistycznej, dystopijnej przyszłości.",
+          "AudioPath": "assets/pl/Elliott/405.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s0",
           "PageIndex": 0,
-          "DisplayPattern": "After countless hours scribbling at my writing desk, I present to you my first : 'Blue Tower'... It's a mystery novel set in a surreal, dystopian future."
+          "DisplayPattern": "Po wielu godzinach pisania, prezentuję wam moją pierwszą książkę: 'Niebieska Wieża'... jest to tajemnicza nowela położona w surrealistycznej, dystopijnej przyszłości."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s1",
-          "DialogueText": "Chapter One.",
-          "AudioPath": "assets/pl/Elliott/404.ogg",
+          "DialogueText": "Rozdział Pierwszy.",
+          "AudioPath": "assets/pl/Elliott/406.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Chapter One."
+          "DisplayPattern": "Rozdział Pierwszy."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s2",
-          "DialogueText": "From the shadows emerged a man, radiating with enigmatic omniscience. 'Good Evening, Mr. Lu,' he said, the corners of his mouth quivering. Lu seemed astonished. 'How did you know my name?'",
-          "AudioPath": "assets/pl/Elliott/405.ogg",
+          "DialogueText": "Z cieni wyłonił się mężczyzna, emitując enigmatyczną wiedzą. 'Dzień dobry, Panie Lu', powiedział, kąciki jego ust zadrgały. Lu wyglądał na zdziwionego. 'Skąd znasz moje imię?'",
+          "AudioPath": "assets/pl/Elliott/407.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s2",
           "PageIndex": 0,
-          "DisplayPattern": "From the shadows emerged a man, radiating with enigmatic omniscience. 'Good Evening, Mr. Lu,' he said, the corners of his mouth quivering. Lu seemed astonished. 'How did you know my ?'"
+          "DisplayPattern": "Z cieni wyłonił się mężczyzna, emitując enigmatyczną wiedzą. 'Dzień dobry, Panie Lu', powiedział, kąciki jego ust zadrgały. Lu wyglądał na zdziwionego. 'Skąd znasz moje imię?'"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s3",
-          "DialogueText": "Lu checked Jenu's pockets, then stood up and walked into the bedroom. He quickly found the small golden key that he was looking for and slipped it into his coat pocket.",
-          "AudioPath": "assets/pl/Elliott/406.ogg",
+          "DialogueText": "Lu sprawdził kieszenie Jenu, powstał i poszedł do sypialni. Znalazł mały, złoty klucz, którego szukał, po czym schował go do kieszeni swojego płaszczu.",
+          "AudioPath": "assets/pl/Elliott/408.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Lu checked Jenu's pockets, then stood up and walked into the bedroom. He quickly found the small golden key that he was looking for and slipped it into his coat pocket."
+          "DisplayPattern": "Lu sprawdził kieszenie Jenu, powstał i poszedł do sypialni. Znalazł mały, złoty klucz, którego szukał, po czym schował go do kieszeni swojego płaszczu."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s4",
-          "DialogueText": "Well, that concludes my reading. I'll be selling signed copies of the book by the front desk. Thanks for listening! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/407.ogg",
+          "DialogueText": "Cóż, na tym kończy się moje czytanie. Będę sprzedawał podpisane kopie przy biurku. Dziękuję za uwagę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/409.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Well, that concludes my reading. I'll be selling signed copies of the by the front desk. Thanks for listening!"
+          "DisplayPattern": "Cóż, na tym kończy się moje czytanie. Będę sprzedawał podpisane kopie przy biurku. Dziękuję za uwagę!"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s5",
-          "DialogueText": "Well, how was it?",
-          "AudioPath": "assets/pl/Elliott/408.ogg",
+          "DialogueText": "I jak?",
+          "AudioPath": "assets/pl/Elliott/410.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Well, how was it?"
+          "DisplayPattern": "I jak?"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s6",
-          "DialogueText": "Thanks. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/409.ogg",
+          "DialogueText": "Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/411.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks."
+          "DisplayPattern": "Dzięki."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s7",
-          "DialogueText": "You know, I got the idea for making a mystery from you. Do you remember?",
-          "AudioPath": "assets/pl/Elliott/410.ogg",
+          "DialogueText": "Wiesz co? To był Twój pomysł na napisanie tej książki. Pamiętasz?",
+          "AudioPath": "assets/pl/Elliott/412.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s7",
           "PageIndex": 0,
-          "DisplayPattern": "You know, I got the idea for making a mystery from you. Do you remember?"
+          "DisplayPattern": "Wiesz co? To był Twój pomysł na napisanie tej książki. Pamiętasz?"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/mysteryBook:s8",
-          "DialogueText": "That's why I've dedicated this book to you... {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/411.ogg",
+          "DialogueText": "Dlatego dedykuję ją Tobie... {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/413.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:mysteryBook:s8",
           "PageIndex": 0,
-          "DisplayPattern": "That's why I've dedicated this to you..."
+          "DisplayPattern": "Dlatego dedykuję ją Tobie..."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s0",
-          "DialogueText": "After countless hours scribbling at my writing desk, I present to you my first novel: 'Camellia Station'... It's a romance novel about a train stewardess who falls in love with a traveling architect...",
-          "AudioPath": "assets/pl/Elliott/412.ogg",
+          "DialogueText": "Po wielu godzinach pisania, prezentuję wam moją pierwszą nowelę: 'Stacja Kamelia'... jest to romantyczna nowela o pociągowych stewardessach, które zakochują się w podróżującym architekcie...",
+          "AudioPath": "assets/pl/Elliott/414.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s0",
           "PageIndex": 0,
-          "DisplayPattern": "After countless hours scribbling at my writing desk, I present to you my first novel: 'Camellia Station'... It's a romance novel about a train stewardess who falls in love with a traveling architect..."
+          "DisplayPattern": "Po wielu godzinach pisania, prezentuję wam moją pierwszą nowelę: 'Stacja Kamelia'... jest to romantyczna nowela o pociągowych stewardessach, które zakochują się w podróżującym architekcie..."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s1",
-          "DialogueText": "Chapter One.",
-          "AudioPath": "assets/pl/Elliott/413.ogg",
+          "DialogueText": "Rozdział Pierwszy.",
+          "AudioPath": "assets/pl/Elliott/415.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Chapter One."
+          "DisplayPattern": "Rozdział Pierwszy."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s2",
-          "DialogueText": "'Your ticket, sir?' Ticket collector Gozman extended a gloved hand towards the young commuter. 'Ah, yes. I have it right here,' he replied, reaching into his coat pocket. Mortified, he discovered that the ticket was missing.",
-          "AudioPath": "assets/pl/Elliott/414.ogg",
+          "DialogueText": "'Pański bilet, sir?' Kanar Gozman wyciągnął dłoń w kierunku młodego pasażera. 'Ach, tak. Mam go, o tutaj,' odpowiedział, sięgając do kieszeni w płaszczu. Zawstydzony odkrył, że nie posiada swojego biletu.",
+          "AudioPath": "assets/pl/Elliott/416.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s2",
           "PageIndex": 0,
-          "DisplayPattern": "'Your ticket, sir?' Ticket collector Gozman extended a gloved hand towards the young commuter. 'Ah, yes. I have it right here,' he replied, reaching into his coat pocket. Mortified, he discovered that the ticket was missing."
+          "DisplayPattern": "'Pański bilet, sir?' Kanar Gozman wyciągnął dłoń w kierunku młodego pasażera. 'Ach, tak. Mam go, o tutaj,' odpowiedział, sięgając do kieszeni w płaszczu. Zawstydzony odkrył, że nie posiada swojego biletu."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s3",
-          "DialogueText": "...'Clara, there's something I must tell you,' he blurted as she turned to leave. Clara turned, slowly, and saw the look of desperation in Horatio's eye. At that moment Gozman burst into the compartment, red-faced.",
-          "AudioPath": "assets/pl/Elliott/415.ogg",
+          "DialogueText": "...'Clara, muszę ci coś powiedzieć' powiedział, gdy miała wyjść. Clara powoli się odwróciła i zauważyła desperacje w oczach Horatio. W tym momencie Gozman zaczerwieniony odszedł do innego przedziału.",
+          "AudioPath": "assets/pl/Elliott/417.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s3",
           "PageIndex": 0,
-          "DisplayPattern": "...'Clara, there's something I must tell you,' he blurted as she turned to leave. Clara turned, slowly, and saw the look of desperation in Horatio's eye. At that moment Gozman burst into the compartment, red-faced."
+          "DisplayPattern": "...'Clara, muszę ci coś powiedzieć' powiedział, gdy miała wyjść. Clara powoli się odwróciła i zauważyła desperacje w oczach Horatio. W tym momencie Gozman zaczerwieniony odszedł do innego przedziału."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s4",
-          "DialogueText": "Well, that concludes my reading. I'll be selling signed copies of the book by the front desk. Thanks for listening! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/416.ogg",
+          "DialogueText": "Cóż, na tym kończy się moje czytanie. Będę sprzedawał podpisane kopie przy biurku. Dziękuję za uwagę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/418.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Well, that concludes my reading. I'll be selling signed copies of the by the front desk. Thanks for listening!"
+          "DisplayPattern": "Cóż, na tym kończy się moje czytanie. Będę sprzedawał podpisane kopie przy biurku. Dziękuję za uwagę!"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s5",
-          "DialogueText": "Well, how was it?",
-          "AudioPath": "assets/pl/Elliott/417.ogg",
+          "DialogueText": "I jak?",
+          "AudioPath": "assets/pl/Elliott/419.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Well, how was it?"
+          "DisplayPattern": "I jak?"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s6",
-          "DialogueText": "Thanks. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/418.ogg",
+          "DialogueText": "Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/420.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Thanks."
+          "DisplayPattern": "Dzięki."
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s7",
-          "DialogueText": "You know, I got the idea for writing a romance novel from you. Do you remember?",
-          "AudioPath": "assets/pl/Elliott/419.ogg",
+          "DialogueText": "Wiesz co? To był Twój pomysł na napisanie tej książki. Pamiętasz?",
+          "AudioPath": "assets/pl/Elliott/421.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s7",
           "PageIndex": 0,
-          "DisplayPattern": "You know, I got the idea for writing a romance novel from you. Do you remember?"
+          "DisplayPattern": "Wiesz co? To był Twój pomysł na napisanie tej książki. Pamiętasz?"
         },
         {
           "DialogueFrom": "Event/ArchaeologyHouse/romanceBook:s8",
-          "DialogueText": "That's why I've dedicated this book to you... {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/420.ogg",
+          "DialogueText": "Dlatego dedykuję ją Tobie... {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/422.ogg",
           "TranslationKey": "Events/ArchaeologyHouse:romanceBook:s8",
           "PageIndex": 0,
-          "DisplayPattern": "That's why I've dedicated this to you..."
+          "DisplayPattern": "Dlatego dedykuję ją Tobie..."
         },
         {
           "DialogueFrom": "Festival/fall16/Elliott_spouse",
           "DialogueText": "Zapach dymu mnie tu ściągnął, jeszcze ten ostry sos przypieczętował mój los... *gulp* {Portrait:Sad}",
-          "AudioPath": "assets/pl/Elliott/421.ogg",
+          "AudioPath": "assets/pl/Elliott/423.ogg",
           "TranslationKey": "Data/Festivals/fall16:Elliott_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Zapach dymu mnie tu ściągnął, jeszcze ten ostry sos przypieczętował mój los... *gulp*"
@@ -3413,7 +3433,7 @@
         {
           "DialogueFrom": "Festival/fall16/Elliott",
           "DialogueText": "Próbuję nakłonić Gusa żeby mi zdradził przepis na ten sos.",
-          "AudioPath": "assets/pl/Elliott/422.ogg",
+          "AudioPath": "assets/pl/Elliott/424.ogg",
           "TranslationKey": "Data/Festivals/fall16:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Próbuję nakłonić Gusa żeby mi zdradził przepis na ten sos."
@@ -3421,7 +3441,7 @@
         {
           "DialogueFrom": "Festival/fall16/Elliott_spouse_y2",
           "DialogueText": "Zwycięstwo! Wyłowiłem pięć ryb i zdobyłem '216' punktów... mój nowy rekord! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/423.ogg",
+          "AudioPath": "assets/pl/Elliott/425.ogg",
           "TranslationKey": "Data/Festivals/fall16:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Zwycięstwo! Wyłowiłem pięć ryb i zdobyłem '216' punktów... mój nowy rekord!"
@@ -3429,7 +3449,7 @@
         {
           "DialogueFrom": "Festival/fall16/Elliott_spouse_y2",
           "DialogueText": "A teraz, muszę sobie wybrać odpowiednią nagrodę... {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Elliott/424.ogg",
+          "AudioPath": "assets/pl/Elliott/426.ogg",
           "TranslationKey": "Data/Festivals/fall16:Elliott_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "A teraz, muszę sobie wybrać odpowiednią nagrodę..."
@@ -3437,7 +3457,7 @@
         {
           "DialogueFrom": "Festival/fall16/Elliott_y2",
           "DialogueText": "Ach, nie zwracaj uwagi na mój zapach... Właśnie wyszedłem z namiotu wędkarskiego z niezłym łupem! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/425.ogg",
+          "AudioPath": "assets/pl/Elliott/427.ogg",
           "TranslationKey": "Data/Festivals/fall16:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ach, nie zwracaj uwagi na mój zapach... Właśnie wyszedłem z namiotu wędkarskiego z niezłym łupem!"
@@ -3445,7 +3465,7 @@
         {
           "DialogueFrom": "Festival/fall16/Elliott_y2",
           "DialogueText": "A teraz muszę zdecydować na co chcę wydać te gwiezdne punkty... {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Elliott/426.ogg",
+          "AudioPath": "assets/pl/Elliott/428.ogg",
           "TranslationKey": "Data/Festivals/fall16:Elliott_y2",
           "PageIndex": 1,
           "DisplayPattern": "A teraz muszę zdecydować na co chcę wydać te gwiezdne punkty..."
@@ -3453,7 +3473,7 @@
         {
           "DialogueFrom": "Festival/fall27/Elliott_spouse",
           "DialogueText": "Mmph... Chyba zjadłem za dużo ciasta dyniowego.",
-          "AudioPath": "assets/pl/Elliott/427.ogg",
+          "AudioPath": "assets/pl/Elliott/429.ogg",
           "TranslationKey": "Data/Festivals/fall27:Elliott_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Mmph... Chyba zjadłem za dużo ciasta dyniowego."
@@ -3461,7 +3481,7 @@
         {
           "DialogueFrom": "Festival/fall27/Elliott",
           "DialogueText": "Witaj, {Farmer_Name}. Chłodno, prawda?",
-          "AudioPath": "assets/pl/Elliott/428.ogg",
+          "AudioPath": "assets/pl/Elliott/430.ogg",
           "TranslationKey": "Data/Festivals/fall27:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Witaj, . Chłodno, prawda?"
@@ -3469,7 +3489,7 @@
         {
           "DialogueFrom": "Festival/fall27/Elliott_spouse_y2",
           "DialogueText": "Aż przeszywa mnie dreszcz na myśl, że się stąd uwolnią...%noturn {Portrait:Sad}",
-          "AudioPath": "assets/pl/Elliott/429.ogg",
+          "AudioPath": "assets/pl/Elliott/431.ogg",
           "TranslationKey": "Data/Festivals/fall27:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Aż przeszywa mnie dreszcz na myśl, że się stąd uwolnią..."
@@ -3477,7 +3497,7 @@
         {
           "DialogueFrom": "Festival/fall27/Elliott_spouse_y2",
           "DialogueText": "Nie obawiaj się, Kochanie! Przebiłbym tą przeklętą bestię, zanim mogłaby cie tknąć.",
-          "AudioPath": "assets/pl/Elliott/430.ogg",
+          "AudioPath": "assets/pl/Elliott/432.ogg",
           "TranslationKey": "Data/Festivals/fall27:Elliott_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Nie obawiaj się, Kochanie! Przebiłbym tą przeklętą bestię, zanim mogłaby cie tknąć."
@@ -3485,7 +3505,7 @@
         {
           "DialogueFrom": "Festival/fall27/Elliott_y2",
           "DialogueText": "Och, żałosny nędzniku... w jakiej cuchnącej grocie leży Twoje królestwo?%noturn {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Elliott/431.ogg",
+          "AudioPath": "assets/pl/Elliott/433.ogg",
           "TranslationKey": "Data/Festivals/fall27:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Och, żałosny nędzniku... w jakiej cuchnącej grocie leży Twoje królestwo?"
@@ -3493,7 +3513,7 @@
         {
           "DialogueFrom": "Festival/fall27/Elliott_y2",
           "DialogueText": "Czasami, trzeba spojrzeć w otchłań, żeby poruszyć leniwą muzę...",
-          "AudioPath": "assets/pl/Elliott/432.ogg",
+          "AudioPath": "assets/pl/Elliott/434.ogg",
           "TranslationKey": "Data/Festivals/fall27:Elliott_y2",
           "PageIndex": 1,
           "DisplayPattern": "Czasami, trzeba spojrzeć w otchłań, żeby poruszyć leniwą muzę..."
@@ -3501,7 +3521,7 @@
         {
           "DialogueFrom": "Festival/spring13/Elliott_spouse",
           "DialogueText": "Cieszę się, gdy widzę jak odpoczywasz. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/433.ogg",
+          "AudioPath": "assets/pl/Elliott/435.ogg",
           "TranslationKey": "Data/Festivals/spring13:Elliott_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Cieszę się, gdy widzę jak odpoczywasz."
@@ -3509,7 +3529,7 @@
         {
           "DialogueFrom": "Festival/spring13/Elliott",
           "DialogueText": "Przerwy mogą sprawić, że staniesz się bardziej produktywny.",
-          "AudioPath": "assets/pl/Elliott/434.ogg",
+          "AudioPath": "assets/pl/Elliott/436.ogg",
           "TranslationKey": "Data/Festivals/spring13:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Przerwy mogą sprawić, że staniesz się bardziej produktywny."
@@ -3517,7 +3537,7 @@
         {
           "DialogueFrom": "Festival/spring13/Elliott_y2",
           "DialogueText": "Uważaj żeby przypadkowo nie wziąć kruczego jaja. Będą miały do Ciebie urazę do końca życia!",
-          "AudioPath": "assets/pl/Elliott/435.ogg",
+          "AudioPath": "assets/pl/Elliott/437.ogg",
           "TranslationKey": "Data/Festivals/spring13:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Uważaj żeby przypadkowo nie wziąć kruczego jaja. Będą miały do Ciebie urazę do końca życia!"
@@ -3525,7 +3545,7 @@
         {
           "DialogueFrom": "Festival/spring24/Elliott",
           "DialogueText": "Ubrałem najlepszą koszulę na ten taniec... To nie zdarza się zbyt często!",
-          "AudioPath": "assets/pl/Elliott/436.ogg",
+          "AudioPath": "assets/pl/Elliott/438.ogg",
           "TranslationKey": "Data/Festivals/spring24:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Ubrałem najlepszą koszulę na ten taniec... To nie zdarza się zbyt często!"
@@ -3533,7 +3553,7 @@
         {
           "DialogueFrom": "Festival/spring24/Elliott_spouse_y2",
           "DialogueText": "Zatańczymy? {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/437.ogg",
+          "AudioPath": "assets/pl/Elliott/439.ogg",
           "TranslationKey": "Data/Festivals/spring24:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Zatańczymy?"
@@ -3541,7 +3561,7 @@
         {
           "DialogueFrom": "Festival/spring24/Elliott_y2",
           "DialogueText": "Taniec na tle cudownych kwiatów, to przeżycie podnoszące na duchu. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/438.ogg",
+          "AudioPath": "assets/pl/Elliott/440.ogg",
           "TranslationKey": "Data/Festivals/spring24:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Taniec na tle cudownych kwiatów, to przeżycie podnoszące na duchu."
@@ -3549,7 +3569,7 @@
         {
           "DialogueFrom": "Festival/summer11/Elliott_spouse",
           "DialogueText": "Stara kajuta dobrze się trzyma. Za każdym razem kiedy wracam, czekam aż coś spróchnieje...",
-          "AudioPath": "assets/pl/Elliott/439.ogg",
+          "AudioPath": "assets/pl/Elliott/441.ogg",
           "TranslationKey": "Data/Festivals/summer11:Elliott_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Stara kajuta dobrze się trzyma. Za każdym razem kiedy wracam, czekam aż coś spróchnieje..."
@@ -3557,7 +3577,7 @@
         {
           "DialogueFrom": "Festival/summer11/Elliott",
           "DialogueText": "Wstałem trochę późno, wyszedłem i znalazłem się w środku tego gwaru!",
-          "AudioPath": "assets/pl/Elliott/440.ogg",
+          "AudioPath": "assets/pl/Elliott/442.ogg",
           "TranslationKey": "Data/Festivals/summer11:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Wstałem trochę późno, wyszedłem i znalazłem się w środku tego gwaru!"
@@ -3565,7 +3585,7 @@
         {
           "DialogueFrom": "Festival/summer11/Elliott",
           "DialogueText": "Zapomniałem, że dzisiaj jest Luau. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/441.ogg",
+          "AudioPath": "assets/pl/Elliott/443.ogg",
           "TranslationKey": "Data/Festivals/summer11:Elliott",
           "PageIndex": 1,
           "DisplayPattern": "Zapomniałem, że dzisiaj jest Luau."
@@ -3573,7 +3593,7 @@
         {
           "DialogueFrom": "Festival/summer11/Elliott_spouse_y2",
           "DialogueText": "Proponuję chwilowe 'spotkanie' w mojej starej kajucie... ale boje się, że pod moją obecność trochę zatęchła.",
-          "AudioPath": "assets/pl/Elliott/442.ogg",
+          "AudioPath": "assets/pl/Elliott/444.ogg",
           "TranslationKey": "Data/Festivals/summer11:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Proponuję chwilowe 'spotkanie' w mojej starej kajucie... ale boje się, że pod moją obecność trochę zatęchła."
@@ -3581,7 +3601,7 @@
         {
           "DialogueFrom": "Festival/summer11/Elliott_y2",
           "DialogueText": "Ach, Luau... cały zgiełk tego miasta tuż pod moimi drzwiami! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Elliott/443.ogg",
+          "AudioPath": "assets/pl/Elliott/445.ogg",
           "TranslationKey": "Data/Festivals/summer11:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ach, Luau... cały zgiełk tego miasta tuż pod moimi drzwiami!"
@@ -3589,7 +3609,7 @@
         {
           "DialogueFrom": "Festival/summer28/Elliott",
           "DialogueText": "Jeśli będziemy zanieczyszczać oceany, meduzy z pewnością wygasną. Już to się dzieje.",
-          "AudioPath": "assets/pl/Elliott/444.ogg",
+          "AudioPath": "assets/pl/Elliott/446.ogg",
           "TranslationKey": "Data/Festivals/summer28:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Jeśli będziemy zanieczyszczać oceany, meduzy z pewnością wygasną. Już to się dzieje."
@@ -3597,7 +3617,7 @@
         {
           "DialogueFrom": "Festival/summer28/Elliott",
           "DialogueText": "Jaka szkoda... Nie mamy już szacunku dla natury.",
-          "AudioPath": "assets/pl/Elliott/445.ogg",
+          "AudioPath": "assets/pl/Elliott/447.ogg",
           "TranslationKey": "Data/Festivals/summer28:Elliott",
           "PageIndex": 1,
           "DisplayPattern": "Jaka szkoda... Nie mamy już szacunku dla natury."
@@ -3605,7 +3625,7 @@
         {
           "DialogueFrom": "Festival/summer28/Elliott_spouse_y2",
           "DialogueText": "Ach, zastanawiałem się kiedy przyjdziesz! {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Elliott/446.ogg",
+          "AudioPath": "assets/pl/Elliott/448.ogg",
           "TranslationKey": "Data/Festivals/summer28:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ach, zastanawiałem się kiedy przyjdziesz!"
@@ -3613,7 +3633,7 @@
         {
           "DialogueFrom": "Festival/summer28/Elliott_spouse_y2",
           "DialogueText": "Możemy pójść za chwilę do doków, powitać naszych podwodnych przyjaciół! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/447.ogg",
+          "AudioPath": "assets/pl/Elliott/449.ogg",
           "TranslationKey": "Data/Festivals/summer28:Elliott_spouse_y2",
           "PageIndex": 1,
           "DisplayPattern": "Możemy pójść za chwilę do doków, powitać naszych podwodnych przyjaciół!"
@@ -3621,7 +3641,7 @@
         {
           "DialogueFrom": "Festival/summer28/Elliott_y2",
           "DialogueText": "Migoczące w wodzie światło ze świeczki po prostu zapiera dech w piersiach. Wygląda jak obraz budzący się do życia. {Portrait:Neutral}",
-          "AudioPath": "assets/pl/Elliott/448.ogg",
+          "AudioPath": "assets/pl/Elliott/450.ogg",
           "TranslationKey": "Data/Festivals/summer28:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Migoczące w wodzie światło ze świeczki po prostu zapiera dech w piersiach. Wygląda jak obraz budzący się do życia."
@@ -3629,7 +3649,7 @@
         {
           "DialogueFrom": "Festival/winter25/Elliott_spouse",
           "DialogueText": "Nie musisz mi nic dawać. Już od Ciebie dostałem najlepszy prezent jaki mogłem dostać... {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/449.ogg",
+          "AudioPath": "assets/pl/Elliott/451.ogg",
           "TranslationKey": "Data/Festivals/winter25:Elliott_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Nie musisz mi nic dawać. Już od Ciebie dostałem najlepszy prezent jaki mogłem dostać..."
@@ -3637,7 +3657,7 @@
         {
           "DialogueFrom": "Festival/winter25/Elliott",
           "DialogueText": "No witam {Farmer_Name}. Trochę tu chłodno, nieprawdaż?",
-          "AudioPath": "assets/pl/Elliott/450.ogg",
+          "AudioPath": "assets/pl/Elliott/452.ogg",
           "TranslationKey": "Data/Festivals/winter25:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "No witam . Trochę tu chłodno, nieprawdaż?"
@@ -3645,7 +3665,7 @@
         {
           "DialogueFrom": "Festival/winter25/Elliott_spouse_y2",
           "DialogueText": "Kochanie, tego dnia niczego od Ciebie nie oczekuję... jesteś największym prezentem, o którym mógłbym marzyć. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/451.ogg",
+          "AudioPath": "assets/pl/Elliott/453.ogg",
           "TranslationKey": "Data/Festivals/winter25:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Kochanie, tego dnia niczego od Ciebie nie oczekuję... jesteś największym prezentem, o którym mógłbym marzyć."
@@ -3653,7 +3673,7 @@
         {
           "DialogueFrom": "Festival/winter25/Elliott_y2",
           "DialogueText": "*Beknięcie* {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Elliott/452.ogg",
+          "AudioPath": "assets/pl/Elliott/454.ogg",
           "TranslationKey": "Data/Festivals/winter25:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "*Beknięcie*"
@@ -3661,7 +3681,7 @@
         {
           "DialogueFrom": "Festival/winter25/Elliott_y2",
           "DialogueText": "Ach... przepraszam. Gdzie moje maniery? Ten przyprawiony cydr jest bardzo gazowany. {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/453.ogg",
+          "AudioPath": "assets/pl/Elliott/455.ogg",
           "TranslationKey": "Data/Festivals/winter25:Elliott_y2",
           "PageIndex": 1,
           "DisplayPattern": "Ach... przepraszam. Gdzie moje maniery? Ten przyprawiony cydr jest bardzo gazowany."
@@ -3669,7 +3689,7 @@
         {
           "DialogueFrom": "Festival/winter8/Elliott_spouse",
           "DialogueText": "Wiem, że mnie pobijesz w zawodach, ale nie obchodzi mnie to. Jestem tu tylko dla dobrej zabawy. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/454.ogg",
+          "AudioPath": "assets/pl/Elliott/456.ogg",
           "TranslationKey": "Data/Festivals/winter8:Elliott_spouse",
           "PageIndex": 0,
           "DisplayPattern": "Wiem, że mnie pobijesz w zawodach, ale nie obchodzi mnie to. Jestem tu tylko dla dobrej zabawy."
@@ -3677,7 +3697,7 @@
         {
           "DialogueFrom": "Festival/winter8/Elliott",
           "DialogueText": "Startuję w zawodach w łowieniu ryb. Czemu nie?",
-          "AudioPath": "assets/pl/Elliott/455.ogg",
+          "AudioPath": "assets/pl/Elliott/457.ogg",
           "TranslationKey": "Data/Festivals/winter8:Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Startuję w zawodach w łowieniu ryb. Czemu nie?"
@@ -3685,7 +3705,7 @@
         {
           "DialogueFrom": "Festival/winter8/Elliott",
           "DialogueText": "Jednakże, Willy rzadko przegrywa.",
-          "AudioPath": "assets/pl/Elliott/456.ogg",
+          "AudioPath": "assets/pl/Elliott/458.ogg",
           "TranslationKey": "Data/Festivals/winter8:Elliott",
           "PageIndex": 1,
           "DisplayPattern": "Jednakże, Willy rzadko przegrywa."
@@ -3693,7 +3713,7 @@
         {
           "DialogueFrom": "Festival/winter8/Elliott_spouse_y2",
           "DialogueText": "Ćwiczyłem technikę łowienia. Nie dam Ci forów, Kochanie. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/457.ogg",
+          "AudioPath": "assets/pl/Elliott/459.ogg",
           "TranslationKey": "Data/Festivals/winter8:Elliott_spouse_y2",
           "PageIndex": 0,
           "DisplayPattern": "Ćwiczyłem technikę łowienia. Nie dam Ci forów, Kochanie."
@@ -3701,7 +3721,7 @@
         {
           "DialogueFrom": "Festival/winter8/Elliott_y2",
           "DialogueText": "Spójrz tu, to moja sekretna broń... flaszka dobrego alkoholu, żeby zwilżyć usta na chwilę przed usłyszeniem gwizdka...",
-          "AudioPath": "assets/pl/Elliott/458.ogg",
+          "AudioPath": "assets/pl/Elliott/460.ogg",
           "TranslationKey": "Data/Festivals/winter8:Elliott_y2",
           "PageIndex": 0,
           "DisplayPattern": "Spójrz tu, to moja sekretna broń... flaszka dobrego alkoholu, żeby zwilżyć usta na chwilę przed usłyszeniem gwizdka..."
@@ -3709,7 +3729,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Elliott:s0",
           "DialogueText": "{Farmer_Name}, to przepiękny prezent! Dziękuję!",
-          "AudioPath": "assets/pl/Elliott/459.ogg",
+          "AudioPath": "assets/pl/Elliott/461.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Elliott:s0",
           "PageIndex": 0,
           "DisplayPattern": ", to przepiękny prezent! Dziękuję!"
@@ -3717,7 +3737,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Elliott:s1",
           "DialogueText": "To dla mnie? Cudownie!",
-          "AudioPath": "assets/pl/Elliott/460.ogg",
+          "AudioPath": "assets/pl/Elliott/462.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Elliott:s1",
           "PageIndex": 0,
           "DisplayPattern": "To dla mnie? Cudownie!"
@@ -3725,7 +3745,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Elliott:s2",
           "DialogueText": "Hmm... nie jestem fanem takich prezentów.",
-          "AudioPath": "assets/pl/Elliott/461.ogg",
+          "AudioPath": "assets/pl/Elliott/463.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Elliott:s2",
           "PageIndex": 0,
           "DisplayPattern": "Hmm... nie jestem fanem takich prezentów."
@@ -3733,7 +3753,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Elliott:s3",
           "DialogueText": "Przez to czuję się okropnie. Będę musiał się tego pozbyć.",
-          "AudioPath": "assets/pl/Elliott/462.ogg",
+          "AudioPath": "assets/pl/Elliott/464.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Elliott:s3",
           "PageIndex": 0,
           "DisplayPattern": "Przez to czuję się okropnie. Będę musiał się tego pozbyć."
@@ -3741,7 +3761,7 @@
         {
           "DialogueFrom": "NPCGiftTastes/Elliott:s4",
           "DialogueText": "Och, prezent! Dziękuję!",
-          "AudioPath": "assets/pl/Elliott/463.ogg",
+          "AudioPath": "assets/pl/Elliott/465.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Elliott:s4",
           "PageIndex": 0,
           "DisplayPattern": "Och, prezent! Dziękuję!"
@@ -3749,7 +3769,7 @@
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Elliott",
           "DialogueText": "Widziałem {2} w sklepie u Pierra! Pachniało po prostu przecudownie... I to bardzo!",
-          "AudioPath": "assets/pl/Elliott/464.ogg",
+          "AudioPath": "assets/pl/Elliott/466.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Widziałem {2} w sklepie u Pierra! Pachniało po prostu przecudownie... I to bardzo!"
@@ -3757,7 +3777,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Elliott",
           "DialogueText": "Heh... właśnie to do mnie dotarło... {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/465.ogg",
+          "AudioPath": "assets/pl/Elliott/467.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Heh... właśnie to do mnie dotarło..."
@@ -3765,7 +3785,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Elliott",
           "DialogueText": "Jesteśmy na szczycie, ale nie tylko fizycznie... Ale i metaforycznie.",
-          "AudioPath": "assets/pl/Elliott/466.ogg",
+          "AudioPath": "assets/pl/Elliott/468.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Elliott",
           "PageIndex": 1,
           "DisplayPattern": "Jesteśmy na szczycie, ale nie tylko fizycznie... Ale i metaforycznie."
@@ -3773,7 +3793,7 @@
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Elliott",
           "DialogueText": "Jak poetycko! {Portrait:Love}",
-          "AudioPath": "assets/pl/Elliott/467.ogg",
+          "AudioPath": "assets/pl/Elliott/469.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Elliott",
           "PageIndex": 2,
           "DisplayPattern": "Jak poetycko!"
@@ -3781,7 +3801,7 @@
         {
           "DialogueFrom": "MovieReactions/Elliott_love_BeforeMovie",
           "DialogueText": "Czuję przez swą skórę, że ta noc będzie znakomita.",
-          "AudioPath": "assets/pl/Elliott/468.ogg",
+          "AudioPath": "assets/pl/Elliott/470.ogg",
           "TranslationKey": "Strings/MovieReactions:Elliott_love_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czuję przez swą skórę, że ta noc będzie znakomita."
@@ -3789,7 +3809,7 @@
         {
           "DialogueFrom": "MovieReactions/Elliott_love_AfterMovie",
           "DialogueText": "Czuję, że moja dusza jest wypełniona... Jakby cała energia pochodząca z filmu, wniknęła w moje ciało. Niesamowite!",
-          "AudioPath": "assets/pl/Elliott/469.ogg",
+          "AudioPath": "assets/pl/Elliott/471.ogg",
           "TranslationKey": "Strings/MovieReactions:Elliott_love_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czuję, że moja dusza jest wypełniona... Jakby cała energia pochodząca z filmu, wniknęła w moje ciało. Niesamowite!"
@@ -3797,7 +3817,7 @@
         {
           "DialogueFrom": "MovieReactions/Elliott_like_BeforeMovie",
           "DialogueText": "Unikałem wszelkich informacji i spoilerów o tym filmie... Lubię, gdy to co oglądam mnie zaskakuje!",
-          "AudioPath": "assets/pl/Elliott/470.ogg",
+          "AudioPath": "assets/pl/Elliott/472.ogg",
           "TranslationKey": "Strings/MovieReactions:Elliott_like_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Unikałem wszelkich informacji i spoilerów o tym filmie... Lubię, gdy to co oglądam mnie zaskakuje!"
@@ -3805,7 +3825,7 @@
         {
           "DialogueFrom": "MovieReactions/Elliott_like_AfterMovie",
           "DialogueText": "Bardzo interesujące... Będę rozmyślać o tym przez dłuższą chwilę.",
-          "AudioPath": "assets/pl/Elliott/471.ogg",
+          "AudioPath": "assets/pl/Elliott/473.ogg",
           "TranslationKey": "Strings/MovieReactions:Elliott_like_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Bardzo interesujące... Będę rozmyślać o tym przez dłuższą chwilę."
@@ -3813,7 +3833,7 @@
         {
           "DialogueFrom": "MovieReactions/Elliott_dislike_BeforeMovie",
           "DialogueText": "Kłamstwem byłoby powiedzieć, że nie mogę się doczekać... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Elliott/472.ogg",
+          "AudioPath": "assets/pl/Elliott/474.ogg",
           "TranslationKey": "Strings/MovieReactions:Elliott_dislike_BeforeMovie",
           "PageIndex": 0,
           "DisplayPattern": "Kłamstwem byłoby powiedzieć, że nie mogę się doczekać..."
@@ -3821,7 +3841,7 @@
         {
           "DialogueFrom": "MovieReactions/Elliott_dislike_AfterMovie",
           "DialogueText": "To było bardzo prozaiczne. Nie sądzisz?",
-          "AudioPath": "assets/pl/Elliott/473.ogg",
+          "AudioPath": "assets/pl/Elliott/475.ogg",
           "TranslationKey": "Strings/MovieReactions:Elliott_dislike_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "To było bardzo prozaiczne. Nie sądzisz?"
@@ -3829,7 +3849,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Elliott_marriage",
           "DialogueText": "No no, co my tu mamy? Piękna pustynna róża! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/474.ogg",
+          "AudioPath": "assets/pl/Elliott/476.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Elliott_marriage",
           "PageIndex": 0,
           "DisplayPattern": "No no, co my tu mamy? Piękna pustynna róża!"
@@ -3837,7 +3857,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Elliott_marriage",
           "DialogueText": "Pij dużo wody, kochanie.",
-          "AudioPath": "assets/pl/Elliott/475.ogg",
+          "AudioPath": "assets/pl/Elliott/477.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Elliott_marriage",
           "PageIndex": 1,
           "DisplayPattern": "Pij dużo wody, kochanie."
@@ -3845,7 +3865,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Elliott",
           "DialogueText": "*bełkot*... Hmm, to uczucie w palcach jest delikatne, ale bardzo treściwe. Mimo to jest trochę łagodniejsze niż w domu...",
-          "AudioPath": "assets/pl/Elliott/476.ogg",
+          "AudioPath": "assets/pl/Elliott/478.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Elliott",
           "PageIndex": 0,
           "DisplayPattern": "*bełkot*... Hmm, to uczucie w palcach jest delikatne, ale bardzo treściwe. Mimo to jest trochę łagodniejsze niż w domu..."
@@ -3853,7 +3873,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Elliott",
           "DialogueText": "Och, wybacz mi! Stałem się w pewnym sensie koneserem piasku. {Portrait:Happy}",
-          "AudioPath": "assets/pl/Elliott/477.ogg",
+          "AudioPath": "assets/pl/Elliott/479.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Elliott",
           "PageIndex": 1,
           "DisplayPattern": "Och, wybacz mi! Stałem się w pewnym sensie koneserem piasku."
@@ -3861,7 +3881,7 @@
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Elliott",
           "DialogueText": "Ocean wyrzucił na brzeg ciekawe rzeczy. Wymienimy się?",
-          "AudioPath": "assets/pl/Elliott/478.ogg",
+          "AudioPath": "assets/pl/Elliott/480.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Elliott",
           "PageIndex": 0,
           "DisplayPattern": "Ocean wyrzucił na brzeg ciekawe rzeczy. Wymienimy się?"
@@ -3869,7 +3889,7 @@
         {
           "DialogueFrom": "ElliottHouse_Elliott_Greeting1",
           "DialogueText": "Dobrze, że jesteś.",
-          "AudioPath": "assets/pl/Elliott/479.ogg",
+          "AudioPath": "assets/pl/Elliott/481.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ElliottHouse_Elliott_Greeting1",
           "PageIndex": 0,
           "DisplayPattern": "Dobrze, że jesteś."
@@ -3877,7 +3897,7 @@
         {
           "DialogueFrom": "ElliottHouse_Elliott_Greeting2",
           "DialogueText": "Cześć.",
-          "AudioPath": "assets/pl/Elliott/480.ogg",
+          "AudioPath": "assets/pl/Elliott/482.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ElliottHouse_Elliott_Greeting2",
           "PageIndex": 0,
           "DisplayPattern": "Cześć."
@@ -3885,7 +3905,7 @@
         {
           "DialogueFrom": "ElliottHouse_Elliott_Greeting3",
           "DialogueText": "Cześć, {Farmer_Name}",
-          "AudioPath": "assets/pl/Elliott/481.ogg",
+          "AudioPath": "assets/pl/Elliott/483.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ElliottHouse_Elliott_Greeting3",
           "PageIndex": 0,
           "DisplayPattern": "Cześć, {0}"
