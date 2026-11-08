@@ -647,7 +647,17 @@ namespace VoiceOverFrameworkMod
                                 qSlots++;
                         }
                         if (i == current)
-                            return serial; // the displayed text is the question itself
+                        {
+                            // Only the question text itself lives in this event slot. After the
+                            // player answers, the game re-parses the same Dialogue with the NPC's
+                            // "Characters/Dialogue/<npc>:<responseKey>" text, which the pack keys
+                            // as ordinary dialogue, so hand those pages to the text-based lookup.
+                            string questionText = qSegs.Select(x => x?.Trim() ?? string.Empty)
+                                .FirstOrDefault(x => x.Length > 0 && !x.StartsWith("$q", StringComparison.OrdinalIgnoreCase) && !x.StartsWith("$r", StringComparison.OrdinalIgnoreCase));
+                            if (currentDisplayedText == null || questionText == null || MatchesDisplayed(questionText, currentDisplayedText))
+                                return serial;
+                            return null;
+                        }
                         serial += Math.Max(1, qSlots);
                         continue;
                     }

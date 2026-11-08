@@ -14,6 +14,21 @@ namespace VoiceOverFrameworkMod
 
 
 
+        /// <summary>Split a pack text on the game's gender separator ('¦'); whitespace-only parts are dropped.</summary>
+        static IEnumerable<string> SplitGenderVariants(string text)
+        {
+            if (string.IsNullOrWhiteSpace(text))
+                yield break;
+            if (text.IndexOf('¦') < 0)
+            {
+                yield return text;
+                yield break;
+            }
+            foreach (string part in text.Split('¦'))
+                if (!string.IsNullOrWhiteSpace(part))
+                    yield return part.Trim();
+        }
+
         //helper used by loader and CheckForDialogueV2 to canonicalize DisplayPattern text
         static string CanonDisplay(string s)
         {
@@ -171,11 +186,13 @@ namespace VoiceOverFrameworkMod
                                     else
                                         keyForLookup = entry.DialogueText;
 
-                                    if (!string.IsNullOrWhiteSpace(keyForLookup))
+                                    // A '¦' in the text separates the male and female wording of one line
+                                    // (the game shows only one of them), so index each variant on its own.
+                                    foreach (string textVariant in SplitGenderVariants(keyForLookup))
                                     {
-                                        if (!entriesDict.TryGetValue(keyForLookup, out var existingTextAudio))
+                                        if (!entriesDict.TryGetValue(textVariant, out var existingTextAudio))
                                         {
-                                            entriesDict[keyForLookup] = audioPath;
+                                            entriesDict[textVariant] = audioPath;
                                         }
                                         else if (!string.Equals(existingTextAudio, audioPath, StringComparison.OrdinalIgnoreCase))
                                         {
@@ -183,7 +200,7 @@ namespace VoiceOverFrameworkMod
                                             string packDirForText = Path.GetDirectoryName(filePath) ?? string.Empty;
                                             if (!File.Exists(Path.Combine(packDirForText, existingTextAudio)) &&
                                                 File.Exists(Path.Combine(packDirForText, audioPath)))
-                                                entriesDict[keyForLookup] = audioPath;
+                                                entriesDict[textVariant] = audioPath;
                                         }
                                     }
 
@@ -223,8 +240,9 @@ namespace VoiceOverFrameworkMod
 
                                     //V2 DisplayPattern index (canonical form)
                                     if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DisplayPattern))
+                                    foreach (string patternVariant in SplitGenderVariants(entry.DisplayPattern))
                                     {
-                                        var dpKey = CanonDisplay(entry.DisplayPattern);
+                                        var dpKey = CanonDisplay(patternVariant);
                                         if (!entriesByDisplayPattern.TryGetValue(dpKey, out var existingAudio))
                                         {
                                             entriesByDisplayPattern[dpKey] = audioPath;
