@@ -200,13 +200,21 @@ namespace VoiceOverFrameworkMod
 
             packUsed = pack;
 
-            // Try exact TK match
+            // Try exact TK match; skip entries whose recording doesn't exist yet so callers
+            // can fall back to text matching (which may find another take of the same line).
             foreach (var tk in tkCandidates)
             {
                 if (pack.EntriesByTranslationKey.TryGetValue(tk, out var rel))
                 {
+                    string candidatePath = PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
+                    if (!File.Exists(candidatePath))
+                    {
+                        if (Config?.developerModeOn == true)
+                            Monitor.Log($"[V2-TK] key='{tk}' -> '{rel}' not recorded yet, trying next candidate", LogLevel.Debug);
+                        continue;
+                    }
                     matchedKey = tk;
-                    return PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
+                    return candidatePath;
                 }
             }
 

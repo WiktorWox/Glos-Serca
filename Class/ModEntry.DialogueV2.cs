@@ -139,6 +139,10 @@ namespace VoiceOverFrameworkMod
             if (isDialogueBoxVisible)
             {
                 var dialogueBox = Game1.activeClickableMenu as DialogueBox;
+                // While the box animates open/closed, getCurrentString() can already return the
+                // next "$e" segment; don't match (and start audio) on that transient text.
+                if (dialogueBox != null && dialogueBox.transitioning)
+                    return;
                 currentDisplayedString = dialogueBox?.getCurrentString();
             }
 
@@ -193,6 +197,41 @@ namespace VoiceOverFrameworkMod
 
             if (Config.developerModeOn)
                 Monitor.Log($"[V2-KEY] speaker='{currentSpeaker.Name}' displayed='{currentDisplayedString}' removable=[{string.Join("|", removable)}] patternKey='{patternKey}' inPack={(selectedPack?.Entries?.ContainsKey(patternKey) == true ? "yes" : "no")}", LogLevel.Debug);
+
+            // ─────────────────────────────────────────────────────────────
+            // TranslationKey path (preferred): the game tells us which line this is
+            // (e.g. "Characters/Dialogue/Abigail:Mon"), so match on identity instead of
+            // the exact wording, which drifts between translation versions.
+            // Page order in the pack follows the generator: gender variants and #$b# pages
+            // are separate pages, so prefer the page whose display pattern matches what is
+            // on screen, then the current page index, then the bare key.
+            // ─────────────────────────────────────────────────────────────
+            string gameTk = d?.TranslationKey;
+            if (!string.IsNullOrWhiteSpace(gameTk) && selectedPack != null && selectedPack.FormatMajor >= 2 &&
+                selectedPack.EntriesByTranslationKey != null && selectedPack.EntriesByTranslationKey.Count > 0)
+            {
+                var tkCandidates = new List<string>();
+                string textAudio = null;
+                selectedPack.Entries?.TryGetValue(patternKey, out textAudio);
+                for (int pg = 0; pg < 16; pg++)
+                {
+                    string k = $"{gameTk}:p{pg}";
+                    if (!selectedPack.EntriesByTranslationKey.TryGetValue(k, out var rel)) continue;
+                    if (!string.IsNullOrWhiteSpace(textAudio) && string.Equals(rel, textAudio, StringComparison.OrdinalIgnoreCase))
+                        tkCandidates.Insert(0, k); // page confirmed by the displayed text
+                }
+                tkCandidates.Add($"{gameTk}:p{pageZero}");
+                tkCandidates.Add(gameTk);
+
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-TK] gameKey='{gameTk}' page={pageZero} candidates=[{string.Join("|", tkCandidates.Distinct())}]", LogLevel.Debug);
+
+                if (TryToPlayVoiceByTranslationKeys(currentSpeaker.Name, tkCandidates, LocalizedContentManager.CurrentLanguageCode))
+                {
+                    _lastPlayedLookupKey = finalLookupKey;
+                    return;
+                }
+            }
 
             // ─────────────────────────────────────────────────────────────
             // Cross-language path → DictionaryV2 decides (exact → dict fuzzy over GAME language keys)
