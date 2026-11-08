@@ -5,6 +5,8 @@
   "config.mute-typing.tooltip": "If checked, disables the default 'tick' sound when dialogue appears.",
   "config.master-volume.name": "Master Volume",
   "config.master-volume.tooltip": "Adjusts the overall volume for voice lines (multiplied by game sound volume).",
+  "config.audio-start.name": "Audio Start Delay",
+  "config.audio-start.tooltip": "Ticks to wait after dialogue text appears before the voice starts. Lower values start sooner but may let a line start on the previous box; higher values add a noticeable delay.",
   "config.section.voice-packs.name": "Voice Pack Selection",
   "config.voice-packs.description": "Select which voice pack to use for each character. Requires loaded voice packs.",
   "config.voice-packs.none-loaded": "No voice packs loaded. Install voice content packs first.",
