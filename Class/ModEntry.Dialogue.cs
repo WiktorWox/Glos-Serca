@@ -509,7 +509,12 @@ namespace VoiceOverFrameworkMod
                     if (isSpeak || isSplit || isTextAboveHead)
                     {
                         skipQuickQuestionResponseCommand = false;
-                        continue;
+                        string respActor = line.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
+                            .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+                        // The materialized answer was already counted above only if it is this
+                        // speaker's; another actor's line must still be counted normally.
+                        if (respActor != null && respActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
+                            continue;
                     }
 
                     // A pause or bookkeeping command may appear between the
@@ -554,6 +559,11 @@ namespace VoiceOverFrameworkMod
                     for (int branch = 1; branch < sections.Length; branch++)
                     {
                         string branchText = sections[branch];
+                        // Only this speaker's branches occupy slots in this speaker's numbering.
+                        string branchActor = branchText.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
+                            .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+                        if (branchActor == null || !branchActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
+                            continue;
                         int firstQuote = branchText.IndexOf('"');
                         int lastQuote = branchText.LastIndexOf('"');
                         string branchPayload = firstQuote >= 0 && lastQuote > firstQuote
