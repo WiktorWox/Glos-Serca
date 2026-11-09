@@ -66,3 +66,41 @@ Warto też nawiązać kontakt z autorem PR: dwa zespoły utrzymują równoległe
 - **Własny `UniqueID` moda.** Dziś to `Darkmushu1.VoiceOverFrameworkMod`, identyfikator oryginału: SMAPI pokazuje fałszywą aktualizację, a instalacja obu modów naraz kończy się konfliktem. Jeśli upstream przyjmie poprawki z gałęzi, Głos Serca może wrócić do bycia zwykłym content packiem bez kodu.
 - **Kontrola numeracji pozostałych postaci.** Metoda z Abigail (odchylenia długości tekstu vs czasu nagrania, potem odsłuch kilku plików) dla Leah, Shane, Pam, Willy, Marnie, Caroline, Maru, Wizard, Linus, Leo, Kent, George, Sam.
 - **Willy 154**: JSON oczekuje wersji męskiej, istnieje tylko żeńska. Do wyjaśnienia z zespołem.
+
+## 4. Stan na 9 listopada 2026
+
+### Źródło prawdy dla definicji paczki
+
+Pliki `<Postać>_pt-BR.json` zespołu leżą na Dysku Google (folder projektu, podfoldery „ROM/NRO – <Postać>”, obok list kwestii dla aktorów i wgranych nagrań). 11 definicji w repozytorium (Alex, Clint, Demetrius, Elliott, Emily, Evelyn, Gus, Leo, Lewis, Robin, Sandy) było angielskimi szablonami z częściowym tłumaczeniem; zostały zastąpione wersjami z Dysku, pozostałe 21 było identycznych. Numeracja slotów wydarzeń w plikach z Dysku odpowiada polskiemu skryptowi (warianty płci `^` to osobne sloty), więc narzędzie do przenumerowania nie jest potrzebne.
+
+Od tego czasu repozytorium ma już wpisy, których na Dysku nie ma (patrz niżej). Zasada do ustalenia z zespołem: albo Dysk jest nadrzędny i Wiktor przenosi tam zmiany z repozytorium, albo odwrotnie; dwa źródła prawdy rozjadą się szybko.
+
+### Kwestie do nagrania dodane w repozytorium
+
+| Postać | Pliki | Skąd | Lista dla aktora |
+|---|---|---|---|
+| Leo | 129–148 | pierwsze spotkanie w chacie (IslandHut 1039573); Leo gra tam jako aktor `ParrotBoy` | `VoiceSources/Leo/Leo_IslandHut_pierwsze_spotkanie.txt` |
+| Parrot (papuga) | 1–2 | dwa mówione dymki w tej samej scenie (aktor `Toddler`); skrzeki `*Kra*` mają własny dźwięk gry | `VoiceSources/Parrot/Parrot_IslandHut.txt` |
+| Caroline | 158–160 | napisy cutscenki z herbatą (Sunroom 719926) | `VoiceSources/Caroline/Caroline_cutscenki.txt` |
+| Maru | 492–496 | napisy cutscenki z kometą (Mountain 5183338) | `VoiceSources/Maru/Maru_cutscenki.txt` |
+| Abigail | 573–577 | okrzyki w Prairie King we dwoje (SeedShop 1) | `VoiceSources/Abigail/Abigail_cutscenki.txt` |
+
+Mod obsługuje je przez aliasy aktorów (`ParrotBoy → Leo`, `Toddler → Parrot`, wbudowane; `ActorAliases` w `config.json` tylko dopisuje) oraz moduł napisów cutscenek (`Class/ModEntry.Cutscenes.cs`), który czyta wyświetlany tekst z obiektu gry i gra wpis o kluczu tekstowym gry (`Strings/Locations:Caroline_Tea_Event1` itd.). Wszystkie pozostałe komendy `cutscene` (samolot, robot, krowy, balon, gra planszowa) nie mają tekstu.
+
+### Czego mod nie obejmuje (świadomie, na dziś)
+
+- **Postacie mówiące w wydarzeniach bez paczki**, choć jessevang ma dla nich szablony: Krobus (185 kwestii), Morris (76), Dwarf (69), Marlon (61), Gunther (35), Grandpa (30), Governor (20), MrQi (16), Bear (9), Birdie (1). Na Dysku nie ma dla nich folderów. Henchman i Bouncer nie mają nawet szablonu.
+- **Dymki w terapii ubraniowej** (ManorHouse 2123243): aktor `ClothesTherapyCharacters` to arkusz kilku mieszkańców (Shane, Robin, Abigail/Lewis), pięć krótkich dymków. Gdyby zespół chciał, wystarczy paczka o nazwie postaci `ClothesTherapyCharacters` z pięcioma wpisami nagranymi przez właściwych aktorów, bez zmian w kodzie.
+- **Podpowiedzi o prezentach** („{0} nie cierpi '{1}'”, `Strings/StringsFromCSFiles:NPC.cs.41xx`): szablony z podstawianym imieniem i przedmiotem, wspólne dla wszystkich NPC; nienagrywalne bez składania z fragmentów.
+- **Listy** (`Data/mail`) i **telewizja**: mod nic z nimi nie robi; turecki PR do upstreamu ma do tego kod (sekcja 2).
+
+### Znana niedoróbka
+
+Odpowiedzi w pytaniach `$q` w środku kwestii (np. Abigail na cmentarzu, `Event_Grave1..4`) trafiają do dopasowania tekstowego. Gdy to samo zdanie występuje w kilku odpowiedziach („Całe moje życie tu mieszkałam…” w Event_Grave2/3/4), gra pierwszy zarejestrowany wpis, czyli dobre słowa, ale inny dubel. Rozwiązanie: po odpowiedzi rozpoznać klucz po pierwszej stronie dialogu (jest unikalna) i grać dalsze strony po kluczu.
+
+### Próby TTS do testów (nie do publikacji)
+
+- Jedyny lokalny model z polskim: Chatterbox w wersji wielojęzycznej (`chatterbox-tts` ≥ 0.1.7, klasa `ChatterboxMultilingualTTS`, `language_id="pl"`, MIT, wagi 3,2 GB). Kokoro i Orpheus nie mają polskiego.
+- Generowanie na M4 Max (MPS): około 2 s obliczeń na sekundę mowy; 21 kwestii Leo w 137 s. Barwa z `audio_prompt_path` (23 s zlepionych nagrań aktora) – klonowanie zero-shot, bez trenowania. Portret z paczki steruje pokrętłami `exaggeration`/`cfg_weight`.
+- Wygenerowane pliki służą wyłącznie do testów działania moda i są wykluczone z gita (`.git/info/exclude`). Każde użycie głosu aktora, także testowe, wymaga jego zgody.
+- Fine-tuning (dotrenowanie modelu na nagraniach aktora) to osobny, większy temat: potrzebne godziny audio z transkrypcją i GPU; kandydaci to Chatterbox, F5-TTS (MIT) lub Orpheus. Nagrania Głosu Serca są do tego gotowym materiałem, ale decyzja i zgody aktorów są warunkiem wstępnym.
