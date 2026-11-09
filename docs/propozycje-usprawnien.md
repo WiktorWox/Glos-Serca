@@ -94,6 +94,12 @@ Mod obsługuje je przez aliasy aktorów (`ParrotBoy → Leo`, `Toddler → Parro
 - **Podpowiedzi o prezentach** („{0} nie cierpi '{1}'”, `Strings/StringsFromCSFiles:NPC.cs.41xx`): szablony z podstawianym imieniem i przedmiotem, wspólne dla wszystkich NPC; nienagrywalne bez składania z fragmentów.
 - **Listy** (`Data/mail`) i **telewizja**: mod nic z nimi nie robi; turecki PR do upstreamu ma do tego kod (sekcja 2).
 
+### Kwestie bez mówcy w wydarzeniach (narrator, Kel)
+
+Komenda `message "..."` otwiera okno dialogowe bez postaci (`Game1.currentSpeaker == null`): tak mówi Kel w Forest 54 i jego gałęzi `choseInternet` („KEL: …”, „GŁOS Z ODDALI: …”), tak też pojawiają się didaskalia i listy czytane w scenkach. Generator szablonów `create_template` z frameworka przypisuje te linie ostatniej mówiącej postaci, więc w paczce Leah są to sloty s7, s10–s12, s15 (pliki 356, 359–361, 364) i `choseInternet` s1, s2, s5 (375, 376, 379), nagrane. Ścieżka wydarzeń w modzie pomijała jednak każde okno bez mówcy („narrator can be added later”), więc żadna z nich nie grała. Łącznie dotyczyło to 77 linii w 26 paczkach (Sebastian 9, Maru 9, Leah 8, Emily 6, Gus 4, Harvey 4, …).
+
+Od 9 listopada mod odtwarza licznik generatora także dla takich okien (`GeneratorSpeakerForCurrent` w `Class/ModEntry.EventIndex.cs`): ustala, kto mówił ostatnio, i gra wpis `Events/<mapa>:<id>:s<n>` z jego paczki. Celowo bez dopasowania tekstowego, żeby linia narratora nie trafiła w cudzą paczkę. Sprawdzone w grze na Forest 54 (20 linii, w tym 5 Kela, wszystkie zagrały). Kwestia, kto nagrywa Kela, pozostaje decyzją zespołu: dziś gra to, co leży pod tymi numerami w paczce Leah.
+
 ### Znana niedoróbka
 
 Odpowiedzi w pytaniach `$q` w środku kwestii (np. Abigail na cmentarzu, `Event_Grave1..4`) trafiają do dopasowania tekstowego. Gdy to samo zdanie występuje w kilku odpowiedziach („Całe moje życie tu mieszkałam…” w Event_Grave2/3/4), gra pierwszy zarejestrowany wpis, czyli dobre słowa, ale inny dubel. Rozwiązanie: po odpowiedzi rozpoznać klucz po pierwszej stronie dialogu (jest unikalna) i grać dalsze strony po kluczu.
