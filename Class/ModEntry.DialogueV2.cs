@@ -608,8 +608,15 @@ namespace VoiceOverFrameworkMod
             if (_sameLineStableTicks < Config.TextStabilizeTicks)
                 return;
 
+            // "message" boxes have no speaker. The template generator files them under the last character
+            // who spoke (Kel's lines sit in Leah's pack), so resolve that character and play from their pack.
+            string speakerForLookup = currentSpeaker?.Name;
             if (currentSpeaker == null)
-                return; // narrator can be added later
+            {
+                speakerForLookup = GeneratorSpeakerForCurrent(GetCurrentEvent());
+                if (string.IsNullOrWhiteSpace(speakerForLookup))
+                    return;
+            }
 
             // normalize visible farmer name to '@' before stripping (events)
             string displayForMatch = currentDisplayedString ?? string.Empty;
@@ -638,15 +645,11 @@ namespace VoiceOverFrameworkMod
                 return;
 
             // select pack
-            VoicePack selectedPack = null;
-            if (currentSpeaker != null)
+            VoicePack selectedPack = GetSelectedVoicePack(speakerForLookup);
+            if (selectedPack == null || selectedPack.FormatMajor < 2)
             {
-                selectedPack = GetSelectedVoicePack(currentSpeaker.Name);
-                if (selectedPack == null || selectedPack.FormatMajor < 2)
-                {
-                    _lastPlayedLookupKey = patternKey;
-                    return;
-                }
+                _lastPlayedLookupKey = patternKey;
+                return;
             }
 
             // Events have a stable identity even when the displayed text differs between
@@ -656,22 +659,28 @@ namespace VoiceOverFrameworkMod
                 string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
                 int? eventSpeakIndex = ComputeSpeakIndexForCurrent(
                     currentEvent,
-                    currentSpeaker?.Name,
+                    speakerForLookup,
                     pageZero,
                     currentDisplayedText: currentDisplayedString);
                 if (Config.developerModeOn)
-                    Monitor.Log($"[V2-EVENT] base='{eventBaseKey}' speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} page={pageZero} speaker='{currentSpeaker?.Name}' displayed='{currentDisplayedString}'", LogLevel.Debug);
+                    Monitor.Log($"[V2-EVENT] base='{eventBaseKey}' speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} page={pageZero} speaker='{speakerForLookup}'{(currentSpeaker == null ? " (message)" : "")} displayed='{currentDisplayedString}'", LogLevel.Debug);
                 if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
                 {
                     string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
                     if (TryToPlayVoiceByTranslationKeys(
-                            currentSpeaker.Name,
+                            speakerForLookup,
                             new[] { eventTranslationKey },
                             LocalizedContentManager.CurrentLanguageCode))
                     {
                         _lastPlayedLookupKey = patternKey;
                         return;
                     }
+                }
+                if (currentSpeaker == null)
+                {
+                    // narration is keyed by slot only; no text-based fallback against another character's pack
+                    _lastPlayedLookupKey = patternKey;
+                    return;
                 }
             }
 

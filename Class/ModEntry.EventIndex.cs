@@ -212,18 +212,7 @@ namespace VoiceOverFrameworkMod
                 if (EvQuickQuestionRx.IsMatch(line) && line.IndexOf("(break)", StringComparison.OrdinalIgnoreCase) >= 0)
                 {
                     string[] pieces = line.Split(new[] { "(break)" }, StringSplitOptions.None);
-
-                    // Did the game already insert the chosen branch right after this command?
-                    int chosen = -1, materialized = 0;
-                    for (int b = 1; b < pieces.Length && chosen < 0; b++)
-                    {
-                        string[] gameCmds = pieces[b].Split('\\').Select(ResolveLikeGame).ToArray();
-                        bool match = gameCmds.Length > 0 && i + gameCmds.Length < cmds.Length;
-                        for (int c = 0; c < gameCmds.Length && match; c++)
-                            if (!string.Equals(cmds[i + 1 + c]?.Trim(), gameCmds[c], StringComparison.Ordinal))
-                                match = false;
-                        if (match) { chosen = b; materialized = gameCmds.Length; }
-                    }
+                    int materialized = MaterializedBranchLength(cmds, i, pieces, out int chosen);
                     bool currentInside = materialized > 0 && current > i && current <= i + materialized;
                     string currentCmdText = currentInside ? cmds[current].Trim() : null;
 
@@ -287,6 +276,81 @@ namespace VoiceOverFrameworkMod
                 }
                 if (i == current)
                     return null;
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// Did the game already insert the chosen quickQuestion branch right after command <paramref name="i"/>?
+        /// Returns the number of inserted commands (0 = not materialized) and which branch it was.
+        /// </summary>
+        private static int MaterializedBranchLength(string[] cmds, int i, string[] pieces, out int chosen)
+        {
+            chosen = -1;
+            for (int b = 1; b < pieces.Length; b++)
+            {
+                string[] gameCmds = pieces[b].Split('\\').Select(ResolveLikeGame).ToArray();
+                bool match = gameCmds.Length > 0 && i + gameCmds.Length < cmds.Length;
+                for (int c = 0; c < gameCmds.Length && match; c++)
+                    if (!string.Equals(cmds[i + 1 + c]?.Trim(), gameCmds[c], StringComparison.Ordinal))
+                        match = false;
+                if (match) { chosen = b; return gameCmds.Length; }
+            }
+            return 0;
+        }
+
+        private static readonly Regex EvMessageRx = new(@"^\s*message\s", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+
+        /// <summary>
+        /// Speaker the template generator files the current command under when the command names none itself.
+        /// "message" boxes (Kel in Leah's Forest 54, "GŁOS Z ODDALI", narrator captions) open a DialogueBox with
+        /// no Game1.currentSpeaker, but BuildFromEvents keeps lastSpeaker for them, so their slots and recordings
+        /// live in the pack of the last character who spoke. Null when the current command is not a message or
+        /// nobody has spoken yet.
+        /// </summary>
+        private string GeneratorSpeakerForCurrent(Event ev)
+        {
+            if (ev?.eventCommands == null || ev.eventCommands.Length == 0)
+                return null;
+            string[] cmds = ev.eventCommands;
+            int current = Math.Clamp(ev.CurrentCommand, 0, cmds.Length - 1);
+            var rawMap = GetRawCommandMap(ev, _auditMapOverride ?? Game1.currentLocation?.Name ?? "Unknown");
+            string Raw(string runtimeCmd) => rawMap != null && rawMap.TryGetValue((runtimeCmd ?? string.Empty).Trim(), out var raw) ? raw : runtimeCmd;
+
+            string lastSpeaker = null;
+            for (int i = 0; i <= current; i++)
+            {
+                if (string.IsNullOrWhiteSpace(cmds[i]))
+                    continue;
+                string line = Raw(cmds[i]);
+
+                if (EvQuickQuestionRx.IsMatch(line) && line.IndexOf("(break)", StringComparison.OrdinalIgnoreCase) >= 0)
+                {
+                    string[] pieces = line.Split(new[] { "(break)" }, StringSplitOptions.None);
+                    int materialized = MaterializedBranchLength(cmds, i, pieces, out int chosen);
+                    bool currentInside = materialized > 0 && current > i && current <= i + materialized;
+                    string currentCmdText = currentInside ? cmds[current].Trim() : null;
+
+                    // the generator walks every branch in order; lastSpeaker carries across them
+                    for (int b = 1; b < pieces.Length; b++)
+                    {
+                        foreach (string sub in GeneratorBranchCommands(pieces[b]))
+                        {
+                            if (b == chosen && currentInside &&
+                                string.Equals(ResolveLikeGame(sub), currentCmdText, StringComparison.Ordinal))
+                                return EvMessageRx.IsMatch(sub) ? lastSpeaker : null;
+                            GeneratorEmitsForCommand(sub, ref lastSpeaker);
+                        }
+                    }
+                    if (currentInside)
+                        return null;
+                    i += materialized;
+                    continue;
+                }
+
+                if (i == current)
+                    return EvMessageRx.IsMatch(line) ? lastSpeaker : null;
+                GeneratorEmitsForCommand(line, ref lastSpeaker);
             }
             return null;
         }
