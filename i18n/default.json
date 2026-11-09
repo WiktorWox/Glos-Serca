@@ -23,8 +23,12 @@
   "config.auto-fix-dialoguefrom.name": "Auto-fix duplicate DialogueFrom entries",
   "config.auto-fix-dialoguefrom.tooltip": "If enabled, any loaded voice pack with duplicate DialogueFrom keys will be automatically fixed during load (e.g., 'Introduction', 'Introduction_1').",
   "config.mass-assign-voicepack.name": "Mass Assign Voice Pack by Mod ID",
-  "config.mass-assign-voicepack.tooltip": "Select a mod's Unique ID to assign voice packs for all characters supported by that mod. After setting and saving, restart the game to see changes. Note: selecting 'None' won't modify any voice pack settings."
-  
+  "config.mass-assign-voicepack.tooltip": "Select a mod's Unique ID to assign voice packs for all characters supported by that mod. After setting and saving, restart the game to see changes. Note: selecting 'None' won't modify any voice pack settings.",
 
-
+  // Translation version check
+  "translation.missing": "Głos Serca: the Polish translation ({{name}}) is not installed. Without it nothing will be voiced.",
+  "translation.older": "Głos Serca: you have {{name}} {{installed}}, the voice pack was prepared for {{required}}. Update the translation or some lines may stay silent.",
+  "translation.newer": "Głos Serca: you have {{name}} {{installed}}, newer than {{required}} the voice pack was prepared for. Usually fine, single lines may stay silent.",
+  "translation.ok": "Głos Serca: {{name}} {{installed}} – matches the voice pack.",
+  "config.translation.status": "Translation: {{status}}"
 }

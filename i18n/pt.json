@@ -23,6 +23,12 @@
   "config.auto-fix-dialoguefrom.name": "Corrigir automaticamente DialogueFrom duplicado",
   "config.auto-fix-dialoguefrom.tooltip": "Se ativado, qualquer pack de voz com chaves DialogueFrom duplicadas será corrigido automaticamente durante o carregamento (ex.: 'Introduction', 'Introduction_1').",
   "config.mass-assign-voicepack.name": "Atribuir voz em massa por ID do Mod",
-  "config.mass-assign-voicepack.tooltip": "Selecione o ID único de um mod para atribuir vozes a todos os personagens suportados. Após salvar, reinicie o jogo para ver as mudanças. Nota: selecionar 'None' não altera nenhuma configuração de voz."
+  "config.mass-assign-voicepack.tooltip": "Selecione o ID único de um mod para atribuir vozes a todos os personagens suportados. Após salvar, reinicie o jogo para ver as mudanças. Nota: selecionar 'None' não altera nenhuma configuração de voz.",
 
+  // Translation version check
+  "translation.missing": "Głos Serca: nie znaleziono polskiego tłumaczenia ({{name}}). Bez niego dubbing nie zadziała.",
+  "translation.older": "Głos Serca: masz {{name}} {{installed}}, paczka głosów jest przygotowana pod {{required}}. Zaktualizuj tłumaczenie, inaczej część kwestii może nie grać.",
+  "translation.newer": "Głos Serca: masz {{name}} {{installed}}, nowszą niż {{required}}, pod którą przygotowano paczkę. Zwykle działa, ale pojedyncze kwestie mogą nie grać.",
+  "translation.ok": "Głos Serca: {{name}} {{installed}} – zgodne z paczką głosów.",
+  "config.translation.status": "Tłumaczenie: {{status}}"
 }

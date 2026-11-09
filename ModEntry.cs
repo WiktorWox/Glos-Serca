@@ -254,6 +254,7 @@ namespace VoiceOverFrameworkMod
             helper.Events.GameLoop.UpdateTicked += this.OnUpdateTicked; 
             helper.Events.GameLoop.GameLaunched += this.OnGameLaunched; 
             helper.Events.GameLoop.SaveLoaded += this.OnSaveLoaded;
+            helper.Events.GameLoop.SaveLoaded += this.OnSaveLoaded_TranslationCheck;
             SetupConsoleCommands(helper.ConsoleCommands);
 
 
@@ -751,6 +752,7 @@ namespace VoiceOverFrameworkMod
             gmcm.Register(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
 
             gmcm.AddSectionTitle(mod: this.ModManifest, text: () => this.Helper.Translation.Get("config.section.general.name"));
+            gmcm.AddParagraph(mod: this.ModManifest, text: () => this.TranslationStatusText() ?? string.Empty);
             gmcm.AddBoolOption(mod: this.ModManifest, name: () => this.Helper.Translation.Get("config.mute-typing.name"), tooltip: () => this.Helper.Translation.Get("config.mute-typing.tooltip"), getValue: () => this.Config.turnoffdialoguetypingsound, setValue: value => this.Config.turnoffdialoguetypingsound = value);
             gmcm.AddNumberOption(mod: this.ModManifest, name: () => this.Helper.Translation.Get("config.master-volume.name"), tooltip: () => this.Helper.Translation.Get("config.master-volume.tooltip"), getValue: () => this.Config.MasterVolume, setValue: value => this.Config.MasterVolume = value, min: 0.0f, max: 1.0f, interval: 0.05f, formatValue: value => $"{Math.Round(value * 100)}%");
 
