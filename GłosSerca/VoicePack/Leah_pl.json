@@ -3527,198 +3527,6 @@
           "GenderVariant": "female"
         },
         {
-          "DialogueFrom": "Event/LeahHouse/51:s0",
-          "DialogueText": "Kel... Ile razy mam Ci powtarzać? Nie chcę wracać do miasta! {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Leah/436.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Kel... Ile razy mam Ci powtarzać? Nie chcę wracać do miasta!"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s1",
-          "DialogueText": "Nie dzwoń do mnie... Nie chcę Cię słuchać! *klik* {Portrait:Custom:8}",
-          "AudioPath": "assets/pl/Leah/437.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie dzwoń do mnie... Nie chcę Cię słuchać! *klik*"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s2",
-          "DialogueText": "{Farmer_Name}... {Portrait:Custom:6}",
-          "AudioPath": "assets/pl/Leah/438.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "..."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s3",
-          "DialogueText": "Słyszałeś jak krzyczałam do telefonu, prawda? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Leah/439_male.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Słyszałeś jak krzyczałam do telefonu, prawda?",
-          "GenderVariant": "male"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s4",
-          "DialogueText": "Słyszałaś jak krzyczałam do telefonu, prawda? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Leah/440_female.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Słyszałaś jak krzyczałam do telefonu, prawda?",
-          "GenderVariant": "female"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s5",
-          "DialogueText": "Ciągle do mnie wydzwania mój ex... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Leah/441.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Ciągle do mnie wydzwania mój ex..."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s6",
-          "DialogueText": "Dobrze by było Ci coś o tym powiedzieć... {Portrait:Unique}",
-          "AudioPath": "assets/pl/Leah/442.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobrze by było Ci coś o tym powiedzieć..."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s7",
-          "DialogueText": "Mieszkaliśmy razem w mieszkaniu w mieście. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Leah/443.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Mieszkaliśmy razem w mieszkaniu w mieście."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s8",
-          "DialogueText": "W dzień wykonywałam dziwne prace, a nocami pracowałam nad swoimi projektami... Ledwo sobie radziliśmy. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Leah/444.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "W dzień wykonywałam dziwne prace, a nocami pracowałam nad swoimi projektami... Ledwo sobie radziliśmy."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s9",
-          "DialogueText": "Ciągle nalegał, żebym wróciła studiować rachunkowość, lub medycynę... coś, z czego będzie dużo pieniędzy. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Leah/445_male.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "Ciągle nalegał, żebym wróciła studiować rachunkowość, lub medycynę... coś, z czego będzie dużo pieniędzy.",
-          "GenderVariant": "male"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s10",
-          "DialogueText": "Ciągle nalegała, żebym wróciła studiować biznes, lub medycynę... coś, z czego jest dużo pieniędzy. {Portrait:Angry}",
-          "AudioPath": "assets/pl/Leah/446_female.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s10",
-          "PageIndex": 0,
-          "DisplayPattern": "Ciągle nalegała, żebym wróciła studiować biznes, lub medycynę... coś, z czego jest dużo pieniędzy.",
-          "GenderVariant": "female"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s11",
-          "DialogueText": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... coś w ten deseń. {Portrait:Unique}",
-          "AudioPath": "assets/pl/Leah/447.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s11",
-          "PageIndex": 0,
-          "DisplayPattern": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... coś w ten deseń."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s12",
-          "DialogueText": "Nie byłam gotowa na takie życie, {Farmer_Name}... Musiałam odejść. Dlatego przyjechałam tutaj, żeby spełnić moje marzenie o zostaniu artystką.",
-          "AudioPath": "assets/pl/Leah/448.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s12",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie byłam gotowa na takie życie, ... Musiałam odejść. Dlatego przyjechałam tutaj, żeby spełnić moje marzenie o zostaniu artystką."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s13",
-          "DialogueText": "Czy to było aroganckie z mojej strony, {Farmer_Name}? {Portrait:Sad}",
-          "AudioPath": "assets/pl/Leah/449.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s13",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to było aroganckie z mojej strony, ?"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s14",
-          "DialogueText": "Nie, musiałaś to zrobić.",
-          "AudioPath": "assets/pl/Leah/450.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s14",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie, musiałaś to zrobić."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s15",
-          "DialogueText": "Nie, a twój eks brzmi jak idiota.",
-          "AudioPath": "assets/pl/Leah/451_male.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s15",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie, a twój eks brzmi jak idiota.",
-          "GenderVariant": "male"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s16",
-          "DialogueText": "Nie, a twoja eks brzmi jak idiota.",
-          "AudioPath": "assets/pl/Leah/452_female.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s16",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie, a twoja eks brzmi jak idiota.",
-          "GenderVariant": "female"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s17",
-          "DialogueText": "Nie, ale lepiej by Ci było zostać w mieście.",
-          "AudioPath": "assets/pl/Leah/453.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s17",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie, ale lepiej by Ci było zostać w mieście."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s18",
-          "DialogueText": "Tak troszeczkę.",
-          "AudioPath": "assets/pl/Leah/454.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s18",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak troszeczkę."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s19",
-          "DialogueText": "Tak, ale dbanie najpierw o siebie jest normalne.",
-          "AudioPath": "assets/pl/Leah/455.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s19",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak, ale dbanie najpierw o siebie jest normalne."
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s20",
-          "DialogueText": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciela.",
-          "AudioPath": "assets/pl/Leah/456_male.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s20",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciela.",
-          "GenderVariant": "male"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s21",
-          "DialogueText": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciółkę.",
-          "AudioPath": "assets/pl/Leah/457_female.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s21",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciółkę.",
-          "GenderVariant": "female"
-        },
-        {
-          "DialogueFrom": "Event/LeahHouse/51:s22",
-          "DialogueText": "Hej, jeszcze raz dzięki za rozmowę.",
-          "AudioPath": "assets/pl/Leah/458.ogg",
-          "TranslationKey": "Events/LeahHouse:51:s22",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, jeszcze raz dzięki za rozmowę."
-        },
-        {
           "DialogueFrom": "Event/LeahHouse/584059:s0",
           "DialogueText": "Hej! Spójrz na to.",
           "AudioPath": "assets/pl/Leah/459.ogg",
@@ -4403,6 +4211,216 @@
           "TranslationKey": "Strings/SpeechBubbles:LeahHouse_Leah_Greeting3",
           "PageIndex": 0,
           "DisplayPattern": "Cześć, {0}"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s0",
+          "DialogueText": "Kel... Ile razy mam Ci powtarzać? Nie chcę wracać do miasta! {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Leah/436.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Kel... Ile razy mam Ci powtarzać? Nie chcę wracać do miasta!"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s1",
+          "DialogueText": "Nie dzwoń do mnie... Nie chcę Cię słuchać! *klik* {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Leah/437.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie dzwoń do mnie... Nie chcę Cię słuchać! *klik*"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s2",
+          "DialogueText": "{Farmer_Name}... {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Leah/438.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s3",
+          "DialogueText": "Słyszałeś jak krzyczałam do telefonu, prawda? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leah/439_male.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałeś jak krzyczałam do telefonu, prawda?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s4",
+          "DialogueText": "Słyszałaś jak krzyczałam do telefonu, prawda? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leah/440_female.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałaś jak krzyczałam do telefonu, prawda?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s5",
+          "DialogueText": "Ciągle do mnie wydzwania mój ex... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leah/441.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciągle do mnie wydzwania mój ex..."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s6",
+          "DialogueText": "Ciągle do mnie wydzwania moja ex...",
+          "AudioPath": "assets/pl/Leah/544_female.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciągle do mnie wydzwania moja ex...",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s7",
+          "DialogueText": "Dobrze by było Ci coś o tym powiedzieć... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leah/442.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze by było Ci coś o tym powiedzieć..."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s8",
+          "DialogueText": "Mieszkaliśmy razem w mieszkaniu w mieście. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leah/443.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Mieszkaliśmy razem w mieszkaniu w mieście."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s9",
+          "DialogueText": "Mieszkałyśmy razem w mieszkaniu w mieście.",
+          "AudioPath": "assets/pl/Leah/545_female.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Mieszkałyśmy razem w mieszkaniu w mieście.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s10",
+          "DialogueText": "W dzień wykonywałam dziwne prace, a nocami pracowałam nad swoimi projektami... Ledwo było nas na cokolwiek stać. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leah/444.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "W dzień wykonywałam dziwne prace, a nocami pracowałam nad swoimi projektami... Ledwo było nas na cokolwiek stać."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s11",
+          "DialogueText": "Ciągle nalegał, żebym wróciła studiować rachunkowość, lub medycynę... coś, z czego będzie dużo pieniędzy. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Leah/445_male.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciągle nalegał, żebym wróciła studiować rachunkowość, lub medycynę... coś, z czego będzie dużo pieniędzy.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s12",
+          "DialogueText": "Ciągle nalegała, żebym wróciła studiować biznes, lub medycynę... coś, z czego jest dużo pieniędzy. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Leah/446_female.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciągle nalegała, żebym wróciła studiować biznes, lub medycynę... coś, z czego jest dużo pieniędzy.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s13",
+          "DialogueText": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... co {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leah/447.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... co"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s14",
+          "DialogueText": "Nie byłam gotowa na takie życie, {Farmer_Name}... Musiałam odejść. Dlatego przyjechałam tutaj, żeby spełnić moje marzenie o zostaniu artystką.",
+          "AudioPath": "assets/pl/Leah/448.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie byłam gotowa na takie życie, ... Musiałam odejść. Dlatego przyjechałam tutaj, żeby spełnić moje marzenie o zostaniu artystką."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s15",
+          "DialogueText": "Czy to było aroganckie z mojej strony, {Farmer_Name}? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leah/449.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to było aroganckie z mojej strony, ?"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s16",
+          "DialogueText": "Nie, musiałaś to zrobić.",
+          "AudioPath": "assets/pl/Leah/450.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie, musiałaś to zrobić."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s17",
+          "DialogueText": "Nie, a twój eks brzmi jak idiota.",
+          "AudioPath": "assets/pl/Leah/451_male.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie, a twój eks brzmi jak idiota.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s18",
+          "DialogueText": "Nie, a twoja eks brzmi jak idiota.",
+          "AudioPath": "assets/pl/Leah/452_female.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie, a twoja eks brzmi jak idiota.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s19",
+          "DialogueText": "Nie, ale lepiej by Ci było zostać w mieście.",
+          "AudioPath": "assets/pl/Leah/453.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie, ale lepiej by Ci było zostać w mieście."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s20",
+          "DialogueText": "Tak troszeczkę.",
+          "AudioPath": "assets/pl/Leah/454.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s20",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak troszeczkę."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s21",
+          "DialogueText": "Tak, ale dbanie najpierw o siebie jest normalne.",
+          "AudioPath": "assets/pl/Leah/455.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s21",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, ale dbanie najpierw o siebie jest normalne."
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s22",
+          "DialogueText": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciela.",
+          "AudioPath": "assets/pl/Leah/456_male.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s22",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciela.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s23",
+          "DialogueText": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciółkę.",
+          "AudioPath": "assets/pl/Leah/457_female.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s23",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, Dziękuję za wysłuchanie. Dobrze jest mieć przyjaciółkę.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/LeahHouse/51:s24",
+          "DialogueText": "Hej, jeszcze raz dzięki za rozmowę.",
+          "AudioPath": "assets/pl/Leah/458.ogg",
+          "TranslationKey": "Events/LeahHouse:51:s24",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, jeszcze raz dzięki za rozmowę."
         }
       ]
     }
