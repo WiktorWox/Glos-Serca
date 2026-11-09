@@ -114,7 +114,8 @@ namespace VoiceOverFrameworkMod
             string characterName,
             IEnumerable<string> tkCandidates,
             LocalizedContentManager.LanguageCode languageCode,
-            string? sanitizedDialogueTextForV1Fallback = null)
+            string? sanitizedDialogueTextForV1Fallback = null,
+            bool interruptCurrent = true)
         {
             var candidates = tkCandidates?.Where(k => !string.IsNullOrWhiteSpace(k)).Distinct(StringComparer.OrdinalIgnoreCase).ToList() ?? new();
             if (candidates.Count == 0)
@@ -128,7 +129,7 @@ namespace VoiceOverFrameworkMod
                 if (Config?.developerModeOn == true)
                     Monitor.Log($"[V2-RESULT] char='{characterName}' pack='{packUsed?.VoicePackName}' format={(packUsed?.FormatMajor.ToString() ?? "?")} match=Yes key='{matchedKey}' path='{fullPath}'", LogLevel.Info);
 
-                PlayVoiceFromFile(fullPath!);
+                PlayVoiceFromFile(fullPath!, interruptCurrent);
                 return true;
             }
 
@@ -563,6 +564,22 @@ namespace VoiceOverFrameworkMod
                         string options = o1 >= 0 && o2 > o1 ? line.Substring(o1 + 1, o2 - o1 - 1) : string.Empty;
                         serial += options.Split('#').Count(o => !string.IsNullOrWhiteSpace(o));
                     }
+                    continue;
+                }
+
+                // Narration boxes ('message') are attributed by the generator to whoever spoke last,
+                // and the closing 'end dialogue <npc>' line gets a slot of its own NPC.
+                if (line.StartsWith("message ", StringComparison.OrdinalIgnoreCase))
+                {
+                    if (lastActor != null && lastActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
+                        serial += Math.Max(1, Regex.Matches(line, @"#?\$b#?").Count + 1);
+                    continue;
+                }
+                if (line.StartsWith("end dialogue ", StringComparison.OrdinalIgnoreCase))
+                {
+                    var endParts = line.Split(new[] { ' ' }, 4, StringSplitOptions.RemoveEmptyEntries);
+                    if (endParts.Length >= 3 && endParts[2].Trim().Trim('"').Equals(speakerName, StringComparison.OrdinalIgnoreCase))
+                        serial += Math.Max(1, Regex.Matches(line, @"#?\$b#?").Count + 1);
                     continue;
                 }
 

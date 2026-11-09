@@ -237,7 +237,7 @@ namespace VoiceOverFrameworkMod
 
 
         // Loads and plays an audio file from the specified absolute path. Updated to Support wav and ogg
-        private void PlayVoiceFromFile(string absoluteAudioFilePath)
+        private void PlayVoiceFromFile(string absoluteAudioFilePath, bool interruptCurrent = true)
         {
             if (string.IsNullOrWhiteSpace(absoluteAudioFilePath))
             {
@@ -253,11 +253,12 @@ namespace VoiceOverFrameworkMod
                     return;
                 }
 
-                // Stop and dispose previous instance
+                // Stop and dispose previous instance (unless the caller wants the voices to overlap,
+                // e.g. several event speech bubbles shown at once)
                 SoundEffectInstance previousInstance = currentVoiceInstance;
                 currentVoiceInstance = null;
 
-                if (previousInstance != null)
+                if (previousInstance != null && interruptCurrent)
                 {
                     lock (listLock)
                     {

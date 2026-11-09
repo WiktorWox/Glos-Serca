@@ -132,7 +132,8 @@ namespace VoiceOverFrameworkMod
                         if (TryToPlayVoiceByTranslationKeys(
                                 characterName,
                                 new[] { eventTranslationKey },
-                                LocalizedContentManager.CurrentLanguageCode))
+                                LocalizedContentManager.CurrentLanguageCode,
+                                interruptCurrent: false))
                         {
                             state.Played = true;
                             continue;
@@ -168,7 +169,7 @@ namespace VoiceOverFrameworkMod
 
                     if (File.Exists(fullPath))
                     {
-                        PlayVoiceFromFile(fullPath);
+                        PlayVoiceFromFile(fullPath, interruptCurrent: false);
                         state.Played = true;
                     }
                     else
