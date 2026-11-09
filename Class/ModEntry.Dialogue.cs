@@ -62,6 +62,12 @@ namespace VoiceOverFrameworkMod
 
             bool eventActive = Game1.currentLocation?.currentEvent != null;
 
+            // Captions the game draws itself (tea cutscene, comet, Prairie King with Abigail)
+            if (eventActive || Game1.currentMinigame != null)
+                CheckForCutsceneCaptions();
+            else if (_lastCaptionBySource.Count > 0)
+                _lastCaptionBySource.Clear();
+
             var dlgBox = Game1.activeClickableMenu as DialogueBox;
             string speakerName = dlgBox?.characterDialogue?.speaker?.Name ?? Game1.currentSpeaker?.Name;
 
