@@ -3973,6 +3973,46 @@
           "TranslationKey": "Strings/SpeechBubbles:Hospital_Maru_Spouse",
           "PageIndex": 0,
           "DisplayPattern": "Cześć kochanie <"
+        },
+        {
+          "DialogueFrom": "Strings/Events:Maru_comet1",
+          "DialogueText": "Piękne, prawda?",
+          "AudioPath": "assets/pl/Maru/492.ogg",
+          "TranslationKey": "Strings/Events:Maru_comet1",
+          "PageIndex": 0,
+          "DisplayPattern": "Piękne, prawda?"
+        },
+        {
+          "DialogueFrom": "Strings/Events:Maru_comet2",
+          "DialogueText": "Rzadki cud kosmosu...",
+          "AudioPath": "assets/pl/Maru/493.ogg",
+          "TranslationKey": "Strings/Events:Maru_comet2",
+          "PageIndex": 0,
+          "DisplayPattern": "Rzadki cud kosmosu..."
+        },
+        {
+          "DialogueFrom": "Strings/Events:Maru_comet3",
+          "DialogueText": "Tutaj przez jedną ulotną chwilę w jego nieskończonej podróży.",
+          "AudioPath": "assets/pl/Maru/494.ogg",
+          "TranslationKey": "Strings/Events:Maru_comet3",
+          "PageIndex": 0,
+          "DisplayPattern": "Tutaj przez jedną ulotną chwilę w jego nieskończonej podróży."
+        },
+        {
+          "DialogueFrom": "Strings/Events:Maru_comet4",
+          "DialogueText": "Tak pusto, tak samotnie...",
+          "AudioPath": "assets/pl/Maru/495.ogg",
+          "TranslationKey": "Strings/Events:Maru_comet4",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak pusto, tak samotnie..."
+        },
+        {
+          "DialogueFrom": "Strings/Events:Maru_comet5",
+          "DialogueText": "Cieszę się, że żyję w tym tętniącym życiem świecie razem z tobą!",
+          "AudioPath": "assets/pl/Maru/496.ogg",
+          "TranslationKey": "Strings/Events:Maru_comet5",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że żyję w tym tętniącym życiem świecie razem z tobą!"
         }
       ]
     }

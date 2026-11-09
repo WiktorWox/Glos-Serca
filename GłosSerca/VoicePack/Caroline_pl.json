@@ -1267,6 +1267,30 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Caroline",
           "PageIndex": 0,
           "DisplayPattern": "Cześć. Mam nadzieję, że coś Ci się spodoba."
+        },
+        {
+          "DialogueFrom": "Strings/Locations:Caroline_Tea_Event1",
+          "DialogueText": "Kiedy jestem sama z relaksującą herbatą...",
+          "AudioPath": "assets/pl/Caroline/158.ogg",
+          "TranslationKey": "Strings/Locations:Caroline_Tea_Event1",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedy jestem sama z relaksującą herbatą..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations:Caroline_Tea_Event2",
+          "DialogueText": "Mój umysł jest pusty i swobodnie wędruje...",
+          "AudioPath": "assets/pl/Caroline/159.ogg",
+          "TranslationKey": "Strings/Locations:Caroline_Tea_Event2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mój umysł jest pusty i swobodnie wędruje..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations:Caroline_Tea_Event3",
+          "DialogueText": "Kto wie co może się pojawić?",
+          "AudioPath": "assets/pl/Caroline/160.ogg",
+          "TranslationKey": "Strings/Locations:Caroline_Tea_Event3",
+          "PageIndex": 0,
+          "DisplayPattern": "Kto wie co może się pojawić?"
         }
       ]
     }

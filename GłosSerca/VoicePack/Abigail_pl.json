@@ -4633,6 +4633,46 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Abigail",
           "PageIndex": 0,
           "DisplayPattern": "Hej, wzięłam parę losowych rzeczy z mojej szafy. Chcesz coś?"
+        },
+        {
+          "DialogueFrom": "Strings/StringsFromCSFiles:AbigailGame.cs.11896",
+          "DialogueText": "Nadchodzą!",
+          "AudioPath": "assets/pl/Abigail/573.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:AbigailGame.cs.11896",
+          "PageIndex": 0,
+          "DisplayPattern": "Nadchodzą!"
+        },
+        {
+          "DialogueFrom": "Strings/StringsFromCSFiles:AbigailGame.cs.11897",
+          "DialogueText": "Połowa za nami!",
+          "AudioPath": "assets/pl/Abigail/574.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:AbigailGame.cs.11897",
+          "PageIndex": 0,
+          "DisplayPattern": "Połowa za nami!"
+        },
+        {
+          "DialogueFrom": "Strings/StringsFromCSFiles:AbigailGame.cs.11898",
+          "DialogueText": "Hej! Udało nam się!",
+          "AudioPath": "assets/pl/Abigail/575.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:AbigailGame.cs.11898",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej! Udało nam się!"
+        },
+        {
+          "DialogueFrom": "Strings/StringsFromCSFiles:AbigailGame.cs.11901",
+          "DialogueText": "Kurczę...",
+          "AudioPath": "assets/pl/Abigail/576.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:AbigailGame.cs.11901",
+          "PageIndex": 0,
+          "DisplayPattern": "Kurczę..."
+        },
+        {
+          "DialogueFrom": "Strings/StringsFromCSFiles:AbigailGame.cs.11902",
+          "DialogueText": "Nieee!",
+          "AudioPath": "assets/pl/Abigail/577.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:AbigailGame.cs.11902",
+          "PageIndex": 0,
+          "DisplayPattern": "Nieee!"
         }
       ]
     }
