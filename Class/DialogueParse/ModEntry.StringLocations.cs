@@ -18,7 +18,7 @@ namespace VoiceOverFrameworkMod
         {
             if (content == null) return null;
 
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             Dictionary<string, string> dict = null;
 
             try

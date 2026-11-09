@@ -14,7 +14,7 @@ namespace VoiceOverFrameworkMod
             string characterName, string languageCode, IGameContentHelper content, ref int entryNumber, string ext)
         {
             var outList = new List<VoiceEntryTemplate>();
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             string asset = $"Characters/Dialogue/{characterName}{langSuffix}";
 
             Dictionary<string, string> sheet = null;
