@@ -124,6 +124,8 @@ namespace VoiceOverFrameworkMod
                         ? ComputeSpeakIndexForCurrent(currentEvent, characterName, 0, bubbleCommandIndex)
                         : ComputeSpeakIndexForCurrent(currentEvent, characterName, 0);
                     string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
+                    if (Config.developerModeOn)
+                        Monitor.Log($"[V2-BUBBLE] actor='{characterName}' text='{text}' commandIndex={bubbleCommandIndex} speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} base='{eventBaseKey}' pack='{pack.VoicePackName}'", LogLevel.Debug);
                     if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
                     {
                         string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";

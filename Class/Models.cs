@@ -11,7 +11,7 @@ namespace VoiceOverFrameworkMod
         /// <summary>Event actors that are really one of the voiced characters under another name
         /// (e.g. Leo is the temporary actor "ParrotBoy" in his first-meeting event). Lines spoken by the
         /// alias use the character's voice pack; event slots are still counted per actor name.</summary>
-        public Dictionary<string, string> ActorAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["ParrotBoy"] = "Leo" };
+        public Dictionary<string, string> ActorAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["ParrotBoy"] = "Leo", ["Toddler"] = "Parrot" };
         public float MasterVolume { get; set; } = 1.0f;
         public bool turnoffdialoguetypingsound = true;
         public bool FallbackToDefaultIfMissing { get; set; } = false;
