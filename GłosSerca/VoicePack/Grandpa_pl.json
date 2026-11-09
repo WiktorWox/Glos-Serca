@@ -10,129 +10,149 @@
       "Entries": [
         {
           "DialogueFrom": "Event/FarmHouse/558291:s0",
-          "DialogueText": "My dear boy...",
+          "DialogueText": "Mój drogi wnuczku...",
           "AudioPath": "assets/pl/Grandpa/1_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s0",
           "PageIndex": 0,
-          "DisplayPattern": "My dear boy...",
+          "DisplayPattern": "Mój drogi wnuczku...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s1",
-          "DialogueText": "My dearest grand-daughter...",
+          "DialogueText": "Moja najdroższa wnuczko...",
           "AudioPath": "assets/pl/Grandpa/2_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s1",
           "PageIndex": 0,
-          "DisplayPattern": "My dearest grand-daughter...",
+          "DisplayPattern": "Moja najdroższa wnuczko...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s2",
-          "DialogueText": "It's been many years since we last spoke. You were just a little boy... Do you remember?",
+          "DialogueText": "Wiele lat minęło, odkąd ostatnio rozmawialiśmy. Byłeś jeszcze małym chłopcem... pamiętasz?",
           "AudioPath": "assets/pl/Grandpa/3_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s2",
           "PageIndex": 0,
-          "DisplayPattern": "It's been many years since we last spoke. You were just a little boy... Do you remember?",
+          "DisplayPattern": "Wiele lat minęło, odkąd ostatnio rozmawialiśmy. Byłeś jeszcze małym chłopcem... pamiętasz?",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s3",
-          "DialogueText": "It's been many years since we last spoke. You were just a little girl... Do you remember?",
+          "DialogueText": "Wiele lat minęło, odkąd ostatnio rozmawialiśmy. Byłaś jeszcze małą dziewczynką... Pamiętasz?",
           "AudioPath": "assets/pl/Grandpa/4_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s3",
           "PageIndex": 0,
-          "DisplayPattern": "It's been many years since we last spoke. You were just a little girl... Do you remember?",
+          "DisplayPattern": "Wiele lat minęło, odkąd ostatnio rozmawialiśmy. Byłaś jeszcze małą dziewczynką... Pamiętasz?",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s4",
-          "DialogueText": "Look how far you've come!",
-          "AudioPath": "assets/pl/Grandpa/5.ogg",
+          "DialogueText": "Zobacz jak już daleko zaszedłeś!",
+          "AudioPath": "assets/pl/Grandpa/5_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Look how far you've come!"
+          "DisplayPattern": "Zobacz jak już daleko zaszedłeś!",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s5",
-          "DialogueText": "Though you may have forgotten me, I've been here all along.",
-          "AudioPath": "assets/pl/Grandpa/6.ogg",
+          "DialogueText": "Zobacz jak już daleko zaszłaś!",
+          "AudioPath": "assets/pl/Grandpa/6_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Though you may have forgotten me, I've been here all along."
+          "DisplayPattern": "Zobacz jak już daleko zaszłaś!",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s6",
-          "DialogueText": "You see... My body has departed this world, but my heart will always remain in Stardew Valley.",
-          "AudioPath": "assets/pl/Grandpa/7.ogg",
+          "DialogueText": "Pewnie już o mnie zapomniałeś, byłem tu cały czas.",
+          "AudioPath": "assets/pl/Grandpa/7_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s6",
           "PageIndex": 0,
-          "DisplayPattern": "You see... My body has departed this world, but my heart will always remain in Stardew Valley."
+          "DisplayPattern": "Pewnie już o mnie zapomniałeś, byłem tu cały czas.",
+          "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s7",
-          "DialogueText": "You've been here two years now...",
-          "AudioPath": "assets/pl/Grandpa/8.ogg",
+          "DialogueText": "Pewnie już o mnie zapomniałaś, byłem tu cały czas.",
+          "AudioPath": "assets/pl/Grandpa/8_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s7",
           "PageIndex": 0,
-          "DisplayPattern": "You've been here two years now..."
+          "DisplayPattern": "Pewnie już o mnie zapomniałaś, byłem tu cały czas.",
+          "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s8",
-          "DialogueText": "The future of %farm Farm is in your hands, now.",
+          "DialogueText": "Widzisz... Moje ciało odeszło z tego świata, ale moje serce już na zawsze pozostanie w Dolinie Stardew.",
           "AudioPath": "assets/pl/Grandpa/9.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s8",
           "PageIndex": 0,
-          "DisplayPattern": "The future of is in your hands, now."
+          "DisplayPattern": "Widzisz... Moje ciało odeszło z tego świata, ale moje serce już na zawsze pozostanie w Dolinie Stardew."
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s9",
-          "DialogueText": "Farewell!",
+          "DialogueText": "Jesteś tu już dwa lata...",
           "AudioPath": "assets/pl/Grandpa/10.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Farewell!"
+          "DisplayPattern": "Jesteś tu już dwa lata..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/558291:s10",
+          "DialogueText": "Przyszłość ''%farm'' Farmy jest w twoich rękach.",
+          "AudioPath": "assets/pl/Grandpa/11.ogg",
+          "TranslationKey": "Events/FarmHouse:558291:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyszłość '''' y jest w twoich rękach."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/558291:s11",
+          "DialogueText": "Żegnaj!",
+          "AudioPath": "assets/pl/Grandpa/12.ogg",
+          "TranslationKey": "Events/FarmHouse:558291:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Żegnaj!"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s0",
-          "DialogueText": "My dear boy...",
-          "AudioPath": "assets/pl/Grandpa/11_male.ogg",
+          "DialogueText": "Mój drogi wnuczku...",
+          "AudioPath": "assets/pl/Grandpa/13_male.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s0",
           "PageIndex": 0,
-          "DisplayPattern": "My dear boy...",
+          "DisplayPattern": "Mój drogi wnuczku...",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s1",
-          "DialogueText": "My dearest grand-daughter...",
-          "AudioPath": "assets/pl/Grandpa/12_female.ogg",
+          "DialogueText": "Moja droga wnuczko...",
+          "AudioPath": "assets/pl/Grandpa/14_female.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s1",
           "PageIndex": 0,
-          "DisplayPattern": "My dearest grand-daughter...",
+          "DisplayPattern": "Moja droga wnuczko...",
           "GenderVariant": "female"
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s2",
-          "DialogueText": "I'm glad you summoned me. I... was perhaps a little too harsh with you last time.",
-          "AudioPath": "assets/pl/Grandpa/13.ogg",
+          "DialogueText": "Cieszę się, że mnie przyzywasz... chyba ostatnio byłem w stosunku do Ciebie troszkę zbyt ostry.",
+          "AudioPath": "assets/pl/Grandpa/15.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I'm glad you summoned me. I... was perhaps a little too harsh with you last ."
+          "DisplayPattern": "Cieszę się, że mnie przyzywasz... chyba ostatnio byłem w stosunku do Ciebie troszkę zbyt ostry."
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s3",
-          "DialogueText": "Forgive me. You've been working very hard, and I'm proud of it.",
-          "AudioPath": "assets/pl/Grandpa/14.ogg",
+          "DialogueText": "Wybacz mi. Ciężko pracujesz i jestem z Ciebie dumny.",
+          "AudioPath": "assets/pl/Grandpa/16.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Forgive me. You've been working very hard, and I'm proud of it."
+          "DisplayPattern": "Wybacz mi. Ciężko pracujesz i jestem z Ciebie dumny."
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s4",
-          "DialogueText": "Let's see...",
-          "AudioPath": "assets/pl/Grandpa/15.ogg",
+          "DialogueText": "Zobaczmy...",
+          "AudioPath": "assets/pl/Grandpa/17.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Let's see..."
+          "DisplayPattern": "Zobaczmy..."
         }
       ]
     }

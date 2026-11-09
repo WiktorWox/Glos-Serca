@@ -42,11 +42,11 @@
         },
         {
           "DialogueFrom": "FlowerDance_Accept",
-          "DialogueText": "Chcesz ze mną zatańczyć? Tak! {Portrait:Happy}",
+          "DialogueText": "Czy chcę z tobą zatańczyć? Tak! {Portrait:Happy}",
           "AudioPath": "assets/pl/Leah/5.ogg",
           "TranslationKey": "Characters/Dialogue/Leah:FlowerDance_Accept",
           "PageIndex": 0,
-          "DisplayPattern": "Chcesz ze mną zatańczyć? Tak!"
+          "DisplayPattern": "Czy chcę z tobą zatańczyć? Tak!"
         },
         {
           "DialogueFrom": "FlowerDance_Accept",
@@ -800,11 +800,11 @@
         },
         {
           "DialogueFrom": "event_parents3",
-          "DialogueText": "A więc tak? W takim razie może po prostu wyjdę! {Portrait:Angry}",
+          "DialogueText": "A więc tak? W takim razie może po prostu wyjadę! {Portrait:Angry}",
           "AudioPath": "assets/pl/Leah/99.ogg",
           "TranslationKey": "Characters/Dialogue/Leah:event_parents3",
           "PageIndex": 0,
-          "DisplayPattern": "A więc tak? W takim razie może po prostu wyjdę!"
+          "DisplayPattern": "A więc tak? W takim razie może po prostu wyjadę!"
         },
         {
           "DialogueFrom": "event_parents4",
@@ -1336,11 +1336,11 @@
         },
         {
           "DialogueFrom": "EngagementDialogue/Leah0",
-          "DialogueText": "Trochę się denerwuję, ale też mnie to cieszy. {Portrait:Happy}",
+          "DialogueText": "Jestem trochę zestresowana, ale i bardzo szczęśliwa. {Portrait:Happy}",
           "AudioPath": "assets/pl/Leah/166.ogg",
           "TranslationKey": "Data/EngagementDialogue:Leah0",
           "PageIndex": 1,
-          "DisplayPattern": "Trochę się denerwuję, ale też mnie to cieszy."
+          "DisplayPattern": "Jestem trochę zestresowana, ale i bardzo szczęśliwa."
         },
         {
           "DialogueFrom": "EngagementDialogue/Leah1",
@@ -1556,11 +1556,11 @@
         },
         {
           "DialogueFrom": "Marriage/Leah/Good_1",
-          "DialogueText": "Czy kiedyś ci mówiłam... że od twojego wprowadzenia się tutaj śniło mi się, że będziemy razem?",
+          "DialogueText": "Mówiłam ci kiedyś? Że od twojego wprowadzenia się tutaj śniło mi się, że będziemy razem?",
           "AudioPath": "assets/pl/Leah/193.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueLeah:Good_1",
           "PageIndex": 0,
-          "DisplayPattern": "Czy kiedyś ci mówiłam... że od twojego wprowadzenia się tutaj śniło mi się, że będziemy razem?"
+          "DisplayPattern": "Mówiłam ci kiedyś? Że od twojego wprowadzenia się tutaj śniło mi się, że będziemy razem?"
         },
         {
           "DialogueFrom": "Marriage/Leah/Good_2",
@@ -1580,11 +1580,11 @@
         },
         {
           "DialogueFrom": "Marriage/Leah/Good_3",
-          "DialogueText": "Wow, wyglądasz dziś energicznie! {Portrait:Love}",
+          "DialogueText": "Wow, wyglądasz dziś na pełnego energii! {Portrait:Love}",
           "AudioPath": "assets/pl/Leah/196_male.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueLeah:Good_3",
           "PageIndex": 0,
-          "DisplayPattern": "Wow, wyglądasz dziś energicznie!",
+          "DisplayPattern": "Wow, wyglądasz dziś na pełnego energii!",
           "GenderVariant": "male"
         },
         {
@@ -1766,11 +1766,11 @@
         },
         {
           "DialogueFrom": "Marriage/Leah/Indoor_Night_3",
-          "DialogueText": "Nie myślałam, że dostanę syreni wisior tak szybko po wprowadzeniu się! W sumie bardzo mnie to cieszy. {Portrait:Love}",
+          "DialogueText": "Nie sądziłam, że dostanę syreni wisior tak szybko po wprowadzeniu się! W sumie bardzo mnie to cieszy. {Portrait:Love}",
           "AudioPath": "assets/pl/Leah/219.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueLeah:Indoor_Night_3",
           "PageIndex": 0,
-          "DisplayPattern": "Nie myślałam, że dostanę syreni wisior tak szybko po wprowadzeniu się! W sumie bardzo mnie to cieszy."
+          "DisplayPattern": "Nie sądziłam, że dostanę syreni wisior tak szybko po wprowadzeniu się! W sumie bardzo mnie to cieszy."
         },
         {
           "DialogueFrom": "Marriage/Leah/Indoor_Night_4",
@@ -2162,11 +2162,11 @@
         },
         {
           "DialogueFrom": "Marriage/Leah/spouseRoom_Leah",
-          "DialogueText": "W któryś z takich dni muszę Ci zrobić portret.",
+          "DialogueText": "Jakoś w najbliższych dniach muszę Ci zrobić portret.",
           "AudioPath": "assets/pl/Leah/268.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:spouseRoom_Leah",
           "PageIndex": 0,
-          "DisplayPattern": "W któryś z takich dni muszę Ci zrobić portret."
+          "DisplayPattern": "Jakoś w najbliższych dniach muszę Ci zrobić portret."
         },
         {
           "DialogueFrom": "Marriage/Leah/spouseRoom_Leah",
@@ -2372,11 +2372,11 @@
         },
         {
           "DialogueFrom": "Marriage/Leah/winter_Leah",
-          "DialogueText": "Zawsze zaczynam kroić sałatę w zimie... Niewygodne, wiem.",
+          "DialogueText": "Zawsze w zimie mam ochotę na sałatkę... trochę to nie po drodze, wiem.",
           "AudioPath": "assets/pl/Leah/294.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:winter_Leah",
           "PageIndex": 0,
-          "DisplayPattern": "Zawsze zaczynam kroić sałatę w zimie... Niewygodne, wiem."
+          "DisplayPattern": "Zawsze w zimie mam ochotę na sałatkę... trochę to nie po drodze, wiem."
         },
         {
           "DialogueFrom": "rainy",
@@ -2580,11 +2580,11 @@
         },
         {
           "DialogueFrom": "Event/Town/53:s11",
-          "DialogueText": "Nazywam ją 'Jajogłowi'. Chciałam stworzyć animatroniczną, ludzką statuę, żeby pobawić się zdolnością widza do właściwego przypisywania osobowości fizycznemu bytu.",
+          "DialogueText": "Nazywam ją 'Jajogłowi'. Chciałam stworzyć animatroniczną, ludzką statuę, żeby pobawić się zdolnością widza do właściwego przypisywania osobowości fizycznemu bytowi.",
           "AudioPath": "assets/pl/Leah/320.ogg",
           "TranslationKey": "Events/Town:53:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Nazywam ją 'Jajogłowi'. Chciałam stworzyć animatroniczną, ludzką statuę, żeby pobawić się zdolnością widza do właściwego przypisywania osobowości fizycznemu bytu."
+          "DisplayPattern": "Nazywam ją 'Jajogłowi'. Chciałam stworzyć animatroniczną, ludzką statuę, żeby pobawić się zdolnością widza do właściwego przypisywania osobowości fizycznemu bytowi."
         },
         {
           "DialogueFrom": "Event/Town/53:s12",
@@ -2932,11 +2932,11 @@
         },
         {
           "DialogueFrom": "Event/Forest/54:s14",
-          "DialogueText": "Nigdy nie wspierałeś mojej sztuki... Dopiero teraz jak mi się to udało chcesz mnie z powrotem? Brzydzę się Tobą. {Portrait:Angry}",
+          "DialogueText": "Nigdy nie czułam od ciebie wsparcia dla mojej sztuki... Dopiero teraz jak mi się to udało chcesz mnie z powrotem? Brzydzę się Tobą. {Portrait:Angry}",
           "AudioPath": "assets/pl/Leah/363.ogg",
           "TranslationKey": "Events/Forest:54:s14",
           "PageIndex": 0,
-          "DisplayPattern": "Nigdy nie wspierałeś mojej sztuki... Dopiero teraz jak mi się to udało chcesz mnie z powrotem? Brzydzę się Tobą."
+          "DisplayPattern": "Nigdy nie czułam od ciebie wsparcia dla mojej sztuki... Dopiero teraz jak mi się to udało chcesz mnie z powrotem? Brzydzę się Tobą."
         },
         {
           "DialogueFrom": "Event/Forest/54:s15",
@@ -3056,11 +3056,11 @@
         },
         {
           "DialogueFrom": "Event/Forest/choseInternet:s4",
-          "DialogueText": "Nigdy nie wspierałeś mojej sztuki... Dopiero teraz gdy coś osiągnęłam chcesz mnie z powrotem? Brzydzisz mnie. {Portrait:Angry}",
+          "DialogueText": "Nigdy nie czułam od ciebie wsparcia dla mojej sztuki... Dopiero teraz gdy coś osiągnęłam chcesz mnie z powrotem? Brzydzisz mnie. {Portrait:Angry}",
           "AudioPath": "assets/pl/Leah/378.ogg",
           "TranslationKey": "Events/Forest:choseInternet:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Nigdy nie wspierałeś mojej sztuki... Dopiero teraz gdy coś osiągnęłam chcesz mnie z powrotem? Brzydzisz mnie."
+          "DisplayPattern": "Nigdy nie czułam od ciebie wsparcia dla mojej sztuki... Dopiero teraz gdy coś osiągnęłam chcesz mnie z powrotem? Brzydzisz mnie."
         },
         {
           "DialogueFrom": "Event/Forest/choseInternet:s5",
@@ -3260,11 +3260,11 @@
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s9",
-          "DialogueText": "Hej, Tylko o to pytam. Staraj się, a na pewno się nauczysz!",
+          "DialogueText": "Hej, no i o to chodzi. Staraj się, a na pewno się nauczysz!",
           "AudioPath": "assets/pl/Leah/403.ogg",
           "TranslationKey": "Events/Forest:3091462:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, Tylko o to pytam. Staraj się, a na pewno się nauczysz!"
+          "DisplayPattern": "Hej, no i o to chodzi. Staraj się, a na pewno się nauczysz!"
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s10",
@@ -3826,11 +3826,11 @@
         },
         {
           "DialogueFrom": "Festival/spring13/Leah",
-          "DialogueText": "Mmmm... Ten owocowy strzał jest niespotykanie dobry. {Portrait:Happy}",
+          "DialogueText": "Mmmm... Ten poncz jest niespotykanie dobry. {Portrait:Happy}",
           "AudioPath": "assets/pl/Leah/496.ogg",
           "TranslationKey": "Data/Festivals/spring13:Leah",
           "PageIndex": 0,
-          "DisplayPattern": "Mmmm... Ten owocowy strzał jest niespotykanie dobry."
+          "DisplayPattern": "Mmmm... Ten poncz jest niespotykanie dobry."
         },
         {
           "DialogueFrom": "Festival/spring13/Leah_y2",
@@ -4068,11 +4068,11 @@
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Leah",
-          "DialogueText": "Wczoraj kupiłam {1} {2} u Pierra. Świetnie smakowało jak na zieleninę i ze szczyptą mojego 'specjalnego' dressingu.",
+          "DialogueText": "Ostatnio kupiłam {1} {2} u Pierra. Było doskonałe na liściach sałaty z kroplą mojego 'specjalnego' winegret.",
           "AudioPath": "assets/pl/Leah/526.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Leah",
           "PageIndex": 0,
-          "DisplayPattern": "Wczoraj kupiłam {1} {2} u Pierra. Świetnie smakowało jak na zieleninę i ze szczyptą mojego 'specjalnego' dressingu."
+          "DisplayPattern": "Ostatnio kupiłam {1} {2} u Pierra. Było doskonałe na liściach sałaty z kroplą mojego 'specjalnego' winegret."
         },
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Leah",
@@ -4264,7 +4264,7 @@
         },
         {
           "DialogueFrom": "Event/LeahHouse/51:s6",
-          "DialogueText": "Ciągle do mnie wydzwania moja ex...",
+          "DialogueText": "Ciągle do mnie wydzwania moja ex... {Portrait:Sad}",
           "AudioPath": "assets/pl/Leah/544_female.ogg",
           "TranslationKey": "Events/LeahHouse:51:s6",
           "PageIndex": 0,
@@ -4289,7 +4289,7 @@
         },
         {
           "DialogueFrom": "Event/LeahHouse/51:s9",
-          "DialogueText": "Mieszkałyśmy razem w mieszkaniu w mieście.",
+          "DialogueText": "Mieszkałyśmy razem w mieszkaniu w mieście. {Portrait:Unique}",
           "AudioPath": "assets/pl/Leah/545_female.ogg",
           "TranslationKey": "Events/LeahHouse:51:s9",
           "PageIndex": 0,
@@ -4324,11 +4324,11 @@
         },
         {
           "DialogueFrom": "Event/LeahHouse/51:s13",
-          "DialogueText": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... co {Portrait:Unique}",
+          "DialogueText": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... coś w ten deseń. {Portrait:Unique}",
           "AudioPath": "assets/pl/Leah/447.ogg",
           "TranslationKey": "Events/LeahHouse:51:s13",
           "PageIndex": 0,
-          "DisplayPattern": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... co"
+          "DisplayPattern": "Chyba to był pomysł o oszczędzaniu na normalne życie. No wiesz... dom na przedmieściu, dzieci, spotkania Komitetu Rodzicielskiego... coś w ten deseń."
         },
         {
           "DialogueFrom": "Event/LeahHouse/51:s14",

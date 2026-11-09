@@ -1291,6 +1291,14 @@
           "TranslationKey": "Strings/Locations:Caroline_Tea_Event3",
           "PageIndex": 0,
           "DisplayPattern": "Kto wie co może się pojawić?"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/Caroline_Sunroom_Door",
+          "DialogueText": "Caroline pozwala wejść tutaj wyłącznie swoim przyjaciołom...",
+          "AudioPath": "assets/pl/Caroline/161.ogg",
+          "TranslationKey": "Strings/Locations:Caroline_Sunroom_Door",
+          "PageIndex": 0,
+          "DisplayPattern": "Caroline pozwala wejść tutaj wyłącznie swoim przyjaciołom..."
         }
       ]
     }

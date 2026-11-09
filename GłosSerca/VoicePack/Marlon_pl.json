@@ -10,35 +10,35 @@
       "Entries": [
         {
           "DialogueFrom": "Event/Farm/690006:s0",
-          "DialogueText": "Bumped into Robin this morning... she told me you've got a new Slime Hutch!",
+          "DialogueText": "Wpadłem dziś rano do Robin... powiedziała mi, że masz Szlamową Farmę!",
           "AudioPath": "assets/pl/Marlon/1.ogg",
           "TranslationKey": "Events/Farm:690006:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Bumped into Robin this morning... she told me you've got a new Slime Hutch!"
+          "DisplayPattern": "Wpadłem dziś rano do Robin... powiedziała mi, że masz Szlamową ę!"
         },
         {
           "DialogueFrom": "Event/Farm/690006:s1",
-          "DialogueText": "Not bad!",
+          "DialogueText": "Nieźle!",
           "AudioPath": "assets/pl/Marlon/2.ogg",
           "TranslationKey": "Events/Farm:690006:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Not bad!"
+          "DisplayPattern": "Nieźle!"
         },
         {
           "DialogueFrom": "Event/Farm/690006:s2",
-          "DialogueText": "I was into slime breeding at your age. It's a great hobby... but dangerous.",
+          "DialogueText": "W Twoim wieku zajmowałem się hodowaniem szlamu. To dobre hobby... ale niebezpieczne.",
           "AudioPath": "assets/pl/Marlon/3.ogg",
           "TranslationKey": "Events/Farm:690006:s2",
           "PageIndex": 0,
-          "DisplayPattern": "I was into slime breeding at your age. It's a great hobby... but dangerous."
+          "DisplayPattern": "W Twoim wieku zajmowałem się hodowaniem szlamu. To dobre hobby... ale niebezpieczne."
         },
         {
           "DialogueFrom": "Event/Farm/690006:s3",
-          "DialogueText": "How'd you think I lost this eye?",
+          "DialogueText": "Jak myślisz, jak straciłem to oko?",
           "AudioPath": "assets/pl/Marlon/4.ogg",
           "TranslationKey": "Events/Farm:690006:s3",
           "PageIndex": 0,
-          "DisplayPattern": "How'd you think I lost this eye?"
+          "DisplayPattern": "Jak myślisz, jak straciłem to oko?"
         },
         {
           "DialogueFrom": "Event/Farm/690006:s4",
@@ -50,43 +50,43 @@
         },
         {
           "DialogueFrom": "Event/Farm/690006:s5",
-          "DialogueText": "Just Kidding.",
+          "DialogueText": "Żartuję.",
           "AudioPath": "assets/pl/Marlon/6.ogg",
           "TranslationKey": "Events/Farm:690006:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Just Kidding."
+          "DisplayPattern": "Żartuję."
         },
         {
           "DialogueFrom": "Event/Farm/690006:s6",
-          "DialogueText": "Here, I've got something for you.",
+          "DialogueText": "Proszę, mam coś dla Ciebie.",
           "AudioPath": "assets/pl/Marlon/7.ogg",
           "TranslationKey": "Events/Farm:690006:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Here, I've got something for you."
+          "DisplayPattern": "Proszę, mam coś dla Ciebie."
         },
         {
           "DialogueFrom": "Event/Farm/690006:s7",
-          "DialogueText": "It's a slime egg. You can place that inside a slime incubator to hatch it.",
+          "DialogueText": "To jajko szlamu. Możesz je wsadzić do inkubatora szlamu, żeby się wykluło.",
           "AudioPath": "assets/pl/Marlon/8.ogg",
           "TranslationKey": "Events/Farm:690006:s7",
           "PageIndex": 0,
-          "DisplayPattern": "It's a slime egg. You can that inside a slime incubator to hatch it."
+          "DisplayPattern": "To jajko szlamu. Możesz je wsadzić do inkubatora szlamu, żeby się wykluło."
         },
         {
           "DialogueFrom": "Event/Farm/690006:s8",
-          "DialogueText": "Now, take a good hard look at that egg. Next time you're out slime-hunting keep your eyes peeled for more eggs. They're rare, but slimes do drop them from time to time.",
+          "DialogueText": "Dobrze się przyjrzyj temu jajku. Następnym razem gdy będziesz polować na szlam, miej oczy szeroko otwarte. Są rzadkie, ale od czasu do czasu wypadają ze szlamów.",
           "AudioPath": "assets/pl/Marlon/9.ogg",
           "TranslationKey": "Events/Farm:690006:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Now, take a good hard look at that egg. Next you're out slime-hunting keep your eyes peeled for more eggs. They're rare, but slimes do drop them from to ."
+          "DisplayPattern": "Dobrze się przyjrzyj temu jajku. Następnym razem gdy będziesz polować na szlam, miej oczy szeroko otwarte. Są rzadkie, ale od czasu do czasu wypadają ze szlamów."
         },
         {
           "DialogueFrom": "Event/Farm/690006:s9",
-          "DialogueText": "Collect eggs from different slimes to add some variety to your herd!",
+          "DialogueText": "Zbieraj jajka z różnych gatunków, żeby dodać trochę różnorodności do swojego stada!",
           "AudioPath": "assets/pl/Marlon/10.ogg",
           "TranslationKey": "Events/Farm:690006:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Collect eggs from different slimes to add some variety to your herd!"
+          "DisplayPattern": "Zbieraj jajka z różnych gatunków, żeby dodać trochę różnorodności do swojego stada!"
         },
         {
           "DialogueFrom": "Event/Mine/100162:s0",
@@ -98,59 +98,59 @@
         },
         {
           "DialogueFrom": "Event/Mine/100162:s1",
-          "DialogueText": "...I was just peering down into this old mine shaft.",
+          "DialogueText": "... Właśnie przyglądałem się tej starej kopalni.",
           "AudioPath": "assets/pl/Marlon/12.ogg",
           "TranslationKey": "Events/Mine:100162:s1",
           "PageIndex": 0,
-          "DisplayPattern": "...I was just peering down into this old mine shaft."
+          "DisplayPattern": "... Właśnie przyglądałem się tej starej kopalni."
         },
         {
           "DialogueFrom": "Event/Mine/100162:s2",
-          "DialogueText": "It's been abandoned for decades.",
+          "DialogueText": "Jest opuszczona od dziesiątek lat.",
           "AudioPath": "assets/pl/Marlon/13.ogg",
           "TranslationKey": "Events/Mine:100162:s2",
           "PageIndex": 0,
-          "DisplayPattern": "It's been aoned for decades."
+          "DisplayPattern": "Jest opuszczona od dziesiątek lat."
         },
         {
           "DialogueFrom": "Event/Mine/100162:s3",
-          "DialogueText": "Still, there's probably good ore down there.",
+          "DialogueText": "Wciąż pewnie jest tam sporo dobrej rudy.",
           "AudioPath": "assets/pl/Marlon/14.ogg",
           "TranslationKey": "Events/Mine:100162:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Still, there's probably good ore down there."
+          "DisplayPattern": "Wciąż pewnie jest tam sporo dobrej rudy."
         },
         {
           "DialogueFrom": "Event/Mine/100162:s4",
-          "DialogueText": "But a dark place, undisturbed for so long... I'm afraid ore isn't the only thing you'll find...",
+          "DialogueText": "Ale to mroczne miejsce, niezakłócone od dłuższego czasu... Obawiam się, że rudy to nie jedyna rzecz, jakie tam znajdziesz...",
           "AudioPath": "assets/pl/Marlon/15.ogg",
           "TranslationKey": "Events/Mine:100162:s4",
           "PageIndex": 0,
-          "DisplayPattern": "But a dark , undisturbed for so long... I'm afraid ore isn't the only thing you'll find..."
+          "DisplayPattern": "Ale to mroczne miejsce, niezakłócone od dłuższego czasu... Obawiam się, że rudy to nie jedyna rzecz, jakie tam znajdziesz..."
         },
         {
           "DialogueFrom": "Event/Mine/100162:s5",
-          "DialogueText": "Here, take this. You might need it.",
+          "DialogueText": "Masz, weź to. Może Ci się przydać.",
           "AudioPath": "assets/pl/Marlon/16.ogg",
           "TranslationKey": "Events/Mine:100162:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Here, take this. You might need it."
+          "DisplayPattern": "Masz, weź to. Może Ci się przydać."
         },
         {
           "DialogueFrom": "Event/Mine/100162:s6",
-          "DialogueText": "Name's Marlon, by the way. I run the adventurer's guild right outside.",
+          "DialogueText": "Tak w ogóle, to jestem Marlon. Prowadzę Gildię Awanturników na prawo od tej kopalni.",
           "AudioPath": "assets/pl/Marlon/17.ogg",
           "TranslationKey": "Events/Mine:100162:s6",
           "PageIndex": 0,
-          "DisplayPattern": "'s Marlon, by the way. I run the adventurer's guild right outside."
+          "DisplayPattern": "Tak w ogóle, to jestem Marlon. Prowadzę Gildię Awanturników na prawo od tej kopalni."
         },
         {
           "DialogueFrom": "Event/Mine/100162:s7",
-          "DialogueText": "I'll keep my eye on you. Prove yourself and I might think about making you a member.",
+          "DialogueText": "Będę miał na Ciebie oko. Udowodnij, że się nadajesz, a może Cię przyjmę.",
           "AudioPath": "assets/pl/Marlon/18.ogg",
           "TranslationKey": "Events/Mine:100162:s7",
           "PageIndex": 0,
-          "DisplayPattern": "I'll keep my eye on you. Prove yourself and I might think about making you a member."
+          "DisplayPattern": "Będę miał na Ciebie oko. Udowodnij, że się nadajesz, a może Cię przyjmę."
         },
         {
           "DialogueFrom": "Festival/fall16/Marlon",

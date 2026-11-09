@@ -644,11 +644,11 @@
         },
         {
           "DialogueFrom": "event_credit1",
-          "DialogueText": "Hej, patrz na usta! Nikt nie mówi mi, co mam robić! {Portrait:Unique}",
+          "DialogueText": "Hej, uważaj na słowa! Nikt nie mówi mi, co mam robić! {Portrait:Unique}",
           "AudioPath": "assets/pl/Pam/79.ogg",
           "TranslationKey": "Characters/Dialogue/Pam:event_credit1",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, patrz na usta! Nikt nie mówi mi, co mam robić!"
+          "DisplayPattern": "Hej, uważaj na słowa! Nikt nie mówi mi, co mam robić!"
         },
         {
           "DialogueFrom": "event_credit2",
@@ -686,20 +686,20 @@
         },
         {
           "DialogueFrom": "summer_Tue2",
-          "DialogueText": "Och, to Pan {Farmer_Name}.",
+          "DialogueText": "Och, to ty, {Farmer_Name}.",
           "AudioPath": "assets/pl/Pam/84_male.ogg",
           "TranslationKey": "Characters/Dialogue/Pam:summer_Tue2",
           "PageIndex": 0,
-          "DisplayPattern": "Och, to Pan .",
+          "DisplayPattern": "Och, to ty, .",
           "GenderVariant": "male"
         },
         {
           "DialogueFrom": "summer_Tue2",
-          "DialogueText": "Och, to Panna {Farmer_Name}.",
+          "DialogueText": "Trzeba Ci czegoś, czy co?",
           "AudioPath": "assets/pl/Pam/85_female.ogg",
           "TranslationKey": "Characters/Dialogue/Pam:summer_Tue2",
           "PageIndex": 1,
-          "DisplayPattern": "Och, to Panna .",
+          "DisplayPattern": "Trzeba Ci czegoś, czy co?",
           "GenderVariant": "female"
         },
         {
