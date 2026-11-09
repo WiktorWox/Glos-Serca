@@ -415,11 +415,60 @@ namespace VoiceOverFrameworkMod
         /// <summary>
         /// Build "Events/{Map}:{NumericId}" from the active event.
         /// </summary>
+        // After a 'fork' command the game swaps ev.eventCommands for another script from the same
+        // Data/Events file (e.g. HaleyHouse "choseToExplain") but keeps ev.id, so the fork's lines are
+        // keyed by the fork name in the pack (Events/HaleyHouse:choseToExplain:s0...). The fork name
+        // is not stored anywhere, so recover it by matching the new command list against the file.
+        private Event _forkEvent;
+        private string[] _forkCommands;
+        private string _forkKey;
+
+        private string ResolveForkKey(Event ev, string map)
+        {
+            if (ev == null || !ev.forked || ev.eventCommands == null || ev.eventCommands.Length == 0)
+                return null;
+            if (ReferenceEquals(ev, _forkEvent) && ReferenceEquals(ev.eventCommands, _forkCommands))
+                return _forkKey;
+
+            _forkEvent = ev;
+            _forkCommands = ev.eventCommands;
+            _forkKey = null;
+            try
+            {
+                var scripts = Game1.content.Load<Dictionary<string, string>>("Data\\Events\\" + map);
+                string[] head = ev.eventCommands.Take(3).Select(c => c?.Trim() ?? string.Empty).ToArray();
+                foreach (var kv in scripts)
+                {
+                    if (string.IsNullOrEmpty(kv.Value) || char.IsDigit(kv.Key[0]))
+                        continue; // numbered entries are the main events, forks have plain names
+                    string[] candidate = kv.Value.Split('/').Take(head.Length).Select(c => c.Trim()).ToArray();
+                    if (candidate.Length == head.Length && candidate.SequenceEqual(head, StringComparer.Ordinal))
+                    {
+                        _forkKey = kv.Key.Split('/')[0];
+                        break;
+                    }
+                }
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-EVENT] fork detected in {map}: key='{_forkKey ?? "?"}' first='{head.FirstOrDefault()}'", LogLevel.Debug);
+            }
+            catch (Exception ex)
+            {
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-EVENT] fork lookup failed: {ex.Message}", LogLevel.Debug);
+            }
+            return _forkKey;
+        }
+
         private string BuildEventBaseKeyForCurrent(Event ev)
         {
             try
             {
                 string map = Game1.currentLocation?.Name ?? "Unknown";
+
+                string forkKey = ResolveForkKey(ev, map);
+                if (!string.IsNullOrEmpty(forkKey))
+                    return $"Events/{map}:{forkKey}";
+
                 // ev.id for regular events is like "6963327/f Abigail 3500/O Abigail/t 610 1700"
                 // extract the leading number
                 string id = ev?.id;
@@ -495,11 +544,27 @@ namespace VoiceOverFrameworkMod
                        expected.Contains(actual, StringComparison.OrdinalIgnoreCase);
             }
 
+            string lastActor = null; // actor of the most recent speak/bubble, for the 'question' rule below
             for (int i = 0; i <= current; i++)
             {
                 string line = ev.eventCommands[i];
                 if (string.IsNullOrWhiteSpace(line))
                     continue;
+
+                // The template generator attributes the player's answer options of a
+                // 'question' command to whoever spoke last (e.g. HaleyHouse 195012: Abigail
+                // s4/s5 are the farmer's choices), so later lines of that speaker shift.
+                if (line.StartsWith("question ", StringComparison.OrdinalIgnoreCase))
+                {
+                    if (lastActor != null && lastActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
+                    {
+                        int o1 = line.IndexOf('"');
+                        int o2 = line.LastIndexOf('"');
+                        string options = o1 >= 0 && o2 > o1 ? line.Substring(o1 + 1, o2 - o1 - 1) : string.Empty;
+                        serial += options.Split('#').Count(o => !string.IsNullOrWhiteSpace(o));
+                    }
+                    continue;
+                }
 
                 // Commands include normal dialogue and event speech bubbles.
                 bool isSpeak = line.StartsWith("speak ", StringComparison.OrdinalIgnoreCase);
@@ -543,6 +608,7 @@ namespace VoiceOverFrameworkMod
                                 continue;
                             string cActor = cmd.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries)
                                 .ElementAtOrDefault(1)?.Trim().Trim('"').TrimEnd('?');
+                            if (cActor != null) lastActor = cActor;
                             if (cActor == null || !cActor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
                                 continue;
 
@@ -628,6 +694,7 @@ namespace VoiceOverFrameworkMod
                 if (parts.Length >= 2)
                 {
                     actor = parts[1].Trim().Trim('"').TrimEnd('?'); // optional-NPC markers can appear with '?' suffix
+                    lastActor = actor;
                 }
 
                 if (actor != null && actor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
