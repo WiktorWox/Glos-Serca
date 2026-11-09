@@ -115,14 +115,23 @@ namespace VoiceOverFrameworkMod
         /// their own code (e.g. "pl") instead of collapsing to English.
         /// </summary>
         /// <summary>Map an event actor name to the voiced character it stands for (see <see cref="ModConfig.ActorAliases"/>).</summary>
+        /// <summary>Aliases the mod knows about regardless of config.json, so an older config file
+        /// (which SMAPI loads as-is) never hides an alias added in a newer version. Config entries
+        /// win when they name the same actor.</summary>
+        private static readonly Dictionary<string, string> BuiltInActorAliases = new(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ParrotBoy"] = "Leo",    // Leo before he says his name (IslandHut 1039573)
+            ["Toddler"] = "Parrot",   // the parrot repeating the player's question in the same event
+        };
+
         internal string ResolvePackCharacter(string actorName)
         {
             if (string.IsNullOrWhiteSpace(actorName))
                 return actorName;
             var aliases = Config?.ActorAliases;
-            return aliases != null && aliases.TryGetValue(actorName, out var character) && !string.IsNullOrWhiteSpace(character)
-                ? character
-                : actorName;
+            if (aliases != null && aliases.TryGetValue(actorName, out var character) && !string.IsNullOrWhiteSpace(character))
+                return character;
+            return BuiltInActorAliases.TryGetValue(actorName, out var builtIn) ? builtIn : actorName;
         }
 
         internal string GetGameLanguageTag(LocalizedContentManager.LanguageCode? code = null)

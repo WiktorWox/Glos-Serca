@@ -8,10 +8,10 @@ namespace VoiceOverFrameworkMod
         public string DefaultLanguage { get; set; } = "pl";
         /// <summary>Game language -> pack language. The "Podmiana" Polish translation replaces the game's pt-BR texts, so a game running in pt-BR shows Polish and should use the "pl" pack. The additional-language Polish mod reports "pl" directly.</summary>
         public Dictionary<string, string> LanguageAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["pt-BR"] = "pl" };
-        /// <summary>Event actors that are really one of the voiced characters under another name
-        /// (e.g. Leo is the temporary actor "ParrotBoy" in his first-meeting event). Lines spoken by the
-        /// alias use the character's voice pack; event slots are still counted per actor name.</summary>
-        public Dictionary<string, string> ActorAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["ParrotBoy"] = "Leo", ["Toddler"] = "Parrot" };
+        /// <summary>Extra event-actor aliases (actor name -> voiced character), e.g. for other mods' events.
+        /// The mod's built-in aliases (ParrotBoy -> Leo, Toddler -> Parrot) always apply; entries here
+        /// add to them or override them. Event slots are still counted per actor name.</summary>
+        public Dictionary<string, string> ActorAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase);
         public float MasterVolume { get; set; } = 1.0f;
         public bool turnoffdialoguetypingsound = true;
         public bool FallbackToDefaultIfMissing { get; set; } = false;
