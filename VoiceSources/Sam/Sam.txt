@@ -1,0 +1,2380 @@
+DialogueFrom: 10
+DialogueText: Oglądałeś wczorajszy mecz?
+AudioName: 1_male.ogg
+--------------------------------------------------
+DialogueFrom: 10
+DialogueText: Oglądałaś wczorajszy mecz?
+AudioName: 2_female.ogg
+--------------------------------------------------
+DialogueFrom: 10
+DialogueText: Czekaj, ty w ogóle masz telewizor...?
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: 14
+DialogueText: Ugh, chyba w coś wdepnąłem... A to są nowe buty. {Portrait:Sad}
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: Hej, jestem Sam. Miło mi cię poznać. {Portrait:Happy}
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)206
+DialogueText: O, jea... Pora na pizzę! {Portrait:Happy}
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: Hej, hej, hej! Pamiętałeś! I to się nazywa prezent! {Portrait:Happy}
+AudioName: 7_male.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: Hej, hej, hej! Pamiętałaś! I to się nazywa prezent! {Portrait:Happy}
+AudioName: 8_female.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: Hej, hej, hej! Pamięt-- {Portrait:Happy}
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: ...*niuch*...*niuch*... co to za smród...? {Portrait:Custom:8}
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: ... Oh. {Portrait:Angry}
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Accept
+DialogueText: Oh... ze mną? He he... Pewnie. Brzmi fajnie! {Portrait:Custom:10}
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Coo! Czy to kwas? Czy przepali się przez dach i rozpuści nas żywcem? {Portrait:Custom:8}
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Muszę ochronić mojego braciszka! {Portrait:Custom:7}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: GreenRainFinished
+DialogueText: Chyba nie ma żadnych szkód... To było dziwne. Jak się trzymasz?
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Czujesz, jaki ten deszcz jest ciepły? Jakby był żywy...
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: dating_Sam
+DialogueText: Więc ten... dostanę całusa?? {Portrait:Love}
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: dating_Sam_memory_oneday
+DialogueText: Nie mogłem wczoraj zasnąć. Wyobrażałem sobie wszystkie rzeczy, które razem zrobimy. {Portrait:Custom:10}
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: Łał... Czekaj... to dla mnie? Nie spodziewałem się tego! Dzięki!
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: dating_Sebastian
+DialogueText: Słyszałem, że chodzisz z Sebastianem... Lepiej, żeby przychodził na nasze próby!
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: married_Sebastian
+DialogueText: Wow, nie mogę uwierzyć, że wzięliście z Sebastianem ślub... {Portrait:Unique}
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: married_Sebastian
+DialogueText: Ech, w porządku. Na pewno znajdzie czas na różne wypady.
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: married_Abigail
+DialogueText: Hej, o co ci chodzi? Zabrałeś mi perkusistkę! {Portrait:Custom:8}
+AudioName: 23_male.ogg
+--------------------------------------------------
+DialogueFrom: married_Abigail
+DialogueText: Hej, o co ci chodzi? Zabrałaś mi perkusistkę! {Portrait:Custom:8}
+AudioName: 24_female.ogg
+--------------------------------------------------
+DialogueFrom: married_Abigail
+DialogueText: Ha ha, żartuję... Gratki! {Portrait:Happy}
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_45
+DialogueText: Lepiej trochę przystopuję. Nie chciałbym wkurzyć burmistrza!
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: firstVisit_Sewer
+DialogueText: He he... byłeś w ściekach, prawda? Też parę razy się tam wkradłem. Jest tam dość strasznie.
+AudioName: 27_male.ogg
+--------------------------------------------------
+DialogueFrom: firstVisit_Sewer
+DialogueText: He he... byłaś w ściekach, prawda? Też parę razy się tam wkradłem. Jest tam dość strasznie.
+AudioName: 28_female.ogg
+--------------------------------------------------
+DialogueFrom: firstVisit_Sewer
+DialogueText: Skąd wiem? Hmm... powiedzmy, że... 'wiem to po nosie'. {Portrait:Happy}
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_45_memory_oneweek
+DialogueText: Czy nie byłoby fajnie, gdyby w mieście był skatepark?
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_45_memory_oneweek
+DialogueText: Tylko jak przekonać burmistrza... {Portrait:Sad}
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_4081148_memory_oneday
+DialogueText: Mimo wszystkich prób i tak zrobiłem na scenie sporo błędów... Mam nadzieję, że nikt nie zauważył. {Portrait:Sad}
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_4081148_memory_oneday
+DialogueText: Takie występy są naprawdę stresujące! {Portrait:Happy}
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_733330_memory_oneday
+DialogueText: Jeśli... znaczy, jak... mój tata wróci, zastanawiam się, czy będzie taki sam, jak go zapamiętałem? {Portrait:Sad}
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Entering
+DialogueText: Wow, ale miejscówa!
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Założę się, że w głębi tej wyspy można znaleźć ciekawe rzeczy.
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Willy kazał nam zostać przy brzegu... Jakieś problemy z odpowiedzialnością, czy coś. {Portrait:Sad}
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving
+DialogueText: Dobrze się czuję na słońcu. {Portrait:Happy}
+AudioName: 38.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: Obczaj te burzliwe fale... Wiesz co? Zacznę odkładać na deskę surfingową.
+AudioName: 39.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Towel
+DialogueText: Sam gra jazzową melodię na swojej gitarze.
+AudioName: 40.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Towel_2
+DialogueText: Może powinienem nauczyć się grać na ukulele.
+AudioName: 41.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Towel_2
+DialogueText: Abby na kongach i Sebastian na stalowych bębnach... 'Rajskie Pelikany'... {Portrait:Sad}
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Towel_2
+DialogueText: Coś nie tak? Dziwnie wyglądasz. {Portrait:Happy}
+AudioName: 43.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Bar
+DialogueText: Trochę się napiję, a potem wracam na plażę.
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Accept_Spouse
+DialogueText: Ooo, będę musiał założyć to głupie wdzianko? Myślałem, że skoro jesteśmy po ślubie... No dobra. {Portrait:Sad}
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: FlowerDance_Decline
+DialogueText: Hmm... No nie wiem. Może za rok. {Portrait:Sad}
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: dumped_Guys
+DialogueText: ... {Portrait:Angry}
+AudioName: 47.ogg
+--------------------------------------------------
+DialogueFrom: secondChance_Guys
+DialogueText: Dobra, już się nie gniewam. Zapomnijmy o tym. {Portrait:Custom:7}
+AudioName: 48.ogg
+--------------------------------------------------
+DialogueFrom: breakUp
+DialogueText: Czekaj... Co?! {Portrait:Custom:8}
+AudioName: 49.ogg
+--------------------------------------------------
+DialogueFrom: breakUp
+DialogueText: Myślałem, że dobrze nam idzie... Ale się myliłem... W porządku. {Portrait:Custom:9}
+AudioName: 50.ogg
+--------------------------------------------------
+DialogueFrom: breakUp
+DialogueText: Ta, pewnie... Nadal możemy być przyjaciółmi. {Portrait:Custom:9}
+AudioName: 51.ogg
+--------------------------------------------------
+DialogueFrom: divorced
+DialogueText: Wybacz, {Farmer_Name}. Raczej nie możemy być przyjaciółmi. {Portrait:Sad}
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: Mon2
+DialogueText: Hej, jak leci?
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: Mon2
+DialogueText: Ostatniej nocy ćwiczyłem grę na gitarze przez 4 godziny. Okropnie bolą mnie palce. {Portrait:Sad}
+AudioName: 54.ogg
+--------------------------------------------------
+DialogueFrom: Mon2
+DialogueText: Mam coś do załatwienia, na razie...
+AudioName: 55.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Hej, farmerze.
+AudioName: 56_male.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Hej, farmerko.
+AudioName: 57_female.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Zdradzę ci sekret... 'Sam' to zdrobnienie od 'Samson'. {Portrait:Custom:10}
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Większość ludzi o tym nie wie, więc nikomu nie mów.
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: O, cześć! Dobrze cię widzieć.
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Luz w bluz.
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: Tue4
+DialogueText: Cześć, {Farmer_Name}. Chcesz gdzieś razem połazić, czy coś?
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: Tue4
+DialogueText: Przyjemnie się śpi, ale czasami szkoda na to dnia... To taka strata czasu.
+AudioName: 63.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Hej... jak myślisz, o czym mógłbym ją napisać?
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: O rolnictwie, kopaniu i ścinaniu drzew.
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: O mieście na morzu.
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: O pociągach.
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: O czymkolwiek. I tak będzie okropna.
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: Wed_old
+DialogueText: Już wiem, co o tym myślisz. {Portrait:Angry}
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: Wed_old
+DialogueText: Dzięki twojej pomocy mam już napisane słowa! {Portrait:Happy}
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: Wed_19
+DialogueText: Hej,... O co ci chodzi? Wybacz, że pytałem. {Portrait:Angry}
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: Wed_20
+DialogueText: Hej, wiesz co? Brzmi nieźle. Dzięki! {Portrait:Happy}
+AudioName: 72.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Od jakiegoś czasu przyjaźnię się z Sebastianem. Jest całkiem spoko.
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Gdyby was tu nie było, to chyba nie miałbym żadnych kumpli w tym mieście.
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: Wed10
+DialogueText: Hej, ziomek. Świetnie dziś wyglądasz!
+AudioName: 75_male.ogg
+--------------------------------------------------
+DialogueFrom: Wed10
+DialogueText: {Farmer_Name}. Em... Chciałem tylko powiedzieć... Ładnie dziś wyglądasz. {Portrait:Custom:10}
+AudioName: 76_male.ogg
+--------------------------------------------------
+DialogueFrom: Wed10
+DialogueText: Hej, . Świetnie dziś wyglądasz!
+AudioName: 77_female.ogg
+--------------------------------------------------
+DialogueFrom: Wed10
+DialogueText: {Farmer_Name}. Em... Chciałem tylko powiedzieć... Ładnie dziś wyglądasz. {Portrait:Custom:10}
+AudioName: 78_female.ogg
+--------------------------------------------------
+DialogueFrom: Thu6_1
+DialogueText: Chyba mój tata ma wrócić w tym roku.
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: Thu6_1
+DialogueText: W końcu go poznasz. Jeśli dalej tu będziesz mieszkać.
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: Thu6_1
+DialogueText: Choć wątpię, że opuścisz farmę po włożeniu w nią tyle pracy!
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: Thu6_2
+DialogueText: ... Mam mieszane uczucia co do powrotu mojego ojca. Wydaje się dziwny. {Portrait:Sad}
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: Thu6_2
+DialogueText: Ale nie widziałem go przez 3 lata... Więc to chyba wszystko tłumaczy.
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: Thu_3
+DialogueText: *Ech*... Co ja tu jeszcze robię?
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Chmury pięknie wyglądają o tej porze roku, co nie?
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Trochę jak gałki lodów waniliowych unoszących się na niebieskim sosie malinowym... Dobra, po prostu jestem głodny.
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: Thu2
+DialogueText: Mojego ojca tutaj nie ma, jest żołnierzem. Walczy z Imperium Gotoro...
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: Thu2
+DialogueText: Pewnie któregoś dnia wróci.
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: Thu2
+DialogueText: ... Choć słyszałem same złe rzeczy o Gotoro... {Portrait:Sad}
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: Thu_2
+DialogueText: Mój tata wrócił. Poznaliście się już?
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: Thu_2
+DialogueText: Na szczęście nic mu nie jest.
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: Thu2_2
+DialogueText: Mój tata wrócił. Poznaliście się już?
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: Thu2_2
+DialogueText: Na szczęście nic mu nie jest.
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Mówiłem ci, że kiedyś mieszkaliśmy w mieście?
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Z pewnością dzieje się tam o wiele więcej, ale też jest głośniej... Ciężko powiedzieć, gdzie jest lepiej.
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Mój tata w mieście był śmieciarzem.
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Serio, nie chcesz wiedzieć, co ludzie czasami wyrzucają do śmieci.
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: Fri10
+DialogueText: Z wiekiem bardziej się przywiązuję do tego miejsca.
+AudioName: 98.ogg
+--------------------------------------------------
+DialogueFrom: Fri10
+DialogueText: Chociaż mógłbym być z pewnego powodu uprzedzony. {Portrait:Custom:10}
+AudioName: 99.ogg
+--------------------------------------------------
+DialogueFrom: Fri10
+DialogueText: Zresztą, nieważne. Jak się dziś miewasz? {Portrait:Happy}
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: Sat4
+DialogueText: Och! Właśnie sobie przypomniałem, że miałem zadzwonić do babci. OK, założę gumkę na nadgarstek, żeby nie zapomnieć.
+AudioName: 101.ogg
+--------------------------------------------------
+DialogueFrom: Sat4
+DialogueText: Czasami muszę robić sobie takie przypomnienia, bo inaczej o wszystkim zapomnę. {Portrait:Happy}
+AudioName: 102.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Hmm. Przypomniałem sobie, że miałem coś zrobić... Ale zapomniałem co.
+AudioName: 103.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Ciągle mi się to zdarza.
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: Sun8
+DialogueText: Czasami się zastanawiam, czy moja mama jest szczęśliwa ze swojego życia... {Portrait:Sad}
+AudioName: 105.ogg
+--------------------------------------------------
+DialogueFrom: Sun8
+DialogueText: Kiedyś ją o to zapytałem i poczułem, że coś ukrywa.
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: O, ładny mamy dziś dzień... Nie?
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: spring_21
+DialogueText: Przez te wiosenne pyłki cieknie mi z nosa. {Portrait:Sad}
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: spring_21
+DialogueText: Najbardziej lubię lato.
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: Event_band1
+DialogueText: Hej, wiesz co? Dokładnie o takim stylu myślałem... dla kapeli.
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: Event_band2
+DialogueText: Hej, wiesz co? Dokładnie o takim stylu myślałem... dla kapeli.
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Event_band3
+DialogueText: Hej, wiesz co? Dokładnie o takim stylu myślałem... dla kapeli.
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: Event_band4
+DialogueText: Hej, wiesz co? Dokładnie o takim stylu myślałem... dla kapeli.
+AudioName: 113.ogg
+--------------------------------------------------
+DialogueFrom: event_room1
+DialogueText: Ooo, rozumiem.
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: spring_12
+DialogueText: Mój młodszy brat tak się zachwyca festiwalami. Cały czas gada o jutrzejszym polowaniu na jajka.
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: spring_23
+DialogueText: Czemu Taniec Kwiatów nie mógłby być dzisiaj? Nie musiałbym wtedy pracować. {Portrait:Sad}
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: winter_7
+DialogueText: Pewnego dnia Gus wpadł do rzeki podczas Festiwalu Lodu. Musieliśmy mocno rozpalić w piecu, żeby się ogrzał.
+AudioName: 117.ogg
+--------------------------------------------------
+DialogueFrom: winter_7
+DialogueText: Martwiliśmy się, że już nigdy nie zjemy jego spaghetti.
+AudioName: 118.ogg
+--------------------------------------------------
+DialogueFrom: fall_26
+DialogueText: Dziś w nocy, kiedy wszyscy pójdą spać, ten dziwny człowiek z lasu przygotuje nawiedzony labirynt. Zawsze upewnia się, że nikt go nie widzi.
+AudioName: 119.ogg
+--------------------------------------------------
+DialogueFrom: summer_10
+DialogueText: Nie muszę jutro pracować! Nigdy nie byłem tak szczęśliwy. {Portrait:Happy}
+AudioName: 120.ogg
+--------------------------------------------------
+DialogueFrom: winter_24
+DialogueText: Święto Gwiazdy ma być czasem okazywania wdzięczności za wszystkie dobre rzeczy, jakie nas spotykają w życiu.
+AudioName: 121.ogg
+--------------------------------------------------
+DialogueFrom: winter_24
+DialogueText: Ja? Głównie idę się najeść. He he. {Portrait:Happy}
+AudioName: 122.ogg
+--------------------------------------------------
+DialogueFrom: event_room2
+DialogueText: Tak... Tak było!
+AudioName: 123.ogg
+--------------------------------------------------
+DialogueFrom: event_snack1
+DialogueText: On ma rację... Tak było. {Portrait:Sad}
+AudioName: 124_male.ogg
+--------------------------------------------------
+DialogueFrom: event_snack1
+DialogueText: Ona ma rację... Tak było. {Portrait:Sad}
+AudioName: 125_female.ogg
+--------------------------------------------------
+DialogueFrom: event_snack2
+DialogueText: Tak... Tak było!
+AudioName: 126.ogg
+--------------------------------------------------
+DialogueFrom: event_snack3
+DialogueText: Co!? On kłamie! {Portrait:Angry}
+AudioName: 127_male.ogg
+--------------------------------------------------
+DialogueFrom: event_snack3
+DialogueText: Co!? Ona kłamie! {Portrait:Angry}
+AudioName: 128_female.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon2
+DialogueText: Hej, jak leci?
+AudioName: 129.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon2
+DialogueText: Jestem głodny.
+AudioName: 130.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon2
+DialogueText: Widzimy się później.
+AudioName: 131.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon6
+DialogueText: Byłeś już na pustyni?
+AudioName: 132_male.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon6
+DialogueText: Byłaś już na pustyni?
+AudioName: 133_female.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon6
+DialogueText: Można tam znaleźć ciekawe rzeczy. Tata czasami mnie tam zabierał, jak byłem mały.
+AudioName: 134.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: Latem jest trochę mniej pyłków... Mój nos się cieszy.
+AudioName: 135.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue
+DialogueText: Cześć! Miło Cię znowu widzieć.
+AudioName: 136.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue
+DialogueText: To na razie.
+AudioName: 137.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Cześć, {Farmer_Name}. Chcesz się gdzieś przejść czy coś?
+AudioName: 138.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Latem mam tyle energii, że czasem trudno mi zasnąć!
+AudioName: 139.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed
+DialogueText: Cześć. Robisz sobie wolne?
+AudioName: 140.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed
+DialogueText: Brzmi ciekawie.
+AudioName: 141.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed2
+DialogueText: Ostatniej nocy zobaczyłem pająka na suficie. Chyba lubią ciepło.
+AudioName: 142.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed2
+DialogueText: Mam tylko nadzieję, że nie wszedł mi do ust, jak spałem... {Portrait:Sad}
+AudioName: 143.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu
+DialogueText: Tata opowiadał mi o wrogu naszego kraju, Imperium Gotoro... Wyglądają na straszną bandę.
+AudioName: 144.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu6_1
+DialogueText: Czasem słyszę, jak tata chodzi nocą po korytarzu. {Portrait:Sad}
+AudioName: 145.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu6_1
+DialogueText: ... Ale nie mówi nam, co mu dolega.
+AudioName: 146.ogg
+--------------------------------------------------
+DialogueFrom: summer_Fri
+DialogueText: Wiesz... Kiedyś mieszkałem w mieście i muszę przyznać, że tu jest o wiele ładniej latem. {Portrait:Happy}
+AudioName: 147.ogg
+--------------------------------------------------
+DialogueFrom: summer_Fri
+DialogueText: W mieście beton tylko potęguje upał.
+AudioName: 148.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Jak widzisz balony w powietrzu, to wiesz, że jest lato.
+AudioName: 149.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon2
+DialogueText: Lubię spacerować jesienią po lesie. Podoba mi się ta temperatura.
+AudioName: 150.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon2
+DialogueText: ... {Portrait:Happy}
+AudioName: 151.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: O, cześć. Masz w mieście jakichś przyjaciół?
+AudioName: 152.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: Nara.
+AudioName: 153.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue
+DialogueText: Moje buty zawsze się niszczą o tej porze roku. Patrz, palec mi wystaje! {Portrait:Happy}
+AudioName: 154.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue
+DialogueText: Tak się dzieje, jak za dużo jeździsz na deskorolce.
+AudioName: 155.ogg
+--------------------------------------------------
+DialogueFrom: fall_9
+DialogueText: Kupiłem nowe buty przez internet. Są identyczne, więc na pewno będą pasować.
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: fall_16
+DialogueText: Zamówiłem buty przez internet ponad tydzień temu! Nadal ich nie dostałem.
+AudioName: 157.ogg
+--------------------------------------------------
+DialogueFrom: fall_16
+DialogueText: Naprawdę mieszkamy na jakimś odludziu. {Portrait:Sad}
+AudioName: 158.ogg
+--------------------------------------------------
+DialogueFrom: fall_23
+DialogueText: Ach, te buty nawet pasują. Są trochę wąskie, ale się rozbiją. Zwłaszcza po tym, jak przebiegnę w tym tygodniu nawiedzony labirynt. {Portrait:Happy}
+AudioName: 159.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Cześć, {Farmer_Name}. Chcesz się gdzieś przejść czy coś?
+AudioName: 160.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Wpadaj, kiedy tylko chcesz.
+AudioName: 161.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed
+DialogueText: Hej... Coś tu ładnie pachnie, jakby pizza.
+AudioName: 162.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed
+DialogueText: Czujesz to? Może mama coś gotuje.
+AudioName: 163.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu6_1
+DialogueText: Tata powinien wrócić w przyszłym roku.
+AudioName: 164.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu6_1
+DialogueText: Dziwne... To już niedługo.
+AudioName: 165.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu6
+DialogueText: Chyba powinienem pomyśleć o wyprowadzce... {Portrait:Sad}
+AudioName: 166.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu6
+DialogueText: ... Tylko że tęskniłbym za zapiekanką rybną mamy... {Portrait:Sad}
+AudioName: 167.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu6
+DialogueText: Nie cierpię podejmować decyzji.
+AudioName: 168.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu
+DialogueText: Widzisz te wszystkie pajęczyny pojawiające się jesienią?
+AudioName: 169.ogg
+--------------------------------------------------
+DialogueFrom: fall_Thu
+DialogueText: Jeśli wstaniesz wcześnie, zobaczysz je pokryte rosą... Wyglądają jak małe gwiazdki.
+AudioName: 170.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri
+DialogueText: Mieszkałem w Mieście Zuzu, wiesz? Największą różnicą jest hałas. Tam nigdy nie było cicho.
+AudioName: 171.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri
+DialogueText: Wokół Ciebie zawsze byli ludzie. I było jasno od latarni, nawet nocą.
+AudioName: 172.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri
+DialogueText: To chyba zależy od tego, co kto lubi.
+AudioName: 173.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri10
+DialogueText: Wolę życie tutaj niż w wielkim mieście. {Portrait:Happy}
+AudioName: 174.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri10
+DialogueText: Chociaż mogę być trochę uprzedzony. {Portrait:Custom:10}
+AudioName: 175.ogg
+--------------------------------------------------
+DialogueFrom: fall_Fri10
+DialogueText: Jak się dziś miewasz? {Portrait:Happy}
+AudioName: 176.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat4
+DialogueText: Na szczęście mam największy pokój w domu.
+AudioName: 177.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat4
+DialogueText: To jeden z plusów bycia najstarszym dzieckiem.
+AudioName: 178.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat
+DialogueText: Hmm. Przypomniało mi się, że miałem coś zrobić... Ale zapomniałem co.
+AudioName: 179.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat
+DialogueText: Heh. Ciągle mi się to zdarza.
+AudioName: 180.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun8
+DialogueText: Pierwszy tydzień jesieni już za nami. Czas tak szybko leci. {Portrait:Sad}
+AudioName: 181.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun8
+DialogueText: Nieważne. Cieszę się, że mnie odwiedziłeś!
+AudioName: 182_male.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun8
+DialogueText: Nieważne. Cieszę się, że mnie odwiedziłaś!
+AudioName: 183_female.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun8
+DialogueText: Masz mi coś nowego do powiedzenia?
+AudioName: 184.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: Ciężko mi się bawić w niedzielę... Cały czas myślę, że jutro muszę iść do pracy. {Portrait:Sad}
+AudioName: 185.ogg
+--------------------------------------------------
+DialogueFrom: fall_14
+DialogueText: Cześć, {Farmer_Name}.
+AudioName: 186.ogg
+--------------------------------------------------
+DialogueFrom: fall_14
+DialogueText: Hmm... Zastanawiam się, czy dałbym radę wyhodować kaktusa w swoim pokoju.
+AudioName: 187.ogg
+--------------------------------------------------
+DialogueFrom: winter_Mon2
+DialogueText: Zimą wszyscy siedzą w domach, więc mogę grać na gitarze tak głośno, jak chcę. {Portrait:Happy}
+AudioName: 188.ogg
+--------------------------------------------------
+DialogueFrom: winter_Mon
+DialogueText: Cześć... Zimno, co?
+AudioName: 189.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue
+DialogueText: Och, cześć! Miło Cię znowu widzieć.
+AudioName: 190.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue
+DialogueText: Luz w bluz.
+AudioName: 191.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue4
+DialogueText: Cześć, {Farmer_Name}. Chcesz się gdzieś przejść czy coś?
+AudioName: 192.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue4
+DialogueText: Zima to dobra pora, żeby odespać wszystkie nieprzespane noce. {Portrait:Happy}
+AudioName: 193.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed
+DialogueText: Nienawidzę pracować w JojaMarkecie, ale jak niby mam tu inaczej zarabiać?
+AudioName: 194.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed
+DialogueText: Cieszę się, że mogę teraz pracować w muzeum. To o wiele ciekawsze niż robota w JojaMarkecie.
+AudioName: 195.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu6_1
+DialogueText: Tej wiosny wraca mój tata.
+AudioName: 196.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu6_1
+DialogueText: Nie widziałem go od trzech lat. To będzie dziwne.
+AudioName: 197.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu6
+DialogueText: Tata od jakiegoś czasu jest w domu. Chyba zaczynam się do tego przyzwyczajać.
+AudioName: 198.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu
+DialogueText: Mój tata jest w wojsku, walczy z Imperium Gotoro. Dlatego go tu nie ma.
+AudioName: 199.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu
+DialogueText: Ale wróci już niedługo.
+AudioName: 200.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu_2
+DialogueText: Jedyne, co lubię w zimie, to brak komarów.
+AudioName: 201.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri
+DialogueText: Najgorsze w śniegu jest to, że przemakają buty. Masz szczęście, że Twoje są takie grube.
+AudioName: 202.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat4
+DialogueText: Właśnie sobie przypomniałem, że muszę zmienić struny w gitarze.
+AudioName: 203.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat4
+DialogueText: Ok, napiszę sobie na nadgarstku, żeby to zrobić wieczorem.
+AudioName: 204.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat4
+DialogueText: Muszę robić sobie takie przypomnienia, bo inaczej o wszystkim zapominam. {Portrait:Happy}
+AudioName: 205.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun8
+DialogueText: Fajnie by było pojeździć na sankach, nie?
+AudioName: 206.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun8
+DialogueText: Niestety nie ma tu chyba żadnych dobrych górek. {Portrait:Sad}
+AudioName: 207.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun8
+DialogueText: I nie mam sanek.
+AudioName: 208.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun8
+DialogueText: A co u Ciebie?
+AudioName: 209.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Postaraj się nie nabrudzić, bo mama się wkurzy.
+AudioName: 210.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Sam0
+DialogueText: Bardzo się cieszę, że będę Twoim mężem, {Farmer_Name}. {Portrait:Love}
+AudioName: 211.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Sam0
+DialogueText: Nie mogę się doczekać!
+AudioName: 212.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Sam1
+DialogueText: Nigdy nie sądziłem, że to się stanie. Jestem taki szczęśliwy. {Portrait:Love}
+AudioName: 213.ogg
+--------------------------------------------------
+DialogueFrom: EngagementDialogue/Sam1
+DialogueText: Nie mogę się doczekać ślubu! {Portrait:Happy}
+AudioName: 214.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_0
+DialogueText: ... Nadal mnie kochasz? {Portrait:Sad}
+AudioName: 215.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_1
+DialogueText: *ech*... Może wzięliśmy ślub za szybko. {Portrait:Sad}
+AudioName: 216.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_2
+DialogueText: Nadal Ci ze mną dobrze?s
+AudioName: 217.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_3
+DialogueText: Robię coś źle? Inaczej się ostatnio zachowujesz. {Portrait:Sad}
+AudioName: 218.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_4
+DialogueText: Zastanawiasz się, co nam jeszcze pozostało? {Portrait:Sad}
+AudioName: 219.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_5
+DialogueText: Kiedyś się kochaliśmy... Co się stało? {Portrait:Sad}
+AudioName: 220.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_5
+DialogueText: Wiem, że trochę się postarzeliśmy... Po co był ten ślub? {Portrait:Angry}
+AudioName: 221.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_6
+DialogueText: Nasze życie jest zbyt krótkie... Czy to dobry sposób, na wykorzystanie tego czasu? {Portrait:Sad}
+AudioName: 222.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_7
+DialogueText: Kiedyś było skarbie... A teraz tylko jak zrobię obiad. {Portrait:Sad}
+AudioName: 223.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_8
+DialogueText: Dziwnie się ostatnio zachowujesz... {Portrait:Sad}
+AudioName: 224.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Bad_9
+DialogueText: Zastanawiam się, czy to mogłoby się potoczyć lepiej. {Portrait:Sad}
+AudioName: 225.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_1
+DialogueText: Całe miasteczko jakby zmieniło się w jedną noc... Chyba nadeszła jesień.
+AudioName: 226.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_15
+DialogueText: Hej, jutro są targi. Muszę rozgrzać mój nadgarstek do procy...
+AudioName: 227.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_26
+DialogueText: Zastanawiam się, czy mama pozwoli Vincentowi wejść do nawiedzonego labiryntu. Pewnie nie... {Portrait:Happy}
+AudioName: 228.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_26
+DialogueText: Biedny dzieciak. Kiedyś do tego dorośnie...
+AudioName: 229.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_8
+DialogueText: Zima jest tuż tuż. Musimy sprawdzić dwa razy nasz system ogrzewania, zakręcić zawory i sprawdzić całą izolację domu.
+AudioName: 230.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_8
+DialogueText: Spokojnie, zajmę się tym.
+AudioName: 231.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/fall_Sam
+DialogueText: Ciekawe co się dzieje w świecie? Jesteśmy tu dość odosobnieni.
+AudioName: 232.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/funLeave_Sam
+DialogueText: Odwiedzę dziś rodzinę, ok? Wrócę wieczorem.
+AudioName: 233.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/funReturn_Sam
+DialogueText: Miło było zobaczyć rodzinę, ale też mnie to trochę przygnębia. Teraz mamy zupełnie inne życia, wszystko stało się takie formalne. {Portrait:Custom:7}
+AudioName: 234.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_0
+DialogueText: Trudno w to uwierzyć, że jesteśmy razem... {Portrait:Love}
+AudioName: 235.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_1
+DialogueText: Myślisz czasem o tej nocy, gdy wkradliśmy się do mojego pokoju? Ja tak... {Portrait:Love}
+AudioName: 236.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_2
+DialogueText: Wiesz, od początku czułem, że będziemy razem. Jest między nami coś wyjątkowego. {Portrait:Love}
+AudioName: 237.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_3
+DialogueText: Wow, świetnie dziś wyglądasz! Zrobiłeś coś z włosami? {Portrait:Love}
+AudioName: 238_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_3
+DialogueText: Wow, wyglądasz dziś oszałamiająco. Zrobiłaś coś z włosami? {Portrait:Love}
+AudioName: 239_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_4
+DialogueText: Kochanie, właśnie chciałem napisać dla Ciebie piosenkę. Ale teraz, gdy tu jesteś, czuję się komfortowo.
+AudioName: 240.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_4
+DialogueText: Najlepiej gra mi się, gdy czuję się samotny.
+AudioName: 241.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_5
+DialogueText: Skarbie, mów do mnie! Lubię słuchać Twoich opowieści.
+AudioName: 242.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_6
+DialogueText: Uważaj na siebie! Wiem, że czasem chodzisz po jaskiniach... Tylko żeby nic Cię tam nie zeżarło!
+AudioName: 243.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_7
+DialogueText: {Farmer_Name}? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę. {Portrait:Happy}
+AudioName: 244.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_8
+DialogueText: Nie martw się o mnie... wiem, że masz dużo obowiązków. Dobrze sobie tu radzę! {Portrait:Love}
+AudioName: 245.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_9
+DialogueText: Och, nie nudzę się... Cieszę się z tego co mamy.
+AudioName: 246.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Good_9
+DialogueText: To proste życie, ale podoba mi się. {Portrait:Happy}
+AudioName: 247.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_0
+DialogueText: Fiu... Powiem Ci, za czym nie tęsknię z mojego starego życia... Za pracą w JojaMarkecie.
+AudioName: 248.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_1
+DialogueText: Hej, odgrzałem Ci naleśniki. Proszę. [211] {Portrait:Happy}
+AudioName: 249.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_1
+DialogueText: No co? Nigdy nie gotowałem... Mama zawsze to robiła.
+AudioName: 250.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_2
+DialogueText: Hej. Wiem, że często żartuję, ale naprawdę Cię kocham... {Portrait:Love}
+AudioName: 251.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_3
+DialogueText: Masz dziś jakieś plany?
+AudioName: 252.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_3
+DialogueText: Och, ja nie... Zwykle działam spontanicznie...
+AudioName: 253.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_4
+DialogueText: Ee... Innym razem Ci pomogę. Dziś mi się nie chce. {Portrait:Sad}
+AudioName: 254.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_4
+DialogueText: Nie gniewasz się?
+AudioName: 255.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Day_Sam
+DialogueText: Tyle jest rzeczy, które chciałbym dzisiaj skończyć... Może zamiast tego pooglądam telewizję?
+AudioName: 256.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_0
+DialogueText: Hej, słabo wyglądasz. Pomogę Ci odpocząć, ok? Może później zrobię Ci masaż.
+AudioName: 257.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_1
+DialogueText: Co robiłem? Och... Ciężko powiedzieć. Nie robiłem nic ciekawego. Po prostu odpoczywałem.
+AudioName: 258.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_2
+DialogueText: Hej, przepraszam, że nie pościeliłem łóżka. Czasem mi się zapomina... Ale za to mnie kochasz, prawda? {Portrait:Happy}
+AudioName: 259.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_3
+DialogueText: Jedna rzecz, za którą tęsknię, to zapiekanka rybna mamy.
+AudioName: 260.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_4
+DialogueText: Idziesz spać? W końcu pościeliłem łóżko...
+AudioName: 261.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_Sam
+DialogueText: Zastanawiam się, czy widać dziś księżyc?
+AudioName: 262.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_Sam
+DialogueText: $e
+AudioName: 263.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_Sam
+DialogueText: Skończyłeś robotę na dziś? Jeśli nie, to nic nie szkodzi!
+AudioName: 264_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Indoor_Night_Sam
+DialogueText: Skończyłaś robotę na dziś? Jeśli nie, to nic nie szkodzi!
+AudioName: 265_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_0
+DialogueText: Mam nadzieję, że nadal będziesz mnie kochać nawet, gdy się zestarzeję i osiwieję. {Portrait:Sad}
+AudioName: 266.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_1
+DialogueText: Myślisz, że Twój dziadek byłby dumny z naszej pracy?
+AudioName: 267.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_2
+DialogueText: Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało...
+AudioName: 268.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_3
+DialogueText: Jeśli idziesz do miasta, to pozdrów każdego ode mnie.
+AudioName: 269.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_4
+DialogueText: Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mógł skupić się na swojej robocie.
+AudioName: 270_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_4
+DialogueText: Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mogła skupić się na swojej robocie.
+AudioName: 271_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_5
+DialogueText: Dobrze nam idzie finansowo, {Farmer_Name}?
+AudioName: 272.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_6
+DialogueText: Ciekawe co dzisiaj robią wszyscy w miasteczku?
+AudioName: 273.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_7
+DialogueText: Naprawdę, nie czuję się dzisiaj na siłach.
+AudioName: 274.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_8
+DialogueText: Nieważne jak posprzątam dom, dalej się brudzi.
+AudioName: 275.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_8
+DialogueText: Chyba farmy są na swój sposób brudne.
+AudioName: 276.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Neutral_9
+DialogueText: Ciekawe czy będziemy tu mieszkać przez całe nasze życie?
+AudioName: 277.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/NoBed_0
+DialogueText: Gdzie ja mam teraz spać...? {Portrait:Sad}
+AudioName: 278.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/NoBed_1
+DialogueText: Źle mi się dzisiaj spało... {Portrait:Sad}
+AudioName: 279.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/NoBed_2
+DialogueText: Spanie na ziemi nie należy do najwygodniejszych... {Portrait:Sad}
+AudioName: 280.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/NoBed_3
+DialogueText: Czy coś się stało z naszym łóżkiem...? {Portrait:Sad}
+AudioName: 281.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/OneKid_0
+DialogueText: Zmieniam pieluchę %kid1... Nie przejmuj się. Ty masz wystarczająco dużo na głowie.
+AudioName: 282.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/OneKid_1
+DialogueText: To dziwne, ale bardzo lubię być ojcem! {Portrait:Happy}
+AudioName: 283.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/OneKid_2
+DialogueText: Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.
+AudioName: 284.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/OneKid_3
+DialogueText: W sumie chciałbym mieć kolejne dziecko. Co o tym myślisz?
+AudioName: 285.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_0
+DialogueText: Może powinienem kupić terenowe kółka do deskorolki? Wtedy burmistrz Lewis mnie nie złapie. {Portrait:Happy}
+AudioName: 286.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_1
+DialogueText: Zawsze patrzę w niebo... Nigdy nie wiadomo, kiedy przeleci UFO.
+AudioName: 287.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_2
+DialogueText: Cześć, {Farmer_Name}! Gdybym znał się na rolnictwie, może bym Ci pomógł. Wybacz!
+AudioName: 288.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_2
+DialogueText: Spróbuję pomóc pozytywną energią. {Portrait:Happy}
+AudioName: 289.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_3
+DialogueText: Jakiś zapach sprawia, że czuję się dobrze... Może to zapach pizzy z pieców Gusa.
+AudioName: 290.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_4
+DialogueText: Wow... Świetnie dziś wyglądasz, a te drobinki błota tylko dodają Ci uroku. {Portrait:Love}
+AudioName: 291.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_Sam
+DialogueText: Hej, popatrz na te puchate chmury, Kochanie! {Portrait:Happy}
+AudioName: 292.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Outdoor_Sam
+DialogueText: Przez chwilę je pooglądam, jeśli nie masz nic przeciwko.
+AudioName: 293.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/patio_Sam
+DialogueText: *Ech*... Nigdy nie zrobię tego triku... {Portrait:Sad}
+AudioName: 294.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_0
+DialogueText: Świetny dzień na odpoczynek i grę na gitarze...
+AudioName: 295.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_0
+DialogueText: Hej, jeśli chcesz, też możesz się zrelaksować.
+AudioName: 296.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_1
+DialogueText: Myślisz, że Sebastian i Abigail będą kiedyś razem?
+AudioName: 297.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_1
+DialogueText: Heh... Teraz, gdy jestem w związku, chcę, żeby wszyscy inni też się pobrali.
+AudioName: 298.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_2
+DialogueText: Hej, znalazłem to głęboko w szufladzie. [90 88 86 535]
+AudioName: 299.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_2
+DialogueText: Pomyślałem, że może Ci się przyda.
+AudioName: 300.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_3
+DialogueText: O stary... Te deszczowe dni są takie męczące... {Portrait:Custom:7}
+AudioName: 301.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_4
+DialogueText: Jak Ci się spało? Ja przez ten deszcz co chwilę się budziłem.
+AudioName: 302.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Day_Sam
+DialogueText: Może załatam dach i sprawdzę czy okna są szczelne.
+AudioName: 303.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_0
+DialogueText: Hej, jak Ci minął dzień? Ja przez większość czasu czytałem komiksy... Było super. {Portrait:Happy}
+AudioName: 304.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_1
+DialogueText: Miałem całkiem luźny dzień... Cola, mrożona pizza, kilka godzin brzdąkania na gitarze. Naprawdę odpocząłem.
+AudioName: 305.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_2
+DialogueText: Słuchałem nagrania z naszego ostatniego koncertu. Pamiętasz? Stary, to było okropne.
+AudioName: 306.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_2
+DialogueText: Trochę się stresowałem, bo wiedziałem, że tam byłeś. Nie chciałem niczego zepsuć ani żebyś pomyślał, że jestem frajerem! {Portrait:Custom:10}
+AudioName: 307_male.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_2
+DialogueText: Trochę się stresowałem, bo wiedziałem, że tam byłaś. Nie chciałem niczego zepsuć ani żebyś pomyślała, że jestem frajerem! {Portrait:Custom:10}
+AudioName: 308_female.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_3
+DialogueText: Mam nadzieję, że Vincent nie czuje się teraz samotny... Czułem się za niego odpowiedzialny. {Portrait:Sad}
+AudioName: 309.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_3
+DialogueText: Ale życie to ciągłe zmiany... Prawda? Dzieci muszą się tego nauczyć, inaczej... dorosłość je zniszczy. {Portrait:Custom:7}
+AudioName: 310.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_4
+DialogueText: Hej, wrzuciłem kilka mrożonych pizz do pieca. Ta jest dla Ciebie. [206] {Portrait:Happy}
+AudioName: 311.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_5
+DialogueText: Cieszę się, że jesteś... W taką porę najlepiej siedzieć w domu.
+AudioName: 312.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/Rainy_Night_Sam
+DialogueText: Vincent Dzwonił. Mówił, że tęskni i chciał Cię pozdrowić. {Portrait:Happy}
+AudioName: 313.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spouseRoom_Sam
+DialogueText: Stara gitara... Nie mam już ochoty na niej grać. Nic nie szkodzi.
+AudioName: 314.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spouseRoom_Sam
+DialogueText: $e
+AudioName: 315.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spouseRoom_Sam
+DialogueText: Co zamierzasz dzisiaj zrobić?
+AudioName: 316.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spring_1
+DialogueText: Yh... Wiosna... mój noz... alergie. {Portrait:Sad}
+AudioName: 317.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spring_12
+DialogueText: Ty też nie możesz się doczekać jutrzejszego festiwalu? Fajnie będzie znów zobaczyć Sebastiana.
+AudioName: 318.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spring_23
+DialogueText: Och... Jutro jest Taniec Kwiatów, prawda? Myślałem, że nie muszę tam iść, skoro jesteśmy małżeństwem.
+AudioName: 319.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spring_23
+DialogueText: Nieważne, w dziwny sposób to nawet zabawne.
+AudioName: 320.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spring_8
+DialogueText: Po tej zimie czeka nas sporo roboty.
+AudioName: 321.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/spring_Sam
+DialogueText: *smark*... Mam zatkany nos... Alergia.
+AudioName: 322.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_1
+DialogueText: Ilość pyłków jest niższa latem, więc mój nos w końcu ma spokój. {Portrait:Happy}
+AudioName: 323.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_10
+DialogueText: Co wrzucisz do zupy luau?
+AudioName: 324.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_10
+DialogueText: Zabawnie byłoby wrzucić coś okropnego... Wiesz, żeby zażartować gubernatora! {Portrait:Happy}
+AudioName: 325.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_10
+DialogueText: Sorki...
+AudioName: 326.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_15
+DialogueText: Lato... Czyli, więcej owadów w domu.
+AudioName: 327.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_15
+DialogueText: Nie martw się, zajmę się nimi.
+AudioName: 328.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_27
+DialogueText: Lato jest super, ale jestem już gotowy na jesień.
+AudioName: 329.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_27
+DialogueText: Idziemy jutro oglądać meduzy? Fajnie się na nie patrzy.
+AudioName: 330.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_8
+DialogueText: Wybacz jeśli śmierdzę... W nocy było strasznie gorąco.
+AudioName: 331.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/summer_Sam
+DialogueText: Lato zawsze sprawia, że chcę zjeść coś z grilla.
+AudioName: 332.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/TwoKids_0
+DialogueText: Wstałem rano, nakarmiłem dzieci i zmieniłem im pieluchy! Wszystko zrobione. Możesz się skupić na zarabianiu. {Portrait:Happy}
+AudioName: 333.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/TwoKids_0
+DialogueText: Żartuję... Nie poślubiłem Cię dla pieniędzy.
+AudioName: 334.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/TwoKids_1
+DialogueText: Musimy poświęcać %kid1 sporo uwagi, teraz, gdy mamy %kid2. Nie chcemy, żeby pojawiła się zazdrość.
+AudioName: 335.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/TwoKids_2
+DialogueText: Miło patrzeć, jak dzieci się razem bawią. Chyba się polubią.
+AudioName: 336.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/TwoKids_3
+DialogueText: Nie spodziewałem się, że założę taką rodzinę. To bardzo satysfakcjonujące. Dobrze mi z tym. {Portrait:Happy}
+AudioName: 337.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/winter_1
+DialogueText: W tym zimnie żel we włosach mi zamarza. To wcale nie jest przyjemne. {Portrait:Sad}
+AudioName: 338.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/winter_28
+DialogueText: To był wspaniały rok, {Farmer_Name}... Szkoda, że już się kończy.
+AudioName: 339.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/winter_28
+DialogueText: Następny na pewno będzie jeszcze lepszy! {Portrait:Happy}
+AudioName: 340.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/winter_7
+DialogueText: Idziemy jutro na festiwal lodu? Fajnie będzie znowu wszystkich zobaczyć...
+AudioName: 341.ogg
+--------------------------------------------------
+DialogueFrom: Marriage/Sam/winter_Sam
+DialogueText: Porzuciłem moje marzenie o byciu muzykiem. Mam teraz rodzinę!
+AudioName: 342.ogg
+--------------------------------------------------
+DialogueFrom: rainy
+DialogueText: Deszcz tłumi dźwięki, więc mogę grać głośniej na gitarze, a mama nie będzie narzekać. He he. {Portrait:Happy}
+AudioName: 343.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/47:s0
+DialogueText: Hej {Farmer_Name}. Zgadnij co? Moja kapela gra wieczorem koncert, w Mieście Zuzu!
+AudioName: 344.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/47:s1
+DialogueText: Przyjdź na przystanek dzisiaj o 16:00. Mam nadzieję, że wpadniesz!
+AudioName: 345.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/47:s2
+DialogueText: Nie mogę się doczekać, ale też trochę się denerwuję. Mam nadzieję, że wszystko pójdzie dobrze.
+AudioName: 346.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s0
+DialogueText: Och, hej {Farmer_Name}. Widzę, że ciężko dzisiaj pracowałeś.
+AudioName: 347_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s1
+DialogueText: Och, hej {Farmer_Name}. Widzę, że ciężko dzisiaj pracowałaś.
+AudioName: 348_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s2
+DialogueText: Hej, tak sobie myślałem... {Portrait:Sad}
+AudioName: 349.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s3
+DialogueText: Wiesz, Lubię tu z Tobą mieszkać. Znaczy... Uwielbiam!
+AudioName: 350.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s4
+DialogueText: Ale czuję, że się trochę rozleniwiłem. Całymi dniami kręcę się tutaj bez celu. {Portrait:Sad}
+AudioName: 351.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s5
+DialogueText: Wiem, że nie masz z tym problemu! Zarabiasz tyle, że nie muszę pracować i bardzo to doceniam!
+AudioName: 352.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s6
+DialogueText: Ale chcę czuć, że mam w tym swój udział... wiesz o co mi chodzi?
+AudioName: 353.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s7
+DialogueText: Więc... Pomyślałem, że poszukam sobie pracy... Coś związanego z muzyką.
+AudioName: 354.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s8
+DialogueText: Zawsze kochałem muzykę! {Portrait:Happy}
+AudioName: 355.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s9
+DialogueText: Och, em... ale Ciebie bardziej, oczywiście! {Portrait:Custom:8}
+AudioName: 356.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s10
+DialogueText: Heh... {Portrait:Custom:10}
+AudioName: 357.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918600:s11
+DialogueText: Dam Ci znać jak to pójdzie!
+AudioName: 358.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s0
+DialogueText: Hej {Farmer_Name}, posłuchaj tego! {Portrait:Custom:8}
+AudioName: 359.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s1
+DialogueText: 'Drogi Panie Sam, cieszymy się, że możemy Ci zaoferować pozycje jako 'młodszy kompozytor' w Grupie Nadawczej Zuzu...' {Portrait:Custom:6}
+AudioName: 360.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s2
+DialogueText: Wow! Muzyka dla programu telewizyjnego! Fajnie, nie?! {Portrait:Happy}
+AudioName: 361.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s3
+DialogueText: Och...
+AudioName: 362.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s4
+DialogueText: Och... Czekaj... {Portrait:Sad}
+AudioName: 363.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s5
+DialogueText: ... To telewizja dla małych dzieci... 'Show Szczęśliwego Junimo' {Portrait:Sad}
+AudioName: 364.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s6
+DialogueText: Nie to miałem na myśli... {Portrait:Sad}
+AudioName: 365.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s7
+DialogueText: Hmm... Tak, w sumie to może być początek mojej kariery. {Portrait:Custom:7}
+AudioName: 366.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s8
+DialogueText: Znaczy... masz rację, ktoś musi robić muzykę dla dzieci. Ale to nie jest 'wymarzona praca'... {Portrait:Custom:7}
+AudioName: 367.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s9
+DialogueText: Ach cóż... nic nie szkodzi. Dam z siebie wszystko, jak zawsze. {Portrait:Custom:7}
+AudioName: 368.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s10
+DialogueText: Chyba muszę zacząć 'myśleć jak dziecko'...
+AudioName: 369.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s11
+DialogueText: Hej!
+AudioName: 370.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s12
+DialogueText: Hmm... Dobry pomysł. Przynajmniej, mógłbym mu grać piosenki, które polubi.
+AudioName: 371.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s13
+DialogueText: Dzięki za pomoc, {Farmer_Name}. {Portrait:Custom:10}
+AudioName: 372.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918601:s14
+DialogueText: Będę nad tym pracować przez kilka dni.
+AudioName: 373.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918602:s0
+DialogueText: Hej, {Farmer_Name}. Pracuję nad tą piosenką... posłuchaj.
+AudioName: 374.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918602:s1
+DialogueText: Teraz jest trochę puste... ale jak dodam inne instrumenty, wszystko nabierze kolorów. Zobaczysz.
+AudioName: 375.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918602:s2
+DialogueText: Wiesz... Nie jestem aż tak zły, że muszę pracować w telewizji dla dzieci.
+AudioName: 376.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918602:s3
+DialogueText: Trzeba jakoś zacząć, nie?
+AudioName: 377.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918602:s4
+DialogueText: I hej, może stanę się gwiazdą dla dzieci! {Portrait:Happy}
+AudioName: 378.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918602:s5
+DialogueText: Niedługo skończę tę piosenkę. Mam nadzieję, że im się spodoba!
+AudioName: 379.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s0
+DialogueText: Ok, ok, Vince... już włączam muzykę. {Portrait:Happy}
+AudioName: 380.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s1
+DialogueText: Musisz słuchać bardzo uważnie, żebyś mógł mi powiedzieć czy Ci się spodoba, ok?
+AudioName: 381.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s2
+DialogueText: Wow! Nie spodziewałem się aż takich reakcji! {Portrait:Custom:8}
+AudioName: 382.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s3
+DialogueText: Wspaniale! Dobrze się przy tym bawiłem! {Portrait:Happy}
+AudioName: 383.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s4
+DialogueText: Hej, dzięki za wsparcie.
+AudioName: 384.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s5
+DialogueText: Wiesz... W sumie lubię robić muzykę dla dzieci. Może i nie przyniesie mi to dużej sławy, ale uszczęśliwiam dzieci. To jest najważniejsze! {Portrait:Happy}
+AudioName: 385.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s6
+DialogueText: Masz, Chciałem Ci coś dać. To boombox z muzyką... Więc możesz jej słuchać gdzie tylko chcesz.
+AudioName: 386.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s7
+DialogueText: Cieszę się, że moja muzyka uszczęśliwia ludzi...
+AudioName: 387.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/45:s0
+DialogueText: Uch... Em... Ja... Przepraszam, proszę pana. {Portrait:Custom:8}
+AudioName: 388.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/45:s1
+DialogueText: Tak, proszę Pana. {Portrait:Custom:7}
+AudioName: 389.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/45:s2
+DialogueText: ... Ale zrobiłem trika, nie? To było czadowe. {Portrait:Unique}
+AudioName: 390.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s0
+DialogueText: Hej {Farmer_Name}.
+AudioName: 391.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s1
+DialogueText: Chciałem z tobą porozmawiać na osobności...
+AudioName: 392.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s2
+DialogueText: Dosyć tu zimno... chodźmy do mojego pokoju, ale cicho, żeby nikogo nie zbudzić. {Portrait:Unique}
+AudioName: 393.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s3
+DialogueText: Więc... {Farmer_Name}. {Portrait:Custom:10}
+AudioName: 394.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s4
+DialogueText: Wiem, że nie gadałem o niczym innym, tylko o zespole... Ale nie chcę żebyś myślał, że tylko to mnie obchodzi.
+AudioName: 395_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s5
+DialogueText: Wiem, że nie gadałem o niczym innym, tylko o zespole... Ale nie chcę żebyś myślała, że tylko to mnie obchodzi.
+AudioName: 396_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s6
+DialogueText: Um... Er... Chodzi mi o to... {Portrait:Custom:8}
+AudioName: 397.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s7
+DialogueText: Cóż, cieszę się że jesteśmy dobrymi przyjaciółmi... Heh. {Portrait:Custom:10}
+AudioName: 398.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s8
+DialogueText: {Farmer_Name}... myślisz o mnie jak... o zwykłym przyjacielu? {Portrait:Love}
+AudioName: 399.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s9
+DialogueText: Szybko! Schowaj się pod kołdrą! {Portrait:Custom:8}
+AudioName: 400.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s10
+DialogueText: Nie mamo! Ja tylko... robiłem pompki! Chcę kiedyś pokonać tatę w siłowaniu na rękę!... Heh. {Portrait:Custom:8}
+AudioName: 401.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s11
+DialogueText: Dobranoc, Mamo. {Portrait:Custom:10}
+AudioName: 402.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s12
+DialogueText: Fiu... Było blisko. {Portrait:Happy}
+AudioName: 403.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s13
+DialogueText: ...{Farmer_Name}?
+AudioName: 404.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s14
+DialogueText: Wyjdź z ukrycia.
+AudioName: 405.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s15
+DialogueText: Zostań.
+AudioName: 406.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s16
+DialogueText: Wcześniej, chciałem powiedzieć... że bardzo Cię lubię, {Farmer_Name}. Chyba jest między nami coś specjalnego... wiesz o co mi chodzi?
+AudioName: 407.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s17
+DialogueText: Dobra, powiedziałem to. {Portrait:Custom:7}
+AudioName: 408.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s18
+DialogueText: Przybliż się do Sama.
+AudioName: 409.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s19
+DialogueText: Podejdź do okna.
+AudioName: 410.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/233104:s20
+DialogueText: Długo będę myślał o tej nocy...
+AudioName: 411.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/95:s0
+DialogueText: ... Idę mamo. {Portrait:Angry}
+AudioName: 412.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/94:s0
+DialogueText: ... Idę mamo. {Portrait:Angry}
+AudioName: 413.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s0
+DialogueText: Och, cześć {Farmer_Name}! Sebastian i ja trochę sobie 'brzdękamy'.
+AudioName: 414.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s1
+DialogueText: Chcemy zrobić kapelę, ale nie wiemy jaką muzykę chcemy grać. Jest tak dużo możliwości.
+AudioName: 415.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s2
+DialogueText: Powiedz, {Farmer_Name}... jaki rodzaj muzyki Ci się podoba?
+AudioName: 416.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s3
+DialogueText: Wesoła muzyka pop.
+AudioName: 417.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s4
+DialogueText: Eksperymentalny głośny rock.
+AudioName: 418.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s5
+DialogueText: Energiczna muzyka taneczna.
+AudioName: 419.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s6
+DialogueText: Muzyka country.
+AudioName: 420.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s7
+DialogueText: Co ty na to, Sebastian? Robimy to?
+AudioName: 421.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s8
+DialogueText: Dzięki za pomoc, {Farmer_Name}. Z moją gitarą i magicznym syntezatorem Sebastiana, to będzie hit! Jestem tego pewien! {Portrait:Happy}
+AudioName: 422.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/44:s9
+DialogueText: Teraz musimy tylko znaleźć perkusistę... {Portrait:Unique}
+AudioName: 423.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s0
+DialogueText: Och, cześć {Farmer_Name}. Miałem właśnie coś przekąsić.
+AudioName: 424.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s1
+DialogueText: Też chcesz? Wezmę Ci coś.
+AudioName: 425.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s2
+DialogueText: O nie... ale bałagan. {Portrait:Sad}
+AudioName: 426.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s3
+DialogueText: ... Powiedz jej, {Farmer_Name}. {Portrait:Sad}
+AudioName: 427.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s4
+DialogueText: Sam chciał się ze mną podzielić przekąską, ale ją upuścił.
+AudioName: 428.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s5
+DialogueText: Sam dał mi przekąskę i mi wypadła.
+AudioName: 429.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s6
+DialogueText: Sam upuścił to specjalnie. Myślał, że to śmieszne.
+AudioName: 430.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/46:s7
+DialogueText: Wybacz, mamo. Zaraz to posprzątam. {Portrait:Sad}
+AudioName: 431.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/stayPut:s0
+DialogueText: Od zawsze wiedziałem, że jest między nami coś specjalnego... {Portrait:Love}
+AudioName: 432.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/stayPut:s1
+DialogueText: Długo będę pamiętał tę noc... {Portrait:Love}
+AudioName: 433.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/rejectSam:s0
+DialogueText: Rozumiem... {Portrait:Sad}
+AudioName: 434.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/rejectSam:s1
+DialogueText: Przepraszam... Źle to odebrałem. Do zobaczenia wkrótce. {Portrait:Custom:7}
+AudioName: 435.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195099:s0
+DialogueText: Hej!
+AudioName: 436.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195013:s0
+DialogueText: Nie tak szybko!
+AudioName: 437.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195013:s1
+DialogueText: Nie wydawało Ci się, że spotkasz wszystkich swoich 'chłopaków' w jednym miejscu, co {Farmer_Name}? {Portrait:Angry}
+AudioName: 438.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195013:s2
+DialogueText: No, nie będziemy dłużej znosić Twoich kłamstw! {Portrait:Angry}
+AudioName: 439_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195013:s3
+DialogueText: Znamy już prawdę i nie będziemy tego dłużej tolerować! {Portrait:Angry}
+AudioName: 440_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195013:s4
+DialogueText: ... i podjęliśmy już decyzję... prawda, koledzy? {Portrait:Unique}
+AudioName: 441.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/195013:s5
+DialogueText: Będziemy Cię ignorować! {Portrait:Angry}
+AudioName: 442.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/choseToExplain:s0
+DialogueText: Kłamiesz!
+AudioName: 443.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/choseToExplain:s1
+DialogueText: ... Więc podjęliśmy decyzję... prawda, panowie? {Portrait:Unique}
+AudioName: 444.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/choseToExplain:s2
+DialogueText: Nie będziemy się do Ciebie odzywać! {Portrait:Angry}
+AudioName: 445.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/crying:s0
+DialogueText: ... Więc podjęliśmy decyzję... prawda, panowie? {Portrait:Unique}
+AudioName: 446.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/crying:s1
+DialogueText: Nie będziemy się do Ciebie odzywać! {Portrait:Angry}
+AudioName: 447.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s0
+DialogueText: Witaj {Farmer_Name}. Ładna pogoda, prawda?
+AudioName: 448.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s1
+DialogueText: Pilnuję młodszego brata. Musi czasami złapać trochę świeżego powietrza, a ta pogoda jest idealna.
+AudioName: 449.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s2
+DialogueText: Ojciec zabierał nas kiedyś na plażę, właśnie w takie słoneczne dni. {Portrait:Happy}
+AudioName: 450.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s3
+DialogueText: Oczywiście, Vince. Tata wróci najszybciej jak może. {Portrait:Custom:7}
+AudioName: 451.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s4
+DialogueText: Nie wierz we wszystko co słyszysz! {Portrait:Custom:8}
+AudioName: 452.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s5
+DialogueText: Nie pamiętasz jaki silny jest Tata? Nigdy nie da się złapać żałosnemu Gotoro! Nie martw się! {Portrait:Angry}
+AudioName: 453.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s6
+DialogueText: I pamiętaj, że ja i Mama jesteśmy z Tobą.
+AudioName: 454.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s7
+DialogueText: Szczerze, nie wiem czy wróci... czytaliśmy gazety. Nasi żołnierze giną w tysiącach. {Portrait:Sad}
+AudioName: 455.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s8
+DialogueText: Ale co mam powiedzieć Vincentowi? {Portrait:Custom:7}
+AudioName: 456.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s9
+DialogueText: Lepiej być szczerym wobec dzieci.
+AudioName: 457.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s10
+DialogueText: Dobrze zrobiłeś. Dzieci powinny mieć nadzieję.
+AudioName: 458.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s11
+DialogueText: Tak myślisz? {Portrait:Custom:7}
+AudioName: 459.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s12
+DialogueText: Może masz rację... Świat jest okrutnym miejscem, ale dzieci muszą się tego dowiedzieć tak czy siak. {Portrait:Sad}~Tak... Dzieci powinny się bawić póki mogą.
+AudioName: 460.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s13
+DialogueText: Hej, mówiłem Ci, że kapela się zbiera?
+AudioName: 461.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s14
+DialogueText: Tak! Odkryliśmy, że Abigail dobrze gra na bębnach. I Sebastian bardzo ją chciał w kapeli... {Portrait:Happy}
+AudioName: 462.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/27:s0
+DialogueText: Fajnie... {Farmer_Name}, wybierz swoją postać.
+AudioName: 463.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/27:s1
+DialogueText: Wybierz postać:
+AudioName: 464.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/27:s2
+DialogueText: Wojownik. Wolę walczyć w zwarciu.
+AudioName: 465.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/27:s3
+DialogueText: Medyk. Wolę pomagać innym .
+AudioName: 466.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/27:s4
+DialogueText: Czarodziej. Mądrość to najlepsza broń ze wszystkich.
+AudioName: 467.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/27:s5
+DialogueText: Spoko. I tak wolę Wojownika.
+AudioName: 468.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/warrior:s0
+DialogueText: Chyba muszę wziąć medyka. {Portrait:Sad}
+AudioName: 469.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/healer:s0
+DialogueText: Fajnie. I tak wolę wojownika.
+AudioName: 470.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/Necromancer:s0
+DialogueText: ... {Portrait:Sad}
+AudioName: 471.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/Necromancer:s1
+DialogueText: Sebastian rzuca 'Bełt Olśnienia'... Promień białego światła trafia Xartha prosto w twarz. Upiorny Władca krzyczy i obraca się w pył.
+AudioName: 472.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/Necromancer:s2
+DialogueText: Podnosisz Laskę Solariona i unosisz ją nad głowę. Świat został uratowany.
+AudioName: 473.ogg
+--------------------------------------------------
+DialogueFrom: Event/SebastianRoom/healedSam:s0
+DialogueText: Dzięki, {Farmer_Name}.
+AudioName: 474.ogg
+--------------------------------------------------
+DialogueFrom: Event/BusStop/4081148:s0
+DialogueText: Cześć {Farmer_Name}. Dzięki za przyjście.
+AudioName: 475.ogg
+--------------------------------------------------
+DialogueFrom: Event/BusStop/4081148:s1
+DialogueText: Nasz sprzęt załadowany... chyba wszystko gotowe.
+AudioName: 476.ogg
+--------------------------------------------------
+DialogueFrom: Event/BusStop/4081148:s2
+DialogueText: W porządku, ludzie... Jedziemy! {Portrait:Unique}
+AudioName: 477.ogg
+--------------------------------------------------
+DialogueFrom: Event/BusStop/4081148:s3
+DialogueText: *przełknięcie*... Trochę się denerwuję. {Portrait:Custom:8}
+AudioName: 478.ogg
+--------------------------------------------------
+DialogueFrom: Event/BusStop/4081148:s4
+DialogueText: Ok, jesteśmy... życz mi szczęścia! {Portrait:Unique}
+AudioName: 479.ogg
+--------------------------------------------------
+DialogueFrom: Event/BusStop/4081148:s5
+DialogueText: Hej. Ten występ był wystrzałowy! Jeszcze raz dziękuję, {Farmer_Name}.
+AudioName: 480.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s0
+DialogueText: Witam, wszystkich. Jesteśmy z Miasta Pelikan... Ee... I nazywamy się 'Pelikany' {Portrait:Custom:8}
+AudioName: 481.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s1
+DialogueText: Ta piosenka jest o Rolnictwie, górnictwie i ścinaniu drzew.
+AudioName: 482.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s2
+DialogueText: Ta piosenka jest o mieście w oceanie.
+AudioName: 483.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s3
+DialogueText: Ta piosenka jest o pociągach.
+AudioName: 484.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s4
+DialogueText: Zaczynajmy... {Portrait:Custom:8}
+AudioName: 485.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s5
+DialogueText: Dzięki, ludziska! {Portrait:Happy}
+AudioName: 486.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s6
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jego pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 487_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s7
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jej pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 488_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s8
+DialogueText: Och! I nie zapomnijcie po drodze kupić kasety z naszym demo... Za jedyne 10 monet!
+AudioName: 489.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s9
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałeś. {Portrait:Happy}
+AudioName: 490_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s10
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałaś. {Portrait:Happy}
+AudioName: 491_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/poppy:s11
+DialogueText: Hej. Ten występ był w dechę! Jeszcze raz dzięki, {Farmer_Name}.
+AudioName: 492.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s0
+DialogueText: Witam, wszystkich. Jesteśmy z Miasta Pelikan... Ee... I nazywamy się 'Goblin Niszczyciel' {Portrait:Custom:8}
+AudioName: 493.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s1
+DialogueText: Ta piosenka jest o Rolnictwie, górnictwie i ścinaniu drzew.
+AudioName: 494.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s2
+DialogueText: Ta piosenka jest o mieście w oceanie.
+AudioName: 495.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s3
+DialogueText: Ta piosenka jest o pociągach.
+AudioName: 496.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s4
+DialogueText: Zaczynajmy... {Portrait:Custom:8}
+AudioName: 497.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s5
+DialogueText: Dzięki, ludziska! {Portrait:Happy}
+AudioName: 498.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s6
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jego pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 499_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s7
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jej pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 500_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s8
+DialogueText: Och! I nie zapomnijcie po drodze kupić kasety z naszym demo... Za jedyne 10 monet!
+AudioName: 501.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s9
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałeś. {Portrait:Happy}
+AudioName: 502_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s10
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałaś. {Portrait:Happy}
+AudioName: 503_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/heavy:s11
+DialogueText: Hej. Ten występ był w dechę! Jeszcze raz dzięki, {Farmer_Name}.
+AudioName: 504.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s0
+DialogueText: Witam, wszystkich. Jesteśmy z Miasta Pelikan... Ee... I nazywamy się 'Xenonowy Chip 3.0'. {Portrait:Custom:8}
+AudioName: 505.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s1
+DialogueText: Ta piosenka jest o Rolnictwie, górnictwie i ścinaniu drzew.
+AudioName: 506.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s2
+DialogueText: Ta piosenka jest o mieście w oceanie.
+AudioName: 507.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s3
+DialogueText: Ta piosenka jest o pociągach.
+AudioName: 508.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s4
+DialogueText: Zaczynajmy... {Portrait:Custom:8}
+AudioName: 509.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s5
+DialogueText: Dzięki, ludziska! {Portrait:Happy}
+AudioName: 510.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s6
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jego pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 511_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s7
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jej pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 512_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s8
+DialogueText: Och! I nie zapomnijcie po drodze kupić kasety z naszym demo... Za jedyne 10 monet!
+AudioName: 513.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s9
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałeś. {Portrait:Happy}
+AudioName: 514_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s10
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałaś. {Portrait:Happy}
+AudioName: 515_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/techno:s11
+DialogueText: Hej. Ten występ był w dechę! Jeszcze raz dzięki, {Farmer_Name}.
+AudioName: 516.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s0
+DialogueText: Witam, wszystkich. Jesteśmy z Miasta Pelikan... Ee... I nazywamy się 'Alfalfasi' {Portrait:Custom:8}
+AudioName: 517.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s1
+DialogueText: Ta piosenka jest o Rolnictwie, górnictwie i ścinaniu drzew.
+AudioName: 518.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s2
+DialogueText: Ta piosenka jest o mieście w oceanie.
+AudioName: 519.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s3
+DialogueText: Ta piosenka jest o pociągach.
+AudioName: 520.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s4
+DialogueText: Zaczynajmy... {Portrait:Custom:8}
+AudioName: 521.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s5
+DialogueText: Dzięki, ludziska! {Portrait:Happy}
+AudioName: 522.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s6
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jego pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 523_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s7
+DialogueText: Ale powinniście bić brawa komuś innemu. {Farmer_Name}! Bez jej pomocy nie wiedzielibyśmy jaki gatunek muzyki mamy grać!
+AudioName: 524_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s8
+DialogueText: Och! I nie zapomnijcie po drodze kupić kasety z naszym demo... Za jedyne 10 monet!
+AudioName: 525.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s9
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałeś. {Portrait:Happy}
+AudioName: 526_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s10
+DialogueText: To chyba wszystko na dzisiaj! Jeszcze raz dzięki, że z nami przyjechałaś. {Portrait:Happy}
+AudioName: 527_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Temp/honkytonk:s11
+DialogueText: Hej. Ten występ był w dechę! Jeszcze raz dzięki, {Farmer_Name}.
+AudioName: 528.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam_spouse
+DialogueText: Sebastian nic się nie zmienił. Dobrze się bawisz?
+AudioName: 529.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam
+DialogueText: Hej {Farmer_Name}. Dobrze się bawisz?
+AudioName: 530.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam
+DialogueText: Namiot z procą jest nawet spoko. I jeśli dobrze zagrasz, możesz zdobyć dużo żetonów.
+AudioName: 531.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam_spouse_y2
+DialogueText: Hej, jak się bawisz na festiwalu? Będę Ci kibicował na wystawie! {Portrait:Neutral}
+AudioName: 532.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam_spouse_y2
+DialogueText: Psst... Jeśli masz zamiar obstawiać na kole fortuny... stawiaj na zielone! {Portrait:Neutral}
+AudioName: 533.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam_y2
+DialogueText: Ech... Przegrałem wszystko w kole fortuny... {Portrait:Sad}
+AudioName: 534.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Sam_y2
+DialogueText: Mogłem stawiać na zielone. {Portrait:Neutral}
+AudioName: 535.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Sam_spouse
+DialogueText: Hej, zastanawiałem się, kiedy przyjdziesz! {Portrait:Happy}
+AudioName: 536.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Sam
+DialogueText: To dziwne... W tę stronę jest ślepy zaułek.
+AudioName: 537.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Sam
+DialogueText: Jestem pewny, że kiedy tędy szedłem, ktoś był przede mną. Gdzie on poszedł?
+AudioName: 538.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Sam_spouse_y2
+DialogueText: Dość głęboko zaszliśmy, ale utknęliśmy.
+AudioName: 539.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Sam_spouse_y2
+DialogueText: Idź... znajdź dla nas nagrodę!
+AudioName: 540.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Sam_y2
+DialogueText: Czy jestem Sam? He he he... {Portrait:Custom:11}
+AudioName: 541.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Sam_spouse
+DialogueText: Nasza paczka jest taka jak zawsze. Dobrze się bawisz?
+AudioName: 542.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Sam
+DialogueText: *wąch*... Uch... Alergia... {Portrait:Sad}
+AudioName: 543.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Sam
+DialogueText: Wiesz co? Przyznaję... Bardzo lubię kwiaty!
+AudioName: 544.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Sam_spouse_y2
+DialogueText: Łał, Wyglądasz dziś wspaniale. {Portrait:Neutral}
+AudioName: 545.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Sam_y2
+DialogueText: *smark* Byłoby lepiej, gdyby nie moje alergia. Muszę to jakoś znieść! {Portrait:Neutral}
+AudioName: 546.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam_spouse
+DialogueText: Chyba byłbym zły, gdybym wrzucił coś okropnego do zupy...
+AudioName: 547.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam
+DialogueText: Gubernator? Kogo on obchodzi...
+AudioName: 548.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam
+DialogueText: Czemu ma mnie obchodzić jakiś chłop?
+AudioName: 549.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam_spouse_y2
+DialogueText: Ta zupa pachnie ostro...
+AudioName: 550.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam_spouse_y2
+DialogueText: Dodałeś coś dobrego? Robię się głodny! {Portrait:Happy}
+AudioName: 551_male.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam_spouse_y2
+DialogueText: Dodałaś coś dobrego? Robię się głodny! {Portrait:Happy}
+AudioName: 552_female.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Sam_y2
+DialogueText: Za rok, jak nie zapomnę, wezmę ze sobą elektryczną gitarę... Wyobraź sobie solówkę w tym momencie! {Portrait:Neutral}
+AudioName: 553.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Sam
+DialogueText: Ciekawe czy są jadowite?
+AudioName: 554.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Sam
+DialogueText: Może nie powinienem wrzucać Sebastiana do wody... {Portrait:Happy}
+AudioName: 555.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Sam_spouse_y2
+DialogueText: Wow... świetnie dziś wyglądasz! {Portrait:Custom:10}
+AudioName: 556.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Sam_y2
+DialogueText: Lato już się kończy. Będę tęsknił za długimi dniami!
+AudioName: 557.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Sam_spouse
+DialogueText: *ziew*... Jestem tu tylko po prezenty i ciasteczka. {Portrait:Happy}
+AudioName: 558.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Sam
+DialogueText: Jestem wdzięczny za moją gitarę i deskę skateboardową. O! I jeszcze za moją rodzinę.
+AudioName: 559.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Sam_spouse_y2
+DialogueText: Patrzenie jak wszyscy rozpakowują prezenty jest nawet fajne... oglądanie ich reakcji. {Portrait:Happy}
+AudioName: 560.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Sam_spouse_y2
+DialogueText: O tak, mam coś dla Ciebie. Ja yyy... pokażę Ci jak wrócimy do domu! {Portrait:Custom:10}
+AudioName: 561.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Sam_y2
+DialogueText: Kto daje komuś w prezencie koszyk Joja?... {Portrait:Sad}
+AudioName: 562.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Sam_spouse
+DialogueText: Nie jest Ci zimno? Na pewno nie chcesz mojej kurtki?
+AudioName: 563.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Sam
+DialogueText: Hej, {Farmer_Name}. Startujesz w zawodach?
+AudioName: 564.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Sam
+DialogueText: Och, ja nie. Nie umiem łowić.
+AudioName: 565.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Sam_spouse_y2
+DialogueText: Może nauczysz mnie kiedyś jak używać wędki. Myślę, że byłbym w tym dobry.
+AudioName: 566.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Sam_y2
+DialogueText: Hej, co się śmiejesz? Jeszcze nie skończyłem!
+AudioName: 567.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Sam_y2
+DialogueText: Zaczekaj... jak skończymy, będzie z niego niezły bałwan.
+AudioName: 568.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Sam:s0
+DialogueText: O tak! Moje ulubione!
+AudioName: 569.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Sam:s1
+DialogueText: Dzięki! Podoba mi się.
+AudioName: 570.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Sam:s2
+DialogueText: Hmm... Ciekawe...
+AudioName: 571.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Sam:s3
+DialogueText: Na serio tego nie łapiesz, co?
+AudioName: 572.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Sam:s4
+DialogueText: To dla mnie? Dzięki!
+AudioName: 573.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SamHouse_Sam_Trash
+DialogueText: Hej, nie zaglądaj tam! {Portrait:Angry}
+AudioName: 574.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Sam
+DialogueText: Strasznie się zmieniłem odkąd Cię poznałem... wiesz?
+AudioName: 575.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Sam
+DialogueText: ... Można to nazwać 'dojrzałością'... He he. {Portrait:Custom:10}
+AudioName: 576.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Sam
+DialogueText: Ale teraz jestem w miejscu, w którym bardzo się ekscytuję naszą wspólną przyszłością... {Portrait:Love}
+AudioName: 577.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Sam
+DialogueText: Nawet jeśli będzie trzeba wykonywać obowiązki, jak... ee... robienie zakupów i zmienianie pieluch... Ha... {Portrait:Custom:10}
+AudioName: 578.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_summer_movie_1_BeforeMovie
+DialogueText: O stary, Nie mogę się doczekać! Słyszałem, że ten film ma dobrą muzykę.
+AudioName: 579.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_summer_movie_1_DuringMovie
+DialogueText: Ten film jest przezabawny! Jak oni wpadają na takie pomysły? {Portrait:Happy}
+AudioName: 580.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_summer_movie_1_DuringMovie_2
+DialogueText: Sam nie może się powstrzymać od śmiechu!
+AudioName: 581.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_summer_movie_1_AfterMovie
+DialogueText: *psst*... Nie mów nikomu, ale noszę te same skarpetki co Wumbus.
+AudioName: 582.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_horror_BeforeMovie
+DialogueText: Lubisz straszne filmy, prawda? Jestem trochę zaskoczony!
+AudioName: 583.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_horror_AfterMovie
+DialogueText: To było nawet dobre! Zazwyczaj nie boję się filmów, ale ten mnie tak troszeczkę... Raczej nie pokazałbym tego Vincentowi.
+AudioName: 584.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_like_BeforeMovie
+DialogueText: Hej, dzięki za zaproszenie, {Farmer_Name}... Dobrze, że mamy w mieście kino.
+AudioName: 585.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_like_AfterMovie
+DialogueText: To nie było takie złe! Może zaproszę na ten film Vincenta.
+AudioName: 586.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_dislike_BeforeMovie
+DialogueText: To stary film z masą gadania, tak? Hmm... {Portrait:Sad}
+AudioName: 587.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_dislike_DuringMovie
+DialogueText: Hę? Och! Ta... Ten film jest... Interesujący... {Portrait:Custom:10}
+AudioName: 588.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_dislike_DuringMovie_2
+DialogueText: Sam gra na swojej przenośnej konsoli.
+AudioName: 589.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Sam_dislike_AfterMovie
+DialogueText: Ta... Em... Ta jedna postać była ciekawa... i, yy... heh... {Portrait:Custom:10}
+AudioName: 590.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Sam_marriage
+DialogueText: Hej, nie zapomnij przed końcem festiwalu zabrać ze sobą darmowego kaktusa.
+AudioName: 591.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Sam_marriage
+DialogueText: Jakkolwiek by nie wyglądał, w naszym domku będzie pasować idealnie! {Portrait:Happy}
+AudioName: 592.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Sam
+DialogueText: Hej, {Farmer_Name}. Obczaj mojego kaktusa. Próbuje mu wymyślić imię.
+AudioName: 593.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Sam
+DialogueText: Hmm... może '%name'?
+AudioName: 594.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Shop_Sam
+DialogueText: Chcesz moją starą złamaną deskę skateboardową? Możesz użyć jej jako dekoracji, czy coś.
+AudioName: 595.ogg
+--------------------------------------------------

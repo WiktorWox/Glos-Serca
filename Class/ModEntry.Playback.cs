@@ -43,7 +43,7 @@ namespace VoiceOverFrameworkMod
 
             // --- Language Selection Logic ---
             // 1. Primary target is the actual game language passed in
-            string primaryLangStr = languageCode.ToString().ToLowerInvariant(); // e.g., "en", "zh"
+            string primaryLangStr = GetGameLanguageTag(languageCode).ToLowerInvariant(); // e.g., "en", "zh"
 
             // 2. Secondary target is the user's configured default (might be the same as primary)
             string configDefaultLangStr = (Config.DefaultLanguage ?? "en").ToLowerInvariant();
@@ -237,7 +237,7 @@ namespace VoiceOverFrameworkMod
 
 
         // Loads and plays an audio file from the specified absolute path. Updated to Support wav and ogg
-        private void PlayVoiceFromFile(string absoluteAudioFilePath)
+        private void PlayVoiceFromFile(string absoluteAudioFilePath, bool interruptCurrent = true)
         {
             if (string.IsNullOrWhiteSpace(absoluteAudioFilePath))
             {
@@ -253,11 +253,12 @@ namespace VoiceOverFrameworkMod
                     return;
                 }
 
-                // Stop and dispose previous instance
+                // Stop and dispose previous instance (unless the caller wants the voices to overlap,
+                // e.g. several event speech bubbles shown at once)
                 SoundEffectInstance previousInstance = currentVoiceInstance;
                 currentVoiceInstance = null;
 
-                if (previousInstance != null)
+                if (previousInstance != null && interruptCurrent)
                 {
                     lock (listLock)
                     {
@@ -310,6 +311,7 @@ namespace VoiceOverFrameworkMod
                 newInstance.Volume = Math.Clamp(gameVolume * masterVolume, 0.0f, 1.0f);
 
                 newInstance.Play();
+                Monitor.Log($"[PlayVoiceFromFile] Playing '{absoluteAudioFilePath}' (volume {newInstance.Volume:0.00})", LogLevel.Debug);
 
                 currentVoiceInstance = newInstance;
 
@@ -613,7 +615,7 @@ namespace VoiceOverFrameworkMod
                 return null;
 
             // language chain (same as V1)
-            string primaryLangStr = languageCode.ToString().ToLowerInvariant();
+            string primaryLangStr = GetGameLanguageTag(languageCode).ToLowerInvariant();
             string configDefaultLangStr = (Config?.DefaultLanguage ?? "en").ToLowerInvariant();
             const string hardcodedFallbackLangStr = "en";
             bool allowFallbackToEnglish = Config?.FallbackToDefaultIfMissing ?? true;

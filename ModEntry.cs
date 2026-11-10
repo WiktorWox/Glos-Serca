@@ -254,6 +254,7 @@ namespace VoiceOverFrameworkMod
             helper.Events.GameLoop.UpdateTicked += this.OnUpdateTicked; 
             helper.Events.GameLoop.GameLaunched += this.OnGameLaunched; 
             helper.Events.GameLoop.SaveLoaded += this.OnSaveLoaded;
+            helper.Events.GameLoop.SaveLoaded += this.OnSaveLoaded_TranslationCheck;
             SetupConsoleCommands(helper.ConsoleCommands);
 
 
@@ -751,115 +752,31 @@ namespace VoiceOverFrameworkMod
             gmcm.Register(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
 
             gmcm.AddSectionTitle(mod: this.ModManifest, text: () => this.Helper.Translation.Get("config.section.general.name"));
+            gmcm.AddParagraph(mod: this.ModManifest, text: () => this.TranslationStatusText() ?? string.Empty);
             gmcm.AddBoolOption(mod: this.ModManifest, name: () => this.Helper.Translation.Get("config.mute-typing.name"), tooltip: () => this.Helper.Translation.Get("config.mute-typing.tooltip"), getValue: () => this.Config.turnoffdialoguetypingsound, setValue: value => this.Config.turnoffdialoguetypingsound = value);
             gmcm.AddNumberOption(mod: this.ModManifest, name: () => this.Helper.Translation.Get("config.master-volume.name"), tooltip: () => this.Helper.Translation.Get("config.master-volume.tooltip"), getValue: () => this.Config.MasterVolume, setValue: value => this.Config.MasterVolume = value, min: 0.0f, max: 1.0f, interval: 0.05f, formatValue: value => $"{Math.Round(value * 100)}%");
 
 
             gmcm.AddNumberOption(
-                   mod: this.ModManifest,
-                   name: () => "Audio Start Speed",
-                   tooltip: () => "Adjusting this will make the Audio play sooner or later when dialogue starts to appear. Too low and 2nd dialogue gets play partially on first dialogue box. Too high and there is a noticeable delay before voice plays when dialogue appears ",
-                   getValue: () => this.Config.TextStabilizeTicks,
-                   setValue: v => this.Config.TextStabilizeTicks = Math.Clamp(v, 0, 60),
-                   min: 0,
-                   max: 60,
-                   interval: 1
-            );
-
-
-
-
-            // Collect distinct content pack IDs
-            var availablePackSources = VoicePacksByCharacter
-                .SelectMany(kvp => kvp.Value.Select(vp => vp.ContentPackId))
-                .Distinct(StringComparer.OrdinalIgnoreCase)
-                .OrderBy(id => id)
-                .ToList();
-
-            // Add blank option for "do nothing"
-            availablePackSources.Insert(0, "<None>");
-
-            gmcm.AddTextOption(
                 mod: this.ModManifest,
-                name: () => this.Helper.Translation.Get("config.mass-assign-voicepack.name"),
-                tooltip: () => this.Helper.Translation.Get("config.mass-assign-voicepack.tooltip"),
-                getValue: () => "<None>",
-                setValue: selectedModId =>
-                {
-                    if (string.IsNullOrWhiteSpace(selectedModId) || selectedModId == "<None>")
-                    {
-                        Monitor.Log("[GMCM] Mass assignment skipped (user selected '<None>').", LogLevel.Debug);
-                        return;
-                    }
-
-                    var newAssignments = new Dictionary<string, string>();
-                    foreach (var (character, packs) in VoicePacksByCharacter)
-                    {
-                        var pack = packs.FirstOrDefault(p =>
-                            p.ContentPackId.Equals(selectedModId, StringComparison.OrdinalIgnoreCase));
-
-                        if (pack != null)
-                            newAssignments[character] = pack.VoicePackId;
-                    }
-
-                    if (newAssignments.Count == 0)
-                    {
-                        Monitor.Log($"[GMCM] No voice packs found in '{selectedModId}' to assign.", LogLevel.Warn);
-                        return;
-                    }
-
-
-                    var updated = new Dictionary<string, string>(Config.SelectedVoicePacks);
-                    foreach (var kvp in newAssignments)
-                        updated[kvp.Key] = kvp.Value;
-
-                    Config.SelectedVoicePacks = updated;
-                    Helper.WriteConfig(Config);
-
-                    Monitor.Log($"[GMCM] Mass assigned {newAssignments.Count} voice packs from '{selectedModId}' to matching characters.", LogLevel.Info);
-                    Monitor.Log("[GMCM] You must restart the game to see updated selections reflected in this menu.", LogLevel.Info);
-                },
-                allowedValues: availablePackSources.ToArray()
+                name: () => this.Helper.Translation.Get("config.audio-start.name"),
+                tooltip: () => this.Helper.Translation.Get("config.audio-start.tooltip"),
+                getValue: () => this.Config.TextStabilizeTicks,
+                setValue: v => this.Config.TextStabilizeTicks = Math.Clamp(v, 0, 60),
+                min: 0,
+                max: 60,
+                interval: 1
             );
 
-
-
-
-
-
-            gmcm.AddSectionTitle(mod: this.ModManifest, text: () => this.Helper.Translation.Get("config.section.voice-packs.name"));
-            gmcm.AddParagraph(mod: this.ModManifest, text: () => this.Helper.Translation.Get("config.voice-packs.description"));
-            var charactersWithPacks = VoicePacksByCharacter.Keys.OrderBy(name => name).ToList();
-            if (!charactersWithPacks.Any())
-            {
-                gmcm.AddParagraph(mod: this.ModManifest, text: () => this.Helper.Translation.Get("config.voice-packs.none-loaded"));
-            }
-            else
-            {
-                foreach (string characterName in charactersWithPacks)
-                {
-            
-                    string currentCharacterName = characterName; 
-                    var packsForChar = VoicePacksByCharacter[currentCharacterName];
-                    var availablePackChoices = packsForChar.Select(p => p.VoicePackId).Distinct(StringComparer.OrdinalIgnoreCase).OrderBy(id => id).ToList();
-                    string noneOptionText = this.Helper.Translation.Get("config.character-voice.none-option");
-                    var displayChoices = new List<string> { noneOptionText };
-                    displayChoices.AddRange(availablePackChoices.Select(id => packsForChar.FirstOrDefault(p => p.VoicePackId.Equals(id, StringComparison.OrdinalIgnoreCase))?.VoicePackName ?? id));
-                    gmcm.AddTextOption(mod: this.ModManifest, name: () => this.Helper.Translation.Get("config.character-voice.name", new { characterName = currentCharacterName }), tooltip: () => this.Helper.Translation.Get("config.character-voice.tooltip", new { characterName = currentCharacterName }), getValue: () => { SelectedVoicePacks.TryGetValue(currentCharacterName, out string selectedId); string displayName = packsForChar.FirstOrDefault(p => p.VoicePackId.Equals(selectedId, StringComparison.OrdinalIgnoreCase))?.VoicePackName ?? selectedId; return string.IsNullOrWhiteSpace(displayName) ? noneOptionText : displayName; }, setValue: displayValue => { string selectedId = noneOptionText; if (displayValue != noneOptionText) { selectedId = availablePackChoices.FirstOrDefault(id => (packsForChar.FirstOrDefault(p => p.VoicePackId.Equals(id, StringComparison.OrdinalIgnoreCase))?.VoicePackName ?? id).Equals(displayValue, StringComparison.OrdinalIgnoreCase)) ?? noneOptionText; } if (selectedId == noneOptionText || string.IsNullOrEmpty(selectedId)) { SelectedVoicePacks.Remove(currentCharacterName); this.Monitor.Log($"GMCM: Set {currentCharacterName} voice to None.", LogLevel.Trace); } else { SelectedVoicePacks[currentCharacterName] = selectedId; this.Monitor.Log($"GMCM: Set {currentCharacterName} voice to Pack ID: {selectedId} (Selected: '{displayValue}')", LogLevel.Trace); } }, allowedValues: displayChoices.ToArray());
-                }
-            }
-
-
+            // Głos Serca ships a single embedded voice pack, so the per-character pack
+            // selection and mass-assignment menus from the framework are not shown.
+            // Per-character choices can still be made in config.json (SelectedVoicePacks).
 
             gmcm.AddSectionTitle(
                 mod: this.ModManifest,
                 text: () => this.Helper.Translation.Get("config.section.developer.name") 
             );
 
-            gmcm.AddParagraph(
-                mod: this.ModManifest,
-                text: () => this.Helper.Translation.Get("config.dev-options.create-template-info") 
-            );
 
 
             gmcm.AddBoolOption(

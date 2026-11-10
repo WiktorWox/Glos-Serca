@@ -1,0 +1,634 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Morris.pl",
+      "VoicePackName": "Głos Serca (Morris)",
+      "Character": "Morris",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Event/Town/191393:s0",
+          "DialogueText": "Sprzedaż spada! Gdzie się podziali wszyscy moi klienci? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Morris/1.ogg",
+          "TranslationKey": "Events/Town:191393:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Sprzedaż spada! Gdzie się podziali wszyscy moi klienci?"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s1",
+          "DialogueText": "Coo..?!",
+          "AudioPath": "assets/pl/Morris/2.ogg",
+          "TranslationKey": "Events/Town:191393:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Coo..?!"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s2",
+          "DialogueText": "Wszyscy moi klienci... Tutaj?!? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Morris/3.ogg",
+          "TranslationKey": "Events/Town:191393:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wszyscy moi klienci... Tutaj?!?"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s3",
+          "DialogueText": "Niedobrze... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Morris/4.ogg",
+          "TranslationKey": "Events/Town:191393:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Niedobrze..."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s4",
+          "DialogueText": "Hmmph!",
+          "AudioPath": "assets/pl/Morris/5.ogg",
+          "TranslationKey": "Events/Town:191393:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmph!"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s5",
+          "DialogueText": "To nie ma znaczenia! Po prostu dam zniżkę na 75% i wszyscy moi klienci wrócą do mnie, błagając o przebaczenie! Zobaczysz! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/6.ogg",
+          "TranslationKey": "Events/Town:191393:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "To nie ma znaczenia! Po prostu dam zniżkę na 75% i wszyscy moi klienci wrócą do mnie, błagając o przebaczenie! Zobaczysz!"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s6",
+          "DialogueText": "Jestem skończony... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Morris/7.ogg",
+          "TranslationKey": "Events/Town:191393:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem skończony..."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s7",
+          "DialogueText": "I od tego czasu, Morris i jego kumple z Joja już nigdy nie wrócili...",
+          "AudioPath": "assets/pl/Morris/8.ogg",
+          "TranslationKey": "Events/Town:191393:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "I od tego czasu, Morris i jego kumple z Joja już nigdy nie wrócili..."
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s0",
+          "DialogueText": "Przyszedł. Uwaga wszyscy!",
+          "AudioPath": "assets/pl/Morris/9_male.ogg",
+          "TranslationKey": "Events/Town:502261:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyszedł. Uwaga wszyscy!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s1",
+          "DialogueText": "Przyszła. Uwaga wszyscy!",
+          "AudioPath": "assets/pl/Morris/10_female.ogg",
+          "TranslationKey": "Events/Town:502261:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyszła. Uwaga wszyscy!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s2",
+          "DialogueText": "*Ekhem*...",
+          "AudioPath": "assets/pl/Morris/11.ogg",
+          "TranslationKey": "Events/Town:502261:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ekhem*..."
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s3",
+          "DialogueText": "Kilka lat temu, wielcy innowatorzy z Głównej siedziby Joja wpadli na nowy pomysł, Projekt Rozwoju Społeczności Joja.",
+          "AudioPath": "assets/pl/Morris/12.ogg",
+          "TranslationKey": "Events/Town:502261:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Kilka lat temu, wielcy innowatorzy z Głównej siedziby Joja wpadli na nowy pomysł, Projekt Rozwoju Społeczności Joja."
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s4",
+          "DialogueText": "Projekt został poczęty z myślą o zapewnieniu ważnych usług budowlanych dla ukochanych społeczności, które utrzymujemy...*smark*... przy okazji generując znaczne przychody!",
+          "AudioPath": "assets/pl/Morris/13.ogg",
+          "TranslationKey": "Events/Town:502261:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Projekt został poczęty z myślą o zapewnieniu ważnych usług budowlanych dla ukochanych społeczności, które utrzymujemy...*smark*... przy okazji generując znaczne przychody!"
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s5",
+          "DialogueText": "Miasto Pelikan, z jego nieaktywną infrastrukturą, było idealne do eksperymentowania.",
+          "AudioPath": "assets/pl/Morris/14.ogg",
+          "TranslationKey": "Events/Town:502261:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Miasto Pelikan, z jego nieaktywną infrastrukturą, było idealne do eksperymentowania."
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s6",
+          "DialogueText": "Dzięki wam, nasz Program Rozwoju Społeczności okazał się wielkim sukcesem!",
+          "AudioPath": "assets/pl/Morris/15.ogg",
+          "TranslationKey": "Events/Town:502261:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki wam, nasz Program Rozwoju Społeczności okazał się wielkim sukcesem!"
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s7",
+          "DialogueText": "Od naprawiania starych mostów, po naprawianie autobusów i zamianę stosów gruzu w szklarnię, naprawdę zmieniliśmy to miasto!",
+          "AudioPath": "assets/pl/Morris/16.ogg",
+          "TranslationKey": "Events/Town:502261:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Od naprawiania starych mostów, po naprawianie autobusów i zamianę stosów gruzu w szklarnię, naprawdę zmieniliśmy to miasto!"
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s8",
+          "DialogueText": "Dostałem też spory awans! He he he.",
+          "AudioPath": "assets/pl/Morris/17.ogg",
+          "TranslationKey": "Events/Town:502261:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Dostałem też spory awans! He he he."
+        },
+        {
+          "DialogueFrom": "Event/Town/502261:s9",
+          "DialogueText": "Prezes firmy poprosił mnie o przekazanie tego ekskluzywnego prezentu jako 'podziękowania'.",
+          "AudioPath": "assets/pl/Morris/18.ogg",
+          "TranslationKey": "Events/Town:502261:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Prezes firmy poprosił mnie o przekazanie tego ekskluzywnego prezentu jako 'podziękowania'."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s0",
+          "DialogueText": "Ekhem...",
+          "AudioPath": "assets/pl/Morris/19.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ekhem..."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s1",
+          "DialogueText": "Chodźcie i bierzcie... Rabaty 50% na zakupy w Joja Market!",
+          "AudioPath": "assets/pl/Morris/20.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Chodźcie i bierzcie... Rabaty 50% na zakupy w Joja Market!"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s2",
+          "DialogueText": "Chętni?",
+          "AudioPath": "assets/pl/Morris/21.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Chętni?"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s3",
+          "DialogueText": "Pewnie jest Ci ciężko... stracić swoich lojalnych klientów w taki sposób.",
+          "AudioPath": "assets/pl/Morris/22.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie jest Ci ciężko... stracić swoich lojalnych klientów w taki sposób."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s4",
+          "DialogueText": "Ale czy można ich winić? Joja jest najlepszym wyborem. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/23.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale czy można ich winić? Joja jest najlepszym wyborem."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s5",
+          "DialogueText": "Wkrótce całe miasto to odkryje.",
+          "AudioPath": "assets/pl/Morris/24.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Wkrótce całe miasto to odkryje."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/3102768:s6",
+          "DialogueText": "*ech*... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Morris/25.ogg",
+          "TranslationKey": "Events/SeedShop:3102768:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*..."
+        },
+        {
+          "DialogueFrom": "Event/CommunityCenter/Punch:s0",
+          "DialogueText": "Hah!",
+          "AudioPath": "assets/pl/Morris/26.ogg",
+          "TranslationKey": "Events/CommunityCenter:Punch:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Hah!"
+        },
+        {
+          "DialogueFrom": "Event/CommunityCenter/Punch:s1",
+          "DialogueText": "To nic nie znaczy. po prostu dam zniżkę 75% i wszyscy moi klienci wrócą na kolanach, błagając o przebaczenie. Zobaczycie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/27.ogg",
+          "TranslationKey": "Events/CommunityCenter:Punch:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "To nic nie znaczy. po prostu dam zniżkę 75% i wszyscy moi klienci wrócą na kolanach, błagając o przebaczenie. Zobaczycie!"
+        },
+        {
+          "DialogueFrom": "Event/CommunityCenter/Punch:s2",
+          "DialogueText": "Och? A w jaki niby sposób chciałbyś to załatwić? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Morris/28.ogg",
+          "TranslationKey": "Events/CommunityCenter:Punch:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Och? A w jaki niby sposób chciałbyś to załatwić?"
+        },
+        {
+          "DialogueFrom": "Event/CommunityCenter/Punch:s3",
+          "DialogueText": "Hah! Prymitywnie...",
+          "AudioPath": "assets/pl/Morris/29.ogg",
+          "TranslationKey": "Events/CommunityCenter:Punch:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Hah! Prymitywnie..."
+        },
+        {
+          "DialogueFrom": "Event/CommunityCenter/Punch:s4",
+          "DialogueText": "Obrażaj mnie ile chcesz... Ale NIGDY nie waż się szargać dobrego imienia Joja! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Morris/30.ogg",
+          "TranslationKey": "Events/CommunityCenter:Punch:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Obrażaj mnie ile chcesz... Ale NIGDY nie waż się szargać dobrego imienia Joja!"
+        },
+        {
+          "DialogueFrom": "Event/CommunityCenter/Punch:s5",
+          "DialogueText": "Jesteś słabszy niż ta twoja wystawka świeżych produktów! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Morris/31.ogg",
+          "TranslationKey": "Events/CommunityCenter:Punch:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Jesteś słabszy niż ta twoja wystawka świeżych produktów!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_PlayerSignedUp",
+          "DialogueText": "Wspaniale! Witamy w Korporacji Joja! Wróć jutro, to pogadamy o rozwoju społeczności... A! I nie zapomnij portfela! He he.",
+          "AudioPath": "assets/pl/Morris/32.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_PlayerSignedUp",
+          "PageIndex": 0,
+          "DisplayPattern": "Wspaniale! Witamy w Korporacji Joja! Wróć jutro, to pogadamy o rozwoju społeczności... A! I nie zapomnij portfela! He he."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_PlayerSignedUp",
+          "DialogueText": "Pozwól, że zawołam Burmistrza i zobaczymy co da się zrobić z tym okropnym, starym domem kultury...",
+          "AudioPath": "assets/pl/Morris/33.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_PlayerSignedUp",
+          "PageIndex": 1,
+          "DisplayPattern": "Pozwól, że zawołam Burmistrza i zobaczymy co da się zrobić z tym okropnym, starym domem kultury..."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_ComeBackLater",
+          "DialogueText": "Wróć jutro, a zobaczymy, czy można zacząć ulepszyć naszą społeczność... Tylko nie zapomnij przynieść pieniędzy, dużo pieniędzy. He he.",
+          "AudioPath": "assets/pl/Morris/34.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_ComeBackLater",
+          "PageIndex": 0,
+          "DisplayPattern": "Wróć jutro, a zobaczymy, czy można zacząć ulepszyć naszą społeczność... Tylko nie zapomnij przynieść pieniędzy, dużo pieniędzy. He he."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_Greeting",
+          "DialogueText": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?",
+          "AudioPath": "assets/pl/Morris/35.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_Greeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_Greeting",
+          "DialogueText": "Nie wydaje mi się, że się kiedyś spotkaliśmy. Jestem Morris, przedstawiciel korporacji Joja.",
+          "AudioPath": "assets/pl/Morris/36.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_Greeting",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie wydaje mi się, że się kiedyś spotkaliśmy. Jestem Morris, przedstawiciel korporacji Joja."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_Greeting",
+          "DialogueText": "Jeśli zdecydujesz się na członkostwo Joja, z chęcią Ci w tym pomogę.",
+          "AudioPath": "assets/pl/Morris/37.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_Greeting",
+          "PageIndex": 2,
+          "DisplayPattern": "Jeśli zdecydujesz się na członkostwo Joja, z chęcią Ci w tym pomogę."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting",
+          "DialogueText": "Witamy w Markecie Joja! Jak Ci minął weekend?",
+          "AudioPath": "assets/pl/Morris/38.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak Ci minął weekend?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting",
+          "DialogueText": "Jesteśmy w trakcie przygotowywania nowego systemu członkostwa dla naszych klientów!",
+          "AudioPath": "assets/pl/Morris/39.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting",
+          "PageIndex": 1,
+          "DisplayPattern": "Jesteśmy w trakcie przygotowywania nowego systemu członkostwa dla naszych klientów!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting",
+          "DialogueText": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?",
+          "AudioPath": "assets/pl/Morris/40.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting",
+          "DialogueText": "Jesteśmy w trakcie przygotowywania nowego systemu członkostwa dla naszych klientów. Wróć później, żeby dołączyć!",
+          "AudioPath": "assets/pl/Morris/41.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting",
+          "PageIndex": 1,
+          "DisplayPattern": "Jesteśmy w trakcie przygotowywania nowego systemu członkostwa dla naszych klientów. Wróć później, żeby dołączyć!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_CommunityCenterComplete",
+          "DialogueText": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?",
+          "AudioPath": "assets/pl/Morris/42.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_CommunityCenterComplete",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_CommunityCenterComplete",
+          "DialogueText": "Niestety, z powodu nieprzewidzianych okoliczności nasza oferta członkostwa Joja jest obecnie niedostępna. Postaramy się wkrótce to rozwiązać!",
+          "AudioPath": "assets/pl/Morris/43.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_CommunityCenterComplete",
+          "PageIndex": 1,
+          "DisplayPattern": "Niestety, z powodu nieprzewidzianych okoliczności nasza oferta członkostwa Joja jest obecnie niedostępna. Postaramy się wkrótce to rozwiązać!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_CommunityCenterComplete",
+          "DialogueText": "Witamy w Markecie Joja! Jak Ci minął weekend?",
+          "AudioPath": "assets/pl/Morris/44.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_CommunityCenterComplete",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak Ci minął weekend?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_CommunityCenterComplete",
+          "DialogueText": "Niestety, z powodu nieprzewidzianych okoliczności nasza oferta członkostwa Joja jest obecnie niedostępna. Postaramy się wkrótce to rozwiązać!",
+          "AudioPath": "assets/pl/Morris/45.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_CommunityCenterComplete",
+          "PageIndex": 1,
+          "DisplayPattern": "Niestety, z powodu nieprzewidzianych okoliczności nasza oferta członkostwa Joja jest obecnie niedostępna. Postaramy się wkrótce to rozwiązać!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_MembershipAvailable",
+          "DialogueText": "Członkostwo kosztuje {0} monet. Czy chcesz do nas dołączyć?",
+          "AudioPath": "assets/pl/Morris/46.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable",
+          "PageIndex": 0,
+          "DisplayPattern": "Członkostwo kosztuje {0} monet. Czy chcesz do nas dołączyć?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_MembershipAvailable",
+          "DialogueText": "Tak.",
+          "AudioPath": "assets/pl/Morris/47.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_MembershipAvailable",
+          "DialogueText": "Nie.",
+          "AudioPath": "assets/pl/Morris/48.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_MembershipAvailable",
+          "DialogueText": "Członkostwo kosztuje {0} monet. Czy chcesz do nas dołączyć?",
+          "AudioPath": "assets/pl/Morris/49.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_MembershipAvailable",
+          "PageIndex": 0,
+          "DisplayPattern": "Członkostwo kosztuje {0} monet. Czy chcesz do nas dołączyć?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_MembershipAvailable",
+          "DialogueText": "Tak.",
+          "AudioPath": "assets/pl/Morris/50.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_MembershipAvailable",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_MembershipAvailable",
+          "DialogueText": "Nie.",
+          "AudioPath": "assets/pl/Morris/51.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_MembershipAvailable",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_SecondPlayer",
+          "DialogueText": "Witamy w Markecie Joja! Jak Ci mija weekend?",
+          "AudioPath": "assets/pl/Morris/52.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_SecondPlayer",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak Ci mija weekend?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_WeekendGreeting_SecondPlayer",
+          "DialogueText": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na farmie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości.",
+          "AudioPath": "assets/pl/Morris/53.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_SecondPlayer",
+          "PageIndex": 1,
+          "DisplayPattern": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na ie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_SecondPlayer",
+          "DialogueText": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?",
+          "AudioPath": "assets/pl/Morris/54.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_SecondPlayer",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy w Markecie Joja! Jak się dzisiaj miewasz?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_SecondPlayer",
+          "DialogueText": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na farmie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości.",
+          "AudioPath": "assets/pl/Morris/55.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_SecondPlayer",
+          "PageIndex": 1,
+          "DisplayPattern": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na ie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_StillProcessingOrder",
+          "DialogueText": "Aktualnie pracujemy nad zleconym planem rozbudowy społeczności. Wróć jak skończymy.",
+          "AudioPath": "assets/pl/Morris/56.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_StillProcessingOrder",
+          "PageIndex": 0,
+          "DisplayPattern": "Aktualnie pracujemy nad zleconym planem rozbudowy społeczności. Wróć jak skończymy."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_CommunityDevelopmentForm_PlayerMale",
+          "DialogueText": "Mam tu formularz rozwoju społeczności Joja. Chce pan zobaczyć?",
+          "AudioPath": "assets/pl/Morris/57.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_CommunityDevelopmentForm_PlayerMale",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam tu formularz rozwoju społeczności Joja. Chce pan zobaczyć?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_CommunityDevelopmentForm_PlayerMale",
+          "DialogueText": "Tak",
+          "AudioPath": "assets/pl/Morris/58.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_CommunityDevelopmentForm_PlayerMale",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_CommunityDevelopmentForm_PlayerMale",
+          "DialogueText": "Nie",
+          "AudioPath": "assets/pl/Morris/59.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_CommunityDevelopmentForm_PlayerMale",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_CommunityDevelopmentForm_PlayerFemale",
+          "DialogueText": "Mam tu formularz rozwoju społeczności Joja. Chce pani zobaczyć?",
+          "AudioPath": "assets/pl/Morris/60.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_CommunityDevelopmentForm_PlayerFemale",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam tu formularz rozwoju społeczności Joja. Chce pani zobaczyć?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_CommunityDevelopmentForm_PlayerFemale",
+          "DialogueText": "Tak",
+          "AudioPath": "assets/pl/Morris/61.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_CommunityDevelopmentForm_PlayerFemale",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_CommunityDevelopmentForm_PlayerFemale",
+          "DialogueText": "Nie",
+          "AudioPath": "assets/pl/Morris/62.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_CommunityDevelopmentForm_PlayerFemale",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_JojaCDConfirm",
+          "DialogueText": "Wspaniale! Wyślemy tam naszych pracowników w nocy. Jutro powinno być gotowe.",
+          "AudioPath": "assets/pl/Morris/63.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_JojaCDConfirm",
+          "PageIndex": 0,
+          "DisplayPattern": "Wspaniale! Wyślemy tam naszych pracowników w nocy. Jutro powinno być gotowe."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_BuyMovieTheater",
+          "DialogueText": "Tak",
+          "AudioPath": "assets/pl/Morris/64.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_BuyMovieTheater",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_BuyMovieTheater",
+          "DialogueText": "Nie",
+          "AudioPath": "assets/pl/Morris/65.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_BuyMovieTheater",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_TheaterBought",
+          "DialogueText": "Pół bańki...! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Morris/66.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_TheaterBought",
+          "PageIndex": 0,
+          "DisplayPattern": "Pół bańki...!"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_TheaterBought",
+          "DialogueText": "*Ekhem*... Znaczy... Wspaniale! Nasza Ekipa Budowlana Joja zacznie od jutra pracować! Dziękuję za wspieranie naszej pracy.",
+          "AudioPath": "assets/pl/Morris/67.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_TheaterBought",
+          "PageIndex": 1,
+          "DisplayPattern": "*Ekhem*... Znaczy... Wspaniale! Nasza Ekipa Budowlana Joja zacznie od jutra pracować! Dziękuję za wspieranie naszej pracy."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Morris_NoMoreCD",
+          "DialogueText": "Ach! Mój ulubiony klient... Niestety nie mamy dostępnych projektów rozwoju społeczności.",
+          "AudioPath": "assets/pl/Morris/68.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_NoMoreCD",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach! Mój ulubiony klient... Niestety nie mamy dostępnych projektów rozwoju społeczności."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Intro_Morris",
+          "DialogueText": "Ach, {Farmer_Name}... Mój ulubiony członek Joja.",
+          "AudioPath": "assets/pl/Morris/69_male.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Intro_Morris",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, ... Mój ulubiony członek Joja.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Intro_Morris",
+          "DialogueText": "Ach, {Farmer_Name}... Moja ulubiona członkini Joja.",
+          "AudioPath": "assets/pl/Morris/70_female.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Intro_Morris",
+          "PageIndex": 1,
+          "DisplayPattern": "Ach, ... Moja ulubiona członkini Joja.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue1_Morris",
+          "DialogueText": "Wiesz, kiedy byłem przypisany do tej lokacji %year lat temu, uznałem to za krok wstecz w mojej karierze.",
+          "AudioPath": "assets/pl/Morris/71.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue1_Morris",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz, kiedy byłem przypisany do tej lokacji %year lat temu, uznałem to za krok wstecz w mojej karierze."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue1_Morris",
+          "DialogueText": "Który szanujący się Menadżer Joja chciałby przewodniczyć tak małej, błahej mieścinie jak Miasto Pelikan? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/72.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue1_Morris",
+          "PageIndex": 1,
+          "DisplayPattern": "Który szanujący się Menadżer Joja chciałby przewodniczyć tak małej, błahej mieścinie jak Miasto Pelikan?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue2_Morris",
+          "DialogueText": "Ale muszę przyznać, po tych wszystkich latach ta dolina naprawdę mi się spodobała.",
+          "AudioPath": "assets/pl/Morris/73.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue2_Morris",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale muszę przyznać, po tych wszystkich latach ta dolina naprawdę mi się spodobała."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue2_Morris",
+          "DialogueText": "Praca tutaj otworzyła mi oczy na inny sposób życia. Ciężko mi to powiedzieć, ale... to było... upokarzające doświadczenie.",
+          "AudioPath": "assets/pl/Morris/74.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue2_Morris",
+          "PageIndex": 1,
+          "DisplayPattern": "Praca tutaj otworzyła mi oczy na inny sposób życia. Ciężko mi to powiedzieć, ale... to było... upokarzające doświadczenie."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Morris",
+          "DialogueText": "Chcę Ci coś powiedzieć, {Farmer_Name}... Doceniam Twoją Ciężką pracę dla Korporacji Joja.",
+          "AudioPath": "assets/pl/Morris/75.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Morris",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcę Ci coś powiedzieć, ... Doceniam Twoją Ciężką pracę dla Korporacji Joja."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Morris",
+          "DialogueText": "Nasza siła pochodzi od członków i ty wykazujesz się wzorową motywacją i pomysłowością. Jestem dumny z tego, że pracuję dla tej firmy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/76.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Morris",
+          "PageIndex": 1,
+          "DisplayPattern": "Nasza siła pochodzi od członków i ty wykazujesz się wzorową motywacją i pomysłowością. Jestem dumny z tego, że pracuję dla tej firmy."
+        },
+        {
+          "DialogueFrom": "JojaMart_Morris_Greeting",
+          "DialogueText": "Witaj w Joja Markecie!",
+          "AudioPath": "assets/pl/Morris/77.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:JojaMart_Morris_Greeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj w Joja Markecie!"
+        }
+      ]
+    }
+  ]
+}

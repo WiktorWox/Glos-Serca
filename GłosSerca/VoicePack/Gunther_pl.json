@@ -1,0 +1,296 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Gunther.pl",
+      "VoicePackName": "Głos Serca (Gunther)",
+      "Character": "Gunther",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Event/Farm/66:s0",
+          "DialogueText": "Och, dzień dobry Panie {Farmer_Name}!",
+          "AudioPath": "assets/pl/Gunther/1_male.ogg",
+          "TranslationKey": "Events/Farm:66:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, dzień dobry Panie !",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s1",
+          "DialogueText": "Och, dzień dobry Pani {Farmer_Name}!",
+          "AudioPath": "assets/pl/Gunther/2_female.ogg",
+          "TranslationKey": "Events/Farm:66:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, dzień dobry Pani !",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s2",
+          "DialogueText": "Mam nadzieję, że nie jest za wcześnie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gunther/3.ogg",
+          "TranslationKey": "Events/Farm:66:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że nie jest za wcześnie..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s3",
+          "DialogueText": "Chciałem wpaść i osobiście Ci podziękować za te wszystkie wspaniałe artefakty i minerały... tyle wspaniałych rzeczy! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gunther/4.ogg",
+          "TranslationKey": "Events/Farm:66:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałem wpaść i osobiście Ci podziękować za te wszystkie wspaniałe artefakty i minerały... tyle wspaniałych rzeczy!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s4",
+          "DialogueText": "A nawet, dostałem list z biura regionalnego sekretariatu artefaktów... Otrzymaliśmy nagrodę 'złotej łopaty' za nasz znaczący wkład w tę dziedzinę!",
+          "AudioPath": "assets/pl/Gunther/5.ogg",
+          "TranslationKey": "Events/Farm:66:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "A nawet, dostałem list z biura regionalnego sekretariatu artefaktów... Otrzymaliśmy nagrodę 'złotej łopaty' za nasz znaczący wkład w tę dziedzinę!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s5",
+          "DialogueText": "I wszystko dzięki Tobie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gunther/6.ogg",
+          "TranslationKey": "Events/Farm:66:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "I wszystko dzięki Tobie!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s6",
+          "DialogueText": "Cóż, nie będę Ci już przeszkadzał...",
+          "AudioPath": "assets/pl/Gunther/7.ogg",
+          "TranslationKey": "Events/Farm:66:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, nie będę Ci już przeszkadzał..."
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s7",
+          "DialogueText": "Och! Prawie zapomniałem!",
+          "AudioPath": "assets/pl/Gunther/8.ogg",
+          "TranslationKey": "Events/Farm:66:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Och! Prawie zapomniałem!"
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s8",
+          "DialogueText": "Mam coś dla Ciebie... To stary klucz, był zamknięty w sejfie przez ponad 100 lat. Jest trochę zardzewiały, ale nadal piękny. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gunther/9.ogg",
+          "TranslationKey": "Events/Farm:66:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam coś dla Ciebie... To stary klucz, był zamknięty w sejfie przez ponad 100 lat. Jest trochę zardzewiały, ale nadal piękny."
+        },
+        {
+          "DialogueFrom": "Event/Farm/66:s9",
+          "DialogueText": "Otrzymujesz 'Zardzewiały Klucz'! Został dodany do Twojego portfela.",
+          "AudioPath": "assets/pl/Gunther/10.ogg",
+          "TranslationKey": "Events/Farm:66:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Otrzymujesz 'Zardzewiały Klucz'! Został dodany do Twojego portfela."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s0",
+          "DialogueText": "Nareszcie!",
+          "AudioPath": "assets/pl/Gunther/11.ogg",
+          "TranslationKey": "Events/Town:191393:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Nareszcie!"
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s0",
+          "DialogueText": "Okropne...",
+          "AudioPath": "assets/pl/Gunther/12.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Okropne..."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s1",
+          "DialogueText": "Ani jednego okazu w całej kolekcji.",
+          "AudioPath": "assets/pl/Gunther/13.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Ani jednego okazu w całej kolekcji."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s2",
+          "DialogueText": "Co to? Masz coś? Pokaż mi to!",
+          "AudioPath": "assets/pl/Gunther/14.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Co to? Masz coś? Pokaż mi to!"
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s3",
+          "DialogueText": "Niesamowite!",
+          "AudioPath": "assets/pl/Gunther/15.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Niesamowite!"
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s4",
+          "DialogueText": "To jest bardzo stare.",
+          "AudioPath": "assets/pl/Gunther/16.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest bardzo stare."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s5",
+          "DialogueText": "Chciałbym przebadać te niezwykłe detale... ale to nie należy do mnie.",
+          "AudioPath": "assets/pl/Gunther/17.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym przebadać te niezwykłe detale... ale to nie należy do mnie."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s6",
+          "DialogueText": "Hmmm...",
+          "AudioPath": "assets/pl/Gunther/18.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm..."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s7",
+          "DialogueText": "Mam do Ciebie prośbę.",
+          "AudioPath": "assets/pl/Gunther/19.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam do Ciebie prośbę."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s8",
+          "DialogueText": "Może jak znajdziesz jakieś artefakty i minerały, to oddasz je dla muzeum?",
+          "AudioPath": "assets/pl/Gunther/20.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Może jak znajdziesz jakieś artefakty i minerały, to oddasz je dla muzeum?"
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s9",
+          "DialogueText": "Możemy razem odkryć coś niesamowitego!",
+          "AudioPath": "assets/pl/Gunther/21.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Możemy razem odkryć coś niesamowitego!"
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s10",
+          "DialogueText": "I kto wie... może za te wszystkie artefakty dam ci jakąś nagrodę.",
+          "AudioPath": "assets/pl/Gunther/22.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "I kto wie... może za te wszystkie artefakty dam ci jakąś nagrodę."
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s11",
+          "DialogueText": "Przemyśl to, dobrze?",
+          "AudioPath": "assets/pl/Gunther/23.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Przemyśl to, dobrze?"
+        },
+        {
+          "DialogueFrom": "Event/ArchaeologyHouse/0:s12",
+          "DialogueText": "Jak się zdecydujesz, to możesz mi je przynosić do mojego biurka.",
+          "AudioPath": "assets/pl/Gunther/24.ogg",
+          "TranslationKey": "Events/ArchaeologyHouse:0:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak się zdecydujesz, to możesz mi je przynosić do mojego biurka."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Gunther_MuseumComplete",
+          "DialogueText": "Muzeum wygląda wspaniale! Jeszcze raz dziękuję za pomoc.",
+          "AudioPath": "assets/pl/Gunther/25.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Gunther_MuseumComplete",
+          "PageIndex": 0,
+          "DisplayPattern": "Muzeum wygląda wspaniale! Jeszcze raz dziękuję za pomoc."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Gunther_NothingToDonate",
+          "DialogueText": "Nie masz żadnych artefaktów, które mógłbym wystawić w muzeum. Lepiej idź i może poszukaj jakichś skarbów, dobrze?",
+          "AudioPath": "assets/pl/Gunther/26.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Gunther_NothingToDonate",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie masz żadnych artefaktów, które mógłbym wystawić w muzeum. Lepiej idź i może poszukaj jakichś skarbów, dobrze?"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Gunther_NoArtifactsFound",
+          "DialogueText": "Dobry! Witam w Biurze Archeologicznym W Dolinie Stardew.",
+          "AudioPath": "assets/pl/Gunther/27.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Gunther_NoArtifactsFound",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobry! Witam w Biurze Archeologicznym W Dolinie Stardew."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Gunther_NoArtifactsFound",
+          "DialogueText": "Ech... To trochę żenujące, ale poprzedni kurator uciekł z całą kolekcją. Nie mamy żadnych artefaktów do pokazania.",
+          "AudioPath": "assets/pl/Gunther/28.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Gunther_NoArtifactsFound",
+          "PageIndex": 1,
+          "DisplayPattern": "Ech... To trochę żenujące, ale poprzedni kurator uciekł z całą kolekcją. Nie mamy żadnych artefaktów do pokazania."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Gunther_NoArtifactsFound",
+          "DialogueText": "Ale mam nadzieję, że niedługo to się zmieni! Jeśli znajdziesz jakieś artefakty lub minerały... Możesz mi je przynieść?",
+          "AudioPath": "assets/pl/Gunther/29.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Gunther_NoArtifactsFound",
+          "PageIndex": 2,
+          "DisplayPattern": "Ale mam nadzieję, że niedługo to się zmieni! Jeśli znajdziesz jakieś artefakty lub minerały... Możesz mi je przynieść?"
+        },
+        {
+          "DialogueFrom": "ArchaeologyHouse_Gunther_Greeting1",
+          "DialogueText": "Masz coś nowego?",
+          "AudioPath": "assets/pl/Gunther/30.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_Greeting1",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz coś nowego?"
+        },
+        {
+          "DialogueFrom": "ArchaeologyHouse_Gunther_Greeting2",
+          "DialogueText": "Masz może coś nowego?",
+          "AudioPath": "assets/pl/Gunther/31.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_Greeting2",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz może coś nowego?"
+        },
+        {
+          "DialogueFrom": "ArchaeologyHouse_Gunther_Greeting3",
+          "DialogueText": "Potrzebujesz mojej analizy?",
+          "AudioPath": "assets/pl/Gunther/32.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_Greeting3",
+          "PageIndex": 0,
+          "DisplayPattern": "Potrzebujesz mojej analizy?"
+        },
+        {
+          "DialogueFrom": "ArchaeologyHouse_Gunther_Greeting4",
+          "DialogueText": "Witaj.",
+          "AudioPath": "assets/pl/Gunther/33.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_Greeting4",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj."
+        },
+        {
+          "DialogueFrom": "ArchaeologyHouse_Gunther_Greeting5",
+          "DialogueText": "Masz coś dla mnie?",
+          "AudioPath": "assets/pl/Gunther/34.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_Greeting5",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz coś dla mnie?"
+        },
+        {
+          "DialogueFrom": "ArchaeologyHouse_Gunther_RareGreeting",
+          "DialogueText": "Pachniesz ziemią... dobrze!",
+          "AudioPath": "assets/pl/Gunther/35.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_RareGreeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Pachniesz ziemią... dobrze!"
+        }
+      ]
+    }
+  ]
+}

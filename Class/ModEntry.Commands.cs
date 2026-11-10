@@ -80,6 +80,11 @@ namespace VoiceOverFrameworkMod
 
             /*/
 
+            this.Helper.ConsoleCommands.Add(
+                "vof_audit_events",
+                "Compare the event slot numbering of the template generator, the runtime counter and the loaded packs.\nUsage: vof_audit_events [character]",
+                this.AuditEventIndexCommand);
+
             /*
             //used to fix current voice packs to add increments to duplicate Dialogue From
             this.Helper.ConsoleCommands.Add(

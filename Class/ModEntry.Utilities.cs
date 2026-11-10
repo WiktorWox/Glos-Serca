@@ -109,6 +109,80 @@ namespace VoiceOverFrameworkMod
         }
 
 
+        /// <summary>
+        /// The game's current language as a voice-pack style tag ("en", "pt-BR", "pl", ...), with
+        /// config LanguageAliases applied. Custom languages added by mods (LanguageCode.mod) report
+        /// their own code (e.g. "pl") instead of collapsing to English.
+        /// </summary>
+        /// <summary>True when <paramref name="languageCode"/> is a language added by a mod (e.g. "pl" from the DNKSH translation).</summary>
+        internal static bool IsModLanguage(string languageCode)
+        {
+            if (string.IsNullOrWhiteSpace(languageCode)) return false;
+            try
+            {
+                foreach (var ml in StardewValley.DataLoader.AdditionalLanguages(Game1.content))
+                    if (languageCode.Equals(ml.LanguageCode, StringComparison.OrdinalIgnoreCase)) return true;
+            }
+            catch { }
+            return false;
+        }
+
+        /// <summary>
+        /// Suffix used for language-specific game assets ("Data/Events/Town.pt-BR"). English and mod languages
+        /// have none: a mod language's text is served for the base asset name while that language is active.
+        /// </summary>
+        internal static string AssetLangSuffix(string languageCode)
+        {
+            if (string.IsNullOrWhiteSpace(languageCode) || languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) || IsModLanguage(languageCode))
+                return string.Empty;
+            return "." + languageCode;
+        }
+
+        /// <summary>Map an event actor name to the voiced character it stands for (see <see cref="ModConfig.ActorAliases"/>).</summary>
+        /// <summary>Aliases the mod knows about regardless of config.json, so an older config file
+        /// (which SMAPI loads as-is) never hides an alias added in a newer version. Config entries
+        /// win when they name the same actor.</summary>
+        private static readonly Dictionary<string, string> BuiltInActorAliases = new(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ParrotBoy"] = "Leo",    // Leo before he says his name (IslandHut 1039573)
+            ["Toddler"] = "Parrot",   // the parrot repeating the player's question in the same event
+        };
+
+        internal string ResolvePackCharacter(string actorName)
+        {
+            if (string.IsNullOrWhiteSpace(actorName))
+                return actorName;
+            var aliases = Config?.ActorAliases;
+            if (aliases != null && aliases.TryGetValue(actorName, out var character) && !string.IsNullOrWhiteSpace(character))
+                return character;
+            return BuiltInActorAliases.TryGetValue(actorName, out var builtIn) ? builtIn : actorName;
+        }
+
+        internal string GetGameLanguageTag(LocalizedContentManager.LanguageCode? code = null)
+        {
+            var lc = code ?? LocalizedContentManager.CurrentLanguageCode;
+            string tag = lc switch
+            {
+                LocalizedContentManager.LanguageCode.en => "en",
+                LocalizedContentManager.LanguageCode.es => "es-ES",
+                LocalizedContentManager.LanguageCode.zh => "zh-CN",
+                LocalizedContentManager.LanguageCode.ja => "ja-JP",
+                LocalizedContentManager.LanguageCode.pt => "pt-BR",
+                LocalizedContentManager.LanguageCode.fr => "fr-FR",
+                LocalizedContentManager.LanguageCode.ko => "ko-KR",
+                LocalizedContentManager.LanguageCode.it => "it-IT",
+                LocalizedContentManager.LanguageCode.de => "de-DE",
+                LocalizedContentManager.LanguageCode.hu => "hu-HU",
+                LocalizedContentManager.LanguageCode.ru => "ru-RU",
+                LocalizedContentManager.LanguageCode.tr => "tr-TR",
+                LocalizedContentManager.LanguageCode.mod => LocalizedContentManager.CurrentModLanguage?.LanguageCode ?? "en",
+                _ => "en"
+            };
+            if (Config?.LanguageAliases != null && Config.LanguageAliases.TryGetValue(tag, out var aliased) && !string.IsNullOrWhiteSpace(aliased))
+                tag = aliased;
+            return tag;
+        }
+
         // List of known language codes used by Stardew Valley
         private readonly List<string> KnownStardewLanguages = new List<string> {
             "en", "es-ES", "zh-CN", "ja-JP", "pt-BR", "fr-FR", "ko-KR", "it-IT", "de-DE", "hu-HU", "ru-RU", "tr-TR"
@@ -151,7 +225,7 @@ namespace VoiceOverFrameworkMod
             var keyTextPairs = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
             bool isEnglish = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase);
             // Construct asset key based on language
-            string assetKey = isEnglish ? "Strings/Characters" : $"Strings/Characters.{languageCode}";
+            string assetKey = "Strings/Characters" + AssetLangSuffix(languageCode);
 
             try
             {
@@ -297,6 +371,10 @@ namespace VoiceOverFrameworkMod
                 
                 return stardewCode;
             }
+
+            // Languages added by mods (DNKSH "pl" etc.) are valid targets as well.
+            if (IsModLanguage(requestedLang.Trim()))
+                return requestedLang.Trim();
 
             // If not found in map, maybe it's already a valid (but less common) Stardew code?
             // Check against our known list.

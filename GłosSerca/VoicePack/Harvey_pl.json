@@ -1,0 +1,3870 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Harvey.pl",
+      "VoicePackName": "Głos Serca (Harvey)",
+      "Character": "Harvey",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Miło Cię poznać. Jestem Doktor Harvey.",
+          "AudioPath": "assets/pl/Harvey/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Introduction",
+          "PageIndex": 0,
+          "DisplayPattern": "Miło Cię poznać. Jestem Doktor Harvey."
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Zajmuję się regularnymi badaniami i opieką medyczną nad mieszkańcami naszej wioski. To bardzo satysfakcjonująca praca.",
+          "AudioPath": "assets/pl/Harvey/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Introduction",
+          "PageIndex": 1,
+          "DisplayPattern": "Zajmuję się regularnymi badaniami i opieką medyczną nad mieszkańcami naszej wioski. To bardzo satysfakcjonująca praca."
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Mam nadzieję, że Twoja również stanie się z czasem źródłem spełnienia. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Introduction",
+          "PageIndex": 2,
+          "DisplayPattern": "Mam nadzieję, że Twoja również stanie się z czasem źródłem spełnienia."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "Och! Bardzo dziękuję! Nie spodziewałem się, że ktoś będzie pamiętał o moich urodzinach. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptBirthdayGift_Positive",
+          "PageIndex": 0,
+          "DisplayPattern": "Och! Bardzo dziękuję! Nie spodziewałem się, że ktoś będzie pamiętał o moich urodzinach."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Och... To... no cóż, to coś. Nie spodziewałem się, że ktoś będzie pamiętał o moich urodzinach.",
+          "AudioPath": "assets/pl/Harvey/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptBirthdayGift_Negative",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... To... no cóż, to coś. Nie spodziewałem się, że ktoś będzie pamiętał o moich urodzinach."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Dla mnie? To zaszczyt, dziękuję!",
+          "AudioPath": "assets/pl/Harvey/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Dla mnie? To zaszczyt, dziękuję!"
+        },
+        {
+          "DialogueFrom": "FlowerDance_Accept",
+          "DialogueText": "Och! Ty... chcesz ze mną zatańczyć? {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:FlowerDance_Accept",
+          "PageIndex": 0,
+          "DisplayPattern": "Och! Ty... chcesz ze mną zatańczyć?"
+        },
+        {
+          "DialogueFrom": "FlowerDance_Accept",
+          "DialogueText": "... Tak. Z przyjemnością! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:FlowerDance_Accept",
+          "PageIndex": 1,
+          "DisplayPattern": "... Tak. Z przyjemnością!"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Na wszelki wypadek przyniosłem trochę sprzętu medycznego. Uważaj na siebie!",
+          "AudioPath": "assets/pl/Harvey/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Na wszelki wypadek przyniosłem trochę sprzętu medycznego. Uważaj na siebie!"
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Na początku martwiliśmy się, że ten deszcz może być groźny.",
+          "AudioPath": "assets/pl/Harvey/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:GreenRain_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Na początku martwiliśmy się, że ten deszcz może być groźny."
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Ale co, jeśli jest wręcz zdrowy? Kto wie... Przynajmniej roślinom służy.",
+          "AudioPath": "assets/pl/Harvey/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:GreenRain_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale co, jeśli jest wręcz zdrowy? Kto wie... Przynajmniej roślinom służy."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)432",
+          "DialogueText": "Dla mnie? Dziękuję! Będzie idealny do makaronu. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptGift_(O)432",
+          "PageIndex": 0,
+          "DisplayPattern": "Dla mnie? Dziękuję! Będzie idealny do makaronu."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)348",
+          "DialogueText": "Dla mnie? Co za prezent! Wygląda wyśmienicie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptGift_(O)348",
+          "PageIndex": 0,
+          "DisplayPattern": "Dla mnie? Co za prezent! Wygląda wyśmienicie!"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)348",
+          "DialogueText": "Z punktu widzenia psychologii, nie polecałbym alkoholu...",
+          "AudioPath": "assets/pl/Harvey/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptGift_(O)348",
+          "PageIndex": 1,
+          "DisplayPattern": "Z punktu widzenia psychologii, nie polecałbym alkoholu..."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)348",
+          "DialogueText": "Ale trzeba przyznać, że relaks przy lampce dobrego wina z Doliny Stardew potrafi zdziałać cuda. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:AcceptGift_(O)348",
+          "PageIndex": 2,
+          "DisplayPattern": "Ale trzeba przyznać, że relaks przy lampce dobrego wina z Doliny Stardew potrafi zdziałać cuda."
+        },
+        {
+          "DialogueFrom": "eventSeen_56_memory_fourweeks",
+          "DialogueText": "Od lat tworzę listę zwierząt. Chciałbym zobaczyć każdy gatunek żyjący w dolinie!",
+          "AudioPath": "assets/pl/Harvey/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_56_memory_fourweeks",
+          "PageIndex": 0,
+          "DisplayPattern": "Od lat tworzę listę zwierząt. Chciałbym zobaczyć każdy gatunek żyjący w dolinie!"
+        },
+        {
+          "DialogueFrom": "eventSeen_56_memory_twoweeks",
+          "DialogueText": "Kiedyś próbowałem kisić ogórki... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_56_memory_twoweeks",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedyś próbowałem kisić ogórki..."
+        },
+        {
+          "DialogueFrom": "eventSeen_56_memory_twoweeks",
+          "DialogueText": "Em... Powiem tylko, że w porównaniu z tym, żaby na biologii pachniały jak róże...",
+          "AudioPath": "assets/pl/Harvey/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_56_memory_twoweeks",
+          "PageIndex": 1,
+          "DisplayPattern": "Em... Powiem tylko, że w porównaniu z tym, żaby na biologii pachniały jak róże..."
+        },
+        {
+          "DialogueFrom": "eventSeen_56",
+          "DialogueText": "Będąc lekarzem w małej miejscowości, trudno nie nawiązywać bliższych relacji z pacjentami. Ma to swoje plusy i minusy...",
+          "AudioPath": "assets/pl/Harvey/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_56",
+          "PageIndex": 0,
+          "DisplayPattern": "Będąc lekarzem w małej miejscowości, trudno nie nawiązywać bliższych relacji z pacjentami. Ma to swoje plusy i minusy..."
+        },
+        {
+          "DialogueFrom": "eventSeen_58_memory_oneweek",
+          "DialogueText": "Skoro znasz już mój sekret, mogę zdradzić coś więcej... Ostatnio po aerobiku czuję się znacznie mniej zmęczony!",
+          "AudioPath": "assets/pl/Harvey/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_58_memory_oneweek",
+          "PageIndex": 0,
+          "DisplayPattern": "Skoro znasz już mój sekret, mogę zdradzić coś więcej... Ostatnio po aerobiku czuję się znacznie mniej zmęczony!"
+        },
+        {
+          "DialogueFrom": "eventSeen_58_memory_twoweeks",
+          "DialogueText": "Miałem tak intensywny trening aerobiku, że zasłużyłem na makaron primavera! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_58_memory_twoweeks",
+          "PageIndex": 0,
+          "DisplayPattern": "Miałem tak intensywny trening aerobiku, że zasłużyłem na makaron primavera!"
+        },
+        {
+          "DialogueFrom": "eventSeen_58_memory_fourweeks",
+          "DialogueText": "Nie wiem, czemu kiedyś wstydziłem się chodzić na zajęcia tanecznego aerobiku. Mam silne nogi. Powinienem być z tego dumny!",
+          "AudioPath": "assets/pl/Harvey/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_58_memory_fourweeks",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wiem, czemu kiedyś wstydziłem się chodzić na zajęcia tanecznego aerobiku. Mam silne nogi. Powinienem być z tego dumny!"
+        },
+        {
+          "DialogueFrom": "eventSeen_571102_memory",
+          "DialogueText": "Nigdy wcześniej nikomu nie mówiłem o moim hobby związanym z samolotami... Chyba dobrze mi się z Tobą rozmawia.",
+          "AudioPath": "assets/pl/Harvey/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_571102_memory",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy wcześniej nikomu nie mówiłem o moim hobby związanym z samolotami... Chyba dobrze mi się z Tobą rozmawia."
+        },
+        {
+          "DialogueFrom": "eventSeen_571102_memory_oneweek",
+          "DialogueText": "Jako lekarz nie zawsze możesz pomóc...",
+          "AudioPath": "assets/pl/Harvey/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_571102_memory_oneweek",
+          "PageIndex": 0,
+          "DisplayPattern": "Jako lekarz nie zawsze możesz pomóc..."
+        },
+        {
+          "DialogueFrom": "eventSeen_571102_memory_oneweek",
+          "DialogueText": "Kiedyś za bardzo się zaangażowałem emocjonalnie i popełniłem błąd... Nie chcę tego powtórzyć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:eventSeen_571102_memory_oneweek",
+          "PageIndex": 1,
+          "DisplayPattern": "Kiedyś za bardzo się zaangażowałem emocjonalnie i popełniłem błąd... Nie chcę tego powtórzyć."
+        },
+        {
+          "DialogueFrom": "dating_Harvey",
+          "DialogueText": "Nigdy wcześniej tak się nie czułem... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:dating_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy wcześniej tak się nie czułem..."
+        },
+        {
+          "DialogueFrom": "dating_Harvey_memory_oneday",
+          "DialogueText": "Tak często o Tobie myślę, że trudno mi się skupić na pracy. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:dating_Harvey_memory_oneday",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak często o Tobie myślę, że trudno mi się skupić na pracy."
+        },
+        {
+          "DialogueFrom": "dating_Maru_memory_oneday",
+          "DialogueText": "Maru była ostatnio wyjątkowo radosna... Słyszałem, że to może być Twoja zasługa.",
+          "AudioPath": "assets/pl/Harvey/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:dating_Maru_memory_oneday",
+          "PageIndex": 0,
+          "DisplayPattern": "Maru była ostatnio wyjątkowo radosna... Słyszałem, że to może być Twoja zasługa."
+        },
+        {
+          "DialogueFrom": "married_Maru",
+          "DialogueText": "Gratuluję ślubu, {Farmer_Name}. Maru mówiła, że nadal będzie pracować w klinice — to dla mnie duża ulga!",
+          "AudioPath": "assets/pl/Harvey/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:married_Maru",
+          "PageIndex": 0,
+          "DisplayPattern": "Gratuluję ślubu, . Maru mówiła, że nadal będzie pracować w klinice — to dla mnie duża ulga!"
+        },
+        {
+          "DialogueFrom": "married_Harvey",
+          "DialogueText": "To najpiękniejszy moment w moim życiu... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:married_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "To najpiękniejszy moment w moim życiu..."
+        },
+        {
+          "DialogueFrom": "Resort_Entering",
+          "DialogueText": "Krem do opalania? Jest...",
+          "AudioPath": "assets/pl/Harvey/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Entering",
+          "PageIndex": 0,
+          "DisplayPattern": "Krem do opalania? Jest..."
+        },
+        {
+          "DialogueFrom": "Resort_Entering",
+          "DialogueText": "Kapelusz? Jest...",
+          "AudioPath": "assets/pl/Harvey/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Entering",
+          "PageIndex": 1,
+          "DisplayPattern": "Kapelusz? Jest..."
+        },
+        {
+          "DialogueFrom": "Resort_Leaving",
+          "DialogueText": "Jeśli zbyt mocno się opalisz, posmaruj się kremem z aloesem.",
+          "AudioPath": "assets/pl/Harvey/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Leaving",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli zbyt mocno się opalisz, posmaruj się kremem z aloesem."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Przeszukałem plażę, czy nie ma szkła. Nie chcemy, żeby ktoś się skaleczył!",
+          "AudioPath": "assets/pl/Harvey/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Shore",
+          "PageIndex": 0,
+          "DisplayPattern": "Przeszukałem plażę, czy nie ma szkła. Nie chcemy, żeby ktoś się skaleczył!"
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "Miło czasem odetchnąć.",
+          "AudioPath": "assets/pl/Harvey/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Chair",
+          "PageIndex": 0,
+          "DisplayPattern": "Miło czasem odetchnąć."
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "Najtrudniej zapomnieć o wszystkich obowiązkach... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Chair",
+          "PageIndex": 1,
+          "DisplayPattern": "Najtrudniej zapomnieć o wszystkich obowiązkach..."
+        },
+        {
+          "DialogueFrom": "Resort_Bar",
+          "DialogueText": "W takim upale nawodnienie to podstawa. Pójdę zapytać Gusa, czy ma wodę kokosową! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort_Bar",
+          "PageIndex": 0,
+          "DisplayPattern": "W takim upale nawodnienie to podstawa. Pójdę zapytać Gusa, czy ma wodę kokosową!"
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "Zdradzę Ci sekret... Pływam z rękawkami. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Resort",
+          "PageIndex": 0,
+          "DisplayPattern": "Zdradzę Ci sekret... Pływam z rękawkami."
+        },
+        {
+          "DialogueFrom": "FlowerDance_Accept_Spouse",
+          "DialogueText": "Nie mogłem się doczekać tej chwili! Promieniejesz w tym świeżym, wiosennym powietrzu. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:FlowerDance_Accept_Spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogłem się doczekać tej chwili! Promieniejesz w tym świeżym, wiosennym powietrzu."
+        },
+        {
+          "DialogueFrom": "FlowerDance_Decline",
+          "DialogueText": "Och... Przepraszam... Ja, hm... chciałem zaprosić kogoś innego. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:FlowerDance_Decline",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Przepraszam... Ja, hm... chciałem zaprosić kogoś innego."
+        },
+        {
+          "DialogueFrom": "divorced",
+          "DialogueText": "... Nie mogę na Ciebie patrzeć. Proszę, oszczędź mi cierpienia. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:divorced",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie mogę na Ciebie patrzeć. Proszę, oszczędź mi cierpienia."
+        },
+        {
+          "DialogueFrom": "breakUp",
+          "DialogueText": "... T... Ty...? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:breakUp",
+          "PageIndex": 0,
+          "DisplayPattern": "... T... Ty...?"
+        },
+        {
+          "DialogueFrom": "breakUp",
+          "DialogueText": "*Przełknięcie*... S... Słabo mi... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:breakUp",
+          "PageIndex": 1,
+          "DisplayPattern": "*Przełknięcie*... S... Słabo mi..."
+        },
+        {
+          "DialogueFrom": "dumped_Guys",
+          "DialogueText": "Jestem zajęty. Nie mam czasu na rozmowę. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:dumped_Guys",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem zajęty. Nie mam czasu na rozmowę."
+        },
+        {
+          "DialogueFrom": "secondChance_Guys",
+          "DialogueText": "Chcę Cię z powrotem w moim życiu, {Farmer_Name}. Wybaczam Ci. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:secondChance_Guys",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcę Cię z powrotem w moim życiu, . Wybaczam Ci."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Sprzedajemy kilka leków bez recepty... Wpadnij, jeśli czegoś potrzebujesz.",
+          "AudioPath": "assets/pl/Harvey/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Sprzedajemy kilka leków bez recepty... Wpadnij, jeśli czegoś potrzebujesz."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Wiem, że praca na farmie jest bardzo wyczerpująca... Nie przeciążaj się!",
+          "AudioPath": "assets/pl/Harvey/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Wiem, że praca na ie jest bardzo wyczerpująca... Nie przeciążaj się!"
+        },
+        {
+          "DialogueFrom": "Mon2",
+          "DialogueText": "Jestem odpowiedzialny za zdrowie całej społeczności... To spora odpowiedzialność.",
+          "AudioPath": "assets/pl/Harvey/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem odpowiedzialny za zdrowie całej społeczności... To spora odpowiedzialność."
+        },
+        {
+          "DialogueFrom": "Mon2",
+          "DialogueText": "Ale dzięki temu dobrze znam wszystkich pacjentów.",
+          "AudioPath": "assets/pl/Harvey/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon2",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale dzięki temu dobrze znam wszystkich pacjentów."
+        },
+        {
+          "DialogueFrom": "Mon6",
+          "DialogueText": "Chciałbym zostać tu na dłużej. Nareszcie czuję się jak w domu.",
+          "AudioPath": "assets/pl/Harvey/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon6",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym zostać tu na dłużej. Nareszcie czuję się jak w domu."
+        },
+        {
+          "DialogueFrom": "Mon6",
+          "DialogueText": "Dobrze być potrzebnym.",
+          "AudioPath": "assets/pl/Harvey/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon6",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobrze być potrzebnym."
+        },
+        {
+          "DialogueFrom": "Mon10",
+          "DialogueText": "O! Hej, {Farmer_Name}. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon10",
+          "PageIndex": 0,
+          "DisplayPattern": "O! Hej, ."
+        },
+        {
+          "DialogueFrom": "Mon10",
+          "DialogueText": "Czy... Masz jakieś pytania o swoje zdrowie? {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Mon10",
+          "PageIndex": 1,
+          "DisplayPattern": "Czy... Masz jakieś pytania o swoje zdrowie?"
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Wpadnij, jeśli poczujesz się gorzej.",
+          "AudioPath": "assets/pl/Harvey/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Wpadnij, jeśli poczujesz się gorzej."
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jesteś młody, zdrowia Ci nie zabraknie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/55_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Jesteś młody, zdrowia Ci nie zabraknie!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jesteś młoda, zdrowia Ci nie zabraknie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/56_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "Jesteś młoda, zdrowia Ci nie zabraknie!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Tue8",
+          "DialogueText": "Nie przepracowuj się, {Farmer_Name}. To zalecenie lekarskie!",
+          "AudioPath": "assets/pl/Harvey/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie przepracowuj się, . To zalecenie lekarskie!"
+        },
+        {
+          "DialogueFrom": "Tue8",
+          "DialogueText": "Jeśli nasz farmer zachoruje, skąd weźmiemy jedzenie? Potrzebujemy Cię! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue8",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli nasz er zachoruje, skąd weźmiemy jedzenie? Potrzebujemy Cię!"
+        },
+        {
+          "DialogueFrom": "Tue8",
+          "DialogueText": "Nie przepracowuj się, {Farmer_Name}. To zalecenie lekarskie!",
+          "AudioPath": "assets/pl/Harvey/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue8",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie przepracowuj się, . To zalecenie lekarskie!"
+        },
+        {
+          "DialogueFrom": "Tue8",
+          "DialogueText": "Twoje zdrowie jest dla mnie ważne. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Tue8",
+          "PageIndex": 3,
+          "DisplayPattern": "Twoje zdrowie jest dla mnie ważne."
+        },
+        {
+          "DialogueFrom": "Wed4",
+          "DialogueText": "Chciałbym Cię lepiej poznać, {Farmer_Name}. Odłóżmy na bok relację lekarz-pacjent.",
+          "AudioPath": "assets/pl/Harvey/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Wed4",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym Cię lepiej poznać, . Odłóżmy na bok relację lekarz-pacjent."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Miło mieć w mieście przyjaciela. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Wed6",
+          "PageIndex": 0,
+          "DisplayPattern": "Miło mieć w mieście przyjaciela."
+        },
+        {
+          "DialogueFrom": "Wed8",
+          "DialogueText": "Wyglądasz zdrowo. To dobry znak. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Wed8",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyglądasz zdrowo. To dobry znak."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Pamiętaj, o zakrywaniu nosa przy kichaniu.",
+          "AudioPath": "assets/pl/Harvey/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętaj, o zakrywaniu nosa przy kichaniu."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "I później o umyciu rąk.",
+          "AudioPath": "assets/pl/Harvey/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "I później o umyciu rąk."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Jako lekarz znam wartość domowego jedzenia, ale jestem zbyt zapracowany, żeby samemu gotować. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Thu8",
+          "PageIndex": 0,
+          "DisplayPattern": "Jako lekarz znam wartość domowego jedzenia, ale jestem zbyt zapracowany, żeby samemu gotować."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Bycie lekarzem to dużo pracy. Nie jem tak zdrowo, jak powinienem. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Thu8",
+          "PageIndex": 1,
+          "DisplayPattern": "Bycie lekarzem to dużo pracy. Nie jem tak zdrowo, jak powinienem."
+        },
+        {
+          "DialogueFrom": "Thu8",
+          "DialogueText": "Gdybym nie mieszkał sam, może byłoby łatwiej. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Thu8",
+          "PageIndex": 2,
+          "DisplayPattern": "Gdybym nie mieszkał sam, może byłoby łatwiej."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Zdrowe odżywianie to podstawa. Jedz więcej warzyw!",
+          "AudioPath": "assets/pl/Harvey/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Zdrowe odżywianie to podstawa. Jedz więcej warzyw!"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Gotujesz? Domowe jedzenie jest znacznie zdrowsze.",
+          "AudioPath": "assets/pl/Harvey/70.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Gotujesz? Domowe jedzenie jest znacznie zdrowsze."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Przepiękny mamy dziś dzień, prawda?",
+          "AudioPath": "assets/pl/Harvey/71.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Przepiękny mamy dziś dzień, prawda?"
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Szkoda, że mam tak mało czasu na odpoczynek. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Szkoda, że mam tak mało czasu na odpoczynek."
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Jeśli chcesz odwiedzić mój apartament, śmiało. Mieszkam nad kliniką.",
+          "AudioPath": "assets/pl/Harvey/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Fri4",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli chcesz odwiedzić mój apartament, śmiało. Mieszkam nad kliniką."
+        },
+        {
+          "DialogueFrom": "Fri10",
+          "DialogueText": "Wpadnij, jeśli potrzebujesz poufnego badania. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Fri10",
+          "PageIndex": 0,
+          "DisplayPattern": "Wpadnij, jeśli potrzebujesz poufnego badania."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Mogę coś dla Ciebie zrobić?",
+          "AudioPath": "assets/pl/Harvey/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Mogę coś dla Ciebie zrobić?"
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Uważaj na siebie.",
+          "AudioPath": "assets/pl/Harvey/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Uważaj na siebie."
+        },
+        {
+          "DialogueFrom": "Sat4",
+          "DialogueText": "Przyjechałem tu, bo uwielbiam atmosferę małych miasteczek i możliwość holistycznej opieki nad pacjentem.",
+          "AudioPath": "assets/pl/Harvey/77.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat4",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyjechałem tu, bo uwielbiam atmosferę małych miasteczek i możliwość holistycznej opieki nad pacjentem."
+        },
+        {
+          "DialogueFrom": "Sat4",
+          "DialogueText": "To dla mnie naprawdę ważne. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/78.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat4",
+          "PageIndex": 1,
+          "DisplayPattern": "To dla mnie naprawdę ważne."
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "*Ech*... Zaczynam się czuć staro...",
+          "AudioPath": "assets/pl/Harvey/79.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat8",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*... Zaczynam się czuć staro..."
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Z wiekiem gromadzimy wspomnienia, które czasem przytłaczają. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/80.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat8",
+          "PageIndex": 1,
+          "DisplayPattern": "Z wiekiem gromadzimy wspomnienia, które czasem przytłaczają."
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Ale przy Tobie czuję się młodszy. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/81.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sat8",
+          "PageIndex": 2,
+          "DisplayPattern": "Ale przy Tobie czuję się młodszy."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Hmm... Staram się wiązać koniec z końcem. Ludzie tutaj rzadko chorują.",
+          "AudioPath": "assets/pl/Harvey/82.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Staram się wiązać koniec z końcem. Ludzie tutaj rzadko chorują."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Może powinienem przyjmować pacjentów z sąsiednich miejscowości...",
+          "AudioPath": "assets/pl/Harvey/83.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Może powinienem przyjmować pacjentów z sąsiednich miejscowości..."
+        },
+        {
+          "DialogueFrom": "Sun6",
+          "DialogueText": "Wyobraź sobie, że życie pacjenta zależy od Ciebie, a Ty nie możesz pomóc... Ta myśl nigdy mnie nie opuszcza. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/84.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:Sun6",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyobraź sobie, że życie pacjenta zależy od Ciebie, a Ty nie możesz pomóc... Ta myśl nigdy mnie nie opuszcza."
+        },
+        {
+          "DialogueFrom": "event_george1",
+          "DialogueText": "Dzięki, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/85.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_george1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki, ."
+        },
+        {
+          "DialogueFrom": "event_george1",
+          "DialogueText": "Widzisz, George, próbuję Ci tylko pomóc.",
+          "AudioPath": "assets/pl/Harvey/86.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_george1",
+          "PageIndex": 1,
+          "DisplayPattern": "Widzisz, George, próbuję Ci tylko pomóc."
+        },
+        {
+          "DialogueFrom": "event_george2",
+          "DialogueText": "*Ech* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/87.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_george2",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*"
+        },
+        {
+          "DialogueFrom": "event_george2",
+          "DialogueText": "George, jeśli się nie uspokoisz, powiem o tym Twojej żonie. Wątpię, by była zadowolona.",
+          "AudioPath": "assets/pl/Harvey/88.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_george2",
+          "PageIndex": 1,
+          "DisplayPattern": "George, jeśli się nie uspokoisz, powiem o tym Twojej żonie. Wątpię, by była zadowolona."
+        },
+        {
+          "DialogueFrom": "event_aerobics1",
+          "DialogueText": "Dzięki, {Farmer_Name}. Naprawdę to doceniam. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/89.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_aerobics1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki, . Naprawdę to doceniam."
+        },
+        {
+          "DialogueFrom": "event_aerobics2",
+          "DialogueText": "*Ech*... To było nieprzyjemne. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/90.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_aerobics2",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*... To było nieprzyjemne."
+        },
+        {
+          "DialogueFrom": "event_heart1",
+          "DialogueText": "Och! Szpitale Cię stresują?",
+          "AudioPath": "assets/pl/Harvey/91.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_heart1",
+          "PageIndex": 0,
+          "DisplayPattern": "Och! Szpitale Cię stresują?"
+        },
+        {
+          "DialogueFrom": "event_heart1",
+          "DialogueText": "Postaraj się zrelaksować. Jestem tu, żeby Ci pomóc. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/92.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_heart1",
+          "PageIndex": 1,
+          "DisplayPattern": "Postaraj się zrelaksować. Jestem tu, żeby Ci pomóc."
+        },
+        {
+          "DialogueFrom": "event_heart2",
+          "DialogueText": "Rozumiem. To ma sens.",
+          "AudioPath": "assets/pl/Harvey/93.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_heart2",
+          "PageIndex": 0,
+          "DisplayPattern": "Rozumiem. To ma sens."
+        },
+        {
+          "DialogueFrom": "event_heart3",
+          "DialogueText": "Em. Dobrze... Skoro tak mówisz. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/94.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_heart3",
+          "PageIndex": 0,
+          "DisplayPattern": "Em. Dobrze... Skoro tak mówisz."
+        },
+        {
+          "DialogueFrom": "event_grave1",
+          "DialogueText": "... Masz rację.",
+          "AudioPath": "assets/pl/Harvey/95.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_grave1",
+          "PageIndex": 0,
+          "DisplayPattern": "... Masz rację."
+        },
+        {
+          "DialogueFrom": "event_grave1",
+          "DialogueText": "... Dziękuję.",
+          "AudioPath": "assets/pl/Harvey/96.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_grave1",
+          "PageIndex": 1,
+          "DisplayPattern": "... Dziękuję."
+        },
+        {
+          "DialogueFrom": "event_grave2",
+          "DialogueText": "*Ech* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/97.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:event_grave2",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*"
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Można trochę posiedzieć na słońcu, ale nie przesadzaj.",
+          "AudioPath": "assets/pl/Harvey/98.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:summer_Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Można trochę posiedzieć na słońcu, ale nie przesadzaj."
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Bądź ostrożny! Dbaj o siebie.",
+          "AudioPath": "assets/pl/Harvey/99.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:summer_Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Bądź ostrożny! Dbaj o siebie."
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Ruch to zdrowie, ale nie wolno się przeciążać możesz trafić do mojej kliniki!",
+          "AudioPath": "assets/pl/Harvey/100.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:summer_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Ruch to zdrowie, ale nie wolno się przeciążać możesz trafić do mojej kliniki!"
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Słuchaj swojego ciała.",
+          "AudioPath": "assets/pl/Harvey/101.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:summer_Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Słuchaj swojego ciała."
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Latem ludzie rzadko chorują. To dobrze, choć dla mnie oznacza to mniej zarobków.",
+          "AudioPath": "assets/pl/Harvey/102.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:summer_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Latem ludzie rzadko chorują. To dobrze, choć dla mnie oznacza to mniej zarobków."
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Bywasz w kopalni, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Harvey/103.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:fall_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Bywasz w kopalni, ?"
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "To niebezpieczne miejsce. Lepiej uważaj.",
+          "AudioPath": "assets/pl/Harvey/104.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:fall_Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "To niebezpieczne miejsce. Lepiej uważaj."
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Niektóre potrawy dostarczają więcej witamin.",
+          "AudioPath": "assets/pl/Harvey/105.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:fall_Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Niektóre potrawy dostarczają więcej witamin."
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Na przykład 'Przekąska farmera' da Ci energię do wydajniejszej pracy!",
+          "AudioPath": "assets/pl/Harvey/106.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:fall_Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Na przykład 'Przekąska era' da Ci energię do wydajniejszej pracy!"
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Zima to sezon grypowy, lepiej uważać.",
+          "AudioPath": "assets/pl/Harvey/107.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:winter_Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Zima to sezon grypowy, lepiej uważać."
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Myj ręce częściej.",
+          "AudioPath": "assets/pl/Harvey/108.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:winter_Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Myj ręce częściej."
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Nie lubię tego mówić, ale zarabiam więcej w sezonie grypowym.",
+          "AudioPath": "assets/pl/Harvey/109.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:winter_Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie lubię tego mówić, ale zarabiam więcej w sezonie grypowym."
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Czasem myślę, że gdyby ludzie przestali chorować, straciłbym pracę.",
+          "AudioPath": "assets/pl/Harvey/110.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:winter_Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Czasem myślę, że gdyby ludzie przestali chorować, straciłbym pracę."
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Nie zrozum mnie źle! Chcę, żeby wszyscy byli zdrowi!",
+          "AudioPath": "assets/pl/Harvey/111.ogg",
+          "TranslationKey": "Characters/Dialogue/Harvey:winter_Sun",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie zrozum mnie źle! Chcę, żeby wszyscy byli zdrowi!"
+        },
+        {
+          "DialogueFrom": "EngagementDialogue/Harvey0",
+          "DialogueText": "O mój Boże! Mam tyle do przygotowania przed ślubem! Jestem zdenerwowany. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/112.ogg",
+          "TranslationKey": "Data/EngagementDialogue:Harvey0",
+          "PageIndex": 0,
+          "DisplayPattern": "O mój Boże! Mam tyle do przygotowania przed ślubem! Jestem zdenerwowany."
+        },
+        {
+          "DialogueFrom": "EngagementDialogue/Harvey0",
+          "DialogueText": "Poczuję ulgę po przeprowadzce na Twoją farmę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/113.ogg",
+          "TranslationKey": "Data/EngagementDialogue:Harvey0",
+          "PageIndex": 1,
+          "DisplayPattern": "Poczuję ulgę po przeprowadzce na Twoją ę."
+        },
+        {
+          "DialogueFrom": "EngagementDialogue/Harvey1",
+          "DialogueText": "Jestem taki szczęśliwy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/114.ogg",
+          "TranslationKey": "Data/EngagementDialogue:Harvey1",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem taki szczęśliwy."
+        },
+        {
+          "DialogueFrom": "EngagementDialogue/Harvey1",
+          "DialogueText": "Zawsze o tym marzyłem. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/115.ogg",
+          "TranslationKey": "Data/EngagementDialogue:Harvey1",
+          "PageIndex": 1,
+          "DisplayPattern": "Zawsze o tym marzyłem."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_0",
+          "DialogueText": "... Nadal mnie kochasz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/116.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_0",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nadal mnie kochasz?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_1",
+          "DialogueText": "*ech*... Może wzięliśmy ślub za szybko. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/117.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_1",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*... Może wzięliśmy ślub za szybko."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_2",
+          "DialogueText": "Nadal Ci ze mną dobrze?s",
+          "AudioPath": "assets/pl/Harvey/118.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nadal Ci ze mną dobrze?s"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_3",
+          "DialogueText": "Robię coś źle? Inaczej się ostatnio zachowujesz. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/119.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Robię coś źle? Inaczej się ostatnio zachowujesz."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_4",
+          "DialogueText": "Zastanawiasz się, co nam jeszcze pozostało? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/120.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiasz się, co nam jeszcze pozostało?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_5",
+          "DialogueText": "Kiedyś się kochaliśmy... Co się stało? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/121.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedyś się kochaliśmy... Co się stało?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_5",
+          "DialogueText": "Wiem, że trochę się postarzeliśmy... Po co był ten ślub? {Portrait:Angry}",
+          "AudioPath": "assets/pl/Harvey/122.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_5",
+          "PageIndex": 1,
+          "DisplayPattern": "Wiem, że trochę się postarzeliśmy... Po co był ten ślub?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_6",
+          "DialogueText": "Nasze życie jest zbyt krótkie... Czy to dobry sposób, na wykorzystanie tego czasu? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/123.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Nasze życie jest zbyt krótkie... Czy to dobry sposób, na wykorzystanie tego czasu?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_7",
+          "DialogueText": "Kiedyś było skarbie... A teraz tylko jak zrobię obiad. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/124.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_7",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedyś było skarbie... A teraz tylko jak zrobię obiad."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_8",
+          "DialogueText": "Dziwnie się ostatnio zachowujesz... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/125.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziwnie się ostatnio zachowujesz..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Bad_9",
+          "DialogueText": "Zastanawiam się, czy to mogłoby się potoczyć lepiej. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/126.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Bad_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się, czy to mogłoby się potoczyć lepiej."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_1",
+          "DialogueText": "Pamiętaj, żeby zasadzić różne jesienne uprawy, Kochanie.",
+          "AudioPath": "assets/pl/Harvey/127.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:fall_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętaj, żeby zasadzić różne jesienne uprawy, Kochanie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_1",
+          "DialogueText": "Albo po prostu postaw na żurawinę... W sumie to Ty tu jesteś ekspertem!",
+          "AudioPath": "assets/pl/Harvey/128.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:fall_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Albo po prostu postaw na żurawinę... W sumie to Ty tu jesteś ekspertem!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_15",
+          "DialogueText": "Jutro są targi. Jedzenie tam jest tłuste i słone, ale raz na jakiś czas można sobie pozwolić. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/129.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:fall_15",
+          "PageIndex": 0,
+          "DisplayPattern": "Jutro są targi. Jedzenie tam jest tłuste i słone, ale raz na jakiś czas można sobie pozwolić."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_26",
+          "DialogueText": "Przyznaję, że Wigilia Duchów zwykle przyprawia mnie o ból brzucha... ale postaram się być dzielny.",
+          "AudioPath": "assets/pl/Harvey/130.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:fall_26",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyznaję, że Wigilia Duchów zwykle przyprawia mnie o ból brzucha... ale postaram się być dzielny."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_8",
+          "DialogueText": "Zima jest tuż tuż. Musimy sprawdzić dwa razy nasz system ogrzewania, zakręcić zawory i sprawdzić całą izolację domu.",
+          "AudioPath": "assets/pl/Harvey/131.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:fall_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Zima jest tuż tuż. Musimy sprawdzić dwa razy nasz system ogrzewania, zakręcić zawory i sprawdzić całą izolację domu."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_8",
+          "DialogueText": "Spokojnie, zajmę się tym.",
+          "AudioPath": "assets/pl/Harvey/132.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:fall_8",
+          "PageIndex": 1,
+          "DisplayPattern": "Spokojnie, zajmę się tym."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/fall_Harvey",
+          "DialogueText": "Napiłbym się wina.",
+          "AudioPath": "assets/pl/Harvey/133.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:fall_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Napiłbym się wina."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/funLeave_Harvey",
+          "DialogueText": "Wybieram się na spacer. Muszę się przewietrzyć.",
+          "AudioPath": "assets/pl/Harvey/134.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:funLeave_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybieram się na spacer. Muszę się przewietrzyć."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/funReturn_Harvey",
+          "DialogueText": "Miałem dziś udany dzień. Czasem dobrze jest pobyć samemu. A jak minął Twój dzień, Kochanie?",
+          "AudioPath": "assets/pl/Harvey/135.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:funReturn_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Miałem dziś udany dzień. Czasem dobrze jest pobyć samemu. A jak minął Twój dzień, Kochanie?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_0",
+          "DialogueText": "{Farmer_Name}... Nadal nie mogę uwierzyć, że jesteśmy małżeństwem... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/136.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_0",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nadal nie mogę uwierzyć, że jesteśmy małżeństwem..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_1",
+          "DialogueText": "Dzięki Tobie nie jestem już samotny. Wypełniasz pustkę w moim sercu. Dziękuję. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/137.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki Tobie nie jestem już samotny. Wypełniasz pustkę w moim sercu. Dziękuję."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_2",
+          "DialogueText": "Wiedziałem, że jesteś tym jedynym od chwili, gdy się tu wprowadziłeś... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/138_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiedziałem, że jesteś tym jedynym od chwili, gdy się tu wprowadziłeś...",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_2",
+          "DialogueText": "Wiedziałem, że jesteś tą jedyną od chwili, gdy się tu wprowadziłaś... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/139_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Wiedziałem, że jesteś tą jedyną od chwili, gdy się tu wprowadziłaś...",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_3",
+          "DialogueText": "Wow, ale dziś przystojnie wyglądasz! Ogoliłeś się? {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/140_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, ale dziś przystojnie wyglądasz! Ogoliłeś się?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_3",
+          "DialogueText": "O, mój... Wyglądasz dziś prześlicznie. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/141_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_3",
+          "PageIndex": 1,
+          "DisplayPattern": "O, mój... Wyglądasz dziś prześlicznie.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_4",
+          "DialogueText": "To miejsce jest moim domem... Kocham je. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/142.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_4",
+          "PageIndex": 0,
+          "DisplayPattern": "To miejsce jest moim domem... Kocham je."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_5",
+          "DialogueText": "Podziwiam mój amulet małżeński... Muszelka jest bez skazy. Pewnie Cię dużo kosztowała! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/143.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Podziwiam mój amulet małżeński... Muszelka jest bez skazy. Pewnie Cię dużo kosztowała!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_6",
+          "DialogueText": "Uważaj na siebie! Śniło mi się, że wylądowałaś na sali operacyjnej. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/144.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Good_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Uważaj na siebie! Śniło mi się, że wylądowałaś na sali operacyjnej."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_7",
+          "DialogueText": "{Farmer_Name}? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/145.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_7",
+          "PageIndex": 0,
+          "DisplayPattern": "? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_8",
+          "DialogueText": "Nie martw się o mnie... wiem, że masz dużo obowiązków. Dobrze sobie tu radzę! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/146.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się o mnie... wiem, że masz dużo obowiązków. Dobrze sobie tu radzę!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_9",
+          "DialogueText": "Och, nie nudzę się... Cieszę się z tego co mamy.",
+          "AudioPath": "assets/pl/Harvey/147.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, nie nudzę się... Cieszę się z tego co mamy."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Good_9",
+          "DialogueText": "To proste życie, ale podoba mi się. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/148.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Good_9",
+          "PageIndex": 1,
+          "DisplayPattern": "To proste życie, ale podoba mi się."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_0",
+          "DialogueText": "Wszyscy dążymy do równowagi w życiu.",
+          "AudioPath": "assets/pl/Harvey/149.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Wszyscy dążymy do równowagi w życiu."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_0",
+          "DialogueText": "Dla mnie przeprowadzka tutaj była dokładnie tym, czego potrzebowałem, by ją osiągnąć. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/150.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_0",
+          "PageIndex": 1,
+          "DisplayPattern": "Dla mnie przeprowadzka tutaj była dokładnie tym, czego potrzebowałem, by ją osiągnąć."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_1",
+          "DialogueText": "Dzień dobry, {Farmer_Name}! Zrobiłem pożywne śniadanko. [201]",
+          "AudioPath": "assets/pl/Harvey/151.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzień dobry, ! Zrobiłem pożywne śniadanko."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_1",
+          "DialogueText": "Jajka to świetne źródło niezbędnych składników odżywczych. Smacznego!",
+          "AudioPath": "assets/pl/Harvey/152.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Jajka to świetne źródło niezbędnych składników odżywczych. Smacznego!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_2",
+          "DialogueText": "Dziś planuję czytać literaturę medyczną. Muszę być na bieżąco, żeby zapewnić pacjentom najlepszą opiekę!",
+          "AudioPath": "assets/pl/Harvey/153.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziś planuję czytać literaturę medyczną. Muszę być na bieżąco, żeby zapewnić pacjentom najlepszą opiekę!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_3",
+          "DialogueText": "Chyba posłucham dziś jazzu i dokończę medyczne raporty. A Ty masz jakieś plany?",
+          "AudioPath": "assets/pl/Harvey/154.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Chyba posłucham dziś jazzu i dokończę medyczne raporty. A Ty masz jakieś plany?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_4",
+          "DialogueText": "Gdy się poznaliśmy, trochę się Ciebie bałem. Zabawne, jak daleko zaszliśmy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/155.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Day_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy się poznaliśmy, trochę się Ciebie bałem. Zabawne, jak daleko zaszliśmy."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_Harvey",
+          "DialogueText": "Niebo dziś wygląda wspaniale... Jest takie czyste!",
+          "AudioPath": "assets/pl/Harvey/156.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Indoor_Day_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Niebo dziś wygląda wspaniale... Jest takie czyste!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Day_Harvey",
+          "DialogueText": "Od teraz będę chodził do kliniki tylko jak będę miał umówione wizyty. Jak nie będę, to popracuję zdalnie!",
+          "AudioPath": "assets/pl/Harvey/157.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Indoor_Day_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Od teraz będę chodził do kliniki tylko jak będę miał umówione wizyty. Jak nie będę, to popracuję zdalnie!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_0",
+          "DialogueText": "Wyglądasz na zmęczonego, Kochanie. Pozwól, że zrobię Ci dziś masaż. Obiecuję, że poczujesz się lepiej! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/158_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyglądasz na zmęczonego, Kochanie. Pozwól, że zrobię Ci dziś masaż. Obiecuję, że poczujesz się lepiej!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_0",
+          "DialogueText": "Wyglądasz na zmęczoną, Kochanie. Pozwól, że zrobię Ci dziś masaż. Obiecuję, że poczujesz się lepiej! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/159_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_0",
+          "PageIndex": 1,
+          "DisplayPattern": "Wyglądasz na zmęczoną, Kochanie. Pozwól, że zrobię Ci dziś masaż. Obiecuję, że poczujesz się lepiej!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_1",
+          "DialogueText": "Dziś trochę odpuściłem... Poczytałem, pobawiłem się radiem i popracowałem nad modelem samolotu.",
+          "AudioPath": "assets/pl/Harvey/160.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziś trochę odpuściłem... Poczytałem, pobawiłem się radiem i popracowałem nad modelem samolotu."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_1",
+          "DialogueText": "Ważne jest, żeby czasem odpocząć. Stres jest niezdrowy.",
+          "AudioPath": "assets/pl/Harvey/161.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Ważne jest, żeby czasem odpocząć. Stres jest niezdrowy."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_2",
+          "DialogueText": "Dobry wieczór... Skończyłeś swoje obowiązki?",
+          "AudioPath": "assets/pl/Harvey/162_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobry wieczór... Skończyłeś swoje obowiązki?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_2",
+          "DialogueText": "Dobry wieczór... Skończyłaś swoje obowiązki?",
+          "AudioPath": "assets/pl/Harvey/163_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobry wieczór... Skończyłaś swoje obowiązki?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_2",
+          "DialogueText": "Spokojnie, poradzę sobie. Jeśli masz jeszcze coś do zrobienia, nie przejmuj się.",
+          "AudioPath": "assets/pl/Harvey/164.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_2",
+          "PageIndex": 2,
+          "DisplayPattern": "Spokojnie, poradzę sobie. Jeśli masz jeszcze coś do zrobienia, nie przejmuj się."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_3",
+          "DialogueText": "Bycie lekarzem to stresująca praca, więc dobrze mieszkać w miejscu, gdzie można odpocząć... na przykład na ''%farm'' farmie.",
+          "AudioPath": "assets/pl/Harvey/165.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Bycie lekarzem to stresująca praca, więc dobrze mieszkać w miejscu, gdzie można odpocząć... na przykład na '''' ie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_4",
+          "DialogueText": "O! Właśnie rozmyślałem o układzie krążenia i zapomniałem, co miałem zrobić. Typowe dla lekarza.",
+          "AudioPath": "assets/pl/Harvey/166.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Indoor_Night_4",
+          "PageIndex": 0,
+          "DisplayPattern": "O! Właśnie rozmyślałem o układzie krążenia i zapomniałem, co miałem zrobić. Typowe dla lekarza."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_Harvey",
+          "DialogueText": "Wyglądasz, jakby przydał Ci się porządny masaż. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/167.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Indoor_Night_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyglądasz, jakby przydał Ci się porządny masaż."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Indoor_Night_Harvey",
+          "DialogueText": "Zalecenia lekarza... Masaż dobrze wpływa na krążenie!",
+          "AudioPath": "assets/pl/Harvey/168.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Indoor_Night_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Zalecenia lekarza... Masaż dobrze wpływa na krążenie!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/jobLeave_Harvey",
+          "DialogueText": "Muszę iść dzisiaj do kliniki. Miłego dnia, moje słońce.",
+          "AudioPath": "assets/pl/Harvey/169.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:jobLeave_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Muszę iść dzisiaj do kliniki. Miłego dnia, moje słońce."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/jobReturn_Harvey",
+          "DialogueText": "Cześć, Kochanie. Jak Ci minął dzień?",
+          "AudioPath": "assets/pl/Harvey/170.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:jobReturn_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Kochanie. Jak Ci minął dzień?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/jobReturn_Harvey",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pl/Harvey/171.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:jobReturn_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "$e"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/jobReturn_Harvey",
+          "DialogueText": "*Fiu*... Jestem wykończony... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/172.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:jobReturn_Harvey",
+          "PageIndex": 2,
+          "DisplayPattern": "*Fiu*... Jestem wykończony..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/jobReturn_Harvey",
+          "DialogueText": "Moi pacjenci są nadal zdrowi, więc to był dobry dzień.",
+          "AudioPath": "assets/pl/Harvey/173.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:jobReturn_Harvey",
+          "PageIndex": 3,
+          "DisplayPattern": "Moi pacjenci są nadal zdrowi, więc to był dobry dzień."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_0",
+          "DialogueText": "Mam nadzieję, że nadal będziesz mnie kochać nawet, gdy się zestarzeję i osiwieję. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/174.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że nadal będziesz mnie kochać nawet, gdy się zestarzeję i osiwieję."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_1",
+          "DialogueText": "Myślisz, że Twój dziadek byłby dumny z naszej pracy?",
+          "AudioPath": "assets/pl/Harvey/175.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślisz, że Twój dziadek byłby dumny z naszej pracy?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_2",
+          "DialogueText": "Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało...",
+          "AudioPath": "assets/pl/Harvey/176.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Przerwa? Myślę, że bycie erem jest łatwiejsze niż się wydawało..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_3",
+          "DialogueText": "Jeśli idziesz do miasta, to pozdrów każdego ode mnie.",
+          "AudioPath": "assets/pl/Harvey/177.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli idziesz do miasta, to pozdrów każdego ode mnie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_4",
+          "DialogueText": "Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mógł skupić się na swojej robocie.",
+          "AudioPath": "assets/pl/Harvey/178_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mógł skupić się na swojej robocie.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_4",
+          "DialogueText": "Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mogła skupić się na swojej robocie.",
+          "AudioPath": "assets/pl/Harvey/179_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_4",
+          "PageIndex": 1,
+          "DisplayPattern": "Jutro rano zrobię pranie zanim wstaniesz... dzięki temu będziesz mogła skupić się na swojej robocie.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_5",
+          "DialogueText": "Dobrze nam idzie finansowo, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Harvey/180.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze nam idzie finansowo, ?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_6",
+          "DialogueText": "Ciekawe co dzisiaj robią wszyscy w miasteczku?",
+          "AudioPath": "assets/pl/Harvey/181.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_6",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciekawe co dzisiaj robią wszyscy w miasteczku?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_7",
+          "DialogueText": "Naprawdę, nie czuję się dzisiaj na siłach.",
+          "AudioPath": "assets/pl/Harvey/182.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_7",
+          "PageIndex": 0,
+          "DisplayPattern": "Naprawdę, nie czuję się dzisiaj na siłach."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_8",
+          "DialogueText": "Nieważne jak posprzątam dom, dalej się brudzi.",
+          "AudioPath": "assets/pl/Harvey/183.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nieważne jak posprzątam dom, dalej się brudzi."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_8",
+          "DialogueText": "Chyba farmy są na swój sposób brudne.",
+          "AudioPath": "assets/pl/Harvey/184.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_8",
+          "PageIndex": 1,
+          "DisplayPattern": "Chyba y są na swój sposób brudne."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Neutral_9",
+          "DialogueText": "Ciekawe czy będziemy tu mieszkać przez całe nasze życie?",
+          "AudioPath": "assets/pl/Harvey/185.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_9",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciekawe czy będziemy tu mieszkać przez całe nasze życie?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/NoBed_0",
+          "DialogueText": "Gdzie ja mam teraz spać...? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/186.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdzie ja mam teraz spać...?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/NoBed_1",
+          "DialogueText": "Źle mi się dzisiaj spało... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/187.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Źle mi się dzisiaj spało..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/NoBed_2",
+          "DialogueText": "Spanie na ziemi nie należy do najwygodniejszych... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/188.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Spanie na ziemi nie należy do najwygodniejszych..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/NoBed_3",
+          "DialogueText": "Czy coś się stało z naszym łóżkiem...? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/189.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:NoBed_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy coś się stało z naszym łóżkiem...?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/OneKid_0",
+          "DialogueText": "Ty i %kid1 jesteście dla mnie najważniejsi na świecie.",
+          "AudioPath": "assets/pl/Harvey/190.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:OneKid_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ty i jesteście dla mnie najważniejsi na świecie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/OneKid_1",
+          "DialogueText": "Mały %kid1 będzie miał tu idealne dzieciństwo. Cieszę się, że możemy mu to zapewnić.",
+          "AudioPath": "assets/pl/Harvey/191.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:OneKid_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Mały będzie miał tu idealne dzieciństwo. Cieszę się, że możemy mu to zapewnić."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/OneKid_2",
+          "DialogueText": "Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.",
+          "AudioPath": "assets/pl/Harvey/192.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/OneKid_3",
+          "DialogueText": "Póki co, bardzo mi się podoba bycie ojcem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/193.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:OneKid_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Póki co, bardzo mi się podoba bycie ojcem!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_0",
+          "DialogueText": "To bardzo bezpieczne miejsce. Idź zająć się swoimi sprawami. O mnie się nie martw.",
+          "AudioPath": "assets/pl/Harvey/194.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Outdoor_0",
+          "PageIndex": 0,
+          "DisplayPattern": "To bardzo bezpieczne miejsce. Idź zająć się swoimi sprawami. O mnie się nie martw."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_1",
+          "DialogueText": "To doskonałe miejsce na wychowanie dzieci. Także z naukowego punktu widzenia. Zgadzasz się?",
+          "AudioPath": "assets/pl/Harvey/195.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Outdoor_1",
+          "PageIndex": 0,
+          "DisplayPattern": "To doskonałe miejsce na wychowanie dzieci. Także z naukowego punktu widzenia. Zgadzasz się?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_2",
+          "DialogueText": "Może nie jestem najciekawszym facetem, ale będę Ci wierny aż do końca moich dni. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/196.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Outdoor_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Może nie jestem najciekawszym facetem, ale będę Ci wierny aż do końca moich dni."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_3",
+          "DialogueText": "{Farmer_Name}... Ty... Jesteś dla mnie całym światem. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/197.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Outdoor_3",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ty... Jesteś dla mnie całym światem."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_4",
+          "DialogueText": "Jako naukowiec jestem zafascynowany subtelną współzależnością między owadami a roślinami.",
+          "AudioPath": "assets/pl/Harvey/198.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Outdoor_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Jako naukowiec jestem zafascynowany subtelną współzależnością między owadami a roślinami."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_Harvey",
+          "DialogueText": "To o wiele lepsze niż siedzenie całymi dniami w klinice. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/199.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Outdoor_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "To o wiele lepsze niż siedzenie całymi dniami w klinice."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Outdoor_Harvey",
+          "DialogueText": "Uwielbiam Cię oglądać na farmie... he he",
+          "AudioPath": "assets/pl/Harvey/200.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Outdoor_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Uwielbiam Cię oglądać na ie... he he"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/patio_Harvey",
+          "DialogueText": "Ten ''Dziennik Dynamiki Ścięgna'' jest całkiem znośny, gdy czytam go tutaj.",
+          "AudioPath": "assets/pl/Harvey/201.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:patio_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten ''Dziennik Dynamiki Ścięgna'' jest całkiem znośny, gdy czytam go tutaj."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_0",
+          "DialogueText": "To mit, że deszczowa pogoda powoduje grypę. Ale uważaj, żeby nie poślizgnąć się na błocie!",
+          "AudioPath": "assets/pl/Harvey/202.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_0",
+          "PageIndex": 0,
+          "DisplayPattern": "To mit, że deszczowa pogoda powoduje grypę. Ale uważaj, żeby nie poślizgnąć się na błocie!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_0",
+          "DialogueText": "Cały czas się o Ciebie martwię.",
+          "AudioPath": "assets/pl/Harvey/203.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_0",
+          "PageIndex": 1,
+          "DisplayPattern": "Cały czas się o Ciebie martwię."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_1",
+          "DialogueText": "Kiedy mieszkałem sam, byłem taki samotny... Teraz jest o wiele lepiej. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/204.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedy mieszkałem sam, byłem taki samotny... Teraz jest o wiele lepiej."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_2",
+          "DialogueText": "Wstałem wcześnie, ale nie wiedziałem, czy Cię budzić. Tak słodko spałeś.",
+          "AudioPath": "assets/pl/Harvey/205_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wstałem wcześnie, ale nie wiedziałem, czy Cię budzić. Tak słodko spałeś.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_2",
+          "DialogueText": "Wstałem wcześnie, ale nie wiedziałem, czy Cię budzić. Tak słodko spałaś.",
+          "AudioPath": "assets/pl/Harvey/206_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Wstałem wcześnie, ale nie wiedziałem, czy Cię budzić. Tak słodko spałaś.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_3",
+          "DialogueText": "Deszcz mi nie przeszkadza. Jasne, nie mogę już oglądać przelatujących samolotów, ale wciąż mogę słuchać rozmów przez radio.",
+          "AudioPath": "assets/pl/Harvey/207.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Deszcz mi nie przeszkadza. Jasne, nie mogę już oglądać przelatujących samolotów, ale wciąż mogę słuchać rozmów przez radio."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_3",
+          "DialogueText": "To wszystko sprawia, że świat wydaje się bardziej tajemniczy.",
+          "AudioPath": "assets/pl/Harvey/208.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_3",
+          "PageIndex": 1,
+          "DisplayPattern": "To wszystko sprawia, że świat wydaje się bardziej tajemniczy."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_4",
+          "DialogueText": "Mam trochę zaległości w obowiązkach domowych. Będę dziś trochę zajęty!",
+          "AudioPath": "assets/pl/Harvey/209.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Day_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam trochę zaległości w obowiązkach domowych. Będę dziś trochę zajęty!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Day_Harvey",
+          "DialogueText": "Nie siedź długo na zewnątrz bo zmokniesz, Kochanie. Chyba nie chcesz się przeziębić.",
+          "AudioPath": "assets/pl/Harvey/210.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Rainy_Day_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie siedź długo na zewnątrz bo zmokniesz, Kochanie. Chyba nie chcesz się przeziębić."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_0",
+          "DialogueText": "Jak Ci minął dzień, Kochanie? Miałem pozmywać naczynia, ale pochłonęło mnie najnowsze wydanie ''Entuzjasty Operacji Na Kolanie''.",
+          "AudioPath": "assets/pl/Harvey/211.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak Ci minął dzień, Kochanie? Miałem pozmywać naczynia, ale pochłonęło mnie najnowsze wydanie ''Entuzjasty Operacji Na Kolanie''."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_1",
+          "DialogueText": "Jeśli cieszysz się życiem, to czy naprawdę ma znaczenie, że jest trochę monotonne? To mój cytat.",
+          "AudioPath": "assets/pl/Harvey/212.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli cieszysz się życiem, to czy naprawdę ma znaczenie, że jest trochę monotonne? To mój cytat."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_2",
+          "DialogueText": "Wyglądasz na przemokniętego, mój drogi. Ogrzej się przy kominku.",
+          "AudioPath": "assets/pl/Harvey/213_male.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyglądasz na przemokniętego, mój drogi. Ogrzej się przy kominku.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_2",
+          "DialogueText": "Wyglądasz na przemokniętą, moja droga. Ogrzej się przy kominku.",
+          "AudioPath": "assets/pl/Harvey/214_female.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_2",
+          "PageIndex": 1,
+          "DisplayPattern": "Wyglądasz na przemokniętą, moja droga. Ogrzej się przy kominku.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_3",
+          "DialogueText": "Odgłosy padającego deszczu dobrze wpływają na koncentrację, bo nie rozpraszają nas zbędne myśli.",
+          "AudioPath": "assets/pl/Harvey/215.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Odgłosy padającego deszczu dobrze wpływają na koncentrację, bo nie rozpraszają nas zbędne myśli."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_3",
+          "DialogueText": "To moja teoria, dlaczego deszcz jest taki kojący...",
+          "AudioPath": "assets/pl/Harvey/216.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_3",
+          "PageIndex": 1,
+          "DisplayPattern": "To moja teoria, dlaczego deszcz jest taki kojący..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_4",
+          "DialogueText": "Zrobiłem nam pyszny i zdrowy obiad. Tylko świeże składniki z naszej farmy! [212 214 225 209 200] {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/217.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_4",
+          "PageIndex": 0,
+          "DisplayPattern": "Zrobiłem nam pyszny i zdrowy obiad. Tylko świeże składniki z naszej y!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_4",
+          "DialogueText": "Najedz się dobrze, Kochanie.",
+          "AudioPath": "assets/pl/Harvey/218.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:Rainy_Night_4",
+          "PageIndex": 1,
+          "DisplayPattern": "Najedz się dobrze, Kochanie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_5",
+          "DialogueText": "Cieszę się, że jesteś... W taką porę najlepiej siedzieć w domu.",
+          "AudioPath": "assets/pl/Harvey/219.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Rainy_Night_5",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że jesteś... W taką porę najlepiej siedzieć w domu."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_Harvey",
+          "DialogueText": "Cześć. Dobrze Cię widzieć. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/220.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Rainy_Night_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć. Dobrze Cię widzieć."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/Rainy_Night_Harvey",
+          "DialogueText": "Cały ten dzień spędziłem na czytaniu dzienników medycznych.",
+          "AudioPath": "assets/pl/Harvey/221.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:Rainy_Night_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Cały ten dzień spędziłem na czytaniu dzienników medycznych."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spouseRoom_Harvey",
+          "DialogueText": "Nie ma dzisiaj ruchu w powietrzu, Kochanie. Od czasu do czasu fajnie jest poużywać trochę tego sprzętu.",
+          "AudioPath": "assets/pl/Harvey/222.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:spouseRoom_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie ma dzisiaj ruchu w powietrzu, Kochanie. Od czasu do czasu fajnie jest poużywać trochę tego sprzętu."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spouseRoom_Harvey",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pl/Harvey/223.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:spouseRoom_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "$e"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spouseRoom_Harvey",
+          "DialogueText": "Pracuję nad nowym modelem samolotu. Lepiej mi się to robi tu, niż w moim starym apartamencie.",
+          "AudioPath": "assets/pl/Harvey/224.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:spouseRoom_Harvey",
+          "PageIndex": 2,
+          "DisplayPattern": "Pracuję nad nowym modelem samolotu. Lepiej mi się to robi tu, niż w moim starym apartamencie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spring_1",
+          "DialogueText": "Cudownie widzieć, jak rośliny wracają do życia. Zieleń to miła odmiana po zimowej szarości.",
+          "AudioPath": "assets/pl/Harvey/225.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:spring_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Cudownie widzieć, jak rośliny wracają do życia. Zieleń to miła odmiana po zimowej szarości."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spring_12",
+          "DialogueText": "O, jutro jest festiwal, prawda? Tłumy, wydarzenia... *przełknięcie* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/226.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:spring_12",
+          "PageIndex": 0,
+          "DisplayPattern": "O, jutro jest festiwal, prawda? Tłumy, wydarzenia... *przełknięcie*"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spring_23",
+          "DialogueText": "Cz... czy zatańczysz ze mną na jutrzejszym festiwalu? {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/227.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:spring_23",
+          "PageIndex": 0,
+          "DisplayPattern": "Cz... czy zatańczysz ze mną na jutrzejszym festiwalu?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spring_23",
+          "DialogueText": "To trochę krępujące. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/228.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:spring_23",
+          "PageIndex": 1,
+          "DisplayPattern": "To trochę krępujące."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spring_8",
+          "DialogueText": "Po tej zimie czeka nas sporo roboty.",
+          "AudioPath": "assets/pl/Harvey/229.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:spring_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Po tej zimie czeka nas sporo roboty."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/spring_Harvey",
+          "DialogueText": "Tej wiosny zasadźmy jakieś zdrowe warzywa. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/230.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:spring_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Tej wiosny zasadźmy jakieś zdrowe warzywa."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_1",
+          "DialogueText": "Uważaj, żeby się nie spiec na słońcu, Kochanie! To bardzo niezdrowe dla skóry. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/231.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:summer_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Uważaj, żeby się nie spiec na słońcu, Kochanie! To bardzo niezdrowe dla skóry."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_1",
+          "DialogueText": "Jako mąż i lekarz, Twoje zdrowie to mój priorytet!",
+          "AudioPath": "assets/pl/Harvey/232.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:summer_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Jako mąż i lekarz, Twoje zdrowie to mój priorytet!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_10",
+          "DialogueText": "Już wiesz, co dodasz do zupy na luau?",
+          "AudioPath": "assets/pl/Harvey/233.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:summer_10",
+          "PageIndex": 0,
+          "DisplayPattern": "Już wiesz, co dodasz do zupy na luau?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_10",
+          "DialogueText": "Dałbym coś wysokiej jakości. Wszyscy chcemy zrobić wrażenie na gubernatorze!",
+          "AudioPath": "assets/pl/Harvey/234.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:summer_10",
+          "PageIndex": 1,
+          "DisplayPattern": "Dałbym coś wysokiej jakości. Wszyscy chcemy zrobić wrażenie na gubernatorze!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_15",
+          "DialogueText": "Lato... Czyli, więcej owadów w domu.",
+          "AudioPath": "assets/pl/Harvey/235.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:summer_15",
+          "PageIndex": 0,
+          "DisplayPattern": "Lato... Czyli, więcej owadów w domu."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_15",
+          "DialogueText": "Nie martw się, zajmę się nimi.",
+          "AudioPath": "assets/pl/Harvey/236.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:summer_15",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie martw się, zajmę się nimi."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_27",
+          "DialogueText": "Gdy kończy się lato, nadchodzą chłodniejsze dni i moja praca się nasila. Z góry przepraszam, jeśli będę trochę zrzędliwy...",
+          "AudioPath": "assets/pl/Harvey/237.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:summer_27",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy kończy się lato, nadchodzą chłodniejsze dni i moja praca się nasila. Z góry przepraszam, jeśli będę trochę zrzędliwy..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_8",
+          "DialogueText": "Wybacz jeśli śmierdzę... W nocy było strasznie gorąco.",
+          "AudioPath": "assets/pl/Harvey/238.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:summer_8",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz jeśli śmierdzę... W nocy było strasznie gorąco."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/summer_Harvey",
+          "DialogueText": "Nie spal się na słońcu, skarbie... Bo sobie poważnie uszkodzisz skórę.",
+          "AudioPath": "assets/pl/Harvey/239.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:summer_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie spal się na słońcu, skarbie... Bo sobie poważnie uszkodzisz skórę."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/TwoKids_0",
+          "DialogueText": "Już dałem %kid1 i %kid2 śniadanie. Staram się nauczyć ich zdrowego odżywiania!",
+          "AudioPath": "assets/pl/Harvey/240.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:TwoKids_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Już dałem i śniadanie. Staram się nauczyć ich zdrowego odżywiania!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/TwoKids_1",
+          "DialogueText": "Dziecko powinno mieć czas na zabawę i odkrywanie świata. Dzieciństwo jest tylko jedno.",
+          "AudioPath": "assets/pl/Harvey/241.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:TwoKids_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziecko powinno mieć czas na zabawę i odkrywanie świata. Dzieciństwo jest tylko jedno."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/TwoKids_2",
+          "DialogueText": "Kiedy %kid2 dorośnie, może zostanie pilotem. Tak jak ja kiedyś marzyłem?",
+          "AudioPath": "assets/pl/Harvey/242.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:TwoKids_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Kiedy dorośnie, może zostanie pilotem. Tak jak ja kiedyś marzyłem?"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/TwoKids_3",
+          "DialogueText": "Moje życie dzieli się teraz między Ciebie a dzieci... i cieszę się z tego. Zawsze marzyłem o wspaniałej rodzinie. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/243.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:TwoKids_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Moje życie dzieli się teraz między Ciebie a dzieci... i cieszę się z tego. Zawsze marzyłem o wspaniałej rodzinie."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/TwoKids_3",
+          "DialogueText": "Bałem się, że zostanę samotnym kawalerem... Tak bardzo Cię kocham. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/244.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:TwoKids_3",
+          "PageIndex": 1,
+          "DisplayPattern": "Bałem się, że zostanę samotnym kawalerem... Tak bardzo Cię kocham."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/winter_1",
+          "DialogueText": "Zimowe powietrze jest bardzo suche, dlatego nasza skóra łatwo się podrażnia.",
+          "AudioPath": "assets/pl/Harvey/245.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:winter_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Zimowe powietrze jest bardzo suche, dlatego nasza skóra łatwo się podrażnia."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/winter_1",
+          "DialogueText": "Nie martw się. Będę Cię codziennie smarował olejem z trufli. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/246.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:winter_1",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie martw się. Będę Cię codziennie smarował olejem z trufli."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/winter_28",
+          "DialogueText": "To był fantastyczny rok. Jestem pewien, że kolejny będzie jeszcze lepszy! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/247.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:winter_28",
+          "PageIndex": 0,
+          "DisplayPattern": "To był fantastyczny rok. Jestem pewien, że kolejny będzie jeszcze lepszy!"
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/winter_7",
+          "DialogueText": "Pójdziemy jutro na Festiwal Lodu? Lubię igloo...",
+          "AudioPath": "assets/pl/Harvey/248.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogueHarvey:winter_7",
+          "PageIndex": 0,
+          "DisplayPattern": "Pójdziemy jutro na Festiwal Lodu? Lubię igloo..."
+        },
+        {
+          "DialogueFrom": "Marriage/Harvey/winter_Harvey",
+          "DialogueText": "Zima to sezon grypowy, więc moja praca będzie pewnie trochę bardziej stresująca. Z góry przepraszam, jeśli jestem zrzędliwy.",
+          "AudioPath": "assets/pl/Harvey/249.ogg",
+          "TranslationKey": "Characters/Dialogue/MarriageDialogue:winter_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Zima to sezon grypowy, więc moja praca będzie pewnie trochę bardziej stresująca. Z góry przepraszam, jeśli jestem zrzędliwy."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Cześć, {Farmer_Name}! Em... Lubisz czytać w bibliotece?",
+          "AudioPath": "assets/pl/Harvey/250.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, ! Em... Lubisz czytać w bibliotece?"
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Heh. To, hm... Do zobaczenia? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Harvey/251.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Heh. To, hm... Do zobaczenia?"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s0",
+          "DialogueText": "Potrzebuję soli...",
+          "AudioPath": "assets/pl/Harvey/252.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Potrzebuję soli..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s1",
+          "DialogueText": "Pali się!",
+          "AudioPath": "assets/pl/Harvey/253.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Pali się!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s2",
+          "DialogueText": "Hmm...",
+          "AudioPath": "assets/pl/Harvey/254.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s3",
+          "DialogueText": "Troszkę tego...",
+          "AudioPath": "assets/pl/Harvey/255.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Troszkę tego..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s4",
+          "DialogueText": "I tego...",
+          "AudioPath": "assets/pl/Harvey/256.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "I tego..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s5",
+          "DialogueText": "Presto!",
+          "AudioPath": "assets/pl/Harvey/257.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Presto!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s6",
+          "DialogueText": "Ach... Zjawiasz się w samą porę, {Farmer_Name}! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/258.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... Zjawiasz się w samą porę, !"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s7",
+          "DialogueText": "Już nakrywam do stołu...",
+          "AudioPath": "assets/pl/Harvey/259.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Już nakrywam do stołu..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s8",
+          "DialogueText": "Ciężko pracujesz na tej farmie... Chciałem Ci zrobić wyjątkowy obiad.",
+          "AudioPath": "assets/pl/Harvey/260.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciężko pracujesz na tej ie... Chciałem Ci zrobić wyjątkowy obiad."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s9",
+          "DialogueText": "To mój własny przepis, jest to 'makaron primavera anielskie włosy'... z małżami! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/261.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "To mój własny przepis, jest to 'makaron primavera anielskie włosy'... z małżami!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s10",
+          "DialogueText": "Niebiańsko, prawda? Pewnie przez 'anielski włos'! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/262.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Niebiańsko, prawda? Pewnie przez 'anielski włos'!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s11",
+          "DialogueText": "Cieszę się, że Ci smakuje! Zasługujesz na najlepsze. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/263.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że Ci smakuje! Zasługujesz na najlepsze."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s12",
+          "DialogueText": "Och tak, zapomniałem powiedzieć... to 'pełnoziarnisty' makaron. I jest pełen świeżych warzyw.",
+          "AudioPath": "assets/pl/Harvey/264.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Och tak, zapomniałem powiedzieć... to 'pełnoziarnisty' makaron. I jest pełen świeżych warzyw."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s13",
+          "DialogueText": "Musisz jeść zdrowo! Chcę, żebyś żył wiecznie... {Portrait:Love}Musisz jeść zdrowo! Chcę, żebyś żyła wiecznie... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/265.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Musisz jeść zdrowo! Chcę, żebyś żył wiecznie...Musisz jeść zdrowo! Chcę, żebyś żyła wiecznie..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s14",
+          "DialogueText": "Och... Rozumiem. Wiedziałem, że muszę dodać więcej soli. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/266.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Rozumiem. Wiedziałem, że muszę dodać więcej soli."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s15",
+          "DialogueText": "Cóż, przynajmniej się nie odwodnisz. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/267.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, przynajmniej się nie odwodnisz."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s16",
+          "DialogueText": "Och... Myślałem, że sobie wziąłem to spalone. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/268.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Myślałem, że sobie wziąłem to spalone."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s17",
+          "DialogueText": "Um, zapomniałem się i trochę mi się przypaliło... Wybacz, skarbie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/269.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Um, zapomniałem się i trochę mi się przypaliło... Wybacz, skarbie."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s18",
+          "DialogueText": "Emmmm...! Heh. Pewnie troszkę mojego wąsa wpadło do makaronu... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/270.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "Emmmm...! Heh. Pewnie troszkę mojego wąsa wpadło do makaronu..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s19",
+          "DialogueText": "Cóż! Ekstra błonnik, prawda? Heh... (Wybacz skarbie) {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/271.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż! Ekstra błonnik, prawda? Heh... (Wybacz skarbie)"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s20",
+          "DialogueText": "Och! Ech... To pewnie olej truflowy, którym polałem makaron... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/272.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s20",
+          "PageIndex": 0,
+          "DisplayPattern": "Och! Ech... To pewnie olej truflowy, którym polałem makaron..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s21",
+          "DialogueText": "Masz na myśli przepyszny, jadalny grzyb... tak kochanie? Oczywiście... Heh. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/273.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s21",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz na myśli przepyszny, jadalny grzyb... tak kochanie? Oczywiście... Heh."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s22",
+          "DialogueText": "Jak tam u Ciebie...",
+          "AudioPath": "assets/pl/Harvey/274.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s22",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak tam u Ciebie..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s23",
+          "DialogueText": "Tak, chyba widzę ziemię w twoich włosach! Doceniam Twoją ciężką pracę, skarbie.",
+          "AudioPath": "assets/pl/Harvey/275.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s23",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, chyba widzę ziemię w twoich włosach! Doceniam Twoją ciężką pracę, skarbie."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s24",
+          "DialogueText": "Brzmi niebezpiecznie... na pewno jesteś ostrożna? {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/276.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s24",
+          "PageIndex": 0,
+          "DisplayPattern": "Brzmi niebezpiecznie... na pewno jesteś ostrożna?"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s25",
+          "DialogueText": "Nie chcę Cię widzieć na stole operacyjnym... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/277.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s25",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie chcę Cię widzieć na stole operacyjnym..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s26",
+          "DialogueText": "Ale muszę przyznać, podoba mi się twoja odwaga... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/278.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s26",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale muszę przyznać, podoba mi się twoja odwaga..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s27",
+          "DialogueText": "Spokojny dzień przy wodzie, co? Brzmi relaksująco.",
+          "AudioPath": "assets/pl/Harvey/279.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s27",
+          "PageIndex": 0,
+          "DisplayPattern": "Spokojny dzień przy wodzie, co? Brzmi relaksująco."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s28",
+          "DialogueText": "Cieszę się, że dobrze się bawisz! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/280.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s28",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że dobrze się bawisz!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s29",
+          "DialogueText": "Ach, to dobrze. Aktywne życie towarzyskie jest dobre dla mózgu.",
+          "AudioPath": "assets/pl/Harvey/281.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s29",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, to dobrze. Aktywne życie towarzyskie jest dobre dla mózgu."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s30",
+          "DialogueText": "Ale pamiętaj, że zawsze tu dla Ciebie jestem! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/282.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s30",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale pamiętaj, że zawsze tu dla Ciebie jestem!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s31",
+          "DialogueText": "To ma sens. Jest tu dużo roboty!... I wiem jak ciężko pracujesz.",
+          "AudioPath": "assets/pl/Harvey/283.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s31",
+          "PageIndex": 0,
+          "DisplayPattern": "To ma sens. Jest tu dużo roboty!... I wiem jak ciężko pracujesz."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s32",
+          "DialogueText": "Pamiętaj o przerwach! Przy Twoim zawodzie, łatwo się wymęczyć.",
+          "AudioPath": "assets/pl/Harvey/284.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s32",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętaj o przerwach! Przy Twoim zawodzie, łatwo się wymęczyć."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s33",
+          "DialogueText": "Ach... Też mam ten problem. Granica między dniami może się zacierać... ciężko jest wszystko zapamiętać!",
+          "AudioPath": "assets/pl/Harvey/285.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s33",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... Też mam ten problem. Granica między dniami może się zacierać... ciężko jest wszystko zapamiętać!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s34",
+          "DialogueText": "Przerwa, co? Cieszę się.",
+          "AudioPath": "assets/pl/Harvey/286.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s34",
+          "PageIndex": 0,
+          "DisplayPattern": "Przerwa, co? Cieszę się."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s35",
+          "DialogueText": "Cóż, z dniem wolnym i zdrowym obiadem, jutro dasz z siebie wszystko.",
+          "AudioPath": "assets/pl/Harvey/287.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s35",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, z dniem wolnym i zdrowym obiadem, jutro dasz z siebie wszystko."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s36",
+          "DialogueText": "Fiu... Ale się objadłem! To było wspaniałe...",
+          "AudioPath": "assets/pl/Harvey/288.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s36",
+          "PageIndex": 0,
+          "DisplayPattern": "Fiu... Ale się objadłem! To było wspaniałe..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s37",
+          "DialogueText": "Ja zajmę się naczyniami...",
+          "AudioPath": "assets/pl/Harvey/289.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s37",
+          "PageIndex": 0,
+          "DisplayPattern": "Ja zajmę się naczyniami..."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s38",
+          "DialogueText": "Nic nie szkodzi... Lubię Ci pomagać! Uszczęśliwia mnie to.",
+          "AudioPath": "assets/pl/Harvey/290.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s38",
+          "PageIndex": 0,
+          "DisplayPattern": "Nic nie szkodzi... Lubię Ci pomagać! Uszczęśliwia mnie to."
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s39",
+          "DialogueText": "Wiem, że często to mówię, ale... Ślub z Tobą to najlepsze, co mi się w życiu przytrafiło! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/291.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s39",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiem, że często to mówię, ale... Ślub z Tobą to najlepsze, co mi się w życiu przytrafiło!"
+        },
+        {
+          "DialogueFrom": "Event/FarmHouse/3917626:s40",
+          "DialogueText": "To było syte. Dobrze mi się będzie spało...",
+          "AudioPath": "assets/pl/Harvey/292.ogg",
+          "TranslationKey": "Events/FarmHouse:3917626:s40",
+          "PageIndex": 0,
+          "DisplayPattern": "To było syte. Dobrze mi się będzie spało..."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s0",
+          "DialogueText": "Dobrze, George. Weź głęboki wdech.",
+          "AudioPath": "assets/pl/Harvey/293.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze, George. Weź głęboki wdech."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s1",
+          "DialogueText": "Mmhmm... Proszę się odwrócić.",
+          "AudioPath": "assets/pl/Harvey/294.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Mmhmm... Proszę się odwrócić."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s2",
+          "DialogueText": "George, będę z Tobą szczery. Jeśli chcesz być zdrowy, musisz coś zmienić w swoim życiu.",
+          "AudioPath": "assets/pl/Harvey/295.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "George, będę z Tobą szczery. Jeśli chcesz być zdrowy, musisz coś zmienić w swoim życiu."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s3",
+          "DialogueText": "Chciałbym, żebyś ograniczył spożywanie soli i spróbował ćwiczyć rękoma.",
+          "AudioPath": "assets/pl/Harvey/296.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym, żebyś ograniczył spożywanie soli i spróbował ćwiczyć rękoma."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s4",
+          "DialogueText": "Jestem Twoim lekarzem, George. Oto kim jestem...",
+          "AudioPath": "assets/pl/Harvey/297.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem Twoim lekarzem, George. Oto kim jestem..."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s5",
+          "DialogueText": "I uczyłem się 8 lat, więc wiem jak pomagać ludziom prowadzić zdrowy tryb życia.",
+          "AudioPath": "assets/pl/Harvey/298.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "I uczyłem się 8 lat, więc wiem jak pomagać ludziom prowadzić zdrowy tryb życia."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s6",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Harvey/299.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Och!"
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s7",
+          "DialogueText": "Przepraszam, nie powinno Cię tu być... te badania są prywatne.",
+          "AudioPath": "assets/pl/Harvey/300.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Przepraszam, nie powinno Cię tu być... te badania są prywatne."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s8",
+          "DialogueText": "Dobrze...",
+          "AudioPath": "assets/pl/Harvey/301.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze..."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s9",
+          "DialogueText": "{Farmer_Name}, jak myślisz co George powinien zrobić?",
+          "AudioPath": "assets/pl/Harvey/302.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s9",
+          "PageIndex": 0,
+          "DisplayPattern": ", jak myślisz co George powinien zrobić?"
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s10",
+          "DialogueText": "George powinien słuchać porad Dr. Harveya.",
+          "AudioPath": "assets/pl/Harvey/303.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "George powinien słuchać porad Dr. Harveya."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s11",
+          "DialogueText": "George sam wie co jest dla niego najlepsze.",
+          "AudioPath": "assets/pl/Harvey/304.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "George sam wie co jest dla niego najlepsze."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s12",
+          "DialogueText": "Dzięki za pomoc, {Farmer_Name}. Doceniam to. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/305.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za pomoc, . Doceniam to."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/56:s13",
+          "DialogueText": "Lepiej nie dawać moim pacjentom mieszanych opinii, {Farmer_Name}. Zapamiętaj to w przyszłości.",
+          "AudioPath": "assets/pl/Harvey/306.ogg",
+          "TranslationKey": "Events/JoshHouse:56:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Lepiej nie dawać moim pacjentom mieszanych opinii, . Zapamiętaj to w przyszłości."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s0",
+          "DialogueText": "*dyszy*... Tak. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/307.ogg",
+          "TranslationKey": "Events/SeedShop:58:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "*dyszy*... Tak."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s1",
+          "DialogueText": "{Farmer_Name}! Podglądałeś mnie? {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/308_male.ogg",
+          "TranslationKey": "Events/SeedShop:58:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "! Podglądałeś mnie?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s2",
+          "DialogueText": "{Farmer_Name}! Podglądałaś mnie? {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/309_female.ogg",
+          "TranslationKey": "Events/SeedShop:58:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "! Podglądałaś mnie?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s3",
+          "DialogueText": "... Ale wstyd... Nie chciałem, żeby ktokolwiek się o tym dowiedział. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/310.ogg",
+          "TranslationKey": "Events/SeedShop:58:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ale wstyd... Nie chciałem, żeby ktokolwiek się o tym dowiedział."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s4",
+          "DialogueText": "Próbuję żyć zdrowo. Im starszy się stajesz, tym więcej wysiłku potrzeba.",
+          "AudioPath": "assets/pl/Harvey/311.ogg",
+          "TranslationKey": "Events/SeedShop:58:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Próbuję żyć zdrowo. Im starszy się stajesz, tym więcej wysiłku potrzeba."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s5",
+          "DialogueText": "Niestety, nie jestem w formie... Ciężko mi za nimi nadążyć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/312.ogg",
+          "TranslationKey": "Events/SeedShop:58:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Niestety, nie jestem w formie... Ciężko mi za nimi nadążyć."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s6",
+          "DialogueText": "Słuchaj... Nie rozpowiadaj tego, że uprawiam taneczny aerobik, ok?",
+          "AudioPath": "assets/pl/Harvey/313.ogg",
+          "TranslationKey": "Events/SeedShop:58:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Słuchaj... Nie rozpowiadaj tego, że uprawiam taneczny aerobik, ok?"
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s7",
+          "DialogueText": "Nie powiem.",
+          "AudioPath": "assets/pl/Harvey/314.ogg",
+          "TranslationKey": "Events/SeedShop:58:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie powiem."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s8",
+          "DialogueText": "Nie mogę Ci tego obiecać.",
+          "AudioPath": "assets/pl/Harvey/315.ogg",
+          "TranslationKey": "Events/SeedShop:58:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę Ci tego obiecać."
+        },
+        {
+          "DialogueFrom": "Event/SeedShop/58:s9",
+          "DialogueText": "Wow, to był niezły wysiłek...",
+          "AudioPath": "assets/pl/Harvey/316.ogg",
+          "TranslationKey": "Events/SeedShop:58:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, to był niezły wysiłek..."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/195099:s0",
+          "DialogueText": "Zjawiasz się w porę na pierwszy turniej bilarda w Mieście Pelikan!",
+          "AudioPath": "assets/pl/Harvey/317.ogg",
+          "TranslationKey": "Events/Saloon:195099:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Zjawiasz się w porę na pierwszy turniej bilarda w Mieście Pelikan!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/195013:s0",
+          "DialogueText": "Oszukałeś nas, żebyśmy myśleli, że Cię kochamy... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/318_male.ogg",
+          "TranslationKey": "Events/Saloon:195013:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Oszukałeś nas, żebyśmy myśleli, że Cię kochamy...",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/195013:s1",
+          "DialogueText": "{Farmer_Name}... Myślałem, że chcesz za mnie wyjść i założyć ze mną rodzinę... Co ja Ci złego zrobiłem? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/319_female.ogg",
+          "TranslationKey": "Events/Saloon:195013:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "... Myślałem, że chcesz za mnie wyjść i założyć ze mną rodzinę... Co ja Ci złego zrobiłem?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/195013:s2",
+          "DialogueText": "... Tak. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/320.ogg",
+          "TranslationKey": "Events/Saloon:195013:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "... Tak."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/choseToExplain:s0",
+          "DialogueText": "... Tak. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/321.ogg",
+          "TranslationKey": "Events/Saloon:choseToExplain:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "... Tak."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/crying:s0",
+          "DialogueText": "To nie zadziała! Tym razem nie będziesz żerować na naszej sympatii! {Portrait:Angry}",
+          "AudioPath": "assets/pl/Harvey/322.ogg",
+          "TranslationKey": "Events/Saloon:crying:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "To nie zadziała! Tym razem nie będziesz żerować na naszej sympatii!"
+        },
+        {
+          "DialogueFrom": "Event/Saloon/crying:s1",
+          "DialogueText": "... Tak. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/323.ogg",
+          "TranslationKey": "Events/Saloon:crying:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "... Tak."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/7:s0",
+          "DialogueText": "Co się stało? Słyszałem, jakby coś się stłukło.",
+          "AudioPath": "assets/pl/Harvey/324.ogg",
+          "TranslationKey": "Events/Hospital:7:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Co się stało? Słyszałem, jakby coś się stłukło."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/7:s1",
+          "DialogueText": "Nie powinnaś obwiniać innych przez to co zrobiłaś, Maru. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Harvey/325.ogg",
+          "TranslationKey": "Events/Hospital:7:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie powinnaś obwiniać innych przez to co zrobiłaś, Maru."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/7:s2",
+          "DialogueText": "*ech*... Znowu będę musiał zadzwonić do pacjenta, żeby pobrać tę próbkę. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/326.ogg",
+          "TranslationKey": "Events/Hospital:7:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*... Znowu będę musiał zadzwonić do pacjenta, żeby pobrać tę próbkę."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/7:s3",
+          "DialogueText": "Pewnie przez to będziemy na minusie przez następny miesiąc... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/327.ogg",
+          "TranslationKey": "Events/Hospital:7:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie przez to będziemy na minusie przez następny miesiąc..."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/toldTruth:s0",
+          "DialogueText": "Dzięki za szczerość, Maru.",
+          "AudioPath": "assets/pl/Harvey/328.ogg",
+          "TranslationKey": "Events/Hospital:toldTruth:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za szczerość, Maru."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/toldTruth:s1",
+          "DialogueText": "Nie martw się o tę próbkę, pobierzemy nową.",
+          "AudioPath": "assets/pl/Harvey/329.ogg",
+          "TranslationKey": "Events/Hospital:toldTruth:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się o tę próbkę, pobierzemy nową."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/toldTruth:s2",
+          "DialogueText": "Oczywiście... dużo mi tutaj pomagasz. Nie wiem co bym bez Ciebie zrobił!",
+          "AudioPath": "assets/pl/Harvey/330.ogg",
+          "TranslationKey": "Events/Hospital:toldTruth:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Oczywiście... dużo mi tutaj pomagasz. Nie wiem co bym bez Ciebie zrobił!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/toldTruth:s3",
+          "DialogueText": "{Farmer_Name}? Wyglądasz trochę blado... Dobrze się czujesz?",
+          "AudioPath": "assets/pl/Harvey/331.ogg",
+          "TranslationKey": "Events/Hospital:toldTruth:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "? Wyglądasz trochę blado... Dobrze się czujesz?"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s0",
+          "DialogueText": "Ach, {Farmer_Name}! Miałem napisać do Ciebie list.",
+          "AudioPath": "assets/pl/Harvey/332.ogg",
+          "TranslationKey": "Events/Hospital:57:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, ! Miałem napisać do Ciebie list."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s1",
+          "DialogueText": "Widzisz, moje dokumenty wskazują, że zwlekasz z corocznym badaniem!",
+          "AudioPath": "assets/pl/Harvey/333.ogg",
+          "TranslationKey": "Events/Hospital:57:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Widzisz, moje dokumenty wskazują, że zwlekasz z corocznym badaniem!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s2",
+          "DialogueText": "Nic się nie bój. Będzie szybko i bezboleśnie. Chodź za mną.",
+          "AudioPath": "assets/pl/Harvey/334.ogg",
+          "TranslationKey": "Events/Hospital:57:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nic się nie bój. Będzie szybko i bezboleśnie. Chodź za mną."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s3",
+          "DialogueText": "Hmm... Ok. Stój spokojnie.",
+          "AudioPath": "assets/pl/Harvey/335.ogg",
+          "TranslationKey": "Events/Hospital:57:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Ok. Stój spokojnie."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s4",
+          "DialogueText": "Powiedz 'Aaa...'",
+          "AudioPath": "assets/pl/Harvey/336.ogg",
+          "TranslationKey": "Events/Hospital:57:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Powiedz 'Aaa...'"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s5",
+          "DialogueText": "Ok, starczy.",
+          "AudioPath": "assets/pl/Harvey/337.ogg",
+          "TranslationKey": "Events/Hospital:57:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok, starczy."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s6",
+          "DialogueText": "Teraz sprawdzę Twój puls.",
+          "AudioPath": "assets/pl/Harvey/338.ogg",
+          "TranslationKey": "Events/Hospital:57:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Teraz sprawdzę Twój puls."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s7",
+          "DialogueText": "Hmm... Twój puls jest wysoki. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Harvey/339.ogg",
+          "TranslationKey": "Events/Hospital:57:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Twój puls jest wysoki."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s8",
+          "DialogueText": "Czasami się zdenerwuję...",
+          "AudioPath": "assets/pl/Harvey/340.ogg",
+          "TranslationKey": "Events/Hospital:57:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Czasami się zdenerwuję..."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s9",
+          "DialogueText": "Brakuje mi tchu przez tę pracę na farmie.",
+          "AudioPath": "assets/pl/Harvey/341.ogg",
+          "TranslationKey": "Events/Hospital:57:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Brakuje mi tchu przez tę pracę na ie."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s10",
+          "DialogueText": "Na pewno jesteś lekarzem? Mój puls jest w porządku!",
+          "AudioPath": "assets/pl/Harvey/342.ogg",
+          "TranslationKey": "Events/Hospital:57:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Na pewno jesteś lekarzem? Mój puls jest w porządku!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s11",
+          "DialogueText": "Dobrze się trzymasz, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Harvey/343.ogg",
+          "TranslationKey": "Events/Hospital:57:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze się trzymasz, ."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s12",
+          "DialogueText": "Tylko się nie przepracowuj! Wiem, że praca na farmie może być ciężka.",
+          "AudioPath": "assets/pl/Harvey/344.ogg",
+          "TranslationKey": "Events/Hospital:57:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Tylko się nie przepracowuj! Wiem, że praca na ie może być ciężka."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/57:s13",
+          "DialogueText": "Dzięki za przyjście. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/345.ogg",
+          "TranslationKey": "Events/Hospital:57:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za przyjście."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s0",
+          "DialogueText": "Halo? Halo? Jest tam kto? {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Harvey/346.ogg",
+          "TranslationKey": "Events/Hospital:571102:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo? Halo? Jest tam kto?"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s1",
+          "DialogueText": "Mówi Dr. H na... 52 Północ 43.5 Wschód... Szukam odpowiedzi z powietrza... Czy ktoś mnie słyszy? {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Harvey/347.ogg",
+          "TranslationKey": "Events/Hospital:571102:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówi Dr. H na... 52 Północ 43.5 Wschód... Szukam odpowiedzi z powietrza... Czy ktoś mnie słyszy?"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s2",
+          "DialogueText": "Odbiór.. Dr. H na ziemi... Z tej strony Kos Piątka Zuzu. Jakieś raporty?",
+          "AudioPath": "assets/pl/Harvey/348.ogg",
+          "TranslationKey": "Events/Hospital:571102:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Odbiór.. Dr. H na ziemi... Z tej strony Kos Piątka Zuzu. Jakieś raporty?"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s3",
+          "DialogueText": "Ktoś mnie słyszy!? {Portrait:Custom:10}",
+          "AudioPath": "assets/pl/Harvey/349.ogg",
+          "TranslationKey": "Events/Hospital:571102:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Ktoś mnie słyszy!?"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s4",
+          "DialogueText": "Em... To znaczy... Standardowy raport ziemny: Wiatr na 3 kliknięcia, 36 stopni na północny zachód. Temperatura ziemna na 42 wysokość. Wilgotność 53%. Dr. H bez odbioru! {Portrait:Custom:10}",
+          "AudioPath": "assets/pl/Harvey/350.ogg",
+          "TranslationKey": "Events/Hospital:571102:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... To znaczy... Standardowy raport ziemny: Wiatr na 3 kliknięcia, 36 stopni na północny zachód. Temperatura ziemna na 42 wysokość. Wilgotność 53%. Dr. H bez odbioru!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s5",
+          "DialogueText": "Aj, mój puls jest wysoki... {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/351.ogg",
+          "TranslationKey": "Events/Hospital:571102:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Aj, mój puls jest wysoki..."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s6",
+          "DialogueText": "{Farmer_Name}!",
+          "AudioPath": "assets/pl/Harvey/352.ogg",
+          "TranslationKey": "Events/Hospital:571102:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s7",
+          "DialogueText": "Zapytaj Harveya co się stało.",
+          "AudioPath": "assets/pl/Harvey/353.ogg",
+          "TranslationKey": "Events/Hospital:571102:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Zapytaj Harveya co się stało."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s8",
+          "DialogueText": "Udawaj, że nic się nie stało.",
+          "AudioPath": "assets/pl/Harvey/354.ogg",
+          "TranslationKey": "Events/Hospital:571102:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Udawaj, że nic się nie stało."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s9",
+          "DialogueText": "Ach... Widzisz, właśnie grzebałem w moim radiu... i skontaktowałem się z prawdziwym pilotem!",
+          "AudioPath": "assets/pl/Harvey/355.ogg",
+          "TranslationKey": "Events/Hospital:571102:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... Widzisz, właśnie grzebałem w moim radiu... i skontaktowałem się z prawdziwym pilotem!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s10",
+          "DialogueText": "W sumie pewnie zobaczymy go teraz jak nad nami lata!",
+          "AudioPath": "assets/pl/Harvey/356.ogg",
+          "TranslationKey": "Events/Hospital:571102:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "W sumie pewnie zobaczymy go teraz jak nad nami lata!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s11",
+          "DialogueText": "Szybko, chodź tu!",
+          "AudioPath": "assets/pl/Harvey/357.ogg",
+          "TranslationKey": "Events/Hospital:571102:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Szybko, chodź tu!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s12",
+          "DialogueText": "Patrz!",
+          "AudioPath": "assets/pl/Harvey/358.ogg",
+          "TranslationKey": "Events/Hospital:571102:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Patrz!"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s13",
+          "DialogueText": "Jako dziecko, zawsze marzyłem, żeby zostać pilotem.",
+          "AudioPath": "assets/pl/Harvey/359.ogg",
+          "TranslationKey": "Events/Hospital:571102:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Jako dziecko, zawsze marzyłem, żeby zostać pilotem."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s14",
+          "DialogueText": "... Ale z moim słabym wzrokiem i lękiem wysokości to marzenie zaczęło zanikać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/360.ogg",
+          "TranslationKey": "Events/Hospital:571102:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ale z moim słabym wzrokiem i lękiem wysokości to marzenie zaczęło zanikać."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s15",
+          "DialogueText": "Jest dobrze... nie martw się.",
+          "AudioPath": "assets/pl/Harvey/361.ogg",
+          "TranslationKey": "Events/Hospital:571102:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest dobrze... nie martw się."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s16",
+          "DialogueText": "Dorosłem i zaakceptowałem mój los. Nie każdego marzenia się spełniają... tak działa ten świat.",
+          "AudioPath": "assets/pl/Harvey/362.ogg",
+          "TranslationKey": "Events/Hospital:571102:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Dorosłem i zaakceptowałem mój los. Nie każdego marzenia się spełniają... tak działa ten świat."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/571102:s17",
+          "DialogueText": "Hej, pokażę Ci moje modele samolotów. Właśnie skończyłem nowy zestaw deluxe samolotu TR-Starbird. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/363.ogg",
+          "TranslationKey": "Events/Hospital:571102:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, pokażę Ci moje modele samolotów. Właśnie skończyłem nowy zestaw deluxe samolotu TR-Starbird."
+        },
+        {
+          "DialogueFrom": "Event/Hospital/PlayerKilled:s0",
+          "DialogueText": "Ktoś znalazł Cię nieprzytomnego na ziemi... Musiałem Cię operować!",
+          "AudioPath": "assets/pl/Harvey/364_male.ogg",
+          "TranslationKey": "Events/Hospital:PlayerKilled:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ktoś znalazł Cię nieprzytomnego na ziemi... Musiałem Cię operować!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/PlayerKilled:s1",
+          "DialogueText": "Ktoś znalazł Cię nieprzytomną na ziemi... Musiałem Cię operować!",
+          "AudioPath": "assets/pl/Harvey/365_female.ogg",
+          "TranslationKey": "Events/Hospital:PlayerKilled:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Ktoś znalazł Cię nieprzytomną na ziemi... Musiałem Cię operować!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Hospital/PlayerKilled:s2",
+          "DialogueText": "Następnym razem uważaj na siebie, ok? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/366.ogg",
+          "TranslationKey": "Events/Hospital:PlayerKilled:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Następnym razem uważaj na siebie, ok?"
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s0",
+          "DialogueText": "Wybacz że jestem taki rozczochrany... nie wiedziałem, że będę miał gości. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/367.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz że jestem taki rozczochrany... nie wiedziałem, że będę miał gości."
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s1",
+          "DialogueText": "Hej, chyba słyszałem samolot...",
+          "AudioPath": "assets/pl/Harvey/368.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, chyba słyszałem samolot..."
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s2",
+          "DialogueText": "{Farmer_Name}, podejdź tu!",
+          "AudioPath": "assets/pl/Harvey/369.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s2",
+          "PageIndex": 0,
+          "DisplayPattern": ", podejdź tu!"
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s3",
+          "DialogueText": "Patrz!",
+          "AudioPath": "assets/pl/Harvey/370.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Patrz!"
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s4",
+          "DialogueText": "Za dzieciaka marzyłem o zostaniu pilotem.",
+          "AudioPath": "assets/pl/Harvey/371.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Za dzieciaka marzyłem o zostaniu pilotem."
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s5",
+          "DialogueText": "... Ale z moim słabym wzrokiem i lękiem wysokości to marzenie zaczęło zanikać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/372.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ale z moim słabym wzrokiem i lękiem wysokości to marzenie zaczęło zanikać."
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s6",
+          "DialogueText": "Jest dobrze... nie martw się.",
+          "AudioPath": "assets/pl/Harvey/373.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest dobrze... nie martw się."
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s7",
+          "DialogueText": "Dorosłem i zaakceptowałem mój los. Nie każdego marzenia się spełniają... tak działa ten świat.",
+          "AudioPath": "assets/pl/Harvey/374.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Dorosłem i zaakceptowałem mój los. Nie każdego marzenia się spełniają... tak działa ten świat."
+        },
+        {
+          "DialogueFrom": "Event/HarveyRoom/normal:s8",
+          "DialogueText": "Hej, pokażę Ci moje modele samolotów. Właśnie skończyłem nowy zestaw deluxe samolotu TR-Starbird. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/375.ogg",
+          "TranslationKey": "Events/HarveyRoom:normal:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, pokażę Ci moje modele samolotów. Właśnie skończyłem nowy zestaw deluxe samolotu TR-Starbird."
+        },
+        {
+          "DialogueFrom": "Event/Forest/3910975:s0",
+          "DialogueText": "... Przeprowadziłem płukanie żołądka i nawodniłem jego organizm. Raczej nic mu nie będzie.",
+          "AudioPath": "assets/pl/Harvey/376.ogg",
+          "TranslationKey": "Events/Forest:3910975:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "... Przeprowadziłem płukanie żołądka i nawodniłem jego organizm. Raczej nic mu nie będzie."
+        },
+        {
+          "DialogueFrom": "Event/Forest/3910975:s1",
+          "DialogueText": "Dobrze, że miał Cię przy sobie.",
+          "AudioPath": "assets/pl/Harvey/377.ogg",
+          "TranslationKey": "Events/Forest:3910975:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze, że miał Cię przy sobie."
+        },
+        {
+          "DialogueFrom": "Event/Forest/3910975:s2",
+          "DialogueText": "Zbyt duża ilość alkoholu jest zła dla organizmu... ale bardziej bym się martwił jego zdrowiem psychicznym... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/378.ogg",
+          "TranslationKey": "Events/Forest:3910975:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Zbyt duża ilość alkoholu jest zła dla organizmu... ale bardziej bym się martwił jego zdrowiem psychicznym..."
+        },
+        {
+          "DialogueFrom": "Event/Forest/3910975:s3",
+          "DialogueText": "Gdy się ocknie, będę musiał z nim porozmawiać o możliwościach leczenia. Znam dobrego psychologa w Mieście Zuzu...",
+          "AudioPath": "assets/pl/Harvey/379.ogg",
+          "TranslationKey": "Events/Forest:3910975:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy się ocknie, będę musiał z nim porozmawiać o możliwościach leczenia. Znam dobrego psychologa w Mieście Zuzu..."
+        },
+        {
+          "DialogueFrom": "Event/Forest/3910975:s4",
+          "DialogueText": "Czasami życie może być bolesne...",
+          "AudioPath": "assets/pl/Harvey/380.ogg",
+          "TranslationKey": "Events/Forest:3910975:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Czasami życie może być bolesne..."
+        },
+        {
+          "DialogueFrom": "Event/Forest/3910975:s5",
+          "DialogueText": "Ale zawsze jest nadzieja na lepsze jutro. Trzeba w to uwierzyć.",
+          "AudioPath": "assets/pl/Harvey/381.ogg",
+          "TranslationKey": "Events/Forest:3910975:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale zawsze jest nadzieja na lepsze jutro. Trzeba w to uwierzyć."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s0",
+          "DialogueText": "Jesteś... i to punktualnie! {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/382.ogg",
+          "TranslationKey": "Events/Railroad:528052:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Jesteś... i to punktualnie!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s1",
+          "DialogueText": "Patrz, już jest! {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/383.ogg",
+          "TranslationKey": "Events/Railroad:528052:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Patrz, już jest!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s2",
+          "DialogueText": "Wynajem Balonów Marcello do usług!",
+          "AudioPath": "assets/pl/Harvey/384.ogg",
+          "TranslationKey": "Events/Railroad:528052:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wynajem Balonów Marcello do usług!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s3",
+          "DialogueText": "Marcello: Jest wasz na dwie godziny.",
+          "AudioPath": "assets/pl/Harvey/385.ogg",
+          "TranslationKey": "Events/Railroad:528052:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Marcello: Jest wasz na dwie godziny."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s4",
+          "DialogueText": "Marcello: Podobno gdzieś tu jest jakaś knajpa?",
+          "AudioPath": "assets/pl/Harvey/386.ogg",
+          "TranslationKey": "Events/Railroad:528052:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Marcello: Podobno gdzieś tu jest jakaś knajpa?"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s5",
+          "DialogueText": "Widziałem reklamę balonów do wynajęcia i wiedziałem, że muszę Ci zrobić niespodziankę.",
+          "AudioPath": "assets/pl/Harvey/387.ogg",
+          "TranslationKey": "Events/Railroad:528052:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Widziałem reklamę balonów do wynajęcia i wiedziałem, że muszę Ci zrobić niespodziankę."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s6",
+          "DialogueText": "Wygląda fajnie! No to lecimy!",
+          "AudioPath": "assets/pl/Harvey/388.ogg",
+          "TranslationKey": "Events/Railroad:528052:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Wygląda fajnie! No to lecimy!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s7",
+          "DialogueText": "... Nie masz lęku wysokości?",
+          "AudioPath": "assets/pl/Harvey/389.ogg",
+          "TranslationKey": "Events/Railroad:528052:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie masz lęku wysokości?"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s8",
+          "DialogueText": "Ok... Ja za Tobą. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/390.ogg",
+          "TranslationKey": "Events/Railroad:528052:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok... Ja za Tobą."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s9",
+          "DialogueText": "My... Jesteśmy bardzo wysoko... *przełknięcie* {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/391.ogg",
+          "TranslationKey": "Events/Railroad:528052:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "My... Jesteśmy bardzo wysoko... *przełknięcie*"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s10",
+          "DialogueText": "Chciałem Ci tym zaimponować ale... spójrz tylko na mnie. Jestem tchórzem. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/392.ogg",
+          "TranslationKey": "Events/Railroad:528052:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałem Ci tym zaimponować ale... spójrz tylko na mnie. Jestem tchórzem."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s11",
+          "DialogueText": "Cóż, masz wystarczająco odwagi za nas dwoje, {Farmer_Name}... To... to dlatego Cię lubię. {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/393.ogg",
+          "TranslationKey": "Events/Railroad:528052:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, masz wystarczająco odwagi za nas dwoje, ... To... to dlatego Cię lubię."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s12",
+          "DialogueText": "Ok, otworzę oczy i popatrzę w dół... tylko nie puszczaj mojej dłoni. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/394.ogg",
+          "TranslationKey": "Events/Railroad:528052:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok, otworzę oczy i popatrzę w dół... tylko nie puszczaj mojej dłoni."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s13",
+          "DialogueText": "Myślę... myślę, że dam radę. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/395.ogg",
+          "TranslationKey": "Events/Railroad:528052:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślę... myślę, że dam radę."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s14",
+          "DialogueText": "Hej, to jest niesamowite! Chyba widzę stąd Burmistrza Lewisa! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/396.ogg",
+          "TranslationKey": "Events/Railroad:528052:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, to jest niesamowite! Chyba widzę stąd Burmistrza Lewisa!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s15",
+          "DialogueText": "O rety... prawie skończył nam się czas. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/397.ogg",
+          "TranslationKey": "Events/Railroad:528052:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "O rety... prawie skończył nam się czas."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s16",
+          "DialogueText": "Em... {Farmer_Name}? Znamy się dość długo i... ja... emm... {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/398.ogg",
+          "TranslationKey": "Events/Railroad:528052:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... ? Znamy się dość długo i... ja... emm..."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s17",
+          "DialogueText": "... {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/399.ogg",
+          "TranslationKey": "Events/Railroad:528052:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s18",
+          "DialogueText": "Ups... nasz czas minął już pół godziny temu. Pora wracać na ziemię. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/400.ogg",
+          "TranslationKey": "Events/Railroad:528052:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "Ups... nasz czas minął już pół godziny temu. Pora wracać na ziemię."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/528052:s19",
+          "DialogueText": "Nigdy jeszcze się tak dobrze nie bawiłem. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/401.ogg",
+          "TranslationKey": "Events/Railroad:528052:s19",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy jeszcze się tak dobrze nie bawiłem."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s0",
+          "DialogueText": "Tak... jestem. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/402.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak... jestem."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s1",
+          "DialogueText": "Postanowiłem, że już mnie nic nie powstrzyma od tego, czego pragnę... Mam nadzieję, że doświadczymy tego razem. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/403.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Postanowiłem, że już mnie nic nie powstrzyma od tego, czego pragnę... Mam nadzieję, że doświadczymy tego razem."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s2",
+          "DialogueText": "Postaram się nie bać.",
+          "AudioPath": "assets/pl/Harvey/404.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Postaram się nie bać."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s3",
+          "DialogueText": "My... jesteśmy bardzo wysoko...*przełknięcie* {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/405.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "My... jesteśmy bardzo wysoko...*przełknięcie*"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s4",
+          "DialogueText": "Chciałem Ci tym zaimponować ale... spójrz tylko na mnie. Jestem tchórzem. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Harvey/406.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałem Ci tym zaimponować ale... spójrz tylko na mnie. Jestem tchórzem."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s5",
+          "DialogueText": "Cóż, masz wystarczająco odwagi za nas dwoje, {Farmer_Name}... To... to dlatego Cię lubię. {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/407.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, masz wystarczająco odwagi za nas dwoje, ... To... to dlatego Cię lubię."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s6",
+          "DialogueText": "Ok, otworzę oczy i popatrzę w dół... tylko nie puszczaj mojej dłoni. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/408.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok, otworzę oczy i popatrzę w dół... tylko nie puszczaj mojej dłoni."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s7",
+          "DialogueText": "Myślę... myślę, że dam radę. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/409.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślę... myślę, że dam radę."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s8",
+          "DialogueText": "Hej, to jest niesamowite! Chyba widzę stąd Burmistrza Lewisa! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/410.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, to jest niesamowite! Chyba widzę stąd Burmistrza Lewisa!"
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s9",
+          "DialogueText": "O rety... prawie skończył nam się czas. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/411.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "O rety... prawie skończył nam się czas."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s10",
+          "DialogueText": "Em... {Farmer_Name}? Znamy się dość długo i teraz... ja... emm... {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/412.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... ? Znamy się dość długo i teraz... ja... emm..."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s11",
+          "DialogueText": "... {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/413.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s12",
+          "DialogueText": "Ups... nasz czas minął już pół godziny temu. Pora wracać na ziemię. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/414.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Ups... nasz czas minął już pół godziny temu. Pora wracać na ziemię."
+        },
+        {
+          "DialogueFrom": "Event/Railroad/afraid:s13",
+          "DialogueText": "Nigdy jeszcze się tak dobrze nie bawiłem. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/415.ogg",
+          "TranslationKey": "Events/Railroad:afraid:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy jeszcze się tak dobrze nie bawiłem."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Harvey_spouse",
+          "DialogueText": "Zaczekam tu na Ciebie...",
+          "AudioPath": "assets/pl/Harvey/416.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Harvey_spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaczekam tu na Ciebie..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Harvey",
+          "DialogueText": "Gus grilluje wieprzowe żeberka... Mmhm. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/417.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Gus grilluje wieprzowe żeberka... Mmhm."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Harvey",
+          "DialogueText": "Muszę się dobrze zastanowić... {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/418.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Muszę się dobrze zastanowić..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Harvey_spouse_y2",
+          "DialogueText": "Cześć, Kochanie. Powodzenia w dzisiejszej konkurencji. Po prostu wiem, że zabłyśniesz! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/419.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Kochanie. Powodzenia w dzisiejszej konkurencji. Po prostu wiem, że zabłyśniesz!"
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Harvey_y2",
+          "DialogueText": "Jestem Zdumiony poziomem rzemiosła, który tu zaprezentowano. Niektórzy są bardzo utalentowani! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/420.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem Zdumiony poziomem rzemiosła, który tu zaprezentowano. Niektórzy są bardzo utalentowani!"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Harvey_spouse",
+          "DialogueText": "Cześć... Miałem nadzieję, że mnie znajdziesz... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/421.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Harvey_spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć... Miałem nadzieję, że mnie znajdziesz..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Harvey",
+          "DialogueText": "Och! Masz mnie... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/422.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Och! Masz mnie..."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Harvey",
+          "DialogueText": "Tak naprawdę to się boję i schowałem się tutaj. Nie mów nikomu. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/423.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak naprawdę to się boję i schowałem się tutaj. Nie mów nikomu."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Harvey_spouse_y2",
+          "DialogueText": "Właśnie się zastanawiałem kiedy Cię spotkam. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/424.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Właśnie się zastanawiałem kiedy Cię spotkam."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Harvey_spouse_y2",
+          "DialogueText": "Nie zwracaj na mnie uwagi. Musze sobie trochę odpocząć. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/425.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Harvey_spouse_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie zwracaj na mnie uwagi. Musze sobie trochę odpocząć."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Harvey_y2",
+          "DialogueText": "Boję się przyznać, że jestem tym dość zdziwiony... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/426.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Boję się przyznać, że jestem tym dość zdziwiony..."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Harvey_spouse",
+          "DialogueText": "Jak się wszyscy mają? Ja mam chwilową przerwę. Nie mogę się doczekać aż cię zobaczę podczas polowania na jajka!",
+          "AudioPath": "assets/pl/Harvey/427.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Harvey_spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak się wszyscy mają? Ja mam chwilową przerwę. Nie mogę się doczekać aż cię zobaczę podczas polowania na jajka!"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Harvey",
+          "DialogueText": "Jajka na pewno mają swoje miejsce w dobrze zbalansowanej diecie.",
+          "AudioPath": "assets/pl/Harvey/428.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Jajka na pewno mają swoje miejsce w dobrze zbalansowanej diecie."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Harvey",
+          "DialogueText": "Ups... Lepiej włożę mój fartuch na ten dzień. {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/429.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Ups... Lepiej włożę mój fartuch na ten dzień."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Harvey_y2",
+          "DialogueText": "Jajka są w porządku, ale nie zalecam jedzenia trzydziestu na dzień!",
+          "AudioPath": "assets/pl/Harvey/430.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jajka są w porządku, ale nie zalecam jedzenia trzydziestu na dzień!"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Harvey",
+          "DialogueText": "Próbuję spytać kogoś o taniec. {Portrait:Custom:11}",
+          "AudioPath": "assets/pl/Harvey/431.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Próbuję spytać kogoś o taniec."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Harvey_spouse_y2",
+          "DialogueText": "Ubrałem na tą okazje mój najlepszy krawat. {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/432.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ubrałem na tą okazje mój najlepszy krawat."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Harvey_y2",
+          "DialogueText": "Jeśli poświęcisz trochę czasu na rozmyślanie o życiowych trudnościach, można na nie spojrzeć z właściwej perspektywy. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/433.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli poświęcisz trochę czasu na rozmyślanie o życiowych trudnościach, można na nie spojrzeć z właściwej perspektywy."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Harvey_y2",
+          "DialogueText": "Nagle taniec na oczach całego miasteczka w źle dopasowanym stroju nie wydaje się taki zły! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/434.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Harvey_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Nagle taniec na oczach całego miasteczka w źle dopasowanym stroju nie wydaje się taki zły!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Harvey_spouse",
+          "DialogueText": "Kochanie... Mam piach w skarpetkach... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/435.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Harvey_spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Kochanie... Mam piach w skarkach..."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Harvey",
+          "DialogueText": "Dobrze, że mam krem do opalania.",
+          "AudioPath": "assets/pl/Harvey/436.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze, że mam krem do opalania."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Harvey",
+          "DialogueText": "Zastanawiam się czy Maru chciałaby trochę kremu?",
+          "AudioPath": "assets/pl/Harvey/437.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Zastanawiam się czy Maru chciałaby trochę kremu?"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Harvey_spouse_y2",
+          "DialogueText": "Przez tę muzykę nogi mi same skaczą... tak jak na aerobiku! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/438.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Przez tę muzykę nogi mi same skaczą... tak jak na aerobiku!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Harvey_y2",
+          "DialogueText": "*dyszy*... *dyszy*... Ach, nie mogę się doczekać na michę gorącej zupy... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/439.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "*dyszy*... *dyszy*... Ach, nie mogę się doczekać na michę gorącej zupy..."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Harvey",
+          "DialogueText": "Lato się skończyło. Tak szczerze, cieszę się, że możemy pożegnać te głupie komary!",
+          "AudioPath": "assets/pl/Harvey/440.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Lato się skończyło. Tak szczerze, cieszę się, że możemy pożegnać te głupie komary!"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Harvey_spouse_y2",
+          "DialogueText": "Cześć, Skarbie. Wkrótce pojawią się meduzy... To się nigdy nie zestarzeje! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/441.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Skarbie. Wkrótce pojawią się meduzy... To się nigdy nie zestarzeje!"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Harvey_y2",
+          "DialogueText": "Z każdą mijającą porą roku, rośnie moje zaangażowanie... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/442.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Z każdą mijającą porą roku, rośnie moje zaangażowanie..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Harvey_spouse",
+          "DialogueText": "Czuję się trochę przytłoczony... Dzięki Bogu za to czyste powietrze... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/443.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Harvey_spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Czuję się trochę przytłoczony... Dzięki Bogu za to czyste powietrze..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Harvey",
+          "DialogueText": "Jestem wdzięczny za to, że nie było żadnych nagłych wypadków!",
+          "AudioPath": "assets/pl/Harvey/444.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem wdzięczny za to, że nie było żadnych nagłych wypadków!"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Harvey_spouse_y2",
+          "DialogueText": "Jest dużo rzeczy, za które jestem wdzięczny, takie jak moja klinika, zdrowi pacjenci...",
+          "AudioPath": "assets/pl/Harvey/445.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest dużo rzeczy, za które jestem wdzięczny, takie jak moja klinika, zdrowi pacjenci..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Harvey_spouse_y2",
+          "DialogueText": "Ale ostatecznie jestem najbardziej wdzięczny za nasze wspólne życie... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/446.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Harvey_spouse_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale ostatecznie jestem najbardziej wdzięczny za nasze wspólne życie..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Harvey_y2",
+          "DialogueText": "Próbowałeś ciasta orzechowego? Moje ulubione. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/447_male.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Próbowałeś ciasta orzechowego? Moje ulubione.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Harvey_y2",
+          "DialogueText": "Próbowałaś ciasta orzechowego? Moje ulubione. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/448_female.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Harvey_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Próbowałaś ciasta orzechowego? Moje ulubione.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Harvey_spouse",
+          "DialogueText": "Marzę o ciepłym kominku w domu... {Portrait:Love}",
+          "AudioPath": "assets/pl/Harvey/449.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Harvey_spouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Marzę o ciepłym kominku w domu..."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Harvey",
+          "DialogueText": "Ekstremalna temperatura potrafi sprawić, że Twoje ciało jest pod strasznym stresem, więc ubierz się ciepło!",
+          "AudioPath": "assets/pl/Harvey/450.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Ekstremalna temperatura potrafi sprawić, że Twoje ciało jest pod strasznym stresem, więc ubierz się ciepło!"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Harvey",
+          "DialogueText": "O! i miłego festiwalu! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/451.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "O! i miłego festiwalu!"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Harvey_spouse_y2",
+          "DialogueText": "Cześć, Skarbie. Powodzenia w dzisiejszych zawodach. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Harvey/452.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Harvey_spouse_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Skarbie. Powodzenia w dzisiejszych zawodach."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Harvey_y2",
+          "DialogueText": "Nie powinienem dzisiaj nakładać wosku na wąsy, są zamarznięte! Ojej... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/453.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Harvey_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie powinienem dzisiaj nakładać wosku na wąsy, są zamarznięte! Ojej..."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Harvey_y2",
+          "DialogueText": "Cóż, jeśli będzie Ci trzeba szpikulca, wiesz gdzie mnie znaleźć... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/454.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Harvey_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, jeśli będzie Ci trzeba szpikulca, wiesz gdzie mnie znaleźć..."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Harvey:s0",
+          "DialogueText": "To dla mnie? Uwielbiam to! Chyba mi czytasz w myślach.",
+          "AudioPath": "assets/pl/Harvey/455.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Harvey:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "To dla mnie? Uwielbiam to! Chyba mi czytasz w myślach."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Harvey:s1",
+          "DialogueText": "To bardzo dobry prezent. Dziękuję!",
+          "AudioPath": "assets/pl/Harvey/456.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Harvey:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "To bardzo dobry prezent. Dziękuję!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Harvey:s2",
+          "DialogueText": "Hmm... Czy to aby na pewno jest zdrowe?",
+          "AudioPath": "assets/pl/Harvey/457.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Harvey:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Czy to aby na pewno jest zdrowe?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Harvey:s3",
+          "DialogueText": "... Chyba jestem na to uczulony.",
+          "AudioPath": "assets/pl/Harvey/458.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Harvey:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "... Chyba jestem na to uczulony."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Harvey:s4",
+          "DialogueText": "Dziękuję. To miłe z Twojej strony.",
+          "AudioPath": "assets/pl/Harvey/459.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Harvey:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję. To miłe z Twojej strony."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Harvey",
+          "DialogueText": "Gdy jestem obok Ciebie, nie boję się, że spadnę z tego klifu... {Portrait:Love}\"/jump Harvey/shake Harvey 1000/pause 1000/speak Harvey \"... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/460.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy jestem obok Ciebie, nie boję się, że spadnę z tego klifu...\"/jump Harvey/shake Harvey 1000/pause 1000/speak Harvey \"..."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Harvey",
+          "DialogueText": "T... tak bardzo Cię kocham i podziwiam, {Farmer_Name}... {Portrait:Love}\"",
+          "AudioPath": "assets/pl/Harvey/461.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "T... tak bardzo Cię kocham i podziwiam, ...\""
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_spring_movie_1_BeforeMovie",
+          "DialogueText": "Troszkę się denerwuję... *przełknięcie*",
+          "AudioPath": "assets/pl/Harvey/462.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_spring_movie_1_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Troszkę się denerwuję... *przełknięcie*"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_spring_movie_1_DuringMovie",
+          "DialogueText": "Boję się! {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/463.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_spring_movie_1_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Boję się!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_spring_movie_1_DuringMovie_2",
+          "DialogueText": "Harvey się trzęsie!",
+          "AudioPath": "assets/pl/Harvey/464.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_spring_movie_1_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Harvey się trzęsie!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_spring_movie_1_AfterMovie",
+          "DialogueText": "Mam lęk wysokości, więc te zdjęcia lotnicze naprawdę do mnie trafiły... Ale i tak dobrze się bawiłem. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/465.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_spring_movie_1_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam lęk wysokości, więc te zdjęcia lotnicze naprawdę do mnie trafiły... Ale i tak dobrze się bawiłem."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_love_BeforeMovie",
+          "DialogueText": "Przeczytałem świetną recenzje tego filmu w Gazecie Miasta Zuzu...",
+          "AudioPath": "assets/pl/Harvey/466.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_love_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Przeczytałem świetną recenzje tego filmu w Gazecie Miasta Zuzu..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_love_DuringMovie",
+          "DialogueText": "Skłania do myślenia, prawda?",
+          "AudioPath": "assets/pl/Harvey/467.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_love_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Skłania do myślenia, prawda?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_love_AfterMovie",
+          "DialogueText": "To było niesamowite! Cieszę się, że mogłem na to z Tobą pójść, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/468.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_love_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "To było niesamowite! Cieszę się, że mogłem na to z Tobą pójść, ."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_like_BeforeMovie",
+          "DialogueText": "Nie oglądam zbyt wielu filmów, ale ten został dobrze przyjęty, prawda?",
+          "AudioPath": "assets/pl/Harvey/469.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_like_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie oglądam zbyt wielu filmów, ale ten został dobrze przyjęty, prawda?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_like_AfterMovie",
+          "DialogueText": "To było ciekawe! Przez jakiś czas będę myślał o {0}.",
+          "AudioPath": "assets/pl/Harvey/470.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_like_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "To było ciekawe! Przez jakiś czas będę myślał o {0}."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_dislike_BeforeMovie",
+          "DialogueText": "Ten film wygląda na zbyt mocny... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/471.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_dislike_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten film wygląda na zbyt mocny..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_dislike_DuringMovie",
+          "DialogueText": "Słabo mi... {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Harvey/472.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_dislike_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Słabo mi..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_dislike_DuringMovie_2",
+          "DialogueText": "Ciśnienie Harveya gwałtownie rośnie!",
+          "AudioPath": "assets/pl/Harvey/473.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_dislike_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciśnienie Harveya gwałtownie rośnie!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Harvey_dislike_AfterMovie",
+          "DialogueText": "Jakoś mi słabo po tym filmie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Harvey/474.ogg",
+          "TranslationKey": "Strings/MovieReactions:Harvey_dislike_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Jakoś mi słabo po tym filmie..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Harvey_marriage",
+          "DialogueText": "Hej, {Farmer_Name}. Podczas festiwalu będę pracować do późna, więc nie czekaj na mnie!",
+          "AudioPath": "assets/pl/Harvey/475.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Harvey_marriage",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Podczas festiwalu będę pracować do późna, więc nie czekaj na mnie!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Harvey_marriage",
+          "DialogueText": "Obiecaj mi, że będziesz na siebie uważać w Kościanej Pieczarze.",
+          "AudioPath": "assets/pl/Harvey/476.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Harvey_marriage",
+          "PageIndex": 1,
+          "DisplayPattern": "Obiecaj mi, że będziesz na siebie uważać w Kościanej Pieczarze."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Harvey",
+          "DialogueText": "Wejście do jaskiń może być bardzo niebezpieczne. Mam nadzieję, że nie będzie żądnych wypadków, ale mimo to... będę tu cały dzień tak na wszelki wypadek.",
+          "AudioPath": "assets/pl/Harvey/477.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Wejście do jaskiń może być bardzo niebezpieczne. Mam nadzieję, że nie będzie żądnych wypadków, ale mimo to... będę tu cały dzień tak na wszelki wypadek."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Harvey",
+          "DialogueText": "Jako doktor, Zalecam zminimalizować kontakt z jaskiniami pełnymi węży! Ale ostatecznie to Twój wybór.",
+          "AudioPath": "assets/pl/Harvey/478.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Harvey",
+          "PageIndex": 1,
+          "DisplayPattern": "Jako doktor, Zalecam zminimalizować kontakt z jaskiniami pełnymi węży! Ale ostatecznie to Twój wybór."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Harvey",
+          "DialogueText": "Och, em... to modele samolotów, które złożyłem... podobają Ci się?",
+          "AudioPath": "assets/pl/Harvey/479.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Harvey",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, em... to modele samolotów, które złożyłem... podobają Ci się?"
+        }
+      ]
+    }
+  ]
+}

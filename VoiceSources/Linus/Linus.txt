@@ -1,0 +1,744 @@
+DialogueFrom: Introduction
+DialogueText: Nieznajomy? Witam.
+AudioName: 1_male.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: Nieznajoma? Witam.
+AudioName: 2_female.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: Nie zwracaj na mnie uwagi. Żyję tu samotnie.
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: To dla mnie wiele znaczy, {Farmer_Name}. Zachowam to na cichy dzień w namiocie. Dziękuję!
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)Book_Trash
+DialogueText: Zwykle nie czytam książek... Ale ta jest dla mnie 'idealna'. Dziękuję! {Portrait:Happy}
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_Positive_category_greens
+DialogueText: To dobre znalezisko! Zawsze cieszę się, jedząc dary dziczy. Dziękuję.
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: married
+DialogueText: Kiedyś myślałem o małżeństwie. Ale teraz jestem w szczęśliwym związku z wiatrem szeleszczącym liśćmi i żabami rechoczącymi pod srebrnym księżycem.
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Wszystkie te dziwne drzewa znikną jutro... to jedna z tajemnic natury.
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: GreenRainFinished
+DialogueText: Jak poszły zbiory mchu? He he... Moje łóżko jest teraz o wiele wygodniejsze.
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Zebrałem już wystarczająco mchu na cały rok. A ty?
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)774
+DialogueText: Zobaczmy... wygląda idealnie. Dobry z ciebie uczeń, {Farmer_Name}. {Portrait:Happy}
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)166
+DialogueText: Nie, dziękuję. Nie potrzebuję pieniędzy... Szczerze mówiąc, myślę, że są przeklęte. [166]
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_Positive_category_fish
+DialogueText: Ach, wygląda świeżo. Dziś będę dobrze jadł! {Portrait:Happy}
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: reject_869
+DialogueText: Co tam masz? Byłaby z tego dobra przynęta. {Portrait:Happy}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: cc_Boulder
+DialogueText: Mój stary druh, błyszczący głaz, poruszył się. Może nie brzmi to jak coś wielkiego, ale dla mnie to ogromna zmiana.
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: cc_Boulder
+DialogueText: Cieszę się, że stary kamień zobaczy więcej świata. {Portrait:Happy}
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: mineArea_80
+DialogueText: Niewiele osób zeszło tak głęboko w kopalniach jak ty.
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_8357109
+DialogueText: Tutejsza woda pochodzi z lodowców wysoko w górach.
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_8357109
+DialogueText: Byłem tam kiedyś, żeby oddać jej hołd.
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: movieTheater
+DialogueText: Kino? Hmm... Powolny rytm natury wystarczy mi jako dramat.
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: MovieInvitation
+DialogueText: Och... ja? Raczej bym nie poszedł, ale... dobrze. To miłe z twojej strony.
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: MovieInvitation
+DialogueText: Zaraz tam będę.
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: DumpsterDiveComment
+DialogueText: Znalazłeś coś ciekawego? {Portrait:Happy}
+AudioName: 23_male.ogg
+--------------------------------------------------
+DialogueFrom: DumpsterDiveComment
+DialogueText: Znalazłaś coś ciekawego? {Portrait:Happy}
+AudioName: 24_female.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Świeży zapach puszczy to wszystko, czego mi trzeba.
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Żyję tu, bo sam tak wybrałem.
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: ... Chcesz się ze mnie pośmiać?
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Po prostu zajmuję się swoimi sprawami.
+AudioName: 28.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Nie znam cię na tyle, by ci zaufać. Wybacz.
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: ... Hmm? Chcesz czegoś ode mnie?
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Proszę, nie niszcz mojego namiotu.
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Już raz ktoś mi go zniszczył. {Portrait:Sad}
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Jestem tu szczęśliwy.
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Nie potrzebuję nowych przyjaciół.
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: Sun4
+DialogueText: Miło by mi było, gdyby mieszkańcy zaakceptowali mnie takim, jakim jestem. {Portrait:Sad}
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: Sun4
+DialogueText: Lubię tu mieszkać. Dlatego nie rozumiem, czemu mnie odrzucają.
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: Tue4
+DialogueText: Da się nauczyć przetrwać w dziczy.
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Tue4
+DialogueText: Każdy ma w sobie ukrytą chęć powrotu do natury... tylko że trochę się tego boi.
+AudioName: 38.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Spędzam dużo czasu na myśleniu.
+AudioName: 39.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Jeśli znasz powody swoich myśli, osiągniesz nowy poziom bytu.
+AudioName: 40.ogg
+--------------------------------------------------
+DialogueFrom: Wed2
+DialogueText: Nie boję się nieznajomych. To większość ludzi nie lubi 'dzikusów'.
+AudioName: 41.ogg
+--------------------------------------------------
+DialogueFrom: Thu4
+DialogueText: Lokalni ludzie są mili, ale mnie unikają.
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: Thu4
+DialogueText: Ludzie boją się tego, czego nie rozumieją. {Portrait:Unique}
+AudioName: 43.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Możesz się wiele nauczyć od drzew.
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Spędź z nimi trochę czasu, a może zdradzą ci swoje sekrety.
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Odejdź w pokoju, młoda osobo.
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: Sat4
+DialogueText: Mam wszystko, czego potrzeba do przetrwania, a nawet więcej. Natura gra piękne melodie, jeśli nauczysz się słuchać.
+AudioName: 47.ogg
+--------------------------------------------------
+DialogueFrom: Sat4
+DialogueText: Spędzam też dużo czasu na czytaniu. Jednym z powodów, dla których tu jestem, jest ta wspaniała biblioteka.
+AudioName: 48.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: # {Portrait:Happy} linusVandal
+AudioName: 49.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: W nocy ktoś obrzucił mój namiot kamieniami... Musiałem to przeczekać. {Portrait:Sad}$k
+AudioName: 50.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Nie lubię siedzieć zbyt długo w jednym miejscu. Ten świat ma zbyt wiele do zaoferowania.
+AudioName: 51.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon4
+DialogueText: Przez te wszystkie lata odkryłem kilka tajemnic życia.
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon4
+DialogueText: Musisz je odnaleźć sam.
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: # {Portrait:Happy} LinusHeron
+AudioName: 54.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: Widziałem czaplę brodzącą z gracją przez poranną mgłę. Takie są skarby cichego życia.$k
+AudioName: 55.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: Łatwo jest dać się porwać dźwiękom nowoczesnego życia. Najlepsze lata przeminą jak rozmazany ślad.
+AudioName: 56.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue4
+DialogueText: Jak się miewasz, przyjacielu?
+AudioName: 57.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed6
+DialogueText: Aach... lato. Ciepło ogrzewa mi puszki.
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed6
+DialogueText: A na noc mam ciepły posiłek.
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu4
+DialogueText: Mam swoje powody, dla których żyję tu samotnie.
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu4
+DialogueText: Niektórych rzeczy lepiej nie mówić...
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: summer_Thu4
+DialogueText: Powinienem iść czegoś poszukać.
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: summer_Fri4
+DialogueText: Za każdym razem, gdy łapiesz rybę, podziękuj jej za poświęcenie.
+AudioName: 63.ogg
+--------------------------------------------------
+DialogueFrom: summer_Fri4
+DialogueText: To dobre ćwiczenie umysłu. Musimy być świadomi wpływu, jaki wywieramy na otoczenie.
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat4
+DialogueText: Teraz w strumieniach pływają tęczowe pstrągi.
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Dla mnie to łatwiejsza pora roku. Nie muszę się martwić o zimno.
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Na dodatek, owoce rosną wszędzie.
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: Byłem głęboko w kopalniach.
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: Powiedziały mi sekret.
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: Mówiły, żeby uważać, schodząc w dół.
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: # {Portrait:Happy} LinusFall1
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Ostatniej nocy jakiś żartowniś obsmarował mój dom farbą... Godzinami to szorowałem.$k
+AudioName: 72.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Muszę zacząć zbierać drewno na zimę.
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue4
+DialogueText: Masz wystarczająco drewna, by ogrzać swój dom?
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed4
+DialogueText: Nie mam zbyt wielu obowiązków, więc rozmyślam.
+AudioName: 75.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed4
+DialogueText: Musisz zrozumieć swoje myśli, zanim zaczniesz je kontrolować.
+AudioName: 76.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun
+DialogueText: Nie lubię przebywać zbyt długo w jednym miejscu.
+AudioName: 77.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sun6
+DialogueText: Nie ma to jak uczta z dzikich grzybów jesienią. {Portrait:Happy}
+AudioName: 78.ogg
+--------------------------------------------------
+DialogueFrom: winter_Mon
+DialogueText: W namiocie potrafi być bardzo zimno. {Portrait:Sad}
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: winter_Mon4
+DialogueText: Kiedy naprawdę oderwiesz się od współczesnego życia, zaczynasz cieszyć się prostymi rzeczami... takimi jak słońce, dojrzałe owoce czy znalezienie patyka o idealnym kształcie.
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue4
+DialogueText: Dzięki, że mnie nie ignorujesz, {Farmer_Name}. Tylko inteligentne osoby potrafią przezwyciężyć swoje podstawowe instynkty.
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue4
+DialogueText: Jestem człowiekiem jak każdy inny. Po prostu żyję inaczej.
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed4
+DialogueText: Rozumiesz, czemu ostrożnie podchodzę do nieznajomych.
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed4
+DialogueText: Ale zapomnijmy o tym, dobrze? Chyba jesteśmy już przyjaciółmi.
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu4
+DialogueText: Zima jest ciężka, ale nadal można zbierać i łowić ryby.
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: winter_Thu4
+DialogueText: Jeśli masz zwierzęta, lepiej trzymaj je w cieple.
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri4
+DialogueText: Zimą drzewa śpią. Przez to czuję się samotnie.
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri4
+DialogueText: Ale nie mogę zaprzeczyć ich pięknu podczas snu. {Portrait:Happy}
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat4
+DialogueText: Dzięki za odwiedziny. W sumie czułem się trochę samotny.
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat4
+DialogueText: Jak tam? Coś nowego w kopalniach?
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Spanie na ziemi dobrze robi na plecy.
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sun
+DialogueText: Zawsze warto szukać pozytywów. {Portrait:Happy}
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: rainy
+DialogueText: Ciepły deszcz to bardzo przyjemny sposób na kąpiel. {Portrait:Happy}
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s0
+DialogueText: To byłem ja... przepraszam. {Portrait:Sad}
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s1
+DialogueText: W tych koszach znajduję dużo ciepłego i świeżego jedzenia... rzeczy, które by się zmarnowały, jakbym ich nie wziął.
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s2
+DialogueText: Myślisz, że jest coś złego w tym co robię?
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s3
+DialogueText: Obleśne dla Ciebie. Dla mnie, to sposób na życie. I jeszcze nie zachorowałem. Jem tylko to, co wygląda na świeże.
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s4
+DialogueText: Dzięki, {Farmer_Name}. Wiedziałem, że jesteś osobą o otwartym umyśle. Dobrze się czuję z tym co robię. Nikogo nie krzywdzę. {Portrait:Happy}
+AudioName: 98.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s5
+DialogueText: Nie wierzę we 'własność prywatną
+AudioName: 99.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s6
+DialogueText: Nie wszyscy są odcięci od tego świata, {Farmer_Name}. Nie wiesz jak to jest być mną. Nikogo nie krzywdzę, chcę żyć na własną rękę. Czy to źle?'
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s7
+DialogueText: Możesz iść do domu. Obiecuję, że nie będę już nigdy więcej grzebać w koszu Georga.
+AudioName: 101.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s8
+DialogueText: Możesz powiedzieć, że wystraszyłeś te szopy na dobre.
+AudioName: 102_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/502969:s9
+DialogueText: Możesz powiedzieć, że wystraszyłaś te szopy na dobre.
+AudioName: 103_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s0
+DialogueText: {Farmer_Name}! Podejdź do ogniska. To takie przyjemne uczucie.
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s1
+DialogueText: Miałem nadzieję, że kiedyś przyjdziesz.
+AudioName: 105.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s2
+DialogueText: Chciałem Cię przeprosić za to, że Ci nie ufałem. {Portrait:Sad}
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s3
+DialogueText: Większość ludzi traktuje mnie źle, więc jestem ostrożny. {Portrait:Sad}
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s4
+DialogueText: Ale ty byłeś dla mnie wyjątkowo miły. {Portrait:Happy}
+AudioName: 108_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s5
+DialogueText: Ale ty byłaś dla mnie wyjątkowo miła. {Portrait:Happy}
+AudioName: 109_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s6
+DialogueText: ... I uważam Cię za dobrego przyjaciela.
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s7
+DialogueText: Hej, chcę Ci coś pokazać. Wejdź do środka. {Portrait:Happy}
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s8
+DialogueText: Ach... Tu jest. Widzisz to? To moja specjalna przynęta na ryby.
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s9
+DialogueText: To jest przynęta najwyższej jakości... Sam bym ją zjadł!
+AudioName: 113.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s10
+DialogueText: Proszę, tu masz przepis.
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/26:s11
+DialogueText: Umiesz wytwarzać: 'Dzika Przynęta'
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s0
+DialogueText: To bardzo miłe z Twojej strony, ale podziękuję! Miałem dziś szczęście przy zbieraniu. {Portrait:Happy}
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s1
+DialogueText: Er... {Portrait:Sad}
+AudioName: 117.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s2
+DialogueText: Um... Nie, dzięki. {Portrait:Sad}
+AudioName: 118.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s3
+DialogueText: Doceniam Twoją życzliwość... naprawdę... {Portrait:Sad}
+AudioName: 119.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s4
+DialogueText: Ale... już Ci mówiłem... Wybrałem to życie...
+AudioName: 120.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s5
+DialogueText: Lubię spędzać czas w samotności... lubię ciszę... poruszać się w rytmie natury...
+AudioName: 121.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s6
+DialogueText: To sposób życia, który mi się podoba. Nie chcę tego wcale zmieniać.
+AudioName: 122.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s7
+DialogueText: {Farmer_Name}... Bardzo cenię sobie naszą przyjaźń. I wiem, że ty też. {Portrait:Happy}
+AudioName: 123.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s8
+DialogueText: Ale... ale nie musisz próbować mi 'pomagać'... Dobrze wiem jak radzić sobie w życiu... W porządku?
+AudioName: 124.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/371652:s9
+DialogueText: ... Czujecie to? Słodki zapach dojrzałych jagód... {Portrait:Happy}
+AudioName: 125.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/linusWell:s0
+DialogueText: Dzięki, {Farmer_Name}. Trochę się martwiłem... Myślałem, że chcesz mi zaproponować przeprowadzkę na Twoją farmę! *mrug*
+AudioName: 126.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/linusWell:s1
+DialogueText: Wiesz, uważam Cię za mojego najbliższego przyjaciela... nigdy nie próbujesz mnie 'naprawić'... szanujesz mój styl życia, nawet jeśli tego nie rozumiesz. {Portrait:Happy}
+AudioName: 127.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/linusWell:s2
+DialogueText: Naprawdę to doceniam.
+AudioName: 128.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/linusWell:s3
+DialogueText: Ach... czujecie to? Słodki zapach dojrzałych jagód... {Portrait:Happy}
+AudioName: 129.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/8357109:s0
+DialogueText: Ach... Miłe uczucie. {Portrait:Love}
+AudioName: 130.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/8357109:s1
+DialogueText: Woda nigdy nie była tak czysta. {Portrait:Love}
+AudioName: 131.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/8357109:s2
+DialogueText: ... I to samo dotyczy mnie! He he he. {Portrait:Angry}
+AudioName: 132.ogg
+--------------------------------------------------
+DialogueFrom: Event/Mountain/8959199:s0
+DialogueText: Jeszcze nie...
+AudioName: 133.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s0
+DialogueText: Czekaj!
+AudioName: 134.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s1
+DialogueText: Cześć, Leo... Jestem Linus.
+AudioName: 135.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s2
+DialogueText: Dużo słyszałem o Tobie i o Twojej ptasiej rodzinie.
+AudioName: 136.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s3
+DialogueText: To jest naprawdę coś wyjątkowego! {Portrait:Happy}
+AudioName: 137.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s4
+DialogueText: Leo...
+AudioName: 138.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s5
+DialogueText: Chciałbym, żebyś popłynął razem z nami do Stardew.
+AudioName: 139.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s6
+DialogueText: To piękne miejsce... nie tak ciepłe, jak ta wyspa, ale i tak pełne życia... i też tam mieszkam!
+AudioName: 140.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s7
+DialogueText: Znam pewne miejsca i dużo rzeczy o wodach, drzewach, zwierzętach i wiele więcej...
+AudioName: 141.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s8
+DialogueText: Widzisz... Też jestem dzieckiem natury. Możesz powiedzieć, że jesteśmy 'pisklętami z jednego gniazda'. {Portrait:Happy}
+AudioName: 142.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s9
+DialogueText: Ale starzeję się... i zanim odejdę, to chciałbym kogoś nauczyć tego czego się sam nauczyłem... {Portrait:Sad}
+AudioName: 143.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s10
+DialogueText: Leo... wrócisz z nami?
+AudioName: 144.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s11
+DialogueText: Cóż, nie zapomnijmy... że wybór należy do Leo...
+AudioName: 145.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s12
+DialogueText: Rozumiem. Nadal to jest jego dom. {Portrait:Sad}
+AudioName: 146.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s13
+DialogueText: ... Ciężko coś zmieniać. Ale czasami tak jest najlepiej.
+AudioName: 147.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s14
+DialogueText: I tak... wybór należy do Leo.
+AudioName: 148.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandSouth/6497428:s15
+DialogueText: Wspaniale!
+AudioName: 149.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Linus
+DialogueText: Te zwierzęta nigdy nie oceniały ze względu na ich wygląd. Nie można powiedzieć tego samego o ludziach.
+AudioName: 150.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Linus_y2
+DialogueText: Zwierzęta są trochę jak ludzie... też mają uczucia i emocje. {Portrait:Neutral}
+AudioName: 151.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Linus
+DialogueText: Niezłe przedstawienie, stary druhu.
+AudioName: 152.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Linus_y2
+DialogueText: Ha ha! Kolejne świetne dzieło, stary druhu. {Portrait:Happy}
+AudioName: 153.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Linus
+DialogueText: Nikt ze mną nie rozmawia... Po prostu przyszedłem po ostre jajka.
+AudioName: 154.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Linus_y2
+DialogueText: Wrócę tu później, żeby coś zjeść. Tak sobie zerkam na przepysznie wyglądające ciasto!
+AudioName: 155.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Linus
+DialogueText: Och, witam. Miło, że ze mną rozmawiasz.
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Linus
+DialogueText: Wiosna już się kończy... Szkoda.
+AudioName: 157.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Linus_y2
+DialogueText: Czy sezon na maliny był dla Ciebie udany? {Portrait:Neutral}
+AudioName: 158.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Linus_y2
+DialogueText: Ja zebrałem wystarczająco, żeby zrobić słodką galaretkę! Przyniosłem wszystkim na spróbowanie. {Portrait:Happy}
+AudioName: 159.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Linus
+DialogueText: Powolny, nieustający obrót jest kluczem do uzyskania doskonałej pieczeni.
+AudioName: 160.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Linus_y2
+DialogueText: Ach, czujesz to? {Portrait:Neutral}
+AudioName: 161.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Linus_y2
+DialogueText: To znak, że pieczeń jest prawie gotowa! {Portrait:Happy}
+AudioName: 162.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Linus
+DialogueText: Wejdę jak przypłyną meduzy... Nie chcę nikomu przeszkadzać.
+AudioName: 163.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Linus_y2
+DialogueText: Zauważyłem, że nikt inny nie używa tych doków, więc wszedłem tu po kryjomu. {Portrait:Neutral}
+AudioName: 164.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Linus_y2
+DialogueText: Też lubię oglądać meduzy.
+AudioName: 165.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Linus
+DialogueText: Dołączyłbym... Ale nie jestem pewien, czy jestem tu mile widziany. {Portrait:Sad}
+AudioName: 166.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Linus_y2
+DialogueText: Burmistrz mnie osobiście zaprosił do swojego stołu. Nie mógłbym odrzucić takiego zaproszenia!
+AudioName: 167.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Linus
+DialogueText: Budowanie igloo jest sztuką, której się nauczyłem od mieszkańców tundry mieszkających za zamarzniętym morzem.
+AudioName: 168.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Linus
+DialogueText: To było dawno temu. {Portrait:Happy}
+AudioName: 169.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Linus
+DialogueText: Igloo to dobry dom, ale łatwiej mieszkać co roku w moim namiocie.
+AudioName: 170.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Linus_y2
+DialogueText: Ach... las zapadł w długi, zimowy sen... {Portrait:Happy}
+AudioName: 171.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Linus:s0
+DialogueText: To wspaniałe! Dzięki Tobie mój dzień stał się lepszy.
+AudioName: 172.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Linus:s1
+DialogueText: To dobry prezent. Dziękuję!
+AudioName: 173.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Linus:s2
+DialogueText: Hmm... To dla mnie nic nie znaczy.
+AudioName: 174.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Linus:s3
+DialogueText: Czemu mi to dajesz? Lubię śmieci bo mieszkam w namiocie, tak? To okropne.
+AudioName: 175.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Linus:s4
+DialogueText: Prezent? Jak miło.
+AudioName: 176.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/Mines_PlayerKilled_Linus
+DialogueText: ... Znalazłem Cię w kopalniach. Masz szczęście, że przechodziłem obok!
+AudioName: 177.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/Mines_PlayerKilled_Linus
+DialogueText: Następnym razem uważaj na siebie, dobrze? {Portrait:Sad}
+AudioName: 178.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Linus_spring_movie_1_BeforeMovie
+DialogueText: Czuję się tu jak nie u siebie... Mam nadzieję, że nikomu nie przeszkadzam. {Portrait:Sad}
+AudioName: 179.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Linus_spring_movie_1_DuringMovie
+DialogueText: Linus patrzy na podłogę...
+AudioName: 180.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Linus_spring_movie_1_AfterMovie
+DialogueText: Po co wpatrywać się w ekran, jak można przeżyć takie rzeczy samemu? {Portrait:Sad}
+AudioName: 181.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Linus_dislike_BeforeMovie
+DialogueText: Czuję się tu jak nie u siebie... Mam nadzieję, że nikomu nie przeszkadzam. {Portrait:Sad}
+AudioName: 182.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Linus_dislike_DuringMovie
+DialogueText: Linus patrzy na podłogę...
+AudioName: 183.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Linus_dislike_AfterMovie
+DialogueText: Nie jestem przyzwyczajony do takich symulacji... Wybacz, jeśli byłem rozczarowującym gościem, {Farmer_Name}. Nadal doceniam twoje zaproszenie!
+AudioName: 184.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Linus
+DialogueText: Załapałem się na przejazd pod autobusem.
+AudioName: 185.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Linus
+DialogueText: Ciężko znaleźć ten smak Pustyni Calico gdziekolwiek indziej. He he... {Portrait:Happy}
+AudioName: 186.ogg
+--------------------------------------------------

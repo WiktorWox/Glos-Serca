@@ -62,6 +62,12 @@ namespace VoiceOverFrameworkMod
 
             bool eventActive = Game1.currentLocation?.currentEvent != null;
 
+            // Captions the game draws itself (tea cutscene, comet, Prairie King with Abigail)
+            if (eventActive || Game1.currentMinigame != null)
+                CheckForCutsceneCaptions();
+            else if (_lastCaptionBySource.Count > 0)
+                _lastCaptionBySource.Clear();
+
             var dlgBox = Game1.activeClickableMenu as DialogueBox;
             string speakerName = dlgBox?.characterDialogue?.speaker?.Name ?? Game1.currentSpeaker?.Name;
 
@@ -108,7 +114,8 @@ namespace VoiceOverFrameworkMod
             string characterName,
             IEnumerable<string> tkCandidates,
             LocalizedContentManager.LanguageCode languageCode,
-            string? sanitizedDialogueTextForV1Fallback = null)
+            string? sanitizedDialogueTextForV1Fallback = null,
+            bool interruptCurrent = true)
         {
             var candidates = tkCandidates?.Where(k => !string.IsNullOrWhiteSpace(k)).Distinct(StringComparer.OrdinalIgnoreCase).ToList() ?? new();
             if (candidates.Count == 0)
@@ -122,7 +129,7 @@ namespace VoiceOverFrameworkMod
                 if (Config?.developerModeOn == true)
                     Monitor.Log($"[V2-RESULT] char='{characterName}' pack='{packUsed?.VoicePackName}' format={(packUsed?.FormatMajor.ToString() ?? "?")} match=Yes key='{matchedKey}' path='{fullPath}'", LogLevel.Info);
 
-                PlayVoiceFromFile(fullPath!);
+                PlayVoiceFromFile(fullPath!, interruptCurrent);
                 return true;
             }
 
@@ -149,16 +156,26 @@ namespace VoiceOverFrameworkMod
             packUsed = null;
             matchedKey = null;
 
+            characterName = ResolvePackCharacter(characterName);
             if (!VoicePacksByCharacter.TryGetValue(characterName, out var availablePacks) || !availablePacks.Any())
                 return null;
 
             if (!SelectedVoicePacks.TryGetValue(characterName, out string selectedVoicePackId) ||
                 string.IsNullOrEmpty(selectedVoicePackId) ||
                 selectedVoicePackId.Equals("None", StringComparison.OrdinalIgnoreCase))
-                return null;
+            {
+                // Use the normal character fallback when no explicit pack was
+                // configured. Exact TranslationKey lookups should not depend on
+                // the user having manually selected the pack.
+                var fallbackPack = GetSelectedVoicePack(characterName);
+                if (fallbackPack == null)
+                    return null;
+
+                selectedVoicePackId = fallbackPack.VoicePackId;
+            }
 
             // language selection (same as V1)
-            string primaryLangStr = languageCode.ToString().ToLowerInvariant();
+            string primaryLangStr = GetGameLanguageTag(languageCode).ToLowerInvariant();
             string configDefaultLangStr = (Config?.DefaultLanguage ?? "en").ToLowerInvariant();
             const string hardcodedFallbackLangStr = "en";
             bool allowFallbackToEnglish = Config?.FallbackToDefaultIfMissing ?? true;
@@ -191,13 +208,21 @@ namespace VoiceOverFrameworkMod
 
             packUsed = pack;
 
-            // Try exact TK match
+            // Try exact TK match; skip entries whose recording doesn't exist yet so callers
+            // can fall back to text matching (which may find another take of the same line).
             foreach (var tk in tkCandidates)
             {
                 if (pack.EntriesByTranslationKey.TryGetValue(tk, out var rel))
                 {
+                    string candidatePath = PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
+                    if (!File.Exists(candidatePath))
+                    {
+                        if (Config?.developerModeOn == true)
+                            Monitor.Log($"[V2-TK] key='{tk}' -> '{rel}' not recorded yet, trying next candidate", LogLevel.Debug);
+                        continue;
+                    }
                     matchedKey = tk;
-                    return PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
+                    return candidatePath;
                 }
             }
 
@@ -391,11 +416,60 @@ namespace VoiceOverFrameworkMod
         /// <summary>
         /// Build "Events/{Map}:{NumericId}" from the active event.
         /// </summary>
+        // After a 'fork' command the game swaps ev.eventCommands for another script from the same
+        // Data/Events file (e.g. HaleyHouse "choseToExplain") but keeps ev.id, so the fork's lines are
+        // keyed by the fork name in the pack (Events/HaleyHouse:choseToExplain:s0...). The fork name
+        // is not stored anywhere, so recover it by matching the new command list against the file.
+        private Event _forkEvent;
+        private string[] _forkCommands;
+        private string _forkKey;
+
+        private string ResolveForkKey(Event ev, string map)
+        {
+            if (ev == null || !ev.forked || ev.eventCommands == null || ev.eventCommands.Length == 0)
+                return null;
+            if (ReferenceEquals(ev, _forkEvent) && ReferenceEquals(ev.eventCommands, _forkCommands))
+                return _forkKey;
+
+            _forkEvent = ev;
+            _forkCommands = ev.eventCommands;
+            _forkKey = null;
+            try
+            {
+                var scripts = Game1.content.Load<Dictionary<string, string>>("Data\\Events\\" + map);
+                string[] head = ev.eventCommands.Take(3).Select(c => c?.Trim() ?? string.Empty).ToArray();
+                foreach (var kv in scripts)
+                {
+                    if (string.IsNullOrEmpty(kv.Value) || char.IsDigit(kv.Key[0]))
+                        continue; // numbered entries are the main events, forks have plain names
+                    string[] candidate = kv.Value.Split('/').Take(head.Length).Select(c => c.Trim()).ToArray();
+                    if (candidate.Length == head.Length && candidate.SequenceEqual(head, StringComparer.Ordinal))
+                    {
+                        _forkKey = kv.Key.Split('/')[0];
+                        break;
+                    }
+                }
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-EVENT] fork detected in {map}: key='{_forkKey ?? "?"}' first='{head.FirstOrDefault()}'", LogLevel.Debug);
+            }
+            catch (Exception ex)
+            {
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-EVENT] fork lookup failed: {ex.Message}", LogLevel.Debug);
+            }
+            return _forkKey;
+        }
+
         private string BuildEventBaseKeyForCurrent(Event ev)
         {
             try
             {
                 string map = Game1.currentLocation?.Name ?? "Unknown";
+
+                string forkKey = ResolveForkKey(ev, map);
+                if (!string.IsNullOrEmpty(forkKey))
+                    return $"Events/{map}:{forkKey}";
+
                 // ev.id for regular events is like "6963327/f Abigail 3500/O Abigail/t 610 1700"
                 // extract the leading number
                 string id = ev?.id;
@@ -412,52 +486,6 @@ namespace VoiceOverFrameworkMod
             catch { return null; }
         }
 
-        /// <summary>
-        /// Count how many speak-ish commands for this speaker occur up to and including the current command.
-        /// This reproduces the s{index} we assigned at template time without Harmony.
-        /// </summary>
-        private int? ComputeSpeakIndexForCurrent(Event ev, string speakerName)
-        {
-            if (ev?.eventCommands == null || ev.eventCommands.Length == 0 || string.IsNullOrWhiteSpace(speakerName))
-                return null;
-
-            int current = ev.CurrentCommand; // public property
-            if (current < 0) current = 0;
-            if (current >= ev.eventCommands.Length) current = ev.eventCommands.Length - 1;
-
-            int count = 0;
-            for (int i = 0; i <= current; i++)
-            {
-                string line = ev.eventCommands[i];
-                if (string.IsNullOrWhiteSpace(line))
-                    continue;
-
-                // commands look like: "speak Abigail \"...\"" or "splitSpeak Abigail \"a~b\""
-                bool isSpeak = line.StartsWith("speak ", StringComparison.OrdinalIgnoreCase);
-                bool isSplit = line.StartsWith("splitSpeak ", StringComparison.OrdinalIgnoreCase);
-
-                if (!isSpeak && !isSplit)
-                    continue;
-
-                // extract actor token (2nd token)
-                string actor = null;
-                var parts = line.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries);
-                if (parts.Length >= 2)
-                {
-                    actor = parts[1].Trim().Trim('"').TrimEnd('?'); // optional-NPC markers can appear with '?' suffix
-                }
-
-                if (actor != null && actor.Equals(speakerName, StringComparison.OrdinalIgnoreCase))
-                {
-                    // this occurrence contributes to the index
-                    // by the time the dialogue shows, ev.CurrentCommand is still on this command,
-                    // so including i==current gives the correct 0-based index.
-                    count++;
-                }
-            }
-
-            return count > 0 ? count - 1 : (int?)0; // if the first match is the current one, its index is 0
-        }
 
 
       

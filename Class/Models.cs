@@ -4,7 +4,14 @@ namespace VoiceOverFrameworkMod
 {
     public class ModConfig
     {
-        public string DefaultLanguage { get; set; } = "en";
+        /// <summary>Language of the voice pack to use when the game language has no pack of its own. Głos Serca ships a Polish ("pl") pack.</summary>
+        public string DefaultLanguage { get; set; } = "pl";
+        /// <summary>Game language -> pack language. The "Podmiana" Polish translation replaces the game's pt-BR texts, so a game running in pt-BR shows Polish and should use the "pl" pack. The additional-language Polish mod reports "pl" directly.</summary>
+        public Dictionary<string, string> LanguageAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["pt-BR"] = "pl" };
+        /// <summary>Extra event-actor aliases (actor name -> voiced character), e.g. for other mods' events.
+        /// The mod's built-in aliases (ParrotBoy -> Leo, Toddler -> Parrot) always apply; entries here
+        /// add to them or override them. Event slots are still counted per actor name.</summary>
+        public Dictionary<string, string> ActorAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase);
         public float MasterVolume { get; set; } = 1.0f;
         public bool turnoffdialoguetypingsound = true;
         public bool FallbackToDefaultIfMissing { get; set; } = false;

@@ -226,22 +226,7 @@ namespace VoiceOverFrameworkMod
         }
 
         private static string CanonGameLang() =>
-            LocalizedContentManager.CurrentLanguageCode switch
-            {
-                LocalizedContentManager.LanguageCode.en => "en",
-                LocalizedContentManager.LanguageCode.es => "es-es",
-                LocalizedContentManager.LanguageCode.zh => "zh-cn",
-                LocalizedContentManager.LanguageCode.ja => "ja-jp",
-                LocalizedContentManager.LanguageCode.pt => "pt-br",
-                LocalizedContentManager.LanguageCode.fr => "fr-fr",
-                LocalizedContentManager.LanguageCode.ko => "ko-kr",
-                LocalizedContentManager.LanguageCode.it => "it-it",
-                LocalizedContentManager.LanguageCode.de => "de-de",
-                LocalizedContentManager.LanguageCode.hu => "hu-hu",
-                LocalizedContentManager.LanguageCode.ru => "ru-ru",
-                LocalizedContentManager.LanguageCode.tr => "tr-tr",
-                _ => "en"
-            };
+            CanonLang(ModEntry.Instance?.GetGameLanguageTag() ?? "en");
 
         private static string LangOfPack(VoicePack p) => CanonLang(p?.Language ?? "en");
 

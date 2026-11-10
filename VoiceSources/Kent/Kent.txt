@@ -1,0 +1,452 @@
+DialogueFrom: Mon
+DialogueText: Witaj, farmerze.
+AudioName: 1_male.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Witaj, farmerko.
+AudioName: 2_female.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Tak długo mnie tu nie było... Czuję się tu trochę obco.
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: To dla mnie? Cóż, nie spodziewałem się tego... ale nie odmówię. Dzięki!
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)Book_Bombs
+DialogueText: Cóż, nie znam krasnoludzkiego, ale to ciekawy przedmiot kolekcjonerski. Dziękuję.
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Heh... Deszcz to błogosławieństwo. Przypomnienie, że zawsze istnieją siły większe niż wszystko, co stworzył człowiek.
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Jest to poniekąd pocieszające, {Farmer_Name}.
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Entering
+DialogueText: Hej, {Farmer_Name}. Dobrze Cię widzieć.
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving
+DialogueText: Pora wracać.
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: Stojąc na tej plaży... czuję rzadkie poczucie spokoju. {Portrait:Happy}
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: Ocean jest naprawdę wyjątkowy.
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Chair
+DialogueText: To dobre miejsce do budowania więzi z rodziną. Naprawdę doceniam, że to naprawiłeś.
+AudioName: 12_male.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Chair
+DialogueText: To dobre miejsce do budowania więzi z rodziną. Naprawdę doceniam, że to naprawiłaś.
+AudioName: 13_female.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Bar
+DialogueText: Wezmę wodę.
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: married_Sam
+DialogueText: Ojciec czuje dumę, widząc, jak jego syn staje się mężczyzną. Masz moje serdeczne błogosławieństwo. {Portrait:Happy}
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Fajnie się tutaj płynęło. Mogłem nawet wykorzystać część mojego szkolenia żeglarskiego do nawigacji. {Portrait:Happy}
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_100_memory_oneday
+DialogueText: Przepraszam za wczoraj.
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_100_memory_oneday
+DialogueText: Nie chcę żadnego specjalnego traktowania. Chcę po prostu być normalną osobą, jak każdy inny.
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: MovieInvitation
+DialogueText: Em... ok. Dziękuję. Spotkamy się na miejscu. {Portrait:Happy}
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: ...! {Portrait:Love}
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: ... Skąd to masz? {Portrait:Love}
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: ... {Portrait:Angry}
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: On... walczyliśmy razem na wojnie, {Farmer_Name}. Był dla mnie jak brat.
+AudioName: 23.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: Ale... tylko jeden z nas wrócił. {Portrait:Angry}
+AudioName: 24.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: Do końca zachował zimną krew. Nawet w obliczu śmierci. Prawdziwy bohater... nigdy mu tego nie zapomnę.
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: Dziękuję Ci za to... to dla mnie naprawdę wiele znaczy.
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: accept_864
+DialogueText: Proszę, weź to. Stało za naszą szafą przez lata i tylko się kurzyło.
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: reject_865
+DialogueText: Tak... Jest szczelnie zapakowane, żeby zachowało smak.
+AudioName: 28.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Nie wiem, czy kiedykolwiek znów przyzwyczaję się do takiego życia.
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Ten spokój jest dla mnie trochę dziwny... ale może to kwestia czasu.
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Odkąd wyjechałem, wiele się nie zmieniło.
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Pomijając to, że ty tu jesteś.
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: Tue2
+DialogueText: Odkąd wyjechałem, wiele się nie zmieniło.
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: Tue2
+DialogueText: Poza tym, że mamy nowego farmera. {Portrait:Happy}
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: Tue6
+DialogueText: Czuję, że całkiem nieźle się zaaklimatyzowałem. Miło mieć przyjaciela w mieście. {Portrait:Happy}
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: ... Na wojnie straciłem wielu przyjaciół. {Portrait:Sad}
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Najgorsze jest to, że nie pamiętam już ich twarzy.
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: ...
+AudioName: 38.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Mieszkasz tu już od jakiegoś czasu, prawda? Twoja farma musi dobrze prosperować.
+AudioName: 39.ogg
+--------------------------------------------------
+DialogueFrom: Wed10
+DialogueText: Życie to wyjątkowy dar. Przychodzi i odchodzi w mgnieniu oka... Nigdy o tym nie zapominaj.
+AudioName: 40.ogg
+--------------------------------------------------
+DialogueFrom: Thu6
+DialogueText: # {Portrait:Happy} Kent1
+AudioName: 41.ogg
+--------------------------------------------------
+DialogueFrom: Thu6
+DialogueText: Od czwartej rano jestem na nogach... czasami zastanawiam się, czy kiedykolwiek wrócę do normalnego trybu życia.$k
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: Thu6
+DialogueText: Sam naprawdę sporo urósł. Jest już mężczyzną.
+AudioName: 43.ogg
+--------------------------------------------------
+DialogueFrom: Thu6
+DialogueText: Szkoda, że nie mogłem być przy nim przez te wszystkie lata. {Portrait:Sad}
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Przyjaźnisz się z moim synem?
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Prawdopodobnie znasz go lepiej niż ja... {Portrait:Sad}
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: Thu_inlaw_Sam
+DialogueText: Witaj, {Farmer_Name}. Jak tam po ślubie?
+AudioName: 47.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Całkiem niezły dzień, żeby wybrać się na ryby, co nie?
+AudioName: 48.ogg
+--------------------------------------------------
+DialogueFrom: Fri4
+DialogueText: Powinienem zacząć chodzić na ryby. To by mi dobrze zrobiło.
+AudioName: 49.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Jodi mówiła, że stałeś się częścią tej społeczności. Miło mi to słyszeć.
+AudioName: 50_male.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Jodi mówiła, że stałaś się częścią tej społeczności. Miło mi to słyszeć.
+AudioName: 51_female.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Mam problemy ze snem, więc nie przejmuj się, jeśli wyglądam na zmęczonego.
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Mam nadzieję, że to rozumiesz.
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Nie wiem, co ze sobą zrobić.
+AudioName: 54.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Jestem przyzwyczajony do planowania każdego dnia.
+AudioName: 55.ogg
+--------------------------------------------------
+DialogueFrom: Sun4
+DialogueText: Masz jakieś zajęcie, co? To bardzo dobrze.
+AudioName: 56.ogg
+--------------------------------------------------
+DialogueFrom: Sun4
+DialogueText: Za dużo wolności może przytłaczać. Wszyscy potrzebujemy jakiejś struktury w życiu.
+AudioName: 57.ogg
+--------------------------------------------------
+DialogueFrom: event_popcorn1
+DialogueText: Cicho bądź! Przestań próbować mnie skłócić z żoną. {Portrait:Unique}
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: event_popcorn2
+DialogueText: ... {Portrait:Sad}
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: event_popcorn2
+DialogueText: Masz rację, {Farmer_Name}. {Portrait:Sad}
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: event_popcorn3
+DialogueText: Nie kłam! Nie znoszę kłamstw bardziej niż czegokolwiek innego! {Portrait:Unique}
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/63:s0
+DialogueText: Em... witaj. Jestem Kent. Wróciłem ostatniej nocy... z zagranicy. Żona mi powiedziała, że wprowadził się nowy farmer.
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: Event/Farm/63:s1
+DialogueText: Cóż, chciałem się tylko przedstawić... Do zobaczenia.
+AudioName: 63.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/95:s0
+DialogueText: Cześć {Farmer_Name}. Proszę, zapraszam.
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/95:s1
+DialogueText: He he. {Portrait:Happy}
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/95:s2
+DialogueText: Mmm... Ten chrupiący Bass był przepyszny! Panierka była wspaniała...
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/95:s3
+DialogueText: Czuję się prawie jak członek rodziny.
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s0
+DialogueText: AAAAAHHHHHHH!!! {Portrait:Unique}
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s1
+DialogueText: Ten dźwięk... {Portrait:Sad}
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s2
+DialogueText: Ten dźwięk przypomina mi o wojnie! {Portrait:Unique}
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s3
+DialogueText: ... Straciłem wielu przyjaciół w tych krwawych okopach. {Portrait:Sad}
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s4
+DialogueText: ... Trochę się pozmieniało.
+AudioName: 72.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s5
+DialogueText: (Powiedz mu coś) {Portrait:Sad}
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s6
+DialogueText: Powinniśmy winić Jodi... Mogła się domyślić!
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s7
+DialogueText: Wiem, że cierpisz... ale nie wiń swojej żony.
+AudioName: 75.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s8
+DialogueText: (Kłamstwo) To moja wina... Zachciało mi się popcornu
+AudioName: 76.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s9
+DialogueText: ... {Portrait:Sad}
+AudioName: 77.ogg
+--------------------------------------------------
+DialogueFrom: Event/SamHouse/100:s10
+DialogueText: Wybacz, Kochanie. Nie wiedziałaś, że odgłosy popcornu mogą mnie denerwować.
+AudioName: 78.ogg
+--------------------------------------------------
+DialogueFrom: Event/Saloon/3917590:s0
+DialogueText: Cieszę się, że mam pretekst żeby wyjść z domu i oderwać myśli od różnych rzeczy.
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Kent
+DialogueText: Czekam aż ten klaun zrobi coś śmiesznego.
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Kent
+DialogueText: Rozczarowujące.
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Kent_y2
+DialogueText: *heh* Mój syn ma cela. Ciekawe czy ma to po mnie. {Portrait:Happy}
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Kent
+DialogueText: Hej, {Farmer_Name}. Dobry wieczór?
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Kent_y2
+DialogueText: Nie wyglądają na takie twarde. {Portrait:Neutral}
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Kent
+DialogueText: Tak szczerze, to nie lubię jajek.
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Kent
+DialogueText: Ta otwarta przestrzeń... Denerwuję się przez nią.
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Kent
+DialogueText: *szept* Myśl pozytywnie, Kent. Myśl pozytywnie.
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Kent_y2
+DialogueText: Zastanawiasz się czasami... czemu uważamy, że kwiatki są takie piękne?
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Kent_y2
+DialogueText: Jeśli z Jodi będziemy mieć kiedyś córkę, może nazwiemy ją po jakimś kwiatku. {Portrait:Happy}
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Kent
+DialogueText: Hej, dobrze Cię widzieć.
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Kent_y2
+DialogueText: *niuch*... Zapachy najlepiej przywołują wspomnienia... {Portrait:Neutral}
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Kent_y2
+DialogueText: To może być dobre i złe...
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Kent
+DialogueText: Dobry wieczór, {Farmer_Name}. Mam nadzieję, że znajdziesz chwilę na odpoczynek przed zbiorami.
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Kent_y2
+DialogueText: Hej. Masz wielkie plany na jesień?
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Kent
+DialogueText: Dobry wieczór, {Farmer_Name}. Miłego ucztowania.
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Kent_y2
+DialogueText: Jestem wdzięczny za to, że widzę jakie moje dziecko jest zdrowe i szczęśliwe. {Portrait:Happy}
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Kent
+DialogueText: Lubię zimę. Jest spokojna.
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Kent_y2
+DialogueText: Gotowy na zawody? Wszyscy myślimy, że wygrasz.
+AudioName: 98_male.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Kent_y2
+DialogueText: Gotowa na zawody? Wszyscy myślimy, że wygrasz.
+AudioName: 99_female.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Kent:s0
+DialogueText: O...! Mama zawsze mi to dawała, gdy byłem jeszcze dzieckiem. Cudowne wspomnienia... dziękuję.
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Kent:s1
+DialogueText: Hej, to dobry prezent. Dzięki.
+AudioName: 101.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Kent:s2
+DialogueText: Ach... To... Co to właściwie jest? Hmm...
+AudioName: 102.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Kent:s3
+DialogueText: To... Dawali mi to w obozie jeńców w Gotoro. Chciałem o tym zapomnieć. *dreszcze*
+AudioName: 103.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Kent:s4
+DialogueText: To miłe z Twojej strony. Na pewno to się spodoba mojej rodzinie.
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_like_BeforeMovie
+DialogueText: Dzięki za zaproszenie, {Farmer_Name}. Ciężko mi wrócić do życia cywila, ale dzięki Tobie, czuję się jak w domu.
+AudioName: 105.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_like_DuringMovie
+DialogueText: To jest świetne... Przypomina mi o prostych czasach... {Portrait:Happy}
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_like_DuringMovie_2
+DialogueText: Kent ma rzadki uśmiech na twarzy.
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_like_AfterMovie
+DialogueText: Było fajnie. Kiedy jesteś pochłonięty filmem, wszystkie twoje troski i zmartwienia znikają.
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_dislike_BeforeMovie
+DialogueText: Nie jestem pewien co do tego filmu...
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_dislike_DuringMovie
+DialogueText: Kenta przelewa zimny pot...
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Kent_dislike_AfterMovie
+DialogueText: To było dla mnie niezłym wyzwaniem. I tak doceniam twoje zaproszenie.
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Kent
+DialogueText: Hej, {Farmer_Name}. Doskwiera Ci ten upał?
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Shop_Kent
+DialogueText: Hej, mam parę rzeczy na sprzedaż. Daj znać, jak coś Ci wpadnie w oko.
+AudioName: 113.ogg
+--------------------------------------------------

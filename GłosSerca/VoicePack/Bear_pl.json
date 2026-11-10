@@ -1,0 +1,86 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Bear.pl",
+      "VoicePackName": "Głos Serca (Bear)",
+      "Character": "Bear",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Event/Woods/2120303:s0",
+          "DialogueText": "Ten zapach... podejdź bliżej... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Bear/1.ogg",
+          "TranslationKey": "Events/Woods:2120303:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten zapach... podejdź bliżej..."
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s1",
+          "DialogueText": "Heh... Niecodziennie mogę porozmawiać z człowiekiem. Wygląda na to, że masz w sobie małą 'magię lasu'... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Bear/2.ogg",
+          "TranslationKey": "Events/Woods:2120303:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Heh... Niecodziennie mogę porozmawiać z człowiekiem. Wygląda na to, że masz w sobie małą 'magię lasu'..."
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s2",
+          "DialogueText": "Teraz... wracając do mojej wiadomości... Masz towar?",
+          "AudioPath": "assets/pl/Bear/3.ogg",
+          "TranslationKey": "Events/Woods:2120303:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Teraz... wracając do mojej wiadomości... Masz towar?"
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s3",
+          "DialogueText": "Hohohoooo... Ten zapach... to bardzo słodki towar! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Bear/4.ogg",
+          "TranslationKey": "Events/Woods:2120303:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Hohohoooo... Ten zapach... to bardzo słodki towar!"
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s4",
+          "DialogueText": "... Lubię ten syrop... rozwesela mnie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Bear/5.ogg",
+          "TranslationKey": "Events/Woods:2120303:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "... Lubię ten syrop... rozwesela mnie."
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s5",
+          "DialogueText": "... Zyskujesz dziś nowego przyjaciela, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Bear/6.ogg",
+          "TranslationKey": "Events/Woods:2120303:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "... Zyskujesz dziś nowego przyjaciela, ."
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s6",
+          "DialogueText": "Chcę Ci pokazać coś wyjątkowego...",
+          "AudioPath": "assets/pl/Bear/7.ogg",
+          "TranslationKey": "Events/Woods:2120303:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcę Ci pokazać coś wyjątkowego..."
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s7",
+          "DialogueText": "Niedźwiedź odchodzi zostawiając Cię ze specjalną wiedzą...",
+          "AudioPath": "assets/pl/Bear/8.ogg",
+          "TranslationKey": "Events/Woods:2120303:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Niedźwiedź odchodzi zostawiając Cię ze specjalną wiedzą..."
+        },
+        {
+          "DialogueFrom": "Event/Woods/2120303:s8",
+          "DialogueText": "Maliny i Jeżyny są teraz warte 3x więcej monet!",
+          "AudioPath": "assets/pl/Bear/9.ogg",
+          "TranslationKey": "Events/Woods:2120303:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Maliny i Jeżyny są teraz warte 3x więcej monet!"
+        }
+      ]
+    }
+  ]
+}

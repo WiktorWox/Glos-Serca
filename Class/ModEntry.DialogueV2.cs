@@ -139,6 +139,10 @@ namespace VoiceOverFrameworkMod
             if (isDialogueBoxVisible)
             {
                 var dialogueBox = Game1.activeClickableMenu as DialogueBox;
+                // While the box animates open/closed, getCurrentString() can already return the
+                // next "$e" segment; don't match (and start audio) on that transient text.
+                if (dialogueBox != null && dialogueBox.transitioning)
+                    return;
                 currentDisplayedString = dialogueBox?.getCurrentString();
             }
 
@@ -190,6 +194,44 @@ namespace VoiceOverFrameworkMod
             string patternKey = CanonDisplay(strippedForMatch);
             if (string.IsNullOrWhiteSpace(patternKey))
                 return;
+
+            if (Config.developerModeOn)
+                Monitor.Log($"[V2-KEY] speaker='{currentSpeaker.Name}' displayed='{currentDisplayedString}' removable=[{string.Join("|", removable)}] patternKey='{patternKey}' inPack={(selectedPack?.Entries?.ContainsKey(patternKey) == true ? "yes" : "no")}", LogLevel.Debug);
+
+            // ─────────────────────────────────────────────────────────────
+            // TranslationKey path (preferred): the game tells us which line this is
+            // (e.g. "Characters/Dialogue/Abigail:Mon"), so match on identity instead of
+            // the exact wording, which drifts between translation versions.
+            // Page order in the pack follows the generator: gender variants and #$b# pages
+            // are separate pages, so prefer the page whose display pattern matches what is
+            // on screen, then the current page index, then the bare key.
+            // ─────────────────────────────────────────────────────────────
+            string gameTk = d?.TranslationKey;
+            if (!string.IsNullOrWhiteSpace(gameTk) && selectedPack != null && selectedPack.FormatMajor >= 2 &&
+                selectedPack.EntriesByTranslationKey != null && selectedPack.EntriesByTranslationKey.Count > 0)
+            {
+                var tkCandidates = new List<string>();
+                string textAudio = null;
+                selectedPack.Entries?.TryGetValue(patternKey, out textAudio);
+                for (int pg = 0; pg < 16; pg++)
+                {
+                    string k = $"{gameTk}:p{pg}";
+                    if (!selectedPack.EntriesByTranslationKey.TryGetValue(k, out var rel)) continue;
+                    if (!string.IsNullOrWhiteSpace(textAudio) && string.Equals(rel, textAudio, StringComparison.OrdinalIgnoreCase))
+                        tkCandidates.Insert(0, k); // page confirmed by the displayed text
+                }
+                tkCandidates.Add($"{gameTk}:p{pageZero}");
+                tkCandidates.Add(gameTk);
+
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-TK] gameKey='{gameTk}' page={pageZero} candidates=[{string.Join("|", tkCandidates.Distinct())}]", LogLevel.Debug);
+
+                if (TryToPlayVoiceByTranslationKeys(currentSpeaker.Name, tkCandidates, LocalizedContentManager.CurrentLanguageCode))
+                {
+                    _lastPlayedLookupKey = finalLookupKey;
+                    return;
+                }
+            }
 
             // ─────────────────────────────────────────────────────────────
             // Cross-language path → DictionaryV2 decides (exact → dict fuzzy over GAME language keys)
@@ -566,8 +608,15 @@ namespace VoiceOverFrameworkMod
             if (_sameLineStableTicks < Config.TextStabilizeTicks)
                 return;
 
+            // "message" boxes have no speaker. The template generator files them under the last character
+            // who spoke (Kel's lines sit in Leah's pack), so resolve that character and play from their pack.
+            string speakerForLookup = currentSpeaker?.Name;
             if (currentSpeaker == null)
-                return; // narrator can be added later
+            {
+                speakerForLookup = GeneratorSpeakerForCurrent(GetCurrentEvent());
+                if (string.IsNullOrWhiteSpace(speakerForLookup))
+                    return;
+            }
 
             // normalize visible farmer name to '@' before stripping (events)
             string displayForMatch = currentDisplayedString ?? string.Empty;
@@ -596,12 +645,40 @@ namespace VoiceOverFrameworkMod
                 return;
 
             // select pack
-            VoicePack selectedPack = null;
-            if (currentSpeaker != null)
+            VoicePack selectedPack = GetSelectedVoicePack(speakerForLookup);
+            if (selectedPack == null || selectedPack.FormatMajor < 2)
             {
-                selectedPack = GetSelectedVoicePack(currentSpeaker.Name);
-                if (selectedPack == null || selectedPack.FormatMajor < 2)
+                _lastPlayedLookupKey = patternKey;
+                return;
+            }
+
+            // Events have a stable identity even when the displayed text differs between
+            // translation versions. Resolve by TranslationKey (Events/<Loc>:<id>:s<n>) first.
+            {
+                var currentEvent = GetCurrentEvent();
+                string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
+                int? eventSpeakIndex = ComputeSpeakIndexForCurrent(
+                    currentEvent,
+                    speakerForLookup,
+                    pageZero,
+                    currentDisplayedText: currentDisplayedString);
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-EVENT] base='{eventBaseKey}' speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} page={pageZero} speaker='{speakerForLookup}'{(currentSpeaker == null ? " (message)" : "")} displayed='{currentDisplayedString}'", LogLevel.Debug);
+                if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
                 {
+                    string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
+                    if (TryToPlayVoiceByTranslationKeys(
+                            speakerForLookup,
+                            new[] { eventTranslationKey },
+                            LocalizedContentManager.CurrentLanguageCode))
+                    {
+                        _lastPlayedLookupKey = patternKey;
+                        return;
+                    }
+                }
+                if (currentSpeaker == null)
+                {
+                    // narration is keyed by slot only; no text-based fallback against another character's pack
                     _lastPlayedLookupKey = patternKey;
                     return;
                 }

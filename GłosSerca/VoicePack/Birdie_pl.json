@@ -1,0 +1,314 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Birdie.pl",
+      "VoicePackName": "Głos Serca (Birdie)",
+      "Character": "Birdie",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "ExtraDialogue/Birdie_NoGift",
+          "DialogueText": "Och, nie nie nie... Nie potrzebuję prezentów, drogie dziecko. Zatrzymaj to dla siebie.",
+          "AudioPath": "assets/pl/Birdie/1.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Birdie_NoGift",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, nie nie nie... Nie potrzebuję prezentów, drogie dziecko. Zatrzymaj to dla siebie."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s0",
+          "DialogueText": "Och... odwiedzający?",
+          "AudioPath": "assets/pl/Birdie/2.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... odwiedzający?"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s1",
+          "DialogueText": "Podejdź bliżej, dziecko.",
+          "AudioPath": "assets/pl/Birdie/3.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Podejdź bliżej, dziecko."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s2",
+          "DialogueText": "Nie było tu nikogo od wielu księżyców. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/4.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie było tu nikogo od wielu księżyców."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s3",
+          "DialogueText": "Prawie zapomniałam jak wyglądają inni ludzie.",
+          "AudioPath": "assets/pl/Birdie/5.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Prawie zapomniałam jak wyglądają inni ludzie."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s4",
+          "DialogueText": "Cóż. Skoro tu jesteś, to wykorzystam moment i poproszę Cię o przysługę.",
+          "AudioPath": "assets/pl/Birdie/6.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż. Skoro tu jesteś, to wykorzystam moment i poproszę Cię o przysługę."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s5",
+          "DialogueText": "Chodź...",
+          "AudioPath": "assets/pl/Birdie/7.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Chodź..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s6",
+          "DialogueText": "Czy rzucił Ci się w oczy ten wrak statku na południowym wybrzeżu?",
+          "AudioPath": "assets/pl/Birdie/8.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy rzucił Ci się w oczy ten wrak statku na południowym wybrzeżu?"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s7",
+          "DialogueText": "Mój mąż był kapitanem. Kapitanem piratów.",
+          "AudioPath": "assets/pl/Birdie/9.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Mój mąż był kapitanem. Kapitanem piratów."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s8",
+          "DialogueText": "Pewnego dnia wypłynął i już nigdy nie wrócił. Trzy lata żeglowałam po całym morzu, aby odnaleźć jego szczątki.. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/10.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnego dnia wypłynął i już nigdy nie wrócił. Trzy lata żeglowałam po całym morzu, aby odnaleźć jego szczątki.."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s9",
+          "DialogueText": "*Ech*... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/11.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "*Ech*..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s10",
+          "DialogueText": "Jestem tu od dawna... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/12.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem tu od dawna..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s11",
+          "DialogueText": "... by strzec jego kości...",
+          "AudioPath": "assets/pl/Birdie/13.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "... by strzec jego kości..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s12",
+          "DialogueText": "Moje dziecko... Jeżeli jesteś w stanie znaleźć pamiątkę po nim, przyniosłoby mi to ukojenie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/14.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Moje dziecko... Jeżeli jesteś w stanie znaleźć pamiątkę po nim, przyniosłoby mi to ukojenie."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s13",
+          "DialogueText": "Czekaj...",
+          "AudioPath": "assets/pl/Birdie/15.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Czekaj..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s14",
+          "DialogueText": "Masz, weź to. To stara fotografia, która była wyrzucona na brzeg.",
+          "AudioPath": "assets/pl/Birdie/16.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz, weź to. To stara fotografia, która była wyrzucona na brzeg."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieIntro:s15",
+          "DialogueText": "To wszystko co mam. Mam nadzieję, że wystarczy i pomoże Ci w znalezieniu tego, czego szukam.",
+          "AudioPath": "assets/pl/Birdie/17.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieIntro:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "To wszystko co mam. Mam nadzieję, że wystarczy i pomoże Ci w znalezieniu tego, czego szukam."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s0",
+          "DialogueText": "To jest jego... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/18.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest jego..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s1",
+          "DialogueText": "Heh... Po tylu latach, nadal go czuję...",
+          "AudioPath": "assets/pl/Birdie/19.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Heh... Po tylu latach, nadal go czuję..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s2",
+          "DialogueText": "... ten znajomy, wstrętny smród... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Birdie/20.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "... ten znajomy, wstrętny smród..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s3",
+          "DialogueText": "Wiesz dziecko, to było samotne życie. Ale wcale tego nie żałuję.",
+          "AudioPath": "assets/pl/Birdie/21.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz dziecko, to było samotne życie. Ale wcale tego nie żałuję."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s4",
+          "DialogueText": "Wiem, że postępuję właściwie przez mojego staruszka. I pewnego dnia znów będziemy razem. He he.",
+          "AudioPath": "assets/pl/Birdie/22.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiem, że postępuję właściwie przez mojego staruszka. I pewnego dnia znów będziemy razem. He he."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s5",
+          "DialogueText": "Dziecko, masz rację.",
+          "AudioPath": "assets/pl/Birdie/23.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziecko, masz rację."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s6",
+          "DialogueText": "Dzięki Tobie odczuwam wewnętrzny spokój. Ten medalion będzie mnie pocieszał do końca moich dni. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Birdie/24.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki Tobie odczuwam wewnętrzny spokój. Ten medalion będzie mnie pocieszał do końca moich dni."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s7",
+          "DialogueText": "Taka stara kobieta jak ja? Myślę, że to już za późno, skarbie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Birdie/25.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Taka stara kobieta jak ja? Myślę, że to już za późno, skarbie."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s8",
+          "DialogueText": "A poza tym, to miejsce jest piękne i relaksujące. No i mam nieskończone zapasy świeżych ryb, ostryg i małpiego mięsa. He he he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Birdie/26.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "A poza tym, to miejsce jest piękne i relaksujące. No i mam nieskończone zapasy świeżych ryb, ostryg i małpiego mięsa. He he he."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s9",
+          "DialogueText": "... Żartuję z tymi małpami.",
+          "AudioPath": "assets/pl/Birdie/27.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "... Żartuję z tymi małpami."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s10",
+          "DialogueText": "A teraz powiedz, jak mogę Ci się za to odwdzięczyć?",
+          "AudioPath": "assets/pl/Birdie/28.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "A teraz powiedz, jak mogę Ci się za to odwdzięczyć?"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s11",
+          "DialogueText": "Och... Może nauczę Cię specjalnego przepisu, jaki odkryłam przez te wszystkie lata.",
+          "AudioPath": "assets/pl/Birdie/29.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Może nauczę Cię specjalnego przepisu, jaki odkryłam przez te wszystkie lata."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s12",
+          "DialogueText": "Umiesz wytwarzać 'Wróżkowy Pył'.",
+          "AudioPath": "assets/pl/Birdie/30.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Umiesz wytwarzać 'Wróżkowy Pył'."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s13",
+          "DialogueText": "Te też możesz wziąć...",
+          "AudioPath": "assets/pl/Birdie/31.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Te też możesz wziąć..."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s14",
+          "DialogueText": "Mimo, że jesteś mi obcy. Tak wiele zrobiłeś dla starszej Pani.",
+          "AudioPath": "assets/pl/Birdie/32_male.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Mimo, że jesteś mi obcy. Tak wiele zrobiłeś dla starszej Pani.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s15",
+          "DialogueText": "Mimo, że jesteś mi obca. Tak wiele zrobiłaś dla starszej Pani.",
+          "AudioPath": "assets/pl/Birdie/33_female.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Mimo, że jesteś mi obca. Tak wiele zrobiłaś dla starszej Pani.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/IslandSecret_Event_BirdieFinished:s16",
+          "DialogueText": "Z całego serca dziękuję. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Birdie/34.ogg",
+          "TranslationKey": "Strings/Locations:IslandSecret_Event_BirdieFinished:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Z całego serca dziękuję."
+        },
+        {
+          "DialogueFrom": "Strings/Locations/alreadyGotNuts:s0",
+          "DialogueText": "Mimo, że jesteś mi obcy. Tak wiele zrobiłeś dla starszej Pani.",
+          "AudioPath": "assets/pl/Birdie/35_male.ogg",
+          "TranslationKey": "Strings/Locations:alreadyGotNuts:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Mimo, że jesteś mi obcy. Tak wiele zrobiłeś dla starszej Pani.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/alreadyGotNuts:s1",
+          "DialogueText": "Mimo, że jesteś mi obca. Tak wiele zrobiłaś dla starszej Pani",
+          "AudioPath": "assets/pl/Birdie/36_female.ogg",
+          "TranslationKey": "Strings/Locations:alreadyGotNuts:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Mimo, że jesteś mi obca. Tak wiele zrobiłaś dla starszej Pani",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Strings/Locations/alreadyGotNuts:s2",
+          "DialogueText": "Z całego serca dziękuję! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Birdie/37.ogg",
+          "TranslationKey": "Strings/Locations:alreadyGotNuts:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Z całego serca dziękuję!"
+        }
+      ]
+    }
+  ]
+}

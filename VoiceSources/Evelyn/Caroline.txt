@@ -1,0 +1,628 @@
+DialogueFrom: Introduction
+DialogueText: Witaj! Ty musisz być {Farmer_Name}, nowy farmer. Jestem Caroline.
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: Mój mąż prowadzi lokalny sklep. Znasz już moją córkę, Abigail? To ta blada z fioletowymi włosami.
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: Dzięki, Skarbeńku. To bardzo miłe z Twojej strony, że pamiętasz o moich urodzinach. {Portrait:Happy}
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: Och... czy to jest... urodzinowy prezent? Rozumiem... cóż, dzięki za pamięć. {Portrait:Angry}
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: Ooo... ładnie pachnie. Zachowam ją na spokojny dzień w moim pokoju.
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)16
+DialogueText: Och, widzę, że byłeś na spacerze! Dziękuję!
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)16
+DialogueText: Zrobię z tego pikantny sos koktajlowy. Przez to na pewno urośnie Pierrowi trochę włosów na klacie. {Portrait:Happy}
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: cropMatured_815
+DialogueText: Zauważyłam, że hodujesz na swojej farmie herbatę. Przynieś mi może kiedyś filiżankę na spróbowanie! {Portrait:Happy}
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: dating_Abigail_memory_oneday
+DialogueText: Abi mówiła, że się razem spotykacie. Urocze!
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Nigdy jeszcze nie widziałam zielonego deszczu... Pewnie nie jest niebezpieczny, skoro tu jesteś!
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Ach, znowu pada specjalny deszcz! Tego roku wykorzystam go do końca!
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Wymaga to filiżanki zielonej herbaty! {Portrait:Happy}
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: movieTheater_memory_oneweek
+DialogueText: Fajnie jest mieć kino w mieście. Chciałabym pooglądać western!
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: married_Abigail
+DialogueText: Tak się cieszę z waszego szczęścia! Witamy w rodzinie! {Portrait:Happy}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: wonGrange
+DialogueText: Pierre udaje, że jest w porządku, ale jest wściekły, bo przegrał z Tobą na targach Doliny Stardew.
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: married_memory_oneweek
+DialogueText: Ach, nowożeńcy. Jak wam minął miesiąc miodowy?
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: married_memory_oneweek
+DialogueText: Rozumiem. Cóż, farma mogłaby obumrzeć, gdybyś zrobił sobie wolne...
+AudioName: 17_male.ogg
+--------------------------------------------------
+DialogueFrom: married_memory_oneweek
+DialogueText: Rozumiem. Cóż, farma mogłaby obumrzeć, gdybyś zrobiła sobie wolne...
+AudioName: 18_female.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_719926
+DialogueText: Czy czujesz się zrelaksowany? Na pewno...
+AudioName: 19_male.ogg
+--------------------------------------------------
+DialogueFrom: eventSeen_719926
+DialogueText: Czy czujesz się zrelaksowana? Na pewno...
+AudioName: 20_female.ogg
+--------------------------------------------------
+DialogueFrom: houseUpgrade_1
+DialogueText: Słyszałam, że masz kuchnię! I jak, będziesz często jej używać?
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: houseUpgrade_1
+DialogueText: Dobrze jest mieć taką umiejętność. A z tymi wszystkimi składnikami na Twojej farmie, jest pole do popisu!
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: houseUpgrade_1
+DialogueText: Rozumiem. Cóż, pamiętaj o dobrym odżywianiu... to bardzo ważne.
+AudioName: 23.ogg
+--------------------------------------------------
+DialogueFrom: achievement_15
+DialogueText: Sądząc po pikantnych zapachach unoszących się z Twojego domku, czuć, że używasz kuchni! {Portrait:Happy}
+AudioName: 24.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Entering
+DialogueText: Willy dał każdemu kawałek suszonej ryby. Dalej przeżuwam.
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving
+DialogueText: Dziś w nocy będę dobrze spać! {Portrait:Happy}
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: W porównaniu z doliną, woda jest tutaj taka ciepła... Cudownie!
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Chair
+DialogueText: Caroline próbuje się zdrzemnąć.
+AudioName: 28.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Bar
+DialogueText: Jak miło! Powiedziałam Gusowi, żeby mnie zaskoczył, a on mi zrobił mrożoną zieloną herbatę z mango! {Portrait:Happy}
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Cześć {Farmer_Name}. Masz zamiar tu odpocząć, czy pracować?
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Chciałabym, żeby Abby nie spędzała tyle czasu w swoim pokoju.
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: Mon_inlaw_Abigail
+DialogueText: Cześć, {Farmer_Name}. Cieszysz się z życia w związku? Mam nadzieję, że tak!
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: # {Portrait:Happy} Caroline23
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Gdy przeprowadziliśmy się do Miasta Pelikan, przechadzałam się do wieży Czarnoksiężnika. Nie mów nic Pierrowi, potrafi być bardzo zazdrosny.
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: Mon8
+DialogueText: Abigail urodziła się rok po naszej przeprowadzce. Ciekawe, czy kiedyś stąd wyjedzie?
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Widziałam w lesie dziki chrzan.
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?
+AudioName: 38.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Jeśli nie, możemy Ci pomóc.
+AudioName: 39.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Mamy wiele przydatnych rzeczy.
+AudioName: 40.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: # {Portrait:Happy} Caroline1
+AudioName: 41.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Hmmm... Zastanawiam się, czy Pierre mógłby dzisiaj zrobić kolację.
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Hmmm... Co mogłabym dziś zrobić na kolację?
+AudioName: 43.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Może wezmę coś z knajpy.
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Ładny mamy dziś dzień.
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: W takie dni lubię pomagać Evelyn przy ogrodach.
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Jest silna jak na swój wiek, ale docenia pomoc od innych.
+AudioName: 47.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Czy mi się wydaje, czy Abigail ma niezdrowe zainteresowania w mroku i zagładzie?
+AudioName: 48.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Może jestem za stara, żeby to zrozumieć.
+AudioName: 49.ogg
+--------------------------------------------------
+DialogueFrom: Sat_inlaw_Abigail
+DialogueText: Odkąd Abigail się przeprowadziła, jemy obiady w strasznej ciszy...
+AudioName: 50.ogg
+--------------------------------------------------
+DialogueFrom: Sat_inlaw_Abigail
+DialogueText: Nie, to nie dlatego, że jadła z otwartymi ustami! {Portrait:Happy}
+AudioName: 51.ogg
+--------------------------------------------------
+DialogueFrom: Sat2
+DialogueText: Abby zawsze miała dziwne zainteresowania. Może jej się to zmieni...
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: Sat4
+DialogueText: Abby zawsze miała dziwne zainteresowania. Może jej się to zmieni...
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: Sat6
+DialogueText: # {Portrait:Happy} Caroline12
+AudioName: 54.ogg
+--------------------------------------------------
+DialogueFrom: Sat6
+DialogueText: Gdy po raz pierwszy się tu przeprowadziliśmy, długo mi zajęło oswojenie się z nowym otoczeniem... Nie byłam gotowa na wiejskie życie.
+AudioName: 55.ogg
+--------------------------------------------------
+DialogueFrom: Sat6
+DialogueText: Pierre jest zbyt tradycyjny... ale jest dobrym człowiekiem. Jest ambitny, ale rodzina zawsze jest dla niego najważniejsza.
+AudioName: 56.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Dzisiaj będę odpoczywać i myśleć pozytywnie.
+AudioName: 57.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Bierzesz sobie kiedykolwiek wolne?
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Dolina Stardew jest miłym miejscem, ale chciałabym poznać więcej osób.
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: Wed6
+DialogueText: Cieszę się, że się przyjaźnimy.
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: W środy sklep jest zamknięty.
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: summer_Mon
+DialogueText: Pamiętaj o tym, jeśli będzie Ci czegoś trzeba.
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue
+DialogueText: Ostatnio w lesie widuję dzikie owoce.
+AudioName: 63.ogg
+--------------------------------------------------
+DialogueFrom: summer_Tue
+DialogueText: Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed
+DialogueText: Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed
+DialogueText: Jeśli nie, możemy Ci pomóc.
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed
+DialogueText: Mamy wiele użytecznych rzeczy.
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat
+DialogueText: Tylko mi się tak wydaje, czy Abigail jest trochę blada?
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat
+DialogueText: Może za bardzo się o nią martwię.
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sat_inlaw_Abigail
+DialogueText: Jak się ma nasza Abigail? Jest zdrowa? Zawsze była bladą dziewczynką. Na szczęście życie na wsi daje jej trochę koloru na policzkach.
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Dzisiaj będę odpoczywać i myśleć pozytywnie.
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: summer_Sun
+DialogueText: Bierzesz sobie kiedykolwiek wolne?
+AudioName: 72.ogg
+--------------------------------------------------
+DialogueFrom: summer_Wed6
+DialogueText: Czas zdaje się przyśpieszać im starszym się stajesz... {Portrait:Sad}
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon
+DialogueText: Abby uwielbia jesień. Mam nadzieję, że będzie częściej wychodzić z pokoju.
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon_inlaw_Abigail
+DialogueText: Abby brała tutaj lekcje online, ale nie wiem czy naprawdę to lubiła...
+AudioName: 75.ogg
+--------------------------------------------------
+DialogueFrom: fall_Mon_inlaw_Abigail
+DialogueText: Jest wolną osobą, jak ja przed tym, jak poznałam Pierre'a.
+AudioName: 76.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue
+DialogueText: Widziałam w lesie jadalne grzyby.
+AudioName: 77.ogg
+--------------------------------------------------
+DialogueFrom: fall_Tue
+DialogueText: Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.
+AudioName: 78.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat
+DialogueText: Czy tylko mi się wydaje, czy Abigail za dużo gra w gry?
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: fall_Sat
+DialogueText: Może nie jestem na czasie.
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed6
+DialogueText: Wiesz, kiedyś też byłam farmerem. Cóż, bardziej ranczerem.
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: fall_Wed6
+DialogueText: Gdy byłam dzieckiem, podobały mi się filmy o dzikim zachodzie.
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue
+DialogueText: Zima jest trudna, ale możesz wykopać jakieś korzenie, jeśli masz dosyć szczęścia.
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: winter_Tue
+DialogueText: Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri
+DialogueText: Od czasu do czasu sprawdzam publiczne ogrody, nawet w takie zimno.
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: winter_Fri
+DialogueText: Muszę mieć pewność, że nie są za bardzo uszkodzone przed następną wiosną.
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat
+DialogueText: Nie uważasz, że Abi wygląda lepiej z jej naturalnym kolorem włosów?
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: winter_Sat
+DialogueText: Kiedyś miała jasne, kasztanowo-brązowe włosy.
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed6
+DialogueText: Cieszysz się, że nadchodzi nowy rok?
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: winter_Wed6
+DialogueText: Przewiduję, że następny rok na Twojej farmie będzie udany. {Portrait:Happy}
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: rainy
+DialogueText: Mój ogródek dziś bardzo się cieszy. {Portrait:Happy}
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: rainy
+DialogueText: ... I nasz rachunek za wodę w tym miesiącu będzie mniejszy.
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/6184644:s0
+DialogueText: O radości
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/150938:s0
+DialogueText: Wypoczęta
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: Event/HaleyHouse/150938:s1
+DialogueText: Wygląda na to, że kryształy zostały wykorzystane w dobrym celu...
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s0
+DialogueText: Dość tego! Pozwalamy Ci tutaj mieszkać za darmo, dopóki nie skończysz szkoły. Nie doceniasz tego! {Portrait:Unique}
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/17:s1
+DialogueText: ... Masz rację. Przepraszam. {Portrait:Sad}
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/58:s0
+DialogueText: Dobrze! Na tym skończymy naszą sesję aerobiku!
+AudioName: 98.ogg
+--------------------------------------------------
+DialogueFrom: Event/SeedShop/58:s1
+DialogueText: Spociłyście się? {Portrait:Happy}
+AudioName: 99.ogg
+--------------------------------------------------
+DialogueFrom: Event/CommunityCenter/Punch:s0
+DialogueText: Pierre!
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s0
+DialogueText: O, hej! Dzień dobry, {Farmer_Name}. Cieszę się, że Cię widzę...
+AudioName: 101.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s1
+DialogueText: Chciałam Ci to pokazać... To mój specjalny pokój.
+AudioName: 102.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s2
+DialogueText: Co o nim myślisz?
+AudioName: 103.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s3
+DialogueText: Dziękuję! Ciężko nad nim pracowałam... {Portrait:Happy}
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s4
+DialogueText: Tak... Gdy tu wchodzę, czuję spokój i od razu jestem zrelaksowana. Jest bardzo terapeutyczny!
+AudioName: 105.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s5
+DialogueText: Och? To ciepło mnie uspokaja. {Portrait:Sad}
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s6
+DialogueText: Będzie lepiej, jak będziesz stać nieruchomo.
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s7
+DialogueText: Ale ty jesteś profesjonalistą... Dla mnie, to tylko hobby.
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s8
+DialogueText: Widzisz, to moje sanktuarium... miejsce, w którym zawsze znajduję spokój...
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s9
+DialogueText: I jest to idealne miejsce na picie herbaty, którą sama wyhodowałam! Proszę, napijmy się...
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s10
+DialogueText: Pewnie, nic nie szkodzi...
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s11
+DialogueText: Przepyszna
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s12
+DialogueText: Uwielbiam tu przychodzić na kubek świeżej herbaty.
+AudioName: 113.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s13
+DialogueText: To taki mój mały rytuał...
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s14
+DialogueText: Eeem... Spróbuję to jakoś wyjaśnić... {Portrait:Happy}
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s15
+DialogueText: Mam nadzieję, że ma to sens...
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s16
+DialogueText: Życie bywa ciężkie, więc hobby takie jak to jest bardzo przyjemne.
+AudioName: 117.ogg
+--------------------------------------------------
+DialogueFrom: Event/Sunroom/719926:s17
+DialogueText: Możesz tu przychodzić i sobie odpocząć kiedy tylko chcesz, ok?
+AudioName: 118.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Caroline
+DialogueText: Pierre jest bardzo poważny jeśli chodzi o wystawę. Odkładał najlepiej wyglądające produkty tygodniami jako przygotowanie.
+AudioName: 119.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Caroline
+DialogueText: Hej, życzę Ci powodzenia!
+AudioName: 120.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Caroline_y2
+DialogueText: Część produktów na naszej wystawie pochodzi z mojej małej szklarni. Starannie uprawialiśmy te rośliny przez cały rok! {Portrait:Neutral}
+AudioName: 121.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Caroline
+DialogueText: Bardzo łatwo mnie przestraszyć. Zostawię labirynt młodszym.
+AudioName: 122.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Caroline_y2
+DialogueText: Powinnam przygotować talerz dla mojego męża. Całą noc przegląda sklep. {Portrait:Neutral}
+AudioName: 123.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Caroline
+DialogueText: Abby już jako dziecko uwielbiała polowania na jajka.
+AudioName: 124.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Caroline_y2
+DialogueText: Może to być trochę nudne, ale te festiwale to dobra szansa, żeby lepiej poznać naszych sąsiadów.
+AudioName: 125.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Caroline
+DialogueText: Chciałabym, żeby Pierre spędził ten dzień z rodziną... {Portrait:Sad}
+AudioName: 126.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Caroline_y2
+DialogueText: Poprosiłabym mojego męża o taniec, ale on niezbyt umie. {Portrait:Neutral}
+AudioName: 127.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Caroline
+DialogueText: Wrzuciłam tam świeże warzywa z mojego ogródka.
+AudioName: 128.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Caroline_y2
+DialogueText: Gus użył moich ziemniaków w niektórych daniach z bufetu. {Portrait:Neutral}
+AudioName: 129.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Caroline_y2
+DialogueText: A więc, co ciekawego dodasz do zupy? {Portrait:Neutral}
+AudioName: 130.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Caroline
+DialogueText: Świece są bardzo romantyczne, prawda?
+AudioName: 131.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Caroline_y2
+DialogueText: Cieszę się, że meduzy nas odwiedzają w ich drodze na południe. To magiczny moment, który nasza społeczność może przeżyć razem. {Portrait:Neutral}
+AudioName: 132.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Caroline
+DialogueText: Oooch... Wypiłam za dużo kogla mogla. {Portrait:Happy}
+AudioName: 133.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Caroline_y2
+DialogueText: Czyż to drzewo nie jest wspaniałe? {Portrait:Happy}
+AudioName: 134.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Caroline_y2
+DialogueText: Cały poranek dekorowałyśmy je razem z Marnie i Jodi. To fajna tradycja!
+AudioName: 135.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Caroline
+DialogueText: Jak Ci mija zima, {Farmer_Name}? {Portrait:Happy}
+AudioName: 136.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Caroline_y2
+DialogueText: Cześć, {Farmer_Name}. Masz zamiar odpocząć od swoich farmerskich obowiązków tej zimy? {Portrait:Neutral}
+AudioName: 137.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Caroline:s0
+DialogueText: Och, {Farmer_Name}... rozpieszczasz mnie! Uwielbiam to!
+AudioName: 138.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Caroline:s1
+DialogueText: Dla mnie? To taki przemyślany prezent! Dziękuję!
+AudioName: 139.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Caroline:s2
+DialogueText: Och... Rozumiem. Postaram się to dobrze wykorzystać...
+AudioName: 140.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Caroline:s3
+DialogueText: Um... Chyba mogłabym tego użyć na kompost...
+AudioName: 141.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Caroline:s4
+DialogueText: Och, jak słodko. Dziękuję.
+AudioName: 142.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityLow
+DialogueText: Och, {Farmer_Name}... To takie żenujące. Wyrzuciłam jedno z {2}, które mamy od Ciebie na kompost. {Portrait:Sad}
+AudioName: 143.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityLow
+DialogueText: Teraz wszystko strasznie śmierdzi. Skąd ty takie coś w ogóle masz?
+AudioName: 144.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityHigh
+DialogueText: Och, {Farmer_Name}... To takie żenujące. Wyrzuciłam jedno z {2} które mamy od Ciebie na kompost. {Portrait:Sad}
+AudioName: 145.ogg
+--------------------------------------------------
+DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityHigh
+DialogueText: Ale w sumie robakom się to spodobało!
+AudioName: 146.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_summer_movie_0_BeforeMovie
+DialogueText: Zawsze podobały mi się filmy o dzikim zachodzie, więc nie mogę się doczekać, aż to zobaczę!
+AudioName: 147.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_summer_movie_0_AfterMovie
+DialogueText: To było wspaniałe! Z tymi kostiumami naprawdę wyglądał jak autentyk.
+AudioName: 148.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_love_BeforeMovie
+DialogueText: Ten film wygląda tak słodko. Miałam nadzieję, że ktoś mnie na to zaprosi!
+AudioName: 149.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_love_DuringMovie
+DialogueText: Mam nadzieję, że nic mu się nie stanie... {Portrait:Sad}
+AudioName: 150.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_love_AfterMovie
+DialogueText: To było słodkie. Dzięki za zaproszenie!
+AudioName: 151.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_like_BeforeMovie
+DialogueText: '{0}'... Nie mam pojęcia, o czym to jest! Mam nadzieję, że nie jest brutalny.
+AudioName: 152.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_like_AfterMovie
+DialogueText: Nie było źle! Będę musiała zapytać o to Abigail. Jestem pewna, że już to widziała. {Portrait:Happy}
+AudioName: 153.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_dislike_BeforeMovie
+DialogueText: Mam takie przeczucie, że ten będzie rozczarowaniem... Ale nadal chcę dać mu szansę.
+AudioName: 154.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Caroline_dislike_AfterMovie
+DialogueText: To było głupie... Założę się, że Pierre by to polubił. {Portrait:Sad}
+AudioName: 155.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Caroline
+DialogueText: Ta pogoda jest idealna. Nie wiem gdzie kończy się moja skóra, a zaczyna się powietrze. {Portrait:Happy}
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Shop_Caroline
+DialogueText: Cześć. Mam nadzieję, że coś Ci się spodoba.
+AudioName: 157.ogg
+--------------------------------------------------

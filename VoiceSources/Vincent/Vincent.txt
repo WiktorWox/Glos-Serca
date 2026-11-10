@@ -1,0 +1,404 @@
+DialogueFrom: Introduction
+DialogueText: Och, nieznajomy! Jestem Vincent.
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Introduction
+DialogueText: Mama mówi, żeby nie rozmawiać z obcymi... Ale ty wydajesz się w porządku.
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: To prezent urodzinowy? Mogę go już otworzyć?
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Positive
+DialogueText: Ooo, wow! Właśnie tego chciałem! Jupi! {Portrait:Happy}
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: AcceptBirthdayGift_Negative
+DialogueText: Prezent urodzinowy? Och... to niezbyt fajne. {Portrait:Sad}
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(O)StardropTea
+DialogueText: Wow! Ale słodka! Mmmm...
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_(TR)FrogEgg
+DialogueText: *Gniot* *gniot*... Fuuuj! Mogę to zatrzymać? Mogę, mogę, mogę? Jeeej! {Portrait:Happy}
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain
+DialogueText: Mamo! Chcę iść się pobawić na polu!%noturn
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: GreenRain_2
+DialogueText: Vincent cały pokryty jest mchem.
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: AcceptGift_Negative_alcohol_item
+DialogueText: *Niuch*... Co to? Ale śmierdzi... Mamooo!!! {Portrait:Sad}
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Entering
+DialogueText: Ale tu fajnie! Kiedyś zostanę kapitanem statku!
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Leaving
+DialogueText: Chcę tu niedługo wrócić!
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: Resort_Shore
+DialogueText: Chcę zobaczyć rekina! {Portrait:Happy}
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: married_Sam
+DialogueText: Nie zabieraj mi braciszka! {Portrait:Sad}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: Resort
+DialogueText: Jeśli dobrze się przyjrzysz, zobaczysz małe robaczki wyskakujące z piasku. {Portrait:Happy}
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: reject_869
+DialogueText: Oooch! Fajne!
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: reject_869
+DialogueText: Ale mama nie pozwoli mi go zatrzymać... {Portrait:Sad}
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Gdy dorosnę, chcę być taki jak mój brat! {Portrait:Happy}
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: Mon
+DialogueText: Okej! Pa!
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Cieszę się, że tata wrócił... ale jest inny, niż go zapamiętałem... {Portrait:Sad}
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: Mon4
+DialogueText: Taty długo nie ma... Chciałbym się z nim pobawić. {Portrait:Sad}
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: Tue
+DialogueText: *Ech*... Mama nie pozwala mi zjeść więcej żelków. {Portrait:Sad}
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: Tue6
+DialogueText: Umiesz zachować tajemnicę? {Portrait:Unique}
+AudioName: 23.ogg
+--------------------------------------------------
+DialogueFrom: Tue6
+DialogueText: Chciałbym poślubić Pannę Penny, jak dorosnę.
+AudioName: 24.ogg
+--------------------------------------------------
+DialogueFrom: Tue6
+DialogueText: Ale nie mów jej, dobra? {Portrait:Unique}
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: Chciałbym poszukać robaków, ale mama się denerwuje, kiedy wracam do domu brudny. {Portrait:Unique}
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: Wed
+DialogueText: To trudny wybór.
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: Thu
+DialogueText: Jestem głodny... Gdzie jest mama? {Portrait:Sad}
+AudioName: 28.ogg
+--------------------------------------------------
+DialogueFrom: Thu2
+DialogueText: Większość dorosłych to nudziarze. Ale nie ty!
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: Fuj, dziś na kolację gotowane buraki... {Portrait:Sad}
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: $e
+AudioName: 31.ogg
+--------------------------------------------------
+DialogueFrom: Fri
+DialogueText: O nie... Mama znowu robi zupę z soczewicy. {Portrait:Sad}
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: Sat_1
+DialogueText: Tata niedługo wróci!
+AudioName: 33.ogg
+--------------------------------------------------
+DialogueFrom: Sat_1
+DialogueText: Mam nadzieję, że przywiezie mi jakieś zabawki. {Portrait:Unique}
+AudioName: 34.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Panna Penny każe mi co tydzień czytać książkę. {Portrait:Sad}
+AudioName: 35.ogg
+--------------------------------------------------
+DialogueFrom: Sat
+DialogueText: Przynajmniej czasami pozwala mi je wybierać!
+AudioName: 36.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Tata dziwnie się zachowuje, odkąd wrócił. Co się z nim dzieje? {Portrait:Sad}
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Już się ze mną nie bawi. {Portrait:Sad}
+AudioName: 38.ogg
+--------------------------------------------------
+DialogueFrom: Sat8
+DialogueText: Zastanawiam się, czy tata kiedyś wróci do domu... {Portrait:Sad}
+AudioName: 39.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Dzień dobry, proszę pana!
+AudioName: 40_male.ogg
+--------------------------------------------------
+DialogueFrom: Sun
+DialogueText: Dzień dobry, proszę pani!
+AudioName: 41_female.ogg
+--------------------------------------------------
+DialogueFrom: Sun10
+DialogueText: Cześć, wujku {Farmer_Name}!
+AudioName: 42_male.ogg
+--------------------------------------------------
+DialogueFrom: Sun10
+DialogueText: Cześć, ciociu {Farmer_Name}!
+AudioName: 43_female.ogg
+--------------------------------------------------
+DialogueFrom: Sun10
+DialogueText: Nie mów mojej mamie... Ale jesteś moim ulubionym dorosłym. {Portrait:Happy}
+AudioName: 44.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s0
+DialogueText: Nie mogę się doczekać, Sam!
+AudioName: 45.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s1
+DialogueText: OK!
+AudioName: 46.ogg
+--------------------------------------------------
+DialogueFrom: Event/FarmHouse/3918603:s2
+DialogueText: Ja też!
+AudioName: 47.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/6184643:s0
+DialogueText: Czy to znaczy, że nie będzie pracy domowej? {Portrait:Happy}
+AudioName: 48.ogg
+--------------------------------------------------
+DialogueFrom: Event/Town/6184643:s1
+DialogueText: Ostatnio dużo myślałam o torcie...
+AudioName: 49.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s0
+DialogueText: Sam...? {Portrait:Unique}
+AudioName: 50.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s1
+DialogueText: Czy tata kiedyś wróci do domu? {Portrait:Sad}
+AudioName: 51.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s2
+DialogueText: Ale słyszałem, niektórzy dorośli mówili... że wszystkie nasze wojska są rozstrzeliwane. {Portrait:Sad}
+AudioName: 52.ogg
+--------------------------------------------------
+DialogueFrom: Event/Beach/733330:s3
+DialogueText: Ok!
+AudioName: 53.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/181928:s0
+DialogueText: Panie {Farmer_Name}, ożeni się pan z panną Penny? {Portrait:Sad}
+AudioName: 54_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/181928:s1
+DialogueText: Panno {Farmer_Name}... em, ma pani chłopaka?
+AudioName: 55_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/choseFarming:s0
+DialogueText: Em, {Farmer_Name}? Czy jeśli zjem Twoje warzywka, będę tak silny jak mój starszy brat Sam?
+AudioName: 56.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/choseFarming:s1
+DialogueText: Jest silny, widziałem jak podniósł pannę Penny wczoraj wieczorem jak wspinali się na drzewo. {Portrait:Happy}
+AudioName: 57.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/choseAnimals:s0
+DialogueText: {Farmer_Name}? Mogę położyć siodło na jedną z twoich krów i przyjechać na niej do miasta? Jak prawdziwy kowboj!
+AudioName: 58.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/choseMinerals:s0
+DialogueText: {Farmer_Name}? To prawda, że gobliny mieszkają głęboko w jaskiniach... i że lubią porywać małe dziewczynki na obiad?
+AudioName: 59.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s0
+DialogueText: ... {Portrait:Sad}
+AudioName: 60.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s1
+DialogueText: Czemu to jest zamknięte? Chcę iść na przygodę w ściekach! {Portrait:Sad}
+AudioName: 61.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/318560:s2
+DialogueText: Profesor Gunther? Ten z muzeum? Czemu tak myślisz? {Portrait:Unique}
+AudioName: 62.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s0
+DialogueText: Hejka, panie {Farmer_Name}!
+AudioName: 63_male.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s1
+DialogueText: Hejka, panno {Farmer_Name}!
+AudioName: 64_female.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s2
+DialogueText: Ceb... Cebula dymka. Mama mnie czasami wysyła po nią...
+AudioName: 65.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s3
+DialogueText: Jak na dorosłego, jesteś spoko... więc wyjawię Ci tajemnicę. {Portrait:Happy}
+AudioName: 66.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s4
+DialogueText: Jak widzisz, dobrze wygląda, prawda?
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s5
+DialogueText: Ale jeśli trochę zedrzesz...
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s6
+DialogueText: ... Jest w tym dużo robaków! {Portrait:Sad}
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s7
+DialogueText: Fajne, co? {Portrait:Happy}
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: Event/Forest/3910979:s8
+DialogueText: Zazwyczaj je zgniatam!
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Vincent
+DialogueText: Muuuu!
+AudioName: 72.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall16/Vincent_y2
+DialogueText: Mogę jeszcze zagrać w namiocie z procą, Tato!? Proszę? {Portrait:Neutral}
+AudioName: 73.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Vincent
+DialogueText: Mama nie pozwala mi iść do labiryntu. *szloch* {Portrait:Sad}
+AudioName: 74.ogg
+--------------------------------------------------
+DialogueFrom: Festival/fall27/Vincent_y2
+DialogueText: Przeszliśmy labirynt? Gdzie moja nagroda? {Portrait:Neutral}
+AudioName: 75.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Vincent
+DialogueText: Kiedy się zacznie? polowanie na jajka! Nie mogę się doczekać!! {Portrait:Happy}
+AudioName: 76.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring13/Vincent_y2
+DialogueText: Chcę mieszkać w dużym jajku!
+AudioName: 77.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Vincent
+DialogueText: To nie fair... Dlaczego ja nie mogę być królową kwiatów?
+AudioName: 78.ogg
+--------------------------------------------------
+DialogueFrom: Festival/spring24/Vincent_y2
+DialogueText: Skoro jest królowa kwiatów... to musi też być król! {Portrait:Neutral}
+AudioName: 79.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Vincent
+DialogueText: Nudzę się...
+AudioName: 80.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer11/Vincent_y2
+DialogueText: Czemu nie mogę się pobawić w tych małych stawikach? {Portrait:Sad}
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Vincent
+DialogueText: Chcę zobaczyć zieloną meduzę!
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: Festival/summer28/Vincent_y2
+DialogueText: Raz dotknąłem meduzy i mnie poparzyła. {Portrait:Sad}
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Vincent
+DialogueText: Możemy już otworzyć prezenty?!
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Vincent_y2
+DialogueText: Dostałem zabawkowego dinozaura, którego chciałem! Widzisz!? {Portrait:Happy}
+AudioName: 85.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter25/Vincent_y2
+DialogueText: To jest yy... Ste-... stego-... stegosonaur!... Tak myślę. {Portrait:Neutral}
+AudioName: 86.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Vincent
+DialogueText: Widziałem tam dużą rybę!
+AudioName: 87.ogg
+--------------------------------------------------
+DialogueFrom: Festival/winter8/Vincent_y2
+DialogueText: Mój starszy brat pomaga mi ulepić bałwana! {Portrait:Neutral}
+AudioName: 88.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Vincent:s0
+DialogueText: Wow, bardzo Ci dziękuję! To jest wspaniałe!
+AudioName: 89.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Vincent:s1
+DialogueText: To dla mnie? Wow, dzięki!
+AudioName: 90.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Vincent:s2
+DialogueText: To nie jest śmieszne... {Portrait:Sad}
+AudioName: 91.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Vincent:s3
+DialogueText: Fuj, co to jest? {Portrait:Sad}
+AudioName: 92.ogg
+--------------------------------------------------
+DialogueFrom: NPCGiftTastes/Vincent:s4
+DialogueText: Dzięki!
+AudioName: 93.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Vincent_love_BeforeMovie
+DialogueText: Nie mogę się doczekać! Mama powiedziała, że mogę wziąć coś słodkiego! {Portrait:Happy}
+AudioName: 94.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Vincent_love_DuringMovie
+DialogueText: Vincent świetnie się bawi!
+AudioName: 95.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Vincent_love_AfterMovie
+DialogueText: Było super! Chcę to obejrzeć jeszcze raz! {Portrait:Happy}
+AudioName: 96.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Vincent_dislike_BeforeMovie
+DialogueText: A... Ale... Ten film jest dla dorosłych, prawda? {Portrait:Sad}
+AudioName: 97.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Vincent_dislike_DuringMovie
+DialogueText: Vincent wierci się na krześle.
+AudioName: 98.ogg
+--------------------------------------------------
+DialogueFrom: MovieReactions/Vincent_dislike_AfterMovie
+DialogueText: To było nudne... Nic z tego nie zrozumiałem. {Portrait:Sad}
+AudioName: 99.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:DesertFestival_Vincent
+DialogueText: Mamo, nudzę się!
+AudioName: 100.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Shop_Vincent
+DialogueText: Cześć! Eee... Znalazłem trochę rzeczy. Chcesz kupić!?
+AudioName: 101.ogg
+--------------------------------------------------

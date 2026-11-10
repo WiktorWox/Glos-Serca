@@ -1,0 +1,19 @@
+﻿{
+  // Menu konfiguracji (Generic Mod Config Menu)
+  "config.section.general.name": "Ustawienia ogólne",
+  "config.mute-typing.name": "Wycisz dźwięk pisania dialogów",
+  "config.mute-typing.tooltip": "Gdy zaznaczone, wyłącza domyślny dźwięk „stukania”, gdy pojawia się tekst dialogu.",
+  "config.master-volume.name": "Głośność dialogów",
+  "config.master-volume.tooltip": "Ogólna głośność nagrań (mnożona przez głośność dźwięków w grze).",
+  "config.audio-start.name": "Opóźnienie startu głosu",
+  "config.audio-start.tooltip": "Liczba klatek odczekanych po pojawieniu się tekstu, zanim zacznie grać głos. Mniej = szybciej, ale kwestia może zacząć się jeszcze na poprzednim oknie; więcej = wyraźne opóźnienie.",
+  "config.section.developer.name": "Opcje deweloperskie",
+  "config.developer-mode.name": "Tryb deweloperski",
+  "config.developer-mode.tooltip": "Włącza szczegółowe logi dopasowywania i odtwarzania w konsoli SMAPI. Może obniżyć wydajność.",
+
+  // Sprawdzanie wersji tłumaczenia (komunikat po wczytaniu zapisu i akapit w menu konfiguracji)
+  "translation.missing": "Głos Serca: nie znaleziono polskiego tłumaczenia ({{name}}). Bez niego dubbing nie zadziała.",
+  "translation.older": "Głos Serca: masz {{name}} {{installed}}, paczka głosów jest przygotowana pod {{required}}. Zaktualizuj tłumaczenie, inaczej część kwestii może nie grać.",
+  "translation.newer": "Głos Serca: masz {{name}} {{installed}}, nowszą niż {{required}}, pod którą przygotowano paczkę. Zwykle działa, ale pojedyncze kwestie mogą nie grać.",
+  "translation.ok": "Głos Serca: {{name}} {{installed}} – zgodne z paczką głosów."
+}

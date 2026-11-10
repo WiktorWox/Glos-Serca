@@ -1,0 +1,172 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.MrQi.pl",
+      "VoicePackName": "Głos Serca (MrQi)",
+      "Character": "MrQi",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s0",
+          "DialogueText": "No, no, no... któż to taki dostał się do mojego sekretnego orzechowego pokoju?",
+          "AudioPath": "assets/pl/MrQi/1.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "No, no, no... któż to taki dostał się do mojego sekretnego orzechowego pokoju?"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s1",
+          "DialogueText": "Jestem pod wrażeniem.",
+          "AudioPath": "assets/pl/MrQi/2.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem pod wrażeniem."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s2",
+          "DialogueText": "Mimo, że do pełnego dostępu do wyspy wystarczyło Ci tylko kilka orzechów włoskich, zdecydowałeś się iść dalej.",
+          "AudioPath": "assets/pl/MrQi/3_male.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mimo, że do pełnego dostępu do wyspy wystarczyło Ci tylko kilka orzechów włoskich, zdecydowałeś się iść dalej.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s3",
+          "DialogueText": "Mimo że do pełnego dostępu do wyspy wystarczyło Ci tylko kilka orzechów włoskich, zdecydowałaś się iść dalej.",
+          "AudioPath": "assets/pl/MrQi/4_female.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Mimo że do pełnego dostępu do wyspy wystarczyło Ci tylko kilka orzechów włoskich, zdecydowałaś się iść dalej.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s4",
+          "DialogueText": "Twoje pragnienie wejścia do sekretnych drzwi było tak silne, że mierzyłeś wysoko, aby dostać się do środka.",
+          "AudioPath": "assets/pl/MrQi/5_male.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Twoje pragnienie wejścia do sekretnych drzwi było tak silne, że mierzyłeś wysoko, aby dostać się do środka.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s5",
+          "DialogueText": "Twoje pragnienie wejścia do sekretnych drzwi było tak silne, że mierzyłaś wysoko, aby dostać się do środka.",
+          "AudioPath": "assets/pl/MrQi/6_female.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Twoje pragnienie wejścia do sekretnych drzwi było tak silne, że mierzyłaś wysoko, aby dostać się do środka.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s6",
+          "DialogueText": "Ta chęć jest tym, co Cię wyróżnia dzieciaku. Masz w sobie bardzo wyjątkową energię.",
+          "AudioPath": "assets/pl/MrQi/7.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Ta chęć jest tym, co Cię wyróżnia dzieciaku. Masz w sobie bardzo wyjątkową energię."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s7",
+          "DialogueText": "Biorąc to pod uwagę...",
+          "AudioPath": "assets/pl/MrQi/8.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Biorąc to pod uwagę..."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s8",
+          "DialogueText": "Nie myślałeś, że wyzwanie skończyło się tutaj, prawda?",
+          "AudioPath": "assets/pl/MrQi/9_male.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie myślałeś, że wyzwanie skończyło się tutaj, prawda?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s9",
+          "DialogueText": "Nie myślałaś, że wyzwanie skończyło się tutaj, prawda?",
+          "AudioPath": "assets/pl/MrQi/10_female.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie myślałaś, że wyzwanie skończyło się tutaj, prawda?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s10",
+          "DialogueText": "Nie... Ha ha ha... wyzwanie dopiero się rozpoczęło.",
+          "AudioPath": "assets/pl/MrQi/11.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie... Ha ha ha... wyzwanie dopiero się rozpoczęło."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s11",
+          "DialogueText": "Na Twoje lewo, znajdziesz tablicę z bardzo ciekawymi wyzwaniami.",
+          "AudioPath": "assets/pl/MrQi/12.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s11",
+          "PageIndex": 0,
+          "DisplayPattern": "Na Twoje lewo, znajdziesz tablicę z bardzo ciekawymi wyzwaniami."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s12",
+          "DialogueText": "Te wyzwania, które dla Ciebie zaprojektowałem, popchną Cię do granic możliwości.",
+          "AudioPath": "assets/pl/MrQi/13.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s12",
+          "PageIndex": 0,
+          "DisplayPattern": "Te wyzwania, które dla Ciebie zaprojektowałem, popchną Cię do granic możliwości."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s13",
+          "DialogueText": "Jednakże, jeśli uda Ci się je wykonać, dostaniesz ekskluzywną walutę... nazywam ją 'Klejnotami Qi'",
+          "AudioPath": "assets/pl/MrQi/14.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s13",
+          "PageIndex": 0,
+          "DisplayPattern": "Jednakże, jeśli uda Ci się je wykonać, dostaniesz ekskluzywną walutę... nazywam ją 'Klejnotami Qi'"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s14",
+          "DialogueText": "Tylko ich nie bierz do buzi, dzieciaku... Są bardzo radioaktywne. He he he...",
+          "AudioPath": "assets/pl/MrQi/15.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s14",
+          "PageIndex": 0,
+          "DisplayPattern": "Tylko ich nie bierz do buzi, dzieciaku... Są bardzo radioaktywne. He he he..."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s15",
+          "DialogueText": "Możesz użyć maszyny na prawo, aby je wymienić na rzadkie i potężne nagrody.",
+          "AudioPath": "assets/pl/MrQi/16.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s15",
+          "PageIndex": 0,
+          "DisplayPattern": "Możesz użyć maszyny na prawo, aby je wymienić na rzadkie i potężne nagrody."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s16",
+          "DialogueText": "Brzmi ciekawie, prawda?",
+          "AudioPath": "assets/pl/MrQi/17.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s16",
+          "PageIndex": 0,
+          "DisplayPattern": "Brzmi ciekawie, prawda?"
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s17",
+          "DialogueText": "Tak... mam wrażenie, że komuś takiemu jak ty, bardzo się to spodoba...",
+          "AudioPath": "assets/pl/MrQi/18.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s17",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak... mam wrażenie, że komuś takiemu jak ty, bardzo się to spodoba..."
+        },
+        {
+          "DialogueFrom": "Event/QiNutRoom/10040609:s18",
+          "DialogueText": "A teraz, jeśli mi wybaczysz... mam ważne rzeczy do załatwienia.",
+          "AudioPath": "assets/pl/MrQi/19.ogg",
+          "TranslationKey": "Events/QiNutRoom:10040609:s18",
+          "PageIndex": 0,
+          "DisplayPattern": "A teraz, jeśli mi wybaczysz... mam ważne rzeczy do załatwienia."
+        }
+      ]
+    }
+  ]
+}

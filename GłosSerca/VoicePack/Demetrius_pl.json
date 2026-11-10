@@ -1,0 +1,1604 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Demetrius.pl",
+      "VoicePackName": "Głos Serca (Demetrius)",
+      "Character": "Demetrius",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Witam! Jestem Demetrius, lokalny naukowiec i ojciec. Dziękuję, że się przedstawiasz!",
+          "AudioPath": "assets/pl/Demetrius/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Introduction",
+          "PageIndex": 0,
+          "DisplayPattern": "Witam! Jestem Demetrius, lokalny naukowiec i ojciec. Dziękuję, że się przedstawiasz!"
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Badam lokalną roślinność i faunę z mojego domowego laboratorium.",
+          "AudioPath": "assets/pl/Demetrius/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Introduction",
+          "PageIndex": 1,
+          "DisplayPattern": "Badam lokalną roślinność i faunę z mojego domowego laboratorium."
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Znasz moją córkę Maru? Chciałaby Cię poznać.",
+          "AudioPath": "assets/pl/Demetrius/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Introduction",
+          "PageIndex": 2,
+          "DisplayPattern": "Znasz moją córkę Maru? Chciałaby Cię poznać."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Wow, to rzadka substancja. Muszę ją wziąć do laboratorium do... emm... dalszych badań.",
+          "AudioPath": "assets/pl/Demetrius/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, to rzadka substancja. Muszę ją wziąć do laboratorium do... emm... dalszych badań."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "Prezent!... o optymalnym czasie. Dzisiaj jest rocznica moich narodzin. Dziękuję! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:AcceptBirthdayGift_Positive",
+          "PageIndex": 0,
+          "DisplayPattern": "Prezent!... o optymalnym czasie. Dzisiaj jest rocznica moich narodzin. Dziękuję!"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Prezent!... o optymalnym czasie. Dzisiaj jest rocznica moich narodzin. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:AcceptBirthdayGift_Negative",
+          "PageIndex": 0,
+          "DisplayPattern": "Prezent!... o optymalnym czasie. Dzisiaj jest rocznica moich narodzin."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Zobaczmy co to jest... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:AcceptBirthdayGift_Negative",
+          "PageIndex": 1,
+          "DisplayPattern": "Zobaczmy co to jest..."
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "... Oh. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:AcceptBirthdayGift_Negative",
+          "PageIndex": 2,
+          "DisplayPattern": "... Oh."
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)107",
+          "DialogueText": "Wow, nienaruszone jajo dinozaura! To ekstremalnie rzadki okaz. Gdyby tylko dało się go inkubować...",
+          "AudioPath": "assets/pl/Demetrius/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:AcceptGift_(O)107",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, nienaruszone jajo dinozaura! To ekstremalnie rzadki okaz. Gdyby tylko dało się go inkubować..."
+        },
+        {
+          "DialogueFrom": "Resort_Entering",
+          "DialogueText": "To miejsce jest świetne. Już dostrzegłem rzadki gatunek kraba. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Entering",
+          "PageIndex": 0,
+          "DisplayPattern": "To miejsce jest świetne. Już dostrzegłem rzadki gatunek kraba."
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Nie zwracaj na mnie uwagi, {Farmer_Name}. Zbieram trochę próbek. Taka okazja może się już nie zdarzyć! {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Demetrius/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:GreenRain",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie zwracaj na mnie uwagi, . Zbieram trochę próbek. Taka okazja może się już nie zdarzyć!"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Emm... Jak spotkasz moją żonę, możesz jej powiedzieć, że nic mi nie jest? {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Demetrius/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:GreenRain",
+          "PageIndex": 1,
+          "DisplayPattern": "Emm... Jak spotkasz moją żonę, możesz jej powiedzieć, że nic mi nie jest?"
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Deszcz wydaje się nieszkodliwy, więc w tym roku zachowam mniej środków ostrożności.",
+          "AudioPath": "assets/pl/Demetrius/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:GreenRain_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Deszcz wydaje się nieszkodliwy, więc w tym roku zachowam mniej środków ostrożności."
+        },
+        {
+          "DialogueFrom": "firstVisit_Desert",
+          "DialogueText": "Słyszałem, że byłeś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałeś tam wiele unikalnych form życia.",
+          "AudioPath": "assets/pl/Demetrius/14_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:firstVisit_Desert",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałem, że byłeś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałeś tam wiele unikalnych form życia.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "firstVisit_Desert",
+          "DialogueText": "Słyszałem, że byłeś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałaś tam wiele unikalnych form życia.",
+          "AudioPath": "assets/pl/Demetrius/15_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:firstVisit_Desert",
+          "PageIndex": 1,
+          "DisplayPattern": "Słyszałem, że byłeś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałaś tam wiele unikalnych form życia.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "firstVisit_Desert",
+          "DialogueText": "Słyszałem, że byłaś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałeś tam wiele unikalnych form życia.",
+          "AudioPath": "assets/pl/Demetrius/16_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:firstVisit_Desert",
+          "PageIndex": 2,
+          "DisplayPattern": "Słyszałem, że byłaś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałeś tam wiele unikalnych form życia.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "firstVisit_Desert",
+          "DialogueText": "Słyszałem, że byłaś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałaś tam wiele unikalnych form życia.",
+          "AudioPath": "assets/pl/Demetrius/17_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:firstVisit_Desert",
+          "PageIndex": 3,
+          "DisplayPattern": "Słyszałem, że byłaś ostatnio na Pustyni Calico. Fascynujące! Jestem pewien, że zaobserwowałaś tam wiele unikalnych form życia.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "questComplete_104_memory_oneday",
+          "DialogueText": "Sprawdzasz jak badania nad melonem? Tak, Ja... yy... 'przeanalizowałem' go i z pewnością ma optymalny profil makroelementów...",
+          "AudioPath": "assets/pl/Demetrius/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:questComplete_104_memory_oneday",
+          "PageIndex": 0,
+          "DisplayPattern": "Sprawdzasz jak badania nad melonem? Tak, Ja... yy... 'przeanalizowałem' go i z pewnością ma optymalny profil makroelementów..."
+        },
+        {
+          "DialogueFrom": "purchasedAnimal_Dinosaur",
+          "DialogueText": "Czy dobrze usłyszałem? Udało Ci się inkubować jajo dinozaura? To coś niespotykanego! {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:purchasedAnimal_Dinosaur",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy dobrze usłyszałem? Udało Ci się inkubować jajo dinozaura? To coś niespotykanego!"
+        },
+        {
+          "DialogueFrom": "purchasedAnimal_Dinosaur",
+          "DialogueText": "Proszę, weź moją kawę, ja mam już dość... nie dam rady wypić więcej. [253]",
+          "AudioPath": "assets/pl/Demetrius/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:purchasedAnimal_Dinosaur",
+          "PageIndex": 1,
+          "DisplayPattern": "Proszę, weź moją kawę, ja mam już dość... nie dam rady wypić więcej."
+        },
+        {
+          "DialogueFrom": "dating_Maru",
+          "DialogueText": "Tak, Maru mi już powiedziała. Nie mogę powiedzieć, że jestem zachwycony, ale może udowodnisz mi, że się mylę. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:dating_Maru",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, Maru mi już powiedziała. Nie mogę powiedzieć, że jestem zachwycony, ale może udowodnisz mi, że się mylę."
+        },
+        {
+          "DialogueFrom": "married_Maru",
+          "DialogueText": "*ech*... {Farmer_Name}, Pogodziłem się z tym, że moja 'mała dziewczynka' stała się kobietą. Masz moje błogosławieństwo. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:married_Maru",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*... , Pogodziłem się z tym, że moja 'mała dziewczynka' stała się kobietą. Masz moje błogosławieństwo."
+        },
+        {
+          "DialogueFrom": "married_Sebastian",
+          "DialogueText": "Gratuluję wzięcia ślubu. Robin od ślubu ciągle płacze. 'Łzy szczęścia', jak to mówi! Najdziwniejsze pojęcie...",
+          "AudioPath": "assets/pl/Demetrius/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:married_Sebastian",
+          "PageIndex": 0,
+          "DisplayPattern": "Gratuluję wzięcia ślubu. Robin od ślubu ciągle płacze. 'Łzy szczęścia', jak to mówi! Najdziwniejsze pojęcie..."
+        },
+        {
+          "DialogueFrom": "married_Sebastian",
+          "DialogueText": "Hmm, skoro piwnica jest wolna, mógłbym powiększyć moje laboratorium... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:married_Sebastian",
+          "PageIndex": 1,
+          "DisplayPattern": "Hmm, skoro piwnica jest wolna, mógłbym powiększyć moje laboratorium..."
+        },
+        {
+          "DialogueFrom": "eventSeen_65_memory_oneweek",
+          "DialogueText": "Jak idzie eksperyment w jaskini? Wyprodukował już coś ciekawego?",
+          "AudioPath": "assets/pl/Demetrius/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:eventSeen_65_memory_oneweek",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak idzie eksperyment w jaskini? Wyprodukował już coś ciekawego?"
+        },
+        {
+          "DialogueFrom": "eventSeen_65_memory_oneweek",
+          "DialogueText": "Ach! Oznacza to, że warunki muszą być bardziej odpowiednie, niżeli pierwotnie zakładałem... hmm...",
+          "AudioPath": "assets/pl/Demetrius/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:eventSeen_65_memory_oneweek",
+          "PageIndex": 1,
+          "DisplayPattern": "Ach! Oznacza to, że warunki muszą być bardziej odpowiednie, niżeli pierwotnie zakładałem... hmm..."
+        },
+        {
+          "DialogueFrom": "eventSeen_65_memory_oneweek",
+          "DialogueText": "Cóż, sprawdzaj co jakiś czas. jestem pewien, że te maluchy w końcu przyniosą zysk.",
+          "AudioPath": "assets/pl/Demetrius/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:eventSeen_65_memory_oneweek",
+          "PageIndex": 2,
+          "DisplayPattern": "Cóż, sprawdzaj co jakiś czas. jestem pewien, że te maluchy w końcu przyniosą zysk."
+        },
+        {
+          "DialogueFrom": "eventSeen_65_memory_twoweeks",
+          "DialogueText": "Nie zapomnij sprawdzić jaskini na farmie! Z pewnością będzie tam coś ciekawego.",
+          "AudioPath": "assets/pl/Demetrius/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:eventSeen_65_memory_twoweeks",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie zapomnij sprawdzić jaskini na ie! Z pewnością będzie tam coś ciekawego."
+        },
+        {
+          "DialogueFrom": "Resort_Leaving",
+          "DialogueText": "Będę analizował te dane miesiącami.",
+          "AudioPath": "assets/pl/Demetrius/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Leaving",
+          "PageIndex": 0,
+          "DisplayPattern": "Będę analizował te dane miesiącami."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "*chrup*... Ups, tam idzie zagrożony gatunek kraba... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Shore",
+          "PageIndex": 0,
+          "DisplayPattern": "*chrup*... Ups, tam idzie zagrożony gatunek kraba..."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "...",
+          "AudioPath": "assets/pl/Demetrius/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Shore",
+          "PageIndex": 1,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Och, nieważne. To była tylko pusta skorupa! Mogę spać spokojnie.",
+          "AudioPath": "assets/pl/Demetrius/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Shore",
+          "PageIndex": 2,
+          "DisplayPattern": "Och, nieważne. To była tylko pusta skorupa! Mogę spać spokojnie."
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "Dobrze się bawisz, {Farmer_Name}? Pamiętaj o odpoczynku!",
+          "AudioPath": "assets/pl/Demetrius/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Chair",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze się bawisz, ? Pamiętaj o odpoczynku!"
+        },
+        {
+          "DialogueFrom": "Resort_Bar",
+          "DialogueText": "Przeważnie nie biorę udziału... ale nie zawsze jestem na tropikalnej wyspie. Ha ha ha. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort_Bar",
+          "PageIndex": 0,
+          "DisplayPattern": "Przeważnie nie biorę udziału... ale nie zawsze jestem na tropikalnej wyspie. Ha ha ha."
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "Możesz uwierzyć w to miejsce? Wszystko tu tętni życiem!",
+          "AudioPath": "assets/pl/Demetrius/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Resort",
+          "PageIndex": 0,
+          "DisplayPattern": "Możesz uwierzyć w to miejsce? Wszystko tu tętni życiem!"
+        },
+        {
+          "DialogueFrom": "reject_869",
+          "DialogueText": "To dobry okaz, lecz bardzo często spotykany gatunek. Możesz to zatrzymać.",
+          "AudioPath": "assets/pl/Demetrius/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:reject_869",
+          "PageIndex": 0,
+          "DisplayPattern": "To dobry okaz, lecz bardzo często spotykany gatunek. Możesz to zatrzymać."
+        },
+        {
+          "DialogueFrom": "reject_865",
+          "DialogueText": "Owoce i sól? Co za dziwne połączenie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:reject_865",
+          "PageIndex": 0,
+          "DisplayPattern": "Owoce i sól? Co za dziwne połączenie..."
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Robin nawet mi nie powie kto zapłacił za nowy dom Pam!",
+          "AudioPath": "assets/pl/Demetrius/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:pamHouseUpgradeAnonymous",
+          "PageIndex": 0,
+          "DisplayPattern": "Robin nawet mi nie powie kto zapłacił za nowy dom Pam!"
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Udaje, że jestem zły, ale w tajemnicy jestem dumny z tego, że dotrzymuje słowa... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:pamHouseUpgradeAnonymous",
+          "PageIndex": 1,
+          "DisplayPattern": "Udaje, że jestem zły, ale w tajemnicy jestem dumny z tego, że dotrzymuje słowa..."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Czasami Maru pomaga mi w laboratorium... Dobre z niej dziecko.",
+          "AudioPath": "assets/pl/Demetrius/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Czasami Maru pomaga mi w laboratorium... Dobre z niej dziecko."
+        },
+        {
+          "DialogueFrom": "Mon_inlaw_Maru",
+          "DialogueText": "Ciężko się bada bez Maru...",
+          "AudioPath": "assets/pl/Demetrius/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Mon_inlaw_Maru",
+          "PageIndex": 0,
+          "DisplayPattern": "Ciężko się bada bez Maru..."
+        },
+        {
+          "DialogueFrom": "Mon_inlaw_Maru",
+          "DialogueText": "Ale jej szczęście jest ważniejsze niż moje eksperymenty!",
+          "AudioPath": "assets/pl/Demetrius/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Mon_inlaw_Maru",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale jej szczęście jest ważniejsze niż moje eksperymenty!"
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "To miejsce ma bardzo żywy i różnorodny ekosystem. Dlatego byłem tak podekscytowany przeprowadzką.",
+          "AudioPath": "assets/pl/Demetrius/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "To miejsce ma bardzo żywy i różnorodny ekosystem. Dlatego byłem tak podekscytowany przeprowadzką."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Pewnie hodujesz na swojej farmie interesujące rośliny, hm?",
+          "AudioPath": "assets/pl/Demetrius/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie hodujesz na swojej ie interesujące rośliny, hm?"
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Może kiedyś wpadnę do Ciebie i sprawdzę.",
+          "AudioPath": "assets/pl/Demetrius/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Może kiedyś wpadnę do Ciebie i sprawdzę."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Jak tam biznes na farmie? To sezon na pasternak, prawda?",
+          "AudioPath": "assets/pl/Demetrius/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak tam biznes na ie? To sezon na pasternak, prawda?"
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Wydaje mi się, że to dosyć spokojna praca... na zewnątrz, z roślinami.",
+          "AudioPath": "assets/pl/Demetrius/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Wydaje mi się, że to dosyć spokojna praca... na zewnątrz, z roślinami."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Robin ma ostry temperament. Lepiej jej nie drażnić.",
+          "AudioPath": "assets/pl/Demetrius/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Robin ma ostry temperament. Lepiej jej nie drażnić."
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Nie mów jej tego. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie mów jej tego."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Zobaczmy... Gdy związki w rizosferze zawierają wystarczającą ilość węgla-13, to... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Zobaczmy... Gdy związki w rizosferze zawierają wystarczającą ilość węgla-13, to..."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Och! Wybacz. Głośno myślałem i Cię nie zauważyłem.",
+          "AudioPath": "assets/pl/Demetrius/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Och! Wybacz. Głośno myślałem i Cię nie zauważyłem."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Potrzebujesz czegoś?",
+          "AudioPath": "assets/pl/Demetrius/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Sat",
+          "PageIndex": 2,
+          "DisplayPattern": "Potrzebujesz czegoś?"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Dobrze jest od czasu do czasu zrobić sobie przerwę.",
+          "AudioPath": "assets/pl/Demetrius/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze jest od czasu do czasu zrobić sobie przerwę."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Pewnie to dla Ciebie trudne, gdy mieszkasz na farmie.",
+          "AudioPath": "assets/pl/Demetrius/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Sun",
+          "PageIndex": 1,
+          "DisplayPattern": "Pewnie to dla Ciebie trudne, gdy mieszkasz na ie."
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Hej, przynajmniej w zimie nie musisz się martwić o plony.",
+          "AudioPath": "assets/pl/Demetrius/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Sun",
+          "PageIndex": 2,
+          "DisplayPattern": "Hej, przynajmniej w zimie nie musisz się martwić o plony."
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Robin ma ostry temperament. Lepiej być po jej stronie.",
+          "AudioPath": "assets/pl/Demetrius/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Fri4",
+          "PageIndex": 0,
+          "DisplayPattern": "Robin ma ostry temperament. Lepiej być po jej stronie."
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "... Gdybym mógł określić ilościowo jej poziomy nastroju, zapewne mógłbym modelować fluktuacje za pomocą krzywej sinusoidalnej... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Fri4",
+          "PageIndex": 1,
+          "DisplayPattern": "... Gdybym mógł określić ilościowo jej poziomy nastroju, zapewne mógłbym modelować fluktuacje za pomocą krzywej sinusoidalnej..."
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Cześć {Farmer_Name}! Jak się dzisiaj miewasz?",
+          "AudioPath": "assets/pl/Demetrius/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Wed6",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć ! Jak się dzisiaj miewasz?"
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Chciałbym Ci jakoś ułatwić pracę na farmie.",
+          "AudioPath": "assets/pl/Demetrius/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Wed6",
+          "PageIndex": 1,
+          "DisplayPattern": "Chciałbym Ci jakoś ułatwić pracę na ie."
+        },
+        {
+          "DialogueFrom": "Event_tomato1",
+          "DialogueText": "Naprawdę? Myślałem, że farmer będzie wiedział takie rzeczy... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Event_tomato1",
+          "PageIndex": 0,
+          "DisplayPattern": "Naprawdę? Myślałem, że er będzie wiedział takie rzeczy..."
+        },
+        {
+          "DialogueFrom": "Event_tomato2",
+          "DialogueText": "Widzisz? {Farmer_Name} się ze mną zgadza.",
+          "AudioPath": "assets/pl/Demetrius/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Event_tomato2",
+          "PageIndex": 0,
+          "DisplayPattern": "Widzisz? się ze mną zgadza."
+        },
+        {
+          "DialogueFrom": "Event_Lab_Silence",
+          "DialogueText": "Cóż, lepiej obliczmy to rozwiązanie, zanim się nam tu skrystalizuje.",
+          "AudioPath": "assets/pl/Demetrius/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Event_Lab_Silence",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, lepiej obliczmy to rozwiązanie, zanim się nam tu skrystalizuje."
+        },
+        {
+          "DialogueFrom": "Event_Lab_Rat",
+          "DialogueText": "*ech*... {Portrait:Love}",
+          "AudioPath": "assets/pl/Demetrius/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:Event_Lab_Rat",
+          "PageIndex": 0,
+          "DisplayPattern": "*ech*..."
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Demetrius jest zamyślony.",
+          "AudioPath": "assets/pl/Demetrius/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Demetrius jest zamyślony."
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Wybacz, jestem zajęty.",
+          "AudioPath": "assets/pl/Demetrius/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Mon",
+          "PageIndex": 1,
+          "DisplayPattern": "Wybacz, jestem zajęty."
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Jest tyle roślin do zbadania.",
+          "AudioPath": "assets/pl/Demetrius/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Mon",
+          "PageIndex": 2,
+          "DisplayPattern": "Jest tyle roślin do zbadania."
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Pamiętaj o podlewaniu roślin każdego dnia.",
+          "AudioPath": "assets/pl/Demetrius/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętaj o podlewaniu roślin każdego dnia."
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Jeśli używasz wspomagacza gleby, nie musisz się o to tak często martwić.",
+          "AudioPath": "assets/pl/Demetrius/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli używasz wspomagacza gleby, nie musisz się o to tak często martwić."
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "To całkiem wygodne.",
+          "AudioPath": "assets/pl/Demetrius/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Tue",
+          "PageIndex": 2,
+          "DisplayPattern": "To całkiem wygodne."
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Jak tam biznes na farmie? To sezon na pomidory, prawda?",
+          "AudioPath": "assets/pl/Demetrius/70.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak tam biznes na ie? To sezon na pomidory, prawda?"
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Wydaje mi się, że to dosyć spokojna praca. Na zewnątrz, z roślinami.",
+          "AudioPath": "assets/pl/Demetrius/71.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Wydaje mi się, że to dosyć spokojna praca. Na zewnątrz, z roślinami."
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Słyszałem, że Maru dała Ci coś pooglądać przez teleskop.",
+          "AudioPath": "assets/pl/Demetrius/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Słyszałem, że Maru dała Ci coś pooglądać przez teleskop."
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Jeśli Maru Cię polubi to z pewnością nauczy Cię jak z niego korzystać.",
+          "AudioPath": "assets/pl/Demetrius/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Jeśli Maru Cię polubi to z pewnością nauczy Cię jak z niego korzystać."
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Ekscytujące, hm?",
+          "AudioPath": "assets/pl/Demetrius/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Fri",
+          "PageIndex": 2,
+          "DisplayPattern": "Ekscytujące, hm?"
+        },
+        {
+          "DialogueFrom": "summer_Fri_inlaw_Maru",
+          "DialogueText": "Mam nadzieję, że moja córka dotrzymuje kroku matematyce i nauce!",
+          "AudioPath": "assets/pl/Demetrius/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Fri_inlaw_Maru",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że moja córka dotrzymuje kroku matematyce i nauce!"
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Hmm... jeśli poziom strigolaktonu powiększy się, czy miałoby proporcjonalny efekt na wzrost mikoryzy? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... jeśli poziom strigolaktonu powiększy się, czy miałoby proporcjonalny efekt na wzrost mikoryzy?"
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Och! Wybacz. Znowu myślałem na głos, nie zauważyłem Cię.",
+          "AudioPath": "assets/pl/Demetrius/77.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Och! Wybacz. Znowu myślałem na głos, nie zauważyłem Cię."
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Potrzebujesz czegoś?",
+          "AudioPath": "assets/pl/Demetrius/78.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Sat",
+          "PageIndex": 2,
+          "DisplayPattern": "Potrzebujesz czegoś?"
+        },
+        {
+          "DialogueFrom": "summer_Mon6",
+          "DialogueText": "Zostałem naukowcem, bo chciałem przyczynić się do postępu naszego gatunku.",
+          "AudioPath": "assets/pl/Demetrius/79.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Mon6",
+          "PageIndex": 0,
+          "DisplayPattern": "Zostałem naukowcem, bo chciałem przyczynić się do postępu naszego gatunku."
+        },
+        {
+          "DialogueFrom": "summer_Mon6",
+          "DialogueText": "Oczywiście, nie byłoby to możliwe bez pomocy farmerów, takich jak ty. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/80.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:summer_Mon6",
+          "PageIndex": 1,
+          "DisplayPattern": "Oczywiście, nie byłoby to możliwe bez pomocy erów, takich jak ty."
+        },
+        {
+          "DialogueFrom": "fall_Mon",
+          "DialogueText": "W trakcie tej pory roku skupię swoją uwagę na grzybach.",
+          "AudioPath": "assets/pl/Demetrius/81.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "W trakcie tej pory roku skupię swoją uwagę na grzybach."
+        },
+        {
+          "DialogueFrom": "fall_Tue",
+          "DialogueText": "Dzięki nauce wiemy dużo o naturze.",
+          "AudioPath": "assets/pl/Demetrius/82.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki nauce wiemy dużo o naturze."
+        },
+        {
+          "DialogueFrom": "fall_Tue",
+          "DialogueText": "Ale zawsze jest więcej do zbadania.",
+          "AudioPath": "assets/pl/Demetrius/83.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Tue",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale zawsze jest więcej do zbadania."
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Jak się ma biznes na farmie? To sezon na kukurydzę, prawda?",
+          "AudioPath": "assets/pl/Demetrius/84.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak się ma biznes na ie? To sezon na kukurydzę, prawda?"
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Wydaje mi się, że to dosyć spokojna praca, na zewnątrz, z roślinami.",
+          "AudioPath": "assets/pl/Demetrius/85.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Thu",
+          "PageIndex": 1,
+          "DisplayPattern": "Wydaje mi się, że to dosyć spokojna praca, na zewnątrz, z roślinami."
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Pewnie, Maru spędza dużo czasu nad swoimi gadżetami.",
+          "AudioPath": "assets/pl/Demetrius/86.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie, Maru spędza dużo czasu nad swoimi gadżetami."
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Cieszy mnie to, że tak się poświęca dla nauki.",
+          "AudioPath": "assets/pl/Demetrius/87.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Cieszy mnie to, że tak się poświęca dla nauki."
+        },
+        {
+          "DialogueFrom": "fall_Fri_inlaw_Maru",
+          "DialogueText": "Wciąż jestem zaskoczony robotem Maru... czy to był sen?",
+          "AudioPath": "assets/pl/Demetrius/88.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Fri_inlaw_Maru",
+          "PageIndex": 0,
+          "DisplayPattern": "Wciąż jestem zaskoczony robotem Maru... czy to był sen?"
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Zobaczmy... być może poziom wiązania azotu zależy od wydzielania nicieni... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/89.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Zobaczmy... być może poziom wiązania azotu zależy od wydzielania nicieni..."
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Och! Wybacz. Znowu myślałem na głos i Cię nie zauważyłem.",
+          "AudioPath": "assets/pl/Demetrius/90.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Och! Wybacz. Znowu myślałem na głos i Cię nie zauważyłem."
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Potrzebujesz czegoś?",
+          "AudioPath": "assets/pl/Demetrius/91.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Sat",
+          "PageIndex": 2,
+          "DisplayPattern": "Potrzebujesz czegoś?"
+        },
+        {
+          "DialogueFrom": "fall_Wed6",
+          "DialogueText": "Cześć {Farmer_Name}. Zawsze miło Cię tu widzieć.",
+          "AudioPath": "assets/pl/Demetrius/92.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Wed6",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć . Zawsze miło Cię tu widzieć."
+        },
+        {
+          "DialogueFrom": "fall_Wed6",
+          "DialogueText": "Dobrze jest mieć jakieś towarzystwo po tej pracy w samotności.",
+          "AudioPath": "assets/pl/Demetrius/93.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:fall_Wed6",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobrze jest mieć jakieś towarzystwo po tej pracy w samotności."
+        },
+        {
+          "DialogueFrom": "winter_Mon",
+          "DialogueText": "Mam przerwę od moich badań.",
+          "AudioPath": "assets/pl/Demetrius/94.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Mon",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam przerwę od moich badań."
+        },
+        {
+          "DialogueFrom": "winter_Tue",
+          "DialogueText": "Jeśli chcesz powiększyć swój dom, musisz porozmawiać z moją żoną.",
+          "AudioPath": "assets/pl/Demetrius/95.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Tue",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli chcesz powiększyć swój dom, musisz porozmawiać z moją żoną."
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Masz już kuchnię w swoim domu?",
+          "AudioPath": "assets/pl/Demetrius/96.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Wed",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz już kuchnię w swoim domu?"
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Gotowanie przypomina pracę w laboratorium.",
+          "AudioPath": "assets/pl/Demetrius/97.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Wed",
+          "PageIndex": 1,
+          "DisplayPattern": "Gotowanie przypomina pracę w laboratorium."
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Masz jakieś zwierzęta na swojej farmie?",
+          "AudioPath": "assets/pl/Demetrius/98.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Thu",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz jakieś zwierzęta na swojej ie?"
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Cześć.",
+          "AudioPath": "assets/pl/Demetrius/99.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Fri",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć."
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Demetrius zagubił się w myślach.",
+          "AudioPath": "assets/pl/Demetrius/100.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Fri",
+          "PageIndex": 1,
+          "DisplayPattern": "Demetrius zagubił się w myślach."
+        },
+        {
+          "DialogueFrom": "winter_Sat",
+          "DialogueText": "Zobaczmy... jeśli sezonowe poziomy azotu można modelować za pomocą funkcji defragmentującej... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/101.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Sat",
+          "PageIndex": 0,
+          "DisplayPattern": "Zobaczmy... jeśli sezonowe poziomy azotu można modelować za pomocą funkcji defragmentującej..."
+        },
+        {
+          "DialogueFrom": "winter_Sat",
+          "DialogueText": "Och! Wybacz. Znowu myślałem na głos i Cię nie zauważyłem.",
+          "AudioPath": "assets/pl/Demetrius/102.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Sat",
+          "PageIndex": 1,
+          "DisplayPattern": "Och! Wybacz. Znowu myślałem na głos i Cię nie zauważyłem."
+        },
+        {
+          "DialogueFrom": "winter_Sat",
+          "DialogueText": "Potrzebujesz czegoś?",
+          "AudioPath": "assets/pl/Demetrius/103.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Sat",
+          "PageIndex": 2,
+          "DisplayPattern": "Potrzebujesz czegoś?"
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Jak chcesz to możesz ścinać sobie drzewa i zbierać kamienie z tego terenu ile dusza zapragnie.",
+          "AudioPath": "assets/pl/Demetrius/104.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Sun",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak chcesz to możesz ścinać sobie drzewa i zbierać kamienie z tego terenu ile dusza zapragnie."
+        },
+        {
+          "DialogueFrom": "winter_Fri4",
+          "DialogueText": "Dziękuję za odwiedziny. Muszę pomyśleć o innych roślinach strączkowych.",
+          "AudioPath": "assets/pl/Demetrius/105.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Fri4",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję za odwiedziny. Muszę pomyśleć o innych roślinach strączkowych."
+        },
+        {
+          "DialogueFrom": "winter_Fri4",
+          "DialogueText": "Co porabiasz ostatnimi czasy?",
+          "AudioPath": "assets/pl/Demetrius/106.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Fri4",
+          "PageIndex": 1,
+          "DisplayPattern": "Co porabiasz ostatnimi czasy?"
+        },
+        {
+          "DialogueFrom": "winter_Fri4",
+          "DialogueText": "Brzmi ciekawie.",
+          "AudioPath": "assets/pl/Demetrius/107.ogg",
+          "TranslationKey": "Characters/Dialogue/Demetrius:winter_Fri4",
+          "PageIndex": 2,
+          "DisplayPattern": "Brzmi ciekawie."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Witaj. Zostań w domu, jeśli chcesz się ogrzać.",
+          "AudioPath": "assets/pl/Demetrius/108.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj. Zostań w domu, jeśli chcesz się ogrzać."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s0",
+          "DialogueText": "Cześć {Farmer_Name}! Mam dobre wieści. Kilka dni temu odkryłem przełom w moich badaniach nad naszym otoczeniem. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/109.ogg",
+          "TranslationKey": "Events/Farm:65:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć ! Mam dobre wieści. Kilka dni temu odkryłem przełom w moich badaniach nad naszym otoczeniem."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s1",
+          "DialogueText": "Przejdę do sedna... Widzisz tę pustą jaskinię trochę na zachód?",
+          "AudioPath": "assets/pl/Demetrius/110.ogg",
+          "TranslationKey": "Events/Farm:65:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Przejdę do sedna... Widzisz tę pustą jaskinię trochę na zachód?"
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s2",
+          "DialogueText": "Cóż, mogę ją zmienić na coś użytecznego... Dla nas obojga.",
+          "AudioPath": "assets/pl/Demetrius/111.ogg",
+          "TranslationKey": "Events/Farm:65:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, mogę ją zmienić na coś użytecznego... Dla nas obojga."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s3",
+          "DialogueText": "Chciałbym przygotować jaskinię, żeby przyciągała lokalne gatunki. W ten sposób będę mógł je obserwować w kontrolowanym otoczeniu. A ty możesz zbierać wszystko co wyprodukują.",
+          "AudioPath": "assets/pl/Demetrius/112.ogg",
+          "TranslationKey": "Events/Farm:65:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałbym przygotować jaskinię, żeby przyciągała lokalne gatunki. W ten sposób będę mógł je obserwować w kontrolowanym otoczeniu. A ty możesz zbierać wszystko co wyprodukują."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s4",
+          "DialogueText": "To może być jaskinia na grzyby lub przyciągająca owocowe nietoperze. Nietoperze czasami zostawiają owoce.",
+          "AudioPath": "assets/pl/Demetrius/113.ogg",
+          "TranslationKey": "Events/Farm:65:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "To może być jaskinia na grzyby lub przyciągająca owocowe nietoperze. Nietoperze czasami zostawiają owoce."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s5",
+          "DialogueText": "Dobrze! Od razu to dla Ciebie przygotuję! Nie powinno zająć długo. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/114.ogg",
+          "TranslationKey": "Events/Farm:65:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze! Od razu to dla Ciebie przygotuję! Nie powinno zająć długo."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s6",
+          "DialogueText": "Dzięki za pozwolenie.",
+          "AudioPath": "assets/pl/Demetrius/115.ogg",
+          "TranslationKey": "Events/Farm:65:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za pozwolenie."
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s7",
+          "DialogueText": "Jestem podekscytowany tym, co się stanie z tą jaskinią. A ty?",
+          "AudioPath": "assets/pl/Demetrius/116.ogg",
+          "TranslationKey": "Events/Farm:65:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem podekscytowany tym, co się stanie z tą jaskinią. A ty?"
+        },
+        {
+          "DialogueFrom": "Event/Farm/65:s8",
+          "DialogueText": "Mam nadzieję, że Ci się to spodoba.",
+          "AudioPath": "assets/pl/Demetrius/117.ogg",
+          "TranslationKey": "Events/Farm:65:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że Ci się to spodoba."
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s0",
+          "DialogueText": "Kocham Twoją sztukę, Leah! 'Pusta przestrzeń' jest moją ulubioną. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/118.ogg",
+          "TranslationKey": "Events/Town:53:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Kocham Twoją sztukę, Leah! 'Pusta przestrzeń' jest moją ulubioną."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s0",
+          "DialogueText": "Dołączam się.",
+          "AudioPath": "assets/pl/Demetrius/119.ogg",
+          "TranslationKey": "Events/Town:191393:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Dołączam się."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s0",
+          "DialogueText": "Dzięki za pomoc, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Demetrius/120.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za pomoc, ."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s1",
+          "DialogueText": "Maru to dobre dziecko. Jest moją wyjątkową córeczką...",
+          "AudioPath": "assets/pl/Demetrius/121.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Maru to dobre dziecko. Jest moją wyjątkową córeczką..."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s2",
+          "DialogueText": "Nie chciałbym, żeby coś stanęło na drodze do jej świetlanej przyszłości. Wiesz o co mi chodzi? {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/122.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie chciałbym, żeby coś stanęło na drodze do jej świetlanej przyszłości. Wiesz o co mi chodzi?"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s3",
+          "DialogueText": "Na przykład jedzenie... *hihi* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/123.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Na przykład jedzenie... *hihi*"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s4",
+          "DialogueText": "... Opowiadałem {Farmer_Name} o próbkach ziemi, które badamy.",
+          "AudioPath": "assets/pl/Demetrius/124.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "... Opowiadałem o próbkach ziemi, które badamy."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s5",
+          "DialogueText": "Prawda, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Demetrius/125.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Prawda, ?"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s6",
+          "DialogueText": "(Nic nie mów)",
+          "AudioPath": "assets/pl/Demetrius/126.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "(Nic nie mów)"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/6:s7",
+          "DialogueText": "W sumie, Twój tata dziwnie się zachowywał.",
+          "AudioPath": "assets/pl/Demetrius/127.ogg",
+          "TranslationKey": "Events/ScienceHouse:6:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "W sumie, Twój tata dziwnie się zachowywał."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/DadWeird:s0",
+          "DialogueText": "Ok, ok... rozmawialiśmy o Tobie, słonko. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/128.ogg",
+          "TranslationKey": "Events/ScienceHouse:DadWeird:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ok, ok... rozmawialiśmy o Tobie, słonko."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/DadWeird:s1",
+          "DialogueText": "Chciałem tylko o Tobie poopowiadać... ale nie chciałem Cię zawstydzać. Nie powinienem Cię okłamywać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/129.ogg",
+          "TranslationKey": "Events/ScienceHouse:DadWeird:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Chciałem tylko o Tobie poopowiadać... ale nie chciałem Cię zawstydzać. Nie powinienem Cię okłamywać."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s0",
+          "DialogueText": "Nie rozumiem. Pomidory są owocami!",
+          "AudioPath": "assets/pl/Demetrius/130.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie rozumiem. Pomidory są owocami!"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s1",
+          "DialogueText": "{Farmer_Name}! Cieszę się, że jesteś. Dzięki Tobie rozstrzygniemy nasz spór.",
+          "AudioPath": "assets/pl/Demetrius/131.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "! Cieszę się, że jesteś. Dzięki Tobie rozstrzygniemy nasz spór."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s2",
+          "DialogueText": "Pomidor to owoc czy warzywo?",
+          "AudioPath": "assets/pl/Demetrius/132.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Pomidor to owoc czy warzywo?"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s3",
+          "DialogueText": "Warzywo",
+          "AudioPath": "assets/pl/Demetrius/133.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Warzywo"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s4",
+          "DialogueText": "Owoc",
+          "AudioPath": "assets/pl/Demetrius/134.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "Owoc"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s5",
+          "DialogueText": "Chcę tylko, żebyście zrozumieli mój punkt widzenia.",
+          "AudioPath": "assets/pl/Demetrius/135.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcę tylko, żebyście zrozumieli mój punkt widzenia."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s6",
+          "DialogueText": "Trudno mi zrozumieć co dokładnie macie na myśli.",
+          "AudioPath": "assets/pl/Demetrius/136.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Trudno mi zrozumieć co dokładnie macie na myśli."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s7",
+          "DialogueText": "Ale spróbuję się poprawić.",
+          "AudioPath": "assets/pl/Demetrius/137.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale spróbuję się poprawić."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/25:s8",
+          "DialogueText": "Dzięki za pomoc, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/138.ogg",
+          "TranslationKey": "Events/ScienceHouse:25:s8",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki za pomoc, ."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s0",
+          "DialogueText": "Aha! Wiedziałem! {Portrait:Love}",
+          "AudioPath": "assets/pl/Demetrius/139.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Aha! Wiedziałem!"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s1",
+          "DialogueText": "AAA! Co to jest?! {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Demetrius/140.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "AAA! Co to jest?!"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s2",
+          "DialogueText": "Słodki Yoba... To mówi! {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Demetrius/141.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "Słodki Yoba... To mówi!"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s3",
+          "DialogueText": "To dlatego siedziałaś tu przez kilka miesięcy? {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/142.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "To dlatego siedziałaś tu przez kilka miesięcy?"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s4",
+          "DialogueText": "... a ja myślałem, że ty i {Farmer_Name} razem się wygłupialiście... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/143.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "... a ja myślałem, że ty i razem się wygłupialiście..."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s5",
+          "DialogueText": "Nic się nie dzieje, Maru. Pozwól jej odejść. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/144.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s5",
+          "PageIndex": 0,
+          "DisplayPattern": "Nic się nie dzieje, Maru. Pozwól jej odejść."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s6",
+          "DialogueText": "Twoja matka i ja damy sobie radę. Wiem, że jesteś gotowa żyć na własną rękę i pogodziłem się z tym, że kiedyś może Cię tu nie być.",
+          "AudioPath": "assets/pl/Demetrius/145.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s6",
+          "PageIndex": 0,
+          "DisplayPattern": "Twoja matka i ja damy sobie radę. Wiem, że jesteś gotowa żyć na własną rękę i pogodziłem się z tym, że kiedyś może Cię tu nie być."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s7",
+          "DialogueText": "Ponadto, ta... konstrukcja jest bardzo zaawansowana. Zmarnowalibyśmy ją, gdyby została naszą służącą.",
+          "AudioPath": "assets/pl/Demetrius/146.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s7",
+          "PageIndex": 0,
+          "DisplayPattern": "Ponadto, ta... konstrukcja jest bardzo zaawansowana. Zmarnowalibyśmy ją, gdyby została naszą służącą."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s8",
+          "DialogueText": "{Farmer_Name}, Wybacz, że Ci nie ufałem. Jesteś w porządku. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/147.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s8",
+          "PageIndex": 0,
+          "DisplayPattern": ", Wybacz, że Ci nie ufałem. Jesteś w porządku."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s9",
+          "DialogueText": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałeś na to wpływ, to jestem ci wdzięczny.",
+          "AudioPath": "assets/pl/Demetrius/148_male.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s9",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałeś na to wpływ, to jestem ci wdzięczny.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/10:s10",
+          "DialogueText": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałaś na to wpływ, to jestem ci wdzięczny.",
+          "AudioPath": "assets/pl/Demetrius/149_female.ogg",
+          "TranslationKey": "Events/ScienceHouse:10:s10",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy jeszcze nie widziałem Maru tak kreatywnej i pełnej życia... i nigdy nie byłem z niej tak dumny. Jeśli ty miałaś na to wpływ, to jestem ci wdzięczny.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/1053978:s0",
+          "DialogueText": "Um... Robin? Po co są te cztery słupy? Wyglądają na zmarnowane materiały. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Demetrius/150.ogg",
+          "TranslationKey": "Events/ScienceHouse:1053978:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "Um... Robin? Po co są te cztery słupy? Wyglądają na zmarnowane materiały."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/1053978:s1",
+          "DialogueText": "Hmm, rozumiem Twój tok rozumowania... Ale nie można pozwolić, aby przeważyło to nad użytecznością i wydajnością pojemnika do spania.",
+          "AudioPath": "assets/pl/Demetrius/151.ogg",
+          "TranslationKey": "Events/ScienceHouse:1053978:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm, rozumiem Twój tok rozumowania... Ale nie można pozwolić, aby przeważyło to nad użytecznością i wydajnością pojemnika do spania."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/1053978:s2",
+          "DialogueText": "*ekhem*... Cóż... Jeśli ktokolwiek będzie mnie potrzebował, będę w budzie... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/152.ogg",
+          "TranslationKey": "Events/ScienceHouse:1053978:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "*ekhem*... Cóż... Jeśli ktokolwiek będzie mnie potrzebował, będę w budzie..."
+        },
+        {
+          "DialogueFrom": "Event/ScienceHouse/1053978:s3",
+          "DialogueText": "Wielkie umysły myślą tak samo... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/153.ogg",
+          "TranslationKey": "Events/ScienceHouse:1053978:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "Wielkie umysły myślą tak samo..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Demetrius",
+          "DialogueText": "Robin ciężko pracuje nad jej stolarskimi rzeczami... Od czasu do czasu zasługuje na pochwałę.",
+          "AudioPath": "assets/pl/Demetrius/154.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Robin ciężko pracuje nad jej stolarskimi rzeczami... Od czasu do czasu zasługuje na pochwałę."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Demetrius_y2",
+          "DialogueText": "Owce mają zdumiewającą pamięć... Zachowując zażyłość zarówno z innymi owcami, jak i ludźmi... {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Demetrius/155.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Owce mają zdumiewającą pamięć... Zachowując zażyłość zarówno z innymi owcami, jak i ludźmi..."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Demetrius_y2",
+          "DialogueText": "Nawet nawiązują przyjaźnie, odzwierciedlając bliskie więzi, które my kultywujemy między sobą! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/156.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Demetrius_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Nawet nawiązują przyjaźnie, odzwierciedlając bliskie więzi, które my kultywujemy między sobą!"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Demetrius",
+          "DialogueText": "Nie widziałem Maru od kilku godzin... Mam nadzieję, że nic jej nie jest.",
+          "AudioPath": "assets/pl/Demetrius/157.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie widziałem Maru od kilku godzin... Mam nadzieję, że nic jej nie jest."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Demetrius_y2",
+          "DialogueText": "Czy wiesz, że... badanie opublikowane w Dzienniku Psychologii Antropologicznej wykazało, że rytm, tempo i tonacja muzyki mogą mieć wymierny wpływ na poziom kortyzolu?",
+          "AudioPath": "assets/pl/Demetrius/158.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy wiesz, że... badanie opublikowane w Dzienniku Psychologii Antropologicznej wykazało, że rytm, tempo i tonacja muzyki mogą mieć wymierny wpływ na poziom kortyzolu?"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Demetrius_y2",
+          "DialogueText": "Em... Czy są lody waniliowe do tego placka jeżynowego? {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Demetrius/159.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Demetrius_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Em... Czy są lody waniliowe do tego placka jeżynowego?"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Demetrius",
+          "DialogueText": "Jajko... Dziwna rzecz do jedzenia.",
+          "AudioPath": "assets/pl/Demetrius/160.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Jajko... Dziwna rzecz do jedzenia."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Demetrius_y2",
+          "DialogueText": "Hej {Farmer_Name}, spróbuj mojego ciasta z ikrą karpia.",
+          "AudioPath": "assets/pl/Demetrius/161.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej , spróbuj mojego ciasta z ikrą karpia."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Demetrius_y2",
+          "DialogueText": "... Co? To jest Festiwal 'jajek', prawda?",
+          "AudioPath": "assets/pl/Demetrius/162.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Demetrius_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "... Co? To jest Festiwal 'jajek', prawda?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Demetrius",
+          "DialogueText": "Te wiosenne tańce mogą sięgać nawet do antycznych rytuałów płodności.",
+          "AudioPath": "assets/pl/Demetrius/163.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Te wiosenne tańce mogą sięgać nawet do antycznych rytuałów płodności."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Demetrius",
+          "DialogueText": "Hej... Każdy farmer powinien o tym wiedzieć, prawda?",
+          "AudioPath": "assets/pl/Demetrius/164.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Demetrius",
+          "PageIndex": 1,
+          "DisplayPattern": "Hej... Każdy er powinien o tym wiedzieć, prawda?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Demetrius_y2",
+          "DialogueText": "Takie spotkania dają poczucie osobowości naszej społeczności.",
+          "AudioPath": "assets/pl/Demetrius/165.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Takie spotkania dają poczucie osobowości naszej społeczności."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Demetrius_y2",
+          "DialogueText": "Albo jak to mówi moja żona... 'miasto tętni życiem'!",
+          "AudioPath": "assets/pl/Demetrius/166.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Demetrius_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Albo jak to mówi moja żona... 'miasto tętni życiem'!"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Demetrius",
+          "DialogueText": "To jest męczące, kochanie. Może pójdziemy coś zjeść? *dyszy*",
+          "AudioPath": "assets/pl/Demetrius/167.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest męczące, kochanie. Może pójdziemy coś zjeść? *dyszy*"
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Demetrius_y2",
+          "DialogueText": "Dlaczego ludzie lubią tańczyć? Może to być przez mechanizm instynktowny, dzięki któremu nieświadomie przekażemy potencjalnemu partnerowi nasze cechy genetyczne?%noturn",
+          "AudioPath": "assets/pl/Demetrius/168.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Dlaczego ludzie lubią tańczyć? Może to być przez mechanizm instynktowny, dzięki któremu nieświadomie przekażemy potencjalnemu partnerowi nasze cechy genetyczne?"
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Demetrius",
+          "DialogueText": "Meduzy księżycowego światła... Cóż za niezwykły gatunek! Mamy szczęście, że tędy przepływają.",
+          "AudioPath": "assets/pl/Demetrius/169.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Meduzy księżycowego światła... Cóż za niezwykły gatunek! Mamy szczęście, że tędy przepływają."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Demetrius",
+          "DialogueText": "Nie wiadomo czemu przyciąga je światło... Ciekawe.",
+          "AudioPath": "assets/pl/Demetrius/170.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Demetrius",
+          "PageIndex": 1,
+          "DisplayPattern": "Nie wiadomo czemu przyciąga je światło... Ciekawe."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Demetrius_y2",
+          "DialogueText": "Istnieje inny rodzaj 'meduzy', które rybacy czasami wyławiają. Pomimo nazwy, znacznie się różnią od Meduz Księżycowego Światła...",
+          "AudioPath": "assets/pl/Demetrius/171.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Istnieje inny rodzaj 'meduzy', które rybacy czasami wyławiają. Pomimo nazwy, znacznie się różnią od Meduz Księżycowego Światła..."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Demetrius",
+          "DialogueText": "Pewnie tego roku dostanę nowy zestaw narzędzi... *ech*",
+          "AudioPath": "assets/pl/Demetrius/172.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie tego roku dostanę nowy zestaw narzędzi... *ech*"
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Demetrius_y2",
+          "DialogueText": "Hmm... ten zielony dżem ma miętowy posmak. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/173.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... ten zielony dżem ma miętowy posmak."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Demetrius_y2",
+          "DialogueText": "Zastanawiam się jak mięta została skojarzona ze Świętem Gwiazdy Polarnej? Czy mięta w ogóle rośnie w zimie? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/174.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Demetrius_y2",
+          "PageIndex": 1,
+          "DisplayPattern": "Zastanawiam się jak mięta została skojarzona ze Świętem Gwiazdy Polarnej? Czy mięta w ogóle rośnie w zimie?"
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Demetrius",
+          "DialogueText": "Wiesz co? Chyba powinienem wziąć kurtkę.",
+          "AudioPath": "assets/pl/Demetrius/175.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz co? Chyba powinienem wziąć kurtkę."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Demetrius_y2",
+          "DialogueText": "Wodny lód... rzeczywiście najgłębsza substancja. Niezbędna do życia, stanowi odpowiedni materiał na posągi mające przedstawiać żywe formy.",
+          "AudioPath": "assets/pl/Demetrius/176.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Demetrius_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "Wodny lód... rzeczywiście najgłębsza substancja. Niezbędna do życia, stanowi odpowiedni materiał na posągi mające przedstawiać żywe formy."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Demetrius:s0",
+          "DialogueText": "To dla mnie? Wspaniale!",
+          "AudioPath": "assets/pl/Demetrius/177.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Demetrius:s0",
+          "PageIndex": 0,
+          "DisplayPattern": "To dla mnie? Wspaniale!"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Demetrius:s1",
+          "DialogueText": "Dziękuję! To bardzo interesujący okaz.",
+          "AudioPath": "assets/pl/Demetrius/178.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Demetrius:s1",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję! To bardzo interesujący okaz."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Demetrius:s2",
+          "DialogueText": "... Co to?",
+          "AudioPath": "assets/pl/Demetrius/179.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Demetrius:s2",
+          "PageIndex": 0,
+          "DisplayPattern": "... Co to?"
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Demetrius:s3",
+          "DialogueText": "To jest obrzydliwe.",
+          "AudioPath": "assets/pl/Demetrius/180.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Demetrius:s3",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest obrzydliwe."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Demetrius:s4",
+          "DialogueText": "To miłe z twojej strony.",
+          "AudioPath": "assets/pl/Demetrius/181.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Demetrius:s4",
+          "PageIndex": 0,
+          "DisplayPattern": "To miłe z twojej strony."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_winter_movie_1_BeforeMovie",
+          "DialogueText": "Krótka wycieczka po śniegu naprawdę pobudza do działania.",
+          "AudioPath": "assets/pl/Demetrius/182.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_winter_movie_1_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Krótka wycieczka po śniegu naprawdę pobudza do działania."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_winter_movie_1_DuringMovie",
+          "DialogueText": "Tęsknota serca...? Och! Czyli 'podwyższony poziom oksytocyny w układzie limbicznym'.",
+          "AudioPath": "assets/pl/Demetrius/183.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_winter_movie_1_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Tęsknota serca...? Och! Czyli 'podwyższony poziom oksytocyny w układzie limbicznym'."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_winter_movie_1_DuringMovie_2",
+          "DialogueText": "Demetrius marszczy brwi.",
+          "AudioPath": "assets/pl/Demetrius/184.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_winter_movie_1_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Demetrius marszczy brwi."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_winter_movie_1_AfterMovie",
+          "DialogueText": "Sztuka filmowa przeszła długą drogę, prawda?",
+          "AudioPath": "assets/pl/Demetrius/185.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_winter_movie_1_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Sztuka filmowa przeszła długą drogę, prawda?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_summer_movie_1_BeforeMovie",
+          "DialogueText": "Ten film podobno ma miejsce w 'futurystycznym' społeczeństwie... Ciekawie będzie zobaczyć jak to wygląda!",
+          "AudioPath": "assets/pl/Demetrius/186.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_summer_movie_1_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten film podobno ma miejsce w 'futurystycznym' społeczeństwie... Ciekawie będzie zobaczyć jak to wygląda!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_summer_movie_1_AfterMovie",
+          "DialogueText": "Wspaniały film... Ale zastanawiam się, czy jest życie poza tą planetą?",
+          "AudioPath": "assets/pl/Demetrius/187.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_summer_movie_1_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Wspaniały film... Ale zastanawiam się, czy jest życie poza tą planetą?"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_spring_movie_1_BeforeMovie",
+          "DialogueText": "Ten jest bliski mojemu sercu... Wiedz, że mi się spodoba. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Demetrius/188.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_spring_movie_1_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Ten jest bliski mojemu sercu... Wiedz, że mi się spodoba."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_spring_movie_1_DuringMovie",
+          "DialogueText": "Technicznie, to nie jest poprawne... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/189.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_spring_movie_1_DuringMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Technicznie, to nie jest poprawne..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_spring_movie_1_DuringMovie_2",
+          "DialogueText": "Demetrius drapie się po podbródku...",
+          "AudioPath": "assets/pl/Demetrius/190.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_spring_movie_1_DuringMovie_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Demetrius drapie się po podbródku..."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_spring_movie_1_AfterMovie",
+          "DialogueText": "Cóż, zdecydowanie upiększyli niektóre rzeczy, ale nadal było w większości poprawne! Zresztą, dobrze się bawiłem.",
+          "AudioPath": "assets/pl/Demetrius/191.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_spring_movie_1_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż, zdecydowanie upiększyli niektóre rzeczy, ale nadal było w większości poprawne! Zresztą, dobrze się bawiłem."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_winter_movie_0_BeforeMovie",
+          "DialogueText": "Przeczytałem o tym w gazecie... Może i nie jest dla mnie. Ale warto spróbować.",
+          "AudioPath": "assets/pl/Demetrius/192.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_winter_movie_0_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Przeczytałem o tym w gazecie... Może i nie jest dla mnie. Ale warto spróbować."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_winter_movie_0_AfterMovie",
+          "DialogueText": "Nonsens! Widać, że twórcy nie są naukowcami! {Portrait:Love}",
+          "AudioPath": "assets/pl/Demetrius/193.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_winter_movie_0_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nonsens! Widać, że twórcy nie są naukowcami!"
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_like_BeforeMovie",
+          "DialogueText": "Nawet jeśli film jest zły, ciekawie jest go przeanalizować.",
+          "AudioPath": "assets/pl/Demetrius/194.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_like_BeforeMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Nawet jeśli film jest zły, ciekawie jest go przeanalizować."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Demetrius_like_AfterMovie",
+          "DialogueText": "Hmm... Zastanawiam się, jaki aspekt ludzkiej motywacji spełnia narracja tego filmu? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Demetrius/195.ogg",
+          "TranslationKey": "Strings/MovieReactions:Demetrius_like_AfterMovie",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Zastanawiam się, jaki aspekt ludzkiej motywacji spełnia narracja tego filmu?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Demetrius",
+          "DialogueText": "Czemu ludzie lubią ostre jedzenie? Z biologicznego punktu widzenia jest to sprzeczne z instynktem.",
+          "AudioPath": "assets/pl/Demetrius/196.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Czemu ludzie lubią ostre jedzenie? Z biologicznego punktu widzenia jest to sprzeczne z instynktem."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Demetrius",
+          "DialogueText": "Albo czegoś nie rozumiem... {Portrait:Angry}",
+          "AudioPath": "assets/pl/Demetrius/197.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Demetrius",
+          "PageIndex": 1,
+          "DisplayPattern": "Albo czegoś nie rozumiem..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Demetrius",
+          "DialogueText": "Masz jakieś jajka do wymiany? Badam skład ich skorupy.",
+          "AudioPath": "assets/pl/Demetrius/198.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Demetrius",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz jakieś jajka do wymiany? Badam skład ich skorupy."
+        }
+      ]
+    }
+  ]
+}

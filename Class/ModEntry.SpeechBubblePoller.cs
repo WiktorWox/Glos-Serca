@@ -23,11 +23,14 @@ namespace VoiceOverFrameworkMod
         /// <summary>Poll NPC speech bubbles and play audio once per bubble instance.</summary>
         private void CheckForSpeechBubblesLevel1()
         {
-            // Don’t compete with DialogueBox VO.
-            if (Game1.activeClickableMenu is StardewValley.Menus.DialogueBox)
+            // Event textAboveHead commands are rendered while the event's
+            // DialogueBox can still be active. Handle those here; retain the
+            // old behavior for ordinary world bubbles.
+            bool eventActive = Game1.currentLocation?.currentEvent != null;
+            if (!eventActive && Game1.activeClickableMenu is StardewValley.Menus.DialogueBox)
                 return;
 
-            var npcs = Game1.currentLocation?.characters?.OfType<NPC>();
+            var npcs = EnumerateBubbleSpeakers().OfType<NPC>().Distinct();
             if (npcs == null) return;
 
             foreach (var npc in npcs)
@@ -94,6 +97,50 @@ namespace VoiceOverFrameworkMod
 
                 string fullPath = null;
 
+                // Event bubbles have a stable event TranslationKey even when
+                // their displayed text is localized or sanitized differently.
+                if (eventActive && pack.FormatMajor >= 2)
+                {
+                    var currentEvent = Game1.currentLocation.currentEvent;
+                    int bubbleCommandIndex = -1;
+                    int eventCommand = currentEvent?.CurrentCommand ?? -1;
+                    for (int commandIndex = Math.Min(eventCommand, currentEvent?.eventCommands?.Length - 1 ?? -1); commandIndex >= 0; commandIndex--)
+                    {
+                        string command = currentEvent.eventCommands[commandIndex];
+                        if (!command.StartsWith("textAboveHead ", StringComparison.OrdinalIgnoreCase))
+                            continue;
+
+                        var commandParts = command.Split(new[] { ' ' }, 3, StringSplitOptions.RemoveEmptyEntries);
+                        if (commandParts.Length >= 3 &&
+                            commandParts[1].Trim().Trim('"').TrimEnd('?').Equals(characterName, StringComparison.OrdinalIgnoreCase) &&
+                            commandParts[2].Contains(text, StringComparison.Ordinal))
+                        {
+                            bubbleCommandIndex = commandIndex;
+                            break;
+                        }
+                    }
+
+                    int? eventSpeakIndex = bubbleCommandIndex >= 0
+                        ? ComputeSpeakIndexForCurrent(currentEvent, characterName, 0, bubbleCommandIndex)
+                        : ComputeSpeakIndexForCurrent(currentEvent, characterName, 0);
+                    string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
+                    if (Config.developerModeOn)
+                        Monitor.Log($"[V2-BUBBLE] actor='{characterName}' text='{text}' commandIndex={bubbleCommandIndex} speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} base='{eventBaseKey}' pack='{pack.VoicePackName}'", LogLevel.Debug);
+                    if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
+                    {
+                        string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
+                        if (TryToPlayVoiceByTranslationKeys(
+                                characterName,
+                                new[] { eventTranslationKey },
+                                LocalizedContentManager.CurrentLanguageCode,
+                                interruptCurrent: false))
+                        {
+                            state.Played = true;
+                            continue;
+                        }
+                    }
+                }
+
                 if (pack.FormatMajor >= 2)
                 {
                     if (pack.EntriesByDisplayPattern != null &&
@@ -122,7 +169,7 @@ namespace VoiceOverFrameworkMod
 
                     if (File.Exists(fullPath))
                     {
-                        PlayVoiceFromFile(fullPath);
+                        PlayVoiceFromFile(fullPath, interruptCurrent: false);
                         state.Played = true;
                     }
                     else
