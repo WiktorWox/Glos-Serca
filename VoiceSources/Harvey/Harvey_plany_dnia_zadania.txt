@@ -1,0 +1,36 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 480.ogg).
+
+DialogueFrom: Strings/schedules/Harvey:Fri.000  [plan dnia]
+DialogueText: To na pewno może zostać przypisane do zdrowej diety.
+AudioName: 480.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:marriageJob.000  [plan dnia]
+DialogueText: Cześć Kochanie. Co robisz w klinice?
+AudioName: 481.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:marriageJob.000  [plan dnia]
+DialogueText: Ach, odwiedzasz mnie. Miło. {Portrait:Happy}
+AudioName: 482.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:Fri.001  [plan dnia]
+DialogueText: Odkładam zakupy.
+AudioName: 483.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:marriage_Mon.001  [plan dnia]
+DialogueText: Dźwięki płynącej wody są dla mnie kojące.
+AudioName: 484.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:marriage_Mon.000  [plan dnia]
+DialogueText: Cześć! Tak tylko kupuję potrzebne rzeczy do naszych zdrowych obiadów.
+AudioName: 485.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:Sat.000  [plan dnia]
+DialogueText: Po prostu odkładam zakupy.
+AudioName: 486.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Harvey:winter_15.000  [plan dnia]
+DialogueText: Zima może być ponurą porą roku, ale dzięki takim wydarzeniom jest troszkę jaśniej!
+AudioName: 487.ogg
+--------------------------------------------------

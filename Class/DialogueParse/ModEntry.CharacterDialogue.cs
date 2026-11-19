@@ -38,6 +38,12 @@ namespace VoiceOverFrameworkMod
                 string raw = kv.Value;
                 if (string.IsNullOrWhiteSpace(key) || string.IsNullOrWhiteSpace(raw)) continue;
 
+                // "<Location>_Entry" holds '/'-separated variants of which the game shows one. The first variant
+                // keeps this slot; the others are appended at the end by BuildFromLocationEntryVariants.
+                var entryVariants = SplitLocationEntryVariants(key, raw);
+                if (entryVariants != null && entryVariants.Count > 0)
+                    raw = entryVariants[0];
+
                 // Use shared splitter/sanitizer
                 var pages = DialogueUtil.SplitAndSanitize(raw);
                 foreach (var page in pages)

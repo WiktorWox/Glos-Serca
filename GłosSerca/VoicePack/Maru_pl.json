@@ -4013,6 +4013,70 @@
           "TranslationKey": "Strings/Events:Maru_comet5",
           "PageIndex": 0,
           "DisplayPattern": "Cieszę się, że żyję w tym tętniącym życiem świecie razem z tobą!"
+        },
+        {
+          "DialogueFrom": "marriage_Mon.002",
+          "DialogueText": "Mam nadzieję, że kiedyś Penny weźmie z kimś ślub.",
+          "AudioPath": "assets/pl/Maru/497.ogg",
+          "TranslationKey": "Strings/schedules/Maru:marriage_Mon.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam nadzieję, że kiedyś Penny weźmie z kimś ślub."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Wow, ta technologia jest niesamowita!",
+          "AudioPath": "assets/pl/Maru/498.ogg",
+          "TranslationKey": "Strings/schedules/Maru:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Wow, ta technologia jest niesamowita!"
+        },
+        {
+          "DialogueFrom": "marriageJob.000",
+          "DialogueText": "Jestem w pracy, Skarbie! Żeby doktor nie zobaczył.",
+          "AudioPath": "assets/pl/Maru/499.ogg",
+          "TranslationKey": "Strings/schedules/Maru:marriageJob.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem w pracy, Skarbie! Żeby doktor nie zobaczył."
+        },
+        {
+          "DialogueFrom": "marriageJob.002",
+          "DialogueText": "Prawie koniec mojej zmiany...",
+          "AudioPath": "assets/pl/Maru/500.ogg",
+          "TranslationKey": "Strings/schedules/Maru:marriageJob.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Prawie koniec mojej zmiany..."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Tata robi postępy w jego eksperymencie.",
+          "AudioPath": "assets/pl/Maru/501.ogg",
+          "TranslationKey": "Strings/schedules/Maru:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Tata robi postępy w jego eksperymencie."
+        },
+        {
+          "DialogueFrom": "summer.000",
+          "DialogueText": "Naprawdę ciężko jest zrozumieć wielkość całego wszechświata. {Portrait:Custom:8}",
+          "AudioPath": "assets/pl/Maru/502.ogg",
+          "TranslationKey": "Strings/schedules/Maru:summer.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Naprawdę ciężko jest zrozumieć wielkość całego wszechświata."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Hej! Mama chyba dobrze sobie radzi bez mojej pomocy. Jest bardzo silna.",
+          "AudioPath": "assets/pl/Maru/503.ogg",
+          "TranslationKey": "Strings/schedules/Maru:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej! Mama chyba dobrze sobie radzi bez mojej pomocy. Jest bardzo silna."
+        },
+        {
+          "DialogueFrom": "marriageJob.001",
+          "DialogueText": "Cieszę się, że mnie odwiedzasz. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Maru/504.ogg",
+          "TranslationKey": "Strings/schedules/Maru:marriageJob.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że mnie odwiedzasz."
         }
       ]
     }

@@ -372,19 +372,19 @@
         },
         {
           "DialogueFrom": "Saloon_Entry",
-          "DialogueText": "Ach... Nareszcie./Muszę się napić./Gus! Dawaj to, co zwykle./Hej, wróciłam!/Och chłopie, jestem spragniona!/Ale mnie suszy!",
+          "DialogueText": "Ach... Nareszcie.",
           "AudioPath": "assets/pl/Pam/45.ogg",
           "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
           "PageIndex": 0,
-          "DisplayPattern": "Ach... Nareszcie./Muszę się napić./Gus! Dawaj to, co zwykle./Hej, wróciłam!/Och chłopie, jestem spragniona!/Ale mnie suszy!"
+          "DisplayPattern": "Ach... Nareszcie."
         },
         {
           "DialogueFrom": "Trailer_Entry",
-          "DialogueText": "Penny! Zrobiłaś obiad?/Penny! Wszystko zrobione?/Penny! Jesteś?/Hej! Wróciłam!",
+          "DialogueText": "Penny! Zrobiłaś obiad?",
           "AudioPath": "assets/pl/Pam/46.ogg",
           "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
           "PageIndex": 0,
-          "DisplayPattern": "Penny! Zrobiłaś obiad?/Penny! Wszystko zrobione?/Penny! Jesteś?/Hej! Wróciłam!"
+          "DisplayPattern": "Penny! Zrobiłaś obiad?"
         },
         {
           "DialogueFrom": "Saloon6",
@@ -2129,6 +2129,118 @@
           "TranslationKey": "Strings/1_6_Strings:Pam_busSign_generic",
           "PageIndex": 0,
           "DisplayPattern": "Dziś mam wolne, dzieciaku! Nigdzie nie jadę. -Pam"
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Muszę się napić.",
+          "AudioPath": "assets/pl/Pam/263.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 1,
+          "DisplayPattern": "Muszę się napić."
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Gus! Dawaj to, co zwykle.",
+          "AudioPath": "assets/pl/Pam/264.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 2,
+          "DisplayPattern": "Gus! Dawaj to, co zwykle."
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Hej, wróciłam!",
+          "AudioPath": "assets/pl/Pam/265.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 3,
+          "DisplayPattern": "Hej, wróciłam!"
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Och chłopie, jestem spragniona!",
+          "AudioPath": "assets/pl/Pam/266.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 4,
+          "DisplayPattern": "Och chłopie, jestem spragniona!"
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Ale mnie suszy!",
+          "AudioPath": "assets/pl/Pam/267.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 5,
+          "DisplayPattern": "Ale mnie suszy!"
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Penny! Wszystko zrobione?",
+          "AudioPath": "assets/pl/Pam/268.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 1,
+          "DisplayPattern": "Penny! Wszystko zrobione?"
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Penny! Jesteś?",
+          "AudioPath": "assets/pl/Pam/269.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 2,
+          "DisplayPattern": "Penny! Jesteś?"
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Hej! Wróciłam!",
+          "AudioPath": "assets/pl/Pam/270.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 3,
+          "DisplayPattern": "Hej! Wróciłam!"
+        },
+        {
+          "DialogueFrom": "spring_25.000",
+          "DialogueText": "*Zrzęd*... Doktor wie wszystko... *Zrzęd* {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/271.ogg",
+          "TranslationKey": "Strings/schedules/Pam:spring_25.000",
+          "PageIndex": 0,
+          "DisplayPattern": "*Zrzęd*... Doktor wie wszystko... *Zrzęd*"
+        },
+        {
+          "DialogueFrom": "spring_25.001",
+          "DialogueText": "Ile dziennie piję? Co to za pytanie? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/272.ogg",
+          "TranslationKey": "Strings/schedules/Pam:spring_25.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Ile dziennie piję? Co to za pytanie?"
+        },
+        {
+          "DialogueFrom": "Quest_103",
+          "DialogueText": "Daj mi to. *siorb*... Ach, to jest to.",
+          "AudioPath": "assets/pl/Pam/273.ogg",
+          "TranslationKey": "Data/Quests:103",
+          "PageIndex": 0,
+          "DisplayPattern": "Daj mi to. *siorb*... Ach, to jest to."
+        },
+        {
+          "DialogueFrom": "Quest_103",
+          "DialogueText": "Jest bardzo dobre i mocne... chyba czuję nutkę cytrusa i sosny.",
+          "AudioPath": "assets/pl/Pam/274.ogg",
+          "TranslationKey": "Data/Quests:103",
+          "PageIndex": 1,
+          "DisplayPattern": "Jest bardzo dobre i mocne... chyba czuję nutkę cytrusa i sosny."
+        },
+        {
+          "DialogueFrom": "Quest_103",
+          "DialogueText": "Dzięki, dzieciaku. To wiele dla mnie znaczy. Wiedziałam, że mogę na Ciebie liczyć. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/275.ogg",
+          "TranslationKey": "Data/Quests:103",
+          "PageIndex": 2,
+          "DisplayPattern": "Dzięki, dzieciaku. To wiele dla mnie znaczy. Wiedziałam, że mogę na Ciebie liczyć."
+        },
+        {
+          "DialogueFrom": "Quest_122",
+          "DialogueText": "Hej, to baterie, które chciałam! Dzięki, dzieciaku... Ratujesz mi życie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/276.ogg",
+          "TranslationKey": "Data/Quests:122",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, to baterie, które chciałam! Dzięki, dzieciaku... Ratujesz mi życie!"
         }
       ]
     }

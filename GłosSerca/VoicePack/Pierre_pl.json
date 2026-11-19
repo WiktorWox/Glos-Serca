@@ -1869,6 +1869,30 @@
           "TranslationKey": "Strings/SpeechBubbles:SeedShop_Pierre_RareGreeting",
           "PageIndex": 0,
           "DisplayPattern": "Nie zgubił Ci się portfel?"
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "Cały tydzień ciężko pracowałem. Zasłużyłem sobie na odpoczynek.",
+          "AudioPath": "assets/pl/Pierre/231.ogg",
+          "TranslationKey": "Strings/schedules/Pierre:Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cały tydzień ciężko pracowałem. Zasłużyłem sobie na odpoczynek."
+        },
+        {
+          "DialogueFrom": "Quest_117",
+          "DialogueText": "W końcu! Zacząłem mieć drgawki, tak bardzo chciałem tę rybę. *gryz*... Mmm, przepyszne.",
+          "AudioPath": "assets/pl/Pierre/232.ogg",
+          "TranslationKey": "Data/Quests:117",
+          "PageIndex": 0,
+          "DisplayPattern": "W końcu! Zacząłem mieć drgawki, tak bardzo chciałem tę rybę. *gryz*... Mmm, przepyszne."
+        },
+        {
+          "DialogueFrom": "Quest_117",
+          "DialogueText": "Dzięki, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/233.ogg",
+          "TranslationKey": "Data/Quests:117",
+          "PageIndex": 1,
+          "DisplayPattern": "Dzięki, ."
         }
       ]
     }

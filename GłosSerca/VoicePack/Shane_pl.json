@@ -3707,6 +3707,78 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Shane",
           "PageIndex": 0,
           "DisplayPattern": "Znalazłem trochę jedzenia w zamrażarce. Sprzedam po taniości. Tylko nie patrz na datę ważności."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.001",
+          "DialogueText": "Hmm... muszę przyznać, Joja Market ma ogromny wybór mrożonek.",
+          "AudioPath": "assets/pl/Shane/460.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Fri.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... muszę przyznać, Joja Market ma ogromny wybór mrożonek."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Jestem przywiązany do tego lasu... Tyle wspomnień...",
+          "AudioPath": "assets/pl/Shane/461.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem przywiązany do tego lasu... Tyle wspomnień..."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.000",
+          "DialogueText": "Nie martw się. To tylko Joja Cola.",
+          "AudioPath": "assets/pl/Shane/462.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się. To tylko Joja Cola."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.002",
+          "DialogueText": "Gdybym nie zamawiał zimnego piwerka, Gus by zbankrutował. Wykonuję swój obowiązek obywatelski. Wrócę do domu około 22.",
+          "AudioPath": "assets/pl/Shane/463.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Fri.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdybym nie zamawiał zimnego piwerka, Gus by zbankrutował. Wykonuję swój obowiązek obywatelski. Wrócę do domu około 22."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Och, hej {Farmer_Name}. Już za mną tęsknisz? {Portrait:Custom:6}",
+          "AudioPath": "assets/pl/Shane/464.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, hej . Już za mną tęsknisz?"
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Tej nocy nie idę do knajpy ze względu na Jas...",
+          "AudioPath": "assets/pl/Shane/465.ogg",
+          "TranslationKey": "Strings/schedules/Shane:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Tej nocy nie idę do knajpy ze względu na Jas..."
+        },
+        {
+          "DialogueFrom": "marriage_Sun.000",
+          "DialogueText": "Ale tu śmierdzi.",
+          "AudioPath": "assets/pl/Shane/466.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Sun.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale tu śmierdzi."
+        },
+        {
+          "DialogueFrom": "marriage_Sun.001",
+          "DialogueText": "Mam chwilową blokadę... Powinienem kupić Joja Classic czy Joja Bluu? Trochę tu posiedzę...",
+          "AudioPath": "assets/pl/Shane/467.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Sun.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam chwilową blokadę... Powinienem kupić Joja Classic czy Joja Bluu? Trochę tu posiedzę..."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.003",
+          "DialogueText": "Jeszcze jedna runda... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Shane/468.ogg",
+          "TranslationKey": "Strings/schedules/Shane:marriage_Fri.003",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeszcze jedna runda..."
         }
       ]
     }

@@ -2233,6 +2233,102 @@
           "TranslationKey": "Strings/1_6_Strings:Willy_GoldenBobber",
           "PageIndex": 0,
           "DisplayPattern": "Znajdź i oddaj Złoty Spławik Williemu."
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "Przez te solone ryby burczy mi w brzuchu.",
+          "AudioPath": "assets/pl/Willy/273.ogg",
+          "TranslationKey": "Strings/schedules/Willy:Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Przez te solone ryby burczy mi w brzuchu."
+        },
+        {
+          "DialogueFrom": "spring_9.001",
+          "DialogueText": "Ech, haczyk utknął mi w kciuku... doktor go obetnie.",
+          "AudioPath": "assets/pl/Willy/274.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Ech, haczyk utknął mi w kciuku... doktor go obetnie."
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Ach, nie ma to jak ciepły napitek dla relaksu po tak mroźnym dniu...",
+          "AudioPath": "assets/pl/Willy/275.ogg",
+          "TranslationKey": "Strings/schedules/Willy:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, nie ma to jak ciepły napitek dla relaksu po tak mroźnym dniu..."
+        },
+        {
+          "DialogueFrom": "spring_9.002",
+          "DialogueText": "Ałć! To boli, doktorze! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/276.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Ałć! To boli, doktorze!"
+        },
+        {
+          "DialogueFrom": "spring_9.000",
+          "DialogueText": "Jestem dziś umówiony do lekarza, więc jeśli czegoś Ci trzeba, to się pospiesz.",
+          "AudioPath": "assets/pl/Willy/277.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem dziś umówiony do lekarza, więc jeśli czegoś Ci trzeba, to się pospiesz."
+        },
+        {
+          "DialogueFrom": "spring_9.003",
+          "DialogueText": "Muszę się trochę ogrzać. Trzeba się przygotować na kolejną zimną noc na oceanie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/278.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.003",
+          "PageIndex": 0,
+          "DisplayPattern": "Muszę się trochę ogrzać. Trzeba się przygotować na kolejną zimną noc na oceanie."
+        },
+        {
+          "DialogueFrom": "Sat.000",
+          "DialogueText": "Ach... Nie ma to jak odpoczynek z browcem po całym dniu łowienia ryb. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/279.ogg",
+          "TranslationKey": "Strings/schedules/Willy:Sat.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... Nie ma to jak odpoczynek z browcem po całym dniu łowienia ryb."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Nie mogę się wyspać przez ten cały nocny rynek... ech, ale nic nie szkodzi.",
+          "AudioPath": "assets/pl/Willy/280.ogg",
+          "TranslationKey": "Strings/schedules/Willy:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę się wyspać przez ten cały nocny rynek... ech, ale nic nie szkodzi."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Idziesz do łodzi podwodnej? Jej kapitan to mój stary druh.",
+          "AudioPath": "assets/pl/Willy/281.ogg",
+          "TranslationKey": "Strings/schedules/Willy:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Idziesz do łodzi podwodnej? Jej kapitan to mój stary druh."
+        },
+        {
+          "DialogueFrom": "Quest_109",
+          "DialogueText": "Hej, udało Ci się! Nieźle. Jestem zaskoczony.",
+          "AudioPath": "assets/pl/Willy/282.ogg",
+          "TranslationKey": "Data/Quests:109",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, udało Ci się! Nieźle. Jestem zaskoczony."
+        },
+        {
+          "DialogueFrom": "Quest_109",
+          "DialogueText": "Zima to dobra pora na przechadzkę ze starą wędką, co nie?",
+          "AudioPath": "assets/pl/Willy/283.ogg",
+          "TranslationKey": "Data/Quests:109",
+          "PageIndex": 1,
+          "DisplayPattern": "Zima to dobra pora na przechadzkę ze starą wędką, co nie?"
+        },
+        {
+          "DialogueFrom": "Quest_124",
+          "DialogueText": "Hej, niezła zdobycz! Masz w sobie krew wędkarza. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/284.ogg",
+          "TranslationKey": "Data/Quests:124",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, niezła zdobycz! Masz w sobie krew wędkarza."
         }
       ]
     }

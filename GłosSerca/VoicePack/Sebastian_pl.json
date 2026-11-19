@@ -4241,6 +4241,78 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Sebastian",
           "PageIndex": 0,
           "DisplayPattern": "Znalazłem parę rzeczy przy jeziorze."
+        },
+        {
+          "DialogueFrom": "summer_4.000",
+          "DialogueText": "Cholera... prawie zapomniałem. Muszę dzisiaj iść do doktora Harveya.",
+          "AudioPath": "assets/pl/Sebastian/527.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:summer_4.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cholera... prawie zapomniałem. Muszę dzisiaj iść do doktora Harveya."
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "Powinienem pozwolić Samowi wygrać?... Niee. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sebastian/528.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Powinienem pozwolić Samowi wygrać?... Niee."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.001",
+          "DialogueText": "Jeszcze mam w sobie to coś... Sam dalej jest łatwy do pokonania. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sebastian/529.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:marriage_Fri.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeszcze mam w sobie to coś... Sam dalej jest łatwy do pokonania."
+        },
+        {
+          "DialogueFrom": "summer_4.001",
+          "DialogueText": "Co Ty tu robisz? Mogłem być nagi! {Portrait:Angry}",
+          "AudioPath": "assets/pl/Sebastian/530.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:summer_4.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Co Ty tu robisz? Mogłem być nagi!"
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Jak przyszedłem do mamy, strasznie się cieszyła. Zasługuje na szczęście. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Sebastian/531.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak przyszedłem do mamy, strasznie się cieszyła. Zasługuje na szczęście."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.000",
+          "DialogueText": "Idę się wieczorem spotkać z przyjaciółmi. Będę w domu trochę później.",
+          "AudioPath": "assets/pl/Sebastian/532.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:marriage_Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Idę się wieczorem spotkać z przyjaciółmi. Będę w domu trochę później."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Stanie w tym miejscu powoduje, że chcę zapalić... ale chcę to rzucić.",
+          "AudioPath": "assets/pl/Sebastian/533.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Stanie w tym miejscu powoduje, że chcę zapalić... ale chcę to rzucić."
+        },
+        {
+          "DialogueFrom": "rain.000",
+          "DialogueText": "Ocean jest najlepszy w samotności... Nie uważasz?",
+          "AudioPath": "assets/pl/Sebastian/534.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:rain.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ocean jest najlepszy w samotności... Nie uważasz?"
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Czuję się lepiej w nocy... Może coś kupię.",
+          "AudioPath": "assets/pl/Sebastian/535.ogg",
+          "TranslationKey": "Strings/schedules/Sebastian:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Czuję się lepiej w nocy... Może coś kupię."
         }
       ]
     }

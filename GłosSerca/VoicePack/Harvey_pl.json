@@ -3863,6 +3863,70 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Harvey",
           "PageIndex": 0,
           "DisplayPattern": "Och, em... to modele samolotów, które złożyłem... podobają Ci się?"
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "To na pewno może zostać przypisane do zdrowej diety.",
+          "AudioPath": "assets/pl/Harvey/480.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "To na pewno może zostać przypisane do zdrowej diety."
+        },
+        {
+          "DialogueFrom": "marriageJob.000",
+          "DialogueText": "Cześć Kochanie. Co robisz w klinice?",
+          "AudioPath": "assets/pl/Harvey/481.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:marriageJob.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć Kochanie. Co robisz w klinice?"
+        },
+        {
+          "DialogueFrom": "marriageJob.000",
+          "DialogueText": "Ach, odwiedzasz mnie. Miło. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Harvey/482.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:marriageJob.000",
+          "PageIndex": 1,
+          "DisplayPattern": "Ach, odwiedzasz mnie. Miło."
+        },
+        {
+          "DialogueFrom": "Fri.001",
+          "DialogueText": "Odkładam zakupy.",
+          "AudioPath": "assets/pl/Harvey/483.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:Fri.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Odkładam zakupy."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Dźwięki płynącej wody są dla mnie kojące.",
+          "AudioPath": "assets/pl/Harvey/484.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Dźwięki płynącej wody są dla mnie kojące."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Cześć! Tak tylko kupuję potrzebne rzeczy do naszych zdrowych obiadów.",
+          "AudioPath": "assets/pl/Harvey/485.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć! Tak tylko kupuję potrzebne rzeczy do naszych zdrowych obiadów."
+        },
+        {
+          "DialogueFrom": "Sat.000",
+          "DialogueText": "Po prostu odkładam zakupy.",
+          "AudioPath": "assets/pl/Harvey/486.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:Sat.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Po prostu odkładam zakupy."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Zima może być ponurą porą roku, ale dzięki takim wydarzeniom jest troszkę jaśniej!",
+          "AudioPath": "assets/pl/Harvey/487.ogg",
+          "TranslationKey": "Strings/schedules/Harvey:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Zima może być ponurą porą roku, ale dzięki takim wydarzeniom jest troszkę jaśniej!"
         }
       ]
     }

@@ -1455,6 +1455,78 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Jodi",
           "PageIndex": 0,
           "DisplayPattern": "Przepraszam, moja tegoroczna selekcja nie jest za dobra..."
+        },
+        {
+          "DialogueFrom": "spring_11.003",
+          "DialogueText": "Vincent był dzisiaj bardzo dzielny. Jestem z niego dumna.",
+          "AudioPath": "assets/pl/Jodi/181.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:spring_11.003",
+          "PageIndex": 0,
+          "DisplayPattern": "Vincent był dzisiaj bardzo dzielny. Jestem z niego dumna."
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Podróżowanie po świecie musi być ekscytujące... *ech*...",
+          "AudioPath": "assets/pl/Jodi/182.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Podróżowanie po świecie musi być ekscytujące... *ech*..."
+        },
+        {
+          "DialogueFrom": "spring_11.001",
+          "DialogueText": "Bądź odważny, Vincent. Pomyśl o swoim ojcu.",
+          "AudioPath": "assets/pl/Jodi/183.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:spring_11.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Bądź odważny, Vincent. Pomyśl o swoim ojcu."
+        },
+        {
+          "DialogueFrom": "Tue.000",
+          "DialogueText": "Aał... Moje ręce są jak żelatyna... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Jodi/184.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:Tue.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Aał... Moje ręce są jak żelatyna..."
+        },
+        {
+          "DialogueFrom": "spring.000",
+          "DialogueText": "Ćśśś... Właśnie zasnął.",
+          "AudioPath": "assets/pl/Jodi/185.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:spring.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ćśśś... Właśnie zasnął."
+        },
+        {
+          "DialogueFrom": "spring_18.000",
+          "DialogueText": "Ej! Nie możesz się wtrącać do prywatnych spotkań! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Jodi/186.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:spring_18.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ej! Nie możesz się wtrącać do prywatnych spotkań!"
+        },
+        {
+          "DialogueFrom": "spring_11.002",
+          "DialogueText": "Doktorze Harvey? Martwię się o wzrost Vincenta. Nie jest zbyt niski jak na swój wiek?",
+          "AudioPath": "assets/pl/Jodi/187.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:spring_11.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Doktorze Harvey? Martwię się o wzrost Vincenta. Nie jest zbyt niski jak na swój wiek?"
+        },
+        {
+          "DialogueFrom": "spring_11.000",
+          "DialogueText": "Vincent nienawidzi chodzić do lekarza, ale nie ma wyboru.",
+          "AudioPath": "assets/pl/Jodi/188.ogg",
+          "TranslationKey": "Strings/schedules/Jodi:spring_11.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Vincent nienawidzi chodzić do lekarza, ale nie ma wyboru."
+        },
+        {
+          "DialogueFrom": "Quest_101",
+          "DialogueText": "Och, wygląda smakowicie! Dziękuję, właśnie tego mi było trzeba. To będzie idealne do mojego żółtego curry.",
+          "AudioPath": "assets/pl/Jodi/189.ogg",
+          "TranslationKey": "Data/Quests:101",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, wygląda smakowicie! Dziękuję, właśnie tego mi było trzeba. To będzie idealne do mojego żółtego curry."
         }
       ]
     }

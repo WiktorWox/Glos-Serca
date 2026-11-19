@@ -1467,6 +1467,54 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Clint",
           "PageIndex": 0,
           "DisplayPattern": "Potrzebujesz jakiejś rudy?"
+        },
+        {
+          "DialogueFrom": "winter_16.002",
+          "DialogueText": "Jak to wygląda, doktorze? Czasami przy oddychaniu mam straszną chrypę.",
+          "AudioPath": "assets/pl/Clint/182.ogg",
+          "TranslationKey": "Strings/schedules/Clint:winter_16.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak to wygląda, doktorze? Czasami przy oddychaniu mam straszną chrypę."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Mam dziś wizytę u lekarza... Może występ syreny ukoi moje nerwy? A co, jeśli pomyślą, że się gapię...? *nerwowe przełknięcie*",
+          "AudioPath": "assets/pl/Clint/183.ogg",
+          "TranslationKey": "Strings/schedules/Clint:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam dziś wizytę u lekarza... Może występ syreny ukoi moje nerwy? A co, jeśli pomyślą, że się gapię...? *nerwowe przełknięcie*"
+        },
+        {
+          "DialogueFrom": "winter_16.001",
+          "DialogueText": "Idę dzisiaj do doktora... wdychanie tego prochu z węgla nie jest zdrowe.",
+          "AudioPath": "assets/pl/Clint/184.ogg",
+          "TranslationKey": "Strings/schedules/Clint:winter_16.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Idę dzisiaj do doktora... wdychanie tego prochu z węgla nie jest zdrowe."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Mam dziś wizytę u doktora,. Więc jeśli chcesz coś kupić, to się pośpiesz.",
+          "AudioPath": "assets/pl/Clint/185.ogg",
+          "TranslationKey": "Strings/schedules/Clint:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam dziś wizytę u doktora,. Więc jeśli chcesz coś kupić, to się pośpiesz."
+        },
+        {
+          "DialogueFrom": "Quest_112",
+          "DialogueText": "Hej, to sztabka żelaza, o którą Cię prosiłem. Wygląda na twardą... Idealnie.",
+          "AudioPath": "assets/pl/Clint/186.ogg",
+          "TranslationKey": "Data/Quests:112",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, to sztabka żelaza, o którą Cię prosiłem. Wygląda na twardą... Idealnie."
+        },
+        {
+          "DialogueFrom": "Quest_112",
+          "DialogueText": "Dzięki, {Farmer_Name}. Doceniam to.",
+          "AudioPath": "assets/pl/Clint/187.ogg",
+          "TranslationKey": "Data/Quests:112",
+          "PageIndex": 1,
+          "DisplayPattern": "Dzięki, . Doceniam to."
         }
       ]
     }

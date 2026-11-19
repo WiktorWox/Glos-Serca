@@ -4115,6 +4115,230 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Emily",
           "PageIndex": 0,
           "DisplayPattern": "Ach, przyjemnie tu w cieniu."
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "Ale ładne krosno. Jestem chyba w niebie.",
+          "AudioPath": "assets/pl/Emily/511.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ale ładne krosno. Jestem chyba w niebie."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.002",
+          "DialogueText": "Gus ma problemy z organizacją wszystkiego.",
+          "AudioPath": "assets/pl/Emily/512.ogg",
+          "TranslationKey": "Strings/schedules/Emily:marriage_Mon.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Gus ma problemy z organizacją wszystkiego."
+        },
+        {
+          "DialogueFrom": "winter_11.000",
+          "DialogueText": "Większość z nas odwiedza doktora na coroczne badania.",
+          "AudioPath": "assets/pl/Emily/513.ogg",
+          "TranslationKey": "Strings/schedules/Emily:winter_11.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Większość z nas odwiedza doktora na coroczne badania."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.001",
+          "DialogueText": "Jestem tu dla zapachu owoców.",
+          "AudioPath": "assets/pl/Emily/514.ogg",
+          "TranslationKey": "Strings/schedules/Emily:marriage_Fri.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem tu dla zapachu owoców."
+        },
+        {
+          "DialogueFrom": "winter_11.001",
+          "DialogueText": "Doktorze, chciałabym 'naturalne lekarstwo', jeśli można.",
+          "AudioPath": "assets/pl/Emily/515.ogg",
+          "TranslationKey": "Strings/schedules/Emily:winter_11.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Doktorze, chciałabym 'naturalne lekarstwo', jeśli można."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Idę dzisiaj na spacer. Mam nogi jak kluski.",
+          "AudioPath": "assets/pl/Emily/516.ogg",
+          "TranslationKey": "Strings/schedules/Emily:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Idę dzisiaj na spacer. Mam nogi jak kluski."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.000",
+          "DialogueText": "Szukam Syren.",
+          "AudioPath": "assets/pl/Emily/517.ogg",
+          "TranslationKey": "Strings/schedules/Emily:marriage_Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Szukam Syren."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Dobrze jest odwiedzić stary dom. Jest pełen wspomnień.",
+          "AudioPath": "assets/pl/Emily/518.ogg",
+          "TranslationKey": "Strings/schedules/Emily:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze jest odwiedzić stary dom. Jest pełen wspomnień."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.002",
+          "DialogueText": "Piątki w nocy są zawsze pełne roboty, więc pracuje za wsze czasy. Ale frajda! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/519.ogg",
+          "TranslationKey": "Strings/schedules/Emily:marriage_Fri.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Piątki w nocy są zawsze pełne roboty, więc pracuje za wsze czasy. Ale frajda!"
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Ta łódź jest moją ulubioną. Jest jedyna w swoim rodzaju!",
+          "AudioPath": "assets/pl/Emily/520.ogg",
+          "TranslationKey": "Strings/schedules/Emily:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ta łódź jest moją ulubioną. Jest jedyna w swoim rodzaju!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Greeting",
+          "DialogueText": "Cześć Sandy! Mam tu dla ciebie prezent. Mam nadzieję, że ci się spodoba! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/521.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Greeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć Sandy! Mam tu dla ciebie prezent. Mam nadzieję, że ci się spodoba!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Hangout",
+          "DialogueText": "Cieszę się, że mam dzisiaj wolne! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/522.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Hangout",
+          "PageIndex": 0,
+          "DisplayPattern": "Cieszę się, że mam dzisiaj wolne!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Hangout",
+          "DialogueText": "Ale tu ładnie.",
+          "AudioPath": "assets/pl/Emily/523.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Hangout",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale tu ładnie."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Lake",
+          "DialogueText": "Fiu... ale gorąco!",
+          "AudioPath": "assets/pl/Emily/524.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Lake",
+          "PageIndex": 0,
+          "DisplayPattern": "Fiu... ale gorąco!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Lake",
+          "DialogueText": "Dobry dzień na pływanie.",
+          "AudioPath": "assets/pl/Emily/525.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Lake",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobry dzień na pływanie."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Lake",
+          "DialogueText": "Pewnie jest tu fajnie chłodniutko. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/526.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Lake",
+          "PageIndex": 2,
+          "DisplayPattern": "Pewnie jest tu fajnie chłodniutko."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bones",
+          "DialogueText": "Możesz uwierzyć w to miejsce?",
+          "AudioPath": "assets/pl/Emily/527.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Bones",
+          "PageIndex": 0,
+          "DisplayPattern": "Możesz uwierzyć w to miejsce?"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bones",
+          "DialogueText": "Takie tajemnicze...",
+          "AudioPath": "assets/pl/Emily/528.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Bones",
+          "PageIndex": 1,
+          "DisplayPattern": "Takie tajemnicze..."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Camel",
+          "DialogueText": "Uwielbiam być wśród zwierząt.",
+          "AudioPath": "assets/pl/Emily/529.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Camel",
+          "PageIndex": 0,
+          "DisplayPattern": "Uwielbiam być wśród zwierząt."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Camel",
+          "DialogueText": "Ten świat jest pełen dusz i magii.",
+          "AudioPath": "assets/pl/Emily/530.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Camel",
+          "PageIndex": 1,
+          "DisplayPattern": "Ten świat jest pełen dusz i magii."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bye",
+          "DialogueText": "Było super!",
+          "AudioPath": "assets/pl/Emily/531.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Bye",
+          "PageIndex": 0,
+          "DisplayPattern": "Było super!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bye",
+          "DialogueText": "Chciałabym tu jeszcze kiedyś wrócić! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/532.ogg",
+          "TranslationKey": "Strings/schedules/Emily:Sandy_Birthday_Bye",
+          "PageIndex": 1,
+          "DisplayPattern": "Chciałabym tu jeszcze kiedyś wrócić!"
+        },
+        {
+          "DialogueFrom": "Quest_110",
+          "DialogueText": "Och, mój ulubiony kryształ! To miłe z Twojej strony! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/533.ogg",
+          "TranslationKey": "Data/Quests:110",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, mój ulubiony kryształ! To miłe z Twojej strony!"
+        },
+        {
+          "DialogueFrom": "Quest_110",
+          "DialogueText": "Hę? Od kogo? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Emily/534.ogg",
+          "TranslationKey": "Data/Quests:110",
+          "PageIndex": 1,
+          "DisplayPattern": "Hę? Od kogo?"
+        },
+        {
+          "DialogueFrom": "Quest_110",
+          "DialogueText": "Och, masz go od Clinta? Cóż, nie obchodzi mnie skąd go masz, jest piękny! Dziękuję! *cmok* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/535.ogg",
+          "TranslationKey": "Data/Quests:110",
+          "PageIndex": 2,
+          "DisplayPattern": "Och, masz go od Clinta? Cóż, nie obchodzi mnie skąd go masz, jest piękny! Dziękuję! *cmok*"
+        },
+        {
+          "DialogueFrom": "Quest_115",
+          "DialogueText": "Och... Masz ją! Dzięki, wygląda apetycznie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/536.ogg",
+          "TranslationKey": "Data/Quests:115",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Masz ją! Dzięki, wygląda aycznie!"
+        },
+        {
+          "DialogueFrom": "Quest_126",
+          "DialogueText": "Och, wygląda wspaniale... I jest też z ekologicznego pochodzenia! Bardzo Ci dziękuję, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Emily/537.ogg",
+          "TranslationKey": "Data/Quests:126",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, wygląda wspaniale... I jest też z ekologicznego pochodzenia! Bardzo Ci dziękuję, ."
+        },
+        {
+          "DialogueFrom": "Quest_126",
+          "DialogueText": "Teraz, mogę brać się do roboty. Zajmie mi to kilka dni...",
+          "AudioPath": "assets/pl/Emily/538.ogg",
+          "TranslationKey": "Data/Quests:126",
+          "PageIndex": 1,
+          "DisplayPattern": "Teraz, mogę brać się do roboty. Zajmie mi to kilka dni..."
         }
       ]
     }

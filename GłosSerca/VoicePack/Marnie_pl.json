@@ -1437,6 +1437,62 @@
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_RareGreeting",
           "PageIndex": 0,
           "DisplayPattern": "Lew...? Och..."
+        },
+        {
+          "DialogueFrom": "winter_18.000",
+          "DialogueText": "Myślę, że Jas lubi chodzić do doktora. Niezwykłe dziecko.",
+          "AudioPath": "assets/pl/Marnie/177.ogg",
+          "TranslationKey": "Strings/schedules/Marnie:winter_18.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślę, że Jas lubi chodzić do doktora. Niezwykłe dziecko."
+        },
+        {
+          "DialogueFrom": "fall_18.000",
+          "DialogueText": "Emm... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?",
+          "AudioPath": "assets/pl/Marnie/178.ogg",
+          "TranslationKey": "Strings/schedules/Marnie:fall_18.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Emm... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?"
+        },
+        {
+          "DialogueFrom": "Tue.000",
+          "DialogueText": "Tej nocy będę spała jak suseł. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Marnie/179.ogg",
+          "TranslationKey": "Strings/schedules/Marnie:Tue.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Tej nocy będę spała jak suseł."
+        },
+        {
+          "DialogueFrom": "winter_18.001",
+          "DialogueText": "Czekamy tu na wizytę o 13:30.",
+          "AudioPath": "assets/pl/Marnie/180.ogg",
+          "TranslationKey": "Strings/schedules/Marnie:winter_18.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Czekamy tu na wizytę o 13:30."
+        },
+        {
+          "DialogueFrom": "winter_18.002",
+          "DialogueText": "Emm... Doktorze Harvey? Czy po zastrzyku możemy dostać dwa lizaki?",
+          "AudioPath": "assets/pl/Marnie/181.ogg",
+          "TranslationKey": "Strings/schedules/Marnie:winter_18.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Emm... Doktorze Harvey? Czy po zastrzyku możemy dostać dwa lizaki?"
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Ooch... Drobny fioletowy jedwab. Nie znajdziesz tego w JojaMarkecie!",
+          "AudioPath": "assets/pl/Marnie/182.ogg",
+          "TranslationKey": "Strings/schedules/Marnie:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ooch... Drobny fioletowy jedwab. Nie znajdziesz tego w JojaMarkecie!"
+        },
+        {
+          "DialogueFrom": "Quest_106",
+          "DialogueText": "Och, amarantus, o który prosiłam! Dziękuję Ci tak bardzo... moje krowy to pokochają! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Marnie/183.ogg",
+          "TranslationKey": "Data/Quests:106",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, amarantus, o który prosiłam! Dziękuję Ci tak bardzo... moje krowy to pokochają!"
         }
       ]
     }

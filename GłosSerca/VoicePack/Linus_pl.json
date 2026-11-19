@@ -1504,6 +1504,30 @@
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Linus",
           "PageIndex": 1,
           "DisplayPattern": "Ciężko znaleźć ten smak Pustyni Calico gdziekolwiek indziej. He he..."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Ci ludzie to podróżnicy, tak jak ja... Ale wolę tu siedzieć, słuchać i oglądać.",
+          "AudioPath": "assets/pl/Linus/187.ogg",
+          "TranslationKey": "Strings/schedules/Linus:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ci ludzie to podróżnicy, tak jak ja... Ale wolę tu siedzieć, słuchać i oglądać."
+        },
+        {
+          "DialogueFrom": "winter.000",
+          "DialogueText": "Nawet taki ktoś jak ja potrzebuje się czasami ogrzać.",
+          "AudioPath": "assets/pl/Linus/188.ogg",
+          "TranslationKey": "Strings/schedules/Linus:winter.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Nawet taki ktoś jak ja potrzebuje się czasami ogrzać."
+        },
+        {
+          "DialogueFrom": "Quest_107",
+          "DialogueText": "Mój koszyk! Dziękuję. To wiele dla mnie znaczy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Linus/189.ogg",
+          "TranslationKey": "Data/Quests:107",
+          "PageIndex": 0,
+          "DisplayPattern": "Mój koszyk! Dziękuję. To wiele dla mnie znaczy."
         }
       ]
     }

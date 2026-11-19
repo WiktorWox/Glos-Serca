@@ -1197,6 +1197,62 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Leo",
           "PageIndex": 0,
           "DisplayPattern": "Mogę dostać kilka jajek? Chcę je dać to mojego gniazdka."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Lubię patrzeć na światła.",
+          "AudioPath": "assets/pl/Leo/149.ogg",
+          "TranslationKey": "Strings/schedules/Leo:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Lubię patrzeć na światła."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Przypominają mi coś co było, dawno, dawno temu... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/150.ogg",
+          "TranslationKey": "Strings/schedules/Leo:winter_15.000",
+          "PageIndex": 1,
+          "DisplayPattern": "Przypominają mi coś co było, dawno, dawno temu..."
+        },
+        {
+          "DialogueFrom": "winter.000",
+          "DialogueText": "Zajmie to chwilę, ale próbuję przeczytać wszystkie książki z biblioteki.",
+          "AudioPath": "assets/pl/Leo/151.ogg",
+          "TranslationKey": "Strings/schedules/Leo:winter.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Zajmie to chwilę, ale próbuję przeczytać wszystkie książki z biblioteki."
+        },
+        {
+          "DialogueFrom": "winter.000",
+          "DialogueText": "Przede mną długa droga... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/152.ogg",
+          "TranslationKey": "Strings/schedules/Leo:winter.000",
+          "PageIndex": 1,
+          "DisplayPattern": "Przede mną długa droga..."
+        },
+        {
+          "DialogueFrom": "school",
+          "DialogueText": "Nie mogę teraz rozmawiać, {Farmer_Name}. Muszę się skupić...",
+          "AudioPath": "assets/pl/Leo/153.ogg",
+          "TranslationKey": "Strings/schedules/Leo:school",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę teraz rozmawiać, . Muszę się skupić..."
+        },
+        {
+          "DialogueFrom": "dinner",
+          "DialogueText": "Och, chcesz coś zjeść? Właśnie wszystko zjadłem... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Leo/154.ogg",
+          "TranslationKey": "Strings/schedules/Leo:dinner",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, chcesz coś zjeść? Właśnie wszystko zjadłem..."
+        },
+        {
+          "DialogueFrom": "tent",
+          "DialogueText": "Nie obchodzi nas deszcz, ale czasami dobrze jest wyschnąć.",
+          "AudioPath": "assets/pl/Leo/155.ogg",
+          "TranslationKey": "Strings/schedules/Leo:tent",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie obchodzi nas deszcz, ale czasami dobrze jest wyschnąć."
         }
       ]
     }

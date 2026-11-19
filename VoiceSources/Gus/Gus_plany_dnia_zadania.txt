@@ -1,0 +1,66 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 182.ogg).
+
+Uwaga: 36.ogg (SeedShop_Entry) to teraz tylko pierwszy wariant „Cześć, Pierre!”; kolejne warianty poniżej. Gus nie ma jeszcze żadnych nagrań.
+
+DialogueFrom: Characters/Dialogue/Gus:SeedShop_Entry (wariant 2)  [dymek przy wejściu (_Entry)]
+DialogueText: Czego mi trzeba...
+AudioName: 182.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Gus:SeedShop_Entry (wariant 3)  [dymek przy wejściu (_Entry)]
+DialogueText: Ach, to dobrze wygląda!
+AudioName: 183.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Gus:SeedShop_Entry (wariant 4)  [dymek przy wejściu (_Entry)]
+DialogueText: Robię dziś mój specjalny sos!
+AudioName: 184.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Gus:SeedShop_Entry (wariant 5)  [dymek przy wejściu (_Entry)]
+DialogueText: Pierre! Co masz świeżego?
+AudioName: 185.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Gus:SeedShop_Entry (wariant 6)  [dymek przy wejściu (_Entry)]
+DialogueText: Pierre! Masz coś dla mnie?
+AudioName: 186.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Gus:fall_4.000  [plan dnia]
+DialogueText: Przez wizyty u doktora strasznie się denerwuje... Co jeśli pozostało mi tylko kilka dni? Nie jestem jeszcze na to gotowy!
+AudioName: 187.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Gus:fall_4.001  [plan dnia]
+DialogueText: To moja wątroba, prawda doktorze? Widzę po pańskim wyrazie twarzy... *ech*... Naprawdę muszę się napić tego słodkiego, przepysznego wina z Doliny Stardew. {Portrait:Sad}
+AudioName: 188.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Gus:Mon.000  [plan dnia]
+DialogueText: Szukam rzeczy do knajpy. Pierre ma dobre towary. {Portrait:Happy}
+AudioName: 189.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Gus:Sun.000  [plan dnia]
+DialogueText: Hej {Farmer_Name}. Wybacz... Bar jest zamknięty do końca gry.
+AudioName: 190.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:114  [zakończenie zadania]
+DialogueText: *wąch*...*wąch*... Co to jest? Coś tu pachnie jak tuńczyk!
+AudioName: 191.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:114  [zakończenie zadania]
+DialogueText: Aha! Masz go! Po stokroć dzięki!
+AudioName: 192.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:121  [zakończenie zadania]
+DialogueText: Coś tu pachnie jak świeży homar. Och, świetnie. {Portrait:Happy}
+AudioName: 193.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:121  [zakończenie zadania]
+DialogueText: Trzymaj się.
+AudioName: 194.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:125  [zakończenie zadania]
+DialogueText: Kokos! Teraz mogę odwrócić swoją uwagę od tej mroźnej zimy. {Portrait:Happy}
+AudioName: 195.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:125  [zakończenie zadania]
+DialogueText: Jest idealny do mojego coco-no-no. Dzięki!
+AudioName: 196.ogg
+--------------------------------------------------

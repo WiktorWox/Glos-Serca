@@ -1,0 +1,40 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 181.ogg).
+
+DialogueFrom: Strings/schedules/Jodi:spring_11.003  [plan dnia]
+DialogueText: Vincent był dzisiaj bardzo dzielny. Jestem z niego dumna.
+AudioName: 181.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:winter_17.000  [plan dnia]
+DialogueText: Podróżowanie po świecie musi być ekscytujące... *ech*...
+AudioName: 182.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:spring_11.001  [plan dnia]
+DialogueText: Bądź odważny, Vincent. Pomyśl o swoim ojcu.
+AudioName: 183.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:Tue.000  [plan dnia]
+DialogueText: Aał... Moje ręce są jak żelatyna... {Portrait:Sad}
+AudioName: 184.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:spring.000  [plan dnia]
+DialogueText: Ćśśś... Właśnie zasnął.
+AudioName: 185.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:spring_18.000  [plan dnia]
+DialogueText: Ej! Nie możesz się wtrącać do prywatnych spotkań! {Portrait:Unique}
+AudioName: 186.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:spring_11.002  [plan dnia]
+DialogueText: Doktorze Harvey? Martwię się o wzrost Vincenta. Nie jest zbyt niski jak na swój wiek?
+AudioName: 187.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jodi:spring_11.000  [plan dnia]
+DialogueText: Vincent nienawidzi chodzić do lekarza, ale nie ma wyboru.
+AudioName: 188.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:101  [zakończenie zadania]
+DialogueText: Och, wygląda smakowicie! Dziękuję, właśnie tego mi było trzeba. To będzie idealne do mojego żółtego curry.
+AudioName: 189.ogg
+--------------------------------------------------

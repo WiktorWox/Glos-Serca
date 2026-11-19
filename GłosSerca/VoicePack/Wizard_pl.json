@@ -1141,6 +1141,22 @@
           "TranslationKey": "Strings/MovieReactions:Wizard_*_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Odciągasz mnie od moich badań na takie coś?"
+        },
+        {
+          "DialogueFrom": "Quest_111",
+          "DialogueText": "Ach, masz ją. Masz moją wdzięczność i 1000 monet w nagrodę. A teraz odejdź.",
+          "AudioPath": "assets/pl/Wizard/141.ogg",
+          "TranslationKey": "Data/Quests:111",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, masz ją. Masz moją wdzięczność i 1000 monet w nagrodę. A teraz odejdź."
+        },
+        {
+          "DialogueFrom": "Quest_123",
+          "DialogueText": "Ach, kosztowny iryd. Dobrze Ci poszło, {Farmer_Name}. Masz moją wdzięczność. Teraz, wyjdź.",
+          "AudioPath": "assets/pl/Wizard/142.ogg",
+          "TranslationKey": "Data/Quests:123",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, kosztowny iryd. Dobrze Ci poszło, . Masz moją wdzięczność. Teraz, wyjdź."
         }
       ]
     }

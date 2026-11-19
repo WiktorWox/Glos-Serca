@@ -4673,6 +4673,102 @@
           "TranslationKey": "Strings/StringsFromCSFiles:AbigailGame.cs.11902",
           "PageIndex": 0,
           "DisplayPattern": "Nieee!"
+        },
+        {
+          "DialogueFrom": "Sun.000",
+          "DialogueText": "Chowamy się tutaj, żeby z nikim nie gadać.",
+          "AudioPath": "assets/pl/Abigail/578.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:Sun.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Chowamy się tutaj, żeby z nikim nie gadać."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.002",
+          "DialogueText": "Ech... nadal nie mogę tego przejść. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Abigail/579.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:marriage_Mon.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Ech... nadal nie mogę tego przejść."
+        },
+        {
+          "DialogueFrom": "spring_4.000",
+          "DialogueText": "Ugh... Później muszę iść do lekarza. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Abigail/580.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:spring_4.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Ugh... Później muszę iść do lekarza."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.001",
+          "DialogueText": "Dobrze jest znowu zobaczyć starą ekipę. Nic się nie zmienili. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Abigail/581.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:marriage_Fri.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze jest znowu zobaczyć starą ekipę. Nic się nie zmienili."
+        },
+        {
+          "DialogueFrom": "spring_4.002",
+          "DialogueText": "Ile jeszcze, doktorku? Jestem głodna. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Abigail/582.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:spring_4.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Ile jeszcze, doktorku? Jestem głodna."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Hej, {Farmer_Name}. Lubię tu odpoczywać... Tak tu spokojnie.",
+          "AudioPath": "assets/pl/Abigail/583.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . Lubię tu odpoczywać... Tak tu spokojnie."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.000",
+          "DialogueText": "Co tam, {Farmer_Name}? Spędzam trochę czasu z mamą.",
+          "AudioPath": "assets/pl/Abigail/584.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:marriage_Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Co tam, ? Spędzam trochę czasu z mamą."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Tata jakoś sobie beze mnie radzi.",
+          "AudioPath": "assets/pl/Abigail/585.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Tata jakoś sobie beze mnie radzi."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "To jest takie tajemnicze... Uwielbiam to!",
+          "AudioPath": "assets/pl/Abigail/586.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "To jest takie tajemnicze... Uwielbiam to!"
+        },
+        {
+          "DialogueFrom": "spring_4.001",
+          "DialogueText": "Jestem tu na coroczne badanie! Nie martw się, nie jestem w cią... znaczy, nie jestem chora! Heh. {Portrait:Custom:9}",
+          "AudioPath": "assets/pl/Abigail/587.ogg",
+          "TranslationKey": "Strings/schedules/Abigail:spring_4.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem tu na coroczne badanie! Nie martw się, nie jestem w cią... znaczy, nie jestem chora! Heh."
+        },
+        {
+          "DialogueFrom": "Quest_128",
+          "DialogueText": "Naszyjnik! Gdzie był? {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Abigail/588.ogg",
+          "TranslationKey": "Data/Quests:128",
+          "PageIndex": 0,
+          "DisplayPattern": "Naszyjnik! Gdzie był?"
+        },
+        {
+          "DialogueFrom": "Quest_128",
+          "DialogueText": "Cóż, dziękuję za przyniesienie go do mnie, {Farmer_Name}. Mama nigdy się nie skapnie... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Abigail/589.ogg",
+          "TranslationKey": "Data/Quests:128",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, dziękuję za przyniesienie go do mnie, . Mama nigdy się nie skapnie..."
         }
       ]
     }

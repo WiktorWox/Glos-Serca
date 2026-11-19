@@ -1,0 +1,56 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 360.ogg).
+
+DialogueFrom: Strings/schedules/Lewis:fall_9.000  [plan dnia]
+DialogueText: Em... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?
+AudioName: 360.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:15.000  [plan dnia]
+DialogueText: Lubię sprawdzać jak się mają lokalne biznesy w naszym miasteczku.
+AudioName: 361.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:6.000  [plan dnia]
+DialogueText: Przyszedłem po podatki od Clinta.
+AudioName: 362.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:1.000  [plan dnia]
+DialogueText: O tej porze roku najbardziej czuć ryby.
+AudioName: 363.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:Tue.000  [plan dnia]
+DialogueText: Robię tu wszystkie moje zakupy. {Portrait:Happy}
+AudioName: 364.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:3.000  [plan dnia]
+DialogueText: Sprawdzam, czy Marnie niczego nie potrzebuje.
+AudioName: 365.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:6.001  [plan dnia]
+DialogueText: Biblioteka to jedna z najlepszych atrakcji Miasta Pelikan. Jest ufundowana z podatków, które zbieramy od lokalnych przedsiębiorstw.
+AudioName: 366.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Lewis:winter_16.000  [plan dnia]
+DialogueText: Kupiłem wszystkie moje ulubione rzeczy na targach...
+AudioName: 367.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:102  [zakończenie zadania]
+DialogueText: Masz je?... Gdzie?... Och!... Uhmm... Heh.
+AudioName: 368.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:102  [zakończenie zadania]
+DialogueText: Tam? Nie mam pojęcia jak mogły się tam znaleźć... *kaszel*
+AudioName: 369.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:102  [zakończenie zadania]
+DialogueText: To zostaje między nami. Zrozumiano? {Portrait:Unique}
+AudioName: 370.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:120  [zakończenie zadania]
+DialogueText: Masz olej? Pozwól, że zobaczę...
+AudioName: 371.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:120  [zakończenie zadania]
+DialogueText: Wysokiej jakości... bardzo śliski. Idealny. Dziękuję.
+AudioName: 372.ogg
+--------------------------------------------------

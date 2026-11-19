@@ -1,0 +1,24 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 121.ogg).
+
+DialogueFrom: Strings/schedules/Jas:winter_18.000  [plan dnia]
+DialogueText: Muszę iść do doktora, ale się nie boję!
+AudioName: 121.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jas:winter_15.001  [plan dnia]
+DialogueText: Myślałam, że jestem już na tyle duża, że mogę oglądać Syreni występ... {Portrait:Sad}
+AudioName: 122.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jas:winter_18.001  [plan dnia]
+DialogueText: Pokaże mi Pan do czego służą te narzędzia, doktorze Harvey?
+AudioName: 123.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jas:summer.000  [plan dnia]
+DialogueText: ... 2... 3... 4... Nadchodzi fala! *hihi* {Portrait:Happy}
+AudioName: 124.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Jas:winter_15.000  [plan dnia]
+DialogueText: ... 2... 3... 4... O nie! Znowu się pomyliłam.
+AudioName: 125.ogg
+--------------------------------------------------

@@ -1137,6 +1137,70 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Evelyn",
           "PageIndex": 0,
           "DisplayPattern": "Witaj drogie dziecko. Proszę, nie spiesz się, będę tu cały dzień!"
+        },
+        {
+          "DialogueFrom": "Thu.000",
+          "DialogueText": "To miejsce jest dla mnie pełne wspomnień. Dziękuję. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/142.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:Thu.000",
+          "PageIndex": 0,
+          "DisplayPattern": "To miejsce jest dla mnie pełne wspomnień. Dziękuję."
+        },
+        {
+          "DialogueFrom": "2.001",
+          "DialogueText": "Och, drogie dziecko. Czy to nagły wypadek? Po co tu przychodzisz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/143.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:2.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, drogie dziecko. Czy to nagły wypadek? Po co tu przychodzisz?"
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "To jedna z nowych tradycji w Mieście Pelikan... ale szybko się przyzwyczailiśmy. Prawda, George?",
+          "AudioPath": "assets/pl/Evelyn/144.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "To jedna z nowych tradycji w Mieście Pelikan... ale szybko się przyzwyczailiśmy. Prawda, George?"
+        },
+        {
+          "DialogueFrom": "23.000",
+          "DialogueText": "No no, drogie dziecko... To ważne, żeby Doktor Harvey dobrze cię przebadał. To miły młodzieniec! Uważaj na siebie, dla twoich staruszków.",
+          "AudioPath": "assets/pl/Evelyn/145.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:23.000",
+          "PageIndex": 0,
+          "DisplayPattern": "No no, drogie dziecko... To ważne, żeby Doktor Harvey dobrze cię przebadał. To miły młodzieniec! Uważaj na siebie, dla twoich staruszków."
+        },
+        {
+          "DialogueFrom": "23.001",
+          "DialogueText": "Może pan sprawdzić jego płuca? Ciągle kaszle.",
+          "AudioPath": "assets/pl/Evelyn/146.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:23.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Może pan sprawdzić jego płuca? Ciągle kaszle."
+        },
+        {
+          "DialogueFrom": "2.000",
+          "DialogueText": "W moim wieku zaczniesz widywać doktora o wiele częściej.",
+          "AudioPath": "assets/pl/Evelyn/147.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:2.000",
+          "PageIndex": 0,
+          "DisplayPattern": "W moim wieku zaczniesz widywać doktora o wiele częściej."
+        },
+        {
+          "DialogueFrom": "Quest_116",
+          "DialogueText": "Och, dziękuję, drogie dziecko. Ten por wygląda apetycznie. George na pewno się ucieszy.",
+          "AudioPath": "assets/pl/Evelyn/148.ogg",
+          "TranslationKey": "Data/Quests:116",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, dziękuję, drogie dziecko. Ten por wygląda aycznie. George na pewno się ucieszy."
+        },
+        {
+          "DialogueFrom": "Quest_116",
+          "DialogueText": "Uwielbia, jak mu dodaję świeżego pora do jajecznicy na śniadanie.",
+          "AudioPath": "assets/pl/Evelyn/149.ogg",
+          "TranslationKey": "Data/Quests:116",
+          "PageIndex": 1,
+          "DisplayPattern": "Uwielbia, jak mu dodaję świeżego pora do jajecznicy na śniadanie."
         }
       ]
     }

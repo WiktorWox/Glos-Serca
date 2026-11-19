@@ -2033,6 +2033,62 @@
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_RareGreeting",
           "PageIndex": 0,
           "DisplayPattern": "Lew...? Och..."
+        },
+        {
+          "DialogueFrom": "summer_18.001",
+          "DialogueText": "Nie ma się czym martwić, Doktorze. Czuję się jak nigdy dotąd.",
+          "AudioPath": "assets/pl/Robin/252.ogg",
+          "TranslationKey": "Strings/schedules/Robin:summer_18.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie ma się czym martwić, Doktorze. Czuję się jak nigdy dotąd."
+        },
+        {
+          "DialogueFrom": "summer_18.000",
+          "DialogueText": "Co taka zdrowa osoba tu robi?",
+          "AudioPath": "assets/pl/Robin/253.ogg",
+          "TranslationKey": "Strings/schedules/Robin:summer_18.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Co taka zdrowa osoba tu robi?"
+        },
+        {
+          "DialogueFrom": "Tue.000",
+          "DialogueText": "Spotykamy się co tydzień, żeby się wzajemnie zachęcać do zdrowego stylu życia.",
+          "AudioPath": "assets/pl/Robin/254.ogg",
+          "TranslationKey": "Strings/schedules/Robin:Tue.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Spotykamy się co tydzień, żeby się wzajemnie zachęcać do zdrowego stylu życia."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Moją ulubioną rzeczą jest oglądanie tych łodzi. To skrzypienie drewna jest dziwnie przyjemne.",
+          "AudioPath": "assets/pl/Robin/255.ogg",
+          "TranslationKey": "Strings/schedules/Robin:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Moją ulubioną rzeczą jest oglądanie tych łodzi. To skrzypienie drewna jest dziwnie przyjemne."
+        },
+        {
+          "DialogueFrom": "Quest_100",
+          "DialogueText": "Hej, masz moją siekierkę! Co za ulga... Prawie obcięłam sobie palec u stopy inną siekierą. Dziękuję!",
+          "AudioPath": "assets/pl/Robin/256.ogg",
+          "TranslationKey": "Data/Quests:100",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, masz moją siekierkę! Co za ulga... Prawie obcięłam sobie palec u stopy inną siekierą. Dziękuję!"
+        },
+        {
+          "DialogueFrom": "Quest_113",
+          "DialogueText": "Och, masz je! Wiedziałam, że mogłam na Ciebie liczyć, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Robin/257.ogg",
+          "TranslationKey": "Data/Quests:113",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, masz je! Wiedziałam, że mogłam na Ciebie liczyć, ."
+        },
+        {
+          "DialogueFrom": "Quest_113",
+          "DialogueText": "Mmhmm... To drewno jest idealne. Właśnie takiego mi było trzeba. Dzięki!",
+          "AudioPath": "assets/pl/Robin/258.ogg",
+          "TranslationKey": "Data/Quests:113",
+          "PageIndex": 1,
+          "DisplayPattern": "Mmhmm... To drewno jest idealne. Właśnie takiego mi było trzeba. Dzięki!"
         }
       ]
     }

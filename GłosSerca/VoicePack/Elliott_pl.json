@@ -3909,6 +3909,38 @@
           "TranslationKey": "Strings/SpeechBubbles:ElliottHouse_Elliott_Greeting3",
           "PageIndex": 0,
           "DisplayPattern": "Cześć, {0}"
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Flota egzotycznych kupców, podróżująca po świecie w poszukiwaniu bogactwa ponad wyobraźnię... Cóż za przygoda!",
+          "AudioPath": "assets/pl/Elliott/484.ogg",
+          "TranslationKey": "Strings/schedules/Elliott:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Flota egzotycznych kupców, podróżująca po świecie w poszukiwaniu bogactwa ponad wyobraźnię... Cóż za przygoda!"
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Witaj, {Farmer_Name}. Podziwiam piękno oceanu.",
+          "AudioPath": "assets/pl/Elliott/485.ogg",
+          "TranslationKey": "Strings/schedules/Elliott:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj, . Podziwiam piękno oceanu."
+        },
+        {
+          "DialogueFrom": "summer_9.001",
+          "DialogueText": "Doktorze, przez to całe garbienie się nad pisaniem mojej noweli, bolą mnie plecy.",
+          "AudioPath": "assets/pl/Elliott/486.ogg",
+          "TranslationKey": "Strings/schedules/Elliott:summer_9.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Doktorze, przez to całe garbienie się nad pisaniem mojej noweli, bolą mnie plecy."
+        },
+        {
+          "DialogueFrom": "summer_9.000",
+          "DialogueText": "Witaj. Co cię sprowadza w tak okropne miejsce?",
+          "AudioPath": "assets/pl/Elliott/487.ogg",
+          "TranslationKey": "Strings/schedules/Elliott:summer_9.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Witaj. Co cię sprowadza w tak okropne miejsce?"
         }
       ]
     }

@@ -292,11 +292,11 @@
         },
         {
           "DialogueFrom": "SeedShop_Entry",
-          "DialogueText": "Cześć, Pierre!/Czego mi trzeba.../Ach, to dobrze wygląda!/Robię dziś mój specjalny sos!/Pierre! Co masz świeżego?/Pierre! Masz coś dla mnie?",
+          "DialogueText": "Cześć, Pierre!",
           "AudioPath": "assets/pl/Gus/36.ogg",
           "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, Pierre!/Czego mi trzeba.../Ach, to dobrze wygląda!/Robię dziś mój specjalny sos!/Pierre! Co masz świeżego?/Pierre! Masz coś dla mnie?"
+          "DisplayPattern": "Cześć, Pierre!"
         },
         {
           "DialogueFrom": "Saloon8",
@@ -1467,6 +1467,126 @@
           "TranslationKey": "Strings/SpeechBubbles:Saloon_Gus_RareGreeting",
           "PageIndex": 0,
           "DisplayPattern": "Może coś do picia."
+        },
+        {
+          "DialogueFrom": "SeedShop_Entry",
+          "DialogueText": "Czego mi trzeba...",
+          "AudioPath": "assets/pl/Gus/182.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
+          "PageIndex": 1,
+          "DisplayPattern": "Czego mi trzeba..."
+        },
+        {
+          "DialogueFrom": "SeedShop_Entry",
+          "DialogueText": "Ach, to dobrze wygląda!",
+          "AudioPath": "assets/pl/Gus/183.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
+          "PageIndex": 2,
+          "DisplayPattern": "Ach, to dobrze wygląda!"
+        },
+        {
+          "DialogueFrom": "SeedShop_Entry",
+          "DialogueText": "Robię dziś mój specjalny sos!",
+          "AudioPath": "assets/pl/Gus/184.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
+          "PageIndex": 3,
+          "DisplayPattern": "Robię dziś mój specjalny sos!"
+        },
+        {
+          "DialogueFrom": "SeedShop_Entry",
+          "DialogueText": "Pierre! Co masz świeżego?",
+          "AudioPath": "assets/pl/Gus/185.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
+          "PageIndex": 4,
+          "DisplayPattern": "Pierre! Co masz świeżego?"
+        },
+        {
+          "DialogueFrom": "SeedShop_Entry",
+          "DialogueText": "Pierre! Masz coś dla mnie?",
+          "AudioPath": "assets/pl/Gus/186.ogg",
+          "TranslationKey": "Characters/Dialogue/Gus:SeedShop_Entry",
+          "PageIndex": 5,
+          "DisplayPattern": "Pierre! Masz coś dla mnie?"
+        },
+        {
+          "DialogueFrom": "fall_4.000",
+          "DialogueText": "Przez wizyty u doktora strasznie się denerwuje... Co jeśli pozostało mi tylko kilka dni? Nie jestem jeszcze na to gotowy!",
+          "AudioPath": "assets/pl/Gus/187.ogg",
+          "TranslationKey": "Strings/schedules/Gus:fall_4.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Przez wizyty u doktora strasznie się denerwuje... Co jeśli pozostało mi tylko kilka dni? Nie jestem jeszcze na to gotowy!"
+        },
+        {
+          "DialogueFrom": "fall_4.001",
+          "DialogueText": "To moja wątroba, prawda doktorze? Widzę po pańskim wyrazie twarzy... *ech*... Naprawdę muszę się napić tego słodkiego, przepysznego wina z Doliny Stardew. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Gus/188.ogg",
+          "TranslationKey": "Strings/schedules/Gus:fall_4.001",
+          "PageIndex": 0,
+          "DisplayPattern": "To moja wątroba, prawda doktorze? Widzę po pańskim wyrazie twarzy... *ech*... Naprawdę muszę się napić tego słodkiego, przepysznego wina z Doliny Stardew."
+        },
+        {
+          "DialogueFrom": "Mon.000",
+          "DialogueText": "Szukam rzeczy do knajpy. Pierre ma dobre towary. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/189.ogg",
+          "TranslationKey": "Strings/schedules/Gus:Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Szukam rzeczy do knajpy. Pierre ma dobre towary."
+        },
+        {
+          "DialogueFrom": "Sun.000",
+          "DialogueText": "Hej {Farmer_Name}. Wybacz... Bar jest zamknięty do końca gry.",
+          "AudioPath": "assets/pl/Gus/190.ogg",
+          "TranslationKey": "Strings/schedules/Gus:Sun.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej . Wybacz... Bar jest zamknięty do końca gry."
+        },
+        {
+          "DialogueFrom": "Quest_114",
+          "DialogueText": "*wąch*...*wąch*... Co to jest? Coś tu pachnie jak tuńczyk!",
+          "AudioPath": "assets/pl/Gus/191.ogg",
+          "TranslationKey": "Data/Quests:114",
+          "PageIndex": 0,
+          "DisplayPattern": "*wąch*...*wąch*... Co to jest? Coś tu pachnie jak tuńczyk!"
+        },
+        {
+          "DialogueFrom": "Quest_114",
+          "DialogueText": "Aha! Masz go! Po stokroć dzięki!",
+          "AudioPath": "assets/pl/Gus/192.ogg",
+          "TranslationKey": "Data/Quests:114",
+          "PageIndex": 1,
+          "DisplayPattern": "Aha! Masz go! Po stokroć dzięki!"
+        },
+        {
+          "DialogueFrom": "Quest_121",
+          "DialogueText": "Coś tu pachnie jak świeży homar. Och, świetnie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/193.ogg",
+          "TranslationKey": "Data/Quests:121",
+          "PageIndex": 0,
+          "DisplayPattern": "Coś tu pachnie jak świeży homar. Och, świetnie."
+        },
+        {
+          "DialogueFrom": "Quest_121",
+          "DialogueText": "Trzymaj się.",
+          "AudioPath": "assets/pl/Gus/194.ogg",
+          "TranslationKey": "Data/Quests:121",
+          "PageIndex": 1,
+          "DisplayPattern": "Trzymaj się."
+        },
+        {
+          "DialogueFrom": "Quest_125",
+          "DialogueText": "Kokos! Teraz mogę odwrócić swoją uwagę od tej mroźnej zimy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Gus/195.ogg",
+          "TranslationKey": "Data/Quests:125",
+          "PageIndex": 0,
+          "DisplayPattern": "Kokos! Teraz mogę odwrócić swoją uwagę od tej mroźnej zimy."
+        },
+        {
+          "DialogueFrom": "Quest_125",
+          "DialogueText": "Jest idealny do mojego coco-no-no. Dzięki!",
+          "AudioPath": "assets/pl/Gus/196.ogg",
+          "TranslationKey": "Data/Quests:125",
+          "PageIndex": 1,
+          "DisplayPattern": "Jest idealny do mojego coco-no-no. Dzięki!"
         }
       ]
     }

@@ -1,0 +1,32 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 149.ogg).
+
+DialogueFrom: Strings/schedules/Leo:winter_15.000  [plan dnia]
+DialogueText: Lubię patrzeć na światła.
+AudioName: 149.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leo:winter_15.000  [plan dnia]
+DialogueText: Przypominają mi coś co było, dawno, dawno temu... {Portrait:Sad}
+AudioName: 150.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leo:winter.000  [plan dnia]
+DialogueText: Zajmie to chwilę, ale próbuję przeczytać wszystkie książki z biblioteki.
+AudioName: 151.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leo:winter.000  [plan dnia]
+DialogueText: Przede mną długa droga... {Portrait:Sad}
+AudioName: 152.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leo:school  [plan dnia]
+DialogueText: Nie mogę teraz rozmawiać, {Farmer_Name}. Muszę się skupić...
+AudioName: 153.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leo:dinner  [plan dnia]
+DialogueText: Och, chcesz coś zjeść? Właśnie wszystko zjadłem... {Portrait:Unique}
+AudioName: 154.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leo:tent  [plan dnia]
+DialogueText: Nie obchodzi nas deszcz, ale czasami dobrze jest wyschnąć.
+AudioName: 155.ogg
+--------------------------------------------------

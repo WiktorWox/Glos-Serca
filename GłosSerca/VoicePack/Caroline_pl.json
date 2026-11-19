@@ -1299,6 +1299,102 @@
           "TranslationKey": "Strings/Locations:Caroline_Sunroom_Door",
           "PageIndex": 0,
           "DisplayPattern": "Caroline pozwala wejść tutaj wyłącznie swoim przyjaciołom..."
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "W końcu... troszkę czasu dla siebie.",
+          "AudioPath": "assets/pl/Caroline/162.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "W końcu... troszkę czasu dla siebie."
+        },
+        {
+          "DialogueFrom": "Sun.000",
+          "DialogueText": "Wcześniejsi właściciele wybudowali ten pokój z ołtarzem. Nie jesteśmy zbyt religijną rodziną, ale każdy może z niego korzystać.",
+          "AudioPath": "assets/pl/Caroline/163.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:Sun.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Wcześniejsi właściciele wybudowali ten pokój z ołtarzem. Nie jesteśmy zbyt religijną rodziną, ale każdy może z niego korzystać."
+        },
+        {
+          "DialogueFrom": "fall_25.002",
+          "DialogueText": "Przepraszam, muszę porozmawiać z doktorem Harveyem... Prywatnie... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Caroline/164.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:fall_25.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Przepraszam, muszę porozmawiać z doktorem Harveyem... Prywatnie..."
+        },
+        {
+          "DialogueFrom": "Tue.000",
+          "DialogueText": "Hmm... Powinnam ubrać coś specjalnego na dzisiejszy aerobik?",
+          "AudioPath": "assets/pl/Caroline/165.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:Tue.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Powinnam ubrać coś specjalnego na dzisiejszy aerobik?"
+        },
+        {
+          "DialogueFrom": "Tue.001",
+          "DialogueText": "Wyglądasz w szczytowej formie, Jodi! Te hantle czynią cuda, co?",
+          "AudioPath": "assets/pl/Caroline/166.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:Tue.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyglądasz w szczytowej formie, Jodi! Te hantle czynią cuda, co?"
+        },
+        {
+          "DialogueFrom": "fall_25.000",
+          "DialogueText": "Dzisiaj mam coroczne badanie. Przynajmniej nie mam tam daleko.",
+          "AudioPath": "assets/pl/Caroline/167.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:fall_25.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzisiaj mam coroczne badanie. Przynajmniej nie mam tam daleko."
+        },
+        {
+          "DialogueFrom": "fall_25.001",
+          "DialogueText": "Ty też do doktora? Coś się stało?",
+          "AudioPath": "assets/pl/Caroline/168.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:fall_25.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Ty też do doktora? Coś się stało?"
+        },
+        {
+          "DialogueFrom": "Tue.002",
+          "DialogueText": "Mmm... Chyba zasłużyłam sobie na ciasteczko. *chrup*.",
+          "AudioPath": "assets/pl/Caroline/169.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:Tue.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Mmm... Chyba zasłużyłam sobie na ciasteczko. *chrup*."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Kończę dziś moje świąteczne zakupy! Mów, jeśli zobaczysz Pierra...",
+          "AudioPath": "assets/pl/Caroline/170.ogg",
+          "TranslationKey": "Strings/schedules/Caroline:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Kończę dziś moje świąteczne zakupy! Mów, jeśli zobaczysz Pierra..."
+        },
+        {
+          "DialogueFrom": "Quest_108",
+          "DialogueText": "O, dynia! Jest dobra... Abigail na pewno się ucieszy. Dzięki, {Farmer_Name}! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Caroline/171.ogg",
+          "TranslationKey": "Data/Quests:108",
+          "PageIndex": 0,
+          "DisplayPattern": "O, dynia! Jest dobra... Abigail na pewno się ucieszy. Dzięki, !"
+        },
+        {
+          "DialogueFrom": "Quest_129",
+          "DialogueText": "Co to? Mój stary naszyjnik? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Caroline/172.ogg",
+          "TranslationKey": "Data/Quests:129",
+          "PageIndex": 0,
+          "DisplayPattern": "Co to? Mój stary naszyjnik?"
+        },
+        {
+          "DialogueFrom": "Quest_129",
+          "DialogueText": "Dziwne, nie zauważyłam, że zaginął... Cóż, dziękuję, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Caroline/173.ogg",
+          "TranslationKey": "Data/Quests:129",
+          "PageIndex": 1,
+          "DisplayPattern": "Dziwne, nie zauważyłam, że zaginął... Cóż, dziękuję, ."
         }
       ]
     }

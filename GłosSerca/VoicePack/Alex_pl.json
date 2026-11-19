@@ -4457,6 +4457,54 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Alex",
           "PageIndex": 0,
           "DisplayPattern": "Hej, masz jakieś jajka?"
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Idziesz na Syreni Występ? Mój ulubiony...",
+          "AudioPath": "assets/pl/Alex/548.ogg",
+          "TranslationKey": "Strings/schedules/Alex:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Idziesz na Syreni Występ? Mój ulubiony..."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Posiedzę tu cały dzień. Moi dziadkowie nie młodnieją...",
+          "AudioPath": "assets/pl/Alex/549.ogg",
+          "TranslationKey": "Strings/schedules/Alex:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Posiedzę tu cały dzień. Moi dziadkowie nie młodnieją..."
+        },
+        {
+          "DialogueFrom": "summer_16.000",
+          "DialogueText": "Hej. Ech, skręciłem kostkę. Zobaczymy czy trzeba ją owinąć.",
+          "AudioPath": "assets/pl/Alex/550.ogg",
+          "TranslationKey": "Strings/schedules/Alex:summer_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Ech, skręciłem kostkę. Zobaczymy czy trzeba ją owinąć."
+        },
+        {
+          "DialogueFrom": "summer_16.001",
+          "DialogueText": "Tak, tak... Nic mi nie jest doktorze. Owiń ją czymś, ok?",
+          "AudioPath": "assets/pl/Alex/551.ogg",
+          "TranslationKey": "Strings/schedules/Alex:summer_16.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, tak... Nic mi nie jest doktorze. Owiń ją czymś, ok?"
+        },
+        {
+          "DialogueFrom": "Sun.000",
+          "DialogueText": "Alex jest skupiony na grze. Nie zauważa cię.",
+          "AudioPath": "assets/pl/Alex/552.ogg",
+          "TranslationKey": "Strings/schedules/Alex:Sun.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Alex jest skupiony na grze. Nie zauważa cię."
+        },
+        {
+          "DialogueFrom": "Sun.000_married",
+          "DialogueText": "Hej, {Farmer_Name}! Jak chcesz, Możesz oglądać grę z nami. Ale jak nie chcesz, to nic się nie stanie.",
+          "AudioPath": "assets/pl/Alex/553.ogg",
+          "TranslationKey": "Strings/schedules/Alex:Sun.000_married",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, ! Jak chcesz, Możesz oglądać grę z nami. Ale jak nie chcesz, to nic się nie stanie."
         }
       ]
     }

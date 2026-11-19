@@ -1,0 +1,12 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 114.ogg).
+
+DialogueFrom: Data/Quests:119  [zakończenie zadania]
+DialogueText: Hej. Cśś... Jodi nie może go zobaczyć.
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:119  [zakończenie zadania]
+DialogueText: Ach, wygląda soczyście. Spodoba jej się. Bardzo Ci dziękuję. {Portrait:Happy}
+AudioName: 115.ogg
+--------------------------------------------------

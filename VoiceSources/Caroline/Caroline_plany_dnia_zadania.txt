@@ -1,0 +1,52 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 162.ogg).
+
+DialogueFrom: Strings/schedules/Caroline:Fri.000  [plan dnia]
+DialogueText: W końcu... troszkę czasu dla siebie.
+AudioName: 162.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:Sun.000  [plan dnia]
+DialogueText: Wcześniejsi właściciele wybudowali ten pokój z ołtarzem. Nie jesteśmy zbyt religijną rodziną, ale każdy może z niego korzystać.
+AudioName: 163.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:fall_25.002  [plan dnia]
+DialogueText: Przepraszam, muszę porozmawiać z doktorem Harveyem... Prywatnie... {Portrait:Unique}
+AudioName: 164.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:Tue.000  [plan dnia]
+DialogueText: Hmm... Powinnam ubrać coś specjalnego na dzisiejszy aerobik?
+AudioName: 165.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:Tue.001  [plan dnia]
+DialogueText: Wyglądasz w szczytowej formie, Jodi! Te hantle czynią cuda, co?
+AudioName: 166.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:fall_25.000  [plan dnia]
+DialogueText: Dzisiaj mam coroczne badanie. Przynajmniej nie mam tam daleko.
+AudioName: 167.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:fall_25.001  [plan dnia]
+DialogueText: Ty też do doktora? Coś się stało?
+AudioName: 168.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:Tue.002  [plan dnia]
+DialogueText: Mmm... Chyba zasłużyłam sobie na ciasteczko. *chrup*.
+AudioName: 169.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Caroline:winter_16.000  [plan dnia]
+DialogueText: Kończę dziś moje świąteczne zakupy! Mów, jeśli zobaczysz Pierra...
+AudioName: 170.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:108  [zakończenie zadania]
+DialogueText: O, dynia! Jest dobra... Abigail na pewno się ucieszy. Dzięki, {Farmer_Name}! {Portrait:Happy}
+AudioName: 171.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:129  [zakończenie zadania]
+DialogueText: Co to? Mój stary naszyjnik? {Portrait:Sad}
+AudioName: 172.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:129  [zakończenie zadania]
+DialogueText: Dziwne, nie zauważyłam, że zaginął... Cóż, dziękuję, {Farmer_Name}. {Portrait:Happy}
+AudioName: 173.ogg
+--------------------------------------------------

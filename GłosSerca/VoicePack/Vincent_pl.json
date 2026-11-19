@@ -823,6 +823,38 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Vincent",
           "PageIndex": 0,
           "DisplayPattern": "Cześć! Eee... Znalazłem trochę rzeczy. Chcesz kupić!?"
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Chcę popływać łodzią!!",
+          "AudioPath": "assets/pl/Vincent/102.ogg",
+          "TranslationKey": "Strings/schedules/Vincent:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcę popływać łodzią!!"
+        },
+        {
+          "DialogueFrom": "spring_11.001",
+          "DialogueText": "*Przełknięcie*... Mamusiu, nie każ mi tego robić. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Vincent/103.ogg",
+          "TranslationKey": "Strings/schedules/Vincent:spring_11.001",
+          "PageIndex": 0,
+          "DisplayPattern": "*Przełknięcie*... Mamusiu, nie każ mi tego robić."
+        },
+        {
+          "DialogueFrom": "spring_11.002",
+          "DialogueText": "Dostanę lizaka za to, że byłem dzielny?",
+          "AudioPath": "assets/pl/Vincent/104.ogg",
+          "TranslationKey": "Strings/schedules/Vincent:spring_11.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Dostanę lizaka za to, że byłem dzielny?"
+        },
+        {
+          "DialogueFrom": "spring_11.000",
+          "DialogueText": "*chlip*... Muszę dostać zastrzyk. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Vincent/105.ogg",
+          "TranslationKey": "Strings/schedules/Vincent:spring_11.000",
+          "PageIndex": 0,
+          "DisplayPattern": "*chlip*... Muszę dostać zastrzyk."
         }
       ]
     }

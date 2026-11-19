@@ -4553,6 +4553,62 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Haley",
           "PageIndex": 0,
           "DisplayPattern": "Lepiej znajdź więcej jajek i wykup wszystko co tu mam!"
+        },
+        {
+          "DialogueFrom": "winter_9.000",
+          "DialogueText": "To nic poważnego... Zwykłe coroczne badanie.",
+          "AudioPath": "assets/pl/Haley/562.ogg",
+          "TranslationKey": "Strings/schedules/Haley:winter_9.000",
+          "PageIndex": 0,
+          "DisplayPattern": "To nic poważnego... Zwykłe coroczne badanie."
+        },
+        {
+          "DialogueFrom": "winter_9.001",
+          "DialogueText": "Cóż... cieknie mi trochę z nosa, doktorze. Ale ogólnie mam się dobrze!",
+          "AudioPath": "assets/pl/Haley/563.ogg",
+          "TranslationKey": "Strings/schedules/Haley:winter_9.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Cóż... cieknie mi trochę z nosa, doktorze. Ale ogólnie mam się dobrze!"
+        },
+        {
+          "DialogueFrom": "winter.000",
+          "DialogueText": "Jest za zimno. Nigdzie się nie ruszam.",
+          "AudioPath": "assets/pl/Haley/564.ogg",
+          "TranslationKey": "Strings/schedules/Haley:winter.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest za zimno. Nigdzie się nie ruszam."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Cześć, Słońce! Jestem na pogawędce z Emily.",
+          "AudioPath": "assets/pl/Haley/565.ogg",
+          "TranslationKey": "Strings/schedules/Haley:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Słońce! Jestem na pogawędce z Emily."
+        },
+        {
+          "DialogueFrom": "rain.000",
+          "DialogueText": "Pogoda jest okropna na wychodzenie z łóżka.",
+          "AudioPath": "assets/pl/Haley/566.ogg",
+          "TranslationKey": "Strings/schedules/Haley:rain.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Pogoda jest okropna na wychodzenie z łóżka."
+        },
+        {
+          "DialogueFrom": "winter_16.001",
+          "DialogueText": "Brrr.... Nie jestem na to dobrze ubrana... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Haley/567.ogg",
+          "TranslationKey": "Strings/schedules/Haley:winter_16.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Brrr.... Nie jestem na to dobrze ubrana..."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Jest mi zimno. Nigdzie się nie ruszam.",
+          "AudioPath": "assets/pl/Haley/568.ogg",
+          "TranslationKey": "Strings/schedules/Haley:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest mi zimno. Nigdzie się nie ruszam."
         }
       ]
     }

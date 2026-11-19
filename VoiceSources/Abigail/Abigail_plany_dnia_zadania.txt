@@ -1,0 +1,52 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 578.ogg).
+
+DialogueFrom: Strings/schedules/Abigail:Sun.000  [plan dnia]
+DialogueText: Chowamy się tutaj, żeby z nikim nie gadać.
+AudioName: 578.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:marriage_Mon.002  [plan dnia]
+DialogueText: Ech... nadal nie mogę tego przejść. {Portrait:Sad}
+AudioName: 579.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:spring_4.000  [plan dnia]
+DialogueText: Ugh... Później muszę iść do lekarza. {Portrait:Sad}
+AudioName: 580.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:marriage_Fri.001  [plan dnia]
+DialogueText: Dobrze jest znowu zobaczyć starą ekipę. Nic się nie zmienili. {Portrait:Happy}
+AudioName: 581.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:spring_4.002  [plan dnia]
+DialogueText: Ile jeszcze, doktorku? Jestem głodna. {Portrait:Sad}
+AudioName: 582.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:marriage_Mon.001  [plan dnia]
+DialogueText: Hej, {Farmer_Name}. Lubię tu odpoczywać... Tak tu spokojnie.
+AudioName: 583.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:marriage_Fri.000  [plan dnia]
+DialogueText: Co tam, {Farmer_Name}? Spędzam trochę czasu z mamą.
+AudioName: 584.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:marriage_Mon.000  [plan dnia]
+DialogueText: Tata jakoś sobie beze mnie radzi.
+AudioName: 585.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:winter_15.000  [plan dnia]
+DialogueText: To jest takie tajemnicze... Uwielbiam to!
+AudioName: 586.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Abigail:spring_4.001  [plan dnia]
+DialogueText: Jestem tu na coroczne badanie! Nie martw się, nie jestem w cią... znaczy, nie jestem chora! Heh. {Portrait:Custom:9}
+AudioName: 587.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:128  [zakończenie zadania]
+DialogueText: Naszyjnik! Gdzie był? {Portrait:Custom:7}
+AudioName: 588.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:128  [zakończenie zadania]
+DialogueText: Cóż, dziękuję za przyniesienie go do mnie, {Farmer_Name}. Mama nigdy się nie skapnie... {Portrait:Happy}
+AudioName: 589.ogg
+--------------------------------------------------

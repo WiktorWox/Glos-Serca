@@ -975,6 +975,46 @@
           "TranslationKey": "Strings/1_6_Strings:Jas_IceCream",
           "PageIndex": 1,
           "DisplayPattern": "Wow! Własnie tego chciałam... Dziękuję! To miłe z Twojej strony!"
+        },
+        {
+          "DialogueFrom": "winter_18.000",
+          "DialogueText": "Muszę iść do doktora, ale się nie boję!",
+          "AudioPath": "assets/pl/Jas/121.ogg",
+          "TranslationKey": "Strings/schedules/Jas:winter_18.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Muszę iść do doktora, ale się nie boję!"
+        },
+        {
+          "DialogueFrom": "winter_15.001",
+          "DialogueText": "Myślałam, że jestem już na tyle duża, że mogę oglądać Syreni występ... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Jas/122.ogg",
+          "TranslationKey": "Strings/schedules/Jas:winter_15.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślałam, że jestem już na tyle duża, że mogę oglądać Syreni występ..."
+        },
+        {
+          "DialogueFrom": "winter_18.001",
+          "DialogueText": "Pokaże mi Pan do czego służą te narzędzia, doktorze Harvey?",
+          "AudioPath": "assets/pl/Jas/123.ogg",
+          "TranslationKey": "Strings/schedules/Jas:winter_18.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Pokaże mi Pan do czego służą te narzędzia, doktorze Harvey?"
+        },
+        {
+          "DialogueFrom": "summer.000",
+          "DialogueText": "... 2... 3... 4... Nadchodzi fala! *hihi* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Jas/124.ogg",
+          "TranslationKey": "Strings/schedules/Jas:summer.000",
+          "PageIndex": 0,
+          "DisplayPattern": "... 2... 3... 4... Nadchodzi fala! *hihi*"
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "... 2... 3... 4... O nie! Znowu się pomyliłam.",
+          "AudioPath": "assets/pl/Jas/125.ogg",
+          "TranslationKey": "Strings/schedules/Jas:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "... 2... 3... 4... O nie! Znowu się pomyliłam."
         }
       ]
     }

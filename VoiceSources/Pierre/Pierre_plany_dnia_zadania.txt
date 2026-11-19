@@ -1,0 +1,16 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 231.ogg).
+
+DialogueFrom: Strings/schedules/Pierre:Fri.000  [plan dnia]
+DialogueText: Cały tydzień ciężko pracowałem. Zasłużyłem sobie na odpoczynek.
+AudioName: 231.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:117  [zakończenie zadania]
+DialogueText: W końcu! Zacząłem mieć drgawki, tak bardzo chciałem tę rybę. *gryz*... Mmm, przepyszne.
+AudioName: 232.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:117  [zakończenie zadania]
+DialogueText: Dzięki, {Farmer_Name}. {Portrait:Happy}
+AudioName: 233.ogg
+--------------------------------------------------

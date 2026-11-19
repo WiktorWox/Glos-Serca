@@ -2909,6 +2909,110 @@
           "TranslationKey": "Strings/SpeechBubbles:ManorHouse_Lewis_Evening",
           "PageIndex": 0,
           "DisplayPattern": "Dobry wieczór."
+        },
+        {
+          "DialogueFrom": "fall_9.000",
+          "DialogueText": "Em... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?",
+          "AudioPath": "assets/pl/Lewis/360.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:fall_9.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?"
+        },
+        {
+          "DialogueFrom": "15.000",
+          "DialogueText": "Lubię sprawdzać jak się mają lokalne biznesy w naszym miasteczku.",
+          "AudioPath": "assets/pl/Lewis/361.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Lubię sprawdzać jak się mają lokalne biznesy w naszym miasteczku."
+        },
+        {
+          "DialogueFrom": "6.000",
+          "DialogueText": "Przyszedłem po podatki od Clinta.",
+          "AudioPath": "assets/pl/Lewis/362.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:6.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Przyszedłem po podatki od Clinta."
+        },
+        {
+          "DialogueFrom": "1.000",
+          "DialogueText": "O tej porze roku najbardziej czuć ryby.",
+          "AudioPath": "assets/pl/Lewis/363.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:1.000",
+          "PageIndex": 0,
+          "DisplayPattern": "O tej porze roku najbardziej czuć ryby."
+        },
+        {
+          "DialogueFrom": "Tue.000",
+          "DialogueText": "Robię tu wszystkie moje zakupy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/364.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:Tue.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Robię tu wszystkie moje zakupy."
+        },
+        {
+          "DialogueFrom": "3.000",
+          "DialogueText": "Sprawdzam, czy Marnie niczego nie potrzebuje.",
+          "AudioPath": "assets/pl/Lewis/365.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:3.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Sprawdzam, czy Marnie niczego nie potrzebuje."
+        },
+        {
+          "DialogueFrom": "6.001",
+          "DialogueText": "Biblioteka to jedna z najlepszych atrakcji Miasta Pelikan. Jest ufundowana z podatków, które zbieramy od lokalnych przedsiębiorstw.",
+          "AudioPath": "assets/pl/Lewis/366.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:6.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Biblioteka to jedna z najlepszych atrakcji Miasta Pelikan. Jest ufundowana z podatków, które zbieramy od lokalnych przedsiębiorstw."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Kupiłem wszystkie moje ulubione rzeczy na targach...",
+          "AudioPath": "assets/pl/Lewis/367.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Kupiłem wszystkie moje ulubione rzeczy na targach..."
+        },
+        {
+          "DialogueFrom": "Quest_102",
+          "DialogueText": "Masz je?... Gdzie?... Och!... Uhmm... Heh.",
+          "AudioPath": "assets/pl/Lewis/368.ogg",
+          "TranslationKey": "Data/Quests:102",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz je?... Gdzie?... Och!... Uhmm... Heh."
+        },
+        {
+          "DialogueFrom": "Quest_102",
+          "DialogueText": "Tam? Nie mam pojęcia jak mogły się tam znaleźć... *kaszel*",
+          "AudioPath": "assets/pl/Lewis/369.ogg",
+          "TranslationKey": "Data/Quests:102",
+          "PageIndex": 1,
+          "DisplayPattern": "Tam? Nie mam pojęcia jak mogły się tam znaleźć... *kaszel*"
+        },
+        {
+          "DialogueFrom": "Quest_102",
+          "DialogueText": "To zostaje między nami. Zrozumiano? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/370.ogg",
+          "TranslationKey": "Data/Quests:102",
+          "PageIndex": 2,
+          "DisplayPattern": "To zostaje między nami. Zrozumiano?"
+        },
+        {
+          "DialogueFrom": "Quest_120",
+          "DialogueText": "Masz olej? Pozwól, że zobaczę...",
+          "AudioPath": "assets/pl/Lewis/371.ogg",
+          "TranslationKey": "Data/Quests:120",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz olej? Pozwól, że zobaczę..."
+        },
+        {
+          "DialogueFrom": "Quest_120",
+          "DialogueText": "Wysokiej jakości... bardzo śliski. Idealny. Dziękuję.",
+          "AudioPath": "assets/pl/Lewis/372.ogg",
+          "TranslationKey": "Data/Quests:120",
+          "PageIndex": 1,
+          "DisplayPattern": "Wysokiej jakości... bardzo śliski. Idealny. Dziękuję."
         }
       ]
     }

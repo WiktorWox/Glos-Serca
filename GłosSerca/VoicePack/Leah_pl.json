@@ -4421,6 +4421,38 @@
           "TranslationKey": "Events/LeahHouse:51:s24",
           "PageIndex": 0,
           "DisplayPattern": "Hej, jeszcze raz dzięki za rozmowę."
+        },
+        {
+          "DialogueFrom": "spring_16.001",
+          "DialogueText": "Jestem zdrowa, co nie? Doktorze Harvey?",
+          "AudioPath": "assets/pl/Leah/546.ogg",
+          "TranslationKey": "Strings/schedules/Leah:spring_16.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem zdrowa, co nie? Doktorze Harvey?"
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Hejka, {Farmer_Name}. Musiałam nabrać trochę świeżego powietrza.",
+          "AudioPath": "assets/pl/Leah/547.ogg",
+          "TranslationKey": "Strings/schedules/Leah:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hejka, . Musiałam nabrać trochę świeżego powietrza."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Hmmm... To oryginalny Łupin? Nieźle...",
+          "AudioPath": "assets/pl/Leah/548.ogg",
+          "TranslationKey": "Strings/schedules/Leah:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmm... To oryginalny Łupin? Nieźle..."
+        },
+        {
+          "DialogueFrom": "spring_16.000",
+          "DialogueText": "Cześć. Ty też do doktora?",
+          "AudioPath": "assets/pl/Leah/549.ogg",
+          "TranslationKey": "Strings/schedules/Leah:spring_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć. Ty też do doktora?"
         }
       ]
     }

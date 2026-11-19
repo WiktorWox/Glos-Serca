@@ -919,6 +919,22 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Kent",
           "PageIndex": 0,
           "DisplayPattern": "Hej, mam parę rzeczy na sprzedaż. Daj znać, jak coś Ci wpadnie w oko."
+        },
+        {
+          "DialogueFrom": "Quest_119",
+          "DialogueText": "Hej. Cśś... Jodi nie może go zobaczyć.",
+          "AudioPath": "assets/pl/Kent/114.ogg",
+          "TranslationKey": "Data/Quests:119",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej. Cśś... Jodi nie może go zobaczyć."
+        },
+        {
+          "DialogueFrom": "Quest_119",
+          "DialogueText": "Ach, wygląda soczyście. Spodoba jej się. Bardzo Ci dziękuję. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Kent/115.ogg",
+          "TranslationKey": "Data/Quests:119",
+          "PageIndex": 1,
+          "DisplayPattern": "Ach, wygląda soczyście. Spodoba jej się. Bardzo Ci dziękuję."
         }
       ]
     }

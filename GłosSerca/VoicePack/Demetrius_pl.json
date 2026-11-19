@@ -1597,6 +1597,46 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Demetrius",
           "PageIndex": 0,
           "DisplayPattern": "Masz jakieś jajka do wymiany? Badam skład ich skorupy."
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Bardzo polecam wycieczkę łodzią podwodną. Na dnie oceanu żyją bardzo ciekawe kreatury.",
+          "AudioPath": "assets/pl/Demetrius/199.ogg",
+          "TranslationKey": "Strings/schedules/Demetrius:winter_16.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Bardzo polecam wycieczkę łodzią podwodną. Na dnie oceanu żyją bardzo ciekawe kreatury."
+        },
+        {
+          "DialogueFrom": "summer_25.000",
+          "DialogueText": "Zimniejsza pora roku nadchodzi, więc przyszedłem się szczepić na grypę.",
+          "AudioPath": "assets/pl/Demetrius/200.ogg",
+          "TranslationKey": "Strings/schedules/Demetrius:summer_25.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Zimniejsza pora roku nadchodzi, więc przyszedłem się szczepić na grypę."
+        },
+        {
+          "DialogueFrom": "summer_25.001",
+          "DialogueText": "Doktorze Harvey, czytał pan ostatni magazyn 'Biologia i Medycyna'? Jest tam artykuł, który może Pana zainteresować.",
+          "AudioPath": "assets/pl/Demetrius/201.ogg",
+          "TranslationKey": "Strings/schedules/Demetrius:summer_25.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Doktorze Harvey, czytał pan ostatni magazyn 'Biologia i Medycyna'? Jest tam artykuł, który może Pana zainteresować."
+        },
+        {
+          "DialogueFrom": "Quest_104",
+          "DialogueText": "Jest idealny! Właśnie takiego potrzebuję do moich badań. Ciężko będzie go nie zjeść! Wielkie dzięki.",
+          "AudioPath": "assets/pl/Demetrius/202.ogg",
+          "TranslationKey": "Data/Quests:104",
+          "PageIndex": 0,
+          "DisplayPattern": "Jest idealny! Właśnie takiego potrzebuję do moich badań. Ciężko będzie go nie zjeść! Wielkie dzięki."
+        },
+        {
+          "DialogueFrom": "Quest_118",
+          "DialogueText": "Och, jesteś. Ten okaz wygląda idealnie. Natychmiast włożę ją do lodu. Dzięki, {Farmer_Name}!",
+          "AudioPath": "assets/pl/Demetrius/203.ogg",
+          "TranslationKey": "Data/Quests:118",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, jesteś. Ten okaz wygląda idealnie. Natychmiast włożę ją do lodu. Dzięki, !"
         }
       ]
     }

@@ -4593,6 +4593,70 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Penny",
           "PageIndex": 0,
           "DisplayPattern": "Cześć! Mam nadzieję, że znajdziesz coś co Ci się spodoba."
+        },
+        {
+          "DialogueFrom": "winter_4.001",
+          "DialogueText": "Hej! Troszkę prywatności! Proszę? {Portrait:Angry}",
+          "AudioPath": "assets/pl/Penny/569.ogg",
+          "TranslationKey": "Strings/schedules/Penny:winter_4.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej! Troszkę prywatności! Proszę?"
+        },
+        {
+          "DialogueFrom": "marriage_Mon.002",
+          "DialogueText": "Zastanawiam się... Czy kiedyś Maru weźmie ślub?",
+          "AudioPath": "assets/pl/Penny/570.ogg",
+          "TranslationKey": "Strings/schedules/Penny:marriage_Mon.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Zastanawiam się... Czy kiedyś Maru weźmie ślub?"
+        },
+        {
+          "DialogueFrom": "marriageJob.000",
+          "DialogueText": "Cześć, Kochanie. Cieszę się, że mnie odwiedzasz. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Penny/571.ogg",
+          "TranslationKey": "Strings/schedules/Penny:marriageJob.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Kochanie. Cieszę się, że mnie odwiedzasz."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Nie martw się, wydaję na to własne pieniądze.",
+          "AudioPath": "assets/pl/Penny/572.ogg",
+          "TranslationKey": "Strings/schedules/Penny:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie martw się, wydaję na to własne pieniądze."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Cześć, Kochanie! Robię zakupy.",
+          "AudioPath": "assets/pl/Penny/573.ogg",
+          "TranslationKey": "Strings/schedules/Penny:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć, Kochanie! Robię zakupy."
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Czujesz ten zapach? Tutejsze powietrze jest bardzo ostre...",
+          "AudioPath": "assets/pl/Penny/574.ogg",
+          "TranslationKey": "Strings/schedules/Penny:winter_15.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Czujesz ten zapach? Tutejsze powietrze jest bardzo ostre..."
+        },
+        {
+          "DialogueFrom": "winter_4.000",
+          "DialogueText": "Mam umówioną wizytę w klinice na popołudnie.",
+          "AudioPath": "assets/pl/Penny/575.ogg",
+          "TranslationKey": "Strings/schedules/Penny:winter_4.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Mam umówioną wizytę w klinice na popołudnie."
+        },
+        {
+          "DialogueFrom": "rain2.000",
+          "DialogueText": "Idę do środka, chcę troszkę ciszy.",
+          "AudioPath": "assets/pl/Penny/576.ogg",
+          "TranslationKey": "Strings/schedules/Penny:rain2.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Idę do środka, chcę troszkę ciszy."
         }
       ]
     }

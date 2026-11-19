@@ -4821,6 +4821,86 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_Sam",
           "PageIndex": 0,
           "DisplayPattern": "Chcesz moją starą złamaną deskę skateboardową? Możesz użyć jej jako dekoracji, czy coś."
+        },
+        {
+          "DialogueFrom": "fall_11.000",
+          "DialogueText": "Idę dzisiaj do wujaszka doktorka... Wspaniale. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Sam/596.ogg",
+          "TranslationKey": "Strings/schedules/Sam:fall_11.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Idę dzisiaj do wujaszka doktorka... Wspaniale."
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Jak moje plany nie wyjdą, to może zostanę kapitanem łodzi podwodnej. Byłoby fajnie.",
+          "AudioPath": "assets/pl/Sam/597.ogg",
+          "TranslationKey": "Strings/schedules/Sam:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak moje plany nie wyjdą, to może zostanę kapitanem łodzi podwodnej. Byłoby fajnie."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.001",
+          "DialogueText": "Wybacz, Słonko. próbuję się skupić... {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Sam/598.ogg",
+          "TranslationKey": "Strings/schedules/Sam:marriage_Fri.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, Słonko. próbuję się skupić..."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.001",
+          "DialogueText": "Vincent chyba jest trochę samotny gdy mnie nie ma. Kiedyś dużo się razem bawiliśmy.",
+          "AudioPath": "assets/pl/Sam/599.ogg",
+          "TranslationKey": "Strings/schedules/Sam:marriage_Mon.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Vincent chyba jest trochę samotny gdy mnie nie ma. Kiedyś dużo się razem bawiliśmy."
+        },
+        {
+          "DialogueFrom": "marriage_Fri.000",
+          "DialogueText": "Nie mów mojej mamie... Ale jestem tu po darmowe jedzonko. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sam/600.ogg",
+          "TranslationKey": "Strings/schedules/Sam:marriage_Fri.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mów mojej mamie... Ale jestem tu po darmowe jedzonko."
+        },
+        {
+          "DialogueFrom": "fall_11.002",
+          "DialogueText": "Wyszedłem z biura doktora. Całkowicie zdrowy, tak jak przypuszczałem. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sam/601.ogg",
+          "TranslationKey": "Strings/schedules/Sam:fall_11.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Wyszedłem z biura doktora. Całkowicie zdrowy, tak jak przypuszczałem."
+        },
+        {
+          "DialogueFrom": "marriage_Mon.000",
+          "DialogueText": "Mama chyba ma się dobrze. Może jest trochę przepracowana.",
+          "AudioPath": "assets/pl/Sam/602.ogg",
+          "TranslationKey": "Strings/schedules/Sam:marriage_Mon.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Mama chyba ma się dobrze. Może jest trochę przepracowana."
+        },
+        {
+          "DialogueFrom": "fall_11.001",
+          "DialogueText": "Jestem zdrów jak ryba, doktorku. Mogę już iść? To jest nudne.",
+          "AudioPath": "assets/pl/Sam/603.ogg",
+          "TranslationKey": "Strings/schedules/Sam:fall_11.001",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem zdrów jak ryba, doktorku. Mogę już iść? To jest nudne."
+        },
+        {
+          "DialogueFrom": "rain2.000",
+          "DialogueText": "Nie ma to jak schłodzona Joja Cola w zimny, deszczowy dzień, prawda?",
+          "AudioPath": "assets/pl/Sam/604.ogg",
+          "TranslationKey": "Strings/schedules/Sam:rain2.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie ma to jak schłodzona Joja Cola w zimny, deszczowy dzień, prawda?"
+        },
+        {
+          "DialogueFrom": "rain2.000",
+          "DialogueText": "Żartuję. He he he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sam/605.ogg",
+          "TranslationKey": "Strings/schedules/Sam:rain2.000",
+          "PageIndex": 1,
+          "DisplayPattern": "Żartuję. He he he."
         }
       ]
     }

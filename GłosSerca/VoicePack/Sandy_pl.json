@@ -847,6 +847,102 @@
           "TranslationKey": "Strings/SpeechBubbles:SandyHouse_Sandy_Greeting5",
           "PageIndex": 0,
           "DisplayPattern": "Może chcesz coś kupić?"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Greeting",
+          "DialogueText": "Och, Emily! Miałam nadzieję, że się zjawisz! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/106.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Greeting",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, Emily! Miałam nadzieję, że się zjawisz!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Greeting",
+          "DialogueText": "Czułam się trochę samotnie.",
+          "AudioPath": "assets/pl/Sandy/107.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Greeting",
+          "PageIndex": 1,
+          "DisplayPattern": "Czułam się trochę samotnie."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Greeting",
+          "DialogueText": "Ale cieszę się, że tu jesteś! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/108.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Greeting",
+          "PageIndex": 2,
+          "DisplayPattern": "Ale cieszę się, że tu jesteś!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Hangout",
+          "DialogueText": "Jak tam pogoda u was?",
+          "AudioPath": "assets/pl/Sandy/109.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Hangout",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak tam pogoda u was?"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Hangout",
+          "DialogueText": "Wasze kwiaty pachną cudownie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/110.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Hangout",
+          "PageIndex": 1,
+          "DisplayPattern": "Wasze kwiaty pachną cudownie."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Lake",
+          "DialogueText": "Zawsze przy stawie jest trochę cieplej.",
+          "AudioPath": "assets/pl/Sandy/111.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Lake",
+          "PageIndex": 0,
+          "DisplayPattern": "Zawsze przy stawie jest trochę cieplej."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Lake",
+          "DialogueText": "Dobrze jest od czasu do czasu wyjść z domu! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/112.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Lake",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobrze jest od czasu do czasu wyjść z domu!"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bones",
+          "DialogueText": "Dziwne, nie?",
+          "AudioPath": "assets/pl/Sandy/113.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Bones",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziwne, nie?"
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Camel",
+          "DialogueText": "Pewnie sprzedaje rzadkie rzeczy.",
+          "AudioPath": "assets/pl/Sandy/114.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Camel",
+          "PageIndex": 0,
+          "DisplayPattern": "Pewnie sprzedaje rzadkie rzeczy."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bye",
+          "DialogueText": "Dobrze się dzisiaj bawiłam. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/115.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Bye",
+          "PageIndex": 0,
+          "DisplayPattern": "Dobrze się dzisiaj bawiłam."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bye",
+          "DialogueText": "Dziękuję, za odwiedziny. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/116.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Bye",
+          "PageIndex": 1,
+          "DisplayPattern": "Dziękuję, za odwiedziny."
+        },
+        {
+          "DialogueFrom": "Sandy_Birthday_Bye",
+          "DialogueText": "Odwiedźcie mnie jeszcze kiedyś! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sandy/117.ogg",
+          "TranslationKey": "Strings/schedules/Sandy:Sandy_Birthday_Bye",
+          "PageIndex": 2,
+          "DisplayPattern": "Odwiedźcie mnie jeszcze kiedyś!"
         }
       ]
     }

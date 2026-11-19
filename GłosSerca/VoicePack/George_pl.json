@@ -1273,6 +1273,62 @@
           "TranslationKey": "Strings/1_6_Strings:Shop_George",
           "PageIndex": 0,
           "DisplayPattern": "Wszystko co sprzedaje jest warte swojej ceny."
+        },
+        {
+          "DialogueFrom": "23.000",
+          "DialogueText": "Hmmph... Żona ciągnie mnie dzisiaj do lekarza.",
+          "AudioPath": "assets/pl/George/156.ogg",
+          "TranslationKey": "Strings/schedules/George:23.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmmph... Żona ciągnie mnie dzisiaj do lekarza."
+        },
+        {
+          "DialogueFrom": "23.001",
+          "DialogueText": "*zrzęd*... Do niczego ci lekarze... *zrzęd*",
+          "AudioPath": "assets/pl/George/157.ogg",
+          "TranslationKey": "Strings/schedules/George:23.001",
+          "PageIndex": 0,
+          "DisplayPattern": "*zrzęd*... Do niczego ci lekarze... *zrzęd*"
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Jestem tu dla darmowej kawy.",
+          "AudioPath": "assets/pl/George/158.ogg",
+          "TranslationKey": "Strings/schedules/George:winter_17.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Jestem tu dla darmowej kawy."
+        },
+        {
+          "DialogueFrom": "Sun.000",
+          "DialogueText": "Nigdy nie byłem wierzący ale no cóż... Teraz jestem stary.",
+          "AudioPath": "assets/pl/George/159.ogg",
+          "TranslationKey": "Strings/schedules/George:Sun.000",
+          "PageIndex": 0,
+          "DisplayPattern": "Nigdy nie byłem wierzący ale no cóż... Teraz jestem stary."
+        },
+        {
+          "DialogueFrom": "23.002",
+          "DialogueText": "Ile mi jeszcze zostało, Doktorze?",
+          "AudioPath": "assets/pl/George/160.ogg",
+          "TranslationKey": "Strings/schedules/George:23.002",
+          "PageIndex": 0,
+          "DisplayPattern": "Ile mi jeszcze zostało, Doktorze?"
+        },
+        {
+          "DialogueFrom": "Sun.001",
+          "DialogueText": "He he he... Nie poszedłem dzisiaj się modlić, żeby tu przyjść! Mam nadzieję, że Yoba nie jest na mnie zły. {Portrait:Happy}",
+          "AudioPath": "assets/pl/George/161.ogg",
+          "TranslationKey": "Strings/schedules/George:Sun.001",
+          "PageIndex": 0,
+          "DisplayPattern": "He he he... Nie poszedłem dzisiaj się modlić, żeby tu przyjść! Mam nadzieję, że Yoba nie jest na mnie zły."
+        },
+        {
+          "DialogueFrom": "Quest_105",
+          "DialogueText": "Długo Ci to zajęło... Hmmph... Cóż, przynajmniej jest wystarczająco ostra. Dzięki.",
+          "AudioPath": "assets/pl/George/162.ogg",
+          "TranslationKey": "Data/Quests:105",
+          "PageIndex": 0,
+          "DisplayPattern": "Długo Ci to zajęło... Hmmph... Cóż, przynajmniej jest wystarczająco ostra. Dzięki."
         }
       ]
     }

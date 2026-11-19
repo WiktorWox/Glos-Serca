@@ -392,6 +392,10 @@ namespace VoiceOverFrameworkMod
                 //characterManifest.Entries.AddRange(BuildFromMail(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
                 characterManifest.Entries.AddRange(BuildFromOneSixStrings(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
                 characterManifest.Entries.AddRange(BuildSpeechBubbleEntries(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                // Added later: appended last so the numbers of earlier (recorded) entries stay put
+                characterManifest.Entries.AddRange(BuildFromLocationEntryVariants(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromScheduleStrings(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromQuestCompletions(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
              
 
                 
@@ -729,6 +733,9 @@ namespace VoiceOverFrameworkMod
             all.AddRange(BuildFromMovieReactions(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
             all.AddRange(BuildFromOneSixStrings(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
             all.AddRange(BuildSpeechBubbleEntries(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromLocationEntryVariants(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromScheduleStrings(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromQuestCompletions(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
 
             // We must NOT renumber PageIndex; these come from the sanitizers.
             // Also, we ignore AudioPath here; caller will assign new paths for appended items.

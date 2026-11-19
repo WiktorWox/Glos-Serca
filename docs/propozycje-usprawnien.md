@@ -100,6 +100,59 @@ Komenda `message "..."` otwiera okno dialogowe bez postaci (`Game1.currentSpeake
 
 Od 9 listopada mod odtwarza licznik generatora także dla takich okien (`GeneratorSpeakerForCurrent` w `Class/ModEntry.EventIndex.cs`): ustala, kto mówił ostatnio, i gra wpis `Events/<mapa>:<id>:s<n>` z jego paczki. Celowo bez dopasowania tekstowego, żeby linia narratora nie trafiła w cudzą paczkę. Sprawdzone w grze na Forest 54 (20 linii, w tym 5 Kela, wszystkie zagrały). Kwestia, kto nagrywa Kela, pozostaje decyzją zespołu: dziś gra to, co leży pod tymi numerami w paczce Leah.
 
+### Plany dnia, zakończenia zadań i dymki przy wejściu (19 listopada 2026)
+
+Zgłoszone przez Wiktora 18 listopada: Caroline w sklepie i przy oddawaniu zadań nie miała głosu, Gus przy wejściu do sklepu też nie. Przyczyny i zmiany:
+
+- **Plany dnia** (`Strings/schedules/<postać>`): kwestia, którą postać mówi na końcu trasy (np. Caroline do Jodi u Pierre'a, `Tue.001`). Generator nie czytał tego pliku. Teraz czyta (`BuildFromScheduleStrings`).
+- **Zakończenia zadań fabularnych** (pole 9 zadań `ItemDelivery`, `LostItem`, `SecretLostItem` w `Data/Quests`): np. „O, dynia!...” Caroline po zadaniu 108. Generator nie czytał tego pliku. Teraz czyta (`BuildFromQuestCompletions`).
+- **Dymki `<Lokacja>_Entry`** (Gus `SeedShop_Entry`, Pam `Saloon_Entry` i `Trailer_Entry`, Lewis `Saloon_Entry`): gra pokazuje nad głową jeden losowy wariant z listy rozdzielonej `/`, a generator zapisywał całą listę jako jeden wpis. Teraz pierwszy wariant zostaje w dotychczasowym slocie, a każdy kolejny dostaje własny wpis (`BuildFromLocationEntryVariants`, ten sam klucz z kolejnym numerem strony).
+
+Nowe źródła generator dopisuje na samym końcu, więc numery istniejących wpisów się nie zmieniają (sprawdzone porównaniem z szablonami z 9 listopada). W odtwarzaniu nic nie trzeba było zmieniać: plany dnia i zadania trafiają do zwykłego dopasowania po tekście, dymki do tego samego mechanizmu co inne dymki. Sprawdzone w grze 19 listopada: Caroline `Tue.001`, zadania 108 i 129 (dwie strony), 3 warianty Gusa i 3 Pam zagrały właściwe pliki.
+
+Do paczek doszło 266 kwestii do nagrania; listy w `VoiceSources/<postać>/<postać>_plany_dnia_zadania.txt`. Dwie kwestie z planu dnia mają już identyczny nagrany tekst i nie zostały dodane osobno (Jas `spring.000` = 125.ogg, Willy `winter.000` = 278.ogg).
+
+| Postać | Nowe kwestie | Pliki |
+|---|---|---|
+| Abigail | 12 | 578–589 |
+| Alex | 6 | 548–553 |
+| Caroline | 12 | 162–173 |
+| Clint | 6 | 182–187 |
+| Demetrius | 5 | 199–203 |
+| Elliott | 4 | 484–487 |
+| Emily | 28 | 511–538 |
+| Evelyn | 8 | 142–149 |
+| George | 7 | 156–162 |
+| Gus | 15 | 182–196 |
+| Haley | 7 | 562–568 |
+| Harvey | 8 | 480–487 |
+| Jas | 5 | 121–125 |
+| Jodi | 9 | 181–189 |
+| Kent | 2 | 114–115 |
+| Leah | 4 | 546–549 |
+| Leo | 7 | 149–155 |
+| Lewis | 13 | 360–372 |
+| Linus | 3 | 187–189 |
+| Marnie | 7 | 177–183 |
+| Maru | 8 | 497–504 |
+| Pam | 14 | 263–276 |
+| Penny | 8 | 569–576 |
+| Pierre | 3 | 231–233 |
+| Robin | 7 | 252–258 |
+| Sam | 10 | 596–605 |
+| Sandy | 12 | 106–117 |
+| Sebastian | 9 | 527–535 |
+| Shane | 9 | 460–468 |
+| Vincent | 4 | 102–105 |
+| Willy | 12 | 273–284 |
+| Wizard | 2 | 141–142 |
+
+Do decyzji zespołu:
+- Pam ma nagrane 45.ogg i 46.ogg ze wszystkimi wariantami w jednym pliku; teraz grają przy pierwszym wariancie w całości. Trzeba je przyciąć do pierwszego wariantu albo nagrać ponownie.
+- Wypłata za zlecenia z tablicy (`ItemDeliveryQuest.cs.135xx`, sklejana z losowych kawałków) nadal bez głosu, czeka na konsultację.
+
+Przy okazji wyszło, że ścieżka po kluczu tłumaczenia w dialogach (`[V2-TK]`) nigdy nie trafia: gra podaje klucz z ukośnikami wstecznymi (`Strings\schedules\Caroline:Tue.001`), a paczka ma zwykłe (`Strings/schedules/...`). Wszystkie dialogi poza wydarzeniami grają więc dziś wyłącznie po tekście. Nie zmieniałem tego, bo dotyczy całego moda; to osobna, mała poprawka do przetestowania.
+
 ### Znana niedoróbka
 
 Odpowiedzi w pytaniach `$q` w środku kwestii (np. Abigail na cmentarzu, `Event_Grave1..4`) trafiają do dopasowania tekstowego. Gdy to samo zdanie występuje w kilku odpowiedziach („Całe moje życie tu mieszkałam…” w Event_Grave2/3/4), gra pierwszy zarejestrowany wpis, czyli dobre słowa, ale inny dubel. Rozwiązanie: po odpowiedzi rozpoznać klucz po pierwszej stronie dialogu (jest unikalna) i grać dalsze strony po kluczu.

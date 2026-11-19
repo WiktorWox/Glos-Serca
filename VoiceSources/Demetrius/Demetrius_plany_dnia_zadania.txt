@@ -1,0 +1,24 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 199.ogg).
+
+DialogueFrom: Strings/schedules/Demetrius:winter_16.000  [plan dnia]
+DialogueText: Bardzo polecam wycieczkę łodzią podwodną. Na dnie oceanu żyją bardzo ciekawe kreatury.
+AudioName: 199.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Demetrius:summer_25.000  [plan dnia]
+DialogueText: Zimniejsza pora roku nadchodzi, więc przyszedłem się szczepić na grypę.
+AudioName: 200.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Demetrius:summer_25.001  [plan dnia]
+DialogueText: Doktorze Harvey, czytał pan ostatni magazyn 'Biologia i Medycyna'? Jest tam artykuł, który może Pana zainteresować.
+AudioName: 201.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:104  [zakończenie zadania]
+DialogueText: Jest idealny! Właśnie takiego potrzebuję do moich badań. Ciężko będzie go nie zjeść! Wielkie dzięki.
+AudioName: 202.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:118  [zakończenie zadania]
+DialogueText: Och, jesteś. Ten okaz wygląda idealnie. Natychmiast włożę ją do lodu. Dzięki, {Farmer_Name}!
+AudioName: 203.ogg
+--------------------------------------------------
