@@ -227,22 +227,29 @@ Odpowiedzi w pytaniach `$q` w środku kwestii (np. Abigail na cmentarzu, `Event_
 - Wygenerowane pliki służą wyłącznie do testów działania moda i są wykluczone z gita (`.git/info/exclude`). Każde użycie głosu aktora, także testowe, wymaga jego zgody.
 - Fine-tuning (dotrenowanie modelu na nagraniach aktora) to osobny, większy temat: potrzebne godziny audio z transkrypcją i GPU; kandydaci to Chatterbox, F5-TTS (MIT) lub Orpheus. Nagrania Głosu Serca są do tego gotowym materiałem, ale decyzja i zgody aktorów są warunkiem wstępnym.
 
-## 5. Plan uzgodniony 20 listopada 2026 (jeszcze niezrobione)
+## 5. Plan uzgodniony 20 listopada 2026
 
-### Jedno źródło dopasowania: `DialogueText`
+### Jedno źródło dopasowania: `DialogueText` (zrobione 20 listopada)
 
 - `DialogueText` w paczce = tekst gry ze znacznikami (`{Farmer_Name}`, `%farm`, `%time`, `%book`, `{0}`, `{Portrait:…}`); zespół go nie zmienia (sprawdzone: 11 996 wpisów identycznych z generatorem).
 - Mod buduje z niego dopasowanie przy wczytaniu: bez znaczników dosłownie, ze znacznikami jako regex z `.+?` w miejscu zmiennej; portrety pomijane; białe znaki ujednolicone po obu stronach do jednej spacji (spacja we wzorcu dosłownie, nie `\s*`).
 - `DisplayPattern` przestaje być potrzebny (generator go nie zapisuje, mod ignoruje); znika wycinanie imion z tekstu na ekranie.
 - Kolejność: klucz tłumaczenia z gry → dopasowanie po `DialogueText`; przybliżenie tylko w logu trybu deweloperskiego.
 
-### Uwagi dla aktorów: pole `ActorNote`
+### Uwagi dla aktorów: pole `ActorNote` (zrobione 20 listopada)
 
 - Osobne pole w JSON, mod je ignoruje; trafia do list `.txt` jako linia „Uwaga: …”.
 - Generator wypełnia je automatycznie tylko objaśnieniem znaczników, bez własnych sformułowań: `{Farmer_Name}` imię gracza (wstawia gra), `%farm` nazwa farmy gracza, `%time` aktualna godzina w grze, `%book` losowy tytuł książki, `{0}` wartość wstawiana przez grę, `*kaszel*` opis odgłosu, nie słowo do przeczytania itd.
 - Ręcznie dopisane uwagi (np. „czytamy »Czy to jest?«”) generator zachowuje.
 
-### Zlecenia z tablicy
+Jak to wyszło w kodzie (20 listopada):
+- Bardzo krótkie kwestie (mniej niż 5 liter stałego tekstu, np. „{Farmer_Name}...”, „Hej, {Farmer_Name}.”) dopasowują się tylko wtedy, gdy w miejscu imienia stoi faktyczne imię gracza; bez tego pasowałyby do niemal każdego tekstu. Krótkie kwestie bez imienia („{0}!?!” Gila, „Hej, {0}.” Willy'ego) grają po kluczu tłumaczenia.
+- Kontrola offline wszystkich 12 044 wpisów (tekst z ekranu odtworzony z `DialogueText` z przykładowymi wartościami): 11 145 dosłownie, 895 regexem, 4 tylko po kluczu (wyżej), 0 błędnych plików. Jedyny wpis bez `DialogueText` (Evelyn `spring13`, pusty tekst) zachował stary `DisplayPattern`.
+- Paczki: usunięte `DisplayPattern`, dodane `ActorNote` w 1 325 wpisach; teksty, numery i pliki bez zmian poza dwoma resztkami `%revealtaste…` (Emily 163, Lewis 97), których gra nie pokazuje.
+- Listy `.txt`: 835 linii „Uwaga: …” w 67 plikach. 490 wpisów z uwagą nie ma listy w repozytorium (np. główne listy Alexa), więc ich uwagi są tylko w JSON.
+- W grze sprawdzone: Shane „farma” i `%time`, Leah `%farm`, Elliott `%book` (3 strony), Abigail `%kid1 i %kid2`, Marnie `%pet`, Krobus 5 stron, Abigail z imieniem gracza, krótkie „Hej, Tester.” (Alex), „Tester!” (Clint), „Tester...” (Abigail), „Tester?” (Sebastian), Abigail `Sun2` ze zdaniem przed pytaniem i odpowiedzią, Emily bez `%revealtaste`, Willy `{0}` po kluczu, dymek Gusa, dymek Marnie z imieniem, okienko Pierre'a, oferta Robin.
+
+### Zlecenia z tablicy (do zrobienia)
 
 - Kawałki `ItemDeliveryQuest.cs.13526–13544` jako zwykłe wpisy w paczkach postaci wystawiających zlecenia (do ustalenia w kodzie gry, kto wystawia); stałe kwestie Czarnoksiężnika, Haley, Sama, Sebastiana, Maru, Abigail i Elliotta jako zwykłe dialogi.
 - Pierwsze okienko rozpoznawane jednym regexem w kolejności powitanie → reakcja → podziękowanie (`^…$`), zbudowanym z wpisów paczki; drugie okienko (zapłata) zwykłym dopasowaniem.

@@ -14,7 +14,6 @@
           "AudioPath": "assets/pl/Robin/1_male.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Introduction",
           "PageIndex": 0,
-          "DisplayPattern": "Poznałeś już wszystkich z miasta? Brzmi strasznie męcząco.",
           "GenderVariant": "male"
         },
         {
@@ -23,7 +22,6 @@
           "AudioPath": "assets/pl/Robin/2_female.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Introduction",
           "PageIndex": 1,
-          "DisplayPattern": "Poznałaś już wszystkich z miasta? Brzmi strasznie męcząco.",
           "GenderVariant": "female"
         },
         {
@@ -31,24 +29,21 @@
           "DialogueText": "Wow, patrz na te wszystkie budowle! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/3.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort",
-          "PageIndex": 0,
-          "DisplayPattern": "Wow, patrz na te wszystkie budowle!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort",
           "DialogueText": "Widzę, że zostały wykonane przez mistrza budownictwa. Jestem pod wrażeniem!",
           "AudioPath": "assets/pl/Robin/4.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort",
-          "PageIndex": 1,
-          "DisplayPattern": "Widzę, że zostały wykonane przez mistrza budownictwa. Jestem pod wrażeniem!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "AcceptGift_(O)StardropTea",
           "DialogueText": "Chwila... to dla mnie? Cóż za wyjątkowy prezent! Dziękuję.",
           "AudioPath": "assets/pl/Robin/5.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:AcceptGift_(O)StardropTea",
-          "PageIndex": 0,
-          "DisplayPattern": "Chwila... to dla mnie? Cóż za wyjątkowy prezent! Dziękuję."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AcceptGift_(O)Book_Woodcutting",
@@ -56,71 +51,63 @@
           "AudioPath": "assets/pl/Robin/6.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:AcceptGift_(O)Book_Woodcutting",
           "PageIndex": 0,
-          "DisplayPattern": "Co to... 'Drewniana Tajemnica'?... Um, co to za książka, ?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "AcceptGift_(O)Book_Woodcutting",
           "DialogueText": "Och, o stolarstwie! Ha ha ha... O tak, spodoba mi się. Dzięki! {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/7.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:AcceptGift_(O)Book_Woodcutting",
-          "PageIndex": 1,
-          "DisplayPattern": "Och, o stolarstwie! Ha ha ha... O tak, spodoba mi się. Dzięki!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "AcceptGift_(O)SkillBook_2",
           "DialogueText": "Ach, 'Tygodnik Drwala'... Miałam nadzieję, że znajdę najnowszy numer! Są tu najnowocześniejsze techniki!",
           "AudioPath": "assets/pl/Robin/8.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:AcceptGift_(O)SkillBook_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach, 'Tygodnik Drwala'... Miałam nadzieję, że znajdę najnowszy numer! Są tu najnowocześniejsze techniki!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AcceptGift_(O)SkillBook_2",
           "DialogueText": "Od drwala dla drwala... Dziękuję. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/9.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:AcceptGift_(O)SkillBook_2",
-          "PageIndex": 1,
-          "DisplayPattern": "Od drwala dla drwala... Dziękuję."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "On jest nienormalny! Po co tam w ogóle idzie? Nie wiemy, czy ten deszcz nie jest szkodliwy! {Portrait:Unique}%noturn",
           "AudioPath": "assets/pl/Robin/10.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:GreenRain",
-          "PageIndex": 0,
-          "DisplayPattern": "On jest nienormalny! Po co tam w ogóle idzie? Nie wiemy, czy ten deszcz nie jest szkodliwy!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRainFinished",
           "DialogueText": "Mam nadzieję, że Demetrius jest zadowolony z tych 'próbek', które zebrał. Najwidoczniej jego projekt naukowy jest dla niego ważniejszy niż żona. Hmph. {Portrait:Custom:6}",
           "AudioPath": "assets/pl/Robin/11.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:GreenRainFinished",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że Demetrius jest zadowolony z tych 'próbek', które zebrał. Najwidoczniej jego projekt naukowy jest dla niego ważniejszy niż żona. Hmph."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain_2",
           "DialogueText": "Dzisiaj jest mnóstwo świetnego drewna. Lepiej zabrać się za rąbanie, co nie?",
           "AudioPath": "assets/pl/Robin/12.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:GreenRain_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzisiaj jest mnóstwo świetnego drewna. Lepiej zabrać się za rąbanie, co nie?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "divorced_Sebastian",
           "DialogueText": "Sebastian wrócił do piwnicy... Co się stało między wami? {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/13.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:divorced_Sebastian",
-          "PageIndex": 0,
-          "DisplayPattern": "Sebastian wrócił do piwnicy... Co się stało między wami?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "divorced_Maru",
           "DialogueText": "Maru całą noc płakała... Wszyscy jesteśmy zdruzgotani... {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/14.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:divorced_Maru",
-          "PageIndex": 0,
-          "DisplayPattern": "Maru całą noc płakała... Wszyscy jesteśmy zdruzgotani..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "married_Sebastian",
@@ -128,47 +115,42 @@
           "AudioPath": "assets/pl/Robin/15.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:married_Sebastian",
           "PageIndex": 0,
-          "DisplayPattern": "Och, nie martw się... to łzy szczęścia. Wiem, że Sebastian będzie szczęśliwy na '''' farmie!"
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "married_Maru",
           "DialogueText": "Wszyscy będziemy tęsknić za Maru, ale jestem pewna, że będziemy ją często widywać!",
           "AudioPath": "assets/pl/Robin/16.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:married_Maru",
-          "PageIndex": 0,
-          "DisplayPattern": "Wszyscy będziemy tęsknić za Maru, ale jestem pewna, że będziemy ją często widywać!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "houseUpgrade_1",
           "DialogueText": "Fajnie było pracować nad Twoim domem. To może być jedno z najlepszych dzieł, jakie kiedykolwiek stworzyłam! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/17.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:houseUpgrade_1",
-          "PageIndex": 0,
-          "DisplayPattern": "Fajnie było pracować nad Twoim domem. To może być jedno z najlepszych dzieł, jakie kiedykolwiek stworzyłam!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "houseUpgrade_1",
           "DialogueText": "Mam nadzieję, że podoba Ci się nowa kuchnia.",
           "AudioPath": "assets/pl/Robin/18.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:houseUpgrade_1",
-          "PageIndex": 1,
-          "DisplayPattern": "Mam nadzieję, że podoba Ci się nowa kuchnia."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "houseUpgrade_2",
           "DialogueText": "Co zamierzasz zrobić z pustą przestrzenią w swoim domu?",
           "AudioPath": "assets/pl/Robin/19.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:houseUpgrade_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Co zamierzasz zrobić z pustą przestrzenią w swoim domu?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "houseUpgrade_2",
           "DialogueText": "A może raczej... w swojej 'rezydencji'? {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/20.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:houseUpgrade_2",
-          "PageIndex": 1,
-          "DisplayPattern": "A może raczej... w swojej 'rezydencji'?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "houseUpgrade_3",
@@ -176,7 +158,6 @@
           "AudioPath": "assets/pl/Robin/21_male.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:houseUpgrade_3",
           "PageIndex": 0,
-          "DisplayPattern": "Więc, wchodzisz w biznes winiarski? Słyszałam, że to bardzo opłacalne... jeśli jesteś cierpliwy.",
           "GenderVariant": "male"
         },
         {
@@ -185,7 +166,6 @@
           "AudioPath": "assets/pl/Robin/22_female.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:houseUpgrade_3",
           "PageIndex": 1,
-          "DisplayPattern": "Więc, wchodzisz w biznes winiarski? Słyszałam, że to bardzo opłacalne... jeśli jesteś cierpliwa.",
           "GenderVariant": "female"
         },
         {
@@ -193,32 +173,28 @@
           "DialogueText": "To prawdopodobnie najwytrzymalszy kurnik, jaki kiedykolwiek zrobiłam. Mam nadzieję, że dobrze Ci posłuży!",
           "AudioPath": "assets/pl/Robin/23.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Coop",
-          "PageIndex": 0,
-          "DisplayPattern": "To prawdopodobnie najwytrzymalszy kurnik, jaki kiedykolwiek zrobiłam. Mam nadzieję, że dobrze Ci posłuży!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "structureBuilt_Shed",
           "DialogueText": "Jakieś plany związane z nową szopą? Możliwości są nieskończone!",
           "AudioPath": "assets/pl/Robin/24.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Shed",
-          "PageIndex": 0,
-          "DisplayPattern": "Jakieś plany związane z nową szopą? Możliwości są nieskończone!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "structureBuilt_Coop_memory_oneweek",
           "DialogueText": "Jak tam nowy kurnik? Nie mogę się doczekać, aż poznam Twoje nowe zwierzęta!",
           "AudioPath": "assets/pl/Robin/25.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Coop_memory_oneweek",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak tam nowy kurnik? Nie mogę się doczekać, aż poznam Twoje nowe zwierzęta!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "structureBuilt_Barn_memory_oneweek",
           "DialogueText": "Jak tam nowa stodoła? Jestem pewna, że Twoje zwierzęta będą tam bardzo szczęśliwe!",
           "AudioPath": "assets/pl/Robin/26.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Barn_memory_oneweek",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak tam nowa stodoła? Jestem pewna, że Twoje zwierzęta będą tam bardzo szczęśliwe!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "structureBuilt_Slime Hutch",
@@ -226,7 +202,7 @@
           "AudioPath": "assets/pl/Robin/27.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Slime Hutch",
           "PageIndex": 0,
-          "DisplayPattern": "*fiu*... Sporo pracy przy tej Farmie Szlamu... Będę potrzebowała dnia w spa, żeby się zregenerować!"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "structureBuilt_Stable_memory_oneweek",
@@ -234,7 +210,6 @@
           "AudioPath": "assets/pl/Robin/28_male.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Stable_memory_oneweek",
           "PageIndex": 0,
-          "DisplayPattern": "A więc, jeździłeś już po mieście na swoim nowym koniu?",
           "GenderVariant": "male"
         },
         {
@@ -243,7 +218,6 @@
           "AudioPath": "assets/pl/Robin/29_female.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Stable_memory_oneweek",
           "PageIndex": 1,
-          "DisplayPattern": "A więc, jeździłaś już po mieście na swoim nowym koniu?",
           "GenderVariant": "female"
         },
         {
@@ -251,40 +225,35 @@
           "DialogueText": "Na początku może być trochę boleśnie, ale przyzwyczaisz się. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/30.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Stable_memory_oneweek",
-          "PageIndex": 2,
-          "DisplayPattern": "Na początku może być trochę boleśnie, ale przyzwyczaisz się."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "structureBuilt_Fish Pond",
           "DialogueText": "Wspomniałam Williemu, że zbudowałam Ci staw rybny. Bardzo się ucieszył.",
           "AudioPath": "assets/pl/Robin/31.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Fish Pond",
-          "PageIndex": 0,
-          "DisplayPattern": "Wspomniałam Williemu, że zbudowałam Ci staw rybny. Bardzo się ucieszył."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "structureBuilt_Fish Pond",
           "DialogueText": "Podobno w młodości hodował kraby. Mówił, że to 'wieloletnia tradycja'. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/32.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:structureBuilt_Fish Pond",
-          "PageIndex": 1,
-          "DisplayPattern": "Podobno w młodości hodował kraby. Mówił, że to 'wieloletnia tradycja'."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Resort_Leaving",
           "DialogueText": "Było świetnie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/33.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort_Leaving",
-          "PageIndex": 0,
-          "DisplayPattern": "Było świetnie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Shore",
           "DialogueText": "Hej, patrz! Stąd widać kolejną wyspę.",
           "AudioPath": "assets/pl/Robin/34.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort_Shore",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, patrz! Stąd widać kolejną wyspę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Chair",
@@ -292,7 +261,7 @@
           "AudioPath": "assets/pl/Robin/35.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort_Chair",
           "PageIndex": 0,
-          "DisplayPattern": "Hej . Wiesz, rozmyślałam nad tym, jak daleko zaszło nasze miasteczko, odkąd tu jesteś."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Resort_Chair",
@@ -300,7 +269,6 @@
           "AudioPath": "assets/pl/Robin/36_male.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort_Chair",
           "PageIndex": 1,
-          "DisplayPattern": "Powinieneś być z siebie dumny, spisałeś się!",
           "GenderVariant": "male"
         },
         {
@@ -309,7 +277,6 @@
           "AudioPath": "assets/pl/Robin/37_female.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort_Chair",
           "PageIndex": 2,
-          "DisplayPattern": "Powinnaś być z siebie dumna, spisałaś się!",
           "GenderVariant": "female"
         },
         {
@@ -317,64 +284,56 @@
           "DialogueText": "Ach... Relaks...",
           "AudioPath": "assets/pl/Robin/38.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Resort_Bar",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach... Relaks..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "reject_865",
           "DialogueText": "Sól warzywna? Nie brzmi źle, ale mi się nie przyda.",
           "AudioPath": "assets/pl/Robin/39.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:reject_865",
-          "PageIndex": 0,
-          "DisplayPattern": "Sól warzywna? Nie brzmi źle, ale mi się nie przyda."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "reject_866",
           "DialogueText": "Hmm... Kwiaty kojarzą mi się z Evelyn. Może jej pokażesz?",
           "AudioPath": "assets/pl/Robin/40.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:reject_866",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmm... Kwiaty kojarzą mi się z Evelyn. Może jej pokażesz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "pamHouseUpgrade",
           "DialogueText": "Nasz mały plan poszedł jak po maśle, prawda? Pam i Penny wyglądają na bardzo szczęśliwe.",
           "AudioPath": "assets/pl/Robin/41.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:pamHouseUpgrade",
-          "PageIndex": 0,
-          "DisplayPattern": "Nasz mały plan poszedł jak po maśle, prawda? Pam i Penny wyglądają na bardzo szczęśliwe."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "pamHouseUpgradeAnonymous",
           "DialogueText": "Nasz mały plan poszedł jak po maśle, prawda? Pam i Penny wyglądają na bardzo szczęśliwe.",
           "AudioPath": "assets/pl/Robin/42.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:pamHouseUpgradeAnonymous",
-          "PageIndex": 0,
-          "DisplayPattern": "Nasz mały plan poszedł jak po maśle, prawda? Pam i Penny wyglądają na bardzo szczęśliwe."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvitation",
           "DialogueText": "Och... Dwa bilety na dzisiejszy film, co? Brzmi nieźle! Widzimy się na miejscu. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/43.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:MovieInvitation",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... Dwa bilety na dzisiejszy film, co? Brzmi nieźle! Widzimy się na miejscu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "cc_Bridge",
           "DialogueText": "Hej! Wczoraj słyszałam dziwne głosy, a kiedy się obudziłam, zobaczyłam naprawiony most do kamieniołomu!",
           "AudioPath": "assets/pl/Robin/44.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:cc_Bridge",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej! Wczoraj słyszałam dziwne głosy, a kiedy się obudziłam, zobaczyłam naprawiony most do kamieniołomu!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "cc_Bridge",
           "DialogueText": "To cud stolarskiego kunsztu!",
           "AudioPath": "assets/pl/Robin/45.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:cc_Bridge",
-          "PageIndex": 1,
-          "DisplayPattern": "To cud stolarskiego kunsztu!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "cc_Complete",
@@ -382,47 +341,42 @@
           "AudioPath": "assets/pl/Robin/46.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:cc_Complete",
           "PageIndex": 0,
-          "DisplayPattern": "Wiedziałam to, odkąd zauważyłam Cię w autobusie, ... Było Ci pisane zostać bohaterem miasteczka!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "cc_Begin",
           "DialogueText": "Hej! Słyszałam, że Lewis oprowadził Cię po Domu Kultury... Byłoby świetnie, gdyby udało Ci się je odnowić. Kiedyś to było naprawdę przyjemne miejsce!",
           "AudioPath": "assets/pl/Robin/47.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:cc_Begin",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej! Słyszałam, że Lewis oprowadził Cię po Domu Kultury... Byłoby świetnie, gdyby udało Ci się je odnowić. Kiedyś to było naprawdę przyjemne miejsce!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon",
           "DialogueText": "Wspominałam, że zbudowałam nasz dom od podstaw?",
           "AudioPath": "assets/pl/Robin/48.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Wspominałam, że zbudowałam nasz dom od podstaw?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon",
           "DialogueText": "To największe osiągnięcie w mojej karierze.",
           "AudioPath": "assets/pl/Robin/49.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Mon",
-          "PageIndex": 1,
-          "DisplayPattern": "To największe osiągnięcie w mojej karierze."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Hej, jeśli potrzebujesz materiałów lub planów budowy, odwiedź mój sklep!",
           "AudioPath": "assets/pl/Robin/50.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, jeśli potrzebujesz materiałów lub planów budowy, odwiedź mój sklep!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Twój biznes wspiera lokalną gospodarkę. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/51.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Twój biznes wspiera lokalną gospodarkę."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed",
@@ -430,151 +384,133 @@
           "AudioPath": "assets/pl/Robin/52.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Wed",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Właśnie rozmyślałam o nowych projektach stolarskich.",
           "AudioPath": "assets/pl/Robin/53.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Właśnie rozmyślałam o nowych projektach stolarskich."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Dobrze Ci się mieszka? Jak trzyma się stolarka w Twoim domu?",
           "AudioPath": "assets/pl/Robin/54.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Wed",
-          "PageIndex": 2,
-          "DisplayPattern": "Dobrze Ci się mieszka? Jak trzyma się stolarka w Twoim domu?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Zawsze miło Cię tu gościć, nawet jeśli nic nie kupujesz. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/55.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Zawsze miło Cię tu gościć, nawet jeśli nic nie kupujesz."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "W górach czasem bywa samotnie.",
           "AudioPath": "assets/pl/Robin/56.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "W górach czasem bywa samotnie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Znasz mojego syna, Sebastiana? Ma pokój na dole.",
           "AudioPath": "assets/pl/Robin/57.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Znasz mojego syna, Sebastiana? Ma pokój na dole."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Jest trochę nieśmiały, ale na pewno się zaprzyjaźnicie.",
           "AudioPath": "assets/pl/Robin/58.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Jest trochę nieśmiały, ale na pewno się zaprzyjaźnicie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri_inlaw_Sebastian",
           "DialogueText": "Tęsknię za Sebastianem... Zawsze był trochę niezrozumiany, ale wierzyłam w niego.",
           "AudioPath": "assets/pl/Robin/59.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri_inlaw_Sebastian",
-          "PageIndex": 0,
-          "DisplayPattern": "Tęsknię za Sebastianem... Zawsze był trochę niezrozumiany, ale wierzyłam w niego."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri4",
           "DialogueText": "# {Portrait:Happy} RobinSeb",
           "AudioPath": "assets/pl/Robin/60.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri4",
-          "PageIndex": 0,
-          "DisplayPattern": "# RobinSeb"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri4",
           "DialogueText": "Znalazłam popielniczkę w pokoju Sebastiana i coś tam dziwnie pachniało. Powinnam się martwić?",
           "AudioPath": "assets/pl/Robin/61.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri4",
-          "PageIndex": 1,
-          "DisplayPattern": "Znalazłam popielniczkę w pokoju Sebastiana i coś tam dziwnie pachniało. Powinnam się martwić?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri4",
           "DialogueText": "Czasem się o niego niepokoję... Nie ma zbyt wielu przyjaciół i niezbyt myśli o przyszłości...",
           "AudioPath": "assets/pl/Robin/62.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri4",
-          "PageIndex": 2,
-          "DisplayPattern": "Czasem się o niego niepokoję... Nie ma zbyt wielu przyjaciół i niezbyt myśli o przyszłości..."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Fri4",
           "DialogueText": "Chciałabym z nim o tym pogadać, ale nigdy się przede mną nie otwiera.",
           "AudioPath": "assets/pl/Robin/63.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri4",
-          "PageIndex": 3,
-          "DisplayPattern": "Chciałabym z nim o tym pogadać, ale nigdy się przede mną nie otwiera."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Fri4_inlaw_Sebastian",
           "DialogueText": "Sebastian powiedział mi, że próbuje rzucić palenie! Jestem z niego dumna.",
           "AudioPath": "assets/pl/Robin/64.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Fri4_inlaw_Sebastian",
-          "PageIndex": 0,
-          "DisplayPattern": "Sebastian powiedział mi, że próbuje rzucić palenie! Jestem z niego dumna."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Nasz dom jest pięknie położony, prawda?",
           "AudioPath": "assets/pl/Robin/65.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Nasz dom jest pięknie położony, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Uwielbiam świeże, górskie powietrze.",
           "AudioPath": "assets/pl/Robin/66.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Uwielbiam świeże, górskie powietrze."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Mam nadzieję, że Demetrius nie wysadzi domu przez swoje eksperymenty.",
           "AudioPath": "assets/pl/Robin/67.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że Demetrius nie wysadzi domu przez swoje eksperymenty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Nie jestem nawet pewna, nad czym pracuje. Chyba robi coś z roślinami.",
           "AudioPath": "assets/pl/Robin/68.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie jestem nawet pewna, nad czym pracuje. Chyba robi coś z roślinami."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun2",
           "DialogueText": "# {Portrait:Happy} RobinDem",
           "AudioPath": "assets/pl/Robin/69.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun2",
-          "PageIndex": 0,
-          "DisplayPattern": "# RobinDem"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun2",
           "DialogueText": "Mój mąż prawie podpalił dom przez swoje eksperymenty. Jedna z jego zlewek eksplodowała i wystrzeliła kulę ognia aż pod sufit! Dobrze, że użyłam ognioodpornego lakieru przy budowie. {Portrait:Unique}",
           "AudioPath": "assets/pl/Robin/70.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun2",
-          "PageIndex": 1,
-          "DisplayPattern": "Mój mąż prawie podpalił dom przez swoje eksperymenty. Jedna z jego zlewek eksplodowała i wystrzeliła kulę ognia aż pod sufit! Dobrze, że użyłam ognioodpornego lakieru przy budowie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun2",
@@ -582,7 +518,7 @@
           "AudioPath": "assets/pl/Robin/71.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun2",
           "PageIndex": 2,
-          "DisplayPattern": "Przepraszam, jeśli dziwnie pachnie, . To przez ten jego dziwaczny projekt naukowy..."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Sun6",
@@ -590,231 +526,203 @@
           "AudioPath": "assets/pl/Robin/72.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun6",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć ! Miło Cię widzieć."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Sun6",
           "DialogueText": "Jesteś teraz oficjalnym członkiem naszej społeczności, prawda?",
           "AudioPath": "assets/pl/Robin/73.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:Sun6",
-          "PageIndex": 1,
-          "DisplayPattern": "Jesteś teraz oficjalnym członkiem naszej społeczności, prawda?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "event_wood1",
           "DialogueText": "Świetnie! Poradzisz sobie bez problemu! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/74.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:event_wood1",
-          "PageIndex": 0,
-          "DisplayPattern": "Świetnie! Poradzisz sobie bez problemu!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "event_wood2",
           "DialogueText": "W takim razie mam dla Ciebie idealny plan na początek!",
           "AudioPath": "assets/pl/Robin/75.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:event_wood2",
-          "PageIndex": 0,
-          "DisplayPattern": "W takim razie mam dla Ciebie idealny plan na początek!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Mon",
           "DialogueText": "Drewno to niesamowity materiał... wszechstronne, tanie, wytrzymałe, a każdy jego kawałek jest unikalny!",
           "AudioPath": "assets/pl/Robin/76.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:summer_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Drewno to niesamowity materiał... wszechstronne, tanie, wytrzymałe, a każdy jego kawałek jest unikalny!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Jeśli chcesz ulepszyć jakiś budynek na farmie, daj znać!",
           "AudioPath": "assets/pl/Robin/77.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:summer_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Jeśli chcesz ulepszyć jakiś budynek na farmie, daj znać!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Wystarczy, że przyniesiesz wystarczająco drewna, kamienia i trochę gotówki.",
           "AudioPath": "assets/pl/Robin/78.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:summer_Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Wystarczy, że przyniesiesz wystarczająco drewna, kamienia i trochę gotówki."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Ale jestem pewna, że efekt końcowy Ci się spodoba! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/79.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:summer_Tue",
-          "PageIndex": 2,
-          "DisplayPattern": "Ale jestem pewna, że efekt końcowy Ci się spodoba!"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "summer_Fri",
           "DialogueText": "Jesteśmy tu trochę odcięci od reszty świata.",
           "AudioPath": "assets/pl/Robin/80.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:summer_Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Jesteśmy tu trochę odcięci od reszty świata."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Fri",
           "DialogueText": "Ma to swoje plusy i minusy.",
           "AudioPath": "assets/pl/Robin/81.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:summer_Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Ma to swoje plusy i minusy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Mon",
           "DialogueText": "# {Portrait:Happy} RobinMaru",
           "AudioPath": "assets/pl/Robin/82.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "# RobinMaru"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Mon",
           "DialogueText": "Maru lubi klejnoty. Używa ich w swoich wynalazkach.",
           "AudioPath": "assets/pl/Robin/83.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Mon",
-          "PageIndex": 1,
-          "DisplayPattern": "Maru lubi klejnoty. Używa ich w swoich wynalazkach."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Mon",
           "DialogueText": "Dobrze się dogadujecie z Maru?",
           "AudioPath": "assets/pl/Robin/84.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Mon",
-          "PageIndex": 2,
-          "DisplayPattern": "Dobrze się dogadujecie z Maru?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "fall_Thu",
           "DialogueText": "Zawsze miło Cię tu gościć, nawet jeśli nic nie kupujesz! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/85.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Zawsze miło Cię tu gościć, nawet jeśli nic nie kupujesz!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Thu",
           "DialogueText": "W górach może być bardzo samotnie.",
           "AudioPath": "assets/pl/Robin/86.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "W górach może być bardzo samotnie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Fri",
           "DialogueText": "Znasz tego dzikiego mężczyznę, który żyje za naszym domem? {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/87.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Znasz tego dzikiego mężczyznę, który żyje za naszym domem?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Fri",
           "DialogueText": "Nie przeszkadza mi, dopóki nie zaczyna zawracać nam głowy.",
           "AudioPath": "assets/pl/Robin/88.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:fall_Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie przeszkadza mi, dopóki nie zaczyna zawracać nam głowy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Mon",
           "DialogueText": "Hej, to świetna pora roku na zbieranie drewna.",
           "AudioPath": "assets/pl/Robin/89.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, to świetna pora roku na zbieranie drewna."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Mon",
           "DialogueText": "Może uzbierasz tyle, by ulepszyć dom!",
           "AudioPath": "assets/pl/Robin/90.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Mon",
-          "PageIndex": 1,
-          "DisplayPattern": "Może uzbierasz tyle, by ulepszyć dom!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Fri",
           "DialogueText": "Moi rodzice byli zszokowani, gdy powiedziałam, że chcę zostać stolarzem.",
           "AudioPath": "assets/pl/Robin/91.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Moi rodzice byli zszokowani, gdy powiedziałam, że chcę zostać stolarzem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Fri",
           "DialogueText": "Byli trochę staroświeccy.",
           "AudioPath": "assets/pl/Robin/92.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Byli trochę staroświeccy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Fri_inlaw_Sebastian",
           "DialogueText": "Myślę, że życie na farmie dobrze wpływa na Sebastiana.",
           "AudioPath": "assets/pl/Robin/93.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Fri_inlaw_Sebastian",
-          "PageIndex": 0,
-          "DisplayPattern": "Myślę, że życie na farmie dobrze wpływa na Sebastiana."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Sat",
           "DialogueText": "Nasz dom jest pięknie położony, prawda?",
           "AudioPath": "assets/pl/Robin/94.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Nasz dom jest pięknie położony, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Sat",
           "DialogueText": "Wszystko wygląda tak ładnie po świeżym śniegu.",
           "AudioPath": "assets/pl/Robin/95.ogg",
           "TranslationKey": "Characters/Dialogue/Robin:winter_Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Wszystko wygląda tak ładnie po świeżym śniegu."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "Deszcz nie powstrzyma mnie przed dokończeniem pracy! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/96.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Deszcz nie powstrzyma mnie przed dokończeniem pracy!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "Z drugiej strony, mokre drewno nie jest zbyt przyjemne do obróbki. {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/97.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Robin",
-          "PageIndex": 1,
-          "DisplayPattern": "Z drugiej strony, mokre drewno nie jest zbyt przyjemne do obróbki."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/53:s0",
           "DialogueText": "Idealne użycie drewna!",
           "AudioPath": "assets/pl/Robin/98.ogg",
           "TranslationKey": "Events/Town:53:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Idealne użycie drewna!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/191393:s0",
           "DialogueText": "Mmmmm...",
           "AudioPath": "assets/pl/Robin/99.ogg",
           "TranslationKey": "Events/Town:191393:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Mmmmm..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/191393:s1",
           "DialogueText": "Nigdy więcej Joja!",
           "AudioPath": "assets/pl/Robin/100.ogg",
           "TranslationKey": "Events/Town:191393:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Nigdy więcej Joja!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s0",
@@ -822,31 +730,28 @@
           "AudioPath": "assets/pl/Robin/101.ogg",
           "TranslationKey": "Events/Town:611173:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Hej ! No... Co o tym myślisz?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Town/611173:s1",
           "DialogueText": "Jestem z siebie dumna...",
           "AudioPath": "assets/pl/Robin/102.ogg",
           "TranslationKey": "Events/Town:611173:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Jestem z siebie dumna..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s2",
           "DialogueText": "W sumie, może to być moje najlepsze dzieło! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/103.ogg",
           "TranslationKey": "Events/Town:611173:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "W sumie, może to być moje najlepsze dzieło!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s3",
           "DialogueText": "Widzisz to okrągłe okno? Ciężko było tak zgiąć tę ramę.",
           "AudioPath": "assets/pl/Robin/104.ogg",
           "TranslationKey": "Events/Town:611173:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Widzisz to okrągłe okno? Ciężko było tak zgiąć tę ramę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s4",
@@ -854,7 +759,6 @@
           "AudioPath": "assets/pl/Robin/105_male.ogg",
           "TranslationKey": "Events/Town:611173:s4",
           "PageIndex": 0,
-          "DisplayPattern": "O! I te skomplikowane rzeźbienia na drzwiach. Zajęły mi wieki. Zauważyłeś?",
           "GenderVariant": "male"
         },
         {
@@ -863,7 +767,6 @@
           "AudioPath": "assets/pl/Robin/106_female.ogg",
           "TranslationKey": "Events/Town:611173:s5",
           "PageIndex": 0,
-          "DisplayPattern": "O! I te skomplikowane rzeźbienia na drzwiach. Zajęły mi wieki. Zauważyłaś?",
           "GenderVariant": "female"
         },
         {
@@ -871,32 +774,28 @@
           "DialogueText": "Och... Chyba znowu się rozgadałam o drewnie... {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/107.ogg",
           "TranslationKey": "Events/Town:611173:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... Chyba znowu się rozgadałam o drewnie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s7",
           "DialogueText": "Pójdę z nimi pogadać... ale najpierw muszę spytać...",
           "AudioPath": "assets/pl/Robin/108.ogg",
           "TranslationKey": "Events/Town:611173:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Pójdę z nimi pogadać... ale najpierw muszę spytać..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s8",
           "DialogueText": "Mam im powiedzieć, że ty to sponsorujesz?",
           "AudioPath": "assets/pl/Robin/109.ogg",
           "TranslationKey": "Events/Town:611173:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam im powiedzieć, że ty to sponsorujesz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s9",
           "DialogueText": "Tak, oczywiście!",
           "AudioPath": "assets/pl/Robin/110.ogg",
           "TranslationKey": "Events/Town:611173:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak, oczywiście!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s10",
@@ -904,7 +803,6 @@
           "AudioPath": "assets/pl/Robin/111_male.ogg",
           "TranslationKey": "Events/Town:611173:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Nie, pozostanę anonimowy",
           "GenderVariant": "male"
         },
         {
@@ -913,7 +811,6 @@
           "AudioPath": "assets/pl/Robin/112_female.ogg",
           "TranslationKey": "Events/Town:611173:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Nie, pozostanę anonimowa",
           "GenderVariant": "female"
         },
         {
@@ -921,32 +818,28 @@
           "DialogueText": "Ok... to zaczekaj tu.",
           "AudioPath": "assets/pl/Robin/113.ogg",
           "TranslationKey": "Events/Town:611173:s12",
-          "PageIndex": 0,
-          "DisplayPattern": "Ok... to zaczekaj tu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s13",
           "DialogueText": "Witam, sąsiedzi... Macie bardzo ładny nowy domek! {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/114.ogg",
           "TranslationKey": "Events/Town:611173:s13",
-          "PageIndex": 0,
-          "DisplayPattern": "Witam, sąsiedzi... Macie bardzo ładny nowy domek!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s14",
           "DialogueText": "Hej, nie dziękujcie mi! Ktoś inny wpadł na ten pomysł... i za to wszystko zapłacił.",
           "AudioPath": "assets/pl/Robin/115.ogg",
           "TranslationKey": "Events/Town:611173:s14",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, nie dziękujcie mi! Ktoś inny wpadł na ten pomysł... i za to wszystko zapłacił."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s15",
           "DialogueText": "Nie mogę powiedzieć... ta osoba chcę pozostać anonimowa. {Portrait:Angry}",
           "AudioPath": "assets/pl/Robin/116.ogg",
           "TranslationKey": "Events/Town:611173:s15",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę powiedzieć... ta osoba chcę pozostać anonimowa."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/611173:s16",
@@ -954,23 +847,21 @@
           "AudioPath": "assets/pl/Robin/117.ogg",
           "TranslationKey": "Events/Town:611173:s16",
           "PageIndex": 0,
-          "DisplayPattern": "Cóż, nie posunęłabym się aż *tak* daleko..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown:s0",
           "DialogueText": "Ok... chodźmy.",
           "AudioPath": "assets/pl/Robin/118.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Ok... chodźmy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown:s1",
           "DialogueText": "Witam, sąsiedzi... Macie bardzo ładny nowy domek! {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/119.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Witam, sąsiedzi... Macie bardzo ładny nowy domek!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown:s2",
@@ -978,7 +869,7 @@
           "AudioPath": "assets/pl/Robin/120_male.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, nie dziękujcie mi! To wpadł na ten pomysł... i to on za wszystko zapłacił!",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -987,7 +878,7 @@
           "AudioPath": "assets/pl/Robin/121_female.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Hej nie dziękujcie mi! To wpadła na ten pomysł... I to ona za wszystko zapłaciła!",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -996,31 +887,28 @@
           "AudioPath": "assets/pl/Robin/122.ogg",
           "TranslationKey": "Events/Town:611173:s0",
           "PageIndex": 1,
-          "DisplayPattern": "Hej ! Co o tym myślisz?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Town/611173:s1",
           "DialogueText": "Jestem z tego dumna...",
           "AudioPath": "assets/pl/Robin/123.ogg",
           "TranslationKey": "Events/Town:611173:s1",
-          "PageIndex": 1,
-          "DisplayPattern": "Jestem z tego dumna..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s2",
           "DialogueText": "W sumie, może to być moje najlepsze dzieło! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/124.ogg",
           "TranslationKey": "Events/Town:611173:s2",
-          "PageIndex": 1,
-          "DisplayPattern": "W sumie, może to być moje najlepsze dzieło!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s3",
           "DialogueText": "Widzisz to okrągłe okno... Ciężko było tak zgiąć tę ramę.",
           "AudioPath": "assets/pl/Robin/125.ogg",
           "TranslationKey": "Events/Town:611173:s3",
-          "PageIndex": 1,
-          "DisplayPattern": "Widzisz to okrągłe okno... Ciężko było tak zgiąć tę ramę."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s4",
@@ -1028,7 +916,6 @@
           "AudioPath": "assets/pl/Robin/126_male.ogg",
           "TranslationKey": "Events/Town:611173:s4",
           "PageIndex": 1,
-          "DisplayPattern": "O! I skomplikowane rzeźbienia na drzwiach. Zajęły mi wieki. Zauważyłeś?",
           "GenderVariant": "male"
         },
         {
@@ -1037,7 +924,6 @@
           "AudioPath": "assets/pl/Robin/127_female.ogg",
           "TranslationKey": "Events/Town:611173:s5",
           "PageIndex": 1,
-          "DisplayPattern": "O! I skomplikowane rzeźbienia na drzwiach. Zajęły mi wieki. Zauważyłaś?",
           "GenderVariant": "female"
         },
         {
@@ -1045,32 +931,28 @@
           "DialogueText": "Och... Chyba znowu się rozgadałam o drewnie... {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/128.ogg",
           "TranslationKey": "Events/Town:611173:s6",
-          "PageIndex": 1,
-          "DisplayPattern": "Och... Chyba znowu się rozgadałam o drewnie..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s7",
           "DialogueText": "Pójdę z nimi pogadać... ale najpierw muszę spytać...",
           "AudioPath": "assets/pl/Robin/129.ogg",
           "TranslationKey": "Events/Town:611173:s7",
-          "PageIndex": 1,
-          "DisplayPattern": "Pójdę z nimi pogadać... ale najpierw muszę spytać..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s8",
           "DialogueText": "Mam im powiedzieć, że ty to sponsorujesz?",
           "AudioPath": "assets/pl/Robin/130.ogg",
           "TranslationKey": "Events/Town:611173:s8",
-          "PageIndex": 1,
-          "DisplayPattern": "Mam im powiedzieć, że ty to sponsorujesz?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s9",
           "DialogueText": "Tak, oczywiście!",
           "AudioPath": "assets/pl/Robin/131.ogg",
           "TranslationKey": "Events/Town:611173:s9",
-          "PageIndex": 1,
-          "DisplayPattern": "Tak, oczywiście!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s10",
@@ -1078,7 +960,6 @@
           "AudioPath": "assets/pl/Robin/132_male.ogg",
           "TranslationKey": "Events/Town:611173:s10",
           "PageIndex": 1,
-          "DisplayPattern": "Nie, pozostanę anonimowy",
           "GenderVariant": "male"
         },
         {
@@ -1087,7 +968,6 @@
           "AudioPath": "assets/pl/Robin/133_female.ogg",
           "TranslationKey": "Events/Town:611173:s11",
           "PageIndex": 1,
-          "DisplayPattern": "Nie, pozostanę anonimowa",
           "GenderVariant": "female"
         },
         {
@@ -1095,32 +975,28 @@
           "DialogueText": "Ok... to zaczekaj tu.",
           "AudioPath": "assets/pl/Robin/134.ogg",
           "TranslationKey": "Events/Town:611173:s12",
-          "PageIndex": 1,
-          "DisplayPattern": "Ok... to zaczekaj tu."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s13",
           "DialogueText": "Witam, sąsiedzi... Macie bardzo ładny nowy domek! {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/135.ogg",
           "TranslationKey": "Events/Town:611173:s13",
-          "PageIndex": 1,
-          "DisplayPattern": "Witam, sąsiedzi... Macie bardzo ładny nowy domek!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s14",
           "DialogueText": "Hej, nie dziękujcie mi! Ktoś inny wpadł na ten pomysł... i za to wszystko zapłacił.",
           "AudioPath": "assets/pl/Robin/136.ogg",
           "TranslationKey": "Events/Town:611173:s14",
-          "PageIndex": 1,
-          "DisplayPattern": "Hej, nie dziękujcie mi! Ktoś inny wpadł na ten pomysł... i za to wszystko zapłacił."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s15",
           "DialogueText": "Nie mogę powiedzieć... ta osoba chcę pozostać anonimowa. {Portrait:Angry}",
           "AudioPath": "assets/pl/Robin/137.ogg",
           "TranslationKey": "Events/Town:611173:s15",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie mogę powiedzieć... ta osoba chcę pozostać anonimowa."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/611173:s16",
@@ -1128,23 +1004,21 @@
           "AudioPath": "assets/pl/Robin/138.ogg",
           "TranslationKey": "Events/Town:611173:s16",
           "PageIndex": 1,
-          "DisplayPattern": "Cóż, nie posunęłabym się aż *tak* daleko..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s0",
           "DialogueText": "Ok... chodźmy.",
           "AudioPath": "assets/pl/Robin/139.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Ok... chodźmy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s1",
           "DialogueText": "Witam, sąsiedzi... macie bardzo ładny nowy domek! {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/140.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Witam, sąsiedzi... macie bardzo ładny nowy domek!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s2",
@@ -1152,7 +1026,7 @@
           "AudioPath": "assets/pl/Robin/141.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Co? Twoja żona o tym nie wie, ?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s3",
@@ -1160,127 +1034,112 @@
           "AudioPath": "assets/pl/Robin/142.ogg",
           "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s3",
           "PageIndex": 0,
-          "DisplayPattern": "wszystko sponsoruje!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
           "DialogueText": "Hej Lewis... skoro fundujemy edukację bez ruszania miejskich środków, zmniejszysz nasze podatki za działalność gospodarczą, prawda? {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/143.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej Lewis... skoro fundujemy edukację bez ruszania miejskich środków, zmniejszysz nasze podatki za działalność gospodarczą, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/6184644:s1",
           "DialogueText": "To był wielki sukces! Dziękuję za pomoc, Skarbie.",
           "AudioPath": "assets/pl/Robin/144.ogg",
           "TranslationKey": "Events/Town:6184644:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "To był wielki sukces! Dziękuję za pomoc, Skarbie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s0",
           "DialogueText": "Em... Lewis? Jedyne co robiłeś, to trzymałeś gwoździe.",
           "AudioPath": "assets/pl/Robin/145.ogg",
           "TranslationKey": "Events/Town:15389722:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Em... Lewis? Jedyne co robiłeś, to trzymałeś gwoździe."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s1",
           "DialogueText": "Tak... na przykład, planuję poprosić o trochę twardego drewna na łóżko, które mam zamiar zrobić. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/146.ogg",
           "TranslationKey": "Events/Town:15389722:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak... na przykład, planuję poprosić o trochę twardego drewna na łóżko, które mam zamiar zrobić."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s2",
           "DialogueText": "Nie zlecę Ci tego od razu, ale jeśli chcesz pomóc możesz przyjąć to zlecenie z tablicy.",
           "AudioPath": "assets/pl/Robin/147.ogg",
           "TranslationKey": "Events/Town:15389722:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie zlecę Ci tego od razu, ale jeśli chcesz pomóc możesz przyjąć to zlecenie z tablicy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s3",
           "DialogueText": "Kto wie, może jeśli łóżko mi wyjdzie, zacznę je sprzedawać w sklepie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/148.ogg",
           "TranslationKey": "Events/Town:15389722:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Kto wie, może jeśli łóżko mi wyjdzie, zacznę je sprzedawać w sklepie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s4",
           "DialogueText": "Można powiedzieć, że jesteś... --Na Zlecenie--? {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/149.ogg",
           "TranslationKey": "Events/Town:15389722:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Można powiedzieć, że jesteś... --Na Zlecenie--?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s5",
           "DialogueText": "Nic się nie dzieje, Lewis... nie będziemy zmuszać. {Portrait:Angry}",
           "AudioPath": "assets/pl/Robin/150.ogg",
           "TranslationKey": "Events/Town:15389722:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Nic się nie dzieje, Lewis... nie będziemy zmuszać."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/15389722:s6",
           "DialogueText": "Może poproszę o pomoc Sebastiana. Przydałoby mu się trochę roboty poza komputerem.",
           "AudioPath": "assets/pl/Robin/151.ogg",
           "TranslationKey": "Events/Town:15389722:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Może poproszę o pomoc Sebastiana. Przydałoby mu się trochę roboty poza komputerem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ManorHouse/2123243:s0",
           "DialogueText": "Wow...",
           "AudioPath": "assets/pl/Robin/152.ogg",
           "TranslationKey": "Events/ManorHouse:2123243:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Wow..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Saloon/3206194:s0",
           "DialogueText": "Te jajka są takie pyszne i żółte... Marnie, czy to od Ciebie?",
           "AudioPath": "assets/pl/Robin/153.ogg",
           "TranslationKey": "Events/Saloon:3206194:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Te jajka są takie pyszne i żółte... Marnie, czy to od Ciebie?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s0",
           "DialogueText": "Iiik!",
           "AudioPath": "assets/pl/Robin/154.ogg",
           "TranslationKey": "Events/Mountain:371652:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Iiik!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s1",
           "DialogueText": "Och... Linus, tak? {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/155.ogg",
           "TranslationKey": "Events/Mountain:371652:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... Linus, tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s2",
           "DialogueText": "Jesteś głodny? Mogę Ci coś przygotować... Może wczorajszy gulasz z jaskiniowej marchewki?",
           "AudioPath": "assets/pl/Robin/156.ogg",
           "TranslationKey": "Events/Mountain:371652:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Jesteś głodny? Mogę Ci coś przygotować... Może wczorajszy gulasz z jaskiniowej marchewki?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s3",
           "DialogueText": "Heh... Ok. {Portrait:Angry}",
           "AudioPath": "assets/pl/Robin/157.ogg",
           "TranslationKey": "Events/Mountain:371652:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Heh... Ok."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s4",
@@ -1288,87 +1147,77 @@
           "AudioPath": "assets/pl/Robin/158.ogg",
           "TranslationKey": "Events/Mountain:371652:s4",
           "PageIndex": 0,
-          "DisplayPattern": "? Chyba chcesz coś powiedzieć..."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s5",
           "DialogueText": "Cieszę się z tego, że Linus dobrze sobie radzi...",
           "AudioPath": "assets/pl/Robin/159.ogg",
           "TranslationKey": "Events/Mountain:371652:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Cieszę się z tego, że Linus dobrze sobie radzi..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s6",
           "DialogueText": "Chcę zaproponować Linusowi mieszkanie na mojej farmie...",
           "AudioPath": "assets/pl/Robin/160.ogg",
           "TranslationKey": "Events/Mountain:371652:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Chcę zaproponować Linusowi mieszkanie na mojej farmie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s7",
           "DialogueText": "Wow!",
           "AudioPath": "assets/pl/Robin/161.ogg",
           "TranslationKey": "Events/Mountain:371652:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Wow!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s8",
           "DialogueText": "To bardzo hojne! Cóż za wspaniały pomysł! Mogłabym Ci wybudować bardzo przytulny dom, Linus. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/162.ogg",
           "TranslationKey": "Events/Mountain:371652:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "To bardzo hojne! Cóż za wspaniały pomysł! Mogłabym Ci wybudować bardzo przytulny dom, Linus."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s9",
           "DialogueText": "Miałbyś bieżącą wodę, ciepło, dach nad głową... tak jak wszyscy! Czyż to nie jest wspaniałe, Linus?",
           "AudioPath": "assets/pl/Robin/163.ogg",
           "TranslationKey": "Events/Mountain:371652:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "Miałbyś bieżącą wodę, ciepło, dach nad głową... tak jak wszyscy! Czyż to nie jest wspaniałe, Linus?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s10",
           "DialogueText": "Cooo..?",
           "AudioPath": "assets/pl/Robin/164.ogg",
           "TranslationKey": "Events/Mountain:371652:s10",
-          "PageIndex": 0,
-          "DisplayPattern": "Cooo..?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/371652:s11",
           "DialogueText": "Chyba nigdy nie myślałam o tym w ten sposób... {Portrait:Angry}",
           "AudioPath": "assets/pl/Robin/165.ogg",
           "TranslationKey": "Events/Mountain:371652:s11",
-          "PageIndex": 0,
-          "DisplayPattern": "Chyba nigdy nie myślałam o tym w ten sposób..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Mountain/linusWell:s0",
           "DialogueText": "Ooo... Jaki słodziak... {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/166.ogg",
           "TranslationKey": "Events/Mountain:linusWell:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Ooo... Jaki słodziak..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s0",
           "DialogueText": "Demetrius, nie prosiłam Cię o pomidory. Miałeś kupić jakiś owoc.",
           "AudioPath": "assets/pl/Robin/167.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Demetrius, nie prosiłam Cię o pomidory. Miałeś kupić jakiś owoc."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/25:s1",
           "DialogueText": "Jak normalna osoba prosi o owoc, NIGDY nie ma na myśli pomidorów. Nieważne do czego to naukowcy klasyfikują.",
           "AudioPath": "assets/pl/Robin/168.ogg",
           "TranslationKey": "Events/ScienceHouse:25:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak normalna osoba prosi o owoc, NIGDY nie ma na myśli pomidorów. Nieważne do czego to naukowcy klasyfikują."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s0",
@@ -1376,7 +1225,7 @@
           "AudioPath": "assets/pl/Robin/169.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć . Właśnie czyściłam moją piłę."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s1",
@@ -1384,95 +1233,84 @@
           "AudioPath": "assets/pl/Robin/170.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Znasz się może na stolarce, ?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s2",
           "DialogueText": "Tak",
           "AudioPath": "assets/pl/Robin/171.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s3",
           "DialogueText": "Nie",
           "AudioPath": "assets/pl/Robin/172.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s4",
           "DialogueText": "Przyjaźnimy się na tyle dobrze, że mogę Ci pokazać parę stolarskich sztuczek! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/173.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Przyjaźnimy się na tyle dobrze, że mogę Ci pokazać parę stolarskich sztuczek!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s5",
           "DialogueText": "Chodź, pokażę Ci te plany.",
           "AudioPath": "assets/pl/Robin/174.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Chodź, pokażę Ci te plany."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s6",
           "DialogueText": "Umiesz wytworzyć 'Blok Fletu' i 'Blok bębna'",
           "AudioPath": "assets/pl/Robin/175.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Umiesz wytworzyć 'Blok Fletu' i 'Blok bębna'"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s7",
           "DialogueText": "Możesz zrobić z tym coś fajnego na swojej farmie.",
           "AudioPath": "assets/pl/Robin/176.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Możesz zrobić z tym coś fajnego na swojej farmie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/33:s8",
           "DialogueText": "Miło jest udekorować swój dom rzeczami zrobionymi własnoręcznie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/177.ogg",
           "TranslationKey": "Events/ScienceHouse:33:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Miło jest udekorować swój dom rzeczami zrobionymi własnoręcznie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s0",
           "DialogueText": "Voila! Moje najnowsze dzieło. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/178.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Voila! Moje najnowsze dzieło."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s1",
           "DialogueText": "To luksusowe łóżko z baldachimem, wykonane z najlepszego lokalnego twardego drewna.",
           "AudioPath": "assets/pl/Robin/179.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "To luksusowe łóżko z baldachimem, wykonane z najlepszego lokalnego twardego drewna."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s2",
           "DialogueText": "Nazywa się to 'piękno', koleżko... Wiesz, takie coś, co większość ludzi uważa za przyjemne. {Portrait:Custom:6}",
           "AudioPath": "assets/pl/Robin/180.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Nazywa się to 'piękno', koleżko... Wiesz, takie coś, co większość ludzi uważa za przyjemne."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s3",
           "DialogueText": "Czasami się zastanawiam, czy robisz z siebie głupa tylko po to, żeby się ze mną podroczyć? {Portrait:Unique}",
           "AudioPath": "assets/pl/Robin/181.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Czasami się zastanawiam, czy robisz z siebie głupa tylko po to, żeby się ze mną podroczyć?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s4",
@@ -1480,47 +1318,42 @@
           "AudioPath": "assets/pl/Robin/182.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, ... wejdź."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s5",
           "DialogueText": "Patrz na to... To łóżko, które udało mi się zrobić, dzięki temu drewnu od Ciebie.",
           "AudioPath": "assets/pl/Robin/183.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Patrz na to... To łóżko, które udało mi się zrobić, dzięki temu drewnu od Ciebie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s6",
           "DialogueText": "Co o tym myślisz?",
           "AudioPath": "assets/pl/Robin/184.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Co o tym myślisz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s7",
           "DialogueText": "Nieważne. {Portrait:Unique}",
           "AudioPath": "assets/pl/Robin/185.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Nieważne."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s8",
           "DialogueText": "Tak w ogóle... {Portrait:Unique}",
           "AudioPath": "assets/pl/Robin/186.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak w ogóle..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s9",
           "DialogueText": "Skoro mam już prototyp, mogę go zacząć sprzedawać.",
           "AudioPath": "assets/pl/Robin/187.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "Skoro mam już prototyp, mogę go zacząć sprzedawać."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/ScienceHouse/1053978:s10",
@@ -1528,7 +1361,7 @@
           "AudioPath": "assets/pl/Robin/188.ogg",
           "TranslationKey": "Events/ScienceHouse:1053978:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Hej... z pewnością będzie się dobrze komponować w Twoim domku, ! Co powiesz na... 6,000 monet?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SebastianRoom/enterRobin:s0",
@@ -1536,23 +1369,21 @@
           "AudioPath": "assets/pl/Robin/189.ogg",
           "TranslationKey": "Events/SebastianRoom:enterRobin:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Och, cześć ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SebastianRoom/enterRobin:s1",
           "DialogueText": "Sebek, wiem, że nie lubisz gdy tu przychodzę... ale spotkałam w sklepie Abigail i pytała o Ciebie.",
           "AudioPath": "assets/pl/Robin/190.ogg",
           "TranslationKey": "Events/SebastianRoom:enterRobin:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Sebek, wiem, że nie lubisz gdy tu przychodzę... ale spotkałam w sklepie Abigail i pytała o Ciebie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SebastianRoom/enterRobin:s2",
           "DialogueText": "Powiedziałam... ale chyba i tak przyjdzie.",
           "AudioPath": "assets/pl/Robin/191.ogg",
           "TranslationKey": "Events/SebastianRoom:enterRobin:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Powiedziałam... ale chyba i tak przyjdzie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s0",
@@ -1560,23 +1391,21 @@
           "AudioPath": "assets/pl/Robin/192.ogg",
           "TranslationKey": "Events/BusStop:60367:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Witam! Ty pewnie jesteś ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s1",
           "DialogueText": "Jestem Robin, lokalna pani stolarz. Burmistrz Lewis kazał pokazać Ci drogę do Twojego nowego domu. Już tam jest i sprząta wszystko zanim się tam wprowadzisz.",
           "AudioPath": "assets/pl/Robin/193.ogg",
           "TranslationKey": "Events/BusStop:60367:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Jestem Robin, lokalna pani stolarz. Burmistrz Lewis kazał pokazać Ci drogę do Twojego nowego domu. Już tam jest i sprząta wszystko zanim się tam wprowadzisz."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s2",
           "DialogueText": "Farma jest tam, chodź.",
           "AudioPath": "assets/pl/Robin/194.ogg",
           "TranslationKey": "Events/BusStop:60367:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Farma jest tam, chodź."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s3",
@@ -1584,143 +1413,126 @@
           "AudioPath": "assets/pl/Robin/195.ogg",
           "TranslationKey": "Events/BusStop:60367:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Oto '''' Farma."
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s4",
           "DialogueText": "Coś nie tak?",
           "AudioPath": "assets/pl/Robin/196.ogg",
           "TranslationKey": "Events/BusStop:60367:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Coś nie tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s5",
           "DialogueText": "W sumie jest trochę zarośnięta, ale pod tymi gąszczami i gruzem jest wiele hektarów dobrej ziemi!",
           "AudioPath": "assets/pl/Robin/197.ogg",
           "TranslationKey": "Events/BusStop:60367:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "W sumie jest trochę zarośnięta, ale pod tymi gąszczami i gruzem jest wiele hektarów dobrej ziemi!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s6",
           "DialogueText": "Przy lekkim poświęceniu, wysprzątasz to w mgnieniu oka.",
           "AudioPath": "assets/pl/Robin/198.ogg",
           "TranslationKey": "Events/BusStop:60367:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Przy lekkim poświęceniu, wysprzątasz to w mgnieniu oka."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s7",
           "DialogueText": "... I oto jesteśmy, Twój nowy dom. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/199.ogg",
           "TranslationKey": "Events/BusStop:60367:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "... I oto jesteśmy, Twój nowy dom."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s8",
           "DialogueText": "Wiejski? To nie jedyne słowo, którym można go opisać... {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/200.ogg",
           "TranslationKey": "Events/BusStop:60367:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Wiejski? To nie jedyne słowo, którym można go opisać..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s9",
           "DialogueText": "'Kruchy' może być lepszym określeniem. {Portrait:Love}",
           "AudioPath": "assets/pl/Robin/201.ogg",
           "TranslationKey": "Events/BusStop:60367:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "'Kruchy' może być lepszym określeniem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/BusStop/60367:s10",
           "DialogueText": "Hmmph.",
           "AudioPath": "assets/pl/Robin/202.ogg",
           "TranslationKey": "Events/BusStop:60367:s10",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Robin",
           "DialogueText": "Praca przy drewnie jest starożytną tradycją, z której kontynuowania jestem dumna. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/203.ogg",
           "TranslationKey": "Data/Festivals/fall16:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Praca przy drewnie jest starożytną tradycją, z której kontynuowania jestem dumna."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Robin_y2",
           "DialogueText": "Jeśli chcesz opanować drewno, musisz myśleć jak drewno... {Portrait:Neutral}",
           "AudioPath": "assets/pl/Robin/204.ogg",
           "TranslationKey": "Data/Festivals/fall16:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Jeśli chcesz opanować drewno, musisz myśleć jak drewno..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/Robin",
           "DialogueText": "Cóż, zima już za rogiem. To świetny czas na składowanie drewna i kamienia.",
           "AudioPath": "assets/pl/Robin/205.ogg",
           "TranslationKey": "Data/Festivals/fall27:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, zima już za rogiem. To świetny czas na składowanie drewna i kamienia."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/Robin_y2",
           "DialogueText": "Nie możesz już się doczekać? Zima jest tuż za rogiem. {Portrait:Neutral}",
           "AudioPath": "assets/pl/Robin/206.ogg",
           "TranslationKey": "Data/Festivals/fall27:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie możesz już się doczekać? Zima jest tuż za rogiem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Robin",
           "DialogueText": "Wiosna to pracowita pora roku... więc dobrze jest czasami spędzić trochę czasu z przyjaciółmi.",
           "AudioPath": "assets/pl/Robin/207.ogg",
           "TranslationKey": "Data/Festivals/spring13:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Wiosna to pracowita pora roku... więc dobrze jest czasami spędzić trochę czasu z przyjaciółmi."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Robin_y2",
           "DialogueText": "Dobrze jest wyjść znowu na zewnątrz po tak długiej zimie, prawda?",
           "AudioPath": "assets/pl/Robin/208.ogg",
           "TranslationKey": "Data/Festivals/spring13:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobrze jest wyjść znowu na zewnątrz po tak długiej zimie, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Robin",
           "DialogueText": "Ach... Przez te kwiaty powietrze pachnie słodko. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/209.ogg",
           "TranslationKey": "Data/Festivals/spring24:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach... Przez te kwiaty powietrze pachnie słodko."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Robin_y2",
           "DialogueText": "Czy to zapach kwiatów? Czy perfumy Caroline? {Portrait:Neutral}",
           "AudioPath": "assets/pl/Robin/210.ogg",
           "TranslationKey": "Data/Festivals/spring24:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to zapach kwiatów? Czy perfumy Caroline?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Robin",
           "DialogueText": "Ał... Stanąłeś mi na stopę, mój drogi.",
           "AudioPath": "assets/pl/Robin/211.ogg",
           "TranslationKey": "Data/Festivals/summer11:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Ał... Stanąłeś mi na stopę, mój drogi."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Robin_y2",
           "DialogueText": "Demetrius... bo dobrze się bawią!%noturn {Portrait:Angry}",
           "AudioPath": "assets/pl/Robin/212.ogg",
           "TranslationKey": "Data/Festivals/summer11:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Demetrius... bo dobrze się bawią!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Robin",
@@ -1728,31 +1540,28 @@
           "AudioPath": "assets/pl/Robin/213.ogg",
           "TranslationKey": "Data/Festivals/summer28:Robin",
           "PageIndex": 0,
-          "DisplayPattern": "*ziew*... Już pora spania."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Festival/summer28/Robin",
           "DialogueText": "Hej, widzisz tamtą łódkę? Sama ją zrobiłam. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/214.ogg",
           "TranslationKey": "Data/Festivals/summer28:Robin",
-          "PageIndex": 1,
-          "DisplayPattern": "Hej, widzisz tamtą łódkę? Sama ją zrobiłam."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/summer28/Robin_y2",
           "DialogueText": "Każdego roku sprawdzam łódkę i w razie czego ją łatam.",
           "AudioPath": "assets/pl/Robin/215.ogg",
           "TranslationKey": "Data/Festivals/summer28:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Każdego roku sprawdzam łódkę i w razie czego ją łatam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Robin_y2",
           "DialogueText": "Wyobraź sobie jakby zatonęła w trakcie festiwalu... {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/216.ogg",
           "TranslationKey": "Data/Festivals/summer28:Robin_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Wyobraź sobie jakby zatonęła w trakcie festiwalu..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/winter25/Robin",
@@ -1760,111 +1569,98 @@
           "AudioPath": "assets/pl/Robin/217.ogg",
           "TranslationKey": "Data/Festivals/winter25:Robin",
           "PageIndex": 0,
-          "DisplayPattern": "Hejka, . Jeśli potrzebujesz towarzystwa, możesz dołączyć do naszego rodzinnego stołu."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/winter25/Robin_y2",
           "DialogueText": "Cóż... w tym roku mąż mi kupił nową piłę elektryczną... {Portrait:Custom:6}",
           "AudioPath": "assets/pl/Robin/218.ogg",
           "TranslationKey": "Data/Festivals/winter25:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż... w tym roku mąż mi kupił nową piłę elektryczną..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Robin_y2",
           "DialogueText": "Pewnie zapomniał, że kupił mi już taką dwa lata temu! {Portrait:Custom:6}",
           "AudioPath": "assets/pl/Robin/219.ogg",
           "TranslationKey": "Data/Festivals/winter25:Robin_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Pewnie zapomniał, że kupił mi już taką dwa lata temu!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/winter8/Robin",
           "DialogueText": "Wybacz, ale rzeźbienie w lodzie wymaga skupienia!",
           "AudioPath": "assets/pl/Robin/220.ogg",
           "TranslationKey": "Data/Festivals/winter8:Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, ale rzeźbienie w lodzie wymaga skupienia!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/Robin_y2",
           "DialogueText": "Rzeźbienie w lodzie jest dla mnie satysfakcjonującym wyzwaniem. To materiał, do którego nie jestem przyzwyczajona!",
           "AudioPath": "assets/pl/Robin/221.ogg",
           "TranslationKey": "Data/Festivals/winter8:Robin_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Rzeźbienie w lodzie jest dla mnie satysfakcjonującym wyzwaniem. To materiał, do którego nie jestem przyzwyczajona!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Robin:s0",
           "DialogueText": "To dla mnie? Moje ulubione!!",
           "AudioPath": "assets/pl/Robin/222.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Robin:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "To dla mnie? Moje ulubione!!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Robin:s1",
           "DialogueText": "Dzięki! To miłe z Twojej strony!",
           "AudioPath": "assets/pl/Robin/223.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Robin:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzięki! To miłe z Twojej strony!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Robin:s2",
           "DialogueText": "Emm... czemu?",
           "AudioPath": "assets/pl/Robin/224.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Robin:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Emm... czemu?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Robin:s3",
           "DialogueText": "Co do...? To jest okropne!",
           "AudioPath": "assets/pl/Robin/225.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Robin:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Co do...? To jest okropne!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Robin:s4",
           "DialogueText": "Dzięki. Przyda się.",
           "AudioPath": "assets/pl/Robin/226.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Robin:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzięki. Przyda się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_HouseUpgrade_Accepted",
           "DialogueText": "Dziękuję! Zacznę od jutra. Powinnam skończyć gdzieś tak za trzy dni.",
           "AudioPath": "assets/pl/Robin/227.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_HouseUpgrade_Accepted",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję! Zacznę od jutra. Powinnam skończyć gdzieś tak za trzy dni."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_PamUpgrade_Accepted",
           "DialogueText": "To bardzo miłe z Twojej strony! Jutro zacznę nad tym pracować. Powinnam skończyć gdzieś tak za trzy dni.",
           "AudioPath": "assets/pl/Robin/228.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_PamUpgrade_Accepted",
-          "PageIndex": 0,
-          "DisplayPattern": "To bardzo miłe z Twojej strony! Jutro zacznę nad tym pracować. Powinnam skończyć gdzieś tak za trzy dni."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ExtraDialogue/Mines_PlayerKilled_Robin",
           "DialogueText": "... Znalazłam Cię w kopalniach. Prawie Cię pomyliłam z kawałkiem egzotycznego drewna!",
           "AudioPath": "assets/pl/Robin/229.ogg",
           "TranslationKey": "Data/ExtraDialogue:Mines_PlayerKilled_Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "... Znalazłam Cię w kopalniach. Prawie Cię pomyliłam z kawałkiem egzotycznego drewna!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ExtraDialogue/Mines_PlayerKilled_Robin",
           "DialogueText": "Następnym razem uważaj, ok? {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/230.ogg",
           "TranslationKey": "Data/ExtraDialogue:Mines_PlayerKilled_Robin",
-          "PageIndex": 1,
-          "DisplayPattern": "Następnym razem uważaj, ok?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_UpgradeConstruction_Festival",
@@ -1872,7 +1668,7 @@
           "AudioPath": "assets/pl/Robin/231.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_UpgradeConstruction_Festival",
           "PageIndex": 0,
-          "DisplayPattern": "Ok, pojutrze zacznę pracować nad ulepszeniem {1}. Zawsze mam wolne w święta."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_UpgradeConstruction",
@@ -1880,7 +1676,7 @@
           "AudioPath": "assets/pl/Robin/232.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_UpgradeConstruction",
           "PageIndex": 0,
-          "DisplayPattern": "Ok, jutro z rana zacznę pracować nad ulepszeniem {1}!"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_NewConstruction_Festival",
@@ -1888,7 +1684,7 @@
           "AudioPath": "assets/pl/Robin/233.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_NewConstruction_Festival",
           "PageIndex": 0,
-          "DisplayPattern": "Ok, pojutrze zacznę pracować nad budową {0}. Zawsze mam wolne w święta."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_NewConstruction",
@@ -1896,7 +1692,7 @@
           "AudioPath": "assets/pl/Robin/234.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_NewConstruction",
           "PageIndex": 0,
-          "DisplayPattern": "Ok, jutro z rana zacznę pracować nad budową {0}!"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/Robin_Instant",
@@ -1904,31 +1700,28 @@
           "AudioPath": "assets/pl/Robin/235.ogg",
           "TranslationKey": "Data/ExtraDialogue:Robin_Instant",
           "PageIndex": 0,
-          "DisplayPattern": "Ta {0} jest już gotowa, więc nie trzeba nic budować! Wygodne, prawda?"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "MovieReactions/Robin_love_BeforeMovie",
           "DialogueText": "Ostatnio strasznie się nudzę, więc film pełen akcji to jest to, czego szukam.",
           "AudioPath": "assets/pl/Robin/236.ogg",
           "TranslationKey": "Strings/MovieReactions:Robin_love_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Ostatnio strasznie się nudzę, więc film pełen akcji to jest to, czego szukam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Robin_love_AfterMovie",
           "DialogueText": "Jestem bardzo podekscytowana! To było wspaniałe. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/237.ogg",
           "TranslationKey": "Strings/MovieReactions:Robin_love_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Jestem bardzo podekscytowana! To było wspaniałe."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Robin_like_BeforeMovie",
           "DialogueText": "Nie jestem pewna, o czym jest ten film, ale tak szczerze, nie obchodzi mnie to! Dobrze jest wyjść z domu.",
           "AudioPath": "assets/pl/Robin/238.ogg",
           "TranslationKey": "Strings/MovieReactions:Robin_like_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie jestem pewna, o czym jest ten film, ale tak szczerze, nie obchodzi mnie to! Dobrze jest wyjść z domu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Robin_like_AfterMovie",
@@ -1936,7 +1729,7 @@
           "AudioPath": "assets/pl/Robin/239.ogg",
           "TranslationKey": "Strings/MovieReactions:Robin_like_AfterMovie",
           "PageIndex": 0,
-          "DisplayPattern": "Było super, . Dzięki za zaproszenie."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Robin",
@@ -1944,63 +1737,56 @@
           "AudioPath": "assets/pl/Robin/240.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Robin",
           "PageIndex": 0,
-          "DisplayPattern": "Hej . Urządziliśmy sobie pogawędkę. Nie widuje się tych gości zbyt często, mimo że jesteśmy sąsiadami!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Robin",
           "DialogueText": "Hej, sprawdź tę tapetę, którą zrobiłam. Chcesz?",
           "AudioPath": "assets/pl/Robin/241.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Robin",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, sprawdź tę tapetę, którą zrobiłam. Chcesz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_Raining1",
           "DialogueText": "Niezła pogoda, co nie?",
           "AudioPath": "assets/pl/Robin/242.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_Raining1",
-          "PageIndex": 0,
-          "DisplayPattern": "Niezła pogoda, co nie?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_Raining2",
           "DialogueText": "Ale ulewa!",
           "AudioPath": "assets/pl/Robin/243.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_Raining2",
-          "PageIndex": 0,
-          "DisplayPattern": "Ale ulewa!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_NotRaining1",
           "DialogueText": "Hej. Mała przechadzka, co?",
           "AudioPath": "assets/pl/Robin/244.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_NotRaining1",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej. Mała przechadzka, co?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_NotRaining2",
           "DialogueText": "Hej!",
           "AudioPath": "assets/pl/Robin/245.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_NotRaining2",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_Snowing",
           "DialogueText": "Jest tu przyjemnie i ciepło!",
           "AudioPath": "assets/pl/Robin/246.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_Snowing",
-          "PageIndex": 0,
-          "DisplayPattern": "Jest tu przyjemnie i ciepło!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_NotSnowing",
           "DialogueText": "Cześć!",
           "AudioPath": "assets/pl/Robin/247.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_NotSnowing",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_CloseFriends",
@@ -2008,71 +1794,63 @@
           "AudioPath": "assets/pl/Robin/248.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_CloseFriends",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć {0}!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_NotCloseFriends",
           "DialogueText": "Trzeba Ci coś wybudować?",
           "AudioPath": "assets/pl/Robin/249.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_NotCloseFriends",
-          "PageIndex": 0,
-          "DisplayPattern": "Trzeba Ci coś wybudować?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_Greeting",
           "DialogueText": "Witaj!",
           "AudioPath": "assets/pl/Robin/250.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_Greeting",
-          "PageIndex": 0,
-          "DisplayPattern": "Witaj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Robin_RareGreeting",
           "DialogueText": "Lew...? Och...",
           "AudioPath": "assets/pl/Robin/251.ogg",
           "TranslationKey": "Strings/SpeechBubbles:ScienceHouse_Robin_RareGreeting",
-          "PageIndex": 0,
-          "DisplayPattern": "Lew...? Och..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_18.001",
           "DialogueText": "Nie ma się czym martwić, Doktorze. Czuję się jak nigdy dotąd.",
           "AudioPath": "assets/pl/Robin/252.ogg",
           "TranslationKey": "Strings/schedules/Robin:summer_18.001",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie ma się czym martwić, Doktorze. Czuję się jak nigdy dotąd."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_18.000",
           "DialogueText": "Co taka zdrowa osoba tu robi?",
           "AudioPath": "assets/pl/Robin/253.ogg",
           "TranslationKey": "Strings/schedules/Robin:summer_18.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Co taka zdrowa osoba tu robi?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue.000",
           "DialogueText": "Spotykamy się co tydzień, żeby się wzajemnie zachęcać do zdrowego stylu życia.",
           "AudioPath": "assets/pl/Robin/254.ogg",
           "TranslationKey": "Strings/schedules/Robin:Tue.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Spotykamy się co tydzień, żeby się wzajemnie zachęcać do zdrowego stylu życia."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_16.000",
           "DialogueText": "Moją ulubioną rzeczą jest oglądanie tych łodzi. To skrzypienie drewna jest dziwnie przyjemne.",
           "AudioPath": "assets/pl/Robin/255.ogg",
           "TranslationKey": "Strings/schedules/Robin:winter_16.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Moją ulubioną rzeczą jest oglądanie tych łodzi. To skrzypienie drewna jest dziwnie przyjemne."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_100",
           "DialogueText": "Hej, masz moją siekierkę! Co za ulga... Prawie obcięłam sobie palec u stopy inną siekierą. Dziękuję!",
           "AudioPath": "assets/pl/Robin/256.ogg",
           "TranslationKey": "Data/Quests:100",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, masz moją siekierkę! Co za ulga... Prawie obcięłam sobie palec u stopy inną siekierą. Dziękuję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_113",
@@ -2080,71 +1858,63 @@
           "AudioPath": "assets/pl/Robin/257.ogg",
           "TranslationKey": "Data/Quests:113",
           "PageIndex": 0,
-          "DisplayPattern": "Och, masz je! Wiedziałam, że mogłam na Ciebie liczyć, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Quest_113",
           "DialogueText": "Mmhmm... To drewno jest idealne. Właśnie takiego mi było trzeba. Dzięki!",
           "AudioPath": "assets/pl/Robin/258.ogg",
           "TranslationKey": "Data/Quests:113",
-          "PageIndex": 1,
-          "DisplayPattern": "Mmhmm... To drewno jest idealne. Właśnie takiego mi było trzeba. Dzięki!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "NPC.cs.3926",
           "DialogueText": "Cierpliwości, przede mną jeszcze dużo roboty.",
           "AudioPath": "assets/pl/Robin/259.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3926",
-          "PageIndex": 0,
-          "DisplayPattern": "Cierpliwości, przede mną jeszcze dużo roboty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3927",
           "DialogueText": "Twój dom powinien być gotowy jutro.",
           "AudioPath": "assets/pl/Robin/260.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3927",
-          "PageIndex": 0,
-          "DisplayPattern": "Twój dom powinien być gotowy jutro."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Carpenter_UpgradeHouse1",
           "DialogueText": "Mogę powiększyć Twój dom i dodać kuchnię. Będzie to kosztować 10,000 monet i potrzebuję jeszcze 450 drewna. Co o tym myślisz?",
           "AudioPath": "assets/pl/Robin/261.ogg",
           "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse1",
-          "PageIndex": 0,
-          "DisplayPattern": "Mogę powiększyć Twój dom i dodać kuchnię. Będzie to kosztować 10,000 monet i potrzebuję jeszcze 450 drewna. Co o tym myślisz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Carpenter_UpgradeHouse2",
           "DialogueText": "Mogę powiększyć Twój dom i dodać kojec. Będzie to kosztować 65,000 monet i potrzebuję jeszcze 100 twardego drewna. Co o tym myślisz?",
           "AudioPath": "assets/pl/Robin/262.ogg",
           "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse2",
-          "PageIndex": 0,
-          "DisplayPattern": "Mogę powiększyć Twój dom i dodać kojec. Będzie to kosztować 65,000 monet i potrzebuję jeszcze 100 twardego drewna. Co o tym myślisz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Carpenter_UpgradeHouse3",
           "DialogueText": "Mogę dodać piwnicę do twojego domu. Dzięki piwnicy możesz sprawić, że niektóre produkty będą się starzeć: na przykład wino lub sery. To Cię będzie kosztować 100,000 monet. Co o tym myślisz?",
           "AudioPath": "assets/pl/Robin/263.ogg",
           "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse3",
-          "PageIndex": 0,
-          "DisplayPattern": "Mogę dodać piwnicę do twojego domu. Dzięki piwnicy możesz sprawić, że niektóre produkty będą się starzeć: na przykład wino lub sery. To Cię będzie kosztować 100,000 monet. Co o tym myślisz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Carpenter_CommunityUpgrade1",
           "DialogueText": "... Co to? Chcesz wybudować dom dla Pam? To wspaniały pomysł! Będę potrzebowała 950 drewna i 500,000 monet...",
           "AudioPath": "assets/pl/Robin/264.ogg",
           "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_CommunityUpgrade1",
-          "PageIndex": 0,
-          "DisplayPattern": "... Co to? Chcesz wybudować dom dla Pam? To wspaniały pomysł! Będę potrzebowała 950 drewna i 500,000 monet..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ScienceHouse_Carpenter_CommunityUpgrade2",
           "DialogueText": "... Co? Chcesz, żebym dodała kilka skrótów w dolinie? Pewnie, da się zrobić! Będę potrzebowała tylko 300,000 monet...",
           "AudioPath": "assets/pl/Robin/265.ogg",
           "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_CommunityUpgrade2",
-          "PageIndex": 0,
-          "DisplayPattern": "... Co? Chcesz, żebym dodała kilka skrótów w dolinie? Pewnie, da się zrobić! Będę potrzebowała tylko 300,000 monet..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Phone_Robin_Workout",
@@ -2152,7 +1922,7 @@
           "AudioPath": "assets/pl/Robin/266.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Workout",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, tu Robin. Jestem poza domem na cotygodniowym aerobiku... wybacz! *biip*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Robin_Working_OneDay",
@@ -2160,7 +1930,7 @@
           "AudioPath": "assets/pl/Robin/267.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Working_OneDay",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, tu Robin. Będę poza domem do jutra, kończę pewien projekt. *biip*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Robin_Working",
@@ -2168,7 +1938,7 @@
           "AudioPath": "assets/pl/Robin/268.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Working",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, tu Robin. Jestem zajęta projektem na parę dni.. *biip*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Robin_Festival",
@@ -2176,7 +1946,7 @@
           "AudioPath": "assets/pl/Robin/269.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Festival",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, tu Robin. Dzisiaj mam wolne. Przepraszam za niedogodności! *biip*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Robin_Open",
@@ -2184,7 +1954,7 @@
           "AudioPath": "assets/pl/Robin/270.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Open",
           "PageIndex": 0,
-          "DisplayPattern": "Halo? Hej! Tak, jeszcze pracuję... przyjdź przed 17 jeśli czegoś potrzebujesz! *klik*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Robin_Open_Rare",
@@ -2192,7 +1962,7 @@
           "AudioPath": "assets/pl/Robin/271.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Open_Rare",
           "PageIndex": 0,
-          "DisplayPattern": "Halo? O, cześć ! *HUK*... Em, momencik... (Stłumiony Głos: Kochanie, Mógłbyś zamknąć drzwi? Pracuję.)... Przepraszam! Tak, dzisiaj pracuję do 17. Do zobaczenia! *klik*"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Robin_Closed",
@@ -2200,39 +1970,35 @@
           "AudioPath": "assets/pl/Robin/272.ogg",
           "TranslationKey": "Strings/Characters:Phone_Robin_Closed",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, tu Robin. Moje godziny pracy są od 9 do 17. Proszę przyjść w tym czasie, jeśli czegoś potrzebujesz! *biip*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "NPC.cs.4293",
           "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/273.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4294",
           "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/274.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
-          "PageIndex": 0,
-          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Town_DumpsterDiveComment_Adult",
           "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/275.ogg",
           "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, przestań! Fuj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4275",
           "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
           "AudioPath": "assets/pl/Robin/276.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
-          "PageIndex": 0,
-          "DisplayPattern": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4277",
@@ -2240,7 +2006,6 @@
           "AudioPath": "assets/pl/Robin/277_male.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
           "PageIndex": 0,
-          "DisplayPattern": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
           "GenderVariant": "male"
         },
         {
@@ -2249,7 +2014,6 @@
           "AudioPath": "assets/pl/Robin/278_female.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
           "PageIndex": 1,
-          "DisplayPattern": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
           "GenderVariant": "female"
         },
         {
@@ -2257,88 +2021,77 @@
           "DialogueText": "Och... To na moje urodziny?... Dzięki. {Portrait:Sad}",
           "AudioPath": "assets/pl/Robin/279.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... To na moje urodziny?... Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4281",
           "DialogueText": "Och, urodzinowy prezent! Dzięki.",
           "AudioPath": "assets/pl/Robin/280.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, urodzinowy prezent! Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Reject",
           "DialogueText": "Wybacz, nie mam ochoty iść na film...",
           "AudioPath": "assets/pl/Robin/281.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Reject",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_AlreadySeen",
           "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
           "AudioPath": "assets/pl/Robin/282.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
           "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
           "AudioPath": "assets/pl/Robin/283.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3956",
           "DialogueText": "Umm... nie wydaje mi się.",
           "AudioPath": "assets/pl/Robin/284.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
-          "PageIndex": 0,
-          "DisplayPattern": "Umm... nie wydaje mi się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3957",
           "DialogueText": "Czy to żart? Nie łapię.",
           "AudioPath": "assets/pl/Robin/285.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to żart? Nie łapię."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Shop_Carpenter",
           "DialogueText": "Potrzeba materiałów do konstrukcji? A może trzeba Ci mebli?",
           "AudioPath": "assets/pl/Robin/286.ogg",
           "TranslationKey": "Data/Shops:Carpenter:Default",
-          "PageIndex": 0,
-          "DisplayPattern": "Potrzeba materiałów do konstrukcji? A może trzeba Ci mebli?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Shop_Carpenter",
           "DialogueText": "Mam wiele własnoręcznie robionych mebli.",
           "AudioPath": "assets/pl/Robin/287.ogg",
           "TranslationKey": "Data/Shops:Carpenter:Default",
-          "PageIndex": 1,
-          "DisplayPattern": "Mam wiele własnoręcznie robionych mebli."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Shop_Carpenter",
           "DialogueText": "Mam dobrej jakości meble na sprzedaż.",
           "AudioPath": "assets/pl/Robin/288.ogg",
           "TranslationKey": "Data/Shops:Carpenter:Default",
-          "PageIndex": 2,
-          "DisplayPattern": "Mam dobrej jakości meble na sprzedaż."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Shop_Carpenter",
           "DialogueText": "Masz na sprzedaż jakieś materiały budowlane?",
           "AudioPath": "assets/pl/Robin/289.ogg",
           "TranslationKey": "Data/Shops:Carpenter:Default",
-          "PageIndex": 3,
-          "DisplayPattern": "Masz na sprzedaż jakieś materiały budowlane?"
+          "PageIndex": 3
         }
       ]
     }

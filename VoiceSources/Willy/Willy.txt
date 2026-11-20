@@ -56,6 +56,7 @@ AudioName: 14.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)336
 DialogueText: *gryz*... Tak, prawdziwe złoto. Heh! Ale prezent! {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 15.ogg
 --------------------------------------------------
 DialogueFrom: married
@@ -116,10 +117,12 @@ AudioName: 29.ogg
 --------------------------------------------------
 DialogueFrom: fishCaught_682
 DialogueText: *niuch* *niuch*... Coś mi mówi, że wędkowałeś w ściekach, młodzieńcze.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 30_male.ogg
 --------------------------------------------------
 DialogueFrom: fishCaught_682
 DialogueText: *niuch* *niuch*... Coś mi mówi, że wędkowałaś w ściekach, panienko.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 31_female.ogg
 --------------------------------------------------
 DialogueFrom: fishCaught_682
@@ -128,14 +131,17 @@ AudioName: 32.ogg
 --------------------------------------------------
 DialogueFrom: FullCrabPond
 DialogueText: *Niuch*... Ach... Stary i znajomy zapach. Hodujesz kraby, prawda?
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 33.ogg
 --------------------------------------------------
 DialogueFrom: FullCrabPond
 DialogueText: Widzę, że mamy takie same hobby, {Farmer_Name}. Hah! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 34.ogg
 --------------------------------------------------
 DialogueFrom: FullCrabPond
 DialogueText: Proszę, weź to. Znalazłem to na plaży... Czekałem z tym na specjalną okazję. Niecodziennie spotyka się kolejnego entuzjastę krabów! [797]
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 35.ogg
 --------------------------------------------------
 DialogueFrom: MovieInvitation
@@ -244,6 +250,7 @@ AudioName: 61.ogg
 --------------------------------------------------
 DialogueFrom: Thu
 DialogueText: *mamrotanie*... Hę? Powiedziałbym Ci o moich przemyśleniach, ale to tajemnica wędkarska.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 62.ogg
 --------------------------------------------------
 DialogueFrom: Thu2
@@ -292,6 +299,7 @@ AudioName: 73.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
 DialogueText: Hej, to mój skipper, {Farmer_Name}! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 74.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
@@ -532,6 +540,7 @@ AudioName: 133.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/404798:s0
 DialogueText: Cześć, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 134.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/404798:s1
@@ -756,6 +765,7 @@ AudioName: 189.ogg
 --------------------------------------------------
 DialogueFrom: Event/IslandSouth/6497428:s6
 DialogueText: Co o tym myślisz, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 190.ogg
 --------------------------------------------------
 DialogueFrom: Event/IslandWest/6497423:s0
@@ -768,6 +778,7 @@ AudioName: 192.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall16/Willy
 DialogueText: Przygotowujesz wystawę pracy, {Farmer_Name}? To szansa, żeby pokazać wszystkie dobre produkty z ''%farm'' farmy!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). %farm / {Farm_Name} – nazwa farmy gracza (wstawia gra).
 AudioName: 193.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall16/Willy_y2
@@ -808,6 +819,7 @@ AudioName: 202.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Willy
 DialogueText: Uszanowanko, {Farmer_Name}. Próbujesz trochę odetchnąć od tego całego gwaru?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 203.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Willy
@@ -844,10 +856,12 @@ AudioName: 211.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter25/Willy_y2
 DialogueText: Jestem prostym człowiekiem, {Farmer_Name}... Jestem wdzięczny za solidny dach nad głową i gorącą puszkę fasoli na śniadanie'! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 212.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter8/Willy
 DialogueText: Hej, {Farmer_Name}. Bierzesz udział w zawodach?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 213.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter8/Willy
@@ -880,6 +894,7 @@ AudioName: 220.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Willy:s3
 DialogueText: ... *niuch*... Chyba to wrzucę do pomyj.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 221.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Willy:s4
@@ -888,14 +903,17 @@ AudioName: 222.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityHigh_Willy
 DialogueText: Hej, {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 223.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityHigh_Willy
 DialogueText: Willy miał wczoraj na sprzedaż {1} {2}. Wyglądało na świeże!
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 224.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityHigh_Willy
 DialogueText: Po ugotowaniu cały dam pachniał {3}.. Hit! {Portrait:Happy}
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 225.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityHigh_Willy
@@ -908,14 +926,17 @@ AudioName: 227.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityLow_Willy
 DialogueText: Hej, {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 228.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityLow_Willy
 DialogueText: Willy miał wczoraj na sprzedaż {1} {2}. Powiedział, że kupił ją od Ciebie!
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 229.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityLow_Willy
 DialogueText: Obiad był z tego... em, uch... Przepełnił dom {3} smrodem. Nawet nie chcę wiedzieć skąd to masz... {Portrait:Sad}
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 230.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_1_QualityLow_Willy
@@ -924,6 +945,7 @@ AudioName: 231.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Willy
 DialogueText: Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 232.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Willy
@@ -932,6 +954,7 @@ AudioName: 233.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi_Willy
 DialogueText: Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 234.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi_Willy
@@ -940,6 +963,7 @@ AudioName: 235.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityLow_Willy
 DialogueText: Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 236.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityLow_Willy
@@ -948,22 +972,27 @@ AudioName: 237.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_3_QualityLow_Rude_Willy
 DialogueText: U Williego był {1} {2} na 'pomyjowej' promocji za jedyne {3} monet.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 238.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_3_QualityLow_Rude_Willy
 DialogueText: To było {4}! Nie dziwota, że Willy praktycznie rozdawał ten {5}...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 239.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_3_QualityHigh_Rude_Willy
 DialogueText: U Williego był {1} {2} na promocji za jedyne {3} monet.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 240.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_3_QualityHigh_Rude_Willy
 DialogueText: W sumie było {4}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 241.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_3_NonRude_Willy
 DialogueText: Wczoraj na zakupach udało mi się wyhaczyć {1} {2} na promocji za jedyne {3} monet.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 242.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_3_NonRude_Willy
@@ -972,6 +1001,7 @@ AudioName: 243.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_4_Willy
 DialogueText: Wczoraj Willy mi sprzedał {1} {2}, które od Ciebie kupił.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 244.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_4_Willy
@@ -980,6 +1010,7 @@ AudioName: 245.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy
 DialogueText: Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 246.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy
@@ -988,6 +1019,7 @@ AudioName: 247.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy
 DialogueText: Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 248.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy

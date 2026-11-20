@@ -14,7 +14,7 @@
           "AudioPath": "assets/pl/Gil/1.ogg",
           "TranslationKey": "Characters/Dialogue/Gil:Snoring",
           "PageIndex": 0,
-          "DisplayPattern": "...*chrapie*..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "ComeBackLater",
@@ -22,7 +22,6 @@
           "AudioPath": "assets/pl/Gil/2_male.ogg",
           "TranslationKey": "Characters/Dialogue/Gil:ComeBackLater",
           "PageIndex": 0,
-          "DisplayPattern": "... Wróć, gdy coś osiągniesz, smyku.",
           "GenderVariant": "male"
         },
         {
@@ -31,7 +30,6 @@
           "AudioPath": "assets/pl/Gil/3_female.ogg",
           "TranslationKey": "Characters/Dialogue/Gil:ComeBackLater",
           "PageIndex": 1,
-          "DisplayPattern": "Panienka wróci, gdy coś osiągnie.",
           "GenderVariant": "female"
         },
         {
@@ -39,8 +37,7 @@
           "DialogueText": "Nastał nowy dzień... wróć gdy się wykażesz w pieczarze.",
           "AudioPath": "assets/pl/Gil/4.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_NoRating",
-          "PageIndex": 0,
-          "DisplayPattern": "Nastał nowy dzień... wróć gdy się wykażesz w pieczarze."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_NextYear",
@@ -48,7 +45,7 @@
           "AudioPath": "assets/pl/Gil/5.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_NextYear",
           "PageIndex": 0,
-          "DisplayPattern": "To tyle na ten rok... *chrapie*..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_ComeBack",
@@ -56,7 +53,7 @@
           "AudioPath": "assets/pl/Gil/6.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_ComeBack",
           "PageIndex": 0,
-          "DisplayPattern": "To tyle na dzisiaj. Wróć jutro, jeśli się odważysz... *chrapie*..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_SubmitRating",
@@ -64,7 +61,6 @@
           "AudioPath": "assets/pl/Gil/7_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_SubmitRating",
           "PageIndex": 0,
-          "DisplayPattern": "Pokazać Gilowi ile udało Ci się zdobyć jajek?",
           "GenderVariant": "male"
         },
         {
@@ -73,7 +69,7 @@
           "AudioPath": "assets/pl/Gil/8_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_SubmitRating",
           "PageIndex": 1,
-          "DisplayPattern": "(Zdobyte jajka {0})",
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.",
           "GenderVariant": "female"
         },
         {
@@ -82,7 +78,7 @@
           "AudioPath": "assets/pl/Gil/9.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_1to4",
           "PageIndex": 0,
-          "DisplayPattern": "...{0}? Ha ha ha ha.... dobrze, dzidziusiu. Oto Twoja nagródka... a teraz idź pobawić się z innymi dzieciaczkami."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_5to9",
@@ -90,7 +86,7 @@
           "AudioPath": "assets/pl/Gil/10_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_5to9",
           "PageIndex": 0,
-          "DisplayPattern": "...{0}? Nie jest to zbyt imponujące, ale przynajmniej się odważyłeś. Oto małe co nieco.",
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.",
           "GenderVariant": "male"
         },
         {
@@ -99,7 +95,7 @@
           "AudioPath": "assets/pl/Gil/11_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_5to9",
           "PageIndex": 1,
-          "DisplayPattern": "...{0}? Nie jest to zbyt imponujące, ale przynajmniej się odważyłaś. Oto małe co nieco.",
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.",
           "GenderVariant": "female"
         },
         {
@@ -108,7 +104,7 @@
           "AudioPath": "assets/pl/Gil/12.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_10to14",
           "PageIndex": 0,
-          "DisplayPattern": "{0}, co? Nie najgorzej... oczywiście jak byłem w Twoim wieku to zdobywałem dwa razy tyle. Zardzewiałym Mieczem i na czczo!"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_15to19",
@@ -116,7 +112,7 @@
           "AudioPath": "assets/pl/Gil/13.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_15to19",
           "PageIndex": 0,
-          "DisplayPattern": "{0}... Nie jest źle. Takich numerów szukamy w Gildii Awanturników. Oto Twoja nagroda."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_20to24",
@@ -124,7 +120,7 @@
           "AudioPath": "assets/pl/Gil/14.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_20to24",
           "PageIndex": 0,
-          "DisplayPattern": "{0}? Dobra, jestem pod wrażeniem..."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_20to24",
@@ -132,7 +128,7 @@
           "AudioPath": "assets/pl/Gil/15.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_20to24",
           "PageIndex": 1,
-          "DisplayPattern": "Hej, Marlon! Słuchaj tu... {0} jajek na dzień dzisiejszy!"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_25",
@@ -140,15 +136,14 @@
           "AudioPath": "assets/pl/Gil/16.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_25",
           "PageIndex": 0,
-          "DisplayPattern": "{0}!?!"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_25",
           "DialogueText": "No niech mnie... Mamy tu prawdziwego łowce Jajek Calico!",
           "AudioPath": "assets/pl/Gil/17.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_25",
-          "PageIndex": 1,
-          "DisplayPattern": "No niech mnie... Mamy tu prawdziwego łowce Jajek Calico!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_50",
@@ -156,39 +151,35 @@
           "AudioPath": "assets/pl/Gil/18.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_50",
           "PageIndex": 0,
-          "DisplayPattern": "{0}!?!?!?!?!?!?!?"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Gil_Rating_1000",
           "DialogueText": "Słyszysz głos w swojej podświadomości: 'Pokazywanie ile jajek zdobyło się używając oszustw nie byłoby honorowe!'",
           "AudioPath": "assets/pl/Gil/19.ogg",
           "TranslationKey": "Strings/1_6_Strings:Gil_Rating_1000",
-          "PageIndex": 0,
-          "DisplayPattern": "Słyszysz głos w swojej podświadomości: 'Pokazywanie ile jajek zdobyło się używając oszustw nie byłoby honorowe!'"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/Locations/Gil_Telephone",
           "DialogueText": "Hej. 150 Dusz Magmy, prawda? Jestem pod wrażeniem.",
           "AudioPath": "assets/pl/Gil/20.ogg",
           "TranslationKey": "Strings/Locations:Gil_Telephone",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej. 150 Dusz Magmy, prawda? Jestem pod wrażeniem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/Locations/Gil_Telephone",
           "DialogueText": "Wiesz co... dam Ci numer do Marlona. Nie lubi, gdy go rozdaję, ale zasługujesz na niego.",
           "AudioPath": "assets/pl/Gil/21.ogg",
           "TranslationKey": "Strings/Locations:Gil_Telephone",
-          "PageIndex": 1,
-          "DisplayPattern": "Wiesz co... dam Ci numer do Marlona. Nie lubi, gdy go rozdaję, ale zasługujesz na niego."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Strings/Locations/Gil_Telephone",
           "DialogueText": "Jeśli będzie Ci trzeba Odzyskiwania Przedmiotów, ale nie będzie Ci się chciało tu latać... Zadzwoń. Dobre, nie?",
           "AudioPath": "assets/pl/Gil/22.ogg",
           "TranslationKey": "Strings/Locations:Gil_Telephone",
-          "PageIndex": 2,
-          "DisplayPattern": "Jeśli będzie Ci trzeba Odzyskiwania Przedmiotów, ale nie będzie Ci się chciało tu latać... Zadzwoń. Dobre, nie?"
+          "PageIndex": 2
         }
       ]
     }

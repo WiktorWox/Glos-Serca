@@ -12,6 +12,7 @@ AudioName: 79_female.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris (strona 3)  [kino (poczekalnia)]
 DialogueText: Hee...? Zwrot z inwestycji? Cóż to trudne, wiesz... może to trochę potrwać, rozumiesz... *bełkot* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 80.ogg
 --------------------------------------------------
 
@@ -35,5 +36,6 @@ AudioName: 84.ogg
 --------------------------------------------------
 DialogueFrom: Data/ExtraDialogue:Morris_BuyMovieTheater  [pytanie / zdanie przed pytaniem]
 DialogueText: Będziemy mogli to zrobić za niewielką sumkę w wysokości... *kaszel*... 500,000 monet... {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 85.ogg
 --------------------------------------------------

@@ -1,5 +1,6 @@
 DialogueFrom: Introduction
 DialogueText: Witaj! Ty musisz być {Farmer_Name}, nowy farmer. Jestem Caroline.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 1.ogg
 --------------------------------------------------
 DialogueFrom: Introduction
@@ -116,6 +117,7 @@ AudioName: 29.ogg
 --------------------------------------------------
 DialogueFrom: Resort
 DialogueText: Cześć {Farmer_Name}. Masz zamiar tu odpocząć, czy pracować?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 30.ogg
 --------------------------------------------------
 DialogueFrom: Mon
@@ -124,6 +126,7 @@ AudioName: 31.ogg
 --------------------------------------------------
 DialogueFrom: Mon_inlaw_Abigail
 DialogueText: Cześć, {Farmer_Name}. Cieszysz się z życia w związku? Mam nadzieję, że tak!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 32.ogg
 --------------------------------------------------
 DialogueFrom: Mon8
@@ -400,6 +403,7 @@ AudioName: 100.ogg
 --------------------------------------------------
 DialogueFrom: Event/Sunroom/719926:s0
 DialogueText: O, hej! Dzień dobry, {Farmer_Name}. Cieszę się, że Cię widzę...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 101.ogg
 --------------------------------------------------
 DialogueFrom: Event/Sunroom/719926:s1
@@ -540,14 +544,17 @@ AudioName: 135.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter8/Caroline
 DialogueText: Jak Ci mija zima, {Farmer_Name}? {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 136.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter8/Caroline_y2
 DialogueText: Cześć, {Farmer_Name}. Masz zamiar odpocząć od swoich farmerskich obowiązków tej zimy? {Portrait:Neutral}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 137.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Caroline:s0
 DialogueText: Och, {Farmer_Name}... rozpieszczasz mnie! Uwielbiam to!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 138.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Caroline:s1
@@ -568,6 +575,7 @@ AudioName: 142.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityLow
 DialogueText: Och, {Farmer_Name}... To takie żenujące. Wyrzuciłam jedno z {2}, które mamy od Ciebie na kompost. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 143.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityLow
@@ -576,6 +584,7 @@ AudioName: 144.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityHigh
 DialogueText: Och, {Farmer_Name}... To takie żenujące. Wyrzuciłam jedno z {2} które mamy od Ciebie na kompost. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 145.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Caroline_QualityHigh
@@ -604,6 +613,7 @@ AudioName: 151.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Caroline_like_BeforeMovie
 DialogueText: '{0}'... Nie mam pojęcia, o czym to jest! Mam nadzieję, że nie jest brutalny.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 152.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Caroline_like_AfterMovie

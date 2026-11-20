@@ -24,10 +24,12 @@ AudioName: 582.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Abigail:marriage_Mon.001  [plan dnia]
 DialogueText: Hej, {Farmer_Name}. Lubię tu odpoczywać... Tak tu spokojnie.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 583.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Abigail:marriage_Fri.000  [plan dnia]
 DialogueText: Co tam, {Farmer_Name}? Spędzam trochę czasu z mamą.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 584.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Abigail:marriage_Mon.000  [plan dnia]
@@ -48,5 +50,6 @@ AudioName: 588.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:128  [zakończenie zadania]
 DialogueText: Cóż, dziękuję za przyniesienie go do mnie, {Farmer_Name}. Mama nigdy się nie skapnie... {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 589.ogg
 --------------------------------------------------

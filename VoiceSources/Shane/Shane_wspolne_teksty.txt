@@ -112,6 +112,7 @@ AudioName: 495.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3972 (strona 2)  [wisior syreny / oświadczyny]
 DialogueText: {Farmer_Name}... Wybacz, ale nie. Nie chcę się z Tobą teraz wiązać. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 496.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3973  [wisior syreny / oświadczyny]
@@ -156,6 +157,7 @@ AudioName: 506.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked3  [okrzyk w dymku nad głową]
 DialogueText: #!*#%*!
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 507.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked4  [okrzyk w dymku nad głową]
@@ -215,6 +217,7 @@ AudioName: 520.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1761  [wydarzenie / inne]
 DialogueText: ... Masz rację. Jas... Ugh, Boże... Jestem okropną, *czkawka*... arogancką osobą. {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 521.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1761 (strona 2)  [wydarzenie / inne]
@@ -223,6 +226,7 @@ AudioName: 522.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1763  [wydarzenie / inne]
 DialogueText: Yoba...? {Farmer_Name}, nie rozumiesz, że jestem ateistą? Ugh... {Portrait:Custom:7}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 523.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1764 (strona 2)  [wydarzenie / inne]

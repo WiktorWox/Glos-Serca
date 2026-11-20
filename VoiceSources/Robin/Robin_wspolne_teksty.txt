@@ -32,30 +32,37 @@ AudioName: 265.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Workout  [telefon]
 DialogueText: Hej, tu Robin. Jestem poza domem na cotygodniowym aerobiku... wybacz! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 266.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Working_OneDay  [telefon]
 DialogueText: Hej, tu Robin. Będę poza domem do jutra, kończę pewien projekt. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 267.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Working  [telefon]
 DialogueText: Hej, tu Robin. Jestem zajęta projektem na parę dni.. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 268.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Festival  [telefon]
 DialogueText: Hej, tu Robin. Dzisiaj mam wolne. Przepraszam za niedogodności! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 269.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Open  [telefon]
 DialogueText: Halo? Hej! Tak, jeszcze pracuję... przyjdź przed 17 jeśli czegoś potrzebujesz! *klik* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 270.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Open_Rare  [telefon]
 DialogueText: Halo? O, cześć {Farmer_Name}! *HUK*... Em, momencik... (Stłumiony Głos: Kochanie, Mógłbyś zamknąć drzwi? Pracuję.)... Przepraszam! Tak, dzisiaj pracuję do 17. Do zobaczenia! *klik*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 271.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Robin_Closed  [telefon]
 DialogueText: Hej, tu Robin. Moje godziny pracy są od 9 do 17. Proszę przyjść w tym czasie, jeśli czegoś potrzebujesz! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 272.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]

@@ -64,6 +64,7 @@ Kontrola po naprawie: każde zdanie przed pytaniem i każde pytanie z plików di
 
 - Generator: `RxStripTokens` wymaga `%` i zna `%year`; `RxLeadingNarr` nie zdejmuje `%` sprzed znacznika gry. Przeliczone 331 wzorce i 11 tekstów dla aktorów (z nich nagrane: Abigail 377, Leah 286, Shane 171 – aktor mógł przeczytać „kid1” dosłownie).
 - Odtwarzanie: kwestie ze zmiennymi (imię gracza, `%farm`, `%book`, `{0}`…) dopasowuje wzorzec-regex zbudowany z tekstu dla aktora (`Class/ModEntry.TemplateMatch.cs`), w dialogach, wydarzeniach, dymkach, okienku sklepu i pytaniach.
+- Od 20 listopada (później tego dnia) mod nie używa już `DisplayPattern`: dopasowanie buduje z `DialogueText` (szczegóły w `docs/propozycje-usprawnien.md`, sekcja 5).
 - Dopasowanie przybliżone wyłączone domyślnie (`FuzzyMatching` w config.json); w trybie deweloperskim log `[V2-NOMATCH]` z najbliższym wpisem.
 - Klucz tłumaczenia z gry (`Characters\Dialogue\…`) jest ujednolicany do zapisu paczek, więc ścieżka po kluczu działa; numer strony z gry jest brany tylko, gdy gra i paczka mają tyle samo stron.
 

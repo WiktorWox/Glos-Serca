@@ -24,10 +24,12 @@ AudioName: 6.ogg
 --------------------------------------------------
 DialogueFrom: GreenRain_2
 DialogueText: Jest to poniekąd pocieszające, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 7.ogg
 --------------------------------------------------
 DialogueFrom: Resort_Entering
 DialogueText: Hej, {Farmer_Name}. Dobrze Cię widzieć.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 8.ogg
 --------------------------------------------------
 DialogueFrom: Resort_Leaving
@@ -88,6 +90,7 @@ AudioName: 22.ogg
 --------------------------------------------------
 DialogueFrom: accept_864
 DialogueText: On... walczyliśmy razem na wojnie, {Farmer_Name}. Był dla mnie jak brat.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 23.ogg
 --------------------------------------------------
 DialogueFrom: accept_864
@@ -184,6 +187,7 @@ AudioName: 46.ogg
 --------------------------------------------------
 DialogueFrom: Thu_inlaw_Sam
 DialogueText: Witaj, {Farmer_Name}. Jak tam po ślubie?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 47.ogg
 --------------------------------------------------
 DialogueFrom: Fri
@@ -236,6 +240,7 @@ AudioName: 59.ogg
 --------------------------------------------------
 DialogueFrom: event_popcorn2
 DialogueText: Masz rację, {Farmer_Name}. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 60.ogg
 --------------------------------------------------
 DialogueFrom: event_popcorn3
@@ -252,6 +257,7 @@ AudioName: 63.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s0
 DialogueText: Cześć {Farmer_Name}. Proszę, zapraszam.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 64.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s1
@@ -324,10 +330,12 @@ AudioName: 81.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall16/Kent_y2
 DialogueText: *heh* Mój syn ma cela. Ciekawe czy ma to po mnie. {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 82.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Kent
 DialogueText: Hej, {Farmer_Name}. Dobry wieczór?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 83.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Kent_y2
@@ -344,6 +352,7 @@ AudioName: 86.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Kent
 DialogueText: *szept* Myśl pozytywnie, Kent. Myśl pozytywnie.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 87.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Kent_y2
@@ -360,6 +369,7 @@ AudioName: 90.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Kent_y2
 DialogueText: *niuch*... Zapachy najlepiej przywołują wspomnienia... {Portrait:Neutral}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 91.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Kent_y2
@@ -368,6 +378,7 @@ AudioName: 92.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer28/Kent
 DialogueText: Dobry wieczór, {Farmer_Name}. Mam nadzieję, że znajdziesz chwilę na odpoczynek przed zbiorami.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 93.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer28/Kent_y2
@@ -376,6 +387,7 @@ AudioName: 94.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter25/Kent
 DialogueText: Dobry wieczór, {Farmer_Name}. Miłego ucztowania.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 95.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter25/Kent_y2
@@ -408,6 +420,7 @@ AudioName: 102.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Kent:s3
 DialogueText: To... Dawali mi to w obozie jeńców w Gotoro. Chciałem o tym zapomnieć. *dreszcze*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 103.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Kent:s4
@@ -416,6 +429,7 @@ AudioName: 104.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Kent_like_BeforeMovie
 DialogueText: Dzięki za zaproszenie, {Farmer_Name}. Ciężko mi wrócić do życia cywila, ale dzięki Tobie, czuję się jak w domu.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 105.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Kent_like_DuringMovie
@@ -444,6 +458,7 @@ AudioName: 111.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Kent
 DialogueText: Hej, {Farmer_Name}. Doskwiera Ci ten upał?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 112.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:Shop_Kent

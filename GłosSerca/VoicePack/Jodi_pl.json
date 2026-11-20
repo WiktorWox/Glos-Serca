@@ -13,112 +13,98 @@
           "DialogueText": "Och! Wyglądasz inaczej, niż się spodziewałam... ale nic nie szkodzi! Jestem Jodi.",
           "AudioPath": "assets/pl/Jodi/1.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Introduction",
-          "PageIndex": 0,
-          "DisplayPattern": "Och! Wyglądasz inaczej, niż się spodziewałam... ale nic nie szkodzi! Jestem Jodi."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Introduction",
           "DialogueText": "To małe, spokojne miasteczko, więc gdy ktoś nowy się wprowadza, to jest to sensacja. Nowy farmer może u nas sporo zmienić.",
           "AudioPath": "assets/pl/Jodi/2.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Introduction",
-          "PageIndex": 1,
-          "DisplayPattern": "To małe, spokojne miasteczko, więc gdy ktoś nowy się wprowadza, to jest to sensacja. Nowy farmer może u nas sporo zmienić."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "AcceptGift_(O)StardropTea",
           "DialogueText": "Ach... Na pewno chcesz mi dać tak kosztowny prezent? Cóż, dziękuję!",
           "AudioPath": "assets/pl/Jodi/3.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:AcceptGift_(O)StardropTea",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach... Na pewno chcesz mi dać tak kosztowny prezent? Cóż, dziękuję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Entering",
           "DialogueText": "Cudownie!",
           "AudioPath": "assets/pl/Jodi/4.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Resort_Entering",
-          "PageIndex": 0,
-          "DisplayPattern": "Cudownie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Leaving",
           "DialogueText": "Chyba dziś zrobię owoce morza. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/5.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Resort_Leaving",
-          "PageIndex": 0,
-          "DisplayPattern": "Chyba dziś zrobię owoce morza."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort",
           "DialogueText": "Widok zapiera dech w piersiach! Świat jest cudowny...",
           "AudioPath": "assets/pl/Jodi/6.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Resort",
-          "PageIndex": 0,
-          "DisplayPattern": "Widok zapiera dech w piersiach! Świat jest cudowny..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Bar",
           "DialogueText": "Dobrze, że Gus tu jest.",
           "AudioPath": "assets/pl/Jodi/7.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Resort_Bar",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobrze, że Gus tu jest."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "dating_Sam_memory_oneday",
           "DialogueText": "Słyszałam, że spotykasz się z Samem. Mam nadzieję, że nie będzie Ci sprawiał kłopotów! {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/8.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:dating_Sam_memory_oneday",
-          "PageIndex": 0,
-          "DisplayPattern": "Słyszałam, że spotykasz się z Samem. Mam nadzieję, że nie będzie Ci sprawiał kłopotów!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "married_Sam",
           "DialogueText": "Tak się cieszę z waszego szczęścia. Myślę, że jesteście sobie pisani!",
           "AudioPath": "assets/pl/Jodi/9.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:married_Sam",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak się cieszę z waszego szczęścia. Myślę, że jesteście sobie pisani!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "married_Sam",
           "DialogueText": "Nie myślałam, że kiedyś to powiem... ale będę tęsknić za tymi okropnymi dźwiękami z gitary Sama... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/10.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:married_Sam",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie myślałam, że kiedyś to powiem... ale będę tęsknić za tymi okropnymi dźwiękami z gitary Sama..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Wszystko w porządku? Nigdy wcześniej czegoś takiego nie widzieliśmy... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/11.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:GreenRain",
-          "PageIndex": 0,
-          "DisplayPattern": "Wszystko w porządku? Nigdy wcześniej czegoś takiego nie widzieliśmy..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Chciałabym, żeby był tu mój mąż. Wiedziałby, co robić. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/12.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:GreenRain",
-          "PageIndex": 1,
-          "DisplayPattern": "Chciałabym, żeby był tu mój mąż. Wiedziałby, co robić."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "GreenRain_2",
           "DialogueText": "Vincent wstał wcześnie, żeby się pobawić w deszczu. Mam nadzieję, że mają rację z tym, że jest nieszkodliwy!",
           "AudioPath": "assets/pl/Jodi/13.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:GreenRain_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent wstał wcześnie, żeby się pobawić w deszczu. Mam nadzieję, że mają rację z tym, że jest nieszkodliwy!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "eventSeen_94",
           "DialogueText": "Jeszcze raz dziękuję za rybę! To była jedna z lepszych, jakie ostatnio jadłam.",
           "AudioPath": "assets/pl/Jodi/14.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_94",
-          "PageIndex": 0,
-          "DisplayPattern": "Jeszcze raz dziękuję za rybę! To była jedna z lepszych, jakie ostatnio jadłam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "eventSeen_3910975",
@@ -126,7 +112,7 @@
           "AudioPath": "assets/pl/Jodi/15_male.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_3910975",
           "PageIndex": 0,
-          "DisplayPattern": "*szept* Słyszałeś o Shanie? To okropne... Mam nadzieję, że nic mu nie jest.",
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania.",
           "GenderVariant": "male"
         },
         {
@@ -135,7 +121,7 @@
           "AudioPath": "assets/pl/Jodi/16_female.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_3910975",
           "PageIndex": 1,
-          "DisplayPattern": "*szept* Słyszałaś o Shanie? To okropne... Mam nadzieję, że nic mu nie jest.",
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania.",
           "GenderVariant": "female"
         },
         {
@@ -144,7 +130,6 @@
           "AudioPath": "assets/pl/Jodi/17_male.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:pamHouseUpgrade",
           "PageIndex": 0,
-          "DisplayPattern": "Wow... Słyszałam, co zrobiłeś dla Pam... Kurczę, zastanawiam się, co ona zrobiła, że wpadła w Twoje łaski?",
           "GenderVariant": "male"
         },
         {
@@ -153,7 +138,6 @@
           "AudioPath": "assets/pl/Jodi/18_female.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:pamHouseUpgrade",
           "PageIndex": 1,
-          "DisplayPattern": "Wow... Słyszałam, co zrobiłaś dla Pam... Kurczę, zastanawiam się, co ona zrobiła, że wpadła w Twoje łaski?",
           "GenderVariant": "female"
         },
         {
@@ -161,8 +145,7 @@
           "DialogueText": "... Chciałabym mieć tyle pieniędzy, żeby móc nimi szastać... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/19.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:pamHouseUpgrade",
-          "PageIndex": 2,
-          "DisplayPattern": "... Chciałabym mieć tyle pieniędzy, żeby móc nimi szastać..."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "pamHouseUpgradeAnonymous",
@@ -170,7 +153,6 @@
           "AudioPath": "assets/pl/Jodi/20_male.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:pamHouseUpgradeAnonymous",
           "PageIndex": 0,
-          "DisplayPattern": "Widziałeś nowy dom Pam? Kurczę... chciałabym mieć tyle pieniędzy... przynajmniej wyremontowałabym sobie kuchnię...",
           "GenderVariant": "male"
         },
         {
@@ -179,7 +161,6 @@
           "AudioPath": "assets/pl/Jodi/21_female.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:pamHouseUpgradeAnonymous",
           "PageIndex": 1,
-          "DisplayPattern": "Widziałaś nowy dom Pam? Kurczę... chciałabym mieć tyle pieniędzy... przynajmniej wyremontowałabym sobie kuchnię...",
           "GenderVariant": "female"
         },
         {
@@ -187,152 +168,133 @@
           "DialogueText": "Biedny Clint... mówią, że szaleje na punkcie Emily, ale słyszałam, że ona myśli o nim tylko jak o przyjacielu...",
           "AudioPath": "assets/pl/Jodi/22.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_101",
-          "PageIndex": 0,
-          "DisplayPattern": "Biedny Clint... mówią, że szaleje na punkcie Emily, ale słyszałam, że ona myśli o nim tylko jak o przyjacielu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "eventSeen_58",
           "DialogueText": "Co tydzień chodzę z dziewczynami na zajęcia z aerobiku...",
           "AudioPath": "assets/pl/Jodi/23.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_58",
-          "PageIndex": 0,
-          "DisplayPattern": "Co tydzień chodzę z dziewczynami na zajęcia z aerobiku..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "eventSeen_58",
           "DialogueText": "Ostatnio ktoś nowy do nas dołączył, ale kazał obiecać, że nikomu nie zdradzimy, kim on jest!",
           "AudioPath": "assets/pl/Jodi/24.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_58",
-          "PageIndex": 1,
-          "DisplayPattern": "Ostatnio ktoś nowy do nas dołączył, ale kazał obiecać, że nikomu nie zdradzimy, kim on jest!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "eventSeen_3102768",
           "DialogueText": "Penny to miła dziewczyna. Jest nauczycielką Vincenta już od jakiegoś czasu i naprawdę ją polubił.",
           "AudioPath": "assets/pl/Jodi/25.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:eventSeen_3102768",
-          "PageIndex": 0,
-          "DisplayPattern": "Penny to miła dziewczyna. Jest nauczycielką Vincenta już od jakiegoś czasu i naprawdę ją polubił."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "cc_Bus",
           "DialogueText": "Mówią, że autobus znów działa. Z pewnością Pam jest z tego powodu szczęśliwa...",
           "AudioPath": "assets/pl/Jodi/26.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:cc_Bus",
-          "PageIndex": 0,
-          "DisplayPattern": "Mówią, że autobus znów działa. Z pewnością Pam jest z tego powodu szczęśliwa..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "cc_Bus",
           "DialogueText": "Słyszałam, że zaczęła więcej pić po utracie pracy... Miejmy nadzieję, że to pomoże.",
           "AudioPath": "assets/pl/Jodi/27.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:cc_Bus",
-          "PageIndex": 1,
-          "DisplayPattern": "Słyszałam, że zaczęła więcej pić po utracie pracy... Miejmy nadzieję, że to pomoże."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "reject_864",
           "DialogueText": "Co to? Wygląda jak jeden z kolegów Kenta z czasów wojny. Może mu to pokażesz?",
           "AudioPath": "assets/pl/Jodi/28.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:reject_864",
-          "PageIndex": 0,
-          "DisplayPattern": "Co to? Wygląda jak jeden z kolegów Kenta z czasów wojny. Może mu to pokażesz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon",
           "DialogueText": "Utrzymywanie gospodarstwa to bardzo ciężka robota... ale ktoś musi to robić.",
           "AudioPath": "assets/pl/Jodi/29.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Utrzymywanie gospodarstwa to bardzo ciężka robota... ale ktoś musi to robić."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon",
           "DialogueText": "Słucham?",
           "AudioPath": "assets/pl/Jodi/30.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Mon",
-          "PageIndex": 1,
-          "DisplayPattern": "Słucham?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Mon6",
           "DialogueText": "Miło jest mieć rodzinę... Ale skłamałabym, gdybym powiedziała, że nigdy nie tęsknię za młodością... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/31.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Mon6",
-          "PageIndex": 0,
-          "DisplayPattern": "Miło jest mieć rodzinę... Ale skłamałabym, gdybym powiedziała, że nigdy nie tęsknię za młodością..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "2_1",
           "DialogueText": "Mój mąż Kent jest żołnierzem, teraz jest za granicą. Dlatego go tu teraz nie ma.",
           "AudioPath": "assets/pl/Jodi/32.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:2_1",
-          "PageIndex": 0,
-          "DisplayPattern": "Mój mąż Kent jest żołnierzem, teraz jest za granicą. Dlatego go tu teraz nie ma."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "2_1",
           "DialogueText": "Wiem, że gdy jego służba się skończy, wróci do domu bezpiecznie!!",
           "AudioPath": "assets/pl/Jodi/33.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:2_1",
-          "PageIndex": 1,
-          "DisplayPattern": "Wiem, że gdy jego służba się skończy, wróci do domu bezpiecznie!!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "2_1",
           "DialogueText": "Potrzebujesz czegoś?",
           "AudioPath": "assets/pl/Jodi/34.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:2_1",
-          "PageIndex": 2,
-          "DisplayPattern": "Potrzebujesz czegoś?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Ćwiczenia są ważne dla zdrowia. Zawsze staram się znaleźć na nie trochę czasu.",
           "AudioPath": "assets/pl/Jodi/35.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Ćwiczenia są ważne dla zdrowia. Zawsze staram się znaleźć na nie trochę czasu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Jako rodzic niestety nie mam go zbyt dużo. Ale staram się wykorzystać go najlepiej, jak potrafię.",
           "AudioPath": "assets/pl/Jodi/36.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Jako rodzic niestety nie mam go zbyt dużo. Ale staram się wykorzystać go najlepiej, jak potrafię."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed4",
           "DialogueText": "Chciałabym spędzać więcej czasu na zewnątrz, ale mam za dużo roboty.",
           "AudioPath": "assets/pl/Jodi/37.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Wed4",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciałabym spędzać więcej czasu na zewnątrz, ale mam za dużo roboty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed4",
           "DialogueText": "Zaczęłam nosić gumowe rękawice, żeby mieć czyste ręce.",
           "AudioPath": "assets/pl/Jodi/38.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Wed4",
-          "PageIndex": 1,
-          "DisplayPattern": "Zaczęłam nosić gumowe rękawice, żeby mieć czyste ręce."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed4",
           "DialogueText": "Wraz z wiekiem coraz trudniej dbać o zdrowie. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/39.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Wed4",
-          "PageIndex": 2,
-          "DisplayPattern": "Wraz z wiekiem coraz trudniej dbać o zdrowie."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Wed4",
           "DialogueText": "Ok, pa!",
           "AudioPath": "assets/pl/Jodi/40.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Wed4",
-          "PageIndex": 3,
-          "DisplayPattern": "Ok, pa!"
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Wed",
@@ -340,15 +302,14 @@
           "AudioPath": "assets/pl/Jodi/41.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Wed",
           "PageIndex": 0,
-          "DisplayPattern": "Że co? Już ? Mój Boże!"
+          "ActorNote": "%time – aktualna godzina w grze, np. „06:20” (wstawia gra)."
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Nadal mam mnóstwo do roboty! {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/42.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Nadal mam mnóstwo do roboty!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu6",
@@ -356,199 +317,175 @@
           "AudioPath": "assets/pl/Jodi/43.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu6",
           "PageIndex": 0,
-          "DisplayPattern": "Ale ten czas szybko leci. *ech*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Thu6",
           "DialogueText": "Pamiętam, jak Sam nosił jeszcze pieluchy. Był takim uroczym bobaskiem. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/44.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu6",
-          "PageIndex": 1,
-          "DisplayPattern": "Pamiętam, jak Sam nosił jeszcze pieluchy. Był takim uroczym bobaskiem."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu6",
           "DialogueText": "Nie mów mu tego. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/45.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu6",
-          "PageIndex": 2,
-          "DisplayPattern": "Nie mów mu tego."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Thu6",
           "DialogueText": "Pewnie bardzo lubisz ze mną rozmawiać, co?",
           "AudioPath": "assets/pl/Jodi/46.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu6",
-          "PageIndex": 3,
-          "DisplayPattern": "Pewnie bardzo lubisz ze mną rozmawiać, co?"
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Więc jesteś farmerem, prawda? Ciekawe.Nigdy wcześniej nie spotkałam farmera.$k",
           "AudioPath": "assets/pl/Jodi/47.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Więc jesteś farmerem, prawda? Ciekawe.Nigdy wcześniej nie spotkałam farmera."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Więc jesteś farmerem, prawda? Ciekawe.$e",
           "AudioPath": "assets/pl/Jodi/48.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "Więc jesteś farmerem, prawda? Ciekawe.$e"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Może kiedyś czegoś mnie nauczysz. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/49.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Thu",
-          "PageIndex": 2,
-          "DisplayPattern": "Może kiedyś czegoś mnie nauczysz."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Jedzenie w JojaMarkecie może nie jest najzdrowsze, ale z takimi cenami tylko głupi by nie skorzystał!",
           "AudioPath": "assets/pl/Jodi/50.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Jedzenie w JojaMarkecie może nie jest najzdrowsze, ale z takimi cenami tylko głupi by nie skorzystał!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Jedzenie u Pierra jest o wiele zdrowsze niż cokolwiek, co kupiłam w JojaMarkecie. Niestety nie jest tak tanio jak w Joja.",
           "AudioPath": "assets/pl/Jodi/51.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Jedzenie u Pierra jest o wiele zdrowsze niż cokolwiek, co kupiłam w JojaMarkecie. Niestety nie jest tak tanio jak w Joja."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Cześć.",
           "AudioPath": "assets/pl/Jodi/52.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Potrzebujesz czegoś?",
           "AudioPath": "assets/pl/Jodi/53.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Potrzebujesz czegoś?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat4",
           "DialogueText": "To wspaniale, że próbujesz naprawić tę starą farmę.",
           "AudioPath": "assets/pl/Jodi/54.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sat4",
-          "PageIndex": 0,
-          "DisplayPattern": "To wspaniale, że próbujesz naprawić tę starą farmę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat4",
           "DialogueText": "Na pewno każdemu się to spodoba! {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/55.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sat4",
-          "PageIndex": 1,
-          "DisplayPattern": "Na pewno każdemu się to spodoba!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat4",
           "DialogueText": "Niestety sporo z tym roboty.",
           "AudioPath": "assets/pl/Jodi/56.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sat4",
-          "PageIndex": 2,
-          "DisplayPattern": "Niestety sporo z tym roboty."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Sat4",
           "DialogueText": "Pa.",
           "AudioPath": "assets/pl/Jodi/57.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sat4",
-          "PageIndex": 3,
-          "DisplayPattern": "Pa."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Mon2",
           "DialogueText": "Wczoraj odwiedziłam Ołtarz Yoby, żeby podziękować za bezpieczny powrót mojego męża.",
           "AudioPath": "assets/pl/Jodi/58.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Mon2",
-          "PageIndex": 0,
-          "DisplayPattern": "Wczoraj odwiedziłam Ołtarz Yoby, żeby podziękować za bezpieczny powrót mojego męża."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon2",
           "DialogueText": "Wczoraj odwiedziłam Ołtarz Yoby i poprosiłam o bezpieczny powrót mojego męża.",
           "AudioPath": "assets/pl/Jodi/59.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Mon2",
-          "PageIndex": 1,
-          "DisplayPattern": "Wczoraj odwiedziłam Ołtarz Yoby i poprosiłam o bezpieczny powrót mojego męża."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Mon2",
           "DialogueText": "Próbuję myśleć pozytywnie, ale czasami jest ciężko. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/60.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Mon2",
-          "PageIndex": 2,
-          "DisplayPattern": "Próbuję myśleć pozytywnie, ale czasami jest ciężko."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Robię sobie przerwę od obowiązków. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/61.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Robię sobie przerwę od obowiązków."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "$e",
           "AudioPath": "assets/pl/Jodi/62.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun",
-          "PageIndex": 1,
-          "DisplayPattern": "$e"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Mam dzisiaj wolne. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/63.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun",
-          "PageIndex": 2,
-          "DisplayPattern": "Mam dzisiaj wolne."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Jeśli nie spędzę trochę czasu na zewnątrz, to oszaleję!",
           "AudioPath": "assets/pl/Jodi/64.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun",
-          "PageIndex": 3,
-          "DisplayPattern": "Jeśli nie spędzę trochę czasu na zewnątrz, to oszaleję!"
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Poza tym nie chcę, żeby mi nogi zdrętwiały.",
           "AudioPath": "assets/pl/Jodi/65.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun",
-          "PageIndex": 4,
-          "DisplayPattern": "Poza tym nie chcę, żeby mi nogi zdrętwiały."
+          "PageIndex": 4
         },
         {
           "DialogueFrom": "Sun8",
           "DialogueText": "Miałam sen, w którym byłam zupełnie wolna, bez obowiązków...",
           "AudioPath": "assets/pl/Jodi/66.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun8",
-          "PageIndex": 0,
-          "DisplayPattern": "Miałam sen, w którym byłam zupełnie wolna, bez obowiązków..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun8",
           "DialogueText": "... Potem się obudziłam i miałam przed sobą cały dzień pracy... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/67.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun8",
-          "PageIndex": 1,
-          "DisplayPattern": "... Potem się obudziłam i miałam przed sobą cały dzień pracy..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun8",
@@ -556,71 +493,63 @@
           "AudioPath": "assets/pl/Jodi/68.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:Sun8",
           "PageIndex": 2,
-          "DisplayPattern": "Ale nie żałuję, że mam rodzinę, ... Sam i Vincent są dla mnie wszystkim!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "summer_Mon",
           "DialogueText": "Mam masę roboty latem.",
           "AudioPath": "assets/pl/Jodi/69.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam masę roboty latem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Mon",
           "DialogueText": "Oprócz pracy w domu muszę też zadbać o ogród!",
           "AudioPath": "assets/pl/Jodi/70.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Mon",
-          "PageIndex": 1,
-          "DisplayPattern": "Oprócz pracy w domu muszę też zadbać o ogród!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Cześć.",
           "AudioPath": "assets/pl/Jodi/71.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Potrzebujesz czegoś? Jestem trochę zajęta.",
           "AudioPath": "assets/pl/Jodi/72.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Potrzebujesz czegoś? Jestem trochę zajęta."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Tue_inlaw_Sam",
           "DialogueText": "Jak się miewa mój mały Samuś? {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/73.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Tue_inlaw_Sam",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak się miewa mój mały Samuś?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Thu",
           "DialogueText": "Prace w domu są frustrujące, bo nigdy się nie kończą.",
           "AudioPath": "assets/pl/Jodi/74.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Prace w domu są frustrujące, bo nigdy się nie kończą."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Thu",
           "DialogueText": "Codziennie, gdy umyję podłogę, po chwili znowu jest brudna.",
           "AudioPath": "assets/pl/Jodi/75.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "Codziennie, gdy umyję podłogę, po chwili znowu jest brudna."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Sun",
           "DialogueText": "Co ja dziś zrobię na obiad?",
           "AudioPath": "assets/pl/Jodi/76.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Co ja dziś zrobię na obiad?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Sun",
@@ -628,95 +557,84 @@
           "AudioPath": "assets/pl/Jodi/77.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:summer_Sun",
           "PageIndex": 1,
-          "DisplayPattern": "*ech*..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "fall_Thu",
           "DialogueText": "Może trochę rozpieściłam chłopców. Nigdy nie mieli żadnych obowiązków.",
           "AudioPath": "assets/pl/Jodi/78.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Może trochę rozpieściłam chłopców. Nigdy nie mieli żadnych obowiązków."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Thu",
           "DialogueText": "Chciałam, żeby nacieszyli się dzieciństwem. W sumie Sam jest już dorosły.",
           "AudioPath": "assets/pl/Jodi/79.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "Chciałam, żeby nacieszyli się dzieciństwem. W sumie Sam jest już dorosły."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Thu",
           "DialogueText": "Mam nadzieję, że nie wyrósł na lenia. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/80.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Thu",
-          "PageIndex": 2,
-          "DisplayPattern": "Mam nadzieję, że nie wyrósł na lenia."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "fall_Thu",
           "DialogueText": "Bycie rodzicem nie jest łatwe.",
           "AudioPath": "assets/pl/Jodi/81.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Thu",
-          "PageIndex": 3,
-          "DisplayPattern": "Bycie rodzicem nie jest łatwe."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "fall_Thu_inlaw_Sam",
           "DialogueText": "Sam coś pomaga na Twojej farmie, czy tylko się obija?",
           "AudioPath": "assets/pl/Jodi/82.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Thu_inlaw_Sam",
-          "PageIndex": 0,
-          "DisplayPattern": "Sam coś pomaga na Twojej farmie, czy tylko się obija?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Sun",
           "DialogueText": "Caroline to moja dobra przyjaciółka. Mogę jej wszystko powiedzieć.",
           "AudioPath": "assets/pl/Jodi/83.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Caroline to moja dobra przyjaciółka. Mogę jej wszystko powiedzieć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Sun2",
           "DialogueText": "Po zostaniu rodzicem trzeba zmienić styl życia.",
           "AudioPath": "assets/pl/Jodi/84.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Sun2",
-          "PageIndex": 0,
-          "DisplayPattern": "Po zostaniu rodzicem trzeba zmienić styl życia."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Sun2",
           "DialogueText": "Może to nie do końca prawda... Ale tak właśnie się dzieje.",
           "AudioPath": "assets/pl/Jodi/85.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Sun2",
-          "PageIndex": 1,
-          "DisplayPattern": "Może to nie do końca prawda... Ale tak właśnie się dzieje."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Mon",
           "DialogueText": "Gdy byłam mała, uwielbiałam bawić się na śniegu. To cudowne, że jako matka mogę znów się tym cieszyć. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/86.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Gdy byłam mała, uwielbiałam bawić się na śniegu. To cudowne, że jako matka mogę znów się tym cieszyć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Tue",
           "DialogueText": "Cześć. Nie masz dość tego, że ludzie ciągle pytają o Twoją farmę?",
           "AudioPath": "assets/pl/Jodi/87.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć. Nie masz dość tego, że ludzie ciągle pytają o Twoją farmę?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Tue",
           "DialogueText": "Ja pewnie bym miała.",
           "AudioPath": "assets/pl/Jodi/88.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Ja pewnie bym miała."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Tue6",
@@ -724,119 +642,105 @@
           "AudioPath": "assets/pl/Jodi/89.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Tue6",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Czasami śni mi się samotne życie... bez rodziny. Czy to nie okropne?"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "winter_Tue6",
           "DialogueText": "Nie mów o tym nikomu. {Portrait:Love}",
           "AudioPath": "assets/pl/Jodi/90.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Tue6",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie mów o tym nikomu."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Wed2",
           "DialogueText": "Co robię dla zabawy? Hmm... To dobre pytanie.",
           "AudioPath": "assets/pl/Jodi/91.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Wed2",
-          "PageIndex": 0,
-          "DisplayPattern": "Co robię dla zabawy? Hmm... To dobre pytanie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Wed2",
           "DialogueText": "Lubię spać. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/92.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Wed2",
-          "PageIndex": 1,
-          "DisplayPattern": "Lubię spać."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Wed4_2",
           "DialogueText": "Kent od jakiegoś czasu jest w domu, ale wciąż czuje się nieswojo. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/93.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Wed4_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Kent od jakiegoś czasu jest w domu, ale wciąż czuje się nieswojo."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Thu",
           "DialogueText": "Sam strasznie hałasuje, gdy gra na instrumentach. Mam nadzieję, że nie przeszkadza to sąsiadom.",
           "AudioPath": "assets/pl/Jodi/94.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Sam strasznie hałasuje, gdy gra na instrumentach. Mam nadzieję, że nie przeszkadza to sąsiadom."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Thu_inlaw_Sam",
           "DialogueText": "Jak tam Sam? Muszę przyznać, że odkąd się wyprowadził, mam mniej gotowania i sprzątania...",
           "AudioPath": "assets/pl/Jodi/95.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Thu_inlaw_Sam",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak tam Sam? Muszę przyznać, że odkąd się wyprowadził, mam mniej gotowania i sprzątania..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Thu8",
           "DialogueText": "Trochę się pospieszyliśmy z małżeństwem. Kent jeszcze był w wojsku i w ogóle... Prawie nie poczułam smaku wolności, a teraz jest już za późno. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/96.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Thu8",
-          "PageIndex": 0,
-          "DisplayPattern": "Trochę się pospieszyliśmy z małżeństwem. Kent jeszcze był w wojsku i w ogóle... Prawie nie poczułam smaku wolności, a teraz jest już za późno."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Thu8",
           "DialogueText": "Nie popełniaj tego samego błędu. {Portrait:Love}",
           "AudioPath": "assets/pl/Jodi/97.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Thu8",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie popełniaj tego samego błędu."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Fri",
           "DialogueText": "Chciałabym kiedyś pojechać na wakacje... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/98.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciałabym kiedyś pojechać na wakacje..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Sun",
           "DialogueText": "Pierwsze, co bym zrobiła, gdybym była bogata, to zatrudniłabym kucharza i sprzątaczkę.",
           "AudioPath": "assets/pl/Jodi/99.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Pierwsze, co bym zrobiła, gdybym była bogata, to zatrudniłabym kucharza i sprzątaczkę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Sun",
           "DialogueText": "Mój Boże, to by było świetne! {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/100.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:winter_Sun",
-          "PageIndex": 1,
-          "DisplayPattern": "Mój Boże, to by było świetne!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Mon6",
           "DialogueText": "Powinnam częściej to doceniać. Mamy tu dobre życie. Niektórzy nawet nie mają co jeść. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/101.ogg",
           "TranslationKey": "Characters/Dialogue/Jodi:fall_Mon6",
-          "PageIndex": 0,
-          "DisplayPattern": "Powinnam częściej to doceniać. Mamy tu dobre życie. Niektórzy nawet nie mają co jeść."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "Wytrzyj buty! Przepraszam... Właśnie umyłam podłogę.",
           "AudioPath": "assets/pl/Jodi/102.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Wytrzyj buty! Przepraszam... Właśnie umyłam podłogę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "Ale zawsze miło Cię widzieć! He he. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/103.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Jodi",
-          "PageIndex": 1,
-          "DisplayPattern": "Ale zawsze miło Cię widzieć! He he."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Farm/93:s0",
@@ -844,71 +748,63 @@
           "AudioPath": "assets/pl/Jodi/104.ogg",
           "TranslationKey": "Events/Farm:93:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*uch*... Cześć ! *dyszy* Wchodzenie tu, to był dobry trening."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Farm/93:s1",
           "DialogueText": "W każdym razie, chciałam Cię dzisiaj zaprosić na kolację!",
           "AudioPath": "assets/pl/Jodi/105.ogg",
           "TranslationKey": "Events/Farm:93:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "W każdym razie, chciałam Cię dzisiaj zaprosić na kolację!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/93:s2",
           "DialogueText": "Nie namawiam Cię... ale jeśli przyjdziesz, możesz przynieść bassa wielkogębowego?",
           "AudioPath": "assets/pl/Jodi/106.ogg",
           "TranslationKey": "Events/Farm:93:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie namawiam Cię... ale jeśli przyjdziesz, możesz przynieść bassa wielkogębowego?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/93:s3",
           "DialogueText": "... Dokładnie. Jedna z tych śliskich ryb z jeziora. Potrzebuję jednej do casserole. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/107.ogg",
           "TranslationKey": "Events/Farm:93:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "... Dokładnie. Jedna z tych śliskich ryb z jeziora. Potrzebuję jednej do casserole."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/93:s4",
           "DialogueText": "Ok... Kolacja będzie dziś, w naszym domu około 19:00... Nie zapomnij bassa wielkogębowego! Pa.",
           "AudioPath": "assets/pl/Jodi/108.ogg",
           "TranslationKey": "Events/Farm:93:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Ok... Kolacja będzie dziś, w naszym domu około 19:00... Nie zapomnij bassa wielkogębowego! Pa."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/93:s5",
           "DialogueText": "Rybne casserole to zawsze strzał w dziesiątkę.",
           "AudioPath": "assets/pl/Jodi/109.ogg",
           "TranslationKey": "Events/Farm:93:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Rybne casserole to zawsze strzał w dziesiątkę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/233104:s0",
           "DialogueText": "Sam? Wchodzę!",
           "AudioPath": "assets/pl/Jodi/110.ogg",
           "TranslationKey": "Events/Town:233104:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Sam? Wchodzę!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/233104:s1",
           "DialogueText": "Coś nie tak, Skarbie? Robiłeś coś... złego?",
           "AudioPath": "assets/pl/Jodi/111.ogg",
           "TranslationKey": "Events/Town:233104:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Coś nie tak, Skarbie? Robiłeś coś... złego?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/233104:s2",
           "DialogueText": "Wydaje mi się, że słyszałam jakieś dziwne dźwięki z Twojego pokoju...",
           "AudioPath": "assets/pl/Jodi/112.ogg",
           "TranslationKey": "Events/Town:233104:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Wydaje mi się, że słyszałam jakieś dziwne dźwięki z Twojego pokoju..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/233104:s3",
@@ -916,39 +812,35 @@
           "AudioPath": "assets/pl/Jodi/113.ogg",
           "TranslationKey": "Events/Town:233104:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Och! *hihi*... To wyjaśnia, czemu jesteś cały czerwony i spocony."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Town/233104:s4",
           "DialogueText": "Ok. Cóż, powodzenia. Dobranoc Skarbie.",
           "AudioPath": "assets/pl/Jodi/114.ogg",
           "TranslationKey": "Events/Town:233104:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Ok. Cóż, powodzenia. Dobranoc Skarbie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/191393:s0",
           "DialogueText": "Odciąć się!",
           "AudioPath": "assets/pl/Jodi/115.ogg",
           "TranslationKey": "Events/Town:191393:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Odciąć się!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
           "DialogueText": "O nie...",
           "AudioPath": "assets/pl/Jodi/116.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "O nie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/6184644:s1",
           "DialogueText": "Mniam!",
           "AudioPath": "assets/pl/Jodi/117.ogg",
           "TranslationKey": "Events/Town:6184644:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Mniam!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/95:s0",
@@ -956,7 +848,7 @@
           "AudioPath": "assets/pl/Jodi/118_male.ogg",
           "TranslationKey": "Events/SamHouse:95:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Ach, dobrze że jesteś, ! Przyniosłeś rybę! Wspaniale.",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -965,7 +857,7 @@
           "AudioPath": "assets/pl/Jodi/119_female.ogg",
           "TranslationKey": "Events/SamHouse:95:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Ach, dobrze że jesteś, ! Przyniosłaś rybę! Wspaniale.",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -973,8 +865,7 @@
           "DialogueText": "Sam! Możesz tu przyjść i pomóc przygotować rybę?",
           "AudioPath": "assets/pl/Jodi/120.ogg",
           "TranslationKey": "Events/SamHouse:95:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Sam! Możesz tu przyjść i pomóc przygotować rybę?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/95:s3",
@@ -982,15 +873,14 @@
           "AudioPath": "assets/pl/Jodi/121.ogg",
           "TranslationKey": "Events/SamHouse:95:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Wow, wygląda wspaniale... I pachnie tak świeżo! Dziękuję, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SamHouse/95:s4",
           "DialogueText": "Kent też złapał rybę. On zwykle zjada całą! {Portrait:Unique}",
           "AudioPath": "assets/pl/Jodi/122.ogg",
           "TranslationKey": "Events/SamHouse:95:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Kent też złapał rybę. On zwykle zjada całą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/94:s0",
@@ -998,15 +888,14 @@
           "AudioPath": "assets/pl/Jodi/123.ogg",
           "TranslationKey": "Events/SamHouse:94:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Och cześć, ! Wejdź! Czy czuję świeżą rybę?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SamHouse/94:s1",
           "DialogueText": "Sam! Możesz podejść i pomóc z rybą?",
           "AudioPath": "assets/pl/Jodi/124.ogg",
           "TranslationKey": "Events/SamHouse:94:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Sam! Możesz podejść i pomóc z rybą?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/94:s2",
@@ -1014,47 +903,42 @@
           "AudioPath": "assets/pl/Jodi/125.ogg",
           "TranslationKey": "Events/SamHouse:94:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Wow, ten Bass wygląda wspaniale, . Dziękuję."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SamHouse/94:s3",
           "DialogueText": "Mmm... Ten chrupiący Bass był przepyszny! Panierka była nie z tej ziemi...",
           "AudioPath": "assets/pl/Jodi/126.ogg",
           "TranslationKey": "Events/SamHouse:94:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Mmm... Ten chrupiący Bass był przepyszny! Panierka była nie z tej ziemi..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/94:s4",
           "DialogueText": "Czuję się prawie jak członek rodziny.",
           "AudioPath": "assets/pl/Jodi/127.ogg",
           "TranslationKey": "Events/SamHouse:94:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Czuję się prawie jak członek rodziny."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s0",
           "DialogueText": "Co to było?",
           "AudioPath": "assets/pl/Jodi/128.ogg",
           "TranslationKey": "Events/SamHouse:46:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Co to było?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s1",
           "DialogueText": "!!! {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/129.ogg",
           "TranslationKey": "Events/SamHouse:46:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "!!!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s2",
           "DialogueText": "To okropne! Co się stało? {Portrait:Unique}",
           "AudioPath": "assets/pl/Jodi/130.ogg",
           "TranslationKey": "Events/SamHouse:46:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "To okropne! Co się stało?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s3",
@@ -1062,39 +946,35 @@
           "AudioPath": "assets/pl/Jodi/131.ogg",
           "TranslationKey": "Events/SamHouse:46:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Dzięki za szczerość, . To nic takiego."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s4",
           "DialogueText": "CO ZROBIŁEŚ, Sam?! Co w Ciebie wstąpiło?! {Portrait:Unique}",
           "AudioPath": "assets/pl/Jodi/132.ogg",
           "TranslationKey": "Events/SamHouse:46:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "CO ZROBIŁEŚ, Sam?! Co w Ciebie wstąpiło?!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s5",
           "DialogueText": "Dziękuję, Kochanie. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/133.ogg",
           "TranslationKey": "Events/SamHouse:46:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję, Kochanie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s6",
           "DialogueText": "Jestem zły. Nie wiem czemu kłamiesz. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/134.ogg",
           "TranslationKey": "Events/SamHouse:46:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Jestem zły. Nie wiem czemu kłamiesz."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/46:s7",
           "DialogueText": "Wybacz za tamto.",
           "AudioPath": "assets/pl/Jodi/135.ogg",
           "TranslationKey": "Events/SamHouse:46:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz za tamto."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/100:s0",
@@ -1102,15 +982,14 @@
           "AudioPath": "assets/pl/Jodi/136.ogg",
           "TranslationKey": "Events/SamHouse:100:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, ! Robię popcorn."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SamHouse/100:s1",
           "DialogueText": "Ale mój drogi... Dawniej uwielbiałeś popcorn. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/137.ogg",
           "TranslationKey": "Events/SamHouse:100:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Ale mój drogi... Dawniej uwielbiałeś popcorn."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/100:s2",
@@ -1118,23 +997,21 @@
           "AudioPath": "assets/pl/Jodi/138.ogg",
           "TranslationKey": "Events/SamHouse:100:s2",
           "PageIndex": 0,
-          "DisplayPattern": "*szept* ... możesz mu coś powiedzieć?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/SamHouse/100:s3",
           "DialogueText": "Nic się nie stało, mój drogi. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/139.ogg",
           "TranslationKey": "Events/SamHouse:100:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Nic się nie stało, mój drogi."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/100:s4",
           "DialogueText": "Ostatnią rzeczą, jaką bym chciała zrobić, to Cię zdenerwować. Zrobię co w mojej mocy, aby podtrzymywać Cię na duchu.",
           "AudioPath": "assets/pl/Jodi/140.ogg",
           "TranslationKey": "Events/SamHouse:100:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Ostatnią rzeczą, jaką bym chciała zrobić, to Cię zdenerwować. Zrobię co w mojej mocy, aby podtrzymywać Cię na duchu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SamHouse/100:s5",
@@ -1142,23 +1019,21 @@
           "AudioPath": "assets/pl/Jodi/141.ogg",
           "TranslationKey": "Events/SamHouse:100:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Cieszę się, że jesteś przyjacielem rodziny, . Wybacz moje zachowanie."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/SeedShop/963113:s0",
           "DialogueText": "Przypadkiem podsłuchałam cenę... toż to skandal! Powinieneś się wstydzić. {Portrait:Unique}",
           "AudioPath": "assets/pl/Jodi/142.ogg",
           "TranslationKey": "Events/SeedShop:963113:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Przypadkiem podsłuchałam cenę... toż to skandal! Powinieneś się wstydzić."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SeedShop/963113:s1",
           "DialogueText": "Nie ma mowy!",
           "AudioPath": "assets/pl/Jodi/143.ogg",
           "TranslationKey": "Events/SeedShop:963113:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie ma mowy!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SeedShop/963113:s2",
@@ -1166,63 +1041,56 @@
           "AudioPath": "assets/pl/Jodi/144.ogg",
           "TranslationKey": "Events/SeedShop:963113:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Twoje warzywa wyglądają wspaniale, . Cena Pierre'a nas odstraszyła."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/fall16/Jodi",
           "DialogueText": "Nie wygląda zbyt wesoło... Chyba Burmistrz Lewis musiał oszczędzać na klaunie w tym roku.",
           "AudioPath": "assets/pl/Jodi/145.ogg",
           "TranslationKey": "Data/Festivals/fall16:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie wygląda zbyt wesoło... Chyba Burmistrz Lewis musiał oszczędzać na klaunie w tym roku."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Jodi_y2",
           "DialogueText": "O nie. Kto jest odpowiedzialny za to całe śmiecenie? {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/146.ogg",
           "TranslationKey": "Data/Festivals/fall16:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "O nie. Kto jest odpowiedzialny za to całe śmiecenie?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Jodi_y2",
           "DialogueText": "Co roku przyjeżdżają turyści, którzy nie szanują naszego miasta... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/147.ogg",
           "TranslationKey": "Data/Festivals/fall16:Jodi_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Co roku przyjeżdżają turyści, którzy nie szanują naszego miasta..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/fall27/Jodi",
           "DialogueText": "Vincent jest zdenerwowany, że nie pozwoliłam mu wejść do nawiedzonego labiryntu... Ale jest jeszcze małym chłopcem!",
           "AudioPath": "assets/pl/Jodi/148.ogg",
           "TranslationKey": "Data/Festivals/fall27:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent jest zdenerwowany, że nie pozwoliłam mu wejść do nawiedzonego labiryntu... Ale jest jeszcze małym chłopcem!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/Jodi_y2",
           "DialogueText": "Sam poszedł z Vincentem do labiryntu. Mam nadzieję, że nic im nie będzie... {Portrait:Neutral}",
           "AudioPath": "assets/pl/Jodi/149.ogg",
           "TranslationKey": "Data/Festivals/fall27:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Sam poszedł z Vincentem do labiryntu. Mam nadzieję, że nic im nie będzie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Jodi",
           "DialogueText": "Vincent uwielbia ten festiwal... Cieszę się, jak widzę go szczęśliwego.",
           "AudioPath": "assets/pl/Jodi/150.ogg",
           "TranslationKey": "Data/Festivals/spring13:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent uwielbia ten festiwal... Cieszę się, jak widzę go szczęśliwego."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Jodi_y2",
           "DialogueText": "Podczas takich dużych zgrupowań, Kent wydaje się być zdenerwowany...",
           "AudioPath": "assets/pl/Jodi/151.ogg",
           "TranslationKey": "Data/Festivals/spring13:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Podczas takich dużych zgrupowań, Kent wydaje się być zdenerwowany..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Jodi",
@@ -1230,127 +1098,112 @@
           "AudioPath": "assets/pl/Jodi/152.ogg",
           "TranslationKey": "Data/Festivals/spring24:Jodi",
           "PageIndex": 0,
-          "DisplayPattern": "Bierzesz dziś udział w tańcu, ?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/spring24/Jodi_y2",
           "DialogueText": "Mam specjalne kolczyki, które tylko zakładam na tę uroczystość. {Portrait:Neutral}",
           "AudioPath": "assets/pl/Jodi/153.ogg",
           "TranslationKey": "Data/Festivals/spring24:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam specjalne kolczyki, które tylko zakładam na tę uroczystość."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Jodi_y2",
           "DialogueText": "Są w kształcie małych żonkili... widzisz? {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/154.ogg",
           "TranslationKey": "Data/Festivals/spring24:Jodi_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Są w kształcie małych żonkili... widzisz?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/summer11/Jodi",
           "DialogueText": "Mam nadzieję, że tego roku zupa będzie dobra.",
           "AudioPath": "assets/pl/Jodi/155.ogg",
           "TranslationKey": "Data/Festivals/summer11:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że tego roku zupa będzie dobra."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Jodi_y2",
           "DialogueText": "Słyszałam, że lato jest ciężką porą dla farmerów. Nie zapracowuj się! {Portrait:Neutral}",
           "AudioPath": "assets/pl/Jodi/156.ogg",
           "TranslationKey": "Data/Festivals/summer11:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Słyszałam, że lato jest ciężką porą dla farmerów. Nie zapracowuj się!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Jodi",
           "DialogueText": "Tam! Widziałam jak coś świeci!",
           "AudioPath": "assets/pl/Jodi/157.ogg",
           "TranslationKey": "Data/Festivals/summer28:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Tam! Widziałam jak coś świeci!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Jodi",
           "DialogueText": "Och... już nie świeci. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/158.ogg",
           "TranslationKey": "Data/Festivals/summer28:Jodi",
-          "PageIndex": 1,
-          "DisplayPattern": "Och... już nie świeci."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/summer28/Jodi_y2",
           "DialogueText": "Pełnia księżyca poprowadzi meduzy do naszego brzegu.",
           "AudioPath": "assets/pl/Jodi/159.ogg",
           "TranslationKey": "Data/Festivals/summer28:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Pełnia księżyca poprowadzi meduzy do naszego brzegu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Jodi",
           "DialogueText": "To nie jest dobra pora na dietę... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/160.ogg",
           "TranslationKey": "Data/Festivals/winter25:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "To nie jest dobra pora na dietę..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Jodi_y2",
           "DialogueText": "To miejsce cierpi na nadmiar prezentów. W tym roku jest ich po prostu za dużo! {Portrait:Neutral}",
           "AudioPath": "assets/pl/Jodi/161.ogg",
           "TranslationKey": "Data/Festivals/winter25:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "To miejsce cierpi na nadmiar prezentów. W tym roku jest ich po prostu za dużo!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/Jodi",
           "DialogueText": "Las wygląda przepięknie podczas zimy.",
           "AudioPath": "assets/pl/Jodi/162.ogg",
           "TranslationKey": "Data/Festivals/winter8:Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Las wygląda przepięknie podczas zimy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/Jodi_y2",
           "DialogueText": "Takie spotkania to dobry sposób na budowanie wspólnoty.",
           "AudioPath": "assets/pl/Jodi/163.ogg",
           "TranslationKey": "Data/Festivals/winter8:Jodi_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Takie spotkania to dobry sposób na budowanie wspólnoty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/Jodi_y2",
           "DialogueText": "To miłe, jak pogoda zbliża ludzi do siebie.",
           "AudioPath": "assets/pl/Jodi/164.ogg",
           "TranslationKey": "Data/Festivals/winter8:Jodi_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "To miłe, jak pogoda zbliża ludzi do siebie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "NPCGiftTastes/Jodi:s0",
           "DialogueText": "Och, to miłe z twojej strony, uwielbiam to!",
           "AudioPath": "assets/pl/Jodi/165.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Jodi:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, to miłe z twojej strony, uwielbiam to!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Jodi:s1",
           "DialogueText": "Dziękuję! Dzięki Tobie ten dzień stał się wyjątkowy.",
           "AudioPath": "assets/pl/Jodi/166.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Jodi:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję! Dzięki Tobie ten dzień stał się wyjątkowy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Jodi:s2",
           "DialogueText": "Hmm, cóż... dodam to do kompostownika...",
           "AudioPath": "assets/pl/Jodi/167.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Jodi:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmm, cóż... dodam to do kompostownika..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Jodi:s3",
@@ -1358,15 +1211,14 @@
           "AudioPath": "assets/pl/Jodi/168.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Jodi:s3",
           "PageIndex": 0,
-          "DisplayPattern": "*Ble*... Nie cierpię tego..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "NPCGiftTastes/Jodi:s4",
           "DialogueText": "To miłe z Twojej strony! Dzięki.",
           "AudioPath": "assets/pl/Jodi/169.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Jodi:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "To miłe z Twojej strony! Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi",
@@ -1374,15 +1226,14 @@
           "AudioPath": "assets/pl/Jodi/170.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Jodi",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}? Chyba ja to kupiłam..."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi",
           "DialogueText": "Było bardzo dobrej jakości. Jak to powąchałam, wróciłam do starej chatki Babuni...",
           "AudioPath": "assets/pl/Jodi/171.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Jodi",
-          "PageIndex": 1,
-          "DisplayPattern": "Było bardzo dobrej jakości. Jak to powąchałam, wróciłam do starej chatki Babuni..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi_Willy",
@@ -1390,39 +1241,35 @@
           "AudioPath": "assets/pl/Jodi/172.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Jodi_Willy",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?"
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi_Willy",
           "DialogueText": "Bardzo dobra jakość. Fajne twarde mięso.",
           "AudioPath": "assets/pl/Jodi/173.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Jodi_Willy",
-          "PageIndex": 1,
-          "DisplayPattern": "Bardzo dobra jakość. Fajne twarde mięso."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "MovieReactions/Jodi_love_BeforeMovie",
           "DialogueText": "Dawno temu widziałam ten film. Jest bardzo romantyczny!",
           "AudioPath": "assets/pl/Jodi/174.ogg",
           "TranslationKey": "Strings/MovieReactions:Jodi_love_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Dawno temu widziałam ten film. Jest bardzo romantyczny!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Jodi_love_AfterMovie",
           "DialogueText": "To było cudowne... Temat tego filmu naprawdę do mnie trafił. Dziękuje za zaproszenie!",
           "AudioPath": "assets/pl/Jodi/175.ogg",
           "TranslationKey": "Strings/MovieReactions:Jodi_love_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "To było cudowne... Temat tego filmu naprawdę do mnie trafił. Dziękuje za zaproszenie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Jodi_like_BeforeMovie",
           "DialogueText": "Mam nadzieję, że siedzenia będą wygodne, cały dzień byłam na nogach!",
           "AudioPath": "assets/pl/Jodi/176.ogg",
           "TranslationKey": "Strings/MovieReactions:Jodi_like_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że siedzenia będą wygodne, cały dzień byłam na nogach!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Jodi_like_AfterMovie",
@@ -1430,39 +1277,35 @@
           "AudioPath": "assets/pl/Jodi/177.ogg",
           "TranslationKey": "Strings/MovieReactions:Jodi_like_AfterMovie",
           "PageIndex": 0,
-          "DisplayPattern": "Nie jestem fanką filmów... ale dobrze się bawiłam! Dzięki, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Jodi",
           "DialogueText": "Och, nie zwracaj na mnie uwagi, robię sobie małe zakupy.",
           "AudioPath": "assets/pl/Jodi/178.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, nie zwracaj na mnie uwagi, robię sobie małe zakupy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Jodi",
           "DialogueText": "Jak nie poprzeglądam co mają w sklepie, mogłabym nie zobaczyć idealnej dekoracji do naszego salonu!",
           "AudioPath": "assets/pl/Jodi/179.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Jodi",
-          "PageIndex": 1,
-          "DisplayPattern": "Jak nie poprzeglądam co mają w sklepie, mogłabym nie zobaczyć idealnej dekoracji do naszego salonu!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Jodi",
           "DialogueText": "Przepraszam, moja tegoroczna selekcja nie jest za dobra...",
           "AudioPath": "assets/pl/Jodi/180.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Jodi",
-          "PageIndex": 0,
-          "DisplayPattern": "Przepraszam, moja tegoroczna selekcja nie jest za dobra..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "spring_11.003",
           "DialogueText": "Vincent był dzisiaj bardzo dzielny. Jestem z niego dumna.",
           "AudioPath": "assets/pl/Jodi/181.ogg",
           "TranslationKey": "Strings/schedules/Jodi:spring_11.003",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent był dzisiaj bardzo dzielny. Jestem z niego dumna."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_17.000",
@@ -1470,95 +1313,84 @@
           "AudioPath": "assets/pl/Jodi/182.ogg",
           "TranslationKey": "Strings/schedules/Jodi:winter_17.000",
           "PageIndex": 0,
-          "DisplayPattern": "Podróżowanie po świecie musi być ekscytujące... *ech*..."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "spring_11.001",
           "DialogueText": "Bądź odważny, Vincent. Pomyśl o swoim ojcu.",
           "AudioPath": "assets/pl/Jodi/183.ogg",
           "TranslationKey": "Strings/schedules/Jodi:spring_11.001",
-          "PageIndex": 0,
-          "DisplayPattern": "Bądź odważny, Vincent. Pomyśl o swoim ojcu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue.000",
           "DialogueText": "Aał... Moje ręce są jak żelatyna... {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/184.ogg",
           "TranslationKey": "Strings/schedules/Jodi:Tue.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Aał... Moje ręce są jak żelatyna..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "spring.000",
           "DialogueText": "Ćśśś... Właśnie zasnął.",
           "AudioPath": "assets/pl/Jodi/185.ogg",
           "TranslationKey": "Strings/schedules/Jodi:spring.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Ćśśś... Właśnie zasnął."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "spring_18.000",
           "DialogueText": "Ej! Nie możesz się wtrącać do prywatnych spotkań! {Portrait:Unique}",
           "AudioPath": "assets/pl/Jodi/186.ogg",
           "TranslationKey": "Strings/schedules/Jodi:spring_18.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Ej! Nie możesz się wtrącać do prywatnych spotkań!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "spring_11.002",
           "DialogueText": "Doktorze Harvey? Martwię się o wzrost Vincenta. Nie jest zbyt niski jak na swój wiek?",
           "AudioPath": "assets/pl/Jodi/187.ogg",
           "TranslationKey": "Strings/schedules/Jodi:spring_11.002",
-          "PageIndex": 0,
-          "DisplayPattern": "Doktorze Harvey? Martwię się o wzrost Vincenta. Nie jest zbyt niski jak na swój wiek?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "spring_11.000",
           "DialogueText": "Vincent nienawidzi chodzić do lekarza, ale nie ma wyboru.",
           "AudioPath": "assets/pl/Jodi/188.ogg",
           "TranslationKey": "Strings/schedules/Jodi:spring_11.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Vincent nienawidzi chodzić do lekarza, ale nie ma wyboru."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_101",
           "DialogueText": "Och, wygląda smakowicie! Dziękuję, właśnie tego mi było trzeba. To będzie idealne do mojego żółtego curry.",
           "AudioPath": "assets/pl/Jodi/189.ogg",
           "TranslationKey": "Data/Quests:101",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, wygląda smakowicie! Dziękuję, właśnie tego mi było trzeba. To będzie idealne do mojego żółtego curry."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4293",
           "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/190.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4294",
           "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/191.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
-          "PageIndex": 0,
-          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Town_DumpsterDiveComment_Adult",
           "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/192.ogg",
           "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, przestań! Fuj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4275",
           "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
           "AudioPath": "assets/pl/Jodi/193.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
-          "PageIndex": 0,
-          "DisplayPattern": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4277",
@@ -1566,7 +1398,6 @@
           "AudioPath": "assets/pl/Jodi/194_male.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
           "PageIndex": 0,
-          "DisplayPattern": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
           "GenderVariant": "male"
         },
         {
@@ -1575,7 +1406,6 @@
           "AudioPath": "assets/pl/Jodi/195_female.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
           "PageIndex": 1,
-          "DisplayPattern": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
           "GenderVariant": "female"
         },
         {
@@ -1583,64 +1413,56 @@
           "DialogueText": "Och... To na moje urodziny?... Dzięki. {Portrait:Sad}",
           "AudioPath": "assets/pl/Jodi/196.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... To na moje urodziny?... Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4281",
           "DialogueText": "Och, urodzinowy prezent! Dzięki.",
           "AudioPath": "assets/pl/Jodi/197.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, urodzinowy prezent! Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Invited",
           "DialogueText": "Film? Pewnie. Spotkamy się w kinie.",
           "AudioPath": "assets/pl/Jodi/198.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Invited",
-          "PageIndex": 0,
-          "DisplayPattern": "Film? Pewnie. Spotkamy się w kinie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Reject",
           "DialogueText": "Wybacz, nie mam ochoty iść na film...",
           "AudioPath": "assets/pl/Jodi/199.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Reject",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_AlreadySeen",
           "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
           "AudioPath": "assets/pl/Jodi/200.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
           "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
           "AudioPath": "assets/pl/Jodi/201.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3956",
           "DialogueText": "Umm... nie wydaje mi się.",
           "AudioPath": "assets/pl/Jodi/202.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
-          "PageIndex": 0,
-          "DisplayPattern": "Umm... nie wydaje mi się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3957",
           "DialogueText": "Czy to żart? Nie łapię.",
           "AudioPath": "assets/pl/Jodi/203.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to żart? Nie łapię."
+          "PageIndex": 0
         }
       ]
     }

@@ -32,6 +32,7 @@ AudioName: 168.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Caroline:Tue.002  [plan dnia]
 DialogueText: Mmm... Chyba zasłużyłam sobie na ciasteczko. *chrup*.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 169.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Caroline:winter_16.000  [plan dnia]
@@ -40,6 +41,7 @@ AudioName: 170.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:108  [zakończenie zadania]
 DialogueText: O, dynia! Jest dobra... Abigail na pewno się ucieszy. Dzięki, {Farmer_Name}! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 171.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:129  [zakończenie zadania]
@@ -48,5 +50,6 @@ AudioName: 172.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:129  [zakończenie zadania]
 DialogueText: Dziwne, nie zauważyłam, że zaginął... Cóż, dziękuję, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 173.ogg
 --------------------------------------------------

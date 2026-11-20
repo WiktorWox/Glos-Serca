@@ -13,16 +13,14 @@
           "DialogueText": "Ach, burmistrz Lewis mówił mi, że już jesteś. Jestem Marnie!",
           "AudioPath": "assets/pl/Marnie/1.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Introduction",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach, burmistrz Lewis mówił mi, że już jesteś. Jestem Marnie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Introduction",
           "DialogueText": "Sprzedaję produkty zwierzęce na moim ranczu. Może kiedyś do mnie wpadniesz. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/2.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Introduction",
-          "PageIndex": 1,
-          "DisplayPattern": "Sprzedaję produkty zwierzęce na moim ranczu. Może kiedyś do mnie wpadniesz."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "AcceptGift_(O)StardropTea",
@@ -30,7 +28,7 @@
           "AudioPath": "assets/pl/Marnie/3.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:AcceptGift_(O)StardropTea",
           "PageIndex": 0,
-          "DisplayPattern": "Wow, stokrotne dzięki, . Nie zapomnę tego!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "AcceptGift_(O)SkillBook_0",
@@ -38,15 +36,14 @@
           "AudioPath": "assets/pl/Marnie/4.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:AcceptGift_(O)SkillBook_0",
           "PageIndex": 0,
-          "DisplayPattern": "Dzięki, . Zawsze lubię mieć przy sobie kopię almanachu. Jest całkiem dokładny!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "gotPet",
           "DialogueText": "Myślę, że spodoba Ci się mieszkanie na farmie z nowym przyjacielem.",
           "AudioPath": "assets/pl/Marnie/5.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:gotPet",
-          "PageIndex": 0,
-          "DisplayPattern": "Myślę, że spodoba Ci się mieszkanie na farmie z nowym przyjacielem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "gotPet_memory_oneday",
@@ -54,7 +51,7 @@
           "AudioPath": "assets/pl/Marnie/6.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:gotPet_memory_oneday",
           "PageIndex": 0,
-          "DisplayPattern": "Jestem pewna, że na początku będzie trochę się wstydzić. Zwierzę potrzebuje czasu, żeby oswoić się z nowym otoczeniem."
+          "ActorNote": "%pet – imię zwierzaka gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "gotPet_memory_oneweek",
@@ -62,7 +59,7 @@
           "AudioPath": "assets/pl/Marnie/7.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:gotPet_memory_oneweek",
           "PageIndex": 0,
-          "DisplayPattern": "Czy już się oswoił z nowym miejscem? To bardzo dobre miejsce dla zwierzaka do zwiedzania."
+          "ActorNote": "%pet – imię zwierzaka gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "gotPet_memory_oneyear",
@@ -70,7 +67,7 @@
           "AudioPath": "assets/pl/Marnie/8_male.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:gotPet_memory_oneyear",
           "PageIndex": 0,
-          "DisplayPattern": "Przypomniało mi się... minął już chyba rok, odkąd adoptowałeś . Założę się, że bardzo się do siebie zbliżyliście!",
+          "ActorNote": "%pet – imię zwierzaka gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -79,7 +76,7 @@
           "AudioPath": "assets/pl/Marnie/9_female.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:gotPet_memory_oneyear",
           "PageIndex": 1,
-          "DisplayPattern": "Przypomniało mi się... minął już chyba rok, odkąd adoptowałaś . Założę się, że bardzo się do siebie zbliżyliście!",
+          "ActorNote": "%pet – imię zwierzaka gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -87,16 +84,14 @@
           "DialogueText": "Och, masz konia? To wspaniale! Konie to cudowne zwierzęta. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/10.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:structureBuilt_Stable",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, masz konia? To wspaniale! Konie to cudowne zwierzęta."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "dating_Shane_memory_oneweek",
           "DialogueText": "Shane wydaje się ostatnio dużo bardziej pozytywny i pełen nadziei.",
           "AudioPath": "assets/pl/Marnie/11.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:dating_Shane_memory_oneweek",
-          "PageIndex": 0,
-          "DisplayPattern": "Shane wydaje się ostatnio dużo bardziej pozytywny i pełen nadziei."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "dating_Shane_memory_oneweek",
@@ -104,7 +99,6 @@
           "AudioPath": "assets/pl/Marnie/12_male.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:dating_Shane_memory_oneweek",
           "PageIndex": 1,
-          "DisplayPattern": "Bardzo się cieszę, że się wprowadziłeś i że dobrze się z nim dogadujecie!",
           "GenderVariant": "male"
         },
         {
@@ -113,7 +107,6 @@
           "AudioPath": "assets/pl/Marnie/13_female.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:dating_Shane_memory_oneweek",
           "PageIndex": 2,
-          "DisplayPattern": "Bardzo się cieszę, że się wprowadziłaś i że dobrze się z nim dogadujecie!",
           "GenderVariant": "female"
         },
         {
@@ -121,64 +114,56 @@
           "DialogueText": "Cieszę się, że Shane zamieszkał na Twojej farmie... może podtrzyma rodzinną tradycję!",
           "AudioPath": "assets/pl/Marnie/14.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:married_Shane",
-          "PageIndex": 0,
-          "DisplayPattern": "Cieszę się, że Shane zamieszkał na Twojej farmie... może podtrzyma rodzinną tradycję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort",
           "DialogueText": "He he... W końcu okazja, by pokazać efekty ciężkiej pracy na aerobiku. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/15.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Resort",
-          "PageIndex": 0,
-          "DisplayPattern": "He he... W końcu okazja, by pokazać efekty ciężkiej pracy na aerobiku."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Leaving",
           "DialogueText": "Ależ tu gorąco.",
           "AudioPath": "assets/pl/Marnie/16.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Resort_Leaving",
-          "PageIndex": 0,
-          "DisplayPattern": "Ależ tu gorąco."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Shore",
           "DialogueText": "Hee hee... Wszyscy wyglądają ciekawie w strojach kąpielowych.",
           "AudioPath": "assets/pl/Marnie/17.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Resort_Shore",
-          "PageIndex": 0,
-          "DisplayPattern": "Hee hee... Wszyscy wyglądają ciekawie w strojach kąpielowych."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Chair",
           "DialogueText": "Fuu... to krzesło jest mokre.",
           "AudioPath": "assets/pl/Marnie/18.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Resort_Chair",
-          "PageIndex": 0,
-          "DisplayPattern": "Fuu... to krzesło jest mokre."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Bar",
           "DialogueText": "Fiu... ale skwar! {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/19.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Resort_Bar",
-          "PageIndex": 0,
-          "DisplayPattern": "Fiu... ale skwar!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "reject_789",
           "DialogueText": "Aaaa! {Portrait:Love}",
           "AudioPath": "assets/pl/Marnie/20.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:reject_789",
-          "PageIndex": 0,
-          "DisplayPattern": "Aaaa!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "reject_789",
           "DialogueText": "... Em... Co? Heh... Nie wiem, co to jest... {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/21.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:reject_789",
-          "PageIndex": 1,
-          "DisplayPattern": "... Em... Co? Heh... Nie wiem, co to jest..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Mon",
@@ -186,7 +171,7 @@
           "AudioPath": "assets/pl/Marnie/22_male.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Mon",
           "PageIndex": 0,
-          "DisplayPattern": "Kocham zwierzęta, panie . Dobrze je traktuj, a na pewno się polubicie!",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -195,7 +180,7 @@
           "AudioPath": "assets/pl/Marnie/23_female.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Mon",
           "PageIndex": 1,
-          "DisplayPattern": "Kocham zwierzęta, panno . Dobrze je traktuj, a na pewno się polubicie!",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -203,88 +188,77 @@
           "DialogueText": "Zwierzęta są takie niewinne i słodkie. Jeśli Ty się nimi nie zajmiesz, to kto? {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/24.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Mon4",
-          "PageIndex": 0,
-          "DisplayPattern": "Zwierzęta są takie niewinne i słodkie. Jeśli Ty się nimi nie zajmiesz, to kto?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon4",
           "DialogueText": "Mam nadzieję, że kury się nie denerwują, kiedy biorę ich jajka. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/25.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Mon4",
-          "PageIndex": 1,
-          "DisplayPattern": "Mam nadzieję, że kury się nie denerwują, kiedy biorę ich jajka."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu_2",
           "DialogueText": "Jesteś tu już od jakiegoś czasu... jak tam Twoja farma?",
           "AudioPath": "assets/pl/Marnie/26.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Jesteś tu już od jakiegoś czasu... jak tam Twoja farma?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu_2",
           "DialogueText": "Łatwo opiekować się zwierzętami, jeśli o nich nie zapominasz! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/27.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu_2",
-          "PageIndex": 1,
-          "DisplayPattern": "Łatwo opiekować się zwierzętami, jeśli o nich nie zapominasz!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Saloon",
           "DialogueText": "W końcu mogę odpocząć i spędzić trochę czasu z ludźmi.",
           "AudioPath": "assets/pl/Marnie/28.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon",
-          "PageIndex": 0,
-          "DisplayPattern": "W końcu mogę odpocząć i spędzić trochę czasu z ludźmi."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Saloon_Tue",
           "DialogueText": "Dziś nie ma tu zbyt wielu osób... {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/29.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziś nie ma tu zbyt wielu osób..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Saloon_Wed",
           "DialogueText": "# {Portrait:Happy} marnieAnimalSal",
           "AudioPath": "assets/pl/Marnie/30.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Wed",
-          "PageIndex": 0,
-          "DisplayPattern": "# marnieAnimalSal"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Saloon_Wed",
           "DialogueText": "Wylałam dziś całe wiadro mleka na podłogę, to było okropne. Taka strata ciężkiej pracy biednej Belindy.$k {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/31.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Wylałam dziś całe wiadro mleka na podłogę, to było okropne. Taka strata ciężkiej pracy biednej Belindy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Saloon_Wed",
           "DialogueText": "Fajnie, że tu jesteś! Od razu więcej życia w knajpie.",
           "AudioPath": "assets/pl/Marnie/32.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Wed",
-          "PageIndex": 2,
-          "DisplayPattern": "Fajnie, że tu jesteś! Od razu więcej życia w knajpie."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Saloon_Thu",
           "DialogueText": "Fiu! Świetnie jest trochę odpocząć po całym dniu ciężkiej pracy.",
           "AudioPath": "assets/pl/Marnie/33.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Fiu! Świetnie jest trochę odpocząć po całym dniu ciężkiej pracy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Saloon_Fri",
           "DialogueText": "Marnie chyba Cię nie zauważyła...",
           "AudioPath": "assets/pl/Marnie/34.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Marnie chyba Cię nie zauważyła..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Saloon_Sun",
@@ -292,167 +266,147 @@
           "AudioPath": "assets/pl/Marnie/35.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Sun",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Dziś się za bardzo nie napracowałam."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Saloon_Sat",
           "DialogueText": "Zawsze widzę tu Clinta, ale z nikim nie rozmawia. Tylko od czasu do czasu zerka przez ramię. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/36.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Saloon_Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Zawsze widzę tu Clinta, ale z nikim nie rozmawia. Tylko od czasu do czasu zerka przez ramię."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Przez to, że Shane się wyprowadził, będę musiała nauczyć Jas opiekować się kurami.",
           "AudioPath": "assets/pl/Marnie/37.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Przez to, że Shane się wyprowadził, będę musiała nauczyć Jas opiekować się kurami."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Mój siostrzeniec, Shane, mieszka u mnie od kilku miesięcy.",
           "AudioPath": "assets/pl/Marnie/38.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Mój siostrzeniec, Shane, mieszka u mnie od kilku miesięcy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Pomaga mi z kurami, więc nie narzekam.",
           "AudioPath": "assets/pl/Marnie/39.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Tue",
-          "PageIndex": 2,
-          "DisplayPattern": "Pomaga mi z kurami, więc nie narzekam."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Martwisz się tym deszczem? Mnie wręcz uspokaja...",
           "AudioPath": "assets/pl/Marnie/40.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:GreenRain",
-          "PageIndex": 0,
-          "DisplayPattern": "Martwisz się tym deszczem? Mnie wręcz uspokaja..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Mam nadzieję, że krowy gdzieś się schowały... {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/41.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:GreenRain",
-          "PageIndex": 1,
-          "DisplayPattern": "Mam nadzieję, że krowy gdzieś się schowały..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "GreenRainFinished",
           "DialogueText": "Cóż, widocznie niepotrzebnie się martwiliśmy... Deszcz okazał się całkowicie nieszkodliwy!",
           "AudioPath": "assets/pl/Marnie/42.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:GreenRainFinished",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, widocznie niepotrzebnie się martwiliśmy... Deszcz okazał się całkowicie nieszkodliwy!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain_2",
           "DialogueText": "Najwyraźniej zwierzętom podoba się ten deszcz... Chyba dostarcza trawie dodatkowych składników odżywczych.",
           "AudioPath": "assets/pl/Marnie/43.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:GreenRain_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Najwyraźniej zwierzętom podoba się ten deszcz... Chyba dostarcza trawie dodatkowych składników odżywczych."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Możesz użyć kosy do ścięcia trawy na paszę.",
           "AudioPath": "assets/pl/Marnie/44.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Wed",
-          "PageIndex": 0,
-          "DisplayPattern": "Możesz użyć kosy do ścięcia trawy na paszę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Oczywiście, możesz też ją kupić ode mnie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/45.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Oczywiście, możesz też ją kupić ode mnie!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Przydałoby mi się trochę pieniędzy... {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/46.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Wed",
-          "PageIndex": 2,
-          "DisplayPattern": "Przydałoby mi się trochę pieniędzy..."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Adios.",
           "AudioPath": "assets/pl/Marnie/47.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Wed",
-          "PageIndex": 3,
-          "DisplayPattern": "Adios."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Witaj. Potrzebujesz czegoś?",
           "AudioPath": "assets/pl/Marnie/48.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "Witaj. Potrzebujesz czegoś?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "W przyszłości może sprowadzę tu kilka nowych gatunków zwierząt.",
           "AudioPath": "assets/pl/Marnie/49.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "W przyszłości może sprowadzę tu kilka nowych gatunków zwierząt."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Ale najpierw muszę mieć pewność, że będą miały dobry dom. Udowodnij, że potrafisz się nimi opiekować.",
           "AudioPath": "assets/pl/Marnie/50.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu",
-          "PageIndex": 2,
-          "DisplayPattern": "Ale najpierw muszę mieć pewność, że będą miały dobry dom. Udowodnij, że potrafisz się nimi opiekować."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Po prostu traktuj je z należytym szacunkiem.",
           "AudioPath": "assets/pl/Marnie/51.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu",
-          "PageIndex": 3,
-          "DisplayPattern": "Po prostu traktuj je z należytym szacunkiem."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Większość wieczorów spędzam w saloonie.",
           "AudioPath": "assets/pl/Marnie/52.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Większość wieczorów spędzam w saloonie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Uwielbiam zwierzęta, ale czasem warto też z kimś porozmawiać.",
           "AudioPath": "assets/pl/Marnie/53.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Uwielbiam zwierzęta, ale czasem warto też z kimś porozmawiać."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri6",
           "DialogueText": "Ciekawe, czy pan Lewis czuje się samotny w tak dużym domu... {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/54.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fri6",
-          "PageIndex": 0,
-          "DisplayPattern": "Ciekawe, czy pan Lewis czuje się samotny w tak dużym domu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri6",
           "DialogueText": "W środku wygląda tak pusto, prawda?",
           "AudioPath": "assets/pl/Marnie/55.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fri6",
-          "PageIndex": 1,
-          "DisplayPattern": "W środku wygląda tak pusto, prawda?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat",
@@ -460,7 +414,6 @@
           "AudioPath": "assets/pl/Marnie/56_male.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sat",
           "PageIndex": 0,
-          "DisplayPattern": "Byłeś w tej dziwnej wieży na zachód od mojego domu?",
           "GenderVariant": "male"
         },
         {
@@ -469,7 +422,6 @@
           "AudioPath": "assets/pl/Marnie/57_female.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sat",
           "PageIndex": 1,
-          "DisplayPattern": "Byłaś w tej dziwnej wieży na zachód od mojego domu?",
           "GenderVariant": "female"
         },
         {
@@ -477,32 +429,28 @@
           "DialogueText": "Kiedyś usłyszałam stamtąd okropny dźwięk, jakby z innego świata. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/58.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sat",
-          "PageIndex": 2,
-          "DisplayPattern": "Kiedyś usłyszałam stamtąd okropny dźwięk, jakby z innego świata."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Gdybym była Tobą, trzymałabym się z dala od tego miejsca...",
           "AudioPath": "assets/pl/Marnie/59.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sat",
-          "PageIndex": 3,
-          "DisplayPattern": "Gdybym była Tobą, trzymałabym się z dala od tego miejsca..."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Witaj, dobrze Cię widzieć!",
           "AudioPath": "assets/pl/Marnie/60.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Witaj, dobrze Cię widzieć!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Odwiedzaj nas, kiedy tylko chcesz.",
           "AudioPath": "assets/pl/Marnie/61.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sun",
-          "PageIndex": 1,
-          "DisplayPattern": "Odwiedzaj nas, kiedy tylko chcesz."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun8",
@@ -510,55 +458,49 @@
           "AudioPath": "assets/pl/Marnie/62.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sun8",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, !"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Sun8",
           "DialogueText": "Cieszę się, że się przyjaźnimy. Wiem, że dobrze traktujesz moje zwierzęta.",
           "AudioPath": "assets/pl/Marnie/63.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Sun8",
-          "PageIndex": 1,
-          "DisplayPattern": "Cieszę się, że się przyjaźnimy. Wiem, że dobrze traktujesz moje zwierzęta."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fair_Judging",
           "DialogueText": "Cóż, raz kozie śmierć...",
           "AudioPath": "assets/pl/Marnie/64.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fair_Judging",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, raz kozie śmierć..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fair_Judged",
           "DialogueText": "No cóż, nie wygrałam... ale i tak cieszę się, że mogłam podzielić się moją ciężką pracą!",
           "AudioPath": "assets/pl/Marnie/65.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fair_Judged",
-          "PageIndex": 0,
-          "DisplayPattern": "No cóż, nie wygrałam... ale i tak cieszę się, że mogłam podzielić się moją ciężką pracą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fair_Judged_PlayerLost_PurpleShorts",
           "DialogueText": "Na Twojej wystawie była bardzo dziwna czerwona kapusta! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/66.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fair_Judged_PlayerLost_PurpleShorts",
-          "PageIndex": 0,
-          "DisplayPattern": "Na Twojej wystawie była bardzo dziwna czerwona kapusta!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fair_Judged_PlayerLost_PurpleShorts",
           "DialogueText": "Przysięgam, wyglądała jak specjalna biel... {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/67.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fair_Judged_PlayerLost_PurpleShorts",
-          "PageIndex": 1,
-          "DisplayPattern": "Przysięgam, wyglądała jak specjalna biel..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fair_Judged_PlayerLost_PurpleShorts",
           "DialogueText": "Och!... heh... nieważne! {Portrait:Love}",
           "AudioPath": "assets/pl/Marnie/68.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Fair_Judged_PlayerLost_PurpleShorts",
-          "PageIndex": 2,
-          "DisplayPattern": "Och!... heh... nieważne!"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "rainy",
@@ -566,7 +508,7 @@
           "AudioPath": "assets/pl/Marnie/69.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Marnie",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, . Taka ulewa, a Ty musisz pracować w polu... Biedactwo!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s0",
@@ -574,31 +516,28 @@
           "AudioPath": "assets/pl/Marnie/70.ogg",
           "TranslationKey": "Events/Farm:1590166:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Witaj !"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s1",
           "DialogueText": "Widzisz tego kota?",
           "AudioPath": "assets/pl/Marnie/71.ogg",
           "TranslationKey": "Events/Farm:1590166:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Widzisz tego kota?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s2",
           "DialogueText": "Znalazłam go przy wejściu na Twoją farmę! Chyba nie ma domu... Biedny kiciuś. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/72.ogg",
           "TranslationKey": "Events/Farm:1590166:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Znalazłam go przy wejściu na Twoją farmę! Chyba nie ma domu... Biedny kiciuś."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s3",
           "DialogueText": "Chyba lubi to miejsce! Hej, em.... Nie wydaje Ci się, że tej farmie przydałby się kot? {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/73.ogg",
           "TranslationKey": "Events/Farm:1590166:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Chyba lubi to miejsce! Hej, em.... Nie wydaje Ci się, że tej farmie przydałby się kot?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s4",
@@ -606,7 +545,7 @@
           "AudioPath": "assets/pl/Marnie/74.ogg",
           "TranslationKey": "Events/Farm:1590166:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Cóż, ... Bądź dobrym kotkiem... dobrze?"
+          "ActorNote": "%pet – imię zwierzaka gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Farm/897405:s0",
@@ -614,31 +553,28 @@
           "AudioPath": "assets/pl/Marnie/75.ogg",
           "TranslationKey": "Events/Farm:897405:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Witaj !"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Farm/897405:s1",
           "DialogueText": "Widzisz tego psa?",
           "AudioPath": "assets/pl/Marnie/76.ogg",
           "TranslationKey": "Events/Farm:897405:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Widzisz tego psa?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/897405:s2",
           "DialogueText": "Znalazłam tego psa przed wejściem na farmę! Chyba jest bezdomny... Biedny piesek. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/77.ogg",
           "TranslationKey": "Events/Farm:897405:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Znalazłam tego psa przed wejściem na farmę! Chyba jest bezdomny... Biedny piesek."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/897405:s3",
           "DialogueText": "Chyba lubi to miejsce! Hej, em.... Nie uważasz, że tej farmie przydałby się dobry pies? {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/78.ogg",
           "TranslationKey": "Events/Farm:897405:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Chyba lubi to miejsce! Hej, em.... Nie uważasz, że tej farmie przydałby się dobry pies?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/897405:s4",
@@ -646,7 +582,7 @@
           "AudioPath": "assets/pl/Marnie/79.ogg",
           "TranslationKey": "Events/Farm:897405:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Cóż, ... Bądź grzecznym pieskiem... dobrze?"
+          "ActorNote": "%pet – imię zwierzaka gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Farm/91:s0",
@@ -654,7 +590,7 @@
           "AudioPath": "assets/pl/Marnie/80_male.ogg",
           "TranslationKey": "Events/Farm:91:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Dzień dobry, Panie !",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -663,7 +599,7 @@
           "AudioPath": "assets/pl/Marnie/81_female.ogg",
           "TranslationKey": "Events/Farm:91:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Dzień Dobry, Pani !",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -671,16 +607,14 @@
           "DialogueText": "Skoro taki dobry z Ciebie sąsiad, to chciałabym Cię poprosić o przysługę.",
           "AudioPath": "assets/pl/Marnie/82.ogg",
           "TranslationKey": "Events/Farm:91:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Skoro taki dobry z Ciebie sąsiad, to chciałabym Cię poprosić o przysługę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/91:s3",
           "DialogueText": "Widzisz, próbuję nauczyć kozy powiedzieć 'Cześć'... ale nie zwracają na mnie uwagi, chyba że będę miała ich ulubiony przysmak, jaskiniową marchew! {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/83.ogg",
           "TranslationKey": "Events/Farm:91:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Widzisz, próbuję nauczyć kozy powiedzieć 'Cześć'... ale nie zwracają na mnie uwagi, chyba że będę miała ich ulubiony przysmak, jaskiniową marchew!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/91:s4",
@@ -688,7 +622,6 @@
           "AudioPath": "assets/pl/Marnie/84_male.ogg",
           "TranslationKey": "Events/Farm:91:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Cóż... skoro boję się kopalni... pomyślałam, że w wolnym czasie mógłbyś mi taką znaleźć?",
           "GenderVariant": "male"
         },
         {
@@ -697,7 +630,6 @@
           "AudioPath": "assets/pl/Marnie/85_female.ogg",
           "TranslationKey": "Events/Farm:91:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Cóż... skoro boję się kopalni... pomyślałam, że w wolnym czasie mogłabyś mi taką znaleźć?",
           "GenderVariant": "female"
         },
         {
@@ -705,40 +637,35 @@
           "DialogueText": "Nie zmuszam... ale jeśli chcesz, przyjdź do mojego domu pomiędzy 9:00 a 17:00 z jaskiniową marchewką. Uszczęśliwisz tym starszą panią. Pa.",
           "AudioPath": "assets/pl/Marnie/86.ogg",
           "TranslationKey": "Events/Farm:91:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie zmuszam... ale jeśli chcesz, przyjdź do mojego domu pomiędzy 9:00 a 17:00 z jaskiniową marchewką. Uszczęśliwisz tym starszą panią. Pa."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Farm/91:s7",
           "DialogueText": "Moje kozy strasznie uwielbiają jaskiniową marchew... nie wiem czemu.",
           "AudioPath": "assets/pl/Marnie/87.ogg",
           "TranslationKey": "Events/Farm:91:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Moje kozy strasznie uwielbiają jaskiniową marchew... nie wiem czemu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/639373:s0",
           "DialogueText": "Za bardzo się przejmujesz swoją pracą, Lewis. Są w życiu ważniejsze rzeczy, wiesz? {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/88.ogg",
           "TranslationKey": "Events/Town:639373:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Za bardzo się przejmujesz swoją pracą, Lewis. Są w życiu ważniejsze rzeczy, wiesz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/639373:s1",
           "DialogueText": "... ale tak, rozumiem. I powinniśmy to zachować... w tajemnicy. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/89.ogg",
           "TranslationKey": "Events/Town:639373:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "... ale tak, rozumiem. I powinniśmy to zachować... w tajemnicy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/639373:s2",
           "DialogueText": "Aaa! {Portrait:Love}",
           "AudioPath": "assets/pl/Marnie/90.ogg",
           "TranslationKey": "Events/Town:639373:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Aaa!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/639373:s3",
@@ -746,7 +673,6 @@
           "AudioPath": "assets/pl/Marnie/91_male.ogg",
           "TranslationKey": "Events/Town:639373:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Czemu się tam w ogóle chowałeś?",
           "GenderVariant": "male"
         },
         {
@@ -755,7 +681,6 @@
           "AudioPath": "assets/pl/Marnie/92_female.ogg",
           "TranslationKey": "Events/Town:639373:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Czemu się tam w ogóle chowałaś?",
           "GenderVariant": "female"
         },
         {
@@ -763,8 +688,7 @@
           "DialogueText": "O nie... to nie wygląda dobrze. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/93.ogg",
           "TranslationKey": "Events/Town:3917584:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "O nie... to nie wygląda dobrze."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/3917584:s1",
@@ -772,7 +696,7 @@
           "AudioPath": "assets/pl/Marnie/94.ogg",
           "TranslationKey": "Events/Town:3917584:s1",
           "PageIndex": 0,
-          "DisplayPattern": "? Lepiej miej na niego oko... musisz mu coś powiedzieć następnym razem jak zobaczysz, że wychodzi z knajpy..."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Town/3917584:s2",
@@ -780,7 +704,7 @@
           "AudioPath": "assets/pl/Marnie/95_male.ogg",
           "TranslationKey": "Events/Town:3917584:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Wszystko w porządku, ? Wyglądasz na zmartwionego.",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -789,7 +713,7 @@
           "AudioPath": "assets/pl/Marnie/96_female.ogg",
           "TranslationKey": "Events/Town:3917584:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Wszystko w porządku, ? Wyglądasz na zmartwioną...",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -798,7 +722,6 @@
           "AudioPath": "assets/pl/Marnie/97_male.ogg",
           "TranslationKey": "Events/Town:3917586:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Dobra... złapaliśmy go na gorącym uczynku. Idziemy z nim pogadać. Głęboki wdech...",
           "GenderVariant": "male"
         },
         {
@@ -807,7 +730,6 @@
           "AudioPath": "assets/pl/Marnie/98_female.ogg",
           "TranslationKey": "Events/Town:3917586:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Dobra... złapałyśmy go na gorącym uczynku. Idziemy z nim pogadać. Głęboki wdech...",
           "GenderVariant": "female"
         },
         {
@@ -815,16 +737,14 @@
           "DialogueText": "Shane... właśnie to tutaj robiłeś? {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/99.ogg",
           "TranslationKey": "Events/Town:3917586:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Shane... właśnie to tutaj robiłeś?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/3917586:s3",
           "DialogueText": "Ale... te puszki... {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/100.ogg",
           "TranslationKey": "Events/Town:3917586:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Ale... te puszki..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
@@ -832,23 +752,21 @@
           "AudioPath": "assets/pl/Marnie/101.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Um... Haley? Ile jeszcze? M... Moje nogi... *dyszenie*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Town/6184644:s1",
           "DialogueText": "Jest",
           "AudioPath": "assets/pl/Marnie/102.ogg",
           "TranslationKey": "Events/Town:6184644:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Jest"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s0",
           "DialogueText": "Coś czuję!",
           "AudioPath": "assets/pl/Marnie/103.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Coś czuję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Saloon/3206194:s0",
@@ -856,55 +774,49 @@
           "AudioPath": "assets/pl/Marnie/104.ogg",
           "TranslationKey": "Events/Saloon:3206194:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Mmmm... Jajka z ''''."
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s0",
           "DialogueText": "Em... Leah? Ile jeszcze muszę stać? {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/105.ogg",
           "TranslationKey": "Events/Forest:3091462:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Em... Leah? Ile jeszcze muszę stać?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s1",
           "DialogueText": "... Kolana mi drżą, uda skomlą i straciłam czucie w stopie. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/106.ogg",
           "TranslationKey": "Events/Forest:3091462:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "... Kolana mi drżą, uda skomlą i straciłam czucie w stopie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s2",
           "DialogueText": "Zróbcie tak, żebym ładnie wyglądała!",
           "AudioPath": "assets/pl/Marnie/107.ogg",
           "TranslationKey": "Events/Forest:3091462:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Zróbcie tak, żebym ładnie wyglądała!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s3",
           "DialogueText": "Oooch!",
           "AudioPath": "assets/pl/Marnie/108.ogg",
           "TranslationKey": "Events/Forest:3091462:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Oooch!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s4",
           "DialogueText": "Podoba mi się! Powieszę to w moim pokoju... {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/109.ogg",
           "TranslationKey": "Events/Forest:3091462:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Podoba mi się! Powieszę to w moim pokoju..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s5",
           "DialogueText": "Dajcie zobaczyć",
           "AudioPath": "assets/pl/Marnie/110.ogg",
           "TranslationKey": "Events/Forest:3091462:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Dajcie zobaczyć"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s6",
@@ -912,15 +824,14 @@
           "AudioPath": "assets/pl/Marnie/111.ogg",
           "TranslationKey": "Events/Forest:3091462:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Em... , może weźmiesz swój dla siebie? Miło będzie jeśli, uch... zatrzymasz swoje pierwsze malowidło... wiesz?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Forest/3091462:s7",
           "DialogueText": "Um... Kochanie? Gdzie planujesz powiesić swój obraz? {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/112.ogg",
           "TranslationKey": "Events/Forest:3091462:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Um... Kochanie? Gdzie planujesz powiesić swój obraz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/92:s0",
@@ -928,7 +839,7 @@
           "AudioPath": "assets/pl/Marnie/113_male.ogg",
           "TranslationKey": "Events/AnimalShop:92:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Och! Ma Pan jaskiniową marchew! Bardzo dziękuję, Panie .",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "male"
         },
         {
@@ -937,7 +848,7 @@
           "AudioPath": "assets/pl/Marnie/114_female.ogg",
           "TranslationKey": "Events/AnimalShop:92:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Och! Ma Pani jaskiniową marchew! Bardzo dziękuję, Panno .",
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
           "GenderVariant": "female"
         },
         {
@@ -945,56 +856,49 @@
           "DialogueText": "Wygląda wspaniale... Nawet sama bym ją zjadła! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/115.ogg",
           "TranslationKey": "Events/AnimalShop:92:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Wygląda wspaniale... Nawet sama bym ją zjadła!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/92:s3",
           "DialogueText": "... prawie.",
           "AudioPath": "assets/pl/Marnie/116.ogg",
           "TranslationKey": "Events/AnimalShop:92:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "... prawie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/92:s4",
           "DialogueText": "Mam nadzieję, że nie było z tym wielkiego problemu... Naprawdę to doceniam.",
           "AudioPath": "assets/pl/Marnie/117.ogg",
           "TranslationKey": "Events/AnimalShop:92:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że nie było z tym wielkiego problemu... Naprawdę to doceniam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/92:s5",
           "DialogueText": "Jeszcze raz dziękuję za pomoc. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/118.ogg",
           "TranslationKey": "Events/AnimalShop:92:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Jeszcze raz dziękuję za pomoc."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/92:s6",
           "DialogueText": "... i moje kozy też mówią 'dziękuję'.",
           "AudioPath": "assets/pl/Marnie/119.ogg",
           "TranslationKey": "Events/AnimalShop:92:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "... i moje kozy też mówią 'dziękuję'."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910674:s0",
           "DialogueText": "Shane?",
           "AudioPath": "assets/pl/Marnie/120.ogg",
           "TranslationKey": "Events/AnimalShop:3910674:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Shane?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910674:s1",
           "DialogueText": "O mój...",
           "AudioPath": "assets/pl/Marnie/121.ogg",
           "TranslationKey": "Events/AnimalShop:3910674:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "O mój..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910674:s2",
@@ -1002,79 +906,70 @@
           "AudioPath": "assets/pl/Marnie/122.ogg",
           "TranslationKey": "Events/AnimalShop:3910674:s2",
           "PageIndex": 0,
-          "DisplayPattern": "... Możesz coś z tym zrobić? Jest pijany."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910674:s3",
           "DialogueText": "Shane! Co jest z Tobą nie tak? Jedyne co robisz, to siedzisz w tym pokoju i pijesz piwsko! {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/123.ogg",
           "TranslationKey": "Events/AnimalShop:3910674:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Shane! Co jest z Tobą nie tak? Jedyne co robisz, to siedzisz w tym pokoju i pijesz piwsko!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910674:s4",
           "DialogueText": "Martwię się...",
           "AudioPath": "assets/pl/Marnie/124.ogg",
           "TranslationKey": "Events/AnimalShop:3910674:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Martwię się..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910674:s5",
           "DialogueText": "Jakie masz plany? Nie myślisz o przyszłości?",
           "AudioPath": "assets/pl/Marnie/125.ogg",
           "TranslationKey": "Events/AnimalShop:3910674:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Jakie masz plany? Nie myślisz o przyszłości?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910974:s0",
           "DialogueText": "Cześć Shane... wyglądasz dziś wyjątkowo wesoło.",
           "AudioPath": "assets/pl/Marnie/126.ogg",
           "TranslationKey": "Events/AnimalShop:3910974:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć Shane... wyglądasz dziś wyjątkowo wesoło."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910974:s1",
           "DialogueText": "Niech zgadnę... Gus miał zniżkę na piwo? {Portrait:Unique}",
           "AudioPath": "assets/pl/Marnie/127.ogg",
           "TranslationKey": "Events/AnimalShop:3910974:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Niech zgadnę... Gus miał zniżkę na piwo?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/AnimalShop/3910974:s2",
           "DialogueText": "Nieźle wygląda!",
           "AudioPath": "assets/pl/Marnie/128.ogg",
           "TranslationKey": "Events/AnimalShop:3910974:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Nieźle wygląda!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Marnie",
           "DialogueText": "Bardzo się starałam, ale moja wystawa jest słaba w porównaniu do wystawy Pierre. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/129.ogg",
           "TranslationKey": "Data/Festivals/fall16:Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Bardzo się starałam, ale moja wystawa jest słaba w porównaniu do wystawy Pierre."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Marnie",
           "DialogueText": "Cóż, może sędziowie dadzą mi bonusowe punkty za wielki krąg sera.",
           "AudioPath": "assets/pl/Marnie/130.ogg",
           "TranslationKey": "Data/Festivals/fall16:Marnie",
-          "PageIndex": 1,
-          "DisplayPattern": "Cóż, może sędziowie dadzą mi bonusowe punkty za wielki krąg sera."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/fall16/Marnie_y2",
           "DialogueText": "Moje zwierzęta miały udany rok! Mam nadzieję, że produkty wysokiej jakości zaimponują sędziom. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/131.ogg",
           "TranslationKey": "Data/Festivals/fall16:Marnie_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Moje zwierzęta miały udany rok! Mam nadzieję, że produkty wysokiej jakości zaimponują sędziom."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Marnie_y2",
@@ -1082,7 +977,7 @@
           "AudioPath": "assets/pl/Marnie/132.ogg",
           "TranslationKey": "Data/Festivals/fall16:Marnie_y2",
           "PageIndex": 1,
-          "DisplayPattern": "A jak twoja wystawa, ? To Twój czas na zaprezentowanie owoców swojej pracy."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/fall27/Marnie",
@@ -1090,23 +985,21 @@
           "AudioPath": "assets/pl/Marnie/133.ogg",
           "TranslationKey": "Data/Festivals/fall27:Marnie",
           "PageIndex": 0,
-          "DisplayPattern": "Witaj, . Czy ta jesień była dla Ciebie produktywna?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/fall27/Marnie",
           "DialogueText": "Zaczyna być zimno... Uprawy nie utrzymają się dłużej.",
           "AudioPath": "assets/pl/Marnie/134.ogg",
           "TranslationKey": "Data/Festivals/fall27:Marnie",
-          "PageIndex": 1,
-          "DisplayPattern": "Zaczyna być zimno... Uprawy nie utrzymają się dłużej."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/fall27/Marnie_y2",
           "DialogueText": "Mam nadzieję, że Jas nic nie jest. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/135.ogg",
           "TranslationKey": "Data/Festivals/fall27:Marnie_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że Jas nic nie jest."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/Marnie_y2",
@@ -1114,31 +1007,28 @@
           "AudioPath": "assets/pl/Marnie/136.ogg",
           "TranslationKey": "Data/Festivals/fall27:Marnie_y2",
           "PageIndex": 1,
-          "DisplayPattern": "Czy ten rok na farmie był udany, ?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/spring13/Marnie",
           "DialogueText": "Witam na Festiwalu Jajek... pozdrowienia od mojego wspaniałego stada kur.",
           "AudioPath": "assets/pl/Marnie/137.ogg",
           "TranslationKey": "Data/Festivals/spring13:Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Witam na Festiwalu Jajek... pozdrowienia od mojego wspaniałego stada kur."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Marnie_y2",
           "DialogueText": "Kury składają jaja, ale koguty też grają ważną rolę... Chronią kury i zapobiegają walkom!",
           "AudioPath": "assets/pl/Marnie/138.ogg",
           "TranslationKey": "Data/Festivals/spring13:Marnie_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Kury składają jaja, ale koguty też grają ważną rolę... Chronią kury i zapobiegają walkom!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Marnie_y2",
           "DialogueText": "A to znaczy, że szczęśliwe kury złożą lepsze jaja... {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/139.ogg",
           "TranslationKey": "Data/Festivals/spring13:Marnie_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "A to znaczy, że szczęśliwe kury złożą lepsze jaja..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/spring24/Marnie",
@@ -1146,31 +1036,28 @@
           "AudioPath": "assets/pl/Marnie/140.ogg",
           "TranslationKey": "Data/Festivals/spring24:Marnie",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Czuć miłość w powietrzu... A ja nadal jestem singielką."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Festival/spring24/Marnie_y2",
           "DialogueText": "Ta łąka byłaby idealnym pastwiskiem dla zwierząt, nie uważasz? {Portrait:Neutral}",
           "AudioPath": "assets/pl/Marnie/141.ogg",
           "TranslationKey": "Data/Festivals/spring24:Marnie_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Ta łąka byłaby idealnym pastwiskiem dla zwierząt, nie uważasz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Marnie_y2",
           "DialogueText": "Psst... Myślę, że Lewis poprosi mnie do tańca! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/142.ogg",
           "TranslationKey": "Data/Festivals/spring24:Marnie_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Psst... Myślę, że Lewis poprosi mnie do tańca!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/summer11/Marnie",
           "DialogueText": "Jeśli masz co dodać do zupy, wespnij się po drugiej stronie i to wrzuć.",
           "AudioPath": "assets/pl/Marnie/143.ogg",
           "TranslationKey": "Data/Festivals/summer11:Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Jeśli masz co dodać do zupy, wespnij się po drugiej stronie i to wrzuć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Marnie_y2",
@@ -1178,7 +1065,7 @@
           "AudioPath": "assets/pl/Marnie/144.ogg",
           "TranslationKey": "Data/Festivals/summer11:Marnie_y2",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, ! Masz ze sobą jakiś składnik do zupy? Wejdź po schodach i go wrzuć!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/summer11/Marnie:textAboveHead:0",
@@ -1186,39 +1073,35 @@
           "AudioPath": "assets/pl/Marnie/145.ogg",
           "TranslationKey": "Festivals/summer11:Marnie:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*Głęboki wdech*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Festival/summer28/Marnie",
           "DialogueText": "Masa ludzi na tych starych spróchniałych dokach! Lepiej zostanę tutaj, blisko plaży.",
           "AudioPath": "assets/pl/Marnie/146.ogg",
           "TranslationKey": "Data/Festivals/summer28:Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Masa ludzi na tych starych spróchniałych dokach! Lepiej zostanę tutaj, blisko plaży."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Marnie_y2",
           "DialogueText": "Nie mogę iść dalej. To skrzypiące drewno sprawia, że drżę. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/147.ogg",
           "TranslationKey": "Data/Festivals/summer28:Marnie_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę iść dalej. To skrzypiące drewno sprawia, że drżę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Marnie_y2",
           "DialogueText": "Gdy byłam mała, wpadłam przez spróchniałą deskę i mam teraz traumę... {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/148.ogg",
           "TranslationKey": "Data/Festivals/summer28:Marnie_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Gdy byłam mała, wpadłam przez spróchniałą deskę i mam teraz traumę..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/winter25/Marnie",
           "DialogueText": "Witam w Święto Gwiazdy Polarnej! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/149.ogg",
           "TranslationKey": "Data/Festivals/winter25:Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Witam w Święto Gwiazdy Polarnej!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Marnie_y2",
@@ -1226,63 +1109,56 @@
           "AudioPath": "assets/pl/Marnie/150.ogg",
           "TranslationKey": "Data/Festivals/winter25:Marnie_y2",
           "PageIndex": 0,
-          "DisplayPattern": "Wesołych Świąt, !"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/winter8/Marnie",
           "DialogueText": "Źle mi z tym, że te wszystkie biedne zwierzęta marzną na zewnątrz. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/151.ogg",
           "TranslationKey": "Data/Festivals/winter8:Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Źle mi z tym, że te wszystkie biedne zwierzęta marzną na zewnątrz."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/Marnie_y2",
           "DialogueText": "Ooo... Ta świnka wygląda tak uroczo! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/152.ogg",
           "TranslationKey": "Data/Festivals/winter8:Marnie_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Ooo... Ta świnka wygląda tak uroczo!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Marnie:s0",
           "DialogueText": "To jest niesamowite! Dzięki!!",
           "AudioPath": "assets/pl/Marnie/153.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Marnie:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "To jest niesamowite! Dzięki!!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Marnie:s1",
           "DialogueText": "Dziękuję!",
           "AudioPath": "assets/pl/Marnie/154.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Marnie:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Marnie:s2",
           "DialogueText": "Och. Chyba to przyjmę.",
           "AudioPath": "assets/pl/Marnie/155.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Marnie:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Och. Chyba to przyjmę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Marnie:s3",
           "DialogueText": "To jest bezwartościowe. Nie rozumiem cię.",
           "AudioPath": "assets/pl/Marnie/156.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Marnie:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "To jest bezwartościowe. Nie rozumiem cię."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Marnie:s4",
           "DialogueText": "Dziękuję! Ładnie wygląda.",
           "AudioPath": "assets/pl/Marnie/157.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Marnie:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję! Ładnie wygląda."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Marnie_love_BeforeMovie",
@@ -1290,23 +1166,21 @@
           "AudioPath": "assets/pl/Marnie/158.ogg",
           "TranslationKey": "Strings/MovieReactions:Marnie_love_BeforeMovie",
           "PageIndex": 0,
-          "DisplayPattern": "Już wiem, że mi się ten film spodoba! Dziękuje za zaproszenie, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "MovieReactions/Marnie_love_AfterMovie",
           "DialogueText": "Och, tak się cieszę, że na końcu rodzinie nic się nie stało. I krowom też! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/159.ogg",
           "TranslationKey": "Strings/MovieReactions:Marnie_love_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, tak się cieszę, że na końcu rodzinie nic się nie stało. I krowom też!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Marnie_like_BeforeMovie",
           "DialogueText": "Tak w sumie... To nie ma takiego filmu, którego bym nie polubiła!",
           "AudioPath": "assets/pl/Marnie/160.ogg",
           "TranslationKey": "Strings/MovieReactions:Marnie_like_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak w sumie... To nie ma takiego filmu, którego bym nie polubiła!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Marnie_like_AfterMovie",
@@ -1314,7 +1188,7 @@
           "AudioPath": "assets/pl/Marnie/161.ogg",
           "TranslationKey": "Strings/MovieReactions:Marnie_like_AfterMovie",
           "PageIndex": 0,
-          "DisplayPattern": "Dobrze się bawiłam, ! Dziękuję za zaproszenie."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Marnie",
@@ -1322,7 +1196,7 @@
           "AudioPath": "assets/pl/Marnie/162.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Marnie",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, . Właśnie myślałam o mleku."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Marnie",
@@ -1330,7 +1204,6 @@
           "AudioPath": "assets/pl/Marnie/163_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Marnie",
           "PageIndex": 1,
-          "DisplayPattern": "Czy kiedykolwiek spróbowałbyś wielbłądziego mleka? Słyszałam, że jest słone.",
           "GenderVariant": "male"
         },
         {
@@ -1339,7 +1212,6 @@
           "AudioPath": "assets/pl/Marnie/164_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Marnie",
           "PageIndex": 2,
-          "DisplayPattern": "Czy kiedykolwiek spróbowałabyś wielbłądziego mleka? Słyszałam, że jest słone.",
           "GenderVariant": "female"
         },
         {
@@ -1347,24 +1219,21 @@
           "DialogueText": "Znalazłam nie otwartą rolkę tapety z mojego domu. Za 20 jajek jest Twoja!",
           "AudioPath": "assets/pl/Marnie/165.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Marnie",
-          "PageIndex": 0,
-          "DisplayPattern": "Znalazłam nie otwartą rolkę tapety z mojego domu. Za 20 jajek jest Twoja!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Marnie_Counter",
           "DialogueText": "'Nie ma mnie, ale nadal możesz ode mnie kupować używając katalogu zwierząt!' -Marnie",
           "AudioPath": "assets/pl/Marnie/166.ogg",
           "TranslationKey": "Strings/1_6_Strings:Marnie_Counter",
-          "PageIndex": 0,
-          "DisplayPattern": "'Nie ma mnie, ale nadal możesz ode mnie kupować używając katalogu zwierząt!' -Marnie"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Marnie_Pet_Adoption",
           "DialogueText": "Tym biedactwom przydałby się dobry dom...",
           "AudioPath": "assets/pl/Marnie/167.ogg",
           "TranslationKey": "Strings/1_6_Strings:Marnie_Pet_Adoption",
-          "PageIndex": 0,
-          "DisplayPattern": "Tym biedactwom przydałby się dobry dom..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:AdoptedPet_Marnie",
@@ -1372,23 +1241,21 @@
           "AudioPath": "assets/pl/Marnie/168.ogg",
           "TranslationKey": "Strings/1_6_Strings:AdoptedPet_Marnie",
           "PageIndex": 0,
-          "DisplayPattern": "Świetnie! Zaraz wyślę {0} do Twojego domu."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_Greeting1",
           "DialogueText": "Witaj!",
           "AudioPath": "assets/pl/Marnie/169.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_Greeting1",
-          "PageIndex": 0,
-          "DisplayPattern": "Witaj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_Greeting2",
           "DialogueText": "Czółko!",
           "AudioPath": "assets/pl/Marnie/170.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_Greeting2",
-          "PageIndex": 0,
-          "DisplayPattern": "Czółko!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_CloseFriends",
@@ -1396,31 +1263,28 @@
           "AudioPath": "assets/pl/Marnie/171.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_CloseFriends",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, {0}"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_NotCloseFriends",
           "DialogueText": "Potrzebujesz zapasów?",
           "AudioPath": "assets/pl/Marnie/172.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_NotCloseFriends",
-          "PageIndex": 0,
-          "DisplayPattern": "Potrzebujesz zapasów?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_Raining",
           "DialogueText": "Wytrzyj buty!",
           "AudioPath": "assets/pl/Marnie/173.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_Raining",
-          "PageIndex": 0,
-          "DisplayPattern": "Wytrzyj buty!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_NotRaining",
           "DialogueText": "Hej! Jak tam pogoda?",
           "AudioPath": "assets/pl/Marnie/174.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_NotRaining",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej! Jak tam pogoda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_Greeting3",
@@ -1428,71 +1292,63 @@
           "AudioPath": "assets/pl/Marnie/175.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_Greeting3",
           "PageIndex": 0,
-          "DisplayPattern": "Hej! Jak na Farmie {1}?"
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_RareGreeting",
           "DialogueText": "Lew...? Och...",
           "AudioPath": "assets/pl/Marnie/176.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_RareGreeting",
-          "PageIndex": 0,
-          "DisplayPattern": "Lew...? Och..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_18.000",
           "DialogueText": "Myślę, że Jas lubi chodzić do doktora. Niezwykłe dziecko.",
           "AudioPath": "assets/pl/Marnie/177.ogg",
           "TranslationKey": "Strings/schedules/Marnie:winter_18.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Myślę, że Jas lubi chodzić do doktora. Niezwykłe dziecko."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_18.000",
           "DialogueText": "Emm... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?",
           "AudioPath": "assets/pl/Marnie/178.ogg",
           "TranslationKey": "Strings/schedules/Marnie:fall_18.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Emm... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue.000",
           "DialogueText": "Tej nocy będę spała jak suseł. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/179.ogg",
           "TranslationKey": "Strings/schedules/Marnie:Tue.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Tej nocy będę spała jak suseł."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_18.001",
           "DialogueText": "Czekamy tu na wizytę o 13:30.",
           "AudioPath": "assets/pl/Marnie/180.ogg",
           "TranslationKey": "Strings/schedules/Marnie:winter_18.001",
-          "PageIndex": 0,
-          "DisplayPattern": "Czekamy tu na wizytę o 13:30."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_18.002",
           "DialogueText": "Emm... Doktorze Harvey? Czy po zastrzyku możemy dostać dwa lizaki?",
           "AudioPath": "assets/pl/Marnie/181.ogg",
           "TranslationKey": "Strings/schedules/Marnie:winter_18.002",
-          "PageIndex": 0,
-          "DisplayPattern": "Emm... Doktorze Harvey? Czy po zastrzyku możemy dostać dwa lizaki?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_16.000",
           "DialogueText": "Ooch... Drobny fioletowy jedwab. Nie znajdziesz tego w JojaMarkecie!",
           "AudioPath": "assets/pl/Marnie/182.ogg",
           "TranslationKey": "Strings/schedules/Marnie:winter_16.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Ooch... Drobny fioletowy jedwab. Nie znajdziesz tego w JojaMarkecie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_106",
           "DialogueText": "Och, amarantus, o który prosiłam! Dziękuję Ci tak bardzo... moje krowy to pokochają! {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/183.ogg",
           "TranslationKey": "Data/Quests:106",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, amarantus, o który prosiłam! Dziękuję Ci tak bardzo... moje krowy to pokochają!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Phone_Marnie_Open",
@@ -1500,7 +1356,7 @@
           "AudioPath": "assets/pl/Marnie/184.ogg",
           "TranslationKey": "Strings/Characters:Phone_Marnie_Open",
           "PageIndex": 0,
-          "DisplayPattern": "Halo? Och, cześć ! Tak, mój sklep jest dzisiaj otwarty do 16. To do później! *klik*"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Marnie_Open_Rare",
@@ -1508,7 +1364,7 @@
           "AudioPath": "assets/pl/Marnie/185.ogg",
           "TranslationKey": "Strings/Characters:Phone_Marnie_Open_Rare",
           "PageIndex": 0,
-          "DisplayPattern": "Lew...? Hah... Hejjj! Tak, Sklep jest dziś otwarty. *meee*. Ten dźwięk? Och, to jedna z moich kóz. Przyjdź, jeśli czegoś ci potrzebujesz! *klik*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Marnie_Closed",
@@ -1516,47 +1372,42 @@
           "AudioPath": "assets/pl/Marnie/186.ogg",
           "TranslationKey": "Strings/Characters:Phone_Marnie_Closed",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, dodzwoniłeś się do Rancza Marnie. Pracuję od 9 do 16. Proszę wtedy przyjść. *biip*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Marnie_ClosedDay",
           "DialogueText": "Cześć, dodzwoniłeś się do Rancza Marnie. Mój sklep jest dzisiaj zamknięty.",
           "AudioPath": "assets/pl/Marnie/187.ogg",
           "TranslationKey": "Strings/Characters:Phone_Marnie_ClosedDay",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć, dodzwoniłeś się do Rancza Marnie. Mój sklep jest dzisiaj zamknięty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4293",
           "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/188.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4294",
           "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/189.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
-          "PageIndex": 0,
-          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Town_DumpsterDiveComment_Adult",
           "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/190.ogg",
           "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, przestań! Fuj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4275",
           "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
           "AudioPath": "assets/pl/Marnie/191.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
-          "PageIndex": 0,
-          "DisplayPattern": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4277",
@@ -1564,7 +1415,6 @@
           "AudioPath": "assets/pl/Marnie/192_male.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
           "PageIndex": 0,
-          "DisplayPattern": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
           "GenderVariant": "male"
         },
         {
@@ -1573,7 +1423,6 @@
           "AudioPath": "assets/pl/Marnie/193_female.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
           "PageIndex": 1,
-          "DisplayPattern": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
           "GenderVariant": "female"
         },
         {
@@ -1581,64 +1430,56 @@
           "DialogueText": "Och... To na moje urodziny?... Dzięki. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/194.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... To na moje urodziny?... Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4281",
           "DialogueText": "Och, urodzinowy prezent! Dzięki.",
           "AudioPath": "assets/pl/Marnie/195.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, urodzinowy prezent! Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Invited",
           "DialogueText": "Film? Pewnie. Spotkamy się w kinie.",
           "AudioPath": "assets/pl/Marnie/196.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Invited",
-          "PageIndex": 0,
-          "DisplayPattern": "Film? Pewnie. Spotkamy się w kinie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Reject",
           "DialogueText": "Wybacz, nie mam ochoty iść na film...",
           "AudioPath": "assets/pl/Marnie/197.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Reject",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_AlreadySeen",
           "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
           "AudioPath": "assets/pl/Marnie/198.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
           "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
           "AudioPath": "assets/pl/Marnie/199.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3956",
           "DialogueText": "Umm... nie wydaje mi się.",
           "AudioPath": "assets/pl/Marnie/200.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
-          "PageIndex": 0,
-          "DisplayPattern": "Umm... nie wydaje mi się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3957",
           "DialogueText": "Czy to żart? Nie łapię.",
           "AudioPath": "assets/pl/Marnie/201.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to żart? Nie łapię."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Shop_AnimalShop",
@@ -1646,23 +1487,21 @@
           "AudioPath": "assets/pl/Marnie/202.ogg",
           "TranslationKey": "Data/Shops:AnimalShop:Rare",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Myślałam, że to Lewis."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Shop_AnimalShop",
           "DialogueText": "Towary zwierzęce na sprzedaż!",
           "AudioPath": "assets/pl/Marnie/203.ogg",
           "TranslationKey": "Data/Shops:AnimalShop:Default",
-          "PageIndex": 0,
-          "DisplayPattern": "Towary zwierzęce na sprzedaż!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event.cs.1798",
           "DialogueText": "Nie? Ok... Znajdę inny dom dla tego biednego stworzenia. {Portrait:Sad}",
           "AudioPath": "assets/pl/Marnie/204.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1798",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie? Ok... Znajdę inny dom dla tego biednego stworzenia."
+          "PageIndex": 0
         }
       ]
     }

@@ -188,14 +188,17 @@ AudioName: 47.ogg
 --------------------------------------------------
 DialogueFrom: Saloon_Tue
 DialogueText: Hej Gus! Dawaj kolejną rundkę! *czkawka* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 48.ogg
 --------------------------------------------------
 DialogueFrom: Saloon_Wed
 DialogueText: *ech*... Hej, dzieciaku. To nie miejsce dla ludzi w Twoim wieku.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 49.ogg
 --------------------------------------------------
 DialogueFrom: Saloon_Thu
 DialogueText: *gul*... Przez całe popołudnie nie mogłam się tego doczekać. He he.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 50.ogg
 --------------------------------------------------
 DialogueFrom: Saloon_Fri
@@ -292,6 +295,7 @@ AudioName: 73.ogg
 --------------------------------------------------
 DialogueFrom: Sat4
 DialogueText: Chciałabym, żeby w nocy przyszła ekipa elfów i uporządkowała mój dom. *ha ha*. {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 74.ogg
 --------------------------------------------------
 DialogueFrom: Sat4
@@ -332,6 +336,7 @@ AudioName: 83_female.ogg
 --------------------------------------------------
 DialogueFrom: summer_Tue2
 DialogueText: Och, to Pan {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 84_male.ogg
 --------------------------------------------------
 DialogueFrom: summer_Tue2
@@ -432,6 +437,7 @@ AudioName: 108.ogg
 --------------------------------------------------
 DialogueFrom: fall_Wed
 DialogueText: *ech*... Chyba coś sobie odgrzeję w mikrofali. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 109.ogg
 --------------------------------------------------
 DialogueFrom: fall_Thu
@@ -568,6 +574,7 @@ AudioName: 142.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/choseToBeKnown:s2
 DialogueText: To pewnie kosztowało kupę szmalu, {Farmer_Name}... {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 143.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/choseToBeKnown:s3
@@ -604,6 +611,7 @@ AudioName: 151.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/itsagift:s1
 DialogueText: *ekhem*... Dziękuję ci, {Farmer_Name}. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 152.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/itsagift:s2
@@ -656,6 +664,7 @@ AudioName: 164.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/choseToBeKnown_pennySpouse:s2
 DialogueText: To pewnie kosztowało kupę szmalu, {Farmer_Name}... {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 165.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/choseToBeKnown_pennySpouse:s3
@@ -692,6 +701,7 @@ AudioName: 173.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/itsagift_pennySpouse:s1
 DialogueText: *ekhem*... Dziękuję Ci, {Farmer_Name}. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 174.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/itsagift_pennySpouse:s2
@@ -732,6 +742,7 @@ AudioName: 183.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/96:s2
 DialogueText: {Farmer_Name}, Co jest?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 184.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/96:s3
@@ -748,6 +759,7 @@ AudioName: 187.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/96:s6
 DialogueText: *ech*... Cóż, lepiej za to wszystko zapłacę. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 188.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/3206194:s0
@@ -844,6 +856,7 @@ AudioName: 211.ogg
 --------------------------------------------------
 DialogueFrom: Event/Trailer_Big/503180:s7
 DialogueText: *smark*... To tylko... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 212.ogg
 --------------------------------------------------
 DialogueFrom: Event/Trailer_Big/503180:s8
@@ -856,6 +869,7 @@ AudioName: 214.ogg
 --------------------------------------------------
 DialogueFrom: Event/Trailer_Big/503180:s10
 DialogueText: Od dłuższego czasu... czułam, że czegoś w moim życiu brakowało, {Farmer_Name}... {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 215.ogg
 --------------------------------------------------
 DialogueFrom: Event/Trailer_Big/503180:s11
@@ -908,6 +922,7 @@ AudioName: 227.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Pam_y2
 DialogueText: Podaj mi kolejne dyniowe piwo!... *czkawka* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 228.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring13/Pam
@@ -940,6 +955,7 @@ AudioName: 235.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Pam_y2
 DialogueText: *siorb* O, tak! Będę potrzebowała tego więcej! {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 236.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer28/Pam

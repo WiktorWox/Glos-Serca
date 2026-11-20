@@ -427,6 +427,7 @@ namespace VoiceOverFrameworkMod
 
                 // Explicitly remove %fork (not rendered to the player).
                 s = Regex.Replace(s, @"%fork\b", "", RegexOptions.IgnoreCase);
+                s = Regex.Replace(s, @"%revealtaste\w*", "", RegexOptions.IgnoreCase);   // gift-taste reveal effect ("%revealtasteEmily207"), not text
 
                 s = RxCmdOther.Replace(s, "");
                 s = RxTrailingDollar.Replace(s, "");

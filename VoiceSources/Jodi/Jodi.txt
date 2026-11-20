@@ -56,10 +56,12 @@ AudioName: 14.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_3910975
 DialogueText: *szept* Słyszałeś o Shanie? To okropne... Mam nadzieję, że nic mu nie jest. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 15_male.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_3910975
 DialogueText: *szept* Słyszałaś o Shanie? To okropne... Mam nadzieję, że nic mu nie jest. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 16_female.ogg
 --------------------------------------------------
 DialogueFrom: pamHouseUpgrade
@@ -160,6 +162,7 @@ AudioName: 40.ogg
 --------------------------------------------------
 DialogueFrom: Wed
 DialogueText: Że co? Już %time? Mój Boże!
+Uwaga: %time – aktualna godzina w grze, np. „06:20” (wstawia gra).
 AudioName: 41.ogg
 --------------------------------------------------
 DialogueFrom: Wed
@@ -168,6 +171,7 @@ AudioName: 42.ogg
 --------------------------------------------------
 DialogueFrom: Thu6
 DialogueText: Ale ten czas szybko leci. *ech*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 43.ogg
 --------------------------------------------------
 DialogueFrom: Thu6
@@ -268,6 +272,7 @@ AudioName: 67.ogg
 --------------------------------------------------
 DialogueFrom: Sun8
 DialogueText: Ale nie żałuję, że mam rodzinę, {Farmer_Name}... Sam i Vincent są dla mnie wszystkim!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 68.ogg
 --------------------------------------------------
 DialogueFrom: summer_Mon
@@ -304,6 +309,7 @@ AudioName: 76.ogg
 --------------------------------------------------
 DialogueFrom: summer_Sun
 DialogueText: *ech*...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 77.ogg
 --------------------------------------------------
 DialogueFrom: fall_Thu
@@ -352,6 +358,7 @@ AudioName: 88.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue6
 DialogueText: *ech*... Czasami śni mi się samotne życie... bez rodziny. Czy to nie okropne? {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 89.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue6
@@ -412,6 +419,7 @@ AudioName: 103.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/93:s0
 DialogueText: *uch*... Cześć {Farmer_Name}! *dyszy* Wchodzenie tu, to był dobry trening. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 104.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/93:s1
@@ -448,6 +456,7 @@ AudioName: 112.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/233104:s3
 DialogueText: Och! *hihi*... To wyjaśnia, czemu jesteś cały czerwony i spocony. {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 113.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/233104:s4
@@ -468,10 +477,12 @@ AudioName: 117.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s0
 DialogueText: Ach, dobrze że jesteś, {Farmer_Name}! Przyniosłeś rybę! Wspaniale.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 118_male.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s1
 DialogueText: Ach, dobrze że jesteś, {Farmer_Name}! Przyniosłaś rybę! Wspaniale.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 119_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s2
@@ -480,6 +491,7 @@ AudioName: 120.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s3
 DialogueText: Wow, wygląda wspaniale... I pachnie tak świeżo! Dziękuję, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 121.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/95:s4
@@ -488,6 +500,7 @@ AudioName: 122.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/94:s0
 DialogueText: Och cześć, {Farmer_Name}! Wejdź! Czy czuję świeżą rybę?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 123.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/94:s1
@@ -496,6 +509,7 @@ AudioName: 124.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/94:s2
 DialogueText: Wow, ten Bass wygląda wspaniale, {Farmer_Name}. Dziękuję. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 125.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/94:s3
@@ -520,6 +534,7 @@ AudioName: 130.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/46:s3
 DialogueText: Dzięki za szczerość, {Farmer_Name}. To nic takiego.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 131.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/46:s4
@@ -540,6 +555,7 @@ AudioName: 135.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/100:s0
 DialogueText: Cześć, {Farmer_Name}! Robię popcorn. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 136.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/100:s1
@@ -548,6 +564,7 @@ AudioName: 137.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/100:s2
 DialogueText: *szept* {Farmer_Name}... możesz mu coś powiedzieć? {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 138.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/100:s3
@@ -560,6 +577,7 @@ AudioName: 140.ogg
 --------------------------------------------------
 DialogueFrom: Event/SamHouse/100:s5
 DialogueText: Cieszę się, że jesteś przyjacielem rodziny, {Farmer_Name}. Wybacz moje zachowanie.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 141.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s0
@@ -572,6 +590,7 @@ AudioName: 143.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s2
 DialogueText: Twoje warzywa wyglądają wspaniale, {Farmer_Name}. Cena Pierre'a nas odstraszyła.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 144.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall16/Jodi
@@ -604,6 +623,7 @@ AudioName: 151.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Jodi
 DialogueText: Bierzesz dziś udział w tańcu, {Farmer_Name}? {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 152.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Jodi_y2
@@ -668,6 +688,7 @@ AudioName: 167.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Jodi:s3
 DialogueText: *Ble*... Nie cierpię tego...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 168.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Jodi:s4
@@ -676,6 +697,7 @@ AudioName: 169.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi
 DialogueText: Cześć... Czy Pierre nie kupował od Ciebie {1} {2}? Chyba ja to kupiłam...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 170.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi
@@ -684,6 +706,7 @@ AudioName: 171.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi_Willy
 DialogueText: Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 172.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_2_QualityHigh_Jodi_Willy
@@ -704,6 +727,7 @@ AudioName: 176.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Jodi_like_AfterMovie
 DialogueText: Nie jestem fanką filmów... ale dobrze się bawiłam! Dzięki, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 177.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Jodi

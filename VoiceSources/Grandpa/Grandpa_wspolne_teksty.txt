@@ -32,6 +32,7 @@ AudioName: 24_female.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1308 (strona 3)  [ocena farmy]
 DialogueText: ''%farm'' farma jeszcze nigdy tak dobrze nie wyglądała. To zaszczyt dla całej rodziny.
+Uwaga: %farm / {Farm_Name} – nazwa farmy gracza (wstawia gra).
 AudioName: 25.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1308 (strona 4)  [ocena farmy]

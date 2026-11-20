@@ -8,9 +8,11 @@ AudioName: 231.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:117  [zakończenie zadania]
 DialogueText: W końcu! Zacząłem mieć drgawki, tak bardzo chciałem tę rybę. *gryz*... Mmm, przepyszne.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 232.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:117  [zakończenie zadania]
 DialogueText: Dzięki, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 233.ogg
 --------------------------------------------------

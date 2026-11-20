@@ -13,16 +13,14 @@
           "DialogueText": "No, no, no... któż to taki dostał się do mojego sekretnego orzechowego pokoju?",
           "AudioPath": "assets/pl/MrQi/1.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "No, no, no... któż to taki dostał się do mojego sekretnego orzechowego pokoju?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s1",
           "DialogueText": "Jestem pod wrażeniem.",
           "AudioPath": "assets/pl/MrQi/2.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Jestem pod wrażeniem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s2",
@@ -30,7 +28,6 @@
           "AudioPath": "assets/pl/MrQi/3_male.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Mimo, że do pełnego dostępu do wyspy wystarczyło Ci tylko kilka orzechów włoskich, zdecydowałeś się iść dalej.",
           "GenderVariant": "male"
         },
         {
@@ -39,7 +36,6 @@
           "AudioPath": "assets/pl/MrQi/4_female.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Mimo że do pełnego dostępu do wyspy wystarczyło Ci tylko kilka orzechów włoskich, zdecydowałaś się iść dalej.",
           "GenderVariant": "female"
         },
         {
@@ -48,7 +44,6 @@
           "AudioPath": "assets/pl/MrQi/5_male.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Twoje pragnienie wejścia do sekretnych drzwi było tak silne, że mierzyłeś wysoko, aby dostać się do środka.",
           "GenderVariant": "male"
         },
         {
@@ -57,7 +52,6 @@
           "AudioPath": "assets/pl/MrQi/6_female.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Twoje pragnienie wejścia do sekretnych drzwi było tak silne, że mierzyłaś wysoko, aby dostać się do środka.",
           "GenderVariant": "female"
         },
         {
@@ -65,16 +59,14 @@
           "DialogueText": "Ta chęć jest tym, co Cię wyróżnia dzieciaku. Masz w sobie bardzo wyjątkową energię.",
           "AudioPath": "assets/pl/MrQi/7.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Ta chęć jest tym, co Cię wyróżnia dzieciaku. Masz w sobie bardzo wyjątkową energię."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s7",
           "DialogueText": "Biorąc to pod uwagę...",
           "AudioPath": "assets/pl/MrQi/8.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Biorąc to pod uwagę..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s8",
@@ -82,7 +74,6 @@
           "AudioPath": "assets/pl/MrQi/9_male.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Nie myślałeś, że wyzwanie skończyło się tutaj, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -91,7 +82,6 @@
           "AudioPath": "assets/pl/MrQi/10_female.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Nie myślałaś, że wyzwanie skończyło się tutaj, prawda?",
           "GenderVariant": "female"
         },
         {
@@ -99,136 +89,119 @@
           "DialogueText": "Nie... Ha ha ha... wyzwanie dopiero się rozpoczęło.",
           "AudioPath": "assets/pl/MrQi/11.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s10",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie... Ha ha ha... wyzwanie dopiero się rozpoczęło."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s11",
           "DialogueText": "Na Twoje lewo, znajdziesz tablicę z bardzo ciekawymi wyzwaniami.",
           "AudioPath": "assets/pl/MrQi/12.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s11",
-          "PageIndex": 0,
-          "DisplayPattern": "Na Twoje lewo, znajdziesz tablicę z bardzo ciekawymi wyzwaniami."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s12",
           "DialogueText": "Te wyzwania, które dla Ciebie zaprojektowałem, popchną Cię do granic możliwości.",
           "AudioPath": "assets/pl/MrQi/13.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s12",
-          "PageIndex": 0,
-          "DisplayPattern": "Te wyzwania, które dla Ciebie zaprojektowałem, popchną Cię do granic możliwości."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s13",
           "DialogueText": "Jednakże, jeśli uda Ci się je wykonać, dostaniesz ekskluzywną walutę... nazywam ją 'Klejnotami Qi'",
           "AudioPath": "assets/pl/MrQi/14.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s13",
-          "PageIndex": 0,
-          "DisplayPattern": "Jednakże, jeśli uda Ci się je wykonać, dostaniesz ekskluzywną walutę... nazywam ją 'Klejnotami Qi'"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s14",
           "DialogueText": "Tylko ich nie bierz do buzi, dzieciaku... Są bardzo radioaktywne. He he he...",
           "AudioPath": "assets/pl/MrQi/15.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s14",
-          "PageIndex": 0,
-          "DisplayPattern": "Tylko ich nie bierz do buzi, dzieciaku... Są bardzo radioaktywne. He he he..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s15",
           "DialogueText": "Możesz użyć maszyny na prawo, aby je wymienić na rzadkie i potężne nagrody.",
           "AudioPath": "assets/pl/MrQi/16.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s15",
-          "PageIndex": 0,
-          "DisplayPattern": "Możesz użyć maszyny na prawo, aby je wymienić na rzadkie i potężne nagrody."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s16",
           "DialogueText": "Brzmi ciekawie, prawda?",
           "AudioPath": "assets/pl/MrQi/17.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s16",
-          "PageIndex": 0,
-          "DisplayPattern": "Brzmi ciekawie, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s17",
           "DialogueText": "Tak... mam wrażenie, że komuś takiemu jak ty, bardzo się to spodoba...",
           "AudioPath": "assets/pl/MrQi/18.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s17",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak... mam wrażenie, że komuś takiemu jak ty, bardzo się to spodoba..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/QiNutRoom/10040609:s18",
           "DialogueText": "A teraz, jeśli mi wybaczysz... mam ważne rzeczy do załatwienia.",
           "AudioPath": "assets/pl/MrQi/19.ogg",
           "TranslationKey": "Events/QiNutRoom:10040609:s18",
-          "PageIndex": 0,
-          "DisplayPattern": "A teraz, jeśli mi wybaczysz... mam ważne rzeczy do załatwienia."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "No, no, no... Patrzcie, kto dostał się do mojego ekskluzywnego klubu.",
           "AudioPath": "assets/pl/MrQi/20.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 0,
-          "DisplayPattern": "No, no, no... Patrzcie, kto dostał się do mojego ekskluzywnego klubu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "Masz w sobie tę 'iskrę'... Dlatego wybrałem właśnie Ciebie.",
           "AudioPath": "assets/pl/MrQi/21.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 1,
-          "DisplayPattern": "Masz w sobie tę 'iskrę'... Dlatego wybrałem właśnie Ciebie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "Jaką iskrę? Ach... Tajemnice, sztukę...",
           "AudioPath": "assets/pl/MrQi/22.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 2,
-          "DisplayPattern": "Jaką iskrę? Ach... Tajemnice, sztukę..."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "Osoby takie jak my, są odpowiedzialne za utrzymywanie całego świata, dają ludziom posmakować czegoś niezwykłego.",
           "AudioPath": "assets/pl/MrQi/23.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 3,
-          "DisplayPattern": "Osoby takie jak my, są odpowiedzialne za utrzymywanie całego świata, dają ludziom posmakować czegoś niezwykłego."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "Widzisz... Świat jest jak miska ryżu. Ma w sobie substancję, ale jest nic nie wart bez dobrego, ostrego sosu. I tu my wkraczamy.",
           "AudioPath": "assets/pl/MrQi/24.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 4,
-          "DisplayPattern": "Widzisz... Świat jest jak miska ryżu. Ma w sobie substancję, ale jest nic nie wart bez dobrego, ostrego sosu. I tu my wkraczamy."
+          "PageIndex": 4
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "Nie zastanawiało Cię, kto umieścił te wszystkie skrzynie w starych kopalniach? Lubię zaskakiwać.",
           "AudioPath": "assets/pl/MrQi/25.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 5,
-          "DisplayPattern": "Nie zastanawiało Cię, kto umieścił te wszystkie skrzynie w starych kopalniach? Lubię zaskakiwać."
+          "PageIndex": 5
         },
         {
           "DialogueFrom": "MisterQi_PlayerClubMember",
           "DialogueText": "Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj.",
           "AudioPath": "assets/pl/MrQi/26.ogg",
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
-          "PageIndex": 6,
-          "DisplayPattern": "Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj."
+          "PageIndex": 6
         },
         {
           "DialogueFrom": "QiSummitCheat",
           "DialogueText": "No, no, no... Popatrz no komu udało się 'dotrzeć' na szczyt.",
           "AudioPath": "assets/pl/MrQi/27.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
-          "PageIndex": 0,
-          "DisplayPattern": "No, no, no... Popatrz no komu udało się 'dotrzeć' na szczyt."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "QiSummitCheat",
@@ -236,7 +209,6 @@
           "AudioPath": "assets/pl/MrQi/28_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
           "PageIndex": 1,
-          "DisplayPattern": "Myślałeś, że jesteś taki sprytny, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -245,7 +217,6 @@
           "AudioPath": "assets/pl/MrQi/29_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
           "PageIndex": 2,
-          "DisplayPattern": "Myślałaś, że jesteś taka sprytna, prawda?",
           "GenderVariant": "female"
         },
         {
@@ -254,7 +225,6 @@
           "AudioPath": "assets/pl/MrQi/30_male.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
           "PageIndex": 3,
-          "DisplayPattern": "'Jak oszukać system dla własnej korzyści?', pomyślałeś.",
           "GenderVariant": "male"
         },
         {
@@ -263,7 +233,6 @@
           "AudioPath": "assets/pl/MrQi/31_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
           "PageIndex": 4,
-          "DisplayPattern": "'Jak oszukać system dla własnej korzyści?', pomyślałaś.",
           "GenderVariant": "female"
         },
         {
@@ -271,16 +240,14 @@
           "DialogueText": "Lub mówiąc laikiem: 'Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja'.",
           "AudioPath": "assets/pl/MrQi/32.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
-          "PageIndex": 5,
-          "DisplayPattern": "Lub mówiąc laikiem: 'Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja'."
+          "PageIndex": 5
         },
         {
           "DialogueFrom": "QiSummitCheat",
           "DialogueText": "Okropne.",
           "AudioPath": "assets/pl/MrQi/33.ogg",
           "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
-          "PageIndex": 6,
-          "DisplayPattern": "Okropne."
+          "PageIndex": 6
         }
       ]
     }

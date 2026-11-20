@@ -1,5 +1,6 @@
 DialogueFrom: Introduction
 DialogueText: Ach, tak. Już dawno temu przewidziałem twoje przybycie, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 1.ogg
 --------------------------------------------------
 DialogueFrom: Introduction
@@ -68,6 +69,7 @@ AudioName: 17.ogg
 --------------------------------------------------
 DialogueFrom: Mon
 DialogueText: Ach, tak. Widziałem wiele na temat twojej przyszłości, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 18.ogg
 --------------------------------------------------
 DialogueFrom: Mon
@@ -96,6 +98,7 @@ AudioName: 24.ogg
 --------------------------------------------------
 DialogueFrom: Tue8
 DialogueText: Uszanowanie, {Farmer_Name}. Wierzę, że nie zajmujesz się czarną magią?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 25.ogg
 --------------------------------------------------
 DialogueFrom: Tue10
@@ -200,6 +203,7 @@ AudioName: 50.ogg
 --------------------------------------------------
 DialogueFrom: Event/WizardHouse/112:s5
 DialogueText: A Ty... {Farmer_Name}. Osoba, której przybycie przewidywałem od dawna.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 51.ogg
 --------------------------------------------------
 DialogueFrom: Event/WizardHouse/112:s6
@@ -264,6 +268,7 @@ AudioName: 66.ogg
 --------------------------------------------------
 DialogueFrom: Event/WizardHouse/112:s21
 DialogueText: ...*niuch*...*niuch*...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 67.ogg
 --------------------------------------------------
 DialogueFrom: Event/WizardHouse/112:s22
@@ -360,6 +365,7 @@ AudioName: 90.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/529952:s0
 DialogueText: Ach... {Farmer_Name}. Czekałem na Ciebie.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 91.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/529952:s1

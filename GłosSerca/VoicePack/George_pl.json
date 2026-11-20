@@ -13,16 +13,14 @@
           "DialogueText": "Hmmph... Wkurza mnie poznawanie nowych osób.",
           "AudioPath": "assets/pl/George/1.ogg",
           "TranslationKey": "Characters/Dialogue/George:Introduction",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph... Wkurza mnie poznawanie nowych osób."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Introduction",
           "DialogueText": "Przy okazji, jestem George. A teraz odczep się ode mnie... Hmmph.",
           "AudioPath": "assets/pl/George/2.ogg",
           "TranslationKey": "Characters/Dialogue/George:Introduction",
-          "PageIndex": 1,
-          "DisplayPattern": "Przy okazji, jestem George. A teraz odczep się ode mnie... Hmmph."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "AcceptGift_(O)StardropTea",
@@ -30,15 +28,14 @@
           "AudioPath": "assets/pl/George/3.ogg",
           "TranslationKey": "Characters/Dialogue/George:AcceptGift_(O)StardropTea",
           "PageIndex": 0,
-          "DisplayPattern": "Hmm... *łyk*... aaach... Smakuje jak zapiekanka z tuńczyka mojej mamusi! Przepyszne!"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "accept_867",
           "DialogueText": "Co to?",
           "AudioPath": "assets/pl/George/4.ogg",
           "TranslationKey": "Characters/Dialogue/George:accept_867",
-          "PageIndex": 0,
-          "DisplayPattern": "Co to?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "accept_867",
@@ -46,79 +43,70 @@
           "AudioPath": "assets/pl/George/5.ogg",
           "TranslationKey": "Characters/Dialogue/George:accept_867",
           "PageIndex": 1,
-          "DisplayPattern": "Czyli najpierw naciskasz ten guzik? A ten co robi? Hmmph... *zrzędzi*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "accept_867",
           "DialogueText": "He he! Patrz! Nowy kanał! {Portrait:Happy}",
           "AudioPath": "assets/pl/George/6.ogg",
           "TranslationKey": "Characters/Dialogue/George:accept_867",
-          "PageIndex": 2,
-          "DisplayPattern": "He he! Patrz! Nowy kanał!"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "accept_867",
           "DialogueText": "Masz, to kamień, który znalazłem, gdy byłem górnikiem. Zabawny — błyszczy i jest zimny od ponad 40 lat. Jakby magia!",
           "AudioPath": "assets/pl/George/7.ogg",
           "TranslationKey": "Characters/Dialogue/George:accept_867",
-          "PageIndex": 3,
-          "DisplayPattern": "Masz, to kamień, który znalazłem, gdy byłem górnikiem. Zabawny — błyszczy i jest zimny od ponad 40 lat. Jakby magia!"
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Już, już, kochanie... Nie martw się.%noturn",
           "AudioPath": "assets/pl/George/8.ogg",
           "TranslationKey": "Characters/Dialogue/George:GreenRain",
-          "PageIndex": 0,
-          "DisplayPattern": "Już, już, kochanie... Nie martw się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Nawet jeśli to toksyczne, wdychałem gorsze rzeczy, siedząc minutę w kopalni węgla... A nadal żyję!",
           "AudioPath": "assets/pl/George/9.ogg",
           "TranslationKey": "Characters/Dialogue/George:GreenRain",
-          "PageIndex": 1,
-          "DisplayPattern": "Nawet jeśli to toksyczne, wdychałem gorsze rzeczy, siedząc minutę w kopalni węgla... A nadal żyję!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "GreenRain_2",
           "DialogueText": "Wygląda na to, że młodzi będą mieli dużo odchwaszczania... He he... {Portrait:Happy}",
           "AudioPath": "assets/pl/George/10.ogg",
           "TranslationKey": "Characters/Dialogue/George:GreenRain_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Wygląda na to, że młodzi będą mieli dużo odchwaszczania... He he..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "pamHouseUpgrade",
           "DialogueText": "Dziękuję ci za zastąpienie tej starej paskudnej przyczepy... Nowy dom jest o wiele przyjemniejszy dla oka.",
           "AudioPath": "assets/pl/George/11.ogg",
           "TranslationKey": "Characters/Dialogue/George:pamHouseUpgrade",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję ci za zastąpienie tej starej paskudnej przyczepy... Nowy dom jest o wiele przyjemniejszy dla oka."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "pamHouseUpgrade",
           "DialogueText": "Wiesz, pewnie dzięki temu też wzrosła wartość naszej posiadłości!",
           "AudioPath": "assets/pl/George/12.ogg",
           "TranslationKey": "Characters/Dialogue/George:pamHouseUpgrade",
-          "PageIndex": 1,
-          "DisplayPattern": "Wiesz, pewnie dzięki temu też wzrosła wartość naszej posiadłości!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "pamHouseUpgradeAnonymous",
           "DialogueText": "Cóż... ten nowy dom trochę zasłania mi widok na rzekę... Ale i tak wygląda lepiej niż ta stara puszka, w której mieszkała Pam.",
           "AudioPath": "assets/pl/George/13.ogg",
           "TranslationKey": "Characters/Dialogue/George:pamHouseUpgradeAnonymous",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż... ten nowy dom trochę zasłania mi widok na rzekę... Ale i tak wygląda lepiej niż ta stara puszka, w której mieszkała Pam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvitation",
           "DialogueText": "Chcesz obejrzeć film z takim starym prykiem jak ja? Cóż... Ok. Widzimy się na miejscu.",
           "AudioPath": "assets/pl/George/14.ogg",
           "TranslationKey": "Characters/Dialogue/George:MovieInvitation",
-          "PageIndex": 0,
-          "DisplayPattern": "Chcesz obejrzeć film z takim starym prykiem jak ja? Cóż... Ok. Widzimy się na miejscu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "eventSeen_502969_memory_oneweek",
@@ -126,7 +114,6 @@
           "AudioPath": "assets/pl/George/15_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:eventSeen_502969_memory_oneweek",
           "PageIndex": 0,
-          "DisplayPattern": "Nie wiem, co zrobiłeś, ale tych szopów nie ma już od tygodnia!",
           "GenderVariant": "male"
         },
         {
@@ -135,7 +122,6 @@
           "AudioPath": "assets/pl/George/16_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:eventSeen_502969_memory_oneweek",
           "PageIndex": 1,
-          "DisplayPattern": "Nie wiem, co zrobiłaś, ale tych szopów nie ma już od tygodnia!",
           "GenderVariant": "female"
         },
         {
@@ -144,7 +130,6 @@
           "AudioPath": "assets/pl/George/17_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:eventSeen_18_memory_oneweek",
           "PageIndex": 0,
-          "DisplayPattern": "Może się wydawać, że nie kontaktuję, ale gdybyś żył tyle co ja, nauczyłbyś się paru rzeczy o życiu. To jest 'wiedza'.",
           "GenderVariant": "male"
         },
         {
@@ -153,7 +138,6 @@
           "AudioPath": "assets/pl/George/18_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:eventSeen_18_memory_oneweek",
           "PageIndex": 1,
-          "DisplayPattern": "Może się wydawać, że nie kontaktuję, ale gdybyś żyła tyle co ja, nauczyłabyś się paru rzeczy o życiu. To jest 'wiedza'.",
           "GenderVariant": "female"
         },
         {
@@ -161,8 +145,7 @@
           "DialogueText": "Młodzież nie rozumie pełnego obrazu sytuacji. Jak tak można?",
           "AudioPath": "assets/pl/George/19.ogg",
           "TranslationKey": "Characters/Dialogue/George:eventSeen_18_memory_oneweek",
-          "PageIndex": 2,
-          "DisplayPattern": "Młodzież nie rozumie pełnego obrazu sytuacji. Jak tak można?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "married_Alex",
@@ -170,7 +153,6 @@
           "AudioPath": "assets/pl/George/20_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:married_Alex",
           "PageIndex": 0,
-          "DisplayPattern": "... Hmmph.",
           "GenderVariant": "male"
         },
         {
@@ -179,7 +161,6 @@
           "AudioPath": "assets/pl/George/21_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:married_Alex",
           "PageIndex": 1,
-          "DisplayPattern": "Chciałbym zostać pradziadkiem, zanim się przekręcę. Myślisz, że dasz radę?",
           "GenderVariant": "female"
         },
         {
@@ -187,8 +168,7 @@
           "DialogueText": "Hmmph... Na łatwiznę, co?",
           "AudioPath": "assets/pl/George/22.ogg",
           "TranslationKey": "Characters/Dialogue/George:divorced_once",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph... Na łatwiznę, co?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "divorced_once",
@@ -196,47 +176,42 @@
           "AudioPath": "assets/pl/George/23.ogg",
           "TranslationKey": "Characters/Dialogue/George:divorced_once",
           "PageIndex": 1,
-          "DisplayPattern": "Dziś ludzie traktują małżeństwo jak telewizor... Jak się znudzi, zmień kanał! Za moich czasów... *zrzędzi*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "joja_Begin",
           "DialogueText": "Więc... po starym domu kultury. Co się stało z kosztownościami małego miasteczka? Wstyd, jak czasy się zmieniły...",
           "AudioPath": "assets/pl/George/24.ogg",
           "TranslationKey": "Characters/Dialogue/George:joja_Begin",
-          "PageIndex": 0,
-          "DisplayPattern": "Więc... po starym domu kultury. Co się stało z kosztownościami małego miasteczka? Wstyd, jak czasy się zmieniły..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon",
           "DialogueText": "Nie jestem zbyt rozmowny. Zwłaszcza w stosunku do nieznajomych, mam nadzieję, że rozumiesz.",
           "AudioPath": "assets/pl/George/25.ogg",
           "TranslationKey": "Characters/Dialogue/George:Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie jestem zbyt rozmowny. Zwłaszcza w stosunku do nieznajomych, mam nadzieję, że rozumiesz."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Hmmph... Kolejny ponury dzień. {Portrait:Sad}",
           "AudioPath": "assets/pl/George/26.ogg",
           "TranslationKey": "Characters/Dialogue/George:Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph... Kolejny ponury dzień."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Alex to mój wnuk. Czy już ci o tym mówiłem?",
           "AudioPath": "assets/pl/George/27.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed",
-          "PageIndex": 0,
-          "DisplayPattern": "Alex to mój wnuk. Czy już ci o tym mówiłem?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Co? Mów głośniej.",
           "AudioPath": "assets/pl/George/28.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Co? Mów głośniej."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed_inlaw_Alex",
@@ -244,7 +219,6 @@
           "AudioPath": "assets/pl/George/29_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed_inlaw_Alex",
           "PageIndex": 0,
-          "DisplayPattern": "Jak dwóch mężczyzn może być razem? To nienaturalne... Hmm. Może po prostu jestem \"starej daty\"...",
           "GenderVariant": "male"
         },
         {
@@ -253,7 +227,6 @@
           "AudioPath": "assets/pl/George/30_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed_inlaw_Alex",
           "PageIndex": 1,
-          "DisplayPattern": "Jesteś teraz częścią naszej rodziny. Cieszę się, że mój wnuk znalazł sobie taką ładną żonę.",
           "GenderVariant": "female"
         },
         {
@@ -262,7 +235,6 @@
           "AudioPath": "assets/pl/George/31_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed10_inlaw_Alex",
           "PageIndex": 0,
-          "DisplayPattern": "Muszę przyznać, że z początku wydawało mi się to... dziwne, żeby dwóch mężczyzn było razem. No ale ty jesteś naprawdę bardzo miłym młodzieńcem. Wiem, że jesteście zakochani... Zmieniłem zdanie.",
           "GenderVariant": "male"
         },
         {
@@ -271,7 +243,6 @@
           "AudioPath": "assets/pl/George/32_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed10_inlaw_Alex",
           "PageIndex": 1,
-          "DisplayPattern": "Jesteś teraz częścią naszej rodziny... Nie mogę być bardziej dumny.",
           "GenderVariant": "female"
         },
         {
@@ -280,7 +251,6 @@
           "AudioPath": "assets/pl/George/33_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu",
           "PageIndex": 0,
-          "DisplayPattern": "Nie mogę teraz rozmawiać, chłopcze.",
           "GenderVariant": "male"
         },
         {
@@ -289,7 +259,6 @@
           "AudioPath": "assets/pl/George/34_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu",
           "PageIndex": 1,
-          "DisplayPattern": "Nie mogę teraz rozmawiać, panienko.",
           "GenderVariant": "female"
         },
         {
@@ -297,40 +266,35 @@
           "DialogueText": "Oglądam mój ulubiony program.",
           "AudioPath": "assets/pl/George/35.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu",
-          "PageIndex": 2,
-          "DisplayPattern": "Oglądam mój ulubiony program."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Więc jesteś farmerem, hmm? Przynajmniej to uczciwa praca.",
           "AudioPath": "assets/pl/George/36.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Więc jesteś farmerem, hmm? Przynajmniej to uczciwa praca."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Ten weekend nie różni się od innych, przynajmniej dla mnie.",
           "AudioPath": "assets/pl/George/37.ogg",
           "TranslationKey": "Characters/Dialogue/George:Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Ten weekend nie różni się od innych, przynajmniej dla mnie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Tak to już jest na emeryturze.",
           "AudioPath": "assets/pl/George/38.ogg",
           "TranslationKey": "Characters/Dialogue/George:Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Tak to już jest na emeryturze."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Nie jest ci zimno? Teraz nie robią swetrów tak jak kiedyś.",
           "AudioPath": "assets/pl/George/39.ogg",
           "TranslationKey": "Characters/Dialogue/George:Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie jest ci zimno? Teraz nie robią swetrów tak jak kiedyś."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun",
@@ -338,15 +302,14 @@
           "AudioPath": "assets/pl/George/40.ogg",
           "TranslationKey": "Characters/Dialogue/George:Sun",
           "PageIndex": 1,
-          "DisplayPattern": "*Ech*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Mon6",
           "DialogueText": "Zaskoczyło mnie, że chcesz się przyjaźnić z takim dziadem jak ja.",
           "AudioPath": "assets/pl/George/41.ogg",
           "TranslationKey": "Characters/Dialogue/George:Mon6",
-          "PageIndex": 0,
-          "DisplayPattern": "Zaskoczyło mnie, że chcesz się przyjaźnić z takim dziadem jak ja."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu6",
@@ -354,63 +317,56 @@
           "AudioPath": "assets/pl/George/42.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu6",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, . Chcesz ze mną pooglądać telewizję?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Fri4",
           "DialogueText": "Mój dziadek był farmerem. To bardzo szanowany zawód.",
           "AudioPath": "assets/pl/George/43.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri4",
-          "PageIndex": 0,
-          "DisplayPattern": "Mój dziadek był farmerem. To bardzo szanowany zawód."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri4",
           "DialogueText": "Gdybym nie był taki stary, przyszedłbym na twoją farmę i pokazał kilka rzeczy... a może nawet więcej.",
           "AudioPath": "assets/pl/George/44.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri4",
-          "PageIndex": 1,
-          "DisplayPattern": "Gdybym nie był taki stary, przyszedłbym na twoją farmę i pokazał kilka rzeczy... a może nawet więcej."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed8",
           "DialogueText": "Chciałbym, żeby moje nogi działały jak kiedyś. Mógłbym porzucać piłkę z Alexem. {Portrait:Sad}",
           "AudioPath": "assets/pl/George/45.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed8",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciałbym, żeby moje nogi działały jak kiedyś. Mógłbym porzucać piłkę z Alexem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed8",
           "DialogueText": "Niestety, to już niemożliwe. {Portrait:Sad}",
           "AudioPath": "assets/pl/George/46.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed8",
-          "PageIndex": 1,
-          "DisplayPattern": "Niestety, to już niemożliwe."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri8",
           "DialogueText": "Myślałem sobie... Może byłem trochę zrzędliwy. {Portrait:Sad}",
           "AudioPath": "assets/pl/George/47.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri8",
-          "PageIndex": 0,
-          "DisplayPattern": "Myślałem sobie... Może byłem trochę zrzędliwy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri8",
           "DialogueText": "Kiedyś myślałem, że nikogo nie obchodzą tacy starzy ludzie jak my.",
           "AudioPath": "assets/pl/George/48.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri8",
-          "PageIndex": 1,
-          "DisplayPattern": "Kiedyś myślałem, że nikogo nie obchodzą tacy starzy ludzie jak my."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri10",
           "DialogueText": "Wiesz co... Byłem bardzo zrzędliwym starcem dla każdego, ale teraz chyba zmiękłem jak dojrzały owoc. He he! {Portrait:Happy}",
           "AudioPath": "assets/pl/George/49.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri10",
-          "PageIndex": 0,
-          "DisplayPattern": "Wiesz co... Byłem bardzo zrzędliwym starcem dla każdego, ale teraz chyba zmiękłem jak dojrzały owoc. He he!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri10",
@@ -418,7 +374,6 @@
           "AudioPath": "assets/pl/George/50_male.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri10",
           "PageIndex": 1,
-          "DisplayPattern": "Uważaj na siebie, mój drogi.",
           "GenderVariant": "male"
         },
         {
@@ -427,7 +382,6 @@
           "AudioPath": "assets/pl/George/51_female.ogg",
           "TranslationKey": "Characters/Dialogue/George:Fri10",
           "PageIndex": 2,
-          "DisplayPattern": "Uważaj na siebie, moja droga.",
           "GenderVariant": "female"
         },
         {
@@ -436,87 +390,77 @@
           "AudioPath": "assets/pl/George/52.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed10",
           "PageIndex": 0,
-          "DisplayPattern": "! Pozwól, że wyłączę ten głupi telewizor, żebyśmy mogli porozmawiać."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Wed10",
           "DialogueText": "Więc no... co wy, młodzi ludzie, robicie w tych czasach?",
           "AudioPath": "assets/pl/George/53.ogg",
           "TranslationKey": "Characters/Dialogue/George:Wed10",
-          "PageIndex": 1,
-          "DisplayPattern": "Więc no... co wy, młodzi ludzie, robicie w tych czasach?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Tue10",
           "DialogueText": "Wiesz... Nie powinienem być taki zły przez moje kalectwo.",
           "AudioPath": "assets/pl/George/54.ogg",
           "TranslationKey": "Characters/Dialogue/George:Tue10",
-          "PageIndex": 0,
-          "DisplayPattern": "Wiesz... Nie powinienem być taki zły przez moje kalectwo."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue10",
           "DialogueText": "Powinienem się cieszyć, że żyję. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/55.ogg",
           "TranslationKey": "Characters/Dialogue/George:Tue10",
-          "PageIndex": 1,
-          "DisplayPattern": "Powinienem się cieszyć, że żyję."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu10",
           "DialogueText": "Kiedy zestarzejesz się tak jak ja, dużo trudniej będzie ci dostosować się do nowych rzeczy.",
           "AudioPath": "assets/pl/George/56.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu10",
-          "PageIndex": 0,
-          "DisplayPattern": "Kiedy zestarzejesz się tak jak ja, dużo trudniej będzie ci dostosować się do nowych rzeczy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu10",
           "DialogueText": "Któregoś dnia zrozumiesz, o co mi chodzi.",
           "AudioPath": "assets/pl/George/57.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu10",
-          "PageIndex": 1,
-          "DisplayPattern": "Któregoś dnia zrozumiesz, o co mi chodzi."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu10",
           "DialogueText": "No idź, ciesz się młodością, póki możesz.",
           "AudioPath": "assets/pl/George/58.ogg",
           "TranslationKey": "Characters/Dialogue/George:Thu10",
-          "PageIndex": 2,
-          "DisplayPattern": "No idź, ciesz się młodością, póki możesz."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "winter_1",
           "DialogueText": "Brr... Strasznie zimno.",
           "AudioPath": "assets/pl/George/59.ogg",
           "TranslationKey": "Characters/Dialogue/George:winter_1",
-          "PageIndex": 0,
-          "DisplayPattern": "Brr... Strasznie zimno."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_1",
           "DialogueText": "Kiedy jesteś młody, nie odczuwasz tego tak bardzo.",
           "AudioPath": "assets/pl/George/60.ogg",
           "TranslationKey": "Characters/Dialogue/George:winter_1",
-          "PageIndex": 1,
-          "DisplayPattern": "Kiedy jesteś młody, nie odczuwasz tego tak bardzo."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "WinterStar_GiveGift_After",
           "DialogueText": "Nie podobało ci się, co? Ech! Ta dzisiejsza młodzież... Niczego nie doceniają. To było drogie, a pieniądze nie rosną na drzewach, wiesz!",
           "AudioPath": "assets/pl/George/61.ogg",
           "TranslationKey": "Characters/Dialogue/George:WinterStar_GiveGift_After",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie podobało ci się, co? Ech! Ta dzisiejsza młodzież... Niczego nie doceniają. To było drogie, a pieniądze nie rosną na drzewach, wiesz!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "Okropnie zimno, nie sądzisz? Co za paskudny dzień.",
           "AudioPath": "assets/pl/George/62.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Okropnie zimno, nie sądzisz? Co za paskudny dzień."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/34:s0",
@@ -524,23 +468,21 @@
           "AudioPath": "assets/pl/George/63.ogg",
           "TranslationKey": "Events/Town:34:s0",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Jak ja mam niby sięgnąć tego listu?"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Town/34:s1",
           "DialogueText": "Hmmph. Dałbym sobie radę! I z pewnością umiem się poruszać bez niczyjej pomocy! {Portrait:Unique}",
           "AudioPath": "assets/pl/George/64.ogg",
           "TranslationKey": "Events/Town:34:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph. Dałbym sobie radę! I z pewnością umiem się poruszać bez niczyjej pomocy!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/34:s2",
           "DialogueText": "Myślisz, że jestem strasznie słaby?",
           "AudioPath": "assets/pl/George/65.ogg",
           "TranslationKey": "Events/Town:34:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Myślisz, że jestem strasznie słaby?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/34:s3",
@@ -548,47 +490,42 @@
           "AudioPath": "assets/pl/George/66.ogg",
           "TranslationKey": "Events/Town:34:s3",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Nie, nie... Przepraszam, młoda damo. Nie powinienem się denerwować."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/Town/34:s4",
           "DialogueText": "To było bardzo miłe z Twojej strony.",
           "AudioPath": "assets/pl/George/67.ogg",
           "TranslationKey": "Events/Town:34:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "To było bardzo miłe z Twojej strony."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/191393:s0",
           "DialogueText": "Stare, dobre czasy.",
           "AudioPath": "assets/pl/George/68.ogg",
           "TranslationKey": "Events/Town:191393:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Stare, dobre czasy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/191393:s1",
           "DialogueText": "Za długo tu mieszkam, żeby patrzeć jak to miejsce zamienia się w ruinę.",
           "AudioPath": "assets/pl/George/69.ogg",
           "TranslationKey": "Events/Town:191393:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Za długo tu mieszkam, żeby patrzeć jak to miejsce zamienia się w ruinę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/191393:s2",
           "DialogueText": "Możecie na mnie liczyć! {Portrait:Happy}",
           "AudioPath": "assets/pl/George/70.ogg",
           "TranslationKey": "Events/Town:191393:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Możecie na mnie liczyć!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/502969:s0",
           "DialogueText": "Grr... Pewnie szopy wróciły. Brudne szkodniki...",
           "AudioPath": "assets/pl/George/71.ogg",
           "TranslationKey": "Events/Town:502969:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Grr... Pewnie szopy wróciły. Brudne szkodniki..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/502969:s1",
@@ -596,7 +533,6 @@
           "AudioPath": "assets/pl/George/72_male.ogg",
           "TranslationKey": "Events/Town:502969:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Ach, zjawiasz się w odpowiednim momencie, synu.",
           "GenderVariant": "male"
         },
         {
@@ -605,7 +541,6 @@
           "AudioPath": "assets/pl/George/73_female.ogg",
           "TranslationKey": "Events/Town:502969:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Ach, zjawiasz się w odpowiednim momencie, młoda damo.",
           "GenderVariant": "female"
         },
         {
@@ -613,40 +548,35 @@
           "DialogueText": "Wyświadczysz starcu przysługę? Możesz się tam przejść i odstraszyć dla mnie te szopy? Robią straszny bałagan.",
           "AudioPath": "assets/pl/George/74.ogg",
           "TranslationKey": "Events/Town:502969:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Wyświadczysz starcu przysługę? Możesz się tam przejść i odstraszyć dla mnie te szopy? Robią straszny bałagan."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/502969:s4",
           "DialogueText": "Dzięki. Upewnij się, że je dobrze wystraszysz, żeby już więcej nie wróciły.",
           "AudioPath": "assets/pl/George/75.ogg",
           "TranslationKey": "Events/Town:502969:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzięki. Upewnij się, że je dobrze wystraszysz, żeby już więcej nie wróciły."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
           "DialogueText": "Tak w ogóle, to na co są te pieniądze? Kupujesz nową torebkę?",
           "AudioPath": "assets/pl/George/76.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak w ogóle, to na co są te pieniądze? Kupujesz nową torebkę?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s0",
           "DialogueText": "Nnnnggghh.... Nie mogę dosięgnąć! {Portrait:Unique}",
           "AudioPath": "assets/pl/George/77.ogg",
           "TranslationKey": "Events/JoshHouse:18:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Nnnnggghh.... Nie mogę dosięgnąć!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s1",
           "DialogueText": "Gdybym tylko mógł wstać z tego cholernego wózka... {Portrait:Sad}",
           "AudioPath": "assets/pl/George/78.ogg",
           "TranslationKey": "Events/JoshHouse:18:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Gdybym tylko mógł wstać z tego cholernego wózka..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s2",
@@ -654,7 +584,6 @@
           "AudioPath": "assets/pl/George/79_male.ogg",
           "TranslationKey": "Events/JoshHouse:18:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Dziękuję, młodzieńcze.",
           "GenderVariant": "male"
         },
         {
@@ -663,7 +592,6 @@
           "AudioPath": "assets/pl/George/80_female.ogg",
           "TranslationKey": "Events/JoshHouse:18:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Dziękuję, młoda damo.",
           "GenderVariant": "female"
         },
         {
@@ -672,55 +600,49 @@
           "AudioPath": "assets/pl/George/81.ogg",
           "TranslationKey": "Events/JoshHouse:18:s4",
           "PageIndex": 0,
-          "DisplayPattern": "*ech*... Stało się to 30 lat temu."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s5",
           "DialogueText": "Pracowałem w kopalni węgla. Prawie kończyliśmy naszą zmianę, ale zostało jeszcze jedno miejsce do przekopania.",
           "AudioPath": "assets/pl/George/82.ogg",
           "TranslationKey": "Events/JoshHouse:18:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Pracowałem w kopalni węgla. Prawie kończyliśmy naszą zmianę, ale zostało jeszcze jedno miejsce do przekopania."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s6",
           "DialogueText": "Wszedłem tam, żeby zapalić laskę dynamitu, poślizgnąłem się na szczelinie i ją upuściłem. Dynamit wybuchł przy uderzeniu.",
           "AudioPath": "assets/pl/George/83.ogg",
           "TranslationKey": "Events/JoshHouse:18:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Wszedłem tam, żeby zapalić laskę dynamitu, poślizgnąłem się na szczelinie i ją upuściłem. Dynamit wybuchł przy uderzeniu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s7",
           "DialogueText": "Następną rzecz jaką pamiętam, to leżenie w szpitalu... powiedzieli, że już nigdy więcej nie będę chodził.",
           "AudioPath": "assets/pl/George/84.ogg",
           "TranslationKey": "Events/JoshHouse:18:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Następną rzecz jaką pamiętam, to leżenie w szpitalu... powiedzieli, że już nigdy więcej nie będę chodził."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s8",
           "DialogueText": "Teraz już wiesz. Pewnie wydawało Ci się, że jestem za stary na chodzenie.",
           "AudioPath": "assets/pl/George/85.ogg",
           "TranslationKey": "Events/JoshHouse:18:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Teraz już wiesz. Pewnie wydawało Ci się, że jestem za stary na chodzenie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s9",
           "DialogueText": "Cóż, musisz wiedzieć, że gdyby nie ten wypadek to bym był żwawszy niż wiosenny kurczak!",
           "AudioPath": "assets/pl/George/86.ogg",
           "TranslationKey": "Events/JoshHouse:18:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, musisz wiedzieć, że gdyby nie ten wypadek to bym był żwawszy niż wiosenny kurczak!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s10",
           "DialogueText": "...",
           "AudioPath": "assets/pl/George/87.ogg",
           "TranslationKey": "Events/JoshHouse:18:s10",
-          "PageIndex": 0,
-          "DisplayPattern": "..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/18:s11",
@@ -728,7 +650,6 @@
           "AudioPath": "assets/pl/George/88_male.ogg",
           "TranslationKey": "Events/JoshHouse:18:s11",
           "PageIndex": 0,
-          "DisplayPattern": "Byłeś dla mnie bardzo miły, młody człowieku. Doceniam to.",
           "GenderVariant": "male"
         },
         {
@@ -737,7 +658,6 @@
           "AudioPath": "assets/pl/George/89_female.ogg",
           "TranslationKey": "Events/JoshHouse:18:s12",
           "PageIndex": 0,
-          "DisplayPattern": "Byłaś dla mnie bardzo miła, młoda damo. Doceniam to.",
           "GenderVariant": "female"
         },
         {
@@ -745,16 +665,14 @@
           "DialogueText": "Gdy się zestarzejesz, zaczniesz zapominać, że kogoś w ogóle obchodzisz.",
           "AudioPath": "assets/pl/George/90.ogg",
           "TranslationKey": "Events/JoshHouse:18:s13",
-          "PageIndex": 0,
-          "DisplayPattern": "Gdy się zestarzejesz, zaczniesz zapominać, że kogoś w ogóle obchodzisz."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/56:s0",
           "DialogueText": "Hmmph... Sam wiem co jest dla mnie najlepsze. Za kogo ty się uważasz?",
           "AudioPath": "assets/pl/George/91.ogg",
           "TranslationKey": "Events/JoshHouse:56:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph... Sam wiem co jest dla mnie najlepsze. Za kogo ty się uważasz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/56:s1",
@@ -762,7 +680,6 @@
           "AudioPath": "assets/pl/George/92_male.ogg",
           "TranslationKey": "Events/JoshHouse:56:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Nie tak szybko! Chciałbym usłyszeć drugą opinie od tego młodzieńca.",
           "GenderVariant": "male"
         },
         {
@@ -771,7 +688,6 @@
           "AudioPath": "assets/pl/George/93_female.ogg",
           "TranslationKey": "Events/JoshHouse:56:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie tak szybko! Chciałbym usłyszeć drugą opinię od tej młodej damy.",
           "GenderVariant": "female"
         },
         {
@@ -779,8 +695,7 @@
           "DialogueText": "Dobrze. Będę robił tak jak mówisz, doktorze.",
           "AudioPath": "assets/pl/George/94.ogg",
           "TranslationKey": "Events/JoshHouse:56:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobrze. Będę robił tak jak mówisz, doktorze."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s0",
@@ -788,55 +703,49 @@
           "AudioPath": "assets/pl/George/95.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s0",
           "PageIndex": 0,
-          "DisplayPattern": "? Co to wszystko ma znaczyć..."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s1",
           "DialogueText": "Czy to jakiś żart?",
           "AudioPath": "assets/pl/George/96.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to jakiś żart?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s2",
           "DialogueText": "Por... {Portrait:Sad}",
           "AudioPath": "assets/pl/George/97.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Por..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s3",
           "DialogueText": "Mój ulubiony... takie jak robiła mamusia, bardzo dawno temu...",
           "AudioPath": "assets/pl/George/98.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Mój ulubiony... takie jak robiła mamusia, bardzo dawno temu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s4",
           "DialogueText": "Hmmph. Cóż...",
           "AudioPath": "assets/pl/George/99.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph. Cóż..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s5",
           "DialogueText": "Więc... To... Hmmph.",
           "AudioPath": "assets/pl/George/100.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Więc... To... Hmmph."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s6",
           "DialogueText": "Chyba nie jestem tak zapomniany i ignorowany jak myślałem... {Portrait:Sad}",
           "AudioPath": "assets/pl/George/101.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Chyba nie jestem tak zapomniany i ignorowany jak myślałem..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s7",
@@ -844,7 +753,6 @@
           "AudioPath": "assets/pl/George/102_male.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Dziękuję, synu.",
           "GenderVariant": "male"
         },
         {
@@ -853,7 +761,6 @@
           "AudioPath": "assets/pl/George/103_female.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Dziękuję, słonko.",
           "GenderVariant": "female"
         },
         {
@@ -862,7 +769,6 @@
           "AudioPath": "assets/pl/George/104_male.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s9",
           "PageIndex": 0,
-          "DisplayPattern": "Poprawiłeś humor staremu dziadowi.",
           "GenderVariant": "male"
         },
         {
@@ -871,7 +777,6 @@
           "AudioPath": "assets/pl/George/105_female.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Poprawiłaś humor staremu dziadowi.",
           "GenderVariant": "female"
         },
         {
@@ -879,408 +784,357 @@
           "DialogueText": "Hah! Myślała, że mnie oszuka!",
           "AudioPath": "assets/pl/George/106.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s11",
-          "PageIndex": 0,
-          "DisplayPattern": "Hah! Myślała, że mnie oszuka!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s12",
           "DialogueText": "Chciała mnie oszukać... żebym myślał, że jestem czymś więcej, niż tylko problemem. {Portrait:Sad}",
           "AudioPath": "assets/pl/George/107.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s12",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciała mnie oszukać... żebym myślał, że jestem czymś więcej, niż tylko problemem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s13",
           "DialogueText": "Cóż, sam wiem lepiej...",
           "AudioPath": "assets/pl/George/108.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s13",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, sam wiem lepiej..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s14",
           "DialogueText": "A teraz, wypad! {Portrait:Unique}",
           "AudioPath": "assets/pl/George/109.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s14",
-          "PageIndex": 0,
-          "DisplayPattern": "A teraz, wypad!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s15",
           "DialogueText": "Hah! jesteś żartownisiem?",
           "AudioPath": "assets/pl/George/110.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s15",
-          "PageIndex": 0,
-          "DisplayPattern": "Hah! jesteś żartownisiem?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s16",
           "DialogueText": "Ha ha ha... wiesz, też kiedyś robiłem kawały. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/111.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s16",
-          "PageIndex": 0,
-          "DisplayPattern": "Ha ha ha... wiesz, też kiedyś robiłem kawały."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s17",
           "DialogueText": "Cóż, przynajmniej się trochę pośmiałem. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/112.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s17",
-          "PageIndex": 0,
-          "DisplayPattern": "Cóż, przynajmniej się trochę pośmiałem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s18",
           "DialogueText": "Myślisz, że je otworzę?",
           "AudioPath": "assets/pl/George/113.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s18",
-          "PageIndex": 0,
-          "DisplayPattern": "Myślisz, że je otworzę?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s19",
           "DialogueText": "Hah! Nie ma szans. Myślisz, że się nabiorę na stary żart z 'wybuchającym prezentem'?",
           "AudioPath": "assets/pl/George/114.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s19",
-          "PageIndex": 0,
-          "DisplayPattern": "Hah! Nie ma szans. Myślisz, że się nabiorę na stary żart z 'wybuchającym prezentem'?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/JoshHouse/5837189:s20",
           "DialogueText": "Idą prosto do śmieci!",
           "AudioPath": "assets/pl/George/115.ogg",
           "TranslationKey": "Events/JoshHouse:5837189:s20",
-          "PageIndex": 0,
-          "DisplayPattern": "Idą prosto do śmieci!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s0",
           "DialogueText": "Gol!",
           "AudioPath": "assets/pl/George/116.ogg",
           "TranslationKey": "Events/Saloon:3917590:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Gol!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s1",
           "DialogueText": "Zuch chłopak!",
           "AudioPath": "assets/pl/George/117.ogg",
           "TranslationKey": "Events/Saloon:3917590:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Zuch chłopak!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Saloon/3917590:s2",
           "DialogueText": "Dobrze się spisałeś, synu. Mogłem to obejrzeć w domu, ale tutaj znowu czuję się znowu młody! {Portrait:Happy}",
           "AudioPath": "assets/pl/George/118.ogg",
           "TranslationKey": "Events/Saloon:3917590:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobrze się spisałeś, synu. Mogłem to obejrzeć w domu, ale tutaj znowu czuję się znowu młody!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/CommunityCenter/Punch:s0",
           "DialogueText": "Ha! Nieźle!",
           "AudioPath": "assets/pl/George/119.ogg",
           "TranslationKey": "Events/CommunityCenter:Punch:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Ha! Nieźle!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/CommunityCenter/Punch:s1",
           "DialogueText": "Wal go!",
           "AudioPath": "assets/pl/George/120.ogg",
           "TranslationKey": "Events/CommunityCenter:Punch:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Wal go!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/CommunityCenter/Punch:s2",
           "DialogueText": "I od tego czasu, Morris i jego kumple z Joja już nigdy nie wrócili.",
           "AudioPath": "assets/pl/George/121.ogg",
           "TranslationKey": "Events/CommunityCenter:Punch:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "I od tego czasu, Morris i jego kumple z Joja już nigdy nie wrócili."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/George",
           "DialogueText": "Hmm... wędzony udziec indyka? Ten festiwal nie jest w sumie taki zły. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/122.ogg",
           "TranslationKey": "Data/Festivals/fall16:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmm... wędzony udziec indyka? Ten festiwal nie jest w sumie taki zły."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/George_y2",
           "DialogueText": "George zaraz prawie zaśnie.",
           "AudioPath": "assets/pl/George/123.ogg",
           "TranslationKey": "Data/Festivals/fall16:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "George zaraz prawie zaśnie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/George",
           "DialogueText": "Hmm... wędzony udziec z indyka? Chyba ten festiwal nie jest taki zły. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/124.ogg",
           "TranslationKey": "Data/Festivals/fall27:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmm... wędzony udziec z indyka? Chyba ten festiwal nie jest taki zły."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/George_y2",
           "DialogueText": "Gdybym nie był przywiązany do tego przeklętego krzesła, biegałbym wokół wszystkich w tamtym labiryncie! {Portrait:Neutral}",
           "AudioPath": "assets/pl/George/125.ogg",
           "TranslationKey": "Data/Festivals/fall27:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Gdybym nie był przywiązany do tego przeklętego krzesła, biegałbym wokół wszystkich w tamtym labiryncie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/George",
           "DialogueText": "Czemu wszyscy są tacy szczęśliwi? Hmmph...",
           "AudioPath": "assets/pl/George/126.ogg",
           "TranslationKey": "Data/Festivals/spring13:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Czemu wszyscy są tacy szczęśliwi? Hmmph..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/George",
           "DialogueText": "Jajka... czemu jajka?",
           "AudioPath": "assets/pl/George/127.ogg",
           "TranslationKey": "Data/Festivals/spring13:George",
-          "PageIndex": 1,
-          "DisplayPattern": "Jajka... czemu jajka?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/spring13/George_y2",
           "DialogueText": "Evelyn zrobiła jajka z porem na śniadanie, więc mam dziś dobry humor. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/128.ogg",
           "TranslationKey": "Data/Festivals/spring13:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Evelyn zrobiła jajka z porem na śniadanie, więc mam dziś dobry humor."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/George",
           "DialogueText": "Kwiaty? Ledwo je widzę.",
           "AudioPath": "assets/pl/George/129.ogg",
           "TranslationKey": "Data/Festivals/spring24:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Kwiaty? Ledwo je widzę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/George",
           "DialogueText": "Okropnie tu jasno!",
           "AudioPath": "assets/pl/George/130.ogg",
           "TranslationKey": "Data/Festivals/spring24:George",
-          "PageIndex": 1,
-          "DisplayPattern": "Okropnie tu jasno!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/spring24/George_y2",
           "DialogueText": "Kwiaty? Chyba raczej magnesy na trzmiele. Hmph. I tak nie czuć. {Portrait:Neutral}",
           "AudioPath": "assets/pl/George/131.ogg",
           "TranslationKey": "Data/Festivals/spring24:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Kwiaty? Chyba raczej magnesy na trzmiele. Hmph. I tak nie czuć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/George",
           "DialogueText": "Ta muzyka! Jest za głośna.",
           "AudioPath": "assets/pl/George/132.ogg",
           "TranslationKey": "Data/Festivals/summer11:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Ta muzyka! Jest za głośna."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/George",
           "DialogueText": "Nie mogę mieć chwili spokoju i cieszyć się oceanem?",
           "AudioPath": "assets/pl/George/133.ogg",
           "TranslationKey": "Data/Festivals/summer11:George",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie mogę mieć chwili spokoju i cieszyć się oceanem?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/summer11/George_y2",
           "DialogueText": "Tłuczone ziemniaki z porem i czosnkiem? He he... chyba jestem w niebie!%noturn {Portrait:Happy}",
           "AudioPath": "assets/pl/George/134.ogg",
           "TranslationKey": "Data/Festivals/summer11:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Tłuczone ziemniaki z porem i czosnkiem? He he... chyba jestem w niebie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/George",
           "DialogueText": "Co? Czemu tak się na mnie patrzysz? Myślisz, że jestem za stary, żeby je podziwiać?",
           "AudioPath": "assets/pl/George/135.ogg",
           "TranslationKey": "Data/Festivals/summer28:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Co? Czemu tak się na mnie patrzysz? Myślisz, że jestem za stary, żeby je podziwiać?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/George_y2",
           "DialogueText": "Za moich czasów łapaliśmy je i wsadzaliśmy do słoików... {Portrait:Happy}",
           "AudioPath": "assets/pl/George/136.ogg",
           "TranslationKey": "Data/Festivals/summer28:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Za moich czasów łapaliśmy je i wsadzaliśmy do słoików..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/George_y2",
           "DialogueText": "Czasy się zmieniły... Czasy się zmieniły...",
           "AudioPath": "assets/pl/George/137.ogg",
           "TranslationKey": "Data/Festivals/summer28:George_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Czasy się zmieniły... Czasy się zmieniły..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/winter25/George",
           "DialogueText": "Święto jakiejś głupiej gwiazdy? Bzdura!",
           "AudioPath": "assets/pl/George/138.ogg",
           "TranslationKey": "Data/Festivals/winter25:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Święto jakiejś głupiej gwiazdy? Bzdura!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/George_y2",
           "DialogueText": "I tak cały dzień spędzam z rodziną. Po co mamy to robić na mrozie? {Portrait:Neutral}",
           "AudioPath": "assets/pl/George/139.ogg",
           "TranslationKey": "Data/Festivals/winter25:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "I tak cały dzień spędzam z rodziną. Po co mamy to robić na mrozie?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/George",
           "DialogueText": "Hmmph... Moja żona wyciągnęła mnie na takie zimno tylko po to?",
           "AudioPath": "assets/pl/George/140.ogg",
           "TranslationKey": "Data/Festivals/winter8:George",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph... Moja żona wyciągnęła mnie na takie zimno tylko po to?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter8/George_y2",
           "DialogueText": "Gdy się zestarzejesz i wyłysiejesz tak jak ja, będzie Ci potrzebna dobra, ciepła czapka.",
           "AudioPath": "assets/pl/George/141.ogg",
           "TranslationKey": "Data/Festivals/winter8:George_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Gdy się zestarzejesz i wyłysiejesz tak jak ja, będzie Ci potrzebna dobra, ciepła czapka."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/George:s0",
           "DialogueText": "Uwielbiam to! Dziękuję.",
           "AudioPath": "assets/pl/George/142.ogg",
           "TranslationKey": "Data/NPCGiftTastes:George:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Uwielbiam to! Dziękuję."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/George:s1",
           "DialogueText": "Dzięki.",
           "AudioPath": "assets/pl/George/143.ogg",
           "TranslationKey": "Data/NPCGiftTastes:George:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/George:s2",
           "DialogueText": "To jest okropny prezent.",
           "AudioPath": "assets/pl/George/144.ogg",
           "TranslationKey": "Data/NPCGiftTastes:George:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "To jest okropny prezent."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/George:s3",
           "DialogueText": "To chyba najgorszy prezent jaki kiedykolwiek dostałem. Wielkie dzięki.",
           "AudioPath": "assets/pl/George/145.ogg",
           "TranslationKey": "Data/NPCGiftTastes:George:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "To chyba najgorszy prezent jaki kiedykolwiek dostałem. Wielkie dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/George:s4",
           "DialogueText": "Prezent? Hmm...",
           "AudioPath": "assets/pl/George/146.ogg",
           "TranslationKey": "Data/NPCGiftTastes:George:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Prezent? Hmm..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/George:s4",
           "DialogueText": "Co chcesz w zamian?",
           "AudioPath": "assets/pl/George/147.ogg",
           "TranslationKey": "Data/NPCGiftTastes:George:s4",
-          "PageIndex": 1,
-          "DisplayPattern": "Co chcesz w zamian?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "MovieReactions/George_love_BeforeMovie",
           "DialogueText": "W gazecie dali temu '5 gwiazdek'. Pozwolę sobie sam go ocenić.",
           "AudioPath": "assets/pl/George/148.ogg",
           "TranslationKey": "Strings/MovieReactions:George_love_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "W gazecie dali temu '5 gwiazdek'. Pozwolę sobie sam go ocenić."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/George_love_AfterMovie",
           "DialogueText": "Heh! To było nawet dobre! Dzięki za zaproszenie.",
           "AudioPath": "assets/pl/George/149.ogg",
           "TranslationKey": "Strings/MovieReactions:George_love_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Heh! To było nawet dobre! Dzięki za zaproszenie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/George_like_BeforeMovie",
           "DialogueText": "Hmph... Kiedyś kino wyglądało inaczej... Ale obraz jest nawet dobry.",
           "AudioPath": "assets/pl/George/150.ogg",
           "TranslationKey": "Strings/MovieReactions:George_like_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmph... Kiedyś kino wyglądało inaczej... Ale obraz jest nawet dobry."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/George_like_AfterMovie",
           "DialogueText": "Heh. W porównaniu do dawnych filmów, to nie było takie złe. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/151.ogg",
           "TranslationKey": "Strings/MovieReactions:George_like_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Heh. W porównaniu do dawnych filmów, to nie było takie złe."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/George_dislike_BeforeMovie",
           "DialogueText": "Hmph... chyba się zdrzemnę.",
           "AudioPath": "assets/pl/George/152.ogg",
           "TranslationKey": "Strings/MovieReactions:George_dislike_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmph... chyba się zdrzemnę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/George_dislike_AfterMovie",
           "DialogueText": "Wstyd! Te śmieci, które dają teraz jako 'filmy'...",
           "AudioPath": "assets/pl/George/153.ogg",
           "TranslationKey": "Strings/MovieReactions:George_dislike_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Wstyd! Te śmieci, które dają teraz jako 'filmy'..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_George",
           "DialogueText": "O czym ona mamrocze? Przyjechałem tu do namiotu z ostrym żarciem!",
           "AudioPath": "assets/pl/George/154.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_George",
-          "PageIndex": 0,
-          "DisplayPattern": "O czym ona mamrocze? Przyjechałem tu do namiotu z ostrym żarciem!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_George",
           "DialogueText": "Wszystko co sprzedaje jest warte swojej ceny.",
           "AudioPath": "assets/pl/George/155.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_George",
-          "PageIndex": 0,
-          "DisplayPattern": "Wszystko co sprzedaje jest warte swojej ceny."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "23.000",
           "DialogueText": "Hmmph... Żona ciągnie mnie dzisiaj do lekarza.",
           "AudioPath": "assets/pl/George/156.ogg",
           "TranslationKey": "Strings/schedules/George:23.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmmph... Żona ciągnie mnie dzisiaj do lekarza."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "23.001",
@@ -1288,143 +1142,126 @@
           "AudioPath": "assets/pl/George/157.ogg",
           "TranslationKey": "Strings/schedules/George:23.001",
           "PageIndex": 0,
-          "DisplayPattern": "*zrzęd*... Do niczego ci lekarze... *zrzęd*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "winter_17.000",
           "DialogueText": "Jestem tu dla darmowej kawy.",
           "AudioPath": "assets/pl/George/158.ogg",
           "TranslationKey": "Strings/schedules/George:winter_17.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Jestem tu dla darmowej kawy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun.000",
           "DialogueText": "Nigdy nie byłem wierzący ale no cóż... Teraz jestem stary.",
           "AudioPath": "assets/pl/George/159.ogg",
           "TranslationKey": "Strings/schedules/George:Sun.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Nigdy nie byłem wierzący ale no cóż... Teraz jestem stary."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "23.002",
           "DialogueText": "Ile mi jeszcze zostało, Doktorze?",
           "AudioPath": "assets/pl/George/160.ogg",
           "TranslationKey": "Strings/schedules/George:23.002",
-          "PageIndex": 0,
-          "DisplayPattern": "Ile mi jeszcze zostało, Doktorze?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun.001",
           "DialogueText": "He he he... Nie poszedłem dzisiaj się modlić, żeby tu przyjść! Mam nadzieję, że Yoba nie jest na mnie zły. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/161.ogg",
           "TranslationKey": "Strings/schedules/George:Sun.001",
-          "PageIndex": 0,
-          "DisplayPattern": "He he he... Nie poszedłem dzisiaj się modlić, żeby tu przyjść! Mam nadzieję, że Yoba nie jest na mnie zły."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_105",
           "DialogueText": "Długo Ci to zajęło... Hmmph... Cóż, przynajmniej jest wystarczająco ostra. Dzięki.",
           "AudioPath": "assets/pl/George/162.ogg",
           "TranslationKey": "Data/Quests:105",
-          "PageIndex": 0,
-          "DisplayPattern": "Długo Ci to zajęło... Hmmph... Cóż, przynajmniej jest wystarczająco ostra. Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4293",
           "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
           "AudioPath": "assets/pl/George/163.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4294",
           "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
           "AudioPath": "assets/pl/George/164.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
-          "PageIndex": 0,
-          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Town_DumpsterDiveComment_Adult",
           "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
           "AudioPath": "assets/pl/George/165.ogg",
           "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, przestań! Fuj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4274",
           "DialogueText": "Pamiętasz o moich urodzinach? Jestem pod wrażeniem. Dzięki. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/166.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4274",
-          "PageIndex": 0,
-          "DisplayPattern": "Pamiętasz o moich urodzinach? Jestem pod wrażeniem. Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4276",
           "DialogueText": "Och, dziś są moje urodziny? Chyba tak. Dzięki. {Portrait:Happy}",
           "AudioPath": "assets/pl/George/167.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4276",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, dziś są moje urodziny? Chyba tak. Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4278",
           "DialogueText": "Są moje urodziny i dajesz mi to? Czy to jest jakiś żart? {Portrait:Sad}",
           "AudioPath": "assets/pl/George/168.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4278",
-          "PageIndex": 0,
-          "DisplayPattern": "Są moje urodziny i dajesz mi to? Czy to jest jakiś żart?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4280",
           "DialogueText": "Na moje urodziny? Dzięki.",
           "AudioPath": "assets/pl/George/169.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4280",
-          "PageIndex": 0,
-          "DisplayPattern": "Na moje urodziny? Dzięki."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Reject",
           "DialogueText": "Wybacz, nie mam ochoty iść na film...",
           "AudioPath": "assets/pl/George/170.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Reject",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_AlreadySeen",
           "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
           "AudioPath": "assets/pl/George/171.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
           "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
           "AudioPath": "assets/pl/George/172.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3956",
           "DialogueText": "Umm... nie wydaje mi się.",
           "AudioPath": "assets/pl/George/173.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
-          "PageIndex": 0,
-          "DisplayPattern": "Umm... nie wydaje mi się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3957",
           "DialogueText": "Czy to żart? Nie łapię.",
           "AudioPath": "assets/pl/George/174.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to żart? Nie łapię."
+          "PageIndex": 0
         }
       ]
     }

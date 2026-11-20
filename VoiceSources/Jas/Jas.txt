@@ -28,6 +28,7 @@ AudioName: 7.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(TR)FairyBox
 DialogueText: Wow, jest piękne! I jest w niej wróżka? *hihi*... Słyszę jak śpiewa. Będzie moją sekretną przyjaciółką. {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 8.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)103
@@ -76,6 +77,7 @@ AudioName: 19.ogg
 --------------------------------------------------
 DialogueFrom: married
 DialogueText: *ech*... mam nadzieję, że kiedyś wezmę ślub. {Portrait:Unique}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 20.ogg
 --------------------------------------------------
 DialogueFrom: cropMatured_595
@@ -100,6 +102,7 @@ AudioName: 25.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_3910974
 DialogueText: *hihi*... Patrz, mam prawdziwe królicze kapcie! {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 26.ogg
 --------------------------------------------------
 DialogueFrom: Mon
@@ -108,10 +111,12 @@ AudioName: 27.ogg
 --------------------------------------------------
 DialogueFrom: Mon4
 DialogueText: Dzień dobry, Panie {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 28_male.ogg
 --------------------------------------------------
 DialogueFrom: Mon4
 DialogueText: Dzień dobry, Pani {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 29_female.ogg
 --------------------------------------------------
 DialogueFrom: Mon4
@@ -120,6 +125,7 @@ AudioName: 30.ogg
 --------------------------------------------------
 DialogueFrom: Tue
 DialogueText: Co? *hihi* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 31.ogg
 --------------------------------------------------
 DialogueFrom: Tue
@@ -184,18 +190,22 @@ AudioName: 46.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
 DialogueText: Zawsze jest Pan dla mnie miły, Panie {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 47_male.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
 DialogueText: Zawsze jest Pan dla mnie miła, Panno {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 48_male.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
 DialogueText: Zawsze jest Pani dla mnie miły, Panie {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 49_female.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
 DialogueText: Zawsze jest Pani dla mnie miła, Panno {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 50_female.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
@@ -224,6 +234,7 @@ AudioName: 56.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
 DialogueText: ... Zmarli. *smark* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 57.ogg
 --------------------------------------------------
 DialogueFrom: Event/FarmHouse/3918603:s0
@@ -272,6 +283,7 @@ AudioName: 68.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s2
 DialogueText: *Głęboki wdech*!
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 69.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s3
@@ -280,10 +292,12 @@ AudioName: 70.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s4
 DialogueText: Panie {Farmer_Name}? Proszę... odłóż te robaki na ziemię, żeby mogły żyć w spokoju.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 71_male.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s5
 DialogueText: Panno {Farmer_Name}? Proszę... niech pani odłoży te robaki na ziemię, żeby mogły żyć w spokoju.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 72_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s6
@@ -296,6 +310,7 @@ AudioName: 74.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3910674:s0
 DialogueText: ... *Chlip*...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 75.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3910974:s0
@@ -368,6 +383,7 @@ AudioName: 92.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Jas_y2
 DialogueText: *hihi* Dobrze to robię? {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 93.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Jas
@@ -460,6 +476,7 @@ AudioName: 115.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Jas_horror_AfterMovie
 DialogueText: *smarknięcie*... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 116.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Jas
@@ -468,6 +485,7 @@ AudioName: 117.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:Shop_Jas
 DialogueText: Cześć... mm... *hihi*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 118.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:Jas_IceCream

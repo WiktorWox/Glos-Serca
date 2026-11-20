@@ -8,6 +8,7 @@ AudioName: 182.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Clint:winter_15.000  [plan dnia]
 DialogueText: Mam dziś wizytę u lekarza... Może występ syreny ukoi moje nerwy? A co, jeśli pomyślą, że się gapię...? *nerwowe przełknięcie*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 183.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Clint:winter_16.001  [plan dnia]
@@ -24,5 +25,6 @@ AudioName: 186.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:112  [zakończenie zadania]
 DialogueText: Dzięki, {Farmer_Name}. Doceniam to.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 187.ogg
 --------------------------------------------------

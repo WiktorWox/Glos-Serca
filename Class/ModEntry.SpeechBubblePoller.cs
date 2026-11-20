@@ -88,7 +88,7 @@ namespace VoiceOverFrameworkMod
                     continue;
                 }
 
-                string patternKey = SanitizeBubbleText(text);
+                string patternKey = ScreenKey(text);   // pack keys are the screen text; variables go through templates
                 if (string.IsNullOrWhiteSpace(patternKey))
                 {
                     state.Played = true;

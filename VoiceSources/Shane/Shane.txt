@@ -36,10 +36,12 @@ AudioName: 9.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)203
 DialogueText: Och, ty to zrobiłeś? *gniot*... Em... *trzask*... Chyba zostanę przy mrożonej pizzy. Ale dzięki.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 10_male.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)203
 DialogueText: Och, ty to zrobiłaś? *gniot*... Em... *trzask*... Chyba zostanę przy mrożonej pizzy. Ale dzięki.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 11_female.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_611944_memory_oneweek
@@ -60,10 +62,12 @@ AudioName: 15.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_3910975
 DialogueText: Przykro mi, że musiałeś mnie widzieć w takim stanie, {Farmer_Name}... {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 16_male.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_3910975
 DialogueText: Przykro mi, że musiałaś mnie widzieć w takim stanie, {Farmer_Name}... {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 17_female.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_3910975_memory_oneweek
@@ -128,10 +132,12 @@ AudioName: 32.ogg
 --------------------------------------------------
 DialogueFrom: pamHouseUpgrade
 DialogueText: *ekhem*... Żartuję... Heh.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 33.ogg
 --------------------------------------------------
 DialogueFrom: pamHouseUpgradeAnonymous
 DialogueText: Słyszałem, że ktoś kupił dom dla Pam... *ech*... Czym niby sobie zasłużyła?
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 34.ogg
 --------------------------------------------------
 DialogueFrom: divorced
@@ -144,6 +150,7 @@ AudioName: 36.ogg
 --------------------------------------------------
 DialogueFrom: breakUp
 DialogueText: *chlup* Och... ta, ok... Powinienem był się tego spodziewać. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 37.ogg
 --------------------------------------------------
 DialogueFrom: breakUp
@@ -156,6 +163,7 @@ AudioName: 39.ogg
 --------------------------------------------------
 DialogueFrom: secondChance_Guys
 DialogueText: Nie rozumiem cię... *ech*...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 40.ogg
 --------------------------------------------------
 DialogueFrom: Mon2
@@ -224,6 +232,7 @@ AudioName: 56.ogg
 --------------------------------------------------
 DialogueFrom: Wed4
 DialogueText: *ech*... Każdego dnia to samo. Wypełnianie tych wstrętnych półek, knajpa, a potem przewracam się w nocy z boku na bok. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 57.ogg
 --------------------------------------------------
 DialogueFrom: Wed4
@@ -300,6 +309,7 @@ AudioName: 75.ogg
 --------------------------------------------------
 DialogueFrom: Sat2
 DialogueText: *ech*... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 76.ogg
 --------------------------------------------------
 DialogueFrom: Sat4
@@ -332,6 +342,7 @@ AudioName: 83_female.ogg
 --------------------------------------------------
 DialogueFrom: Sun4
 DialogueText: Hmm... już %time. Powinienem wsadzić pizzę do mikrofali czy jeszcze poczekać? {Portrait:Unique}
+Uwaga: %time – aktualna godzina w grze, np. „06:20” (wstawia gra).
 AudioName: 84.ogg
 --------------------------------------------------
 DialogueFrom: Sun4
@@ -352,6 +363,7 @@ AudioName: 88.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
 DialogueText: Cześć, {Farmer_Name}. W sumie miałem dziś naprawdę dobry dzień. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 89.ogg
 --------------------------------------------------
 DialogueFrom: event_room1
@@ -424,6 +436,7 @@ AudioName: 106.ogg
 --------------------------------------------------
 DialogueFrom: EngagementDialogue/Shane1
 DialogueText: {Farmer_Name}... Kręci mi się w głowie, a nawet jeszcze nic dzisiaj nie piłem.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 107.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Bad_0
@@ -432,6 +445,7 @@ AudioName: 108.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Bad_1
 DialogueText: *ech*... Może wzięliśmy ślub za szybko. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 109.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Bad_2
@@ -460,6 +474,7 @@ AudioName: 115.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Bad_8
 DialogueText: Taa... *czkawka*... Osszywiście, Sskarbeńku. Cco kollwiek rosskaszeszz... *czkawka*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 116.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Bad_9
@@ -508,6 +523,7 @@ AudioName: 127.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Good_0
 DialogueText: *Niuch*... *niuch*... Mmm... Cóż to za wspaniały zapach? Eau de pepperoni? {Portrait:Custom:6}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 128.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Good_1
@@ -544,6 +560,7 @@ AudioName: 136.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Good_7
 DialogueText: {Farmer_Name}? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 137.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Good_8
@@ -552,6 +569,7 @@ AudioName: 138.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Good_9
 DialogueText: Heh... Zastanawiasz się skąd ten głupawy uśmieszek? Naprawdę nie pamiętasz? *zarumienienie* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 139.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_0
@@ -560,6 +578,7 @@ AudioName: 140.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_1
 DialogueText: Hej. Weź to... Za dużo sobie odgrzałem. [195 215 206]
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 141.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_1
@@ -572,6 +591,7 @@ AudioName: 143.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_3
 DialogueText: *cmok*... Mmm, smakujesz jak pizzowe roladki. {Portrait:Custom:6}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 144.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_4
@@ -580,10 +600,12 @@ AudioName: 145.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_Shane
 DialogueText: Coś czuję... *niuch*... Co to? Och...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 146.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Day_Shane
 DialogueText: Aa, to ten stary czips, który kiedyś schowałem do kieszeni. Ciekawe jak długo tam siedział?... *chrup*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 147.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Night_0
@@ -600,6 +622,7 @@ AudioName: 150.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Night_2
 DialogueText: Ughh... *bulgot*... Czuję się trochę wzdęty... Ooj... Za dużo sosu wielu zastosowań od Joja.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 151.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Indoor_Night_3
@@ -680,10 +703,12 @@ AudioName: 170.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/OneKid_1
 DialogueText: kid1 musi jeść dużo jajek... trzeba se jakoś wyrobić te nogi!
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 171.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/OneKid_2
 DialogueText: Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 172.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/OneKid_3
@@ -720,6 +745,7 @@ AudioName: 180.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Outdoor_4
 DialogueText: Hej, {Farmer_Name}. Nie chciałem Cię budzić, więc cichutko wstałem i poszedłem na przechadzkę po farmie. Wszystko gra.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 181.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Outdoor_Shane
@@ -744,6 +770,7 @@ AudioName: 186.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Rainy_Day_2
 DialogueText: Masz... weź to.[346 174 303 305 215]
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 187.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Rainy_Day_2
@@ -756,6 +783,7 @@ AudioName: 189.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Rainy_Day_4
 DialogueText: {Farmer_Name}, powinienem zrobić coś pożytecznego?... Czy się zdrzemnąć?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 190.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/Rainy_Day_Shane
@@ -804,6 +832,7 @@ AudioName: 201.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/spouseRoom_Shane
 DialogueText: Cześć, {Farmer_Name}. Pokręcę się tu i eem... Może pozamiatam podłogę czy coś.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 202.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/spring_1
@@ -868,10 +897,12 @@ AudioName: 217.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/TwoKids_2
 DialogueText: Ech... %kid2 strasznie dzisiaj rozrabia. Chyba ma to po mnie...
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 218.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/TwoKids_3
 DialogueText: *ech*... Może na jeden sezon wyślemy dzieci na robocze obozy Joja...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 219.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Shane/TwoKids_3
@@ -936,6 +967,7 @@ AudioName: 234.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/2128292:s0
 DialogueText: Hej, {Farmer_Name}! {Portrait:Custom:6}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 235.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/2128292:s1
@@ -1004,6 +1036,7 @@ AudioName: 251.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917584:s1
 DialogueText: Od dłuższego czasu nie miałem takiej sesji... *Beknięcie*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 252.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917584:s2
@@ -1012,10 +1045,12 @@ AudioName: 253.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917585:s0
 DialogueText: *beknięcie*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 254.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917585:s1
 DialogueText: Och! Hej {Farmer_Name}. Właśnie wracałem do domu...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 255.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917585:s2
@@ -1076,6 +1111,7 @@ AudioName: 269.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917586:s10
 DialogueText: {Farmer_Name}? Mówiłem, że nie piję... {Portrait:Angry}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 270.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917586:s11
@@ -1088,6 +1124,7 @@ AudioName: 272.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917586:s13
 DialogueText: ... Nic nie szkodzi, {Farmer_Name}. Po prostu się o mnie martwicie. Rozumiem.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 273.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/3917586:s14
@@ -1144,6 +1181,7 @@ AudioName: 286.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/195013:s1
 DialogueText: Ostatnia moja nadzieja która mi pozostała jest całkowicie zniszczona... Dzięki, {Farmer_Name}. Cieszysz się? {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 287.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/195013:s2
@@ -1208,6 +1246,7 @@ AudioName: 302.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/3917590:s4
 DialogueText: Jeszcze raz dziękuję za pieniądze, {Farmer_Name}. To był fajny projekt i chłopakom się spodobał!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 303.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/611944:s0
@@ -1260,6 +1299,7 @@ AudioName: 315.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/611944:s12
 DialogueText: Do zobaczenia, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 316.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s0
@@ -1268,10 +1308,12 @@ AudioName: 317.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s1
 DialogueText: {Farmer_Name}... {Portrait:Custom:7}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 318.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s2
 DialogueText: P... przepraszam...*czkawka* {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 319.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s3
@@ -1296,6 +1338,7 @@ AudioName: 324.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s8
 DialogueText: Po co ja w ogóle próbuję?...*smark* {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 325.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s9
@@ -1304,6 +1347,7 @@ AudioName: 326.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s10
 DialogueText: Jestem tylko z... zwykłym śmieciem latającym na wietrze... *beknięcie* {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 327.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s11
@@ -1324,10 +1368,12 @@ AudioName: 331.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s15
 DialogueText: A... al... *Beknięcie*... ale za bardzo się boję. Jak zwykle... {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 332.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s16
 DialogueText: {Farmer_Name}... jedyne co robię, to pracuję, śpię i piję... ż... żeby zapomnieć o nienawiści do siebie. {Portrait:Custom:7}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 333.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s17
@@ -1352,6 +1398,7 @@ AudioName: 338.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s22
 DialogueText: {Farmer_Name}... {Portrait:Custom:7}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 339.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910975:s23
@@ -1360,6 +1407,7 @@ AudioName: 340.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3910674:s0
 DialogueText: *beknięcie*... {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 341.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3910674:s1
@@ -1436,6 +1484,7 @@ AudioName: 359.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3900074:s4
 DialogueText: ...*ech*... {Portrait:Custom:9}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 360.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3900074:s5
@@ -1456,10 +1505,12 @@ AudioName: 364.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3900074:s9
 DialogueText: Coś nie tak... Za dużo presji? *hihi* {Portrait:Custom:8}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 365.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3900074:s10
 DialogueText: Hej, {Farmer_Name}... Co o tym sądzisz? {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 366.ogg
 --------------------------------------------------
 DialogueFrom: Event/AnimalShop/3900074:s11
@@ -1488,6 +1539,7 @@ AudioName: 372.ogg
 --------------------------------------------------
 DialogueFrom: Event/BusStop/9581348:s3
 DialogueText: *Przełyk*... nerwy przed meczem... {Portrait:Custom:10}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 373.ogg
 --------------------------------------------------
 DialogueFrom: Event/BusStop/9581348:s4
@@ -1636,18 +1688,22 @@ AudioName: 409.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Shane
 DialogueText: Mmm... Wspaniały sos. *siorb*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 410.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Shane
 DialogueText: Ach, to zielone jest ostre! *mlask*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 411.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Shane
 DialogueText: *chrup*... ał. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 412.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Shane_spouse_y2
 DialogueText: *beknięcie* Być może za bardzo się opchałem na ten taniec... przepraszam. {Portrait:Neutral}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 413.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring24/Shane_y2
@@ -1732,6 +1788,7 @@ AudioName: 433.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Shane:s0
 DialogueText: Wow, {Farmer_Name}! Skąd wiesz, że to moje ulubione?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 434.ogg
 --------------------------------------------------
 DialogueFrom: NPCGiftTastes/Shane:s1
@@ -1752,6 +1809,7 @@ AudioName: 438.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Shane
 DialogueText: Gdybym Cię nie poznał, {Farmer_Name}... Mogłoby mnie już tu nie być.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 439.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Shane
@@ -1772,10 +1830,12 @@ AudioName: 443.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Shane_summer_movie_0_BeforeMovie
 DialogueText: Buh... Ta, to może być dobre. *niuch* *niuch*... przekąska może pomóc.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 444.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Shane_summer_movie_0_DuringMovie
 DialogueText: Kibicuję złej stronie... *beknięcie*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 445.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Shane_summer_movie_0_AfterMovie
@@ -1800,6 +1860,7 @@ AudioName: 450.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Shane_like_BeforeMovie
 DialogueText: Buh... Tak, to może być dobre. *niuch* *niuch*... Przekąska może pomóc.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 451.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Shane_like_AfterMovie
@@ -1824,6 +1885,7 @@ AudioName: 456.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Shane_marriage
 DialogueText: Mmm... napój z jaskiniowej marchwi... *siorb*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 457.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Shane

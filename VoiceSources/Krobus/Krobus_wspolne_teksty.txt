@@ -64,6 +64,7 @@ AudioName: 206.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Krobus_Engaged (strona 3)  [wisior syreny / oświadczyny]
 DialogueText: {Farmer_Name}... Tak, mogę z Tobą zamieszkać, jeśli chcesz. Ale musimy to zachować w tajemnicy.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 207.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Krobus_Engaged (strona 4)  [wisior syreny / oświadczyny]
@@ -119,6 +120,7 @@ Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym prz
 
 DialogueFrom: Strings/StringsFromCSFiles:Krobus_AfterWedding  [wydarzenie / inne]
 DialogueText: Dzień dobry, {Farmer_Name}... Wpadłem tu w nocy. {Portrait:Love}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 220.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Krobus_AfterWedding (strona 2)  [wydarzenie / inne]

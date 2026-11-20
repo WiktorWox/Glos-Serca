@@ -1,9 +1,11 @@
 DialogueFrom: Introduction
 DialogueText: Hej, to Pan {Farmer_Name}, nasz nowy farmer! Jestem Pierre, właściciel lokalnego sklepu.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 1_male.ogg
 --------------------------------------------------
 DialogueFrom: Introduction
 DialogueText: Hej, to Panna {Farmer_Name}, nasza nowa farmerka! Jestem Pierre, właściciel lokalnego sklepu.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 2_female.ogg
 --------------------------------------------------
 DialogueFrom: Introduction
@@ -40,6 +42,7 @@ AudioName: 10.ogg
 --------------------------------------------------
 DialogueFrom: GreenRain_2
 DialogueText: Cieszę się, że Cię widzę, {Farmer_Name}. Co to dla Ciebie trochę toksycznego deszczu, gdy masz nasiona do kupienia? {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 11.ogg
 --------------------------------------------------
 DialogueFrom: GreenRain_2
@@ -88,6 +91,7 @@ AudioName: 22.ogg
 --------------------------------------------------
 DialogueFrom: married
 DialogueText: Ha ha... tylko żartuję... *ekhem*...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 23.ogg
 --------------------------------------------------
 DialogueFrom: married_Abigail_memory_oneday
@@ -132,10 +136,12 @@ AudioName: 33_female.ogg
 --------------------------------------------------
 DialogueFrom: Mon4
 DialogueText: Cześć, {Farmer_Name}. Potrzebujesz nasion albo sadzonek drzew owocowych?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 34.ogg
 --------------------------------------------------
 DialogueFrom: Mon4_inlaw_Abigail
 DialogueText: Cześć, {Farmer_Name}. Co u Abigail? Sklep nie jest taki sam bez niej...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 35.ogg
 --------------------------------------------------
 DialogueFrom: Tue
@@ -176,10 +182,12 @@ AudioName: 44.ogg
 --------------------------------------------------
 DialogueFrom: Thu2
 DialogueText: Naprawdę doceniam Twoją pracę, Panie {Farmer_Name}. Ciężko było mi osiągnąć odpowiednie zyski.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 45_male.ogg
 --------------------------------------------------
 DialogueFrom: Thu2
 DialogueText: Naprawdę doceniam Twoją pracę, Panno {Farmer_Name}. Ciężko było mi osiągnąć odpowiednie zyski.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 46_female.ogg
 --------------------------------------------------
 DialogueFrom: Thu8
@@ -228,6 +236,7 @@ AudioName: 57.ogg
 --------------------------------------------------
 DialogueFrom: Sun
 DialogueText: *ech*... Czuję bluesa zza lady...$k {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 58.ogg
 --------------------------------------------------
 DialogueFrom: Sun
@@ -244,6 +253,7 @@ AudioName: 61.ogg
 --------------------------------------------------
 DialogueFrom: Wed6
 DialogueText: *ech*... Nieważne jak dobrze idzie interes, nie mogę zaspokoić swojej żądzy sukcesu. Co jest ze mną nie tak? Może jestem znudzony tym życiem. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 62.ogg
 --------------------------------------------------
 DialogueFrom: Wed6
@@ -256,6 +266,7 @@ AudioName: 64.ogg
 --------------------------------------------------
 DialogueFrom: Thu4
 DialogueText: Hej, {Farmer_Name}. Jesteś moim klientem numero uno!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 65.ogg
 --------------------------------------------------
 DialogueFrom: summer_Mon
@@ -276,6 +287,7 @@ AudioName: 69.ogg
 --------------------------------------------------
 DialogueFrom: summer_Thu
 DialogueText: Wszyscy cieszą się pogodą zamiast robić zakupy... *ech*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 70.ogg
 --------------------------------------------------
 DialogueFrom: summer_Fri
@@ -436,6 +448,7 @@ AudioName: 109.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/102:s0
 DialogueText: Witaj, {Farmer_Name}! Twój pierwszy rok w Dolinie Stardew prawie dobiegł końca, prawda?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 110.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/102:s1
@@ -464,6 +477,7 @@ AudioName: 116.ogg
 --------------------------------------------------
 DialogueFrom: Event/Farm/102:s7
 DialogueText: Nasiona Pierre są nasionami *najwyższej* jakości. Gwarantuję Ci to. {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 117.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/4:s0
@@ -552,6 +566,7 @@ AudioName: 138.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/191393:s15
 DialogueText: Ale teraz, dzięki Tobie {Farmer_Name}, mamy drugą szansę.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 139.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/191393:s16
@@ -592,6 +607,7 @@ AudioName: 148.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/16:s7
 DialogueText: *zrzęd*... Teraz muszę znaleźć lepszą kryjówkę... *zrzęd* {Portrait:Unique}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 149.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/3102768:s0
@@ -624,6 +640,7 @@ AudioName: 156.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s4
 DialogueText: TYLKO... *bełkot* *bełkot*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 157.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s5
@@ -636,6 +653,7 @@ AudioName: 159.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s7
 DialogueText: To katastrofa, {Farmer_Name}... {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 160.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s8
@@ -660,6 +678,7 @@ AudioName: 165.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s13
 DialogueText: Tak w ogóle, {Farmer_Name}... Wygląda na to, że przydałaby Ci się wegetariańska kolacja.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 166.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/963113:s14
@@ -700,6 +719,7 @@ AudioName: 175.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Pierre_y2
 DialogueText: Ach, toż to farmer {Farmer_Name}! Mam dziś sporą selekcję towarów. Zobacz! {Portrait:Neutral}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 176.ogg
 --------------------------------------------------
 DialogueFrom: Festival/spring13/Pierre
@@ -764,10 +784,12 @@ AudioName: 191.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer28/Pierre_y2
 DialogueText: Cześć, farmerze {Farmer_Name}. Wpadnij do mnie jutro po jesienne nasiona! {Portrait:Neutral}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 192_male.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer28/Pierre_y2
 DialogueText: Cześć, farmerko {Farmer_Name}. Wpadnij do mnie jutro po jesienne nasiona! {Portrait:Neutral}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 193_female.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter25/Pierre
@@ -816,6 +838,7 @@ AudioName: 204.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow
 DialogueText: Hej, pamiętasz {2}? Podałem to mojej rodzinie na obiad.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 205.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow
@@ -828,6 +851,7 @@ AudioName: 207.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh
 DialogueText: Hej, pamiętasz {2}? Podałem to mojej rodzinie na obiad.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 208.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh
@@ -840,6 +864,7 @@ AudioName: 210.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy
 DialogueText: Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 211.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy
@@ -848,6 +873,7 @@ AudioName: 212.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy
 DialogueText: Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 213.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy
@@ -876,6 +902,7 @@ AudioName: 219.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Pierre
 DialogueText: *szept* Nie mów tego Sandy, ale moja selekcja artykułów spożywczych powala jej na kolana!
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 220.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:Shop_Pierre
@@ -904,6 +931,7 @@ AudioName: 226.ogg
 --------------------------------------------------
 DialogueFrom: SeedShop_Pierre_Greeting2
 DialogueText: To farmer {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 227.ogg
 --------------------------------------------------
 DialogueFrom: SeedShop_Pierre_Raining

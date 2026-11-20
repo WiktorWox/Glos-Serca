@@ -75,31 +75,16 @@ namespace VoiceOverFrameworkMod
         {
             var pack = GetSelectedVoicePack(character);
             if (pack == null) return false;
-            string farmer = Game1.player?.Name;
-            string text = displayed;
-            if (!string.IsNullOrEmpty(farmer)) text = text.Replace(farmer, "");
-            string canon = CanonDisplay(text);
-            string rel = null;
-            // Pack display patterns come from DialogueUtil.SplitAndSanitize, which also strips token-like letter runs
-            // (e.g. "pet" out of "tapet", "farm" out of "farmer"); try the plain text first, then the same sanitizing.
-            var candidates = new List<string> { canon };
-            var segs = DialogueUtil.SplitAndSanitize(text);
-            if (segs != null && segs.Count > 0)
-                candidates.Add(CanonDisplay(string.Join(" ", segs.Select(seg => seg.Display))));
-            foreach (string c in candidates.Distinct())
+            // exact screen text, then the regex templates (player name, %farm, {0}…)
+            if (pack.Entries != null && pack.Entries.TryGetValue(ScreenKey(displayed), out var rel) && !string.IsNullOrWhiteSpace(rel))
             {
-                if (pack.EntriesByDisplayPattern != null && pack.EntriesByDisplayPattern.TryGetValue(c, out rel)) break;
-                if (pack.Entries != null && pack.Entries.TryGetValue(c, out rel)) break;
-                rel = null;
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-{tag}] character='{character}' text='{ScreenKey(displayed)}' match={rel}", LogLevel.Debug);
+                string full = PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
+                if (File.Exists(full)) PlayVoiceFromFile(full);
+                return true;
             }
-            if (Config.developerModeOn)
-                Monitor.Log($"[V2-{tag}] character='{character}' text='{canon}' match={(rel ?? "no")}", LogLevel.Debug);
-            if (string.IsNullOrWhiteSpace(rel))
-                return TryPlayTemplate(pack, displayed, tag);
-            string full = PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
-            if (!File.Exists(full)) return false;
-            PlayVoiceFromFile(full);
-            return true;
+            return TryPlayTemplate(pack, displayed, tag);
         }
     }
 }

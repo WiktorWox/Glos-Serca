@@ -20,6 +20,7 @@ AudioName: 5_female.ogg
 --------------------------------------------------
 DialogueFrom: FlowerDance_Accept
 DialogueText: Och... chcesz zatańczyć *ze mną*, prawda? {Portrait:Custom:13}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 6_male.ogg
 --------------------------------------------------
 DialogueFrom: FlowerDance_Accept
@@ -44,6 +45,7 @@ AudioName: 11_female.ogg
 --------------------------------------------------
 DialogueFrom: AcceptBirthdayGift_Loved
 DialogueText: *wdech*... To dla mnie? Wow, {Farmer_Name}, to najlepszy prezent urodzinowy ever! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 12.ogg
 --------------------------------------------------
 DialogueFrom: AcceptBirthdayGift_Liked
@@ -112,10 +114,12 @@ AudioName: 28.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_11_memory_twoweeks
 DialogueText: Oglądałeś ostatni odcinek 'Łez'? *szloch*... Nie mogę uwierzyć, że Kyle i Amy się rozstali... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 29_male.ogg
 --------------------------------------------------
 DialogueFrom: eventSeen_11_memory_twoweeks
 DialogueText: Oglądałaś ostatni odcinek 'Łez'? *szloch*... Nie mogę uwierzyć, że Kyle i Amy się rozstali... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 30_female.ogg
 --------------------------------------------------
 DialogueFrom: cropMatured_421
@@ -148,6 +152,7 @@ AudioName: 37.ogg
 --------------------------------------------------
 DialogueFrom: divorced_Emily
 DialogueText: To *trochę* niezręczne, że oboje mieszkacie w tak małym miasteczku.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 38.ogg
 --------------------------------------------------
 DialogueFrom: dating_Haley_memory_oneyear
@@ -200,6 +205,7 @@ AudioName: 50.ogg
 --------------------------------------------------
 DialogueFrom: Resort_Towel_2
 DialogueText: *ech*... Myślę, że w końcu znalazłam swoje miejsce na świecie.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 51.ogg
 --------------------------------------------------
 DialogueFrom: Resort_Towel_2
@@ -228,6 +234,7 @@ AudioName: 57.ogg
 --------------------------------------------------
 DialogueFrom: FlowerDance_Accept_Spouse
 DialogueText: *ech*... Moje dni bycia Królową Kwiatów dobiegły końca... więc dla mnie to będzie słodko-gorzki taniec. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 58.ogg
 --------------------------------------------------
 DialogueFrom: FlowerDance_Accept_Spouse
@@ -316,6 +323,7 @@ AudioName: 79.ogg
 --------------------------------------------------
 DialogueFrom: Thu
 DialogueText: *ech*... Zjadłabym teraz babeczkę.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 80.ogg
 --------------------------------------------------
 DialogueFrom: Thu
@@ -356,6 +364,7 @@ AudioName: 89.ogg
 --------------------------------------------------
 DialogueFrom: Wed8
 DialogueText: Druga to tajemnica! *hihi* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 90.ogg
 --------------------------------------------------
 DialogueFrom: Tue2
@@ -420,6 +429,7 @@ AudioName: 105.ogg
 --------------------------------------------------
 DialogueFrom: Fri10
 DialogueText: {Farmer_Name}, pójdziemy kiedyś na wycieczkę?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 106.ogg
 --------------------------------------------------
 DialogueFrom: Fri10
@@ -428,6 +438,7 @@ AudioName: 107.ogg
 --------------------------------------------------
 DialogueFrom: Event_clean1
 DialogueText: *ech*... {Portrait:Unique}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 108.ogg
 --------------------------------------------------
 DialogueFrom: Event_clean2
@@ -500,6 +511,7 @@ AudioName: 125.ogg
 --------------------------------------------------
 DialogueFrom: Event_beach2
 DialogueText: *ech* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 126.ogg
 --------------------------------------------------
 DialogueFrom: Event_beach2
@@ -676,10 +688,12 @@ AudioName: 169.ogg
 --------------------------------------------------
 DialogueFrom: summer_Tue8
 DialogueText: {Farmer_Name}, spędzam z tobą chyba za dużo czasu. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 170.ogg
 --------------------------------------------------
 DialogueFrom: summer_Fri10
 DialogueText: O, cześć {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 171.ogg
 --------------------------------------------------
 DialogueFrom: summer_Fri10
@@ -708,6 +722,7 @@ AudioName: 177.ogg
 --------------------------------------------------
 DialogueFrom: fall_Thu
 DialogueText: Mam dziś ochotę na zakupy. *ech*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 178.ogg
 --------------------------------------------------
 DialogueFrom: fall_Fri
@@ -720,6 +735,7 @@ AudioName: 180.ogg
 --------------------------------------------------
 DialogueFrom: fall_Sat
 DialogueText: *ech*... Co twoim zdaniem powinnam dziś zrobić?
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 181.ogg
 --------------------------------------------------
 DialogueFrom: fall_Sat
@@ -812,6 +828,7 @@ AudioName: 203.ogg
 --------------------------------------------------
 DialogueFrom: fall_Mon10
 DialogueText: {Farmer_Name}, cieszę się, że cię widzę. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 204.ogg
 --------------------------------------------------
 DialogueFrom: winter_Mon
@@ -872,6 +889,7 @@ AudioName: 218.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue2
 DialogueText: Jesteś {Farmer_Name}, prawda?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 219.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue2
@@ -880,6 +898,7 @@ AudioName: 220.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue4
 DialogueText: Cześć, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 221.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue4
@@ -940,10 +959,12 @@ AudioName: 235.ogg
 --------------------------------------------------
 DialogueFrom: winter_Sun10
 DialogueText: {Farmer_Name}, świetnie dziś wyglądasz. Podoba mi się to.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 236_male.ogg
 --------------------------------------------------
 DialogueFrom: winter_Sun10
 DialogueText: {Farmer_Name}, ładnie dziś wyglądasz.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 237_female.ogg
 --------------------------------------------------
 DialogueFrom: winter_Sun10
@@ -972,6 +993,7 @@ AudioName: 243.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Bad_1
 DialogueText: *ech*... Może wzięliśmy ślub za szybko. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 244.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Bad_2
@@ -1056,6 +1078,7 @@ AudioName: 264.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Good_2
 DialogueText: Cieszysz się, że jesteśmy razem, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 265.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Good_2
@@ -1084,6 +1107,7 @@ AudioName: 271.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Good_7
 DialogueText: {Farmer_Name}? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 272.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Good_8
@@ -1108,6 +1132,7 @@ AudioName: 277.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Day_1
 DialogueText: Dzień dobry, Kochanie! Ładnie pachnie? Zrobiłam Ci śniadanie! [194 195 210 211 216]
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 278.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Day_1
@@ -1148,10 +1173,12 @@ AudioName: 287.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Night_0
 DialogueText: Skończyłeś dzisiejsze obowiązki, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 288_male.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Night_0
 DialogueText: Skończyłaś dzisiejsze obowiązki, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 289_female.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Night_0
@@ -1204,6 +1231,7 @@ AudioName: 301.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Night_4
 DialogueText: *Fiu!* Obowiązki domowe skończone. Teraz możemy trochę razem posiedzieć. {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 302.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Indoor_Night_4
@@ -1244,6 +1272,7 @@ AudioName: 311_female.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Neutral_5
 DialogueText: Dobrze nam idzie finansowo, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 312.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Neutral_6
@@ -1284,18 +1313,22 @@ AudioName: 321.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/OneKid_0
 DialogueText: Posiedziałeś dzisiaj trochę z %kid1?
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 322_male.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/OneKid_0
 DialogueText: Posiedziałaś dzisiaj trochę z %kid1?
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 323_female.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/OneKid_1
 DialogueText: Zastanawiam się, czy %kid1 będzie farmerem, tak jak ty.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 324.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/OneKid_2
 DialogueText: Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 325.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/OneKid_3
@@ -1328,6 +1361,7 @@ AudioName: 332.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Outdoor_3
 DialogueText: *fiu*... Gorąco tu.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 333.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Outdoor_4
@@ -1356,10 +1390,12 @@ AudioName: 339.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Rainy_Day_1
 DialogueText: Myślisz czasem o przyszłości, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 340.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Rainy_Day_2
 DialogueText: Dzień dobry! Wstałam dziś rano i upiekłam Ci coś słodkiego! [223 234 211 651 731]
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 341.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Rainy_Day_2
@@ -1408,6 +1444,7 @@ AudioName: 352.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Rainy_Night_4
 DialogueText: Zrobiłam Ci ciepły posiłek, Kochanie. Ostry, tak jak lubisz. Smacznego! [727 231 207 199] {Portrait:Happy}
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 353.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/Rainy_Night_5
@@ -1476,14 +1513,17 @@ AudioName: 369.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/TwoKids_0
 DialogueText: kid1 i %kid2 już jedli śniadanie. Straszne z nich głodomory!
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 370.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/TwoKids_1
 DialogueText: Musimy poświęcać %kid1 dużo uwagi, odkąd mamy %kid2. Nie chcemy między nimi żadnej zazdrości.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 371.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/TwoKids_2
 DialogueText: Czy %kid2 nie jest przepięknym dzieckiem?
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 372.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/TwoKids_3
@@ -1504,6 +1544,7 @@ AudioName: 376.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/winter_28
 DialogueText: To był wspaniały rok, {Farmer_Name}. Ciekawe co przyniesie nam następny. {Portrait:Love}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 377.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Haley/winter_7
@@ -1524,6 +1565,7 @@ AudioName: 381.ogg
 --------------------------------------------------
 DialogueFrom: rainy
 DialogueText: *ech*... Czasami życie bywa naprawdę ciężkie.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 382.ogg
 --------------------------------------------------
 DialogueFrom: Event/FarmHouse/8675611:s0
@@ -1568,6 +1610,7 @@ AudioName: 392.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/6184644:s1
 DialogueText: Wygląda smakowicie. Dzięki, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 393.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/6184644:s2
@@ -1700,6 +1743,7 @@ AudioName: 425.ogg
 --------------------------------------------------
 DialogueFrom: Event/HaleyHouse/12:s2
 DialogueText: Och! To ty... {Farmer_Name}, tak?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 426.ogg
 --------------------------------------------------
 DialogueFrom: Event/HaleyHouse/12:s3
@@ -1728,6 +1772,7 @@ AudioName: 432.ogg
 --------------------------------------------------
 DialogueFrom: Event/HaleyHouse/15:s1
 DialogueText: {Farmer_Name}, jesteś!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 433.ogg
 --------------------------------------------------
 DialogueFrom: Event/HaleyHouse/15:s2
@@ -1768,6 +1813,7 @@ AudioName: 442.ogg
 --------------------------------------------------
 DialogueFrom: Event/HaleyHouse/15:s11
 DialogueText: Och, {Farmer_Name}... Długo na to czekałam. {Portrait:Custom:11}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 443.ogg
 --------------------------------------------------
 DialogueFrom: Event/HaleyHouse/15:s12
@@ -1840,6 +1886,7 @@ AudioName: 460.ogg
 --------------------------------------------------
 DialogueFrom: Event/Beach/13:s0
 DialogueText: {Farmer_Name}! Podejdź tu, szybko! {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 461.ogg
 --------------------------------------------------
 DialogueFrom: Event/Beach/13:s1
@@ -1884,6 +1931,7 @@ AudioName: 471_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/Beach/13:s11
 DialogueText: Bardzo Ci dziękuję, {Farmer_Name}. Życie mi ratujesz.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 472.ogg
 --------------------------------------------------
 DialogueFrom: Event/Beach/13:s12
@@ -1892,10 +1940,12 @@ AudioName: 473.ogg
 --------------------------------------------------
 DialogueFrom: Event/Beach/13:s13
 DialogueText: Jestem Ci bardzo wdzięczna, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 474.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/14:s0
 DialogueText: Och! {Farmer_Name}. {Portrait:Custom:8}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 475.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/14:s1
@@ -1936,10 +1986,12 @@ AudioName: 484.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/14:s10
 DialogueText: *hihi* {Portrait:Custom:10}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 485.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/14:s11
 DialogueText: Było super, {Farmer_Name}!... A te zdjęcia wyszły przezabawnie! {Portrait:Custom:10}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 486.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/14:s12
@@ -1972,6 +2024,7 @@ AudioName: 493.ogg
 --------------------------------------------------
 DialogueFrom: Event/Temp/decorate:s5
 DialogueText: Teraz ten ciemny pokój wygląda świetnie... Dzięki, {Farmer_Name}. {Portrait:Unique}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 494.ogg
 --------------------------------------------------
 DialogueFrom: Event/Temp/leave:s0
@@ -2008,6 +2061,7 @@ AudioName: 502.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall16/Haley
 DialogueText: Byłam już u niej... Powiedziała mi coś... Ciekawego. *hihi* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 503.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall16/Haley_spouse_y2
@@ -2036,6 +2090,7 @@ AudioName: 509.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Haley_spouse_y2
 DialogueText: .... prawda, {Farmer_Name}? Sztuczne... tak? {Portrait:Custom:12}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 510.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Haley_y2
@@ -2172,6 +2227,7 @@ AudioName: 543.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Haley
 DialogueText: Emily zrobiła {1} {2} wczoraj na kolację... Wyrzuciłam to jak nie patrzyła.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 544.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/PurchasedItem_Haley
@@ -2180,6 +2236,7 @@ AudioName: 545.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Haley
 DialogueText: *hihi*... {Portrait:Happy}"/faceDirection farmer 1 true/emote farmer 8/pause 1000/speak Haley "Och, ja tylko...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 546.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Haley
@@ -2208,6 +2265,7 @@ AudioName: 552.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Haley_dislike_AfterMovie
 DialogueText: *ziew*... Co? Och... Jeszcze raz, o czym był ten film? {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 553.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Haley_like_BeforeMovie
@@ -2220,6 +2278,7 @@ AudioName: 555.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Haley_marriage
 DialogueText: Hej... Ktoś tu ma ładną opaleniznę... *szczyp* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 556.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Haley2_marriage

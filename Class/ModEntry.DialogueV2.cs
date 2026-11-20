@@ -189,9 +189,10 @@ namespace VoiceOverFrameworkMod
             AugmentWithDetectedLegacyTokens(currentDisplayedString, cap);
 
             var removable = DialogueSanitizerV2.GetRemovableWords(cap).ToList();
-            string strippedForMatch = DialogueSanitizerV2.StripForDialogue(currentDisplayedString, cap);
-            strippedForMatch = FixCjkSpaces(strippedForMatch);
-            string patternKey = CanonDisplay(strippedForMatch);
+            // Pack keys are the screen text itself (lines without variables); nothing is cut out of the displayed
+            // text any more. Lines with variables are matched by their regex template (step 3).
+            string strippedForMatch = ScreenKey(currentDisplayedString);
+            string patternKey = strippedForMatch;
             if (string.IsNullOrWhiteSpace(patternKey))
                 return;
 
@@ -375,59 +376,14 @@ namespace VoiceOverFrameworkMod
                 return;
             }
 
-            // 2) full-page fallback
-            if (selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
-            {
-                string rawPage = (d != null && pageZero < (d.dialogues?.Count ?? 0)) ? d.dialogues[pageZero].Text : null;
-                if (!string.IsNullOrWhiteSpace(rawPage))
-                {
-                    var segs = DialogueUtil.SplitAndSanitize(rawPage, splitBAsPage: false);
-                    if (segs != null && segs.Count > 0)
-                    {
-                        string fullDisplay = segs[0].Display ?? string.Empty;
-
-                        string strippedFull = DialogueSanitizerV2.StripChosenWords(fullDisplay, cap);
-                        strippedFull = FixCjkSpaces(strippedFull);
-                        string patternKeyFull = CanonDisplay(strippedFull);
-
-                        if (selectedPack.Entries.TryGetValue(patternKeyFull, out var relAudioFull) &&
-                            !string.IsNullOrWhiteSpace(relAudioFull))
-                        {
-                            var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, relAudioFull));
-                            bool missingAudio2 = !System.IO.File.Exists(fullPath);
-
-                            if (_collectV2Failures && missingAudio2)
-                            {
-                                V2AddFailure(
-                                    currentSpeaker?.Name,
-                                    fullDisplay,
-                                    removable,
-                                    patternKeyFull,
-                                    patternKeyFull,
-                                    matched: true,
-                                    missingAudio: true,
-                                    fuzzyAttempted: false
-                                );
-                            }
-
-                            if (!missingAudio2)
-                                PlayVoiceFromFile(fullPath);
-
-                            _lastPlayedLookupKey = finalLookupKey;
-                            return;
-                        }
-                    }
-                }
-            }
-
-            // 3) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
+            // 2) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
             if (selectedPack != null && selectedPack.FormatMajor >= 2 && TryPlayTemplate(selectedPack, currentDisplayedString, "dialogue"))
             {
                 _lastPlayedLookupKey = finalLookupKey;
                 return;
             }
 
-            // 4) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
+            // 3) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
             if (ENABLE_PACK_FUZZY && selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
             {
                 string liveKey = strippedForMatch;
@@ -500,7 +456,7 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
-            // 5) unmatched (same-language)
+            // 4) unmatched (same-language)
             if (_collectV2Failures)
             {
                 V2AddFailure(
@@ -655,9 +611,9 @@ namespace VoiceOverFrameworkMod
             AugmentWithDetectedLegacyTokens(currentDisplayedString, cap);
 
             var removable = DialogueSanitizerV2.GetRemovableWords(cap).ToList();
-            string strippedForMatch = DialogueSanitizerV2.StripForEvent(displayForMatch, cap);
-            strippedForMatch = FixCjkSpaces(strippedForMatch);
-            string patternKey = CanonDisplay(strippedForMatch);
+            // Pack keys are the screen text itself; lines with variables go through the regex templates (step 3)
+            string strippedForMatch = ScreenKey(currentDisplayedString);
+            string patternKey = strippedForMatch;
 
             if (string.IsNullOrWhiteSpace(patternKey))
                 return;
@@ -817,45 +773,14 @@ namespace VoiceOverFrameworkMod
                 return;
             }
 
-            // 2) full-page fallback
-            if (selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
-            {
-                string rawPage = (d != null && pageZero < (d.dialogues?.Count ?? 0)) ? d.dialogues[pageZero].Text : null;
-                if (!string.IsNullOrWhiteSpace(rawPage))
-                {
-                    var segs = DialogueUtil.SplitAndSanitize(rawPage, splitBAsPage: false);
-                    if (segs != null && segs.Count > 0)
-                    {
-                        string fullDisplay = segs[0].Display ?? string.Empty;
-                        if (!string.IsNullOrEmpty(farmerName))
-                            fullDisplay = fullDisplay.Replace(farmerName, "@");
-
-                        string strippedFull = DialogueSanitizerV2.StripForEvent(fullDisplay, cap);
-                        strippedFull = FixCjkSpaces(strippedFull);
-                        string patternKeyFull = CanonDisplay(strippedFull);
-
-                        if (selectedPack.Entries.TryGetValue(patternKeyFull, out var relAudioFull) &&
-                            !string.IsNullOrWhiteSpace(relAudioFull))
-                        {
-                            var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, relAudioFull));
-                            if (System.IO.File.Exists(fullPath))
-                                PlayVoiceFromFile(fullPath);
-
-                            _lastPlayedLookupKey = patternKey;
-                            return;
-                        }
-                    }
-                }
-            }
-
-            // 3) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
+            // 2) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
             if (selectedPack != null && selectedPack.FormatMajor >= 2 && TryPlayTemplate(selectedPack, currentDisplayedString, "event"))
             {
                 _lastPlayedLookupKey = patternKey;
                 return;
             }
 
-            // 4) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
+            // 3) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
             if (ENABLE_PACK_FUZZY && selectedPack?.Entries != null)
             {
                 string liveKey = strippedForMatch;
@@ -884,7 +809,7 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
-            // 5) unmatched (same-language)
+            // 4) unmatched (same-language)
             if (_collectV2Failures)
             {
                 V2AddFailure(

@@ -4,6 +4,7 @@ Numery plików ciągną dalej numerację postaci (pierwszy nowy: 10.ogg).
 
 DialogueFrom: Strings/Characters:Phone_Ring_Bear  [telefon]
 DialogueText: *niuch* *niuch* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 10.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Bear (strona 2)  [telefon]
@@ -16,13 +17,16 @@ AudioName: 12.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Bear (strona 4)  [telefon]
 DialogueText: *chrząknięcie*... Nadal mam ten dobry towar od Ciebie, przyjacielu.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 13.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Bear (strona 5)  [telefon]
 DialogueText: Dzięki niemu jestem bardzo, bardzo szczęśliwy. *parsknięcie* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 14.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Bear (strona 6)  [telefon]
 DialogueText: Chciałem podziękować... pa pa przyjacielu. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 15.ogg
 --------------------------------------------------

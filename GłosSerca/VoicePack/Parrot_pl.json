@@ -13,16 +13,14 @@
           "DialogueText": "Jeśli jesteś ptakiem",
           "AudioPath": "assets/pl/Parrot/1.ogg",
           "TranslationKey": "Events/IslandHut:1039573:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Jeśli jesteś ptakiem"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/IslandHut/1039573:s3",
           "DialogueText": "To czemu umiesz mówić?",
           "AudioPath": "assets/pl/Parrot/2.ogg",
           "TranslationKey": "Events/IslandHut:1039573:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "To czemu umiesz mówić?"
+          "PageIndex": 0
         }
       ]
     }

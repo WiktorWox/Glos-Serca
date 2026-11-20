@@ -12,6 +12,7 @@ AudioName: 3.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)StardropTea
 DialogueText: To dla mnie wiele znaczy, {Farmer_Name}. Zachowam to na cichy dzień w namiocie. Dziękuję!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 4.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)Book_Trash
@@ -40,10 +41,12 @@ AudioName: 10.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)774
 DialogueText: Zobaczmy... wygląda idealnie. Dobry z ciebie uczeń, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 11.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(O)166
 DialogueText: Nie, dziękuję. Nie potrzebuję pieniędzy... Szczerze mówiąc, myślę, że są przeklęte. [166]
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 12.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_Positive_category_fish
@@ -320,6 +323,7 @@ AudioName: 80.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue4
 DialogueText: Dzięki, że mnie nie ignorujesz, {Farmer_Name}. Tylko inteligentne osoby potrafią przezwyciężyć swoje podstawowe instynkty.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 81.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue4
@@ -388,6 +392,7 @@ AudioName: 97.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/502969:s4
 DialogueText: Dzięki, {Farmer_Name}. Wiedziałem, że jesteś osobą o otwartym umyśle. Dobrze się czuję z tym co robię. Nikogo nie krzywdzę. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 98.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/502969:s5
@@ -396,6 +401,7 @@ AudioName: 99.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/502969:s6
 DialogueText: Nie wszyscy są odcięci od tego świata, {Farmer_Name}. Nie wiesz jak to jest być mną. Nikogo nie krzywdzę, chcę żyć na własną rękę. Czy to źle?'
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 100.ogg
 --------------------------------------------------
 DialogueFrom: Event/Town/502969:s7
@@ -412,6 +418,7 @@ AudioName: 103_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/26:s0
 DialogueText: {Farmer_Name}! Podejdź do ogniska. To takie przyjemne uczucie.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 104.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/26:s1
@@ -488,6 +495,7 @@ AudioName: 122.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/371652:s7
 DialogueText: {Farmer_Name}... Bardzo cenię sobie naszą przyjaźń. I wiem, że ty też. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 123.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/371652:s8
@@ -500,6 +508,7 @@ AudioName: 125.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/linusWell:s0
 DialogueText: Dzięki, {Farmer_Name}. Trochę się martwiłem... Myślałem, że chcesz mi zaproponować przeprowadzkę na Twoją farmę! *mrug*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 126.ogg
 --------------------------------------------------
 DialogueFrom: Event/Mountain/linusWell:s1
@@ -732,6 +741,7 @@ AudioName: 183.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Linus_dislike_AfterMovie
 DialogueText: Nie jestem przyzwyczajony do takich symulacji... Wybacz, jeśli byłem rozczarowującym gościem, {Farmer_Name}. Nadal doceniam twoje zaproszenie!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 184.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Linus

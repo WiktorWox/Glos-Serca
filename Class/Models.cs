@@ -98,7 +98,9 @@ namespace VoiceOverFrameworkMod
         public string? TranslationKey { get; set; }  // e.g. "Characters/Dialogue/Abigail:danceRejection"
         public int? PageIndex { get; set; }          // 0-based page within that key usually used when dialogue breaks
                                                      // (ended up not needing it since was failing with there are tree forks in dialogue questions and responses that wasn't consistent)
-        public string? DisplayPattern { get; set; }  // V2-sanitized text with placeholders used for V2 Dialogue Lookup for match
+        public string? DisplayPattern { get; set; }  // no longer written by the generator; the mod matches by DialogueText (read only as a fallback)
+        /// <summary>For people only (recording lists); the mod ignores it. Generated: what the game tokens in the text are.</summary>
+        public string? ActorNote { get; set; }
         public string? GenderVariant { get; set; }   // "male" | "female" | "neutral" (optional) - Though this shows up now, it's really not needed since the final V2 dialogue match algorithm was drastically altered, and the key + gender is only used as a 2nd layer match in case first layer fails
 
         public string? BranchId { get; set; }

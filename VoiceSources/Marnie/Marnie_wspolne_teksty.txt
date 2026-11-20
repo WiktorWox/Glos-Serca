@@ -4,14 +4,17 @@ Numery plików ciągną dalej numerację postaci (pierwszy nowy: 184.ogg).
 
 DialogueFrom: Strings/Characters:Phone_Marnie_Open  [telefon]
 DialogueText: Halo? Och, cześć {Farmer_Name}! Tak, mój sklep jest dzisiaj otwarty do 16. To do później! *klik*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 184.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Marnie_Open_Rare  [telefon]
 DialogueText: Lew...? Hah... Hejjj! Tak, Sklep jest dziś otwarty. *meee*. Ten dźwięk? Och, to jedna z moich kóz. Przyjdź, jeśli czegoś ci potrzebujesz! *klik* {Portrait:Love}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 185.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Marnie_Closed  [telefon]
 DialogueText: Cześć, dodzwoniłeś się do Rancza Marnie. Pracuję od 9 do 16. Proszę wtedy przyjść. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 186.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Marnie_ClosedDay  [telefon]
@@ -76,6 +79,7 @@ AudioName: 201.ogg
 --------------------------------------------------
 DialogueFrom: Data/Shops:AnimalShop:Rare  [okienko sklepu (ramka obok portretu w menu sklepu)]
 DialogueText: *ech*... Myślałam, że to Lewis.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 202.ogg
 --------------------------------------------------
 DialogueFrom: Data/Shops:AnimalShop:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]

@@ -4,14 +4,17 @@ Numery plików ciągną dalej numerację postaci (pierwszy nowy: 197.ogg).
 
 DialogueFrom: Strings/Characters:Phone_Gus_Festival  [telefon]
 DialogueText: Witam, z tej strony Gus z Gwiezdnej Knajpy. Knajpa dzisiaj zamknięta. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 197.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Gus_Open_NoDishOfTheDay  [telefon]
 DialogueText: Halo? Cześć {Farmer_Name}! Tak, knajpa otwarta. Do zobaczenia! *klik* {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 198.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Gus_Closed_NoDishOfTheDay  [telefon]
 DialogueText: Cześć, tu Gus z Gwiezdnej Knajpy. Knajpa jeszcze zamknięta. Przyjdź między 12 a 24 jeśli masz ochotę na przepyszne jedzenie albo coś do picia. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 199.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]

@@ -30,6 +30,7 @@ AudioName: 187.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Gus:fall_4.001  [plan dnia]
 DialogueText: To moja wątroba, prawda doktorze? Widzę po pańskim wyrazie twarzy... *ech*... Naprawdę muszę się napić tego słodkiego, przepysznego wina z Doliny Stardew. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 188.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Gus:Mon.000  [plan dnia]
@@ -38,10 +39,12 @@ AudioName: 189.ogg
 --------------------------------------------------
 DialogueFrom: Strings/schedules/Gus:Sun.000  [plan dnia]
 DialogueText: Hej {Farmer_Name}. Wybacz... Bar jest zamknięty do końca gry.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 190.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:114  [zakończenie zadania]
 DialogueText: *wąch*...*wąch*... Co to jest? Coś tu pachnie jak tuńczyk!
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 191.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:114  [zakończenie zadania]

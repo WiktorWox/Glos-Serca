@@ -104,6 +104,7 @@ AudioName: 563.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3972 (strona 2)  [wisior syreny / oświadczyny]
 DialogueText: {Farmer_Name}... Wybacz, ale nie. Nie chcę się z Tobą teraz wiązać. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 564.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3973  [wisior syreny / oświadczyny]
@@ -148,6 +149,7 @@ AudioName: 574.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked3  [okrzyk w dymku nad głową]
 DialogueText: #!*#%*!
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 575.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked4  [okrzyk w dymku nad głową]

@@ -67,14 +67,17 @@ AudioName: 387.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5367  [ślub (przemowa)]
 DialogueText: Gdy {Farmer_Name} po raz pierwszy pojawił się w Mieście Pelikan, nikt nie wiedział, czy wpasuje się w naszą społeczność...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 388.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5367 (strona 2)  [ślub (przemowa)]
 DialogueText: Ale od tego dnia, {Farmer_Name} będzie większą częścią społeczności tego miasteczka niż każdy z nas! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 389.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5369  [ślub (przemowa)]
 DialogueText: Gdy {Farmer_Name} po raz pierwszy pojawiła się w Mieście Pelikan nikt nie wiedział czy wpasuje się w naszą społeczność...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 390.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5370  [ślub (przemowa)]
@@ -83,6 +86,7 @@ AudioName: 391.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5371  [ślub (przemowa)]
 DialogueText: {Farmer_Name}... %spouse...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). %spouse – imię współmałżonka gracza (wstawia gra).
 AudioName: 392.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5371 (strona 2)  [ślub (przemowa)]

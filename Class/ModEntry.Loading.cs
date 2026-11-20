@@ -181,15 +181,21 @@ namespace VoiceOverFrameworkMod
                                     string audioPath = PathUtilities.NormalizePath(entry.AudioPath);
 
                                     // --- Text-based lookup key (kept for V1 & as fallback for V2) ---
+                                    // V2: the key is the text the game shows, derived from the actor text (DisplayPattern is
+                                    // no longer needed; read only when an entry has no actor text). Lines with variable parts
+                                    // (player name, %farm, {0}…) get no exact key; their regex template matches them.
                                     string keyForLookup;
                                     if (formatMajor >= 2)
-                                        keyForLookup = !string.IsNullOrWhiteSpace(entry.DisplayPattern) ? entry.DisplayPattern : entry.DialogueText;
+                                    {
+                                        string screen = !string.IsNullOrWhiteSpace(entry.DialogueText) ? ScreenTextFromActor(entry.DialogueText) : CanonDisplay(entry.DisplayPattern);
+                                        keyForLookup = HasVariablePart(screen) ? null : screen;
+                                    }
                                     else
                                         keyForLookup = entry.DialogueText;
 
                                     // A '¦' in the text separates the male and female wording of one line
                                     // (the game shows only one of them), so index each variant on its own.
-                                    foreach (string textVariant in SplitGenderVariants(keyForLookup))
+                                    foreach (string textVariant in keyForLookup == null ? Enumerable.Empty<string>() : SplitGenderVariants(keyForLookup))
                                     {
                                         if (!entriesDict.TryGetValue(textVariant, out var existingTextAudio))
                                         {
@@ -245,27 +251,6 @@ namespace VoiceOverFrameworkMod
                                             if (BuildTemplate(actorVariant, audioPath) is TemplateLine tl)
                                                 templates.Add(tl);
 
-                                    //V2 DisplayPattern index (canonical form)
-                                    if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DisplayPattern))
-                                    foreach (string patternVariant in SplitGenderVariants(entry.DisplayPattern))
-                                    {
-                                        var dpKey = CanonDisplay(patternVariant);
-                                        if (!entriesByDisplayPattern.TryGetValue(dpKey, out var existingAudio))
-                                        {
-                                            entriesByDisplayPattern[dpKey] = audioPath;
-                                        }
-                                        else if (!string.Equals(existingAudio, audioPath, StringComparison.OrdinalIgnoreCase))
-                                        {
-                                            // Several lines can share one display pattern (e.g. "Hi, @." on different days).
-                                            // Prefer the entry whose audio file actually exists, so an unrecorded duplicate
-                                            // doesn't shadow a recorded one.
-                                            string packDirForFile = Path.GetDirectoryName(filePath) ?? string.Empty;
-                                            bool existingPresent = File.Exists(Path.Combine(packDirForFile, existingAudio));
-                                            bool newPresent = File.Exists(Path.Combine(packDirForFile, audioPath));
-                                            if (!existingPresent && newPresent)
-                                                entriesByDisplayPattern[dpKey] = audioPath;
-                                        }
-                                    }
                                 }
 
                                 // If *all* maps are empty, skip; otherwise allow (supports pure-TK packs)
@@ -291,7 +276,8 @@ namespace VoiceOverFrameworkMod
                                     TemplateEntries = templates,
 
                                     //: V2 DisplayPattern map
-                                    EntriesByDisplayPattern = entriesByDisplayPattern,
+                                    // same keys and recorded-file preference as the text map
+                                    EntriesByDisplayPattern = new Dictionary<string, string>(entriesDict, StringComparer.OrdinalIgnoreCase),
 
                                     ContentPackId = contentPack.Manifest.UniqueID,
                                     ContentPackName = contentPack.Manifest.Name,

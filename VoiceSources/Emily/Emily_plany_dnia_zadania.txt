@@ -100,6 +100,7 @@ AudioName: 534.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:110  [zakończenie zadania]
 DialogueText: Och, masz go od Clinta? Cóż, nie obchodzi mnie skąd go masz, jest piękny! Dziękuję! *cmok* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 535.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:115  [zakończenie zadania]
@@ -108,6 +109,7 @@ AudioName: 536.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:126  [zakończenie zadania]
 DialogueText: Och, wygląda wspaniale... I jest też z ekologicznego pochodzenia! Bardzo Ci dziękuję, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 537.ogg
 --------------------------------------------------
 DialogueFrom: Data/Quests:126  [zakończenie zadania]

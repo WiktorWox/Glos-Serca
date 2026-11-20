@@ -112,6 +112,7 @@ AudioName: 28.ogg
 --------------------------------------------------
 DialogueFrom: married_Maru
 DialogueText: Gratuluję ślubu, {Farmer_Name}. Maru mówiła, że nadal będzie pracować w klinice — to dla mnie duża ulga!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 29.ogg
 --------------------------------------------------
 DialogueFrom: married_Harvey
@@ -168,6 +169,7 @@ AudioName: 42.ogg
 --------------------------------------------------
 DialogueFrom: breakUp
 DialogueText: *Przełknięcie*... S... Słabo mi... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 43.ogg
 --------------------------------------------------
 DialogueFrom: dumped_Guys
@@ -176,6 +178,7 @@ AudioName: 44.ogg
 --------------------------------------------------
 DialogueFrom: secondChance_Guys
 DialogueText: Chcę Cię z powrotem w moim życiu, {Farmer_Name}. Wybaczam Ci. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 45.ogg
 --------------------------------------------------
 DialogueFrom: Mon
@@ -204,6 +207,7 @@ AudioName: 51.ogg
 --------------------------------------------------
 DialogueFrom: Mon10
 DialogueText: O! Hej, {Farmer_Name}. {Portrait:Love}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 52.ogg
 --------------------------------------------------
 DialogueFrom: Mon10
@@ -224,6 +228,7 @@ AudioName: 56_female.ogg
 --------------------------------------------------
 DialogueFrom: Tue8
 DialogueText: Nie przepracowuj się, {Farmer_Name}. To zalecenie lekarskie!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 57.ogg
 --------------------------------------------------
 DialogueFrom: Tue8
@@ -232,6 +237,7 @@ AudioName: 58.ogg
 --------------------------------------------------
 DialogueFrom: Tue8
 DialogueText: Nie przepracowuj się, {Farmer_Name}. To zalecenie lekarskie!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 59.ogg
 --------------------------------------------------
 DialogueFrom: Tue8
@@ -240,6 +246,7 @@ AudioName: 60.ogg
 --------------------------------------------------
 DialogueFrom: Wed4
 DialogueText: Chciałbym Cię lepiej poznać, {Farmer_Name}. Odłóżmy na bok relację lekarz-pacjent.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 61.ogg
 --------------------------------------------------
 DialogueFrom: Wed6
@@ -312,6 +319,7 @@ AudioName: 78.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
 DialogueText: *Ech*... Zaczynam się czuć staro...
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 79.ogg
 --------------------------------------------------
 DialogueFrom: Sat8
@@ -336,6 +344,7 @@ AudioName: 84.ogg
 --------------------------------------------------
 DialogueFrom: event_george1
 DialogueText: Dzięki, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 85.ogg
 --------------------------------------------------
 DialogueFrom: event_george1
@@ -344,6 +353,7 @@ AudioName: 86.ogg
 --------------------------------------------------
 DialogueFrom: event_george2
 DialogueText: *Ech* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 87.ogg
 --------------------------------------------------
 DialogueFrom: event_george2
@@ -352,10 +362,12 @@ AudioName: 88.ogg
 --------------------------------------------------
 DialogueFrom: event_aerobics1
 DialogueText: Dzięki, {Farmer_Name}. Naprawdę to doceniam. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 89.ogg
 --------------------------------------------------
 DialogueFrom: event_aerobics2
 DialogueText: *Ech*... To było nieprzyjemne. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 90.ogg
 --------------------------------------------------
 DialogueFrom: event_heart1
@@ -384,6 +396,7 @@ AudioName: 96.ogg
 --------------------------------------------------
 DialogueFrom: event_grave2
 DialogueText: *Ech* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 97.ogg
 --------------------------------------------------
 DialogueFrom: summer_Mon
@@ -408,6 +421,7 @@ AudioName: 102.ogg
 --------------------------------------------------
 DialogueFrom: fall_Fri
 DialogueText: Bywasz w kopalni, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 103.ogg
 --------------------------------------------------
 DialogueFrom: fall_Fri
@@ -464,6 +478,7 @@ AudioName: 116.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Bad_1
 DialogueText: *ech*... Może wzięliśmy ślub za szybko. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 117.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Bad_2
@@ -540,6 +555,7 @@ AudioName: 135.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Good_0
 DialogueText: {Farmer_Name}... Nadal nie mogę uwierzyć, że jesteśmy małżeństwem... {Portrait:Love}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 136.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Good_1
@@ -576,6 +592,7 @@ AudioName: 144.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Good_7
 DialogueText: {Farmer_Name}? Chcę Ci tylko powiedzieć, że szanuję całą Twoją ciężką pracę. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 145.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Good_8
@@ -600,6 +617,7 @@ AudioName: 150.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Indoor_Day_1
 DialogueText: Dzień dobry, {Farmer_Name}! Zrobiłem pożywne śniadanko. [201]
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 151.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Indoor_Day_1
@@ -656,6 +674,7 @@ AudioName: 164.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Indoor_Night_3
 DialogueText: Bycie lekarzem to stresująca praca, więc dobrze mieszkać w miejscu, gdzie można odpocząć... na przykład na ''%farm'' farmie.
+Uwaga: %farm / {Farm_Name} – nazwa farmy gracza (wstawia gra).
 AudioName: 165.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Indoor_Night_4
@@ -684,6 +703,7 @@ AudioName: 171.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/jobReturn_Harvey
 DialogueText: *Fiu*... Jestem wykończony... {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 172.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/jobReturn_Harvey
@@ -716,6 +736,7 @@ AudioName: 179_female.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Neutral_5
 DialogueText: Dobrze nam idzie finansowo, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 180.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Neutral_6
@@ -756,14 +777,17 @@ AudioName: 189.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/OneKid_0
 DialogueText: Ty i %kid1 jesteście dla mnie najważniejsi na świecie.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 190.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/OneKid_1
 DialogueText: Mały %kid1 będzie miał tu idealne dzieciństwo. Cieszę się, że możemy mu to zapewnić.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 191.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/OneKid_2
 DialogueText: Nie martw się, nakarmię %kid1. Możesz się skupić na prowadzeniu farmy.
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 192.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/OneKid_3
@@ -784,6 +808,7 @@ AudioName: 196.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Outdoor_3
 DialogueText: {Farmer_Name}... Ty... Jesteś dla mnie całym światem. {Portrait:Love}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 197.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Outdoor_4
@@ -864,6 +889,7 @@ AudioName: 216.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Rainy_Night_4
 DialogueText: Zrobiłem nam pyszny i zdrowy obiad. Tylko świeże składniki z naszej farmy! [212 214 225 209 200] {Portrait:Happy}
+Uwaga: […] – numery przedmiotów, które postać daje graczowi; nie czytać.
 AudioName: 217.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/Rainy_Night_4
@@ -900,6 +926,7 @@ AudioName: 225.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/spring_12
 DialogueText: O, jutro jest festiwal, prawda? Tłumy, wydarzenia... *przełknięcie* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 226.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/spring_23
@@ -956,6 +983,7 @@ AudioName: 239.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/TwoKids_0
 DialogueText: Już dałem %kid1 i %kid2 śniadanie. Staram się nauczyć ich zdrowego odżywiania!
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 240.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/TwoKids_1
@@ -964,6 +992,7 @@ AudioName: 241.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/TwoKids_2
 DialogueText: Kiedy %kid2 dorośnie, może zostanie pilotem. Tak jak ja kiedyś marzyłem?
+Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 242.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Harvey/TwoKids_3
@@ -996,6 +1025,7 @@ AudioName: 249.ogg
 --------------------------------------------------
 DialogueFrom: rainy
 DialogueText: Cześć, {Farmer_Name}! Em... Lubisz czytać w bibliotece?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 250.ogg
 --------------------------------------------------
 DialogueFrom: rainy
@@ -1028,6 +1058,7 @@ AudioName: 257.ogg
 --------------------------------------------------
 DialogueFrom: Event/FarmHouse/3917626:s6
 DialogueText: Ach... Zjawiasz się w samą porę, {Farmer_Name}! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 258.ogg
 --------------------------------------------------
 DialogueFrom: Event/FarmHouse/3917626:s7
@@ -1204,6 +1235,7 @@ AudioName: 301.ogg
 --------------------------------------------------
 DialogueFrom: Event/JoshHouse/56:s9
 DialogueText: {Farmer_Name}, jak myślisz co George powinien zrobić?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 302.ogg
 --------------------------------------------------
 DialogueFrom: Event/JoshHouse/56:s10
@@ -1216,22 +1248,27 @@ AudioName: 304.ogg
 --------------------------------------------------
 DialogueFrom: Event/JoshHouse/56:s12
 DialogueText: Dzięki za pomoc, {Farmer_Name}. Doceniam to. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 305.ogg
 --------------------------------------------------
 DialogueFrom: Event/JoshHouse/56:s13
 DialogueText: Lepiej nie dawać moim pacjentom mieszanych opinii, {Farmer_Name}. Zapamiętaj to w przyszłości.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 306.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/58:s0
 DialogueText: *dyszy*... Tak. {Portrait:Custom:7}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 307.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/58:s1
 DialogueText: {Farmer_Name}! Podglądałeś mnie? {Portrait:Custom:8}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 308_male.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/58:s2
 DialogueText: {Farmer_Name}! Podglądałaś mnie? {Portrait:Custom:8}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 309_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/58:s3
@@ -1272,6 +1309,7 @@ AudioName: 318_male.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/195013:s1
 DialogueText: {Farmer_Name}... Myślałem, że chcesz za mnie wyjść i założyć ze mną rodzinę... Co ja Ci złego zrobiłem? {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 319_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/Saloon/195013:s2
@@ -1300,6 +1338,7 @@ AudioName: 325.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/7:s2
 DialogueText: *ech*... Znowu będę musiał zadzwonić do pacjenta, żeby pobrać tę próbkę. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 326.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/7:s3
@@ -1320,10 +1359,12 @@ AudioName: 330.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/toldTruth:s3
 DialogueText: {Farmer_Name}? Wyglądasz trochę blado... Dobrze się czujesz?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 331.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/57:s0
 DialogueText: Ach, {Farmer_Name}! Miałem napisać do Ciebie list.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 332.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/57:s1
@@ -1368,6 +1409,7 @@ AudioName: 342.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/57:s11
 DialogueText: Dobrze się trzymasz, {Farmer_Name}.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 343.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/57:s12
@@ -1404,6 +1446,7 @@ AudioName: 351.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/571102:s6
 DialogueText: {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 352.ogg
 --------------------------------------------------
 DialogueFrom: Event/Hospital/571102:s7
@@ -1472,6 +1515,7 @@ AudioName: 368.ogg
 --------------------------------------------------
 DialogueFrom: Event/HarveyRoom/normal:s2
 DialogueText: {Farmer_Name}, podejdź tu!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 369.ogg
 --------------------------------------------------
 DialogueFrom: Event/HarveyRoom/normal:s3
@@ -1560,6 +1604,7 @@ AudioName: 390.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/528052:s9
 DialogueText: My... Jesteśmy bardzo wysoko... *przełknięcie* {Portrait:Custom:8}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 391.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/528052:s10
@@ -1568,6 +1613,7 @@ AudioName: 392.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/528052:s11
 DialogueText: Cóż, masz wystarczająco odwagi za nas dwoje, {Farmer_Name}... To... to dlatego Cię lubię. {Portrait:Custom:11}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 393.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/528052:s12
@@ -1588,6 +1634,7 @@ AudioName: 397.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/528052:s16
 DialogueText: Em... {Farmer_Name}? Znamy się dość długo i... ja... emm... {Portrait:Custom:11}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 398.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/528052:s17
@@ -1616,6 +1663,7 @@ AudioName: 404.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/afraid:s3
 DialogueText: My... jesteśmy bardzo wysoko...*przełknięcie* {Portrait:Custom:8}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 405.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/afraid:s4
@@ -1624,6 +1672,7 @@ AudioName: 406.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/afraid:s5
 DialogueText: Cóż, masz wystarczająco odwagi za nas dwoje, {Farmer_Name}... To... to dlatego Cię lubię. {Portrait:Custom:11}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 407.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/afraid:s6
@@ -1644,6 +1693,7 @@ AudioName: 411.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/afraid:s10
 DialogueText: Em... {Farmer_Name}? Znamy się dość długo i teraz... ja... emm... {Portrait:Custom:11}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 412.ogg
 --------------------------------------------------
 DialogueFrom: Event/Railroad/afraid:s11
@@ -1752,6 +1802,7 @@ AudioName: 438.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer11/Harvey_y2
 DialogueText: *dyszy*... *dyszy*... Ach, nie mogę się doczekać na michę gorącej zupy... {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 439.ogg
 --------------------------------------------------
 DialogueFrom: Festival/summer28/Harvey
@@ -1840,10 +1891,12 @@ AudioName: 460.ogg
 --------------------------------------------------
 DialogueFrom: ExtraDialogue/SummitEvent_Dialogue3_Harvey
 DialogueText: T... tak bardzo Cię kocham i podziwiam, {Farmer_Name}... {Portrait:Love}"
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 461.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Harvey_spring_movie_1_BeforeMovie
 DialogueText: Troszkę się denerwuję... *przełknięcie*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 462.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Harvey_spring_movie_1_DuringMovie
@@ -1868,6 +1921,7 @@ AudioName: 467.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Harvey_love_AfterMovie
 DialogueText: To było niesamowite! Cieszę się, że mogłem na to z Tobą pójść, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 468.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Harvey_like_BeforeMovie
@@ -1876,6 +1930,7 @@ AudioName: 469.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Harvey_like_AfterMovie
 DialogueText: To było ciekawe! Przez jakiś czas będę myślał o {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 470.ogg
 --------------------------------------------------
 DialogueFrom: MovieReactions/Harvey_dislike_BeforeMovie
@@ -1896,6 +1951,7 @@ AudioName: 474.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Harvey_marriage
 DialogueText: Hej, {Farmer_Name}. Podczas festiwalu będę pracować do późna, więc nie czekaj na mnie!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 475.ogg
 --------------------------------------------------
 DialogueFrom: Strings/1_6_Strings:DesertFestival_Harvey_marriage

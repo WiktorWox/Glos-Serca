@@ -4,10 +4,12 @@ Numery plików ciągną dalej numerację postaci (pierwszy nowy: 590.ogg).
 
 DialogueFrom: Strings/Characters:AbigailInMineFirst  [inne]
 DialogueText: Hej, {Farmer_Name}. Zdziwiony? W końcu odważyłam się tu zejść.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 590.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:AbigailInMineFirst (strona 2)  [inne]
 DialogueText: Hej, {Farmer_Name}. Zdziwiona? W końcu odważyłam się tu zejść.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 591.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:AbigailInMineFirst (strona 3)  [inne]
@@ -32,6 +34,7 @@ AudioName: 596.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:AbigailInMine2  [inne]
 DialogueText: Cześć {Farmer_Name}! Dotarłam tu bez walki z potworami...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 597.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:AbigailInMine3  [inne]
@@ -148,6 +151,7 @@ AudioName: 625.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3972 (strona 2)  [wisior syreny / oświadczyny]
 DialogueText: {Farmer_Name}... Wybacz, ale nie. Nie chcę się z Tobą teraz wiązać. {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 626.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3973  [wisior syreny / oświadczyny]
@@ -192,6 +196,7 @@ AudioName: 636.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked3  [okrzyk w dymku nad głową]
 DialogueText: #!*#%*!
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 637.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked4  [okrzyk w dymku nad głową]
@@ -243,6 +248,7 @@ AudioName: 648.ogg
 --------------------------------------------------
 DialogueFrom: Characters/Dialogue/Abigail:summer_Sun  [zdanie przed pytaniem]
 DialogueText: Masz czasami ochotę poznawać nowe miejsca, {Farmer_Name}?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 649.ogg
 --------------------------------------------------
 DialogueFrom: Characters/Dialogue/Abigail:fall_Sun  [zdanie przed pytaniem]

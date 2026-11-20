@@ -12,14 +12,17 @@ AudioName: 63_female.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Marlon_AlreadyRecovering  [telefon]
 DialogueText: Halo?... Ta, przyniosę twoja rzecz dziś w nocy. Możesz się uspokoić. Nie musisz dzwonić! *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 64.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Marlon_NoDeathItems  [telefon]
 DialogueText: Słucham? Nie straciłeś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 65_male.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Marlon_NoDeathItems (strona 2)  [telefon]
 DialogueText: Słucham? Nie straciłaś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 66_female.ogg
 --------------------------------------------------
 DialogueFrom: Data/Shops:AdventureGuildRecovery:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]

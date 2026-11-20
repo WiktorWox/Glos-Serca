@@ -16,38 +16,47 @@ AudioName: 236.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:PierreStockListDialogue (strona 4)  [inne]
 DialogueText: Dziękuję, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 237.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Pierre_Open  [telefon]
 DialogueText: Lokalny Sklep u Pierra! Och, cześć, {Farmer_Name}! Tak, jesteśmy otwarci do 17. Przyjdź po wspaniałe okazje na nasiona i produkty! Do widzenia. *klik*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 238.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Pierre_Open_Rare  [telefon]
 DialogueText: Abigail! Twoja świnka morska znowu uciekła! Chodź tu *i to już* i zajmij się tym! {Portrait:Unique}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 239.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Pierre_Open_Rare (strona 2)  [telefon]
 DialogueText: Och! Uch... Halo? Dziękuję za telefon. T... Tak, Sklep otwarty do 17. Do widzenia. *klik* {Portrait:Love}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 240.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Pierre_Closed  [telefon]
 DialogueText: Dziękuję, że dzwonisz do Lokalnego Sklepu u Pierra. Sklep jeszcze jest zamknięty, ale mamy otwarte od 9 do 17. Do zobaczenia! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 241.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Pierre_Festival  [telefon]
 DialogueText: Tu do Lokalny Sklep u Pierra, dziękuję za telefon. Sklep dzisiaj zamknięty w związku z festiwalem. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 242.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Pierre  [telefon]
 DialogueText: Hej, {Farmer_Name}. To ja, Pierre.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 243.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Pierre (strona 2)  [telefon]
 DialogueText: Cóż, chciałem ci powiedzieć, że doceniam twój biznes. I chciałbym przypomnieć, że Lokalny Sklep u Pierra ma *najlepsze* nasiona i produkty.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 244.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Ring_Pierre (strona 3)  [telefon]
 DialogueText: Mam nadzieję, że widzimy się wkrótce. Pa! *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 245.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]

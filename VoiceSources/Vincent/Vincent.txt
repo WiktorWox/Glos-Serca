@@ -24,6 +24,7 @@ AudioName: 6.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_(TR)FrogEgg
 DialogueText: *Gniot* *gniot*... Fuuuj! Mogę to zatrzymać? Mogę, mogę, mogę? Jeeej! {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 7.ogg
 --------------------------------------------------
 DialogueFrom: GreenRain
@@ -36,6 +37,7 @@ AudioName: 9.ogg
 --------------------------------------------------
 DialogueFrom: AcceptGift_Negative_alcohol_item
 DialogueText: *Niuch*... Co to? Ale śmierdzi... Mamooo!!! {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 10.ogg
 --------------------------------------------------
 DialogueFrom: Resort_Entering
@@ -84,6 +86,7 @@ AudioName: 21.ogg
 --------------------------------------------------
 DialogueFrom: Tue
 DialogueText: *Ech*... Mama nie pozwala mi zjeść więcej żelków. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 22.ogg
 --------------------------------------------------
 DialogueFrom: Tue6
@@ -164,10 +167,12 @@ AudioName: 41_female.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
 DialogueText: Cześć, wujku {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 42_male.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
 DialogueText: Cześć, ciociu {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 43_female.ogg
 --------------------------------------------------
 DialogueFrom: Sun10
@@ -212,14 +217,17 @@ AudioName: 53.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/181928:s0
 DialogueText: Panie {Farmer_Name}, ożeni się pan z panną Penny? {Portrait:Sad}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 54_male.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/181928:s1
 DialogueText: Panno {Farmer_Name}... em, ma pani chłopaka?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 55_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/choseFarming:s0
 DialogueText: Em, {Farmer_Name}? Czy jeśli zjem Twoje warzywka, będę tak silny jak mój starszy brat Sam?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 56.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/choseFarming:s1
@@ -228,10 +236,12 @@ AudioName: 57.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/choseAnimals:s0
 DialogueText: {Farmer_Name}? Mogę położyć siodło na jedną z twoich krów i przyjechać na niej do miasta? Jak prawdziwy kowboj!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 58.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/choseMinerals:s0
 DialogueText: {Farmer_Name}? To prawda, że gobliny mieszkają głęboko w jaskiniach... i że lubią porywać małe dziewczynki na obiad?
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 59.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/318560:s0
@@ -248,10 +258,12 @@ AudioName: 62.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s0
 DialogueText: Hejka, panie {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 63_male.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s1
 DialogueText: Hejka, panno {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 64_female.ogg
 --------------------------------------------------
 DialogueFrom: Event/Forest/3910979:s2
@@ -292,6 +304,7 @@ AudioName: 73.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Vincent
 DialogueText: Mama nie pozwala mi iść do labiryntu. *szloch* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 74.ogg
 --------------------------------------------------
 DialogueFrom: Festival/fall27/Vincent_y2

@@ -13,48 +13,42 @@
           "DialogueText": "Brawo za spostrzegawczość. A teraz się odsuń, bałwanie.",
           "AudioPath": "assets/pl/Bouncer/1.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4020",
-          "PageIndex": 0,
-          "DisplayPattern": "Brawo za spostrzegawczość. A teraz się odsuń, bałwanie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4021",
           "DialogueText": "!!! Czy... czy to jest 'Karta Klubowa'?",
           "AudioPath": "assets/pl/Bouncer/2.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4021",
-          "PageIndex": 0,
-          "DisplayPattern": "!!! Czy... czy to jest 'Karta Klubowa'?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Club_Bouncer_TextAboveHead1",
           "DialogueText": "Teraz jestem zły!",
           "AudioPath": "assets/pl/Bouncer/3.ogg",
           "TranslationKey": "Strings/Locations:Club_Bouncer_TextAboveHead1",
-          "PageIndex": 0,
-          "DisplayPattern": "Teraz jestem zły!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Club_Bouncer_TextAboveHead2",
           "DialogueText": "Ty chuliganie...",
           "AudioPath": "assets/pl/Bouncer/4.ogg",
           "TranslationKey": "Strings/Locations:Club_Bouncer_TextAboveHead2",
-          "PageIndex": 0,
-          "DisplayPattern": "Ty chuliganie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4192",
           "DialogueText": "...",
           "AudioPath": "assets/pl/Bouncer/5.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4192",
-          "PageIndex": 0,
-          "DisplayPattern": "..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4192",
           "DialogueText": "Tylko dla członków klubu, dzieciaku. A więc spadaj.",
           "AudioPath": "assets/pl/Bouncer/6.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4192",
-          "PageIndex": 3,
-          "DisplayPattern": "Tylko dla członków klubu, dzieciaku. A więc spadaj."
+          "PageIndex": 3
         }
       ]
     }

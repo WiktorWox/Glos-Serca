@@ -4,30 +4,37 @@ Numery plików ciągną dalej numerację postaci (pierwszy nowy: 188.ogg).
 
 DialogueFrom: Strings/Characters:Phone_Clint_Open  [telefon]
 DialogueText: Halo? Och, hej, {Farmer_Name}. Ta, Mam otwarte do 16. Em... Ok. Na razie. *klik*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 188.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Clint_Open_Rare  [telefon]
 DialogueText: Halo? Tak, tak, pracuję do 16. Muszę iść. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 189_male.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Clint_Open_Rare (strona 2)  [telefon]
 DialogueText: Halo? Och... {Farmer_Name}... Twój głos pięknie brzmi przez telefon... Uch... Ok. Rozumiem. Pracuję do 16. *trzask* {Portrait:Love}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 190_female.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Clint_Closed  [telefon]
 DialogueText: Dodzwoniłeś się do poczty głosowej Clinta. Jestem zajęty... Pracuję od 9 do 16. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 191.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Clint_Festival  [telefon]
 DialogueText: Hej, Tu Clint. Mam dzisiaj wolne. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 192.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Clint_Working_OneDay  [telefon]
 DialogueText: Hej... Twoje narzędzie będzie gotowe dopiero jutro. Wracam do roboty. *brzdęk* *brzdęk* *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 193.ogg
 --------------------------------------------------
 DialogueFrom: Strings/Characters:Phone_Clint_Working  [telefon]
 DialogueText: Halo? Tak? Jeszcze pracuję nad Twoim narzędziem. Zadzwoń później. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 194.ogg
 --------------------------------------------------
 DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]

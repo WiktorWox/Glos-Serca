@@ -447,6 +447,13 @@ namespace VoiceOverFrameworkMod
                 if (this.Config.developerModeOn)
                     this.Monitor.Log($"Saving JSON ({characterManifest.Entries.Count} entries for {characterName}) to: {outputPath}", LogLevel.Debug);
 
+                // the mod matches by DialogueText; DisplayPattern is no longer written. ActorNote explains game tokens.
+                foreach (var vpOut in finalOutputFileObject.VoicePacks)
+                    foreach (var en in vpOut.Entries)
+                    {
+                        en.DisplayPattern = null;
+                        en.ActorNote ??= BuildActorNote(en.DialogueText);
+                    }
                 string jsonOutput = JsonConvert.SerializeObject(finalOutputFileObject, Formatting.Indented,
                     new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore });
 

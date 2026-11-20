@@ -13,40 +13,35 @@
           "DialogueText": "Ten zapach... podejdź bliżej... {Portrait:Sad}",
           "AudioPath": "assets/pl/Bear/1.ogg",
           "TranslationKey": "Events/Woods:2120303:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Ten zapach... podejdź bliżej..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s1",
           "DialogueText": "Heh... Niecodziennie mogę porozmawiać z człowiekiem. Wygląda na to, że masz w sobie małą 'magię lasu'... {Portrait:Unique}",
           "AudioPath": "assets/pl/Bear/2.ogg",
           "TranslationKey": "Events/Woods:2120303:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Heh... Niecodziennie mogę porozmawiać z człowiekiem. Wygląda na to, że masz w sobie małą 'magię lasu'..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s2",
           "DialogueText": "Teraz... wracając do mojej wiadomości... Masz towar?",
           "AudioPath": "assets/pl/Bear/3.ogg",
           "TranslationKey": "Events/Woods:2120303:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Teraz... wracając do mojej wiadomości... Masz towar?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s3",
           "DialogueText": "Hohohoooo... Ten zapach... to bardzo słodki towar! {Portrait:Happy}",
           "AudioPath": "assets/pl/Bear/4.ogg",
           "TranslationKey": "Events/Woods:2120303:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Hohohoooo... Ten zapach... to bardzo słodki towar!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s4",
           "DialogueText": "... Lubię ten syrop... rozwesela mnie. {Portrait:Happy}",
           "AudioPath": "assets/pl/Bear/5.ogg",
           "TranslationKey": "Events/Woods:2120303:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "... Lubię ten syrop... rozwesela mnie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s5",
@@ -54,31 +49,28 @@
           "AudioPath": "assets/pl/Bear/6.ogg",
           "TranslationKey": "Events/Woods:2120303:s5",
           "PageIndex": 0,
-          "DisplayPattern": "... Zyskujesz dziś nowego przyjaciela, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s6",
           "DialogueText": "Chcę Ci pokazać coś wyjątkowego...",
           "AudioPath": "assets/pl/Bear/7.ogg",
           "TranslationKey": "Events/Woods:2120303:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Chcę Ci pokazać coś wyjątkowego..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s7",
           "DialogueText": "Niedźwiedź odchodzi zostawiając Cię ze specjalną wiedzą...",
           "AudioPath": "assets/pl/Bear/8.ogg",
           "TranslationKey": "Events/Woods:2120303:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Niedźwiedź odchodzi zostawiając Cię ze specjalną wiedzą..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Woods/2120303:s8",
           "DialogueText": "Maliny i Jeżyny są teraz warte 3x więcej monet!",
           "AudioPath": "assets/pl/Bear/9.ogg",
           "TranslationKey": "Events/Woods:2120303:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Maliny i Jeżyny są teraz warte 3x więcej monet!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Phone_Ring_Bear",
@@ -86,23 +78,21 @@
           "AudioPath": "assets/pl/Bear/10.ogg",
           "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
           "PageIndex": 0,
-          "DisplayPattern": "*niuch* *niuch*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Ring_Bear",
           "DialogueText": "HoOoOoOoOoO! {Portrait:Unique}",
           "AudioPath": "assets/pl/Bear/11.ogg",
           "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
-          "PageIndex": 1,
-          "DisplayPattern": "HoOoOoOoOoO!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Phone_Ring_Bear",
           "DialogueText": "... Czy to ty?",
           "AudioPath": "assets/pl/Bear/12.ogg",
           "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
-          "PageIndex": 2,
-          "DisplayPattern": "... Czy to ty?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Phone_Ring_Bear",
@@ -110,7 +100,7 @@
           "AudioPath": "assets/pl/Bear/13.ogg",
           "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
           "PageIndex": 3,
-          "DisplayPattern": "*chrząknięcie*... Nadal mam ten dobry towar od Ciebie, przyjacielu."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Ring_Bear",
@@ -118,7 +108,7 @@
           "AudioPath": "assets/pl/Bear/14.ogg",
           "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
           "PageIndex": 4,
-          "DisplayPattern": "Dzięki niemu jestem bardzo, bardzo szczęśliwy. *parsknięcie*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "Phone_Ring_Bear",
@@ -126,7 +116,7 @@
           "AudioPath": "assets/pl/Bear/15.ogg",
           "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
           "PageIndex": 5,
-          "DisplayPattern": "Chciałem podziękować... pa pa przyjacielu. *klik*"
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         }
       ]
     }

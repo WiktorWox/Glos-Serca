@@ -14,127 +14,112 @@
           "AudioPath": "assets/pl/Caroline/1.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Introduction",
           "PageIndex": 0,
-          "DisplayPattern": "Witaj! Ty musisz być , nowy farmer. Jestem Caroline."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Introduction",
           "DialogueText": "Mój mąż prowadzi lokalny sklep. Znasz już moją córkę, Abigail? To ta blada z fioletowymi włosami.",
           "AudioPath": "assets/pl/Caroline/2.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Introduction",
-          "PageIndex": 1,
-          "DisplayPattern": "Mój mąż prowadzi lokalny sklep. Znasz już moją córkę, Abigail? To ta blada z fioletowymi włosami."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "AcceptBirthdayGift_Positive",
           "DialogueText": "Dzięki, Skarbeńku. To bardzo miłe z Twojej strony, że pamiętasz o moich urodzinach. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/3.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:AcceptBirthdayGift_Positive",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzięki, Skarbeńku. To bardzo miłe z Twojej strony, że pamiętasz o moich urodzinach."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AcceptBirthdayGift_Negative",
           "DialogueText": "Och... czy to jest... urodzinowy prezent? Rozumiem... cóż, dzięki za pamięć. {Portrait:Angry}",
           "AudioPath": "assets/pl/Caroline/4.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:AcceptBirthdayGift_Negative",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... czy to jest... urodzinowy prezent? Rozumiem... cóż, dzięki za pamięć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AcceptGift_(O)StardropTea",
           "DialogueText": "Ooo... ładnie pachnie. Zachowam ją na spokojny dzień w moim pokoju.",
           "AudioPath": "assets/pl/Caroline/5.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:AcceptGift_(O)StardropTea",
-          "PageIndex": 0,
-          "DisplayPattern": "Ooo... ładnie pachnie. Zachowam ją na spokojny dzień w moim pokoju."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AcceptGift_(O)16",
           "DialogueText": "Och, widzę, że byłeś na spacerze! Dziękuję!",
           "AudioPath": "assets/pl/Caroline/6.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:AcceptGift_(O)16",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, widzę, że byłeś na spacerze! Dziękuję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "AcceptGift_(O)16",
           "DialogueText": "Zrobię z tego pikantny sos koktajlowy. Przez to na pewno urośnie Pierrowi trochę włosów na klacie. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/7.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:AcceptGift_(O)16",
-          "PageIndex": 1,
-          "DisplayPattern": "Zrobię z tego pikantny sos koktajlowy. Przez to na pewno urośnie Pierrowi trochę włosów na klacie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "cropMatured_815",
           "DialogueText": "Zauważyłam, że hodujesz na swojej farmie herbatę. Przynieś mi może kiedyś filiżankę na spróbowanie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/8.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:cropMatured_815",
-          "PageIndex": 0,
-          "DisplayPattern": "Zauważyłam, że hodujesz na swojej farmie herbatę. Przynieś mi może kiedyś filiżankę na spróbowanie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "dating_Abigail_memory_oneday",
           "DialogueText": "Abi mówiła, że się razem spotykacie. Urocze!",
           "AudioPath": "assets/pl/Caroline/9.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:dating_Abigail_memory_oneday",
-          "PageIndex": 0,
-          "DisplayPattern": "Abi mówiła, że się razem spotykacie. Urocze!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain",
           "DialogueText": "Nigdy jeszcze nie widziałam zielonego deszczu... Pewnie nie jest niebezpieczny, skoro tu jesteś!",
           "AudioPath": "assets/pl/Caroline/10.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:GreenRain",
-          "PageIndex": 0,
-          "DisplayPattern": "Nigdy jeszcze nie widziałam zielonego deszczu... Pewnie nie jest niebezpieczny, skoro tu jesteś!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain_2",
           "DialogueText": "Ach, znowu pada specjalny deszcz! Tego roku wykorzystam go do końca!",
           "AudioPath": "assets/pl/Caroline/11.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:GreenRain_2",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach, znowu pada specjalny deszcz! Tego roku wykorzystam go do końca!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "GreenRain_2",
           "DialogueText": "Wymaga to filiżanki zielonej herbaty! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/12.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:GreenRain_2",
-          "PageIndex": 1,
-          "DisplayPattern": "Wymaga to filiżanki zielonej herbaty!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "movieTheater_memory_oneweek",
           "DialogueText": "Fajnie jest mieć kino w mieście. Chciałabym pooglądać western!",
           "AudioPath": "assets/pl/Caroline/13.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:movieTheater_memory_oneweek",
-          "PageIndex": 0,
-          "DisplayPattern": "Fajnie jest mieć kino w mieście. Chciałabym pooglądać western!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "married_Abigail",
           "DialogueText": "Tak się cieszę z waszego szczęścia! Witamy w rodzinie! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/14.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:married_Abigail",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak się cieszę z waszego szczęścia! Witamy w rodzinie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "wonGrange",
           "DialogueText": "Pierre udaje, że jest w porządku, ale jest wściekły, bo przegrał z Tobą na targach Doliny Stardew.",
           "AudioPath": "assets/pl/Caroline/15.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:wonGrange",
-          "PageIndex": 0,
-          "DisplayPattern": "Pierre udaje, że jest w porządku, ale jest wściekły, bo przegrał z Tobą na targach Doliny Stardew."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "married_memory_oneweek",
           "DialogueText": "Ach, nowożeńcy. Jak wam minął miesiąc miodowy?",
           "AudioPath": "assets/pl/Caroline/16.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:married_memory_oneweek",
-          "PageIndex": 0,
-          "DisplayPattern": "Ach, nowożeńcy. Jak wam minął miesiąc miodowy?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "married_memory_oneweek",
@@ -142,7 +127,6 @@
           "AudioPath": "assets/pl/Caroline/17_male.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:married_memory_oneweek",
           "PageIndex": 1,
-          "DisplayPattern": "Rozumiem. Cóż, farma mogłaby obumrzeć, gdybyś zrobił sobie wolne...",
           "GenderVariant": "male"
         },
         {
@@ -151,7 +135,6 @@
           "AudioPath": "assets/pl/Caroline/18_female.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:married_memory_oneweek",
           "PageIndex": 2,
-          "DisplayPattern": "Rozumiem. Cóż, farma mogłaby obumrzeć, gdybyś zrobiła sobie wolne...",
           "GenderVariant": "female"
         },
         {
@@ -160,7 +143,6 @@
           "AudioPath": "assets/pl/Caroline/19_male.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:eventSeen_719926",
           "PageIndex": 0,
-          "DisplayPattern": "Czy czujesz się zrelaksowany? Na pewno...",
           "GenderVariant": "male"
         },
         {
@@ -169,7 +151,6 @@
           "AudioPath": "assets/pl/Caroline/20_female.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:eventSeen_719926",
           "PageIndex": 1,
-          "DisplayPattern": "Czy czujesz się zrelaksowana? Na pewno...",
           "GenderVariant": "female"
         },
         {
@@ -177,72 +158,63 @@
           "DialogueText": "Słyszałam, że masz kuchnię! I jak, będziesz często jej używać?",
           "AudioPath": "assets/pl/Caroline/21.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:houseUpgrade_1",
-          "PageIndex": 0,
-          "DisplayPattern": "Słyszałam, że masz kuchnię! I jak, będziesz często jej używać?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "houseUpgrade_1",
           "DialogueText": "Dobrze jest mieć taką umiejętność. A z tymi wszystkimi składnikami na Twojej farmie, jest pole do popisu!",
           "AudioPath": "assets/pl/Caroline/22.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:houseUpgrade_1",
-          "PageIndex": 1,
-          "DisplayPattern": "Dobrze jest mieć taką umiejętność. A z tymi wszystkimi składnikami na Twojej farmie, jest pole do popisu!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "houseUpgrade_1",
           "DialogueText": "Rozumiem. Cóż, pamiętaj o dobrym odżywianiu... to bardzo ważne.",
           "AudioPath": "assets/pl/Caroline/23.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:houseUpgrade_1",
-          "PageIndex": 2,
-          "DisplayPattern": "Rozumiem. Cóż, pamiętaj o dobrym odżywianiu... to bardzo ważne."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "achievement_15",
           "DialogueText": "Sądząc po pikantnych zapachach unoszących się z Twojego domku, czuć, że używasz kuchni! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/24.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:achievement_15",
-          "PageIndex": 0,
-          "DisplayPattern": "Sądząc po pikantnych zapachach unoszących się z Twojego domku, czuć, że używasz kuchni!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Entering",
           "DialogueText": "Willy dał każdemu kawałek suszonej ryby. Dalej przeżuwam.",
           "AudioPath": "assets/pl/Caroline/25.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Resort_Entering",
-          "PageIndex": 0,
-          "DisplayPattern": "Willy dał każdemu kawałek suszonej ryby. Dalej przeżuwam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Leaving",
           "DialogueText": "Dziś w nocy będę dobrze spać! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/26.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Resort_Leaving",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziś w nocy będę dobrze spać!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Shore",
           "DialogueText": "W porównaniu z doliną, woda jest tutaj taka ciepła... Cudownie!",
           "AudioPath": "assets/pl/Caroline/27.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Resort_Shore",
-          "PageIndex": 0,
-          "DisplayPattern": "W porównaniu z doliną, woda jest tutaj taka ciepła... Cudownie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Chair",
           "DialogueText": "Caroline próbuje się zdrzemnąć.",
           "AudioPath": "assets/pl/Caroline/28.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Resort_Chair",
-          "PageIndex": 0,
-          "DisplayPattern": "Caroline próbuje się zdrzemnąć."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort_Bar",
           "DialogueText": "Jak miło! Powiedziałam Gusowi, żeby mnie zaskoczył, a on mi zrobił mrożoną zieloną herbatę z mango! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/29.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Resort_Bar",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak miło! Powiedziałam Gusowi, żeby mnie zaskoczył, a on mi zrobił mrożoną zieloną herbatę z mango!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Resort",
@@ -250,15 +222,14 @@
           "AudioPath": "assets/pl/Caroline/30.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Resort",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć . Masz zamiar tu odpocząć, czy pracować?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Mon",
           "DialogueText": "Chciałabym, żeby Abby nie spędzała tyle czasu w swoim pokoju.",
           "AudioPath": "assets/pl/Caroline/31.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciałabym, żeby Abby nie spędzała tyle czasu w swoim pokoju."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon_inlaw_Abigail",
@@ -266,551 +237,483 @@
           "AudioPath": "assets/pl/Caroline/32.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Mon_inlaw_Abigail",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, . Cieszysz się z życia w związku? Mam nadzieję, że tak!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Mon8",
           "DialogueText": "# {Portrait:Happy} Caroline23",
           "AudioPath": "assets/pl/Caroline/33.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Mon8",
-          "PageIndex": 0,
-          "DisplayPattern": "# Caroline23"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Mon8",
           "DialogueText": "Gdy przeprowadziliśmy się do Miasta Pelikan, przechadzałam się do wieży Czarnoksiężnika. Nie mów nic Pierrowi, potrafi być bardzo zazdrosny.",
           "AudioPath": "assets/pl/Caroline/34.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Mon8",
-          "PageIndex": 1,
-          "DisplayPattern": "Gdy przeprowadziliśmy się do Miasta Pelikan, przechadzałam się do wieży Czarnoksiężnika. Nie mów nic Pierrowi, potrafi być bardzo zazdrosny."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Mon8",
           "DialogueText": "Abigail urodziła się rok po naszej przeprowadzce. Ciekawe, czy kiedyś stąd wyjedzie?",
           "AudioPath": "assets/pl/Caroline/35.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Mon8",
-          "PageIndex": 2,
-          "DisplayPattern": "Abigail urodziła się rok po naszej przeprowadzce. Ciekawe, czy kiedyś stąd wyjedzie?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Widziałam w lesie dziki chrzan.",
           "AudioPath": "assets/pl/Caroline/36.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Widziałam w lesie dziki chrzan."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue",
           "DialogueText": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.",
           "AudioPath": "assets/pl/Caroline/37.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?",
           "AudioPath": "assets/pl/Caroline/38.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Wed",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Jeśli nie, możemy Ci pomóc.",
           "AudioPath": "assets/pl/Caroline/39.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Jeśli nie, możemy Ci pomóc."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed",
           "DialogueText": "Mamy wiele przydatnych rzeczy.",
           "AudioPath": "assets/pl/Caroline/40.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Wed",
-          "PageIndex": 2,
-          "DisplayPattern": "Mamy wiele przydatnych rzeczy."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "# {Portrait:Happy} Caroline1",
           "AudioPath": "assets/pl/Caroline/41.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Thu",
-          "PageIndex": 0,
-          "DisplayPattern": "# Caroline1"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Hmmm... Zastanawiam się, czy Pierre mógłby dzisiaj zrobić kolację.",
           "AudioPath": "assets/pl/Caroline/42.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Thu",
-          "PageIndex": 1,
-          "DisplayPattern": "Hmmm... Zastanawiam się, czy Pierre mógłby dzisiaj zrobić kolację."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Hmmm... Co mogłabym dziś zrobić na kolację?",
           "AudioPath": "assets/pl/Caroline/43.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Thu",
-          "PageIndex": 2,
-          "DisplayPattern": "Hmmm... Co mogłabym dziś zrobić na kolację?"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Thu",
           "DialogueText": "Może wezmę coś z knajpy.",
           "AudioPath": "assets/pl/Caroline/44.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Thu",
-          "PageIndex": 3,
-          "DisplayPattern": "Może wezmę coś z knajpy."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Ładny mamy dziś dzień.",
           "AudioPath": "assets/pl/Caroline/45.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Ładny mamy dziś dzień."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "W takie dni lubię pomagać Evelyn przy ogrodach.",
           "AudioPath": "assets/pl/Caroline/46.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "W takie dni lubię pomagać Evelyn przy ogrodach."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Fri",
           "DialogueText": "Jest silna jak na swój wiek, ale docenia pomoc od innych.",
           "AudioPath": "assets/pl/Caroline/47.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Fri",
-          "PageIndex": 2,
-          "DisplayPattern": "Jest silna jak na swój wiek, ale docenia pomoc od innych."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Czy mi się wydaje, czy Abigail ma niezdrowe zainteresowania w mroku i zagładzie?",
           "AudioPath": "assets/pl/Caroline/48.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy mi się wydaje, czy Abigail ma niezdrowe zainteresowania w mroku i zagładzie?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat",
           "DialogueText": "Może jestem za stara, żeby to zrozumieć.",
           "AudioPath": "assets/pl/Caroline/49.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Może jestem za stara, żeby to zrozumieć."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat_inlaw_Abigail",
           "DialogueText": "Odkąd Abigail się przeprowadziła, jemy obiady w strasznej ciszy...",
           "AudioPath": "assets/pl/Caroline/50.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat_inlaw_Abigail",
-          "PageIndex": 0,
-          "DisplayPattern": "Odkąd Abigail się przeprowadziła, jemy obiady w strasznej ciszy..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat_inlaw_Abigail",
           "DialogueText": "Nie, to nie dlatego, że jadła z otwartymi ustami! {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/51.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat_inlaw_Abigail",
-          "PageIndex": 1,
-          "DisplayPattern": "Nie, to nie dlatego, że jadła z otwartymi ustami!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat2",
           "DialogueText": "Abby zawsze miała dziwne zainteresowania. Może jej się to zmieni...",
           "AudioPath": "assets/pl/Caroline/52.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat2",
-          "PageIndex": 0,
-          "DisplayPattern": "Abby zawsze miała dziwne zainteresowania. Może jej się to zmieni..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat4",
           "DialogueText": "Abby zawsze miała dziwne zainteresowania. Może jej się to zmieni...",
           "AudioPath": "assets/pl/Caroline/53.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat4",
-          "PageIndex": 0,
-          "DisplayPattern": "Abby zawsze miała dziwne zainteresowania. Może jej się to zmieni..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat6",
           "DialogueText": "# {Portrait:Happy} Caroline12",
           "AudioPath": "assets/pl/Caroline/54.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat6",
-          "PageIndex": 0,
-          "DisplayPattern": "# Caroline12"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sat6",
           "DialogueText": "Gdy po raz pierwszy się tu przeprowadziliśmy, długo mi zajęło oswojenie się z nowym otoczeniem... Nie byłam gotowa na wiejskie życie.",
           "AudioPath": "assets/pl/Caroline/55.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat6",
-          "PageIndex": 1,
-          "DisplayPattern": "Gdy po raz pierwszy się tu przeprowadziliśmy, długo mi zajęło oswojenie się z nowym otoczeniem... Nie byłam gotowa na wiejskie życie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Sat6",
           "DialogueText": "Pierre jest zbyt tradycyjny... ale jest dobrym człowiekiem. Jest ambitny, ale rodzina zawsze jest dla niego najważniejsza.",
           "AudioPath": "assets/pl/Caroline/56.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sat6",
-          "PageIndex": 2,
-          "DisplayPattern": "Pierre jest zbyt tradycyjny... ale jest dobrym człowiekiem. Jest ambitny, ale rodzina zawsze jest dla niego najważniejsza."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Dzisiaj będę odpoczywać i myśleć pozytywnie.",
           "AudioPath": "assets/pl/Caroline/57.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzisiaj będę odpoczywać i myśleć pozytywnie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun",
           "DialogueText": "Bierzesz sobie kiedykolwiek wolne?",
           "AudioPath": "assets/pl/Caroline/58.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Sun",
-          "PageIndex": 1,
-          "DisplayPattern": "Bierzesz sobie kiedykolwiek wolne?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Wed6",
           "DialogueText": "Dolina Stardew jest miłym miejscem, ale chciałabym poznać więcej osób.",
           "AudioPath": "assets/pl/Caroline/59.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Wed6",
-          "PageIndex": 0,
-          "DisplayPattern": "Dolina Stardew jest miłym miejscem, ale chciałabym poznać więcej osób."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Wed6",
           "DialogueText": "Cieszę się, że się przyjaźnimy.",
           "AudioPath": "assets/pl/Caroline/60.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Wed6",
-          "PageIndex": 1,
-          "DisplayPattern": "Cieszę się, że się przyjaźnimy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Mon",
           "DialogueText": "W środy sklep jest zamknięty.",
           "AudioPath": "assets/pl/Caroline/61.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "W środy sklep jest zamknięty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Mon",
           "DialogueText": "Pamiętaj o tym, jeśli będzie Ci czegoś trzeba.",
           "AudioPath": "assets/pl/Caroline/62.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Mon",
-          "PageIndex": 1,
-          "DisplayPattern": "Pamiętaj o tym, jeśli będzie Ci czegoś trzeba."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Ostatnio w lesie widuję dzikie owoce.",
           "AudioPath": "assets/pl/Caroline/63.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Ostatnio w lesie widuję dzikie owoce."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Tue",
           "DialogueText": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.",
           "AudioPath": "assets/pl/Caroline/64.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Wed",
           "DialogueText": "Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?",
           "AudioPath": "assets/pl/Caroline/65.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Wed",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Wed",
           "DialogueText": "Jeśli nie, możemy Ci pomóc.",
           "AudioPath": "assets/pl/Caroline/66.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Wed",
-          "PageIndex": 1,
-          "DisplayPattern": "Jeśli nie, możemy Ci pomóc."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Wed",
           "DialogueText": "Mamy wiele użytecznych rzeczy.",
           "AudioPath": "assets/pl/Caroline/67.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Wed",
-          "PageIndex": 2,
-          "DisplayPattern": "Mamy wiele użytecznych rzeczy."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "summer_Sat",
           "DialogueText": "Tylko mi się tak wydaje, czy Abigail jest trochę blada?",
           "AudioPath": "assets/pl/Caroline/68.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Tylko mi się tak wydaje, czy Abigail jest trochę blada?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Sat",
           "DialogueText": "Może za bardzo się o nią martwię.",
           "AudioPath": "assets/pl/Caroline/69.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Może za bardzo się o nią martwię."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Sat_inlaw_Abigail",
           "DialogueText": "Jak się ma nasza Abigail? Jest zdrowa? Zawsze była bladą dziewczynką. Na szczęście życie na wsi daje jej trochę koloru na policzkach.",
           "AudioPath": "assets/pl/Caroline/70.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Sat_inlaw_Abigail",
-          "PageIndex": 0,
-          "DisplayPattern": "Jak się ma nasza Abigail? Jest zdrowa? Zawsze była bladą dziewczynką. Na szczęście życie na wsi daje jej trochę koloru na policzkach."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Sun",
           "DialogueText": "Dzisiaj będę odpoczywać i myśleć pozytywnie.",
           "AudioPath": "assets/pl/Caroline/71.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Sun",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzisiaj będę odpoczywać i myśleć pozytywnie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "summer_Sun",
           "DialogueText": "Bierzesz sobie kiedykolwiek wolne?",
           "AudioPath": "assets/pl/Caroline/72.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Sun",
-          "PageIndex": 1,
-          "DisplayPattern": "Bierzesz sobie kiedykolwiek wolne?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "summer_Wed6",
           "DialogueText": "Czas zdaje się przyśpieszać im starszym się stajesz... {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/73.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Wed6",
-          "PageIndex": 0,
-          "DisplayPattern": "Czas zdaje się przyśpieszać im starszym się stajesz..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Mon",
           "DialogueText": "Abby uwielbia jesień. Mam nadzieję, że będzie częściej wychodzić z pokoju.",
           "AudioPath": "assets/pl/Caroline/74.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Mon",
-          "PageIndex": 0,
-          "DisplayPattern": "Abby uwielbia jesień. Mam nadzieję, że będzie częściej wychodzić z pokoju."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Mon_inlaw_Abigail",
           "DialogueText": "Abby brała tutaj lekcje online, ale nie wiem czy naprawdę to lubiła...",
           "AudioPath": "assets/pl/Caroline/75.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Mon_inlaw_Abigail",
-          "PageIndex": 0,
-          "DisplayPattern": "Abby brała tutaj lekcje online, ale nie wiem czy naprawdę to lubiła..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Mon_inlaw_Abigail",
           "DialogueText": "Jest wolną osobą, jak ja przed tym, jak poznałam Pierre'a.",
           "AudioPath": "assets/pl/Caroline/76.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Mon_inlaw_Abigail",
-          "PageIndex": 1,
-          "DisplayPattern": "Jest wolną osobą, jak ja przed tym, jak poznałam Pierre'a."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Tue",
           "DialogueText": "Widziałam w lesie jadalne grzyby.",
           "AudioPath": "assets/pl/Caroline/77.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Widziałam w lesie jadalne grzyby."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Tue",
           "DialogueText": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.",
           "AudioPath": "assets/pl/Caroline/78.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Sat",
           "DialogueText": "Czy tylko mi się wydaje, czy Abigail za dużo gra w gry?",
           "AudioPath": "assets/pl/Caroline/79.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy tylko mi się wydaje, czy Abigail za dużo gra w gry?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Sat",
           "DialogueText": "Może nie jestem na czasie.",
           "AudioPath": "assets/pl/Caroline/80.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Może nie jestem na czasie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "fall_Wed6",
           "DialogueText": "Wiesz, kiedyś też byłam farmerem. Cóż, bardziej ranczerem.",
           "AudioPath": "assets/pl/Caroline/81.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Wed6",
-          "PageIndex": 0,
-          "DisplayPattern": "Wiesz, kiedyś też byłam farmerem. Cóż, bardziej ranczerem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_Wed6",
           "DialogueText": "Gdy byłam dzieckiem, podobały mi się filmy o dzikim zachodzie.",
           "AudioPath": "assets/pl/Caroline/82.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Wed6",
-          "PageIndex": 1,
-          "DisplayPattern": "Gdy byłam dzieckiem, podobały mi się filmy o dzikim zachodzie."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Tue",
           "DialogueText": "Zima jest trudna, ale możesz wykopać jakieś korzenie, jeśli masz dosyć szczęścia.",
           "AudioPath": "assets/pl/Caroline/83.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Tue",
-          "PageIndex": 0,
-          "DisplayPattern": "Zima jest trudna, ale możesz wykopać jakieś korzenie, jeśli masz dosyć szczęścia."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Tue",
           "DialogueText": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem.",
           "AudioPath": "assets/pl/Caroline/84.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Tue",
-          "PageIndex": 1,
-          "DisplayPattern": "Zbieractwo może być fajnym sposobem na zarabianie pieniędzy lub dobrym prezentem."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Fri",
           "DialogueText": "Od czasu do czasu sprawdzam publiczne ogrody, nawet w takie zimno.",
           "AudioPath": "assets/pl/Caroline/85.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Fri",
-          "PageIndex": 0,
-          "DisplayPattern": "Od czasu do czasu sprawdzam publiczne ogrody, nawet w takie zimno."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Fri",
           "DialogueText": "Muszę mieć pewność, że nie są za bardzo uszkodzone przed następną wiosną.",
           "AudioPath": "assets/pl/Caroline/86.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Fri",
-          "PageIndex": 1,
-          "DisplayPattern": "Muszę mieć pewność, że nie są za bardzo uszkodzone przed następną wiosną."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Sat",
           "DialogueText": "Nie uważasz, że Abi wygląda lepiej z jej naturalnym kolorem włosów?",
           "AudioPath": "assets/pl/Caroline/87.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Sat",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie uważasz, że Abi wygląda lepiej z jej naturalnym kolorem włosów?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Sat",
           "DialogueText": "Kiedyś miała jasne, kasztanowo-brązowe włosy.",
           "AudioPath": "assets/pl/Caroline/88.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Sat",
-          "PageIndex": 1,
-          "DisplayPattern": "Kiedyś miała jasne, kasztanowo-brązowe włosy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "winter_Wed6",
           "DialogueText": "Cieszysz się, że nadchodzi nowy rok?",
           "AudioPath": "assets/pl/Caroline/89.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Wed6",
-          "PageIndex": 0,
-          "DisplayPattern": "Cieszysz się, że nadchodzi nowy rok?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "winter_Wed6",
           "DialogueText": "Przewiduję, że następny rok na Twojej farmie będzie udany. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/90.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Wed6",
-          "PageIndex": 1,
-          "DisplayPattern": "Przewiduję, że następny rok na Twojej farmie będzie udany."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "Mój ogródek dziś bardzo się cieszy. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/91.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Mój ogródek dziś bardzo się cieszy."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "rainy",
           "DialogueText": "... I nasz rachunek za wodę w tym miesiącu będzie mniejszy.",
           "AudioPath": "assets/pl/Caroline/92.ogg",
           "TranslationKey": "Characters/Dialogue/rainy:Caroline",
-          "PageIndex": 1,
-          "DisplayPattern": "... I nasz rachunek za wodę w tym miesiącu będzie mniejszy."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event/Town/6184644:s0",
           "DialogueText": "O radości",
           "AudioPath": "assets/pl/Caroline/93.ogg",
           "TranslationKey": "Events/Town:6184644:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "O radości"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s0",
           "DialogueText": "Wypoczęta",
           "AudioPath": "assets/pl/Caroline/94.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Wypoczęta"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/HaleyHouse/150938:s1",
           "DialogueText": "Wygląda na to, że kryształy zostały wykorzystane w dobrym celu...",
           "AudioPath": "assets/pl/Caroline/95.ogg",
           "TranslationKey": "Events/HaleyHouse:150938:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Wygląda na to, że kryształy zostały wykorzystane w dobrym celu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s0",
           "DialogueText": "Dość tego! Pozwalamy Ci tutaj mieszkać za darmo, dopóki nie skończysz szkoły. Nie doceniasz tego! {Portrait:Unique}",
           "AudioPath": "assets/pl/Caroline/96.ogg",
           "TranslationKey": "Events/SeedShop:17:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Dość tego! Pozwalamy Ci tutaj mieszkać za darmo, dopóki nie skończysz szkoły. Nie doceniasz tego!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SeedShop/17:s1",
           "DialogueText": "... Masz rację. Przepraszam. {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/97.ogg",
           "TranslationKey": "Events/SeedShop:17:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "... Masz rację. Przepraszam."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SeedShop/58:s0",
           "DialogueText": "Dobrze! Na tym skończymy naszą sesję aerobiku!",
           "AudioPath": "assets/pl/Caroline/98.ogg",
           "TranslationKey": "Events/SeedShop:58:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobrze! Na tym skończymy naszą sesję aerobiku!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/SeedShop/58:s1",
           "DialogueText": "Spociłyście się? {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/99.ogg",
           "TranslationKey": "Events/SeedShop:58:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Spociłyście się?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/CommunityCenter/Punch:s0",
           "DialogueText": "Pierre!",
           "AudioPath": "assets/pl/Caroline/100.ogg",
           "TranslationKey": "Events/CommunityCenter:Punch:s0",
-          "PageIndex": 0,
-          "DisplayPattern": "Pierre!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s0",
@@ -818,279 +721,245 @@
           "AudioPath": "assets/pl/Caroline/101.ogg",
           "TranslationKey": "Events/Sunroom:719926:s0",
           "PageIndex": 0,
-          "DisplayPattern": "O, hej! Dzień dobry, . Cieszę się, że Cię widzę..."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s1",
           "DialogueText": "Chciałam Ci to pokazać... To mój specjalny pokój.",
           "AudioPath": "assets/pl/Caroline/102.ogg",
           "TranslationKey": "Events/Sunroom:719926:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciałam Ci to pokazać... To mój specjalny pokój."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s2",
           "DialogueText": "Co o nim myślisz?",
           "AudioPath": "assets/pl/Caroline/103.ogg",
           "TranslationKey": "Events/Sunroom:719926:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Co o nim myślisz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s3",
           "DialogueText": "Dziękuję! Ciężko nad nim pracowałam... {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/104.ogg",
           "TranslationKey": "Events/Sunroom:719926:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Dziękuję! Ciężko nad nim pracowałam..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s4",
           "DialogueText": "Tak... Gdy tu wchodzę, czuję spokój i od razu jestem zrelaksowana. Jest bardzo terapeutyczny!",
           "AudioPath": "assets/pl/Caroline/105.ogg",
           "TranslationKey": "Events/Sunroom:719926:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Tak... Gdy tu wchodzę, czuję spokój i od razu jestem zrelaksowana. Jest bardzo terapeutyczny!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s5",
           "DialogueText": "Och? To ciepło mnie uspokaja. {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/106.ogg",
           "TranslationKey": "Events/Sunroom:719926:s5",
-          "PageIndex": 0,
-          "DisplayPattern": "Och? To ciepło mnie uspokaja."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s6",
           "DialogueText": "Będzie lepiej, jak będziesz stać nieruchomo.",
           "AudioPath": "assets/pl/Caroline/107.ogg",
           "TranslationKey": "Events/Sunroom:719926:s6",
-          "PageIndex": 0,
-          "DisplayPattern": "Będzie lepiej, jak będziesz stać nieruchomo."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s7",
           "DialogueText": "Ale ty jesteś profesjonalistą... Dla mnie, to tylko hobby.",
           "AudioPath": "assets/pl/Caroline/108.ogg",
           "TranslationKey": "Events/Sunroom:719926:s7",
-          "PageIndex": 0,
-          "DisplayPattern": "Ale ty jesteś profesjonalistą... Dla mnie, to tylko hobby."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s8",
           "DialogueText": "Widzisz, to moje sanktuarium... miejsce, w którym zawsze znajduję spokój...",
           "AudioPath": "assets/pl/Caroline/109.ogg",
           "TranslationKey": "Events/Sunroom:719926:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Widzisz, to moje sanktuarium... miejsce, w którym zawsze znajduję spokój..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s9",
           "DialogueText": "I jest to idealne miejsce na picie herbaty, którą sama wyhodowałam! Proszę, napijmy się...",
           "AudioPath": "assets/pl/Caroline/110.ogg",
           "TranslationKey": "Events/Sunroom:719926:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "I jest to idealne miejsce na picie herbaty, którą sama wyhodowałam! Proszę, napijmy się..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s10",
           "DialogueText": "Pewnie, nic nie szkodzi...",
           "AudioPath": "assets/pl/Caroline/111.ogg",
           "TranslationKey": "Events/Sunroom:719926:s10",
-          "PageIndex": 0,
-          "DisplayPattern": "Pewnie, nic nie szkodzi..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s11",
           "DialogueText": "Przepyszna",
           "AudioPath": "assets/pl/Caroline/112.ogg",
           "TranslationKey": "Events/Sunroom:719926:s11",
-          "PageIndex": 0,
-          "DisplayPattern": "Przepyszna"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s12",
           "DialogueText": "Uwielbiam tu przychodzić na kubek świeżej herbaty.",
           "AudioPath": "assets/pl/Caroline/113.ogg",
           "TranslationKey": "Events/Sunroom:719926:s12",
-          "PageIndex": 0,
-          "DisplayPattern": "Uwielbiam tu przychodzić na kubek świeżej herbaty."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s13",
           "DialogueText": "To taki mój mały rytuał...",
           "AudioPath": "assets/pl/Caroline/114.ogg",
           "TranslationKey": "Events/Sunroom:719926:s13",
-          "PageIndex": 0,
-          "DisplayPattern": "To taki mój mały rytuał..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s14",
           "DialogueText": "Eeem... Spróbuję to jakoś wyjaśnić... {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/115.ogg",
           "TranslationKey": "Events/Sunroom:719926:s14",
-          "PageIndex": 0,
-          "DisplayPattern": "Eeem... Spróbuję to jakoś wyjaśnić..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s15",
           "DialogueText": "Mam nadzieję, że ma to sens...",
           "AudioPath": "assets/pl/Caroline/116.ogg",
           "TranslationKey": "Events/Sunroom:719926:s15",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że ma to sens..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s16",
           "DialogueText": "Życie bywa ciężkie, więc hobby takie jak to jest bardzo przyjemne.",
           "AudioPath": "assets/pl/Caroline/117.ogg",
           "TranslationKey": "Events/Sunroom:719926:s16",
-          "PageIndex": 0,
-          "DisplayPattern": "Życie bywa ciężkie, więc hobby takie jak to jest bardzo przyjemne."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/Sunroom/719926:s17",
           "DialogueText": "Możesz tu przychodzić i sobie odpocząć kiedy tylko chcesz, ok?",
           "AudioPath": "assets/pl/Caroline/118.ogg",
           "TranslationKey": "Events/Sunroom:719926:s17",
-          "PageIndex": 0,
-          "DisplayPattern": "Możesz tu przychodzić i sobie odpocząć kiedy tylko chcesz, ok?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Caroline",
           "DialogueText": "Pierre jest bardzo poważny jeśli chodzi o wystawę. Odkładał najlepiej wyglądające produkty tygodniami jako przygotowanie.",
           "AudioPath": "assets/pl/Caroline/119.ogg",
           "TranslationKey": "Data/Festivals/fall16:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Pierre jest bardzo poważny jeśli chodzi o wystawę. Odkładał najlepiej wyglądające produkty tygodniami jako przygotowanie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall16/Caroline",
           "DialogueText": "Hej, życzę Ci powodzenia!",
           "AudioPath": "assets/pl/Caroline/120.ogg",
           "TranslationKey": "Data/Festivals/fall16:Caroline",
-          "PageIndex": 1,
-          "DisplayPattern": "Hej, życzę Ci powodzenia!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/fall16/Caroline_y2",
           "DialogueText": "Część produktów na naszej wystawie pochodzi z mojej małej szklarni. Starannie uprawialiśmy te rośliny przez cały rok! {Portrait:Neutral}",
           "AudioPath": "assets/pl/Caroline/121.ogg",
           "TranslationKey": "Data/Festivals/fall16:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Część produktów na naszej wystawie pochodzi z mojej małej szklarni. Starannie uprawialiśmy te rośliny przez cały rok!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/Caroline",
           "DialogueText": "Bardzo łatwo mnie przestraszyć. Zostawię labirynt młodszym.",
           "AudioPath": "assets/pl/Caroline/122.ogg",
           "TranslationKey": "Data/Festivals/fall27:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Bardzo łatwo mnie przestraszyć. Zostawię labirynt młodszym."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/fall27/Caroline_y2",
           "DialogueText": "Powinnam przygotować talerz dla mojego męża. Całą noc przegląda sklep. {Portrait:Neutral}",
           "AudioPath": "assets/pl/Caroline/123.ogg",
           "TranslationKey": "Data/Festivals/fall27:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Powinnam przygotować talerz dla mojego męża. Całą noc przegląda sklep."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Caroline",
           "DialogueText": "Abby już jako dziecko uwielbiała polowania na jajka.",
           "AudioPath": "assets/pl/Caroline/124.ogg",
           "TranslationKey": "Data/Festivals/spring13:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Abby już jako dziecko uwielbiała polowania na jajka."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring13/Caroline_y2",
           "DialogueText": "Może to być trochę nudne, ale te festiwale to dobra szansa, żeby lepiej poznać naszych sąsiadów.",
           "AudioPath": "assets/pl/Caroline/125.ogg",
           "TranslationKey": "Data/Festivals/spring13:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Może to być trochę nudne, ale te festiwale to dobra szansa, żeby lepiej poznać naszych sąsiadów."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Caroline",
           "DialogueText": "Chciałabym, żeby Pierre spędził ten dzień z rodziną... {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/126.ogg",
           "TranslationKey": "Data/Festivals/spring24:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Chciałabym, żeby Pierre spędził ten dzień z rodziną..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/spring24/Caroline_y2",
           "DialogueText": "Poprosiłabym mojego męża o taniec, ale on niezbyt umie. {Portrait:Neutral}",
           "AudioPath": "assets/pl/Caroline/127.ogg",
           "TranslationKey": "Data/Festivals/spring24:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Poprosiłabym mojego męża o taniec, ale on niezbyt umie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Caroline",
           "DialogueText": "Wrzuciłam tam świeże warzywa z mojego ogródka.",
           "AudioPath": "assets/pl/Caroline/128.ogg",
           "TranslationKey": "Data/Festivals/summer11:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Wrzuciłam tam świeże warzywa z mojego ogródka."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Caroline_y2",
           "DialogueText": "Gus użył moich ziemniaków w niektórych daniach z bufetu. {Portrait:Neutral}",
           "AudioPath": "assets/pl/Caroline/129.ogg",
           "TranslationKey": "Data/Festivals/summer11:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Gus użył moich ziemniaków w niektórych daniach z bufetu."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer11/Caroline_y2",
           "DialogueText": "A więc, co ciekawego dodasz do zupy? {Portrait:Neutral}",
           "AudioPath": "assets/pl/Caroline/130.ogg",
           "TranslationKey": "Data/Festivals/summer11:Caroline_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "A więc, co ciekawego dodasz do zupy?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/summer28/Caroline",
           "DialogueText": "Świece są bardzo romantyczne, prawda?",
           "AudioPath": "assets/pl/Caroline/131.ogg",
           "TranslationKey": "Data/Festivals/summer28:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Świece są bardzo romantyczne, prawda?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/summer28/Caroline_y2",
           "DialogueText": "Cieszę się, że meduzy nas odwiedzają w ich drodze na południe. To magiczny moment, który nasza społeczność może przeżyć razem. {Portrait:Neutral}",
           "AudioPath": "assets/pl/Caroline/132.ogg",
           "TranslationKey": "Data/Festivals/summer28:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Cieszę się, że meduzy nas odwiedzają w ich drodze na południe. To magiczny moment, który nasza społeczność może przeżyć razem."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Caroline",
           "DialogueText": "Oooch... Wypiłam za dużo kogla mogla. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/133.ogg",
           "TranslationKey": "Data/Festivals/winter25:Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Oooch... Wypiłam za dużo kogla mogla."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Caroline_y2",
           "DialogueText": "Czyż to drzewo nie jest wspaniałe? {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/134.ogg",
           "TranslationKey": "Data/Festivals/winter25:Caroline_y2",
-          "PageIndex": 0,
-          "DisplayPattern": "Czyż to drzewo nie jest wspaniałe?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Festival/winter25/Caroline_y2",
           "DialogueText": "Cały poranek dekorowałyśmy je razem z Marnie i Jodi. To fajna tradycja!",
           "AudioPath": "assets/pl/Caroline/135.ogg",
           "TranslationKey": "Data/Festivals/winter25:Caroline_y2",
-          "PageIndex": 1,
-          "DisplayPattern": "Cały poranek dekorowałyśmy je razem z Marnie i Jodi. To fajna tradycja!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Festival/winter8/Caroline",
@@ -1098,7 +967,7 @@
           "AudioPath": "assets/pl/Caroline/136.ogg",
           "TranslationKey": "Data/Festivals/winter8:Caroline",
           "PageIndex": 0,
-          "DisplayPattern": "Jak Ci mija zima, ?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Festival/winter8/Caroline_y2",
@@ -1106,7 +975,7 @@
           "AudioPath": "assets/pl/Caroline/137.ogg",
           "TranslationKey": "Data/Festivals/winter8:Caroline_y2",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, . Masz zamiar odpocząć od swoich farmerskich obowiązków tej zimy?"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "NPCGiftTastes/Caroline:s0",
@@ -1114,39 +983,35 @@
           "AudioPath": "assets/pl/Caroline/138.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Caroline:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Och, ... rozpieszczasz mnie! Uwielbiam to!"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "NPCGiftTastes/Caroline:s1",
           "DialogueText": "Dla mnie? To taki przemyślany prezent! Dziękuję!",
           "AudioPath": "assets/pl/Caroline/139.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Caroline:s1",
-          "PageIndex": 0,
-          "DisplayPattern": "Dla mnie? To taki przemyślany prezent! Dziękuję!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Caroline:s2",
           "DialogueText": "Och... Rozumiem. Postaram się to dobrze wykorzystać...",
           "AudioPath": "assets/pl/Caroline/140.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Caroline:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Och... Rozumiem. Postaram się to dobrze wykorzystać..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Caroline:s3",
           "DialogueText": "Um... Chyba mogłabym tego użyć na kompost...",
           "AudioPath": "assets/pl/Caroline/141.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Caroline:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Um... Chyba mogłabym tego użyć na kompost..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPCGiftTastes/Caroline:s4",
           "DialogueText": "Och, jak słodko. Dziękuję.",
           "AudioPath": "assets/pl/Caroline/142.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Caroline:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Och, jak słodko. Dziękuję."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Caroline_QualityLow",
@@ -1154,15 +1019,14 @@
           "AudioPath": "assets/pl/Caroline/143.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Caroline_QualityLow",
           "PageIndex": 0,
-          "DisplayPattern": "Och, ... To takie żenujące. Wyrzuciłam jedno z {2}, które mamy od Ciebie na kompost."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Caroline_QualityLow",
           "DialogueText": "Teraz wszystko strasznie śmierdzi. Skąd ty takie coś w ogóle masz?",
           "AudioPath": "assets/pl/Caroline/144.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Caroline_QualityLow",
-          "PageIndex": 1,
-          "DisplayPattern": "Teraz wszystko strasznie śmierdzi. Skąd ty takie coś w ogóle masz?"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Caroline_QualityHigh",
@@ -1170,55 +1034,49 @@
           "AudioPath": "assets/pl/Caroline/145.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Caroline_QualityHigh",
           "PageIndex": 0,
-          "DisplayPattern": "Och, ... To takie żenujące. Wyrzuciłam jedno z {2} które mamy od Ciebie na kompost."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "ExtraDialogue/PurchasedItem_Caroline_QualityHigh",
           "DialogueText": "Ale w sumie robakom się to spodobało!",
           "AudioPath": "assets/pl/Caroline/146.ogg",
           "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Caroline_QualityHigh",
-          "PageIndex": 1,
-          "DisplayPattern": "Ale w sumie robakom się to spodobało!"
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_summer_movie_0_BeforeMovie",
           "DialogueText": "Zawsze podobały mi się filmy o dzikim zachodzie, więc nie mogę się doczekać, aż to zobaczę!",
           "AudioPath": "assets/pl/Caroline/147.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_summer_movie_0_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Zawsze podobały mi się filmy o dzikim zachodzie, więc nie mogę się doczekać, aż to zobaczę!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_summer_movie_0_AfterMovie",
           "DialogueText": "To było wspaniałe! Z tymi kostiumami naprawdę wyglądał jak autentyk.",
           "AudioPath": "assets/pl/Caroline/148.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_summer_movie_0_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "To było wspaniałe! Z tymi kostiumami naprawdę wyglądał jak autentyk."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_love_BeforeMovie",
           "DialogueText": "Ten film wygląda tak słodko. Miałam nadzieję, że ktoś mnie na to zaprosi!",
           "AudioPath": "assets/pl/Caroline/149.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_love_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Ten film wygląda tak słodko. Miałam nadzieję, że ktoś mnie na to zaprosi!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_love_DuringMovie",
           "DialogueText": "Mam nadzieję, że nic mu się nie stanie... {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/150.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_love_DuringMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam nadzieję, że nic mu się nie stanie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_love_AfterMovie",
           "DialogueText": "To było słodkie. Dzięki za zaproszenie!",
           "AudioPath": "assets/pl/Caroline/151.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_love_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "To było słodkie. Dzięki za zaproszenie!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_like_BeforeMovie",
@@ -1226,135 +1084,119 @@
           "AudioPath": "assets/pl/Caroline/152.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_like_BeforeMovie",
           "PageIndex": 0,
-          "DisplayPattern": "'{0}'... Nie mam pojęcia, o czym to jest! Mam nadzieję, że nie jest brutalny."
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_like_AfterMovie",
           "DialogueText": "Nie było źle! Będę musiała zapytać o to Abigail. Jestem pewna, że już to widziała. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/153.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_like_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie było źle! Będę musiała zapytać o to Abigail. Jestem pewna, że już to widziała."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_dislike_BeforeMovie",
           "DialogueText": "Mam takie przeczucie, że ten będzie rozczarowaniem... Ale nadal chcę dać mu szansę.",
           "AudioPath": "assets/pl/Caroline/154.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_dislike_BeforeMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "Mam takie przeczucie, że ten będzie rozczarowaniem... Ale nadal chcę dać mu szansę."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieReactions/Caroline_dislike_AfterMovie",
           "DialogueText": "To było głupie... Założę się, że Pierre by to polubił. {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/155.ogg",
           "TranslationKey": "Strings/MovieReactions:Caroline_dislike_AfterMovie",
-          "PageIndex": 0,
-          "DisplayPattern": "To było głupie... Założę się, że Pierre by to polubił."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Caroline",
           "DialogueText": "Ta pogoda jest idealna. Nie wiem gdzie kończy się moja skóra, a zaczyna się powietrze. {Portrait:Happy}",
           "AudioPath": "assets/pl/Caroline/156.ogg",
           "TranslationKey": "Strings/1_6_Strings:DesertFestival_Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Ta pogoda jest idealna. Nie wiem gdzie kończy się moja skóra, a zaczyna się powietrze."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Shop_Caroline",
           "DialogueText": "Cześć. Mam nadzieję, że coś Ci się spodoba.",
           "AudioPath": "assets/pl/Caroline/157.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Caroline",
-          "PageIndex": 0,
-          "DisplayPattern": "Cześć. Mam nadzieję, że coś Ci się spodoba."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/Locations:Caroline_Tea_Event1",
           "DialogueText": "Kiedy jestem sama z relaksującą herbatą...",
           "AudioPath": "assets/pl/Caroline/158.ogg",
           "TranslationKey": "Strings/Locations:Caroline_Tea_Event1",
-          "PageIndex": 0,
-          "DisplayPattern": "Kiedy jestem sama z relaksującą herbatą..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/Locations:Caroline_Tea_Event2",
           "DialogueText": "Mój umysł jest pusty i swobodnie wędruje...",
           "AudioPath": "assets/pl/Caroline/159.ogg",
           "TranslationKey": "Strings/Locations:Caroline_Tea_Event2",
-          "PageIndex": 0,
-          "DisplayPattern": "Mój umysł jest pusty i swobodnie wędruje..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/Locations:Caroline_Tea_Event3",
           "DialogueText": "Kto wie co może się pojawić?",
           "AudioPath": "assets/pl/Caroline/160.ogg",
           "TranslationKey": "Strings/Locations:Caroline_Tea_Event3",
-          "PageIndex": 0,
-          "DisplayPattern": "Kto wie co może się pojawić?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Strings/Locations/Caroline_Sunroom_Door",
           "DialogueText": "Caroline pozwala wejść tutaj wyłącznie swoim przyjaciołom...",
           "AudioPath": "assets/pl/Caroline/161.ogg",
           "TranslationKey": "Strings/Locations:Caroline_Sunroom_Door",
-          "PageIndex": 0,
-          "DisplayPattern": "Caroline pozwala wejść tutaj wyłącznie swoim przyjaciołom..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Fri.000",
           "DialogueText": "W końcu... troszkę czasu dla siebie.",
           "AudioPath": "assets/pl/Caroline/162.ogg",
           "TranslationKey": "Strings/schedules/Caroline:Fri.000",
-          "PageIndex": 0,
-          "DisplayPattern": "W końcu... troszkę czasu dla siebie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Sun.000",
           "DialogueText": "Wcześniejsi właściciele wybudowali ten pokój z ołtarzem. Nie jesteśmy zbyt religijną rodziną, ale każdy może z niego korzystać.",
           "AudioPath": "assets/pl/Caroline/163.ogg",
           "TranslationKey": "Strings/schedules/Caroline:Sun.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Wcześniejsi właściciele wybudowali ten pokój z ołtarzem. Nie jesteśmy zbyt religijną rodziną, ale każdy może z niego korzystać."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_25.002",
           "DialogueText": "Przepraszam, muszę porozmawiać z doktorem Harveyem... Prywatnie... {Portrait:Unique}",
           "AudioPath": "assets/pl/Caroline/164.ogg",
           "TranslationKey": "Strings/schedules/Caroline:fall_25.002",
-          "PageIndex": 0,
-          "DisplayPattern": "Przepraszam, muszę porozmawiać z doktorem Harveyem... Prywatnie..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue.000",
           "DialogueText": "Hmm... Powinnam ubrać coś specjalnego na dzisiejszy aerobik?",
           "AudioPath": "assets/pl/Caroline/165.ogg",
           "TranslationKey": "Strings/schedules/Caroline:Tue.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Hmm... Powinnam ubrać coś specjalnego na dzisiejszy aerobik?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue.001",
           "DialogueText": "Wyglądasz w szczytowej formie, Jodi! Te hantle czynią cuda, co?",
           "AudioPath": "assets/pl/Caroline/166.ogg",
           "TranslationKey": "Strings/schedules/Caroline:Tue.001",
-          "PageIndex": 0,
-          "DisplayPattern": "Wyglądasz w szczytowej formie, Jodi! Te hantle czynią cuda, co?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_25.000",
           "DialogueText": "Dzisiaj mam coroczne badanie. Przynajmniej nie mam tam daleko.",
           "AudioPath": "assets/pl/Caroline/167.ogg",
           "TranslationKey": "Strings/schedules/Caroline:fall_25.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Dzisiaj mam coroczne badanie. Przynajmniej nie mam tam daleko."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "fall_25.001",
           "DialogueText": "Ty też do doktora? Coś się stało?",
           "AudioPath": "assets/pl/Caroline/168.ogg",
           "TranslationKey": "Strings/schedules/Caroline:fall_25.001",
-          "PageIndex": 0,
-          "DisplayPattern": "Ty też do doktora? Coś się stało?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Tue.002",
@@ -1362,15 +1204,14 @@
           "AudioPath": "assets/pl/Caroline/169.ogg",
           "TranslationKey": "Strings/schedules/Caroline:Tue.002",
           "PageIndex": 0,
-          "DisplayPattern": "Mmm... Chyba zasłużyłam sobie na ciasteczko. *chrup*."
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
         },
         {
           "DialogueFrom": "winter_16.000",
           "DialogueText": "Kończę dziś moje świąteczne zakupy! Mów, jeśli zobaczysz Pierra...",
           "AudioPath": "assets/pl/Caroline/170.ogg",
           "TranslationKey": "Strings/schedules/Caroline:winter_16.000",
-          "PageIndex": 0,
-          "DisplayPattern": "Kończę dziś moje świąteczne zakupy! Mów, jeśli zobaczysz Pierra..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_108",
@@ -1378,15 +1219,14 @@
           "AudioPath": "assets/pl/Caroline/171.ogg",
           "TranslationKey": "Data/Quests:108",
           "PageIndex": 0,
-          "DisplayPattern": "O, dynia! Jest dobra... Abigail na pewno się ucieszy. Dzięki, !"
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Quest_129",
           "DialogueText": "Co to? Mój stary naszyjnik? {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/172.ogg",
           "TranslationKey": "Data/Quests:129",
-          "PageIndex": 0,
-          "DisplayPattern": "Co to? Mój stary naszyjnik?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Quest_129",
@@ -1394,79 +1234,70 @@
           "AudioPath": "assets/pl/Caroline/173.ogg",
           "TranslationKey": "Data/Quests:129",
           "PageIndex": 1,
-          "DisplayPattern": "Dziwne, nie zauważyłam, że zaginął... Cóż, dziękuję, ."
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "NPC.cs.4293",
           "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/174.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
-          "PageIndex": 0,
-          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.4294",
           "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/175.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
-          "PageIndex": 0,
-          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Town_DumpsterDiveComment_Adult",
           "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
           "AudioPath": "assets/pl/Caroline/176.ogg",
           "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
-          "PageIndex": 0,
-          "DisplayPattern": "Hej, przestań! Fuj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Invited",
           "DialogueText": "Film? Pewnie. Spotkamy się w kinie.",
           "AudioPath": "assets/pl/Caroline/177.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Invited",
-          "PageIndex": 0,
-          "DisplayPattern": "Film? Pewnie. Spotkamy się w kinie."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_Reject",
           "DialogueText": "Wybacz, nie mam ochoty iść na film...",
           "AudioPath": "assets/pl/Caroline/178.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_Reject",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_AlreadySeen",
           "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
           "AudioPath": "assets/pl/Caroline/179.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
           "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
           "AudioPath": "assets/pl/Caroline/180.ogg",
           "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3956",
           "DialogueText": "Umm... nie wydaje mi się.",
           "AudioPath": "assets/pl/Caroline/181.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
-          "PageIndex": 0,
-          "DisplayPattern": "Umm... nie wydaje mi się."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "NPC.cs.3957",
           "DialogueText": "Czy to żart? Nie łapię.",
           "AudioPath": "assets/pl/Caroline/182.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
-          "PageIndex": 0,
-          "DisplayPattern": "Czy to żart? Nie łapię."
+          "PageIndex": 0
         }
       ]
     }

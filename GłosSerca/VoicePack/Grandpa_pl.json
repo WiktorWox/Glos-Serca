@@ -14,7 +14,6 @@
           "AudioPath": "assets/pl/Grandpa/1_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Mój drogi wnuczku...",
           "GenderVariant": "male"
         },
         {
@@ -23,7 +22,6 @@
           "AudioPath": "assets/pl/Grandpa/2_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Moja najdroższa wnuczko...",
           "GenderVariant": "female"
         },
         {
@@ -32,7 +30,6 @@
           "AudioPath": "assets/pl/Grandpa/3_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Wiele lat minęło, odkąd ostatnio rozmawialiśmy. Byłeś jeszcze małym chłopcem... pamiętasz?",
           "GenderVariant": "male"
         },
         {
@@ -41,7 +38,6 @@
           "AudioPath": "assets/pl/Grandpa/4_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Wiele lat minęło, odkąd ostatnio rozmawialiśmy. Byłaś jeszcze małą dziewczynką... Pamiętasz?",
           "GenderVariant": "female"
         },
         {
@@ -50,7 +46,6 @@
           "AudioPath": "assets/pl/Grandpa/5_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s4",
           "PageIndex": 0,
-          "DisplayPattern": "Zobacz jak już daleko zaszedłeś!",
           "GenderVariant": "male"
         },
         {
@@ -59,7 +54,6 @@
           "AudioPath": "assets/pl/Grandpa/6_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s5",
           "PageIndex": 0,
-          "DisplayPattern": "Zobacz jak już daleko zaszłaś!",
           "GenderVariant": "female"
         },
         {
@@ -68,7 +62,6 @@
           "AudioPath": "assets/pl/Grandpa/7_male.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Pewnie już o mnie zapomniałeś, byłem tu cały czas.",
           "GenderVariant": "male"
         },
         {
@@ -77,7 +70,6 @@
           "AudioPath": "assets/pl/Grandpa/8_female.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s7",
           "PageIndex": 0,
-          "DisplayPattern": "Pewnie już o mnie zapomniałaś, byłem tu cały czas.",
           "GenderVariant": "female"
         },
         {
@@ -85,16 +77,14 @@
           "DialogueText": "Widzisz... Moje ciało odeszło z tego świata, ale moje serce już na zawsze pozostanie w Dolinie Stardew.",
           "AudioPath": "assets/pl/Grandpa/9.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s8",
-          "PageIndex": 0,
-          "DisplayPattern": "Widzisz... Moje ciało odeszło z tego świata, ale moje serce już na zawsze pozostanie w Dolinie Stardew."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s9",
           "DialogueText": "Jesteś tu już dwa lata...",
           "AudioPath": "assets/pl/Grandpa/10.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s9",
-          "PageIndex": 0,
-          "DisplayPattern": "Jesteś tu już dwa lata..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s10",
@@ -102,15 +92,14 @@
           "AudioPath": "assets/pl/Grandpa/11.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s10",
           "PageIndex": 0,
-          "DisplayPattern": "Przyszłość '''' Farmy jest w twoich rękach."
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event/FarmHouse/558291:s11",
           "DialogueText": "Żegnaj!",
           "AudioPath": "assets/pl/Grandpa/12.ogg",
           "TranslationKey": "Events/FarmHouse:558291:s11",
-          "PageIndex": 0,
-          "DisplayPattern": "Żegnaj!"
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s0",
@@ -118,7 +107,6 @@
           "AudioPath": "assets/pl/Grandpa/13_male.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Mój drogi wnuczku...",
           "GenderVariant": "male"
         },
         {
@@ -127,7 +115,6 @@
           "AudioPath": "assets/pl/Grandpa/14_female.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Moja droga wnuczko...",
           "GenderVariant": "female"
         },
         {
@@ -135,64 +122,56 @@
           "DialogueText": "Cieszę się, że mnie przyzywasz... chyba ostatnio byłem w stosunku do Ciebie troszkę zbyt ostry.",
           "AudioPath": "assets/pl/Grandpa/15.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s2",
-          "PageIndex": 0,
-          "DisplayPattern": "Cieszę się, że mnie przyzywasz... chyba ostatnio byłem w stosunku do Ciebie troszkę zbyt ostry."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s3",
           "DialogueText": "Wybacz mi. Ciężko pracujesz i jestem z Ciebie dumny.",
           "AudioPath": "assets/pl/Grandpa/16.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s3",
-          "PageIndex": 0,
-          "DisplayPattern": "Wybacz mi. Ciężko pracujesz i jestem z Ciebie dumny."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event/FarmHouse/558292:s4",
           "DialogueText": "Zobaczmy...",
           "AudioPath": "assets/pl/Grandpa/17.ogg",
           "TranslationKey": "Events/FarmHouse:558292:s4",
-          "PageIndex": 0,
-          "DisplayPattern": "Zobaczmy..."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event.cs.1306",
           "DialogueText": "Farma w ogóle się nie zmieniła odkąd ostatnio z Tobą rozmawiałem... ale to dobrze.",
           "AudioPath": "assets/pl/Grandpa/18.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1306",
-          "PageIndex": 0,
-          "DisplayPattern": "Farma w ogóle się nie zmieniła odkąd ostatnio z Tobą rozmawiałem... ale to dobrze."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event.cs.1306",
           "DialogueText": "Jeśli się cieszysz z Twojego nowego życia, to jest dla mnie najważniejsze...",
           "AudioPath": "assets/pl/Grandpa/19.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1306",
-          "PageIndex": 1,
-          "DisplayPattern": "Jeśli się cieszysz z Twojego nowego życia, to jest dla mnie najważniejsze..."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event.cs.1306",
           "DialogueText": "Muszę już wracać... ale jeśli chcesz mnie jeszcze raz zawołać, nie krępuj się.",
           "AudioPath": "assets/pl/Grandpa/20.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1306",
-          "PageIndex": 2,
-          "DisplayPattern": "Muszę już wracać... ale jeśli chcesz mnie jeszcze raz zawołać, nie krępuj się."
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Event.cs.1307",
           "DialogueText": "Dobra robota, widać postępy na tej farmie od naszego ostatniego spotkania.",
           "AudioPath": "assets/pl/Grandpa/21.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1307",
-          "PageIndex": 0,
-          "DisplayPattern": "Dobra robota, widać postępy na tej farmie od naszego ostatniego spotkania."
+          "PageIndex": 0
         },
         {
           "DialogueFrom": "Event.cs.1307",
           "DialogueText": "Wygląda na to, że się starasz... To wszystko o co prosiłem. Jestem z Ciebie dumny.",
           "AudioPath": "assets/pl/Grandpa/22.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1307",
-          "PageIndex": 1,
-          "DisplayPattern": "Wygląda na to, że się starasz... To wszystko o co prosiłem. Jestem z Ciebie dumny."
+          "PageIndex": 1
         },
         {
           "DialogueFrom": "Event.cs.1308",
@@ -200,7 +179,6 @@
           "AudioPath": "assets/pl/Grandpa/23_male.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1308",
           "PageIndex": 0,
-          "DisplayPattern": "Dobra robota, wnusiu.",
           "GenderVariant": "male"
         },
         {
@@ -209,7 +187,6 @@
           "AudioPath": "assets/pl/Grandpa/24_female.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1308",
           "PageIndex": 1,
-          "DisplayPattern": "Dobra robota, wnusio.",
           "GenderVariant": "female"
         },
         {
@@ -218,15 +195,14 @@
           "AudioPath": "assets/pl/Grandpa/25.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1308",
           "PageIndex": 2,
-          "DisplayPattern": "'''' farma jeszcze nigdy tak dobrze nie wyglądała. To zaszczyt dla całej rodziny."
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
         },
         {
           "DialogueFrom": "Event.cs.1308",
           "DialogueText": "Dziadzio jest zadowolony.",
           "AudioPath": "assets/pl/Grandpa/26.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1308",
-          "PageIndex": 3,
-          "DisplayPattern": "Dziadzio jest zadowolony."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Event.cs.1309",
@@ -234,7 +210,6 @@
           "AudioPath": "assets/pl/Grandpa/27_male.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1309",
           "PageIndex": 0,
-          "DisplayPattern": "Jestem z Ciebie taki dumny, mój wnusiu!",
           "GenderVariant": "male"
         },
         {
@@ -243,7 +218,6 @@
           "AudioPath": "assets/pl/Grandpa/28_female.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1309",
           "PageIndex": 1,
-          "DisplayPattern": "Jestem z Ciebie taki dumny, moja wnusio!",
           "GenderVariant": "female"
         },
         {
@@ -251,24 +225,21 @@
           "DialogueText": "Sporo się tu zmieniło od naszego ostatniego spotkania!",
           "AudioPath": "assets/pl/Grandpa/29.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1309",
-          "PageIndex": 2,
-          "DisplayPattern": "Sporo się tu zmieniło od naszego ostatniego spotkania!"
+          "PageIndex": 2
         },
         {
           "DialogueFrom": "Event.cs.1309",
           "DialogueText": "Lepiej Ci idzie na farmie niż mi, to wielki zaszczyt dla rodzinnego nazwiska.",
           "AudioPath": "assets/pl/Grandpa/30.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1309",
-          "PageIndex": 3,
-          "DisplayPattern": "Lepiej Ci idzie na farmie niż mi, to wielki zaszczyt dla rodzinnego nazwiska."
+          "PageIndex": 3
         },
         {
           "DialogueFrom": "Event.cs.1309",
           "DialogueText": "Czuję to... Nareszcie moja dusza idzie odpocząć. Dziękuję.",
           "AudioPath": "assets/pl/Grandpa/31.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1309",
-          "PageIndex": 4,
-          "DisplayPattern": "Czuję to... Nareszcie moja dusza idzie odpocząć. Dziękuję."
+          "PageIndex": 4
         }
       ]
     }
