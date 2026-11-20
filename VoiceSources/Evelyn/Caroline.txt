@@ -164,7 +164,6 @@ AudioName: 41.ogg
 --------------------------------------------------
 DialogueFrom: Thu
 DialogueText: Hmmm... Zastanawiam się, czy Pierre mógłby dzisiaj zrobić kolację.
-Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 42.ogg
 --------------------------------------------------
 DialogueFrom: Thu
@@ -305,7 +304,6 @@ AudioName: 76.ogg
 --------------------------------------------------
 DialogueFrom: fall_Tue
 DialogueText: Widziałam w lesie jadalne grzyby.
-Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 77.ogg
 --------------------------------------------------
 DialogueFrom: fall_Tue
@@ -326,7 +324,6 @@ AudioName: 81.ogg
 --------------------------------------------------
 DialogueFrom: fall_Wed6
 DialogueText: Gdy byłam dzieckiem, podobały mi się filmy o dzikim zachodzie.
-Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 82.ogg
 --------------------------------------------------
 DialogueFrom: winter_Tue
@@ -339,7 +336,6 @@ AudioName: 84.ogg
 --------------------------------------------------
 DialogueFrom: winter_Fri
 DialogueText: Od czasu do czasu sprawdzam publiczne ogrody, nawet w takie zimno.
-Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
 AudioName: 85.ogg
 --------------------------------------------------
 DialogueFrom: winter_Fri
@@ -392,7 +388,6 @@ AudioName: 97.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/58:s0
 DialogueText: Dobrze! Na tym skończymy naszą sesję aerobiku!
-Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
 AudioName: 98.ogg
 --------------------------------------------------
 DialogueFrom: Event/SeedShop/58:s1
@@ -533,7 +528,6 @@ AudioName: 132.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter25/Caroline
 DialogueText: Oooch... Wypiłam za dużo kogla mogla. {Portrait:Happy}
-Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
 AudioName: 133.ogg
 --------------------------------------------------
 DialogueFrom: Festival/winter25/Caroline_y2
