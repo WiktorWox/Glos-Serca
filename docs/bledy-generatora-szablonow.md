@@ -1,6 +1,6 @@
 # Błędy generatora szablonów (`create_template`)
 
-Znalezione 20 listopada 2026 podczas testów kwestii ze znacznikami (`%kid1`, `%farm`…). Błędy siedzą w kodzie generatora z oryginalnego frameworka jessevanga (`Class/DialogueParse/ModEntry.DialogueUtil.cs`), a nie w tłumaczeniu DNKSH. Błędy 1 i 2 są naprawione 20 listopada (niżej opis zmian), błąd 3 jeszcze nie.
+Znalezione 20 listopada 2026 podczas testów kwestii ze znacznikami (`%kid1`, `%farm`…). Błędy siedzą w kodzie generatora z oryginalnego frameworka jessevanga (`Class/DialogueParse/ModEntry.DialogueUtil.cs`), a nie w tłumaczeniu DNKSH. Wszystkie trzy są naprawione 20 listopada (niżej opis zmian).
 
 ## 1. Znacznik na początku kwestii traci `%` (naprawione)
 
@@ -44,13 +44,15 @@ Naprawa: w `RxLeadingNarr` nie usuwać `%`, gdy za nim stoi znacznik z listy gry
 
 Naprawa: `%(?:adj|noun|…|time|year)(?![A-Za-z])` (obowiązkowy `%`, zamiast `\b` warunek „bez łacińskiej litery dalej”, co działa też dla chińskiego i japońskiego) i przeliczenie samych wzorców w paczkach. Przy okazji ujednolicić spacje w miejscu usuniętego znacznika: przy odtwarzaniu po usunięciu nazwy farmy zostaje „'' ''”, a we wzorcu „''''”.
 
-## 3. Zdanie przed pytaniem `$q` znika
+## 3. Zdanie przed pytaniem `$q` znika (naprawione)
 
 Kwestia może zaczynać się zdaniem, po którym dopiero pada pytanie z odpowiedziami, np. Abigail `Sun2`: „Zastanawiam się, co by się stało gdybym spędziła całą noc na cmentarzu?#$q 17/18 Sun_old#@, Jak myślisz, co się stanie gdy umrzemy?#$r …”. Generator zaczyna od pytania i gubi pierwsze zdanie, więc w paczce go nie ma i w grze nie gra (sprawdzone 20 listopada). Przy okazji generator zapisuje odpowiedzi gracza („Nie mam pojęcia.”, „Idziemy do Nieba.”…) jako kwestie postaci.
 
-Dotyczy 17 kwestii: Penny `Mon4`, Alex `Wed`, `summer_Wed`, `fall_Wed`, Haley `summer_Sat`, `fall_Sat`, Sam `Wed`, Maru `Sun`, `summer_Thu`, Leah `Mon`, Abigail `Sun2`, `summer_Sun`, `fall_Sun`, `winter_Sun`, Clint `Mon`, Sebastian `Fri2`, `fall_Fri`.
+Z 17 kwestii, w których przed pytaniem stoi zdanie, gubi je w 12: Penny `Mon4`, Alex `summer_Wed`, `fall_Wed`, Haley `summer_Sat`, `fall_Sat`, Sam `Wed`, Maru `summer_Thu`, Leah `Mon`, Abigail `Sun2`, `summer_Sun`, `fall_Sun`, Sebastian `fall_Fri`. W Alex `Wed`, Clint `Mon` i Sebastian `Fri2` zdanie zostało (przyczyna różnicy jeszcze niezbadana). Maru `Sun` i Abigail `winter_Sun` mają identyczne zdanie w paczce z innego miejsca (Abigail z wydarzenia, nagrane 226/235.ogg), więc grają po tekście. W wydarzeniach zdanie przed pytaniem to osobna komenda `speak` i jest liczone poprawnie.
 
-Naprawa: dopisać brakujące zdania jako nowe wpisy na końcu paczek (żeby nie przesuwać numeracji nagranych stron) i dodać je do list dla aktorów. Wpisy z odpowiedziami gracza zostawić albo oznaczyć, bo część może już być nagrana.
+Przyczyna: generator najpierw dzieli kwestię na części po `#$e#`, a potem z części z `$q` bierze tylko tekst pytania i odpowiedzi (`TryExpandInteractive`). Zdanie oddzielone od pytania samym `#` (albo `#$b#`) jest w tej samej części i przepada; oddzielone `#$e#` zostaje.
+
+Naprawa: nowe źródło generatora `BuildFromQuestionPreambles` (na końcu, bez przesuwania numeracji) dopisuje zgubione zdanie jako kolejną stronę tej samej kwestii. Do paczek doszło 15 wpisów (dwie kwestie mają wersje płci) w 9 postaciach; listy w `VoiceSources/<postać>/<postać>_wspolne_teksty.txt`. Sprawdzone w grze: Abigail `Sun2`, zdanie o cmentarzu gra po kluczu (strona 6). Wpisy z odpowiedziami gracza zostawione bez zmian.
 
 ## Co zmieniono 20 listopada
 

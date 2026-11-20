@@ -186,3 +186,10 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 651.ogg
 --------------------------------------------------
+
+Zdanie przed pytaniem (generator je gubił, więc nie było na wcześniejszej liście; postać mówi je tuż przed pytaniem z odpowiedziami):
+
+DialogueFrom: Characters/Dialogue/Sam:Wed  [zdanie przed pytaniem]
+DialogueText: Próbuję wymyślić nową piosenkę dla mojego zespołu, ale nie mam weny...
+AudioName: 652.ogg
+--------------------------------------------------

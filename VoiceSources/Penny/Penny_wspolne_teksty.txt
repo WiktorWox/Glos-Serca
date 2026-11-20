@@ -182,3 +182,10 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 621.ogg
 --------------------------------------------------
+
+Zdanie przed pytaniem (generator je gubił, więc nie było na wcześniejszej liście; postać mówi je tuż przed pytaniem z odpowiedziami):
+
+DialogueFrom: Characters/Dialogue/Penny:Mon4  [zdanie przed pytaniem]
+DialogueText: *ech*... Mama ma problem z ciągłym chodzeniem do knajpy. {Portrait:Sad}
+AudioName: 622.ogg
+--------------------------------------------------

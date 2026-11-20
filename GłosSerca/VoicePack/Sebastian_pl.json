@@ -4683,6 +4683,14 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "*ziew*... Wstałem o trzeciej, bo czytałem książkę...",
+          "AudioPath": "assets/pl/Sebastian/582.ogg",
+          "TranslationKey": "Characters/Dialogue/Sebastian:fall_Fri",
+          "PageIndex": 5,
+          "DisplayPattern": "*ziew*... Wstałem o trzeciej, bo czytałem książkę..."
         }
       ]
     }

@@ -4907,6 +4907,24 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Hej farmerze. Mam do Ciebie pytanie.",
+          "AudioPath": "assets/pl/Alex/604_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Alex:summer_Wed",
+          "PageIndex": 3,
+          "DisplayPattern": "Hej farmerze. Mam do Ciebie pytanie.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Hej farmerko, mam do Ciebie pytanie.",
+          "AudioPath": "assets/pl/Alex/605_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Alex:summer_Wed",
+          "PageIndex": 4,
+          "DisplayPattern": "Hej farmerko, mam do Ciebie pytanie.",
+          "GenderVariant": "female"
         }
       ]
     }

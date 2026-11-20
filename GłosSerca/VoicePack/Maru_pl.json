@@ -4463,6 +4463,22 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Cześć!",
+          "AudioPath": "assets/pl/Maru/553.ogg",
+          "TranslationKey": "Characters/Dialogue/Maru:Sun",
+          "PageIndex": 3,
+          "DisplayPattern": "Cześć!"
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Wybacz, zamyśliłam się nad kilkoma gadżetami, które projektuję.",
+          "AudioPath": "assets/pl/Maru/554.ogg",
+          "TranslationKey": "Characters/Dialogue/Maru:summer_Thu",
+          "PageIndex": 4,
+          "DisplayPattern": "Wybacz, zamyśliłam się nad kilkoma gadżetami, które projektuję."
         }
       ]
     }

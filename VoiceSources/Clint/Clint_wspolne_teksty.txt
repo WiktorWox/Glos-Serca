@@ -89,3 +89,10 @@ DialogueFrom: Strings/StringsFromCSFiles:Tool.cs.14317  [oddanie narzędzia do u
 DialogueText: Dzięki. Zacznę pracować nad tym najszybciej jak się da. Powinno być gotowe za kilka dni.
 AudioName: 208.ogg
 --------------------------------------------------
+
+Zdanie przed pytaniem (generator je gubił, więc nie było na wcześniejszej liście; postać mówi je tuż przed pytaniem z odpowiedziami):
+
+DialogueFrom: Characters/Dialogue/Clint:Mon  [zdanie przed pytaniem]
+DialogueText: Tak samo mój dziadek. {Portrait:Unique}
+AudioName: 209.ogg
+--------------------------------------------------

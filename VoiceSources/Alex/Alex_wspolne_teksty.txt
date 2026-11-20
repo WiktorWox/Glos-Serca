@@ -202,3 +202,14 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 603.ogg
 --------------------------------------------------
+
+Zdanie przed pytaniem (generator je gubił, więc nie było na wcześniejszej liście; postać mówi je tuż przed pytaniem z odpowiedziami):
+
+DialogueFrom: Characters/Dialogue/Alex:summer_Wed  [zdanie przed pytaniem]
+DialogueText: Hej farmerze. Mam do Ciebie pytanie.
+AudioName: 604_male.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Alex:summer_Wed  [zdanie przed pytaniem]
+DialogueText: Hej farmerko, mam do Ciebie pytanie.
+AudioName: 605_female.ogg
+--------------------------------------------------

@@ -4839,6 +4839,14 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Drzewa ładnie dziś wyglądają, prawda?",
+          "AudioPath": "assets/pl/Leah/598.ogg",
+          "TranslationKey": "Characters/Dialogue/Leah:Mon",
+          "PageIndex": 5,
+          "DisplayPattern": "Drzewa ładnie dziś wyglądają, prawda?"
         }
       ]
     }

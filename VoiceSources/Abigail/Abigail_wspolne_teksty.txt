@@ -234,3 +234,22 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 647.ogg
 --------------------------------------------------
+
+Zdanie przed pytaniem (generator je gubił, więc nie było na wcześniejszej liście; postać mówi je tuż przed pytaniem z odpowiedziami):
+
+DialogueFrom: Characters/Dialogue/Abigail:Sun2  [zdanie przed pytaniem]
+DialogueText: Zastanawiam się, co by się stało gdybym spędziła całą noc na cmentarzu?
+AudioName: 648.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Abigail:summer_Sun  [zdanie przed pytaniem]
+DialogueText: Masz czasami ochotę poznawać nowe miejsca, {Farmer_Name}?
+AudioName: 649.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Abigail:fall_Sun  [zdanie przed pytaniem]
+DialogueText: Hmm... Co powinnam dziś zrobić?
+AudioName: 650.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Abigail:winter_Sun  [zdanie przed pytaniem]
+DialogueText: Hej.
+AudioName: 651.ogg
+--------------------------------------------------

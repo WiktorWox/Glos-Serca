@@ -257,6 +257,39 @@ namespace VoiceOverFrameworkMod
         }
 
         /// <summary>
+        /// The sentence an NPC says right before a $q question when it shares the question's '#$e#' chunk
+        /// ("…na cmentarzu?#$q 17/18 Sun_old#@, Jak myślisz…"). TryExpandInteractive keeps only the question and the
+        /// answers, so this sentence never made it into a pack. Emitted here, after all older sources, as extra pages
+        /// (50+) of the same key, so existing page numbers and audio files stay where they are.
+        /// </summary>
+        private IEnumerable<VoiceEntryTemplate> BuildFromQuestionPreambles(string characterName, string languageCode, IGameContentHelper content, ref int entryNumber, string ext)
+        {
+            var outList = new List<VoiceEntryTemplate>();
+            Dictionary<string, string> sheet = null;
+            try { sheet = content.Load<Dictionary<string, string>>($"Characters/Dialogue/{characterName}{AssetLangSuffix(languageCode)}"); }
+            catch (ContentLoadException) { }
+            if (sheet == null) return outList;
+            int n = entryNumber;
+            foreach (var kv in sheet)
+            {
+                string raw = kv.Value ?? string.Empty;
+                foreach (string chunk in raw.Split(new[] { "#$e#" }, StringSplitOptions.None))
+                {
+                    int q = chunk.IndexOf("#$q", StringComparison.Ordinal);
+                    if (q <= 0) continue;
+                    string preamble = chunk.Substring(0, q);
+                    if (preamble.EndsWith("#$b", StringComparison.Ordinal)) preamble = preamble.Substring(0, preamble.Length - 3);
+                    if (string.IsNullOrWhiteSpace(preamble)) continue;
+                    string key = kv.Key.Trim();
+                    foreach (var seg in DialogueUtil.SplitAndSanitize(preamble, splitBAsPage: true))
+                        outList.Add(MakeEntry(characterName, languageCode, ext, ref n, key, $"Characters/Dialogue/{characterName}:{key}", 50 + seg.PageIndex, seg));
+                }
+            }
+            entryNumber = n;
+            return outList;
+        }
+
+        /// <summary>
         /// What a shop owner says in the shop menu (Data/Shops → Owners → Dialogues), for owners named after this NPC.
         /// The menu draws it in its own box next to the portrait; see CheckForShopOwnerDialogue.
         /// </summary>

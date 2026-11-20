@@ -194,3 +194,10 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 597.ogg
 --------------------------------------------------
+
+Zdanie przed pytaniem (generator je gubił, więc nie było na wcześniejszej liście; postać mówi je tuż przed pytaniem z odpowiedziami):
+
+DialogueFrom: Characters/Dialogue/Leah:Mon  [zdanie przed pytaniem]
+DialogueText: Drzewa ładnie dziś wyglądają, prawda?
+AudioName: 598.ogg
+--------------------------------------------------

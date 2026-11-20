@@ -4987,6 +4987,22 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Rolnictwo brzmi jak straszna nuda...",
+          "AudioPath": "assets/pl/Haley/616.ogg",
+          "TranslationKey": "Characters/Dialogue/Haley:summer_Sat",
+          "PageIndex": 5,
+          "DisplayPattern": "Rolnictwo brzmi jak straszna nuda..."
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Zrobiło się za zimno na plażę.",
+          "AudioPath": "assets/pl/Haley/617.ogg",
+          "TranslationKey": "Characters/Dialogue/Haley:fall_Sat",
+          "PageIndex": 4,
+          "DisplayPattern": "Zrobiło się za zimno na plażę."
         }
       ]
     }

@@ -5235,6 +5235,38 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "Sun2",
+          "DialogueText": "Zastanawiam się, co by się stało gdybym spędziła całą noc na cmentarzu?",
+          "AudioPath": "assets/pl/Abigail/648.ogg",
+          "TranslationKey": "Characters/Dialogue/Abigail:Sun2",
+          "PageIndex": 6,
+          "DisplayPattern": "Zastanawiam się, co by się stało gdybym spędziła całą noc na cmentarzu?"
+        },
+        {
+          "DialogueFrom": "summer_Sun",
+          "DialogueText": "Masz czasami ochotę poznawać nowe miejsca, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Abigail/649.ogg",
+          "TranslationKey": "Characters/Dialogue/Abigail:summer_Sun",
+          "PageIndex": 5,
+          "DisplayPattern": "Masz czasami ochotę poznawać nowe miejsca, ?"
+        },
+        {
+          "DialogueFrom": "fall_Sun",
+          "DialogueText": "Hmm... Co powinnam dziś zrobić?",
+          "AudioPath": "assets/pl/Abigail/650.ogg",
+          "TranslationKey": "Characters/Dialogue/Abigail:fall_Sun",
+          "PageIndex": 5,
+          "DisplayPattern": "Hmm... Co powinnam dziś zrobić?"
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Abigail/651.ogg",
+          "TranslationKey": "Characters/Dialogue/Abigail:winter_Sun",
+          "PageIndex": 4,
+          "DisplayPattern": "Hej."
         }
       ]
     }

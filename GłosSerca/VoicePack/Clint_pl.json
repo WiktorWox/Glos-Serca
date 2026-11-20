@@ -1685,6 +1685,14 @@
           "TranslationKey": "Strings/StringsFromCSFiles:Tool.cs.14317",
           "PageIndex": 0,
           "DisplayPattern": "Dzięki. Zacznę pracować nad tym najszybciej jak się da. Powinno być gotowe za kilka dni."
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Tak samo mój dziadek. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Clint/209.ogg",
+          "TranslationKey": "Characters/Dialogue/Clint:Mon",
+          "PageIndex": 6,
+          "DisplayPattern": "Tak samo mój dziadek."
         }
       ]
     }
