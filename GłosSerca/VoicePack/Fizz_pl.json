@@ -22,7 +22,7 @@
           "DialogueText": "No... Czyli dostałaś mój list, co? Miło Cię poznać.",
           "AudioPath": "assets/pl/Fizz/2_female.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 2,
+          "PageIndex": 1,
           "DisplayPattern": "No... Czyli dostałaś mój list, co? Miło Cię poznać.",
           "GenderVariant": "female"
         },
@@ -31,7 +31,7 @@
           "DialogueText": "Jestem Fizz, z Oddziału Służb Specjalnych Joja. {Portrait:Happy}",
           "AudioPath": "assets/pl/Fizz/3.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 5,
+          "PageIndex": 2,
           "DisplayPattern": "Jestem Fizz, z Oddziału Służb Specjalnych Joja."
         },
         {
@@ -39,7 +39,7 @@
           "DialogueText": "Co? Nic nie świta? Nic nie szkodzi, większość o nas nie słyszała...",
           "AudioPath": "assets/pl/Fizz/4.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 7,
+          "PageIndex": 3,
           "DisplayPattern": "Co? Nic nie świta? Nic nie szkodzi, większość o nas nie słyszała..."
         },
         {
@@ -47,7 +47,7 @@
           "DialogueText": "Nie jesteśmy reklamowani jak inne produkty Joja. Jesteśmy bardziej od 'usług specjalnych' dla elitarnych klientów.",
           "AudioPath": "assets/pl/Fizz/5.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 9,
+          "PageIndex": 4,
           "DisplayPattern": "Nie jesteśmy reklamowani jak inne produkty Joja. Jesteśmy bardziej od 'usług specjalnych' dla elitarnych klientów."
         },
         {
@@ -55,7 +55,7 @@
           "DialogueText": "Co robimy? Heh... cóż, Powiem tylko... specjalizujemy się w sprawach 'skomplikowanych prawnie'... Łapiesz?",
           "AudioPath": "assets/pl/Fizz/6.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 11,
+          "PageIndex": 5,
           "DisplayPattern": "Co robimy? Heh... cóż, Powiem tylko... specjalizujemy się w sprawach 'skomplikowanych prawnie'... Łapiesz?"
         },
         {
@@ -63,7 +63,7 @@
           "DialogueText": "Ale koniec pogawędek. Przejdźmy do interesów.",
           "AudioPath": "assets/pl/Fizz/7.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 13,
+          "PageIndex": 6,
           "DisplayPattern": "Ale koniec pogawędek. Przejdźmy do interesów."
         },
         {
@@ -71,7 +71,7 @@
           "DialogueText": "Słyszałem, że próbujesz osiągnąć 'ideał'. Szczytny cel... ale trudny. Bardzo trudny.",
           "AudioPath": "assets/pl/Fizz/8.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 15,
+          "PageIndex": 7,
           "DisplayPattern": "Słyszałem, że próbujesz osiągnąć 'ideał'. Szczytny cel... ale trudny. Bardzo trudny."
         },
         {
@@ -79,7 +79,7 @@
           "DialogueText": "To całe gotowanie, tworzenie, pokonywanie potworów, skomplikowane przyjaźnie... *yhh*. Widać jaka zestresowana z Ciebie osoba. {Portrait:Sad}",
           "AudioPath": "assets/pl/Fizz/9.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 17,
+          "PageIndex": 8,
           "DisplayPattern": "To całe gotowanie, tworzenie, pokonywanie potworów, skomplikowane przyjaźnie... *yhh*. Widać jaka zestresowana z Ciebie osoba."
         },
         {
@@ -87,7 +87,7 @@
           "DialogueText": "Ale słuchaj... nie musisz się już więcej stresować! Ja Ci pomogę. {Portrait:Happy}",
           "AudioPath": "assets/pl/Fizz/10.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 18,
+          "PageIndex": 9,
           "DisplayPattern": "Ale słuchaj... nie musisz się już więcej stresować! Ja Ci pomogę."
         },
         {
@@ -95,7 +95,7 @@
           "DialogueText": "Widzisz te papiery? To jest 'wyrzeczenie ideału'.",
           "AudioPath": "assets/pl/Fizz/11.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 20,
+          "PageIndex": 10,
           "DisplayPattern": "Widzisz te papiery? To jest 'wyrzeczenie ideału'."
         },
         {
@@ -103,7 +103,7 @@
           "DialogueText": "Każda z tych przepięknych stron jest warta 1% ku doskonałości. Nawet mają podpis Pana Qi... Całkowicie legalne!",
           "AudioPath": "assets/pl/Fizz/12.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 22,
+          "PageIndex": 11,
           "DisplayPattern": "Każda z tych przepięknych stron jest warta 1% ku doskonałości. Nawet mają podpis Pana Qi... Całkowicie legalne!"
         },
         {
@@ -111,7 +111,7 @@
           "DialogueText": "Czy wyglądam jak ktoś, kto mógłby Cię okłamać?? {Portrait:Unique}",
           "AudioPath": "assets/pl/Fizz/13.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 24,
+          "PageIndex": 12,
           "DisplayPattern": "Czy wyglądam jak ktoś, kto mógłby Cię okłamać??"
         },
         {
@@ -119,7 +119,7 @@
           "DialogueText": "... {Portrait:Unique}",
           "AudioPath": "assets/pl/Fizz/14.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 26,
+          "PageIndex": 13,
           "DisplayPattern": "..."
         },
         {
@@ -127,7 +127,7 @@
           "DialogueText": "Nie odpowiadaj.",
           "AudioPath": "assets/pl/Fizz/15.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 28,
+          "PageIndex": 14,
           "DisplayPattern": "Nie odpowiadaj."
         },
         {
@@ -135,7 +135,7 @@
           "DialogueText": "... Wracając, sprzedaje je za słodką, słodziusieńką cenę... jedynie 500,000 monet za sztukę. Okazja!",
           "AudioPath": "assets/pl/Fizz/16.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 30,
+          "PageIndex": 15,
           "DisplayPattern": "... Wracając, sprzedaje je za słodką, słodziusieńką cenę... jedynie 500,000 monet za sztukę. Okazja!"
         },
         {
@@ -143,7 +143,7 @@
           "DialogueText": "No, bez pośpiechu. Przemyśl to! Będę tu czekać... {Portrait:Happy}",
           "AudioPath": "assets/pl/Fizz/17.ogg",
           "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
-          "PageIndex": 32,
+          "PageIndex": 16,
           "DisplayPattern": "No, bez pośpiechu. Przemyśl to! Będę tu czekać..."
         },
         {
