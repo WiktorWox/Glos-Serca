@@ -4150,6 +4150,21 @@
           "TranslationKey": "Characters/Dialogue/Sebastian:fall_Fri",
           "PageIndex": 5,
           "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13602",
+          "DialogueText": "Hej, dzięki za pomoc. Właśnie tego mi trzeba. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sebastian/583.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13602",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Sebastian/584.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

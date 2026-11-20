@@ -1298,6 +1298,141 @@
           "AudioPath": "assets/pl/Caroline/182.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
           "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Caroline/183.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13527",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Caroline/184.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13528",
+          "DialogueText": "Cześć {Farmer_Name}!",
+          "AudioPath": "assets/pl/Caroline/185.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Caroline/186.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Caroline/187.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Caroline/188_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Caroline/189_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Caroline/190_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Caroline/191_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Caroline/192_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Caroline/193_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Caroline/194.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Caroline/195.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Caroline/196.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Caroline/197.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Caroline/198.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Caroline/199.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Caroline/200.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

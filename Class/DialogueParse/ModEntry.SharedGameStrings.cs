@@ -314,6 +314,54 @@ namespace VoiceOverFrameworkMod
         /// What a shop owner says in the shop menu (Data/Shops → Owners → Dialogues), for owners named after this NPC.
         /// The menu draws it in its own box next to the portrait; see CheckForShopOwnerDialogue.
         /// </summary>
+        /// <summary>
+        /// Board quest (ItemDeliveryQuest) completion lines of an NPC who can post such quests
+        /// (ItemDeliveryQuest.GetValidTargetList: Data/Characters ItemDeliveryQuests, else HomeRegion "Town"; no children).
+        /// Most NPCs say greeting + reaction + thanks glued in one box and a payment line on the next page, each picked at
+        /// random (ItemDeliveryQuest.cs.13526–13544); every fragment is its own entry and the mod plays them in a row.
+        /// Haley, Sam, Maru, Abigail, Sebastian and Elliott have fixed lines instead. "To za mało…" (13615) is said by all.
+        /// The Wizard's branch (13555) is unreachable in 1.6: his HomeRegion is not "Town" and he has no ItemDeliveryQuests.
+        /// </summary>
+        private IEnumerable<VoiceEntryTemplate> BuildFromQuestDeliveries(string characterName, string languageCode, IGameContentHelper content, ref int entryNumber, string ext)
+        {
+            var outList = new List<VoiceEntryTemplate>();
+            if (!Game1.characterData.TryGetValue(characterName, out CharacterData data) || data == null) return outList;
+            bool social = !string.Equals(data.CanSocialize?.Trim(), "FALSE", StringComparison.OrdinalIgnoreCase);
+            bool posts = data.ItemDeliveryQuests != null
+                ? !string.Equals(data.ItemDeliveryQuests.Trim(), "FALSE", StringComparison.OrdinalIgnoreCase)
+                : data.HomeRegion == "Town";
+            if (!social || !posts || data.Age == NpcAge.Child) return outList;
+
+            Dictionary<string, string> sheet;
+            try { sheet = content.Load<Dictionary<string, string>>("Strings/StringsFromCSFiles" + AssetLangSuffix(languageCode)); }
+            catch (ContentLoadException) { return outList; }
+            int n = entryNumber;
+            void Add(string id, bool fragment)
+            {
+                if (!sheet.TryGetValue($"ItemDeliveryQuest.cs.{id}", out var text) || string.IsNullOrWhiteSpace(text)) return;
+                if (fragment) text = Regex.Replace(text, @"^\$h#\$b#", "").Trim();   // payment starts the next page
+                string tk = $"Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.{id}";
+                foreach (var seg in DialogueUtil.SplitAndSanitize(text))
+                    outList.Add(MakeEntry(characterName, languageCode, ext, ref n, $"ItemDeliveryQuest.cs.{id}", tk, seg.PageIndex, seg));
+            }
+
+            var fixedLines = new Dictionary<string, string[]>
+            {
+                ["Haley"] = new[] { "13566" }, ["Sam"] = new[] { "13577" }, ["Maru"] = new[] { "13585", "13587" },
+                ["Abigail"] = new[] { "13597", "13599" }, ["Sebastian"] = new[] { "13602" }, ["Elliott"] = new[] { "13604" },
+            };
+            if (fixedLines.TryGetValue(characterName, out var own))
+                foreach (var id in own) Add(id, false);
+            else
+            {
+                foreach (var id in characterName == "Evelyn" ? new[] { "13526" } : new[] { "13526", "13527", "13528" }) Add(id, true);
+                foreach (var id in new[] { "13530", "13532", "13534", "13535", "13536", "13538", "13539", "13540", "13542", "13543", "13544" }) Add(id, true);
+            }
+            Add("13615", false);   // not enough items
+            entryNumber = n;
+            return outList;
+        }
+
         private IEnumerable<VoiceEntryTemplate> BuildFromShopOwnerDialogues(string characterName, string languageCode, IGameContentHelper content, ref int entryNumber, string ext)
         {
             var outList = new List<VoiceEntryTemplate>();

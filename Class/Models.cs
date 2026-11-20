@@ -58,6 +58,8 @@ namespace VoiceOverFrameworkMod
         public Dictionary<string, string> EntriesByDisplayPattern { get; set; } = new(StringComparer.OrdinalIgnoreCase);
         /// <summary>Lines with variable parts (player name, %farm, %book, {0}…) as regexes; see ModEntry.TemplateMatch.</summary>
         public List<ModEntry.TemplateLine> TemplateEntries { get; set; } = new();
+        /// <summary>Board quest completion box (greeting + reaction + thanks), or null.</summary>
+        public ModEntry.QuestReplyMatcher QuestReply { get; set; }
 
         public string ContentPackId { get; set; }
         public string ContentPackName { get; set; }

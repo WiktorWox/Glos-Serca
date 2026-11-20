@@ -4695,6 +4695,37 @@
           "AudioPath": "assets/pl/Abigail/651.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:winter_Sun",
           "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13597",
+          "DialogueText": "Hmm... to nie jest takie ciekawe jak myślałam... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Abigail/652.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13597",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13597",
+          "DialogueText": "Ale to nie Twoja wina! Ha ha. Dzięki za odpowiedź na moje ogłoszenie, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Abigail/653.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13597",
+          "PageIndex": 1,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13599",
+          "DialogueText": "He he... świetnie. Oto Twoja nagroda, {Farmer_Name}. Nie mów nic Tacie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Abigail/654.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13599",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Abigail/655.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

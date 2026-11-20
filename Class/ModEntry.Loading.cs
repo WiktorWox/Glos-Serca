@@ -172,6 +172,7 @@ namespace VoiceOverFrameworkMod
                                 //V2 DisplayPattern index (stripped/canonical)
                                 var entriesByDisplayPattern = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
                                 var templates = new List<TemplateLine>();
+                                var questReply = new QuestReplyBuilder();
 
                                 foreach (var entry in manifestData.Entries)
                                 {
@@ -248,8 +249,11 @@ namespace VoiceOverFrameworkMod
                                     // V2 templates: lines with variable parts, matched by regex (ModEntry.TemplateMatch)
                                     if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DialogueText))
                                         foreach (string actorVariant in SplitGenderVariants(entry.DialogueText))
+                                        {
                                             if (BuildTemplate(actorVariant, audioPath) is TemplateLine tl)
                                                 templates.Add(tl);
+                                            questReply.Add(entry.TranslationKey, actorVariant, audioPath);
+                                        }
 
                                 }
 
@@ -274,6 +278,7 @@ namespace VoiceOverFrameworkMod
                                     // V2 TranslationKey map
                                     EntriesByTranslationKey = entriesByTk,
                                     TemplateEntries = templates,
+                                    QuestReply = questReply.Build(),
 
                                     //: V2 DisplayPattern map
                                     // same keys and recorded-file preference as the text map

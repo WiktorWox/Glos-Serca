@@ -12,6 +12,10 @@ namespace VoiceOverFrameworkMod
     {
 
         private SoundEffectInstance currentVoiceInstance;
+        // Files to play after the current one (board quest reply: greeting, reaction, thanks). Any other voice clears it.
+        private readonly Queue<string> voiceQueue = new();
+        private SoundEffectInstance voiceQueueOwner;
+        private bool playingFromQueue;
         private readonly List<SoundEffectInstance> activeVoiceInstances = new();
         private readonly object listLock = new object();
 
@@ -237,8 +241,41 @@ namespace VoiceOverFrameworkMod
 
 
         // Loads and plays an audio file from the specified absolute path. Updated to Support wav and ogg
+        /// <summary>Play several files one after another (the rest start from UpdateTicked when the previous ends).</summary>
+        private void PlayVoiceQueue(IList<string> absolutePaths)
+        {
+            ClearVoiceQueue();
+            if (absolutePaths == null || absolutePaths.Count == 0) return;
+            PlayVoiceFromFile(absolutePaths[0]);
+            foreach (var p in absolutePaths.Skip(1)) voiceQueue.Enqueue(p);
+            voiceQueueOwner = currentVoiceInstance;
+        }
+
+        private void ClearVoiceQueue()
+        {
+            voiceQueue.Clear();
+            voiceQueueOwner = null;
+        }
+
+        /// <summary>UpdateTicked: start the next queued file once the previous one has finished.</summary>
+        private void AdvanceVoiceQueue()
+        {
+            if (voiceQueue.Count == 0) return;
+            if (voiceQueueOwner == null || !ReferenceEquals(voiceQueueOwner, currentVoiceInstance)) { ClearVoiceQueue(); return; }
+            bool finished;
+            try { finished = voiceQueueOwner.IsDisposed || voiceQueueOwner.State == SoundState.Stopped; }
+            catch (ObjectDisposedException) { finished = true; }
+            if (!finished) return;
+            string next = voiceQueue.Dequeue();
+            playingFromQueue = true;
+            try { PlayVoiceFromFile(next); }
+            finally { playingFromQueue = false; }
+            voiceQueueOwner = voiceQueue.Count > 0 ? currentVoiceInstance : null;
+        }
+
         private void PlayVoiceFromFile(string absoluteAudioFilePath, bool interruptCurrent = true)
         {
+            if (!playingFromQueue) ClearVoiceQueue();
             if (string.IsNullOrWhiteSpace(absoluteAudioFilePath))
             {
                 Monitor?.Log($"[PlayVoiceFromFile] Attempted to play null or empty audio file path. Aborting.", LogLevel.Warn);

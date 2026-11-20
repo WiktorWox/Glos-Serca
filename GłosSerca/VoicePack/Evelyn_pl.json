@@ -1153,6 +1153,126 @@
           "AudioPath": "assets/pl/Evelyn/162.ogg",
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
           "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Evelyn/163.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Evelyn/164.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Evelyn/165.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Evelyn/166_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Evelyn/167_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Evelyn/168_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Evelyn/169_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Evelyn/170_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Evelyn/171_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Evelyn/172.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Evelyn/173.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Evelyn/174.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Evelyn/175.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Evelyn/176.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Evelyn/177.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Evelyn/178.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

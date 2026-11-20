@@ -93,6 +93,19 @@ namespace VoiceOverFrameworkMod
             };
         }
 
+        /// <summary>Regex for a screen text without anchors: literal text, ".+?" for each game value.</summary>
+        internal static string RegexBody(string screenText)
+        {
+            var sb = new StringBuilder();
+            string[] parts = TemplateMarkerRx.Split(screenText);
+            for (int i = 0; i < parts.Length; i++)
+            {
+                if (i > 0) sb.Append(".+?");
+                sb.Append(Regex.Escape(parts[i]).Replace("\\ ", " "));
+            }
+            return sb.ToString();
+        }
+
         /// <summary>For short lines: every name part is the player's name, every %firstnameletter part a start of it.</summary>
         private static bool NamePartsAreThePlayer(Match m)
         {
@@ -168,6 +181,7 @@ namespace VoiceOverFrameworkMod
         /// <summary>Play the template-matched line. True when a line matched (even if its audio is not recorded yet).</summary>
         private bool TryPlayTemplate(VoicePack pack, string displayed, string tag)
         {
+            if (TryPlayQuestReply(pack, displayed, tag)) return true;
             string rel = MatchTemplate(pack, displayed);
             if (Config.developerModeOn)
                 Monitor.Log($"[V2-TEMPLATE] {tag} character='{pack?.Character}' match={(rel ?? "no")} text='{displayed}'", LogLevel.Debug);

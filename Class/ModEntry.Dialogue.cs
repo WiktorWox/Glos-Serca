@@ -57,6 +57,7 @@ namespace VoiceOverFrameworkMod
         // Main dialogue check loop called every tick (or less often if adjusted).
         private void OnUpdateTicked(object sender, UpdateTickedEventArgs e)
         {
+            AdvanceVoiceQueue();
             if (e.IsMultipleOf(2))
                 CleanupStoppedVoiceInstances();
 
@@ -386,6 +387,7 @@ namespace VoiceOverFrameworkMod
             _dialogueNotVisibleTicks = 0;
             _sameLineStableTicks = 0;
             _lastPlayedLookupKey = null;
+            ClearVoiceQueue();
 
             if (currentVoiceInstance != null && !currentVoiceInstance.IsDisposed && currentVoiceInstance.State == SoundState.Playing)
             {

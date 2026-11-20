@@ -249,9 +249,21 @@ Jak to wyszło w kodzie (20 listopada):
 - Listy `.txt`: 835 linii „Uwaga: …” w 67 plikach. 490 wpisów z uwagą nie ma listy w repozytorium (np. główne listy Alexa), więc ich uwagi są tylko w JSON.
 - W grze sprawdzone: Shane „farma” i `%time`, Leah `%farm`, Elliott `%book` (3 strony), Abigail `%kid1 i %kid2`, Marnie `%pet`, Krobus 5 stron, Abigail z imieniem gracza, krótkie „Hej, Tester.” (Alex), „Tester!” (Clint), „Tester...” (Abigail), „Tester?” (Sebastian), Abigail `Sun2` ze zdaniem przed pytaniem i odpowiedzią, Emily bez `%revealtaste`, Willy `{0}` po kluczu, dymek Gusa, dymek Marnie z imieniem, okienko Pierre'a, oferta Robin.
 
-### Zlecenia z tablicy (do zrobienia)
+### Zlecenia z tablicy (zrobione 20 listopada)
 
 - Kawałki `ItemDeliveryQuest.cs.13526–13544` jako zwykłe wpisy w paczkach postaci wystawiających zlecenia (do ustalenia w kodzie gry, kto wystawia); stałe kwestie Czarnoksiężnika, Haley, Sama, Sebastiana, Maru, Abigail i Elliotta jako zwykłe dialogi.
 - Pierwsze okienko rozpoznawane jednym regexem w kolejności powitanie → reakcja → podziękowanie (`^…$`), zbudowanym z wpisów paczki; drugie okienko (zapłata) zwykłym dopasowaniem.
 - Nowe w modzie: kolejka odtwarzania kilku plików pod rząd.
 - „Czy to jest {0}?” zespół nagrywa jako „Czy to jest?”.
+
+Jak to wyszło (20 listopada):
+- Kto wystawia zlecenia (sprawdzone w `ItemDeliveryQuest.GetValidTargetList` i `Data/Characters` w grze): 27 dorosłych mieszkańców miasta (`HomeRegion` „Town”) i Sandy (po naprawie autobusu); dzieci (Jas, Vincent) nie. Czarnoksiężnik w 1.6 nie wystawia zleceń (`HomeRegion` „Other”, brak `ItemDeliveryQuests`), więc jego podziękowanie (13555) pominięte.
+- Nowe źródło generatora `BuildFromQuestDeliveries`: 22 postacie dostają kawałki 13526–13544 (Evelyn tylko powitanie „Och!”, bo gra innego jej nie daje), Haley, Sam, Maru, Abigail, Sebastian i Elliott swoje stałe kwestie; wszyscy 28 „To za mało... potrzebuję {0}.” (13615, gra po kluczu).
+- Paczki: 410 nowych wpisów w 28 postaciach, numery dalej od ostatniego; listy `VoiceSources/<postać>/<postać>_zlecenia_z_tablicy.txt`.
+- Mod (`Class/ModEntry.QuestReply.cs`): pierwsze okienko rozpoznaje jeden regex `^powitanie reakcja podziękowanie$` zbudowany z wpisów paczki i odtwarza trzy pliki pod rząd (kolejka w `ModEntry.Playback.cs`; każdy inny głos albo zamknięcie okienka ją czyści). Brakujące nagrania kolejka pomija.
+- Kontrola offline: wszystkie 1 536 kombinacji kawałków we wszystkich paczkach dają właściwe trzy pliki. W grze (testowe nagrania TTS, niecommitowane): Pierre „Cześć Tester! Oo, czyli jednak widziałeś moją notkę? Doceniam to.” i „Hej. Czy to jest Pasternak? Wygląda wspaniale.” – trzy pliki po sobie, potem zapłata; Haley, Maru (2 strony), Pierre „To za mało...”.
+
+### Do zrobienia: komentarze o kupionych przedmiotach (`PurchasedItem_…`)
+
+Znalezione przy teście Willy'ego. Gra (`Game1.cs` przy nocnej sprzedaży, `ShopLocation`/`FishShop.getPurchasedItemDialogueForNPC`) daje losowemu mieszkańcowi miasta kwestię o przedmiocie gracza kupionym w sklepie. Klucze z końcówką `_Willy` (`PurchasedItem_1…4_…_Willy`) mówi dowolny mieszkaniec, gdy przedmiot kupił Willy, a nie sam Willy; generator przypisał je Willy'emu (223–245, nienagrane). Sam Willy mówi tylko `PurchasedItem_Pierre_…_Willy` (246–249, nagrane), a Pierre tylko `PurchasedItem_Pierre_Quality…` bez końcówki. Wspólne `PurchasedItem_1…5`, `_Teen` nie trafiły do żadnej paczki. Do poprawienia w generatorze podobnie jak zlecenia.
+

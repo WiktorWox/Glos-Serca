@@ -4697,6 +4697,22 @@
           "AudioPath": "assets/pl/Sam/652.ogg",
           "TranslationKey": "Characters/Dialogue/Sam:Wed",
           "PageIndex": 5
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13577",
+          "DialogueText": "Hej, stokrotne dzięki, {Farmer_Name}! Powinienem się domyśleć, że ty to dla mnie załatwisz. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Sam/653.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13577",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Sam/654.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

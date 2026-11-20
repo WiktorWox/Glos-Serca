@@ -399,6 +399,7 @@ namespace VoiceOverFrameworkMod
                 characterManifest.Entries.AddRange(BuildFromSharedGameStrings(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
                 characterManifest.Entries.AddRange(BuildFromShopOwnerDialogues(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
                 characterManifest.Entries.AddRange(BuildFromQuestionPreambles(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromQuestDeliveries(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
              
 
                 
@@ -749,6 +750,7 @@ namespace VoiceOverFrameworkMod
             all.AddRange(BuildFromSharedGameStrings(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
             all.AddRange(BuildFromShopOwnerDialogues(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
             all.AddRange(BuildFromQuestionPreambles(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromQuestDeliveries(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
 
             // We must NOT renumber PageIndex; these come from the sanitizers.
             // Also, we ignore AudioPath here; caller will assign new paths for appended items.

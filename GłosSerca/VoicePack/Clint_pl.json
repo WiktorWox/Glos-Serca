@@ -1526,6 +1526,141 @@
           "AudioPath": "assets/pl/Clint/209.ogg",
           "TranslationKey": "Characters/Dialogue/Clint:Mon",
           "PageIndex": 6
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Clint/210.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13527",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Clint/211.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13528",
+          "DialogueText": "Cześć {Farmer_Name}!",
+          "AudioPath": "assets/pl/Clint/212.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Clint/213.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Clint/214.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Clint/215_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Clint/216_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Clint/217_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Clint/218_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Clint/219_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Clint/220_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Clint/221.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Clint/222.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Clint/223.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Clint/224.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Clint/225.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Clint/226.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Clint/227.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

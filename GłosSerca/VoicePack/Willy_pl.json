@@ -2198,6 +2198,141 @@
           "AudioPath": "assets/pl/Willy/301.ogg",
           "TranslationKey": "Strings/Locations:BoatTunnel_willyText_random0",
           "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Willy/302.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13527",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Willy/303.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13528",
+          "DialogueText": "Cześć {Farmer_Name}!",
+          "AudioPath": "assets/pl/Willy/304.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Willy/305.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Willy/306.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Willy/307_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Willy/308_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Willy/309_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Willy/310_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Willy/311_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Willy/312_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Willy/313.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Willy/314.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Willy/315.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Willy/316.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Willy/317.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Willy/318.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Willy/319.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }
