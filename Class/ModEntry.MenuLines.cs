@@ -52,7 +52,8 @@ namespace VoiceOverFrameworkMod
                 if (!string.IsNullOrWhiteSpace(text) && !string.Equals(text, _lastSpeakerlessText, StringComparison.Ordinal))
                 {
                     _lastSpeakerlessText = text;
-                    TryPlayCharacterLineByText(speaker, text, "QUESTION");
+                    // the question string keeps '^' (a line break in this box); the pack stores it as a space
+                    TryPlayCharacterLineByText(speaker, text.Replace('^', ' '), "QUESTION");
                 }
             }
             else
