@@ -653,6 +653,46 @@
           "TranslationKey": "Strings/StringsFromMaps:MovieTheater_Morris",
           "PageIndex": 2,
           "DisplayPattern": "Hee...? Zwrot z inwestycji? Cóż to trudne, wiesz... może to trochę potrwać, rozumiesz... *bełkot*"
+        },
+        {
+          "DialogueFrom": "Morris_WeekendGreeting_MembershipAvailable",
+          "DialogueText": "Członkostwo Joja jest już dostępne! Z członkostwem Joja, będziemy mogli wprowadzić ulepszenia dla społeczności z pomocą dedykowanego personelu... oczywiście za dopłatą.",
+          "AudioPath": "assets/pl/Morris/81.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable",
+          "PageIndex": 4,
+          "DisplayPattern": "Członkostwo Joja jest już dostępne! Z członkostwem Joja, będziemy mogli wprowadzić ulepszenia dla społeczności z pomocą dedykowanego personelu... oczywiście za dopłatą."
+        },
+        {
+          "DialogueFrom": "Morris_WeekendGreeting_MembershipAvailable",
+          "DialogueText": "A! I jeszcze jedno... Burmistrz Lewis obiecał nam, że jak ktoś jeszcze do nas dołączy, to pozwoli wybudować magazyn Joja na miejscu tego starego domu kultury. Czyż to nie cudowne?",
+          "AudioPath": "assets/pl/Morris/82.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable",
+          "PageIndex": 5,
+          "DisplayPattern": "A! I jeszcze jedno... Burmistrz Lewis obiecał nam, że jak ktoś jeszcze do nas dołączy, to pozwoli wybudować magazyn Joja na miejscu tego starego domu kultury. Czyż to nie cudowne?"
+        },
+        {
+          "DialogueFrom": "Morris_FirstGreeting_MembershipAvailable",
+          "DialogueText": "Och, jeszcze jedno... Burmistrz Lewis obiecał nam, że jak ktoś jeszcze do nas dołączy, to pozwoli wybudować magazyn joja na miejscu tego starego domu kultury.",
+          "AudioPath": "assets/pl/Morris/83.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_MembershipAvailable",
+          "PageIndex": 5,
+          "DisplayPattern": "Och, jeszcze jedno... Burmistrz Lewis obiecał nam, że jak ktoś jeszcze do nas dołączy, to pozwoli wybudować magazyn joja na miejscu tego starego domu kultury."
+        },
+        {
+          "DialogueFrom": "Morris_BuyMovieTheater",
+          "DialogueText": "Ach, nasz ulubiony klient... Mamy dla Ciebie dobre wieści! Siedziba firmy Joja zatwierdziła budowę nowego 'domu rozrywki' Joja, która zastąpi pobliski magazyn. Potrzebujemy tylko inwestora! Więc, oczywiście, pytam Ciebie... naszego najbardziej oddanego i hojnego członka Joja.",
+          "AudioPath": "assets/pl/Morris/84.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_BuyMovieTheater",
+          "PageIndex": 2,
+          "DisplayPattern": "Ach, nasz ulubiony klient... Mamy dla Ciebie dobre wieści! Siedziba firmy Joja zatwierdziła budowę nowego 'domu rozrywki' Joja, która zastąpi pobliski magazyn. Potrzebujemy tylko inwestora! Więc, oczywiście, pytam Ciebie... naszego najbardziej oddanego i hojnego członka Joja."
+        },
+        {
+          "DialogueFrom": "Morris_BuyMovieTheater",
+          "DialogueText": "Będziemy mogli to zrobić za niewielką sumkę w wysokości... *kaszel*... 500,000 monet... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/85.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Morris_BuyMovieTheater",
+          "PageIndex": 3,
+          "DisplayPattern": "Będziemy mogli to zrobić za niewielką sumkę w wysokości... *kaszel*... 500,000 monet..."
         }
       ]
     }

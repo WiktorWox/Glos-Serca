@@ -165,3 +165,30 @@ DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 13)  [telefon]
 DialogueText: A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa. {Portrait:Unique}
 AudioName: 412.ogg
 --------------------------------------------------
+
+Pytania gospodarza festiwalu, gdy gracz jest gotowy do rozpoczęcia (odpowiedzi Tak/Nie wybiera gracz):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1521  [pytanie na festiwalu]
+DialogueText: Myślisz, że wszyscy są gotowi na polowanie?
+AudioName: 413.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1524  [pytanie na festiwalu]
+DialogueText: Powinniśmy zacząć?
+AudioName: 414.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1527  [pytanie na festiwalu]
+DialogueText: Powinniśmy zacząć Luau? Gubernator chyba zgłodniał.
+AudioName: 415.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1531  [pytanie na festiwalu]
+DialogueText: Jak myślisz... mogę już wypuścić łódkę?
+AudioName: 416.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1535  [pytanie na festiwalu]
+DialogueText: Och... Twoja wystawa już jest przygotowana?
+AudioName: 417.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1548  [pytanie na festiwalu]
+DialogueText: Możemy zacząć zawody w łowieniu ryb?
+AudioName: 418.ogg
+--------------------------------------------------

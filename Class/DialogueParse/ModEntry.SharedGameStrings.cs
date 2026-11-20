@@ -136,6 +136,11 @@ namespace VoiceOverFrameworkMod
                 case "Lewis":
                     Emit(CS, "Event.cs.1025"); Emit(CS, "Event.cs.1730");
                     Emit(CS, "Event.cs.1862"); Emit(CS, "Event.cs.1871");                 // festival winner announcements
+                    // festival host start questions (Event.setUpFestivalMainEvent: hostMessageKey); only the question,
+                    // the yes/no answers are the player's
+                    foreach (var k in new[] { "1521", "1524", "1527", "1531", "1535", "1548" })
+                        if (Sheet(CS).TryGetValue($"Event.cs.{k}", out var hostQ) && Regex.Match(hostQ, @"\$q[^#]*#([^#]+)") is Match hm && hm.Success)
+                            Emit(CS, $"Event.cs.{k}", hm.Groups[1].Value);
                     // wedding speech (Data/Weddings → [LocalizedText Strings\StringsFromCSFiles:Utility.cs.53xx])
                     foreach (var k in new[] { "5367", "5369", "5370", "5371", "5373", "5375", "5377", "5379", "5381", "5383" })
                         Emit(CS, $"Utility.cs.{k}");
@@ -265,24 +270,40 @@ namespace VoiceOverFrameworkMod
         private IEnumerable<VoiceEntryTemplate> BuildFromQuestionPreambles(string characterName, string languageCode, IGameContentHelper content, ref int entryNumber, string ext)
         {
             var outList = new List<VoiceEntryTemplate>();
-            Dictionary<string, string> sheet = null;
-            try { sheet = content.Load<Dictionary<string, string>>($"Characters/Dialogue/{characterName}{AssetLangSuffix(languageCode)}"); }
-            catch (ContentLoadException) { }
-            if (sheet == null) return outList;
             int n = entryNumber;
-            foreach (var kv in sheet)
+            // the NPC's own sheet, and their lines in Data/ExtraDialogue (<Name>_…, e.g. Morris_BuyMovieTheater)
+            var sources = new List<(string asset, Func<string, bool> owns)>
             {
-                string raw = kv.Value ?? string.Empty;
-                foreach (string chunk in raw.Split(new[] { "#$e#" }, StringSplitOptions.None))
+                ($"Characters/Dialogue/{characterName}", k => true),
+                ("Data/ExtraDialogue", k => k.StartsWith(characterName + "_", StringComparison.Ordinal)),
+            };
+            foreach (var (asset, owns) in sources)
+            {
+                Dictionary<string, string> sheet = null;
+                try { sheet = content.Load<Dictionary<string, string>>(asset + AssetLangSuffix(languageCode)); }
+                catch (ContentLoadException) { }
+                if (sheet == null) continue;
+                foreach (var kv in sheet)
                 {
-                    int q = chunk.IndexOf("#$q", StringComparison.Ordinal);
-                    if (q <= 0) continue;
-                    string preamble = chunk.Substring(0, q);
-                    if (preamble.EndsWith("#$b", StringComparison.Ordinal)) preamble = preamble.Substring(0, preamble.Length - 3);
-                    if (string.IsNullOrWhiteSpace(preamble)) continue;
-                    string key = kv.Key.Trim();
-                    foreach (var seg in DialogueUtil.SplitAndSanitize(preamble, splitBAsPage: true))
-                        outList.Add(MakeEntry(characterName, languageCode, ext, ref n, key, $"Characters/Dialogue/{characterName}:{key}", 50 + seg.PageIndex, seg));
+                    string key = kv.Key?.Trim();
+                    if (string.IsNullOrEmpty(key) || !owns(key)) continue;
+                    foreach (string chunk in (kv.Value ?? string.Empty).Split(new[] { "#$e#" }, StringSplitOptions.None))
+                    {
+                        int q = chunk.IndexOf("#$q", StringComparison.Ordinal);
+                        if (q <= 0) continue;
+                        string preamble = chunk.Substring(0, q);
+                        if (preamble.EndsWith("#$b", StringComparison.Ordinal)) preamble = preamble.Substring(0, preamble.Length - 3);
+                        var texts = new List<string>();
+                        if (!string.IsNullOrWhiteSpace(preamble)) texts.Add(preamble);
+                        // the question itself ("$q <ids>#<question>#$r…"); usually already in the pack, then the
+                        // merge skips it as a duplicate
+                        string[] after = chunk.Substring(q + 1).Split('#');
+                        if (after.Length > 1 && !after[1].StartsWith("$")) texts.Add(after[1]);
+                        int page = 50;
+                        foreach (string t in texts)
+                            foreach (var seg in DialogueUtil.SplitAndSanitize(t, splitBAsPage: true))
+                                outList.Add(MakeEntry(characterName, languageCode, ext, ref n, key, $"{asset}:{key}", page++, seg));
+                    }
                 }
             }
             entryNumber = n;

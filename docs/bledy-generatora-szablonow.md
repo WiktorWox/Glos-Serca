@@ -54,6 +54,12 @@ Przyczyna: generator najpierw dzieli kwestię na części po `#$e#`, a potem z c
 
 Naprawa: nowe źródło generatora `BuildFromQuestionPreambles` (na końcu, bez przesuwania numeracji) dopisuje zgubione zdanie jako kolejną stronę tej samej kwestii. Do paczek doszło 15 wpisów (dwie kwestie mają wersje płci) w 9 postaciach; listy w `VoiceSources/<postać>/<postać>_wspolne_teksty.txt`. Sprawdzone w grze: Abigail `Sun2`, zdanie o cmentarzu gra po kluczu (strona 6). Wpisy z odpowiedziami gracza zostawione bez zmian.
 
+Ostrzejsza odmiana: gdy przed pytaniem stoi `#$b#`, generator zamienia go na nową linię, więc `$q` trafia do środka tego samego kawałka co zdanie, funkcja od pytań go nie rozpoznaje i gubi zarówno zdanie, jak i samo pytanie; zostają tylko odpowiedzi gracza. Tak było z ofertą kina u Morrisa (w paczce były tylko „Tak” i „Nie”), dwoma jego powitaniami z reklamą członkostwa i pytaniem Alexa `summer_Wed`. Źródło `BuildFromQuestionPreambles` dodaje teraz także samo pytanie, gdy go brakuje, i obejmuje kwestie postaci z `Data/ExtraDialogue` (6 wpisów).
+
+Przy okazji: pytania Lewisa jako gospodarza festiwali („Powinniśmy zacząć?”, 6 kwestii, `Event.cs.1521–1548`) generator w ogóle pomijał; są teraz w regułach `BuildFromSharedGameStrings` (tylko pytanie, bez odpowiedzi gracza).
+
+Kontrola po naprawie: każde zdanie przed pytaniem i każde pytanie z plików dialogów, `Data/ExtraDialogue` i `Strings/*` jest w paczkach (wydarzenia i festiwale liczone osobno, poprawnie).
+
 ## Co zmieniono 20 listopada
 
 - Generator: `RxStripTokens` wymaga `%` i zna `%year`; `RxLeadingNarr` nie zdejmuje `%` sprzed znacznika gry. Przeliczone 331 wzorce i 11 tekstów dla aktorów (z nich nagrane: Abigail 377, Leah 286, Shane 171 – aktor mógł przeczytać „kid1” dosłownie).

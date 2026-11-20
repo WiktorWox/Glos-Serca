@@ -4925,6 +4925,14 @@
           "PageIndex": 4,
           "DisplayPattern": "Hej farmerko, mam do Ciebie pytanie.",
           "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Myślisz, że kiedykolwiek zostanę profesjonalistą?",
+          "AudioPath": "assets/pl/Alex/606.ogg",
+          "TranslationKey": "Characters/Dialogue/Alex:summer_Wed",
+          "PageIndex": 5,
+          "DisplayPattern": "Myślisz, że kiedykolwiek zostanę profesjonalistą?"
         }
       ]
     }

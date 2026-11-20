@@ -213,3 +213,10 @@ DialogueFrom: Characters/Dialogue/Alex:summer_Wed  [zdanie przed pytaniem]
 DialogueText: Hej farmerko, mam do Ciebie pytanie.
 AudioName: 605_female.ogg
 --------------------------------------------------
+
+Pytanie albo zdanie przed nim (generator gubił je, gdy przed pytaniem stało #$b#):
+
+DialogueFrom: Characters/Dialogue/Alex:summer_Wed  [pytanie / zdanie przed pytaniem]
+DialogueText: Myślisz, że kiedykolwiek zostanę profesjonalistą?
+AudioName: 606.ogg
+--------------------------------------------------

@@ -3333,6 +3333,54 @@
           "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
           "PageIndex": 12,
           "DisplayPattern": "A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa."
+        },
+        {
+          "DialogueFrom": "Event.cs.1521",
+          "DialogueText": "Myślisz, że wszyscy są gotowi na polowanie?",
+          "AudioPath": "assets/pl/Lewis/413.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1521",
+          "PageIndex": 0,
+          "DisplayPattern": "Myślisz, że wszyscy są gotowi na polowanie?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1524",
+          "DialogueText": "Powinniśmy zacząć?",
+          "AudioPath": "assets/pl/Lewis/414.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1524",
+          "PageIndex": 0,
+          "DisplayPattern": "Powinniśmy zacząć?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1527",
+          "DialogueText": "Powinniśmy zacząć Luau? Gubernator chyba zgłodniał.",
+          "AudioPath": "assets/pl/Lewis/415.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1527",
+          "PageIndex": 0,
+          "DisplayPattern": "Powinniśmy zacząć Luau? Gubernator chyba zgłodniał."
+        },
+        {
+          "DialogueFrom": "Event.cs.1531",
+          "DialogueText": "Jak myślisz... mogę już wypuścić łódkę?",
+          "AudioPath": "assets/pl/Lewis/416.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1531",
+          "PageIndex": 0,
+          "DisplayPattern": "Jak myślisz... mogę już wypuścić łódkę?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1535",
+          "DialogueText": "Och... Twoja wystawa już jest przygotowana?",
+          "AudioPath": "assets/pl/Lewis/417.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1535",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... Twoja wystawa już jest przygotowana?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1548",
+          "DialogueText": "Możemy zacząć zawody w łowieniu ryb?",
+          "AudioPath": "assets/pl/Lewis/418.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1548",
+          "PageIndex": 0,
+          "DisplayPattern": "Możemy zacząć zawody w łowieniu ryb?"
         }
       ]
     }
