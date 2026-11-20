@@ -1397,6 +1397,175 @@
           "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
           "PageIndex": 0,
           "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude",
+          "DialogueText": "Z ostatnich zakupów mam {1} {2}, które było na promocji za {3} monet.",
+          "AudioPath": "assets/pl/George/193.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude",
+          "DialogueText": "Było dosyć {4}.",
+          "AudioPath": "assets/pl/George/194.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude",
+          "DialogueText": "Z ostatnich zakupów mam {1} {2}. Było na przecenie i kosztowało {3} monet.",
+          "AudioPath": "assets/pl/George/195.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude",
+          "DialogueText": "To było {4}! Nie dziwota, że Pierre sprzedawał ten {5} za taką taniochę...",
+          "AudioPath": "assets/pl/George/196.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/George/197.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "W sumie było {4}.",
+          "AudioPath": "assets/pl/George/198.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na 'pomyjowej' promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/George/199.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "To było {4}! Nie dziwota, że Willy praktycznie rozdawał ten {5}...",
+          "AudioPath": "assets/pl/George/200.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "Saloon_goodEvent_0",
+          "DialogueText": "Punkt!!",
+          "AudioPath": "assets/pl/George/201.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_goodEvent_0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_goodEvent_1",
+          "DialogueText": "Łooo!",
+          "AudioPath": "assets/pl/George/202.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_goodEvent_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_goodEvent_2",
+          "DialogueText": "Zagranie!",
+          "AudioPath": "assets/pl/George/203.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_goodEvent_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_goodEvent_3",
+          "DialogueText": "TAK!",
+          "AudioPath": "assets/pl/George/204.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_goodEvent_3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_goodEvent_4",
+          "DialogueText": "Dobra robota!",
+          "AudioPath": "assets/pl/George/205.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_goodEvent_4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_badEvent_0",
+          "DialogueText": "Arrgh!",
+          "AudioPath": "assets/pl/George/206.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_badEvent_0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_badEvent_1",
+          "DialogueText": "Niee!",
+          "AudioPath": "assets/pl/George/207.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_badEvent_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_badEvent_2",
+          "DialogueText": "Buuu!",
+          "AudioPath": "assets/pl/George/208.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_badEvent_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_badEvent_3",
+          "DialogueText": "Ugh",
+          "AudioPath": "assets/pl/George/209.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_badEvent_3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_badEvent_4",
+          "DialogueText": "O nie.",
+          "AudioPath": "assets/pl/George/210.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_badEvent_4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_neutralEvent_0",
+          "DialogueText": "No weź...",
+          "AudioPath": "assets/pl/George/211.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_neutralEvent_0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_neutralEvent_1",
+          "DialogueText": "Tak blisko!",
+          "AudioPath": "assets/pl/George/212.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_neutralEvent_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_neutralEvent_2",
+          "DialogueText": "Dawaj!",
+          "AudioPath": "assets/pl/George/213.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_neutralEvent_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_neutralEvent_3",
+          "DialogueText": "Podaj!",
+          "AudioPath": "assets/pl/George/214.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_neutralEvent_3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_neutralEvent_4",
+          "DialogueText": "Dalej!",
+          "AudioPath": "assets/pl/George/215.ogg",
+          "TranslationKey": "Strings/Characters:Saloon_neutralEvent_4",
+          "PageIndex": 0
         }
       ]
     }

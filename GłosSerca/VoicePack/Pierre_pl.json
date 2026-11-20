@@ -1525,36 +1525,6 @@
           "PageIndex": 2
         },
         {
-          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy",
-          "DialogueText": "Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...",
-          "AudioPath": "assets/pl/Pierre/211.ogg",
-          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityLow_Willy",
-          "PageIndex": 0,
-          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
-        },
-        {
-          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy",
-          "DialogueText": "To była najbardziej żylasta ryba jaką kiedykolwiek jadłem... {Portrait:Sad}",
-          "AudioPath": "assets/pl/Pierre/212.ogg",
-          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityLow_Willy",
-          "PageIndex": 1
-        },
-        {
-          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy",
-          "DialogueText": "Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...",
-          "AudioPath": "assets/pl/Pierre/213.ogg",
-          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityHigh_Willy",
-          "PageIndex": 0,
-          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
-        },
-        {
-          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy",
-          "DialogueText": "To była najwspanialsza ryba jaką kiedykolwiek jadłem! {Portrait:Happy}",
-          "AudioPath": "assets/pl/Pierre/214.ogg",
-          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityHigh_Willy",
-          "PageIndex": 1
-        },
-        {
           "DialogueFrom": "MovieReactions/Pierre_love_BeforeMovie",
           "DialogueText": "Dorastałem oglądając stare filmy sci-fi, więc chciałbym zobaczyć jak teraz je robią.",
           "AudioPath": "assets/pl/Pierre/215.ogg",
@@ -2067,6 +2037,135 @@
           "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
           "PageIndex": 0,
           "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Pierre/285.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Powiedział, że kupił ją od Ciebie!",
+          "AudioPath": "assets/pl/Pierre/286.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Obiad był z tego... em, uch... Przepełnił dom {3} smrodem. Nawet nie chcę wiedzieć skąd to masz... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pierre/287.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Pierre/288.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Pierre/289.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Wyglądało na świeże!",
+          "AudioPath": "assets/pl/Pierre/290.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Po ugotowaniu cały dam pachniał {3}.. Hit! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/291.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Powiedział, że kupił ją od Ciebie... Gratuluję!",
+          "AudioPath": "assets/pl/Pierre/292.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Pierre/293.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Pierre/294.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Bardzo dobra jakość. Gratuluję.",
+          "AudioPath": "assets/pl/Pierre/295.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Pierre/296.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Trochę śmierdziało, ale było w porządku.",
+          "AudioPath": "assets/pl/Pierre/297.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Wczoraj na zakupach udało mi się wyhaczyć {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Pierre/298.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Nie można było przegapić takiej okazji.",
+          "AudioPath": "assets/pl/Pierre/299.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Wczoraj Willy mi sprzedał {1} {2}, które od Ciebie kupił.",
+          "AudioPath": "assets/pl/Pierre/300.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Obiad z tego z dodatkiem cytryny i z pilawem ryżowym był nawet dobry! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/301.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 1
         }
       ]
     }

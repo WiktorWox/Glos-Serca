@@ -4726,6 +4726,38 @@
           "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
           "PageIndex": 0,
           "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Abigail/656.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "W sumie było {4}.",
+          "AudioPath": "assets/pl/Abigail/657.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na 'pomyjowej' promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Abigail/658.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "To było {4}! Nie dziwota, że Willy praktycznie rozdawał ten {5}...",
+          "AudioPath": "assets/pl/Abigail/659.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

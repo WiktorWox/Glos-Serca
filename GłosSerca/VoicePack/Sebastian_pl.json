@@ -4165,6 +4165,78 @@
           "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
           "PageIndex": 0,
           "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude",
+          "DialogueText": "Z ostatnich zakupów mam {1} {2}, które było na promocji za {3} monet.",
+          "AudioPath": "assets/pl/Sebastian/585.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude",
+          "DialogueText": "Było dosyć {4}.",
+          "AudioPath": "assets/pl/Sebastian/586.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude",
+          "DialogueText": "Z ostatnich zakupów mam {1} {2}. Było na przecenie i kosztowało {3} monet.",
+          "AudioPath": "assets/pl/Sebastian/587.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude",
+          "DialogueText": "To było {4}! Nie dziwota, że Pierre sprzedawał ten {5} za taką taniochę...",
+          "AudioPath": "assets/pl/Sebastian/588.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_Teen",
+          "DialogueText": "Hej, mam tutaj {2} ze sklepu. Moja mama chciała coś dobrego na obiad.",
+          "AudioPath": "assets/pl/Sebastian/589.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Teen",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Sebastian/590.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "W sumie było {4}.",
+          "AudioPath": "assets/pl/Sebastian/591.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na 'pomyjowej' promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Sebastian/592.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "To było {4}! Nie dziwota, że Willy praktycznie rozdawał ten {5}...",
+          "AudioPath": "assets/pl/Sebastian/593.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
         }
       ]
     }

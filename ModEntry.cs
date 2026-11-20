@@ -677,6 +677,10 @@ namespace VoiceOverFrameworkMod
 
                         if (!isMatch)
                             continue;
+                        // comments on sold items: the name in the key is the shop or the speaker, not who says it
+                        // (BuildFromPurchasedItemComments decides that from the game's rules)
+                        if (key.StartsWith("PurchasedItem_", StringComparison.Ordinal))
+                            continue;
 
                         string sourceInfo = $"ExtraDialogue/{key}";
                         string tk = $"Data/ExtraDialogue:{key}";

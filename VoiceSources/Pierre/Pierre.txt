@@ -862,24 +862,6 @@ DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh
 DialogueText: ... Więc no... A co u Ciebie?
 AudioName: 210.ogg
 --------------------------------------------------
-DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy
-DialogueText: Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...
-Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
-AudioName: 211.ogg
---------------------------------------------------
-DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy
-DialogueText: To była najbardziej żylasta ryba jaką kiedykolwiek jadłem... {Portrait:Sad}
-AudioName: 212.ogg
---------------------------------------------------
-DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy
-DialogueText: Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...
-Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
-AudioName: 213.ogg
---------------------------------------------------
-DialogueFrom: ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy
-DialogueText: To była najwspanialsza ryba jaką kiedykolwiek jadłem! {Portrait:Happy}
-AudioName: 214.ogg
---------------------------------------------------
 DialogueFrom: MovieReactions/Pierre_love_BeforeMovie
 DialogueText: Dorastałem oglądając stare filmy sci-fi, więc chciałbym zobaczyć jak teraz je robią.
 AudioName: 215.ogg

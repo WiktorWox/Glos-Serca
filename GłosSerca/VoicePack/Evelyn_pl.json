@@ -1273,6 +1273,295 @@
           "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
           "PageIndex": 0,
           "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/179.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Evelyn/180.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Po ugotowaniu, cały dom śmierdział {3}... Nawet nie chcę wiedzieć skąd Pierre znalazł coś takiego. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/181.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Evelyn/182.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/183.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Evelyn/184.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Po ugotowaniu, cały dom pachniał {3}... Mówię Ci, strzał w dziesiątkę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/185.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cieszę się, że magazyny Pierre znowu się rozwijają.",
+          "AudioPath": "assets/pl/Evelyn/186.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Evelyn/187.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}? Chyba ja to mam...",
+          "AudioPath": "assets/pl/Evelyn/188.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Było bardzo dobrej jakości. Podziwiam.",
+          "AudioPath": "assets/pl/Evelyn/189.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}?",
+          "AudioPath": "assets/pl/Evelyn/190.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Jakość była przyzwoita.",
+          "AudioPath": "assets/pl/Evelyn/191.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Na ostatnich zakupach Pierre pokazał mi {1} {2}. Chyba kupił to od Ciebie.",
+          "AudioPath": "assets/pl/Evelyn/192.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Jak od Ciebie, to biorę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/193.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Evelyn/194.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Powiedział, że wyhodował to w swoim ogródku. Nikt mi nie mówił, że Pierre jest takim utalentowanym rolnikiem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/195.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Chyba masz niezłego rywala, co?",
+          "AudioPath": "assets/pl/Evelyn/196.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Evelyn/197.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mówił, że sam to ugotował z lokalnych składników. Nikt nie powiedział, że Pierre to taki {3} {4} kucharz!",
+          "AudioPath": "assets/pl/Evelyn/198.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Foraged",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra. Powiedział, że sam to znalazł przeszukując góry. Nikt nie powiedział, że Pierre to taki dobry zbieracz!",
+          "AudioPath": "assets/pl/Evelyn/199.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Foraged",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/200.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Powiedział, że kupił ją od Ciebie!",
+          "AudioPath": "assets/pl/Evelyn/201.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Obiad był z tego... em, uch... Przepełnił dom {3} smrodem. Nawet nie chcę wiedzieć skąd to masz... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/202.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Evelyn/203.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/204.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Wyglądało na świeże!",
+          "AudioPath": "assets/pl/Evelyn/205.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Po ugotowaniu cały dam pachniał {3}.. Hit! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/206.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Powiedział, że kupił ją od Ciebie... Gratuluję!",
+          "AudioPath": "assets/pl/Evelyn/207.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Evelyn/208.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Evelyn/209.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Bardzo dobra jakość. Gratuluję.",
+          "AudioPath": "assets/pl/Evelyn/210.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Evelyn/211.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Trochę śmierdziało, ale było w porządku.",
+          "AudioPath": "assets/pl/Evelyn/212.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Wczoraj na zakupach udało mi się wyhaczyć {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Evelyn/213.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Nie można było przegapić takiej okazji.",
+          "AudioPath": "assets/pl/Evelyn/214.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Wczoraj Willy mi sprzedał {1} {2}, które od Ciebie kupił.",
+          "AudioPath": "assets/pl/Evelyn/215.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Obiad z tego z dodatkiem cytryny i z pilawem ryżowym był nawet dobry! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/216.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 1
         }
       ]
     }

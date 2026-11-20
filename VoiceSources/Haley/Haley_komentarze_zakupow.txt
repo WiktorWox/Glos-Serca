@@ -1,0 +1,23 @@
+Komentarze o przedmiocie, który gracz sprzedał w sklepie, dodane 20 listopada 2026.
+Następnego dnia losowy mieszkaniec mówi, że kupił ten przedmiot u Pierre'a albo u Willy'ego (klucze z „_Willy” na końcu). {0} to imię gracza albo „farmer”, {2} nazwa przedmiotu, {1}, {3}… inne wstawiane słowa – aktor ich nie czyta.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 620.ogg).
+
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy
+DialogueText: U Williego był {1} {2} na promocji za jedyne {3} monet.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 620.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy (strona 2)
+DialogueText: W sumie było {4}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 621.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy
+DialogueText: U Williego był {1} {2} na 'pomyjowej' promocji za jedyne {3} monet.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 622.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy (strona 2)
+DialogueText: To było {4}! Nie dziwota, że Willy praktycznie rozdawał ten {5}...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 623.ogg
