@@ -2241,6 +2241,102 @@
           "TranslationKey": "Data/Quests:122",
           "PageIndex": 0,
           "DisplayPattern": "Hej, to baterie, które chciałam! Dzięki, dzieciaku... Ratujesz mi życie!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/277.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/278.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/279.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4274",
+          "DialogueText": "Pamiętasz o moich urodzinach? Jestem pod wrażeniem. Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/280.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4274",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętasz o moich urodzinach? Jestem pod wrażeniem. Dzięki."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4276",
+          "DialogueText": "Och, dziś są moje urodziny? Chyba tak. Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/281.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4276",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, dziś są moje urodziny? Chyba tak. Dzięki."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4278",
+          "DialogueText": "Są moje urodziny i dajesz mi to? Czy to jest jakiś żart? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/282.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4278",
+          "PageIndex": 0,
+          "DisplayPattern": "Są moje urodziny i dajesz mi to? Czy to jest jakiś żart?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4280",
+          "DialogueText": "Na moje urodziny? Dzięki.",
+          "AudioPath": "assets/pl/Pam/283.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4280",
+          "PageIndex": 0,
+          "DisplayPattern": "Na moje urodziny? Dzięki."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Pam/284.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Pam/285.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Pam/286.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Pam/287.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Pam/288.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
         }
       ]
     }

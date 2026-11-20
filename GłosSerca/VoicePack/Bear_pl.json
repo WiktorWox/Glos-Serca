@@ -79,6 +79,54 @@
           "TranslationKey": "Events/Woods:2120303:s8",
           "PageIndex": 0,
           "DisplayPattern": "Maliny i Jeżyny są teraz warte 3x więcej monet!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Bear",
+          "DialogueText": "*niuch* *niuch* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Bear/10.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch* *niuch*"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Bear",
+          "DialogueText": "HoOoOoOoOoO! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Bear/11.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
+          "PageIndex": 1,
+          "DisplayPattern": "HoOoOoOoOoO!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Bear",
+          "DialogueText": "... Czy to ty?",
+          "AudioPath": "assets/pl/Bear/12.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
+          "PageIndex": 2,
+          "DisplayPattern": "... Czy to ty?"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Bear",
+          "DialogueText": "*chrząknięcie*... Nadal mam ten dobry towar od Ciebie, przyjacielu.",
+          "AudioPath": "assets/pl/Bear/13.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
+          "PageIndex": 3,
+          "DisplayPattern": "*chrząknięcie*... Nadal mam ten dobry towar od Ciebie, przyjacielu."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Bear",
+          "DialogueText": "Dzięki niemu jestem bardzo, bardzo szczęśliwy. *parsknięcie* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Bear/14.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
+          "PageIndex": 4,
+          "DisplayPattern": "Dzięki niemu jestem bardzo, bardzo szczęśliwy. *parsknięcie*"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Bear",
+          "DialogueText": "Chciałem podziękować... pa pa przyjacielu. *klik*",
+          "AudioPath": "assets/pl/Bear/15.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Bear",
+          "PageIndex": 5,
+          "DisplayPattern": "Chciałem podziękować... pa pa przyjacielu. *klik*"
         }
       ]
     }

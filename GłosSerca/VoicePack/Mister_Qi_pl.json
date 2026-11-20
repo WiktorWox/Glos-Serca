@@ -243,6 +243,62 @@
           "TranslationKey": "Characters/Dialogue/Mister Qi:QiNutRoom_Sun",
           "PageIndex": 2,
           "DisplayPattern": "Powodzenia, dzieciaku."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "No, no, no... Patrzcie, kto dostał się do mojego ekskluzywnego klubu.",
+          "AudioPath": "assets/pl/Mister Qi/30.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 0,
+          "DisplayPattern": "No, no, no... Patrzcie, kto dostał się do mojego ekskluzywnego klubu."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "Masz w sobie tę 'iskrę'... Dlatego wybrałem właśnie Ciebie.",
+          "AudioPath": "assets/pl/Mister Qi/31.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 1,
+          "DisplayPattern": "Masz w sobie tę 'iskrę'... Dlatego wybrałem właśnie Ciebie."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "Jaką iskrę? Ach... Tajemnice, sztukę...",
+          "AudioPath": "assets/pl/Mister Qi/32.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 2,
+          "DisplayPattern": "Jaką iskrę? Ach... Tajemnice, sztukę..."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "Osoby takie jak my, są odpowiedzialne za utrzymywanie całego świata, dają ludziom posmakować czegoś niezwykłego.",
+          "AudioPath": "assets/pl/Mister Qi/33.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 3,
+          "DisplayPattern": "Osoby takie jak my, są odpowiedzialne za utrzymywanie całego świata, dają ludziom posmakować czegoś niezwykłego."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "Widzisz... Świat jest jak miska ryżu. Ma w sobie substancję, ale jest nic nie wart bez dobrego, ostrego sosu. I tu my wkraczamy.",
+          "AudioPath": "assets/pl/Mister Qi/34.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 4,
+          "DisplayPattern": "Widzisz... Świat jest jak miska ryżu. Ma w sobie substancję, ale jest nic nie wart bez dobrego, ostrego sosu. I tu my wkraczamy."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "Nie zastanawiało Cię, kto umieścił te wszystkie skrzynie w starych kopalniach? Lubię zaskakiwać.",
+          "AudioPath": "assets/pl/Mister Qi/35.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 5,
+          "DisplayPattern": "Nie zastanawiało Cię, kto umieścił te wszystkie skrzynie w starych kopalniach? Lubię zaskakiwać."
+        },
+        {
+          "DialogueFrom": "MisterQi_PlayerClubMember",
+          "DialogueText": "Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj.",
+          "AudioPath": "assets/pl/Mister Qi/36.ogg",
+          "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
+          "PageIndex": 6,
+          "DisplayPattern": "Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj."
         }
       ]
     }

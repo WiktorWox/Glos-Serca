@@ -855,6 +855,110 @@
           "TranslationKey": "Strings/schedules/Vincent:spring_11.000",
           "PageIndex": 0,
           "DisplayPattern": "*chlip*... Muszę dostać zastrzyk."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Vincent",
+          "DialogueText": "Halo?",
+          "AudioPath": "assets/pl/Vincent/106.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Vincent",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo?"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Vincent",
+          "DialogueText": "Em... Uhhh... Tu Vincent. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Vincent/107.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Vincent",
+          "PageIndex": 1,
+          "DisplayPattern": "Em... Uhhh... Tu Vincent."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Vincent",
+          "DialogueText": "Um... masz na swojej farmie jakieś świnki? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Vincent/108.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Vincent",
+          "PageIndex": 3,
+          "DisplayPattern": "Um... masz na swojej ie jakieś świnki?"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Vincent",
+          "DialogueText": "Ok, muszę iść! *klik* {Portrait:Unique}",
+          "AudioPath": "assets/pl/Vincent/109.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Vincent",
+          "PageIndex": 5,
+          "DisplayPattern": "Ok, muszę iść! *klik*"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Vincent/110.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Vincent/111.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Child",
+          "DialogueText": "Fuu... Co ty robisz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Vincent/112.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Fuu... Co ty robisz?"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited_Child",
+          "DialogueText": "Film? Jej! Spotkajmy się na miejscu!",
+          "AudioPath": "assets/pl/Vincent/113.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Film? Jej! Spotkajmy się na miejscu!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject_Child",
+          "DialogueText": "Chyba nie mogę tego oglądać...",
+          "AudioPath": "assets/pl/Vincent/114.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Chyba nie mogę tego oglądać..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Vincent/115.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Vincent/116.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Vincent/117.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Vincent/118.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
         }
       ]
     }

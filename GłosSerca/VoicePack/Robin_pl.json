@@ -2089,6 +2089,256 @@
           "TranslationKey": "Data/Quests:113",
           "PageIndex": 1,
           "DisplayPattern": "Mmhmm... To drewno jest idealne. Właśnie takiego mi było trzeba. Dzięki!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3926",
+          "DialogueText": "Cierpliwości, przede mną jeszcze dużo roboty.",
+          "AudioPath": "assets/pl/Robin/259.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3926",
+          "PageIndex": 0,
+          "DisplayPattern": "Cierpliwości, przede mną jeszcze dużo roboty."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3927",
+          "DialogueText": "Twój dom powinien być gotowy jutro.",
+          "AudioPath": "assets/pl/Robin/260.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3927",
+          "PageIndex": 0,
+          "DisplayPattern": "Twój dom powinien być gotowy jutro."
+        },
+        {
+          "DialogueFrom": "ScienceHouse_Carpenter_UpgradeHouse1",
+          "DialogueText": "Mogę powiększyć Twój dom i dodać kuchnię. Będzie to kosztować 10,000 monet i potrzebuję jeszcze 450 drewna. Co o tym myślisz?",
+          "AudioPath": "assets/pl/Robin/261.ogg",
+          "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse1",
+          "PageIndex": 0,
+          "DisplayPattern": "Mogę powiększyć Twój dom i dodać kuchnię. Będzie to kosztować 10,000 monet i potrzebuję jeszcze 450 drewna. Co o tym myślisz?"
+        },
+        {
+          "DialogueFrom": "ScienceHouse_Carpenter_UpgradeHouse2",
+          "DialogueText": "Mogę powiększyć Twój dom i dodać kojec. Będzie to kosztować 65,000 monet i potrzebuję jeszcze 100 twardego drewna. Co o tym myślisz?",
+          "AudioPath": "assets/pl/Robin/262.ogg",
+          "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse2",
+          "PageIndex": 0,
+          "DisplayPattern": "Mogę powiększyć Twój dom i dodać kojec. Będzie to kosztować 65,000 monet i potrzebuję jeszcze 100 twardego drewna. Co o tym myślisz?"
+        },
+        {
+          "DialogueFrom": "ScienceHouse_Carpenter_UpgradeHouse3",
+          "DialogueText": "Mogę dodać piwnicę do twojego domu. Dzięki piwnicy możesz sprawić, że niektóre produkty będą się starzeć: na przykład wino lub sery. To Cię będzie kosztować 100,000 monet. Co o tym myślisz?",
+          "AudioPath": "assets/pl/Robin/263.ogg",
+          "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse3",
+          "PageIndex": 0,
+          "DisplayPattern": "Mogę dodać piwnicę do twojego domu. Dzięki piwnicy możesz sprawić, że niektóre produkty będą się starzeć: na przykład wino lub sery. To Cię będzie kosztować 100,000 monet. Co o tym myślisz?"
+        },
+        {
+          "DialogueFrom": "ScienceHouse_Carpenter_CommunityUpgrade1",
+          "DialogueText": "... Co to? Chcesz wybudować dom dla Pam? To wspaniały pomysł! Będę potrzebowała 950 drewna i 500,000 monet...",
+          "AudioPath": "assets/pl/Robin/264.ogg",
+          "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_CommunityUpgrade1",
+          "PageIndex": 0,
+          "DisplayPattern": "... Co to? Chcesz wybudować dom dla Pam? To wspaniały pomysł! Będę potrzebowała 950 drewna i 500,000 monet..."
+        },
+        {
+          "DialogueFrom": "ScienceHouse_Carpenter_CommunityUpgrade2",
+          "DialogueText": "... Co? Chcesz, żebym dodała kilka skrótów w dolinie? Pewnie, da się zrobić! Będę potrzebowała tylko 300,000 monet...",
+          "AudioPath": "assets/pl/Robin/265.ogg",
+          "TranslationKey": "Strings/Locations:ScienceHouse_Carpenter_CommunityUpgrade2",
+          "PageIndex": 0,
+          "DisplayPattern": "... Co? Chcesz, żebym dodała kilka skrótów w dolinie? Pewnie, da się zrobić! Będę potrzebowała tylko 300,000 monet..."
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Workout",
+          "DialogueText": "Hej, tu Robin. Jestem poza domem na cotygodniowym aerobiku... wybacz! *biip*",
+          "AudioPath": "assets/pl/Robin/266.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Workout",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, tu Robin. Jestem poza domem na cotygodniowym aerobiku... wybacz! *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Working_OneDay",
+          "DialogueText": "Hej, tu Robin. Będę poza domem do jutra, kończę pewien projekt. *biip*",
+          "AudioPath": "assets/pl/Robin/267.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Working_OneDay",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, tu Robin. Będę poza domem do jutra, kończę pewien projekt. *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Working",
+          "DialogueText": "Hej, tu Robin. Jestem zajęta projektem na parę dni.. *biip*",
+          "AudioPath": "assets/pl/Robin/268.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Working",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, tu Robin. Jestem zajęta projektem na parę dni.. *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Festival",
+          "DialogueText": "Hej, tu Robin. Dzisiaj mam wolne. Przepraszam za niedogodności! *biip*",
+          "AudioPath": "assets/pl/Robin/269.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Festival",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, tu Robin. Dzisiaj mam wolne. Przepraszam za niedogodności! *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Open",
+          "DialogueText": "Halo? Hej! Tak, jeszcze pracuję... przyjdź przed 17 jeśli czegoś potrzebujesz! *klik* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Robin/270.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Open",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo? Hej! Tak, jeszcze pracuję... przyjdź przed 17 jeśli czegoś potrzebujesz! *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Open_Rare",
+          "DialogueText": "Halo? O, cześć {Farmer_Name}! *HUK*... Em, momencik... (Stłumiony Głos: Kochanie, Mógłbyś zamknąć drzwi? Pracuję.)... Przepraszam! Tak, dzisiaj pracuję do 17. Do zobaczenia! *klik*",
+          "AudioPath": "assets/pl/Robin/271.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Open_Rare",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo? O, cześć ! *HUK*... Em, momencik... (Stłumiony Głos: Kochanie, Mógłbyś zamknąć drzwi? Pracuję.)... Przepraszam! Tak, dzisiaj pracuję do 17. Do zobaczenia! *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Robin_Closed",
+          "DialogueText": "Hej, tu Robin. Moje godziny pracy są od 9 do 17. Proszę przyjść w tym czasie, jeśli czegoś potrzebujesz! *biip*",
+          "AudioPath": "assets/pl/Robin/272.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Robin_Closed",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, tu Robin. Moje godziny pracy są od 9 do 17. Proszę przyjść w tym czasie, jeśli czegoś potrzebujesz! *biip*"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Robin/273.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Robin/274.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Robin/275.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4275",
+          "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Robin/276.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
+          "PageIndex": 0,
+          "DisplayPattern": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Robin/277_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Robin/278_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 1,
+          "DisplayPattern": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4279",
+          "DialogueText": "Och... To na moje urodziny?... Dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Robin/279.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... To na moje urodziny?... Dzięki."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4281",
+          "DialogueText": "Och, urodzinowy prezent! Dzięki.",
+          "AudioPath": "assets/pl/Robin/280.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, urodzinowy prezent! Dzięki."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Robin/281.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Robin/282.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Robin/283.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Robin/284.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Robin/285.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
+        },
+        {
+          "DialogueFrom": "Shop_Carpenter",
+          "DialogueText": "Potrzeba materiałów do konstrukcji? A może trzeba Ci mebli?",
+          "AudioPath": "assets/pl/Robin/286.ogg",
+          "TranslationKey": "Data/Shops:Carpenter:Default",
+          "PageIndex": 0,
+          "DisplayPattern": "Potrzeba materiałów do konstrukcji? A może trzeba Ci mebli?"
+        },
+        {
+          "DialogueFrom": "Shop_Carpenter",
+          "DialogueText": "Mam wiele własnoręcznie robionych mebli.",
+          "AudioPath": "assets/pl/Robin/287.ogg",
+          "TranslationKey": "Data/Shops:Carpenter:Default",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam wiele własnoręcznie robionych mebli."
+        },
+        {
+          "DialogueFrom": "Shop_Carpenter",
+          "DialogueText": "Mam dobrej jakości meble na sprzedaż.",
+          "AudioPath": "assets/pl/Robin/288.ogg",
+          "TranslationKey": "Data/Shops:Carpenter:Default",
+          "PageIndex": 2,
+          "DisplayPattern": "Mam dobrej jakości meble na sprzedaż."
+        },
+        {
+          "DialogueFrom": "Shop_Carpenter",
+          "DialogueText": "Masz na sprzedaż jakieś materiały budowlane?",
+          "AudioPath": "assets/pl/Robin/289.ogg",
+          "TranslationKey": "Data/Shops:Carpenter:Default",
+          "PageIndex": 3,
+          "DisplayPattern": "Masz na sprzedaż jakieś materiały budowlane?"
         }
       ]
     }

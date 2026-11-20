@@ -1,0 +1,188 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 536.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 536.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 537.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Teen  [okrzyk w dymku nad głową]
+DialogueText: Em... Czemu grzebiesz w śmieciach? {Portrait:Sad}
+AudioName: 538.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Invited_Rude  [zaproszenie do kina]
+DialogueText: Film? Pewnie, obojętne, może być. Zobaczymy się na miejscu...
+AudioName: 539.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 540.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 541.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 542.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Spouse_Sebastian  [zaproszenie do kina]
+DialogueText: Och, chcesz iść na film? Brzmi nieźle. Widzimy się na miejscu. {Portrait:Happy}
+AudioName: 543.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3958  [bukiet]
+DialogueText: ... Nie znam Cię tak dobrze... {Portrait:Sad}
+AudioName: 544.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3959  [bukiet]
+DialogueText: Uch... Niezręcznie. Słuchaj, Nie znam Cię na tyle dobrze... {Portrait:Sad}
+AudioName: 545.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3960  [bukiet]
+DialogueText: Nie wiem. Uch... Wybacz. Nie. {Portrait:Sad}
+AudioName: 546.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3961  [bukiet]
+DialogueText: ... Nie wiem. Uch... Wybacz. Nie. {Portrait:Sad}
+AudioName: 547.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3962  [bukiet]
+DialogueText: ...!! Przyjmuję to. Dziękuję. {Portrait:Love}
+AudioName: 548.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3962 (strona 2)  [bukiet]
+DialogueText: Cieszę się, że czujesz to samo. {Portrait:Love}
+AudioName: 549.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3963  [bukiet]
+DialogueText: ... Chcesz czegoś więcej? Czuję to samo. {Portrait:Love}
+AudioName: 550.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3963 (strona 2)  [bukiet]
+DialogueText: Trochę się denerwuję. A ty? {Portrait:Love}
+AudioName: 551.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Divorced_bouquet  [bukiet]
+DialogueText: To... Chcesz mnie zranić jeszcze bardziej? {Portrait:Sad}
+AudioName: 552.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Divorced_gift  [po rozwodzie]
+DialogueText: Nie chcę twojego prezentu. {Portrait:Angry}
+AudioName: 553.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:WipedMemory  [po rozwodzie]
+DialogueText: To ty jesteś nowym farmerem, prawda?
+AudioName: 554_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:WipedMemory (strona 2)  [po rozwodzie]
+DialogueText: To ty jesteś nową farmerką, prawda?
+AudioName: 555_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:WipedMemory (strona 3)  [po rozwodzie]
+DialogueText: Wyglądasz jak... nie. Na pewno się nie widzieliśmy.
+AudioName: 556.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3967  [bukiet]
+DialogueText: Um, Nie jesteś już w związku?
+AudioName: 557.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3968  [bukiet]
+DialogueText: Jesteś już w związku, dziwaku! {Portrait:Sad}
+AudioName: 558.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3972  [wisior syreny / oświadczyny]
+DialogueText: Och!!... {Portrait:Love}
+AudioName: 559.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3972 (strona 2)  [wisior syreny / oświadczyny]
+DialogueText: {Farmer_Name}... Wybacz, ale nie. Nie chcę się z Tobą teraz wiązać. {Portrait:Sad}
+AudioName: 560.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3973  [wisior syreny / oświadczyny]
+DialogueText: !! Em... Wybacz, ale nie. Nie czuję do Ciebie tego samego... {Portrait:Sad}
+AudioName: 561.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3980  [wisior syreny / oświadczyny]
+DialogueText: ...!!! {Portrait:Love}
+AudioName: 562.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3980 (strona 2)  [wisior syreny / oświadczyny]
+DialogueText: Tak!! {Portrait:Happy}
+AudioName: 563.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3980 (strona 4)  [wisior syreny / oświadczyny]
+DialogueText: Zacznę przygotowania. Ceremonia odbędzie się za 3 dni, ok? {Portrait:Happy}
+AudioName: 564.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4001  [małżeństwo]
+DialogueText: Słońce... Chcę Ci dać ten owoc, jako symbol mojej miłości. {Portrait:Love}
+AudioName: 565.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4500  [małżeństwo]
+DialogueText: Nie łaska trochę tu posprzątać pod moją nieobecność? {Portrait:Angry}
+AudioName: 566.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4500 (strona 2)  [małżeństwo]
+DialogueText: To nie jest miłe po ciężkim dniu przekopywać się przez górę śmieci. {Portrait:Angry}
+AudioName: 567.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Spouse_MonstersInHouse  [małżeństwo]
+DialogueText: Em... Skarbie? Czemu w domu są potwory?
+AudioName: 568.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked1  [okrzyk w dymku nad głową]
+DialogueText: Co do...?
+AudioName: 569.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked2  [okrzyk w dymku nad głową]
+DialogueText: Ach!!
+AudioName: 570.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked3  [okrzyk w dymku nad głową]
+DialogueText: #!*#%*!
+AudioName: 571.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked4  [okrzyk w dymku nad głową]
+DialogueText: Ajjj!
+AudioName: 572.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked5  [okrzyk w dymku nad głową]
+DialogueText: Giń!
+AudioName: 573.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked6  [okrzyk w dymku nad głową]
+DialogueText: Won!
+AudioName: 574.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked7  [okrzyk w dymku nad głową]
+DialogueText: Fuj!
+AudioName: 575.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked8  [okrzyk w dymku nad głową]
+DialogueText: A masz!
+AudioName: 576.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked9  [okrzyk w dymku nad głową]
+DialogueText: Pomocy!
+AudioName: 577.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked10  [okrzyk w dymku nad głową]
+DialogueText: Weź swój miecz!
+AudioName: 578.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked11  [okrzyk w dymku nad głową]
+DialogueText: Agh!
+AudioName: 579.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FarmHouse_SpouseAttacked12  [okrzyk w dymku nad głową]
+DialogueText: Gahh!
+AudioName: 580.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
+DialogueText: Idziesz do łóżka?
+AudioName: 581.ogg
+--------------------------------------------------

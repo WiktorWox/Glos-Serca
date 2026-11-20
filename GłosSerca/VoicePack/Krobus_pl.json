@@ -1545,6 +1545,232 @@
           "TranslationKey": "Strings/MovieReactions:Krobus_*_AfterMovie",
           "PageIndex": 0,
           "DisplayPattern": "Czyli, Twój gatunek lubi godzinami oglądać błyszczące światełka? Ciekawe..."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman",
+          "DialogueText": "Hmm? Szukasz mrocznego talizmanu?",
+          "AudioPath": "assets/pl/Krobus/192.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm? Szukasz mrocznego talizmanu?"
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman",
+          "DialogueText": "... Hmmm. Jak tak teraz o tym wspominasz, to miałem kiedyś taki.",
+          "AudioPath": "assets/pl/Krobus/193.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman",
+          "PageIndex": 1,
+          "DisplayPattern": "... Hmmm. Jak tak teraz o tym wspominasz, to miałem kiedyś taki."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman",
+          "DialogueText": "Niestety, zgubiłem go przy eksploracji tunelu.",
+          "AudioPath": "assets/pl/Krobus/194.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman",
+          "PageIndex": 2,
+          "DisplayPattern": "Niestety, zgubiłem go przy eksploracji tunelu."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman",
+          "DialogueText": "Zaczęło się tam robić niebezpiecznie, więc uciekłem i zamknąłem przejście.",
+          "AudioPath": "assets/pl/Krobus/195.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman",
+          "PageIndex": 3,
+          "DisplayPattern": "Zaczęło się tam robić niebezpiecznie, więc uciekłem i zamknąłem przejście."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman",
+          "DialogueText": "Wydajesz się jednak dość silny... Otworzę go dla Ciebie. Ale uważaj, ok?",
+          "AudioPath": "assets/pl/Krobus/196_male.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman",
+          "PageIndex": 4,
+          "DisplayPattern": "Wydajesz się jednak dość silny... Otworzę go dla Ciebie. Ale uważaj, ok?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman",
+          "DialogueText": "Wydajesz się jednak dość silna... Otworzę go dla Ciebie. Ale uważaj, ok?",
+          "AudioPath": "assets/pl/Krobus/197_female.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman",
+          "PageIndex": 5,
+          "DisplayPattern": "Wydajesz się jednak dość silna... Otworzę go dla Ciebie. Ale uważaj, ok?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman_elsewhere",
+          "DialogueText": "Co... Szukasz mrocznego talizmanu?",
+          "AudioPath": "assets/pl/Krobus/198.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman_elsewhere",
+          "PageIndex": 0,
+          "DisplayPattern": "Co... Szukasz mrocznego talizmanu?"
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman_elsewhere",
+          "DialogueText": "... Hmmm... Jak tak teraz o tym wspominasz, to miałem kiedyś taki.",
+          "AudioPath": "assets/pl/Krobus/199.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman_elsewhere",
+          "PageIndex": 1,
+          "DisplayPattern": "... Hmmm... Jak tak teraz o tym wspominasz, to miałem kiedyś taki."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman_elsewhere",
+          "DialogueText": "Niestety, zgubiłem go kiedy badałem tunel w ściekach.",
+          "AudioPath": "assets/pl/Krobus/200.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman_elsewhere",
+          "PageIndex": 2,
+          "DisplayPattern": "Niestety, zgubiłem go kiedy badałem tunel w ściekach."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman_elsewhere",
+          "DialogueText": "Zaczęło się robić gorąco więc w pośpiechu uciekłem i zamknąłem wejście.",
+          "AudioPath": "assets/pl/Krobus/201.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman_elsewhere",
+          "PageIndex": 3,
+          "DisplayPattern": "Zaczęło się robić gorąco więc w pośpiechu uciekłem i zamknąłem wejście."
+        },
+        {
+          "DialogueFrom": "KrobusDarkTalisman_elsewhere",
+          "DialogueText": "Wyglądasz na solidną osobę... Więc otworze ci go. Tylko uważaj, ok?",
+          "AudioPath": "assets/pl/Krobus/202.ogg",
+          "TranslationKey": "Strings/Characters:KrobusDarkTalisman_elsewhere",
+          "PageIndex": 4,
+          "DisplayPattern": "Wyglądasz na solidną osobę... Więc otworze ci go. Tylko uważaj, ok?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3990",
+          "DialogueText": "Człowiek w odwiedziny? To rzadkość...",
+          "AudioPath": "assets/pl/Krobus/203.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3990",
+          "PageIndex": 0,
+          "DisplayPattern": "Człowiek w odwiedziny? To rzadkość..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3990",
+          "DialogueText": "Jestem Krobus, sprzedawca rzadkich i egzotycznych rzeczy.",
+          "AudioPath": "assets/pl/Krobus/204.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3990",
+          "PageIndex": 1,
+          "DisplayPattern": "Jestem Krobus, sprzedawca rzadkich i egzotycznych rzeczy."
+        },
+        {
+          "DialogueFrom": "Krobus_Engaged",
+          "DialogueText": "Mroczny Wisior Zjawy! Jak ty...? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Krobus/205.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Krobus_Engaged",
+          "PageIndex": 0,
+          "DisplayPattern": "Mroczny Wisior Zjawy! Jak ty...?"
+        },
+        {
+          "DialogueFrom": "Krobus_Engaged",
+          "DialogueText": "Och, wow. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Krobus/206.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Krobus_Engaged",
+          "PageIndex": 1,
+          "DisplayPattern": "Och, wow."
+        },
+        {
+          "DialogueFrom": "Krobus_Engaged",
+          "DialogueText": "{Farmer_Name}... Tak, mogę z Tobą zamieszkać, jeśli chcesz. Ale musimy to zachować w tajemnicy.",
+          "AudioPath": "assets/pl/Krobus/207.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Krobus_Engaged",
+          "PageIndex": 2,
+          "DisplayPattern": "... Tak, mogę z Tobą zamieszkać, jeśli chcesz. Ale musimy to zachować w tajemnicy."
+        },
+        {
+          "DialogueFrom": "Krobus_Engaged",
+          "DialogueText": "Za parę dni wprowadzę się do Ciebie... ok? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Krobus/208.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Krobus_Engaged",
+          "PageIndex": 3,
+          "DisplayPattern": "Za parę dni wprowadzę się do Ciebie... ok?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Krobus/209.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Krobus/210.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Krobus/211.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited_Krobus",
+          "DialogueText": "Och? Zazwyczaj chowam się przed ludźmi...",
+          "AudioPath": "assets/pl/Krobus/212.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited_Krobus",
+          "PageIndex": 0,
+          "DisplayPattern": "Och? Zazwyczaj chowam się przed ludźmi..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited_Krobus",
+          "DialogueText": "Ale mam pomysł... Spotkamy się na miejscu.",
+          "AudioPath": "assets/pl/Krobus/213.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited_Krobus",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale mam pomysł... Spotkamy się na miejscu."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Krobus/214.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Krobus/215.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Krobus/216.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Krobus/217.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Krobus/218.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
+        },
+        {
+          "DialogueFrom": "Shop_ShadowShop",
+          "DialogueText": "Rzadkie towary",
+          "AudioPath": "assets/pl/Krobus/219.ogg",
+          "TranslationKey": "Data/Shops:ShadowShop:Default",
+          "PageIndex": 0,
+          "DisplayPattern": "Rzadkie towary"
         }
       ]
     }

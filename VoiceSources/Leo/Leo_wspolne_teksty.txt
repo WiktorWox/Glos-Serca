@@ -1,0 +1,64 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 156.ogg).
+
+DialogueFrom: Strings/Characters:Leo_Memory  [inne]
+DialogueText: Hej... myślałem o tamtej chwili, na wyspie... Pamiętasz?
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 157.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 158.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Child  [okrzyk w dymku nad głową]
+DialogueText: Fuu... Co ty robisz? {Portrait:Sad}
+AudioName: 159.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4275  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}
+AudioName: 160.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 161_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277 (strona 2)  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 162_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4279  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och... to na moje urodziny?... Dzięki. {Portrait:Sad}
+AudioName: 163.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4281  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och, urodzinowy prezent! Dziękuję.
+AudioName: 164.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Invited_Child  [zaproszenie do kina]
+DialogueText: Film? Jej! Spotkajmy się na miejscu!
+AudioName: 165.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject_Child  [zaproszenie do kina]
+DialogueText: Chyba nie mogę tego oglądać...
+AudioName: 166.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 167.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 168.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 169.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 170.ogg
+--------------------------------------------------

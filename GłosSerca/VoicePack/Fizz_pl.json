@@ -1,0 +1,168 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Fizz.pl",
+      "VoicePackName": "Głos Serca (Fizz)",
+      "Character": "Fizz",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "No... Czyli dostałeś mój list, co? Miło Cię poznać.",
+          "AudioPath": "assets/pl/Fizz/1_male.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 0,
+          "DisplayPattern": "No... Czyli dostałeś mój list, co? Miło Cię poznać.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "No... Czyli dostałaś mój list, co? Miło Cię poznać.",
+          "AudioPath": "assets/pl/Fizz/2_female.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 2,
+          "DisplayPattern": "No... Czyli dostałaś mój list, co? Miło Cię poznać.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Jestem Fizz, z Oddziału Służb Specjalnych Joja. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Fizz/3.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 5,
+          "DisplayPattern": "Jestem Fizz, z Oddziału Służb Specjalnych Joja."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Co? Nic nie świta? Nic nie szkodzi, większość o nas nie słyszała...",
+          "AudioPath": "assets/pl/Fizz/4.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 7,
+          "DisplayPattern": "Co? Nic nie świta? Nic nie szkodzi, większość o nas nie słyszała..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Nie jesteśmy reklamowani jak inne produkty Joja. Jesteśmy bardziej od 'usług specjalnych' dla elitarnych klientów.",
+          "AudioPath": "assets/pl/Fizz/5.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 9,
+          "DisplayPattern": "Nie jesteśmy reklamowani jak inne produkty Joja. Jesteśmy bardziej od 'usług specjalnych' dla elitarnych klientów."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Co robimy? Heh... cóż, Powiem tylko... specjalizujemy się w sprawach 'skomplikowanych prawnie'... Łapiesz?",
+          "AudioPath": "assets/pl/Fizz/6.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 11,
+          "DisplayPattern": "Co robimy? Heh... cóż, Powiem tylko... specjalizujemy się w sprawach 'skomplikowanych prawnie'... Łapiesz?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Ale koniec pogawędek. Przejdźmy do interesów.",
+          "AudioPath": "assets/pl/Fizz/7.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 13,
+          "DisplayPattern": "Ale koniec pogawędek. Przejdźmy do interesów."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Słyszałem, że próbujesz osiągnąć 'ideał'. Szczytny cel... ale trudny. Bardzo trudny.",
+          "AudioPath": "assets/pl/Fizz/8.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 15,
+          "DisplayPattern": "Słyszałem, że próbujesz osiągnąć 'ideał'. Szczytny cel... ale trudny. Bardzo trudny."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "To całe gotowanie, tworzenie, pokonywanie potworów, skomplikowane przyjaźnie... *yhh*. Widać jaka zestresowana z Ciebie osoba. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Fizz/9.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 17,
+          "DisplayPattern": "To całe gotowanie, tworzenie, pokonywanie potworów, skomplikowane przyjaźnie... *yhh*. Widać jaka zestresowana z Ciebie osoba."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Ale słuchaj... nie musisz się już więcej stresować! Ja Ci pomogę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Fizz/10.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 18,
+          "DisplayPattern": "Ale słuchaj... nie musisz się już więcej stresować! Ja Ci pomogę."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Widzisz te papiery? To jest 'wyrzeczenie ideału'.",
+          "AudioPath": "assets/pl/Fizz/11.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 20,
+          "DisplayPattern": "Widzisz te papiery? To jest 'wyrzeczenie ideału'."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Każda z tych przepięknych stron jest warta 1% ku doskonałości. Nawet mają podpis Pana Qi... Całkowicie legalne!",
+          "AudioPath": "assets/pl/Fizz/12.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 22,
+          "DisplayPattern": "Każda z tych przepięknych stron jest warta 1% ku doskonałości. Nawet mają podpis Pana Qi... Całkowicie legalne!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Czy wyglądam jak ktoś, kto mógłby Cię okłamać?? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Fizz/13.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 24,
+          "DisplayPattern": "Czy wyglądam jak ktoś, kto mógłby Cię okłamać??"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Fizz/14.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 26,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "Nie odpowiadaj.",
+          "AudioPath": "assets/pl/Fizz/15.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 28,
+          "DisplayPattern": "Nie odpowiadaj."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "... Wracając, sprzedaje je za słodką, słodziusieńką cenę... jedynie 500,000 monet za sztukę. Okazja!",
+          "AudioPath": "assets/pl/Fizz/16.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 30,
+          "DisplayPattern": "... Wracając, sprzedaje je za słodką, słodziusieńką cenę... jedynie 500,000 monet za sztukę. Okazja!"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_1",
+          "DialogueText": "No, bez pośpiechu. Przemyśl to! Będę tu czekać... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Fizz/17.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_1",
+          "PageIndex": 32,
+          "DisplayPattern": "No, bez pośpiechu. Przemyśl to! Będę tu czekać..."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Intro_2",
+          "DialogueText": "No... Co ty na to? 500,000 monet za prawdziwe 'Wyrzeczenie Ideału'?",
+          "AudioPath": "assets/pl/Fizz/18.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Intro_2",
+          "PageIndex": 0,
+          "DisplayPattern": "No... Co ty na to? 500,000 monet za prawdziwe 'Wyrzeczenie Ideału'?"
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Fizz_Sweet",
+          "DialogueText": "He He!",
+          "AudioPath": "assets/pl/Fizz/19.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Fizz_Sweet",
+          "PageIndex": 0,
+          "DisplayPattern": "He He!"
+        }
+      ]
+    }
+  ]
+}

@@ -1253,6 +1253,128 @@
           "TranslationKey": "Strings/schedules/Leo:tent",
           "PageIndex": 0,
           "DisplayPattern": "Nie obchodzi nas deszcz, ale czasami dobrze jest wyschnąć."
+        },
+        {
+          "DialogueFrom": "Leo_Memory",
+          "DialogueText": "Hej... myślałem o tamtej chwili, na wyspie... Pamiętasz?",
+          "AudioPath": "assets/pl/Leo/156.ogg",
+          "TranslationKey": "Strings/Characters:Leo_Memory",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej... myślałem o tamtej chwili, na wyspie... Pamiętasz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/157.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/158.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Child",
+          "DialogueText": "Fuu... Co ty robisz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/159.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Fuu... Co ty robisz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4275",
+          "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/160.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
+          "PageIndex": 0,
+          "DisplayPattern": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/161_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Leo/162_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 1,
+          "DisplayPattern": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4279",
+          "DialogueText": "Och... to na moje urodziny?... Dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Leo/163.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... to na moje urodziny?... Dzięki."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4281",
+          "DialogueText": "Och, urodzinowy prezent! Dziękuję.",
+          "AudioPath": "assets/pl/Leo/164.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, urodzinowy prezent! Dziękuję."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited_Child",
+          "DialogueText": "Film? Jej! Spotkajmy się na miejscu!",
+          "AudioPath": "assets/pl/Leo/165.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Film? Jej! Spotkajmy się na miejscu!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject_Child",
+          "DialogueText": "Chyba nie mogę tego oglądać...",
+          "AudioPath": "assets/pl/Leo/166.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Chyba nie mogę tego oglądać..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Leo/167.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Leo/168.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Leo/169.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Leo/170.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
         }
       ]
     }

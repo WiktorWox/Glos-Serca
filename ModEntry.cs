@@ -206,7 +206,7 @@ namespace VoiceOverFrameworkMod
                 "Gil", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Leo", "LeoMainland",
                 "Lewis", "Linus", "Marnie", "Maru", "Mister Qi", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy",
                 "Sebastian", "Shane", "Vincent", "Willy", "Wizard", "Birdie", "Gunther", "Marlon", "Morris",
-                "Governor", "Grandpa", "MrQi", "Henchman", "Bouncer", "Professor Snail"
+                "Governor", "Grandpa", "MrQi", "Henchman", "Bouncer", "Professor Snail", "Fizz"
             };
 
             foreach (string name in vanillaList)

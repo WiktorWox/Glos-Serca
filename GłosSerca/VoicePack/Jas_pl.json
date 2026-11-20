@@ -1015,6 +1015,78 @@
           "TranslationKey": "Strings/schedules/Jas:winter_15.000",
           "PageIndex": 0,
           "DisplayPattern": "... 2... 3... 4... O nie! Znowu się pomyliłam."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Jas/126.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Jas/127.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Child",
+          "DialogueText": "Fuu... Co ty robisz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Jas/128.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Fuu... Co ty robisz?"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited_Child",
+          "DialogueText": "Film? Jej! Spotkajmy się na miejscu!",
+          "AudioPath": "assets/pl/Jas/129.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Film? Jej! Spotkajmy się na miejscu!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject_Child",
+          "DialogueText": "Chyba nie mogę tego oglądać...",
+          "AudioPath": "assets/pl/Jas/130.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject_Child",
+          "PageIndex": 0,
+          "DisplayPattern": "Chyba nie mogę tego oglądać..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Jas/131.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Jas/132.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Jas/133.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Jas/134.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
         }
       ]
     }

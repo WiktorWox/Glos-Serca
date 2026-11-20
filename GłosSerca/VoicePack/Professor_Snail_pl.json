@@ -1,0 +1,192 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.ProfessorSnail.pl",
+      "VoicePackName": "Głos Serca (Professor Snail)",
+      "Character": "Professor Snail",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_828",
+          "DialogueText": "Moje badania sugerują, że kiedyś na tej wyspie żył prehistoryczny gatunek żaby. Zamieszkiwały ciemne, wilgotne obszary z dużą ilością roślin...",
+          "AudioPath": "assets/pl/Professor Snail/1.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_828",
+          "PageIndex": 0,
+          "DisplayPattern": "Moje badania sugerują, że kiedyś na tej wyspie żył prehistoryczny gatunek żaby. Zamieszkiwały ciemne, wilgotne obszary z dużą ilością roślin..."
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_827",
+          "DialogueText": "Dawno temu, mieszkał tu rzadki rodzaj nietoperza jaskiniowego. Były przystosowane do znoszenia intensywnego ciepła. Ciekawe, nie?",
+          "AudioPath": "assets/pl/Professor Snail/2.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_827",
+          "PageIndex": 0,
+          "DisplayPattern": "Dawno temu, mieszkał tu rzadki rodzaj nietoperza jaskiniowego. Były przystosowane do znoszenia intensywnego ciepła. Ciekawe, nie?"
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_826",
+          "DialogueText": "Hmm... Mój nos mi mówi, że te kręgi węża mogą być w zachodnim regionie wyspy.",
+          "AudioPath": "assets/pl/Professor Snail/3.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_826",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Mój nos mi mówi, że te kręgi węża mogą być w zachodnim regionie wyspy."
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_825",
+          "DialogueText": "Jeśli zobaczysz coś wijącego się w ziemi, wykop to. Nie wiadomo co może tam być!",
+          "AudioPath": "assets/pl/Professor Snail/4.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_825",
+          "PageIndex": 0,
+          "DisplayPattern": "Jeśli zobaczysz coś wijącego się w ziemi, wykop to. Nie wiadomo co może tam być!"
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_824",
+          "DialogueText": "Zanim utknąłem w tej jaskini, badałem pobliski wąwóz. Tamtejsze kamienie są pełne skamielin! Gdybym był Tobą, to bym je niszczył w poszukiwaniu kości.",
+          "AudioPath": "assets/pl/Professor Snail/5.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_824",
+          "PageIndex": 0,
+          "DisplayPattern": "Zanim utknąłem w tej jaskini, badałem pobliski wąwóz. Tamtejsze kamienie są pełne skamielin! Gdybym był Tobą, to bym je niszczył w poszukiwaniu kości."
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_822",
+          "DialogueText": "Wiesz co? Założę się, że dzięki przesiewaniu w pobliskiej rzece, dałoby się znaleźć jakieś ciekawe rzeczy.",
+          "AudioPath": "assets/pl/Professor Snail/6.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_822",
+          "PageIndex": 0,
+          "DisplayPattern": "Wiesz co? Założę się, że dzięki przesiewaniu w pobliskiej rzece, dałoby się znaleźć jakieś ciekawe rzeczy."
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_821",
+          "DialogueText": "Wokół tej wyspy jest dobra fauna wodna. Z tego co wiem, wiele ryb lubi skubać antyczne kości...",
+          "AudioPath": "assets/pl/Professor Snail/7.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_821",
+          "PageIndex": 0,
+          "DisplayPattern": "Wokół tej wyspy jest dobra fauna wodna. Z tego co wiem, wiele ryb lubi skubać antyczne kości..."
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_820",
+          "DialogueText": "Znalazłeś jakieś złote kokosy na tej wyspie? Podobno wiele ciekawych rzeczy można w nich znaleźć...",
+          "AudioPath": "assets/pl/Professor Snail/8_male.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_820",
+          "PageIndex": 0,
+          "DisplayPattern": "Znalazłeś jakieś złote kokosy na tej wyspie? Podobno wiele ciekawych rzeczy można w nich znaleźć...",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ProfessorSnail_Hint_820",
+          "DialogueText": "Znalazłaś jakieś złote kokosy na tej wyspie? Podobno wiele ciekawych rzeczy można w nich znaleźć...",
+          "AudioPath": "assets/pl/Professor Snail/9_female.ogg",
+          "TranslationKey": "Data/ExtraDialogue:ProfessorSnail_Hint_820",
+          "PageIndex": 1,
+          "DisplayPattern": "Znalazłaś jakieś złote kokosy na tej wyspie? Podobno wiele ciekawych rzeczy można w nich znaleźć...",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Welcome_0",
+          "DialogueText": "Dzień dobry!",
+          "AudioPath": "assets/pl/Professor Snail/10.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Welcome_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzień dobry!"
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Welcome_1",
+          "DialogueText": "Cześć!",
+          "AudioPath": "assets/pl/Professor Snail/11.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Welcome_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć!"
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Welcome_2",
+          "DialogueText": "Hej!",
+          "AudioPath": "assets/pl/Professor Snail/12.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Welcome_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej!"
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Welcome_3",
+          "DialogueText": "Witam!",
+          "AudioPath": "assets/pl/Professor Snail/13.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Welcome_3",
+          "PageIndex": 0,
+          "DisplayPattern": "Witam!"
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Survey_PurpleFlower_Wrong",
+          "DialogueText": "Hmm... Ta liczba w ogóle nie pasuje... Może spróbuj jeszcze raz jutro. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Professor Snail/14.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Survey_PurpleFlower_Wrong",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Ta liczba w ogóle nie pasuje... Może spróbuj jeszcze raz jutro."
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Survey_PurpleFlower_Correct",
+          "DialogueText": "Tak, tak... to wygląda na poprawną ilość. Dziękuję! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Professor Snail/15.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Survey_PurpleFlower_Correct",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, tak... to wygląda na poprawną ilość. Dziękuję!"
+        },
+        {
+          "DialogueFrom": "IslandFieldOffice_Survey_Failed",
+          "DialogueText": "Hmm... Chyba musisz sobie zrobić przerwę i spróbować jutro...",
+          "AudioPath": "assets/pl/Professor Snail/16.ogg",
+          "TranslationKey": "Strings/Locations:IslandFieldOffice_Survey_Failed",
+          "PageIndex": 0,
+          "DisplayPattern": "Hmm... Chyba musisz sobie zrobić przerwę i spróbować jutro..."
+        },
+        {
+          "DialogueFrom": "FieldOfficeDonated_0",
+          "DialogueText": "Ach... To naprawdę fascynujący kawałek naturalnej historii. Dziękuję Ci.",
+          "AudioPath": "assets/pl/Professor Snail/17.ogg",
+          "TranslationKey": "Strings/Locations:FieldOfficeDonated_0",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... To naprawdę fascynujący kawałek naturalnej historii. Dziękuję Ci."
+        },
+        {
+          "DialogueFrom": "FieldOfficeDonated_1",
+          "DialogueText": "Piękne! Właśnie tego szukałem. Pozwól, że wyczyszczę moją soczewkę powiększającą...",
+          "AudioPath": "assets/pl/Professor Snail/18.ogg",
+          "TranslationKey": "Strings/Locations:FieldOfficeDonated_1",
+          "PageIndex": 0,
+          "DisplayPattern": "Piękne! Właśnie tego szukałem. Pozwól, że wyczyszczę moją soczewkę powiększającą..."
+        },
+        {
+          "DialogueFrom": "FieldOfficeDonated_2",
+          "DialogueText": "Zaskakujesz mnie, {Farmer_Name}. To jeden z najbardziej nieskazitelnych okazów jakie kiedykolwiek widziałem. Dziękuję Ci! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Professor Snail/19.ogg",
+          "TranslationKey": "Strings/Locations:FieldOfficeDonated_2",
+          "PageIndex": 0,
+          "DisplayPattern": "Zaskakujesz mnie, . To jeden z najbardziej nieskazitelnych okazów jakie kiedykolwiek widziałem. Dziękuję Ci!"
+        },
+        {
+          "DialogueFrom": "FieldOfficeDonated_3",
+          "DialogueText": "I pomyśleć, że... Tyle pokoleń przychodziło i odchodziło, gdy ta mała kość leżała ukryta pod ziemią. Teraz jest moja!",
+          "AudioPath": "assets/pl/Professor Snail/20.ogg",
+          "TranslationKey": "Strings/Locations:FieldOfficeDonated_3",
+          "PageIndex": 0,
+          "DisplayPattern": "I pomyśleć, że... Tyle pokoleń przychodziło i odchodziło, gdy ta mała kość leżała ukryta pod ziemią. Teraz jest moja!"
+        },
+        {
+          "DialogueFrom": "FieldOfficeDonated_Reward",
+          "DialogueText": "Spójrz! Dzięki tej darowiźnie mamy ukończony kolejny zbiór. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Professor Snail/21.ogg",
+          "TranslationKey": "Strings/Locations:FieldOfficeDonated_Reward",
+          "PageIndex": 0,
+          "DisplayPattern": "Spójrz! Dzięki tej darowiźnie mamy ukończony kolejny zbiór."
+        },
+        {
+          "DialogueFrom": "FieldOfficeDonated_Reward",
+          "DialogueText": "Mam tu coś dla Ciebie!",
+          "AudioPath": "assets/pl/Professor Snail/22.ogg",
+          "TranslationKey": "Strings/Locations:FieldOfficeDonated_Reward",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam tu coś dla Ciebie!"
+        }
+      ]
+    }
+  ]
+}

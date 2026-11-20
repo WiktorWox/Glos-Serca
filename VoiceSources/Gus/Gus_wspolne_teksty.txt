@@ -1,0 +1,80 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 197.ogg).
+
+DialogueFrom: Strings/Characters:Phone_Gus_Festival  [telefon]
+DialogueText: Witam, z tej strony Gus z Gwiezdnej Knajpy. Knajpa dzisiaj zamknięta. *biip*
+AudioName: 197.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Gus_Open_NoDishOfTheDay  [telefon]
+DialogueText: Halo? Cześć {Farmer_Name}! Tak, knajpa otwarta. Do zobaczenia! *klik* {Portrait:Happy}
+AudioName: 198.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Gus_Closed_NoDishOfTheDay  [telefon]
+DialogueText: Cześć, tu Gus z Gwiezdnej Knajpy. Knajpa jeszcze zamknięta. Przyjdź między 12 a 24 jeśli masz ochotę na przepyszne jedzenie albo coś do picia. *biip*
+AudioName: 199.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 200.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 201.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Adult  [okrzyk w dymku nad głową]
+DialogueText: Hej, przestań! Fuj! {Portrait:Sad}
+AudioName: 202.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4275  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}
+AudioName: 203.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 204_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277 (strona 2)  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 205_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4279  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och... to na moje urodziny?... Dzięki. {Portrait:Sad}
+AudioName: 206.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4281  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och, urodzinowy prezent! Dziękuję.
+AudioName: 207.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Invited  [zaproszenie do kina]
+DialogueText: Film? Pewnie. Spotkamy się w kinie.
+AudioName: 208.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 209.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 210.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 211.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 212.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 213.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:ResortBar:Default (strona 2)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Głód? Pragnienie? Mam dokładnie to, czego Ci trzeba.
+AudioName: 214.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:ResortBar:Default (strona 3)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witam w Gwiezdnej Knajpie! Czego Ci trzeba?
+AudioName: 215.ogg
+--------------------------------------------------

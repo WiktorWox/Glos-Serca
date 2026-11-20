@@ -1,0 +1,80 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 1.ogg).
+
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1  [inne]
+DialogueText: No... Czyli dostałeś mój list, co? Miło Cię poznać.
+AudioName: 1_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 3)  [inne]
+DialogueText: No... Czyli dostałaś mój list, co? Miło Cię poznać.
+AudioName: 2_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 6)  [inne]
+DialogueText: Jestem Fizz, z Oddziału Służb Specjalnych Joja. {Portrait:Happy}
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 8)  [inne]
+DialogueText: Co? Nic nie świta? Nic nie szkodzi, większość o nas nie słyszała...
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 10)  [inne]
+DialogueText: Nie jesteśmy reklamowani jak inne produkty Joja. Jesteśmy bardziej od 'usług specjalnych' dla elitarnych klientów.
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 12)  [inne]
+DialogueText: Co robimy? Heh... cóż, Powiem tylko... specjalizujemy się w sprawach 'skomplikowanych prawnie'... Łapiesz?
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 14)  [inne]
+DialogueText: Ale koniec pogawędek. Przejdźmy do interesów.
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 16)  [inne]
+DialogueText: Słyszałem, że próbujesz osiągnąć 'ideał'. Szczytny cel... ale trudny. Bardzo trudny.
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 18)  [inne]
+DialogueText: To całe gotowanie, tworzenie, pokonywanie potworów, skomplikowane przyjaźnie... *yhh*. Widać jaka zestresowana z Ciebie osoba. {Portrait:Sad}
+AudioName: 9.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 19)  [inne]
+DialogueText: Ale słuchaj... nie musisz się już więcej stresować! Ja Ci pomogę. {Portrait:Happy}
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 21)  [inne]
+DialogueText: Widzisz te papiery? To jest 'wyrzeczenie ideału'.
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 23)  [inne]
+DialogueText: Każda z tych przepięknych stron jest warta 1% ku doskonałości. Nawet mają podpis Pana Qi... Całkowicie legalne!
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 25)  [inne]
+DialogueText: Czy wyglądam jak ktoś, kto mógłby Cię okłamać?? {Portrait:Unique}
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 27)  [inne]
+DialogueText: ... {Portrait:Unique}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 29)  [inne]
+DialogueText: Nie odpowiadaj.
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 31)  [inne]
+DialogueText: ... Wracając, sprzedaje je za słodką, słodziusieńką cenę... jedynie 500,000 monet za sztukę. Okazja!
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_1 (strona 33)  [inne]
+DialogueText: No, bez pośpiechu. Przemyśl to! Będę tu czekać... {Portrait:Happy}
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Intro_2  [inne]
+DialogueText: No... Co ty na to? 500,000 monet za prawdziwe 'Wyrzeczenie Ideału'?
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:Fizz_Sweet  [inne]
+DialogueText: He He!
+AudioName: 19.ogg
+--------------------------------------------------

@@ -1893,6 +1893,272 @@
           "TranslationKey": "Data/Quests:117",
           "PageIndex": 1,
           "DisplayPattern": "Dzięki, ."
+        },
+        {
+          "DialogueFrom": "PierreStockListDialogue",
+          "DialogueText": "Och, wow! To moja stara lista zapasów! Wszędzie tego szukałem. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/234.ogg",
+          "TranslationKey": "Strings/Characters:PierreStockListDialogue",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, wow! To moja stara lista zapasów! Wszędzie tego szukałem."
+        },
+        {
+          "DialogueFrom": "PierreStockListDialogue",
+          "DialogueText": "Zobaczmy... tak! Nadal wszystko tu jest.",
+          "AudioPath": "assets/pl/Pierre/235.ogg",
+          "TranslationKey": "Strings/Characters:PierreStockListDialogue",
+          "PageIndex": 1,
+          "DisplayPattern": "Zobaczmy... tak! Nadal wszystko tu jest."
+        },
+        {
+          "DialogueFrom": "PierreStockListDialogue",
+          "DialogueText": "Z tymi kodami zamówień, mogę powiększyć moje zasoby z każdej pory roku, co roku!",
+          "AudioPath": "assets/pl/Pierre/236.ogg",
+          "TranslationKey": "Strings/Characters:PierreStockListDialogue",
+          "PageIndex": 2,
+          "DisplayPattern": "Z tymi kodami zamówień, mogę powiększyć moje zasoby z każdej pory roku, co roku!"
+        },
+        {
+          "DialogueFrom": "PierreStockListDialogue",
+          "DialogueText": "Dziękuję, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/237.ogg",
+          "TranslationKey": "Strings/Characters:PierreStockListDialogue",
+          "PageIndex": 3,
+          "DisplayPattern": "Dziękuję, ."
+        },
+        {
+          "DialogueFrom": "Phone_Pierre_Open",
+          "DialogueText": "Lokalny Sklep u Pierra! Och, cześć, {Farmer_Name}! Tak, jesteśmy otwarci do 17. Przyjdź po wspaniałe okazje na nasiona i produkty! Do widzenia. *klik*",
+          "AudioPath": "assets/pl/Pierre/238.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Pierre_Open",
+          "PageIndex": 0,
+          "DisplayPattern": "Lokalny Sklep u Pierra! Och, cześć, ! Tak, jesteśmy otwarci do 17. Przyjdź po wspaniałe okazje na nasiona i produkty! Do widzenia. *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Pierre_Open_Rare",
+          "DialogueText": "Abigail! Twoja świnka morska znowu uciekła! Chodź tu *i to już* i zajmij się tym! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pierre/239.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Pierre_Open_Rare",
+          "PageIndex": 0,
+          "DisplayPattern": "Abigail! Twoja świnka morska znowu uciekła! Chodź tu *i to już* i zajmij się tym!"
+        },
+        {
+          "DialogueFrom": "Phone_Pierre_Open_Rare",
+          "DialogueText": "Och! Uch... Halo? Dziękuję za telefon. T... Tak, Sklep otwarty do 17. Do widzenia. *klik* {Portrait:Love}",
+          "AudioPath": "assets/pl/Pierre/240.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Pierre_Open_Rare",
+          "PageIndex": 1,
+          "DisplayPattern": "Och! Uch... Halo? Dziękuję za telefon. T... Tak, Sklep otwarty do 17. Do widzenia. *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Pierre_Closed",
+          "DialogueText": "Dziękuję, że dzwonisz do Lokalnego Sklepu u Pierra. Sklep jeszcze jest zamknięty, ale mamy otwarte od 9 do 17. Do zobaczenia! *biip*",
+          "AudioPath": "assets/pl/Pierre/241.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Pierre_Closed",
+          "PageIndex": 0,
+          "DisplayPattern": "Dziękuję, że dzwonisz do Lokalnego Sklepu u Pierra. Sklep jeszcze jest zamknięty, ale mamy otwarte od 9 do 17. Do zobaczenia! *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Pierre_Festival",
+          "DialogueText": "Tu do Lokalny Sklep u Pierra, dziękuję za telefon. Sklep dzisiaj zamknięty w związku z festiwalem. *biip*",
+          "AudioPath": "assets/pl/Pierre/242.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Pierre_Festival",
+          "PageIndex": 0,
+          "DisplayPattern": "Tu do Lokalny Sklep u Pierra, dziękuję za telefon. Sklep dzisiaj zamknięty w związku z festiwalem. *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Pierre",
+          "DialogueText": "Hej, {Farmer_Name}. To ja, Pierre.",
+          "AudioPath": "assets/pl/Pierre/243.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Pierre",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, . To ja, Pierre."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Pierre",
+          "DialogueText": "Cóż, chciałem ci powiedzieć, że doceniam twój biznes. I chciałbym przypomnieć, że Lokalny Sklep u Pierra ma *najlepsze* nasiona i produkty.",
+          "AudioPath": "assets/pl/Pierre/244.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Pierre",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, chciałem ci powiedzieć, że doceniam twój biznes. I chciałbym przypomnieć, że Lokalny Sklep u Pierra ma *najlepsze* nasiona i produkty."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Pierre",
+          "DialogueText": "Mam nadzieję, że widzimy się wkrótce. Pa! *klik*",
+          "AudioPath": "assets/pl/Pierre/245.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Pierre",
+          "PageIndex": 2,
+          "DisplayPattern": "Mam nadzieję, że widzimy się wkrótce. Pa! *klik*"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pierre/246.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pierre/247.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pierre/248.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4275",
+          "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/249.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
+          "PageIndex": 0,
+          "DisplayPattern": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/250_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 0,
+          "DisplayPattern": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pierre/251_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 1,
+          "DisplayPattern": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4279",
+          "DialogueText": "Och... to na moje urodziny?... Dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pierre/252.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
+          "PageIndex": 0,
+          "DisplayPattern": "Och... to na moje urodziny?... Dzięki."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4281",
+          "DialogueText": "Och, urodzinowy prezent! Dziękuję.",
+          "AudioPath": "assets/pl/Pierre/253.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
+          "PageIndex": 0,
+          "DisplayPattern": "Och, urodzinowy prezent! Dziękuję."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Pierre/254.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Pierre/255.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Pierre/256.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Pierre/257.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Pierre/258.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Prawie koniec sezonu. Jutro zmieniam moje towary.",
+          "AudioPath": "assets/pl/Pierre/259.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:LastDayOfMonth",
+          "PageIndex": 0,
+          "DisplayPattern": "Prawie koniec sezonu. Jutro zmieniam moje towary."
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! Czegoś Ci potrzeba?",
+          "AudioPath": "assets/pl/Pierre/260.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Monday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! Czegoś Ci potrzeba?"
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! Nie zapomnij sprawdzać codziennie mojej nowej selekcji tapet i podłóg!",
+          "AudioPath": "assets/pl/Pierre/261.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Tuesday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! Nie zapomnij sprawdzać codziennie mojej nowej selekcji ta i podłóg!"
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! W czym mogę Ci pomóc?",
+          "AudioPath": "assets/pl/Pierre/262.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Wednesday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! W czym mogę Ci pomóc?"
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! Mam tylko najlepsze towary.",
+          "AudioPath": "assets/pl/Pierre/263.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Thursday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! Mam tylko najlepsze towary."
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! Mam na sprzedaż towary tylko najlepszej jakości.",
+          "AudioPath": "assets/pl/Pierre/264.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Friday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! Mam na sprzedaż towary tylko najlepszej jakości."
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! Czego potrzebujesz?",
+          "AudioPath": "assets/pl/Pierre/265.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Saturday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! Czego potrzebujesz?"
+        },
+        {
+          "DialogueFrom": "Shop_SeedShop",
+          "DialogueText": "Witamy u Pierra! Masz coś na sprzedaż?",
+          "AudioPath": "assets/pl/Pierre/266.ogg",
+          "TranslationKey": "Data/Shops:SeedShop:Sunday",
+          "PageIndex": 0,
+          "DisplayPattern": "Witamy u Pierra! Masz coś na sprzedaż?"
         }
       ]
     }

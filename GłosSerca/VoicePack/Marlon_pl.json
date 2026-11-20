@@ -495,6 +495,98 @@
           "TranslationKey": "Strings/SpeechBubbles:AdventureGuild_Marlon_Greeting4",
           "PageIndex": 0,
           "DisplayPattern": "Dobry wieczór."
+        },
+        {
+          "DialogueFrom": "Phone_Marlon_Open",
+          "DialogueText": "Mówi Marlon... Znowu straciłeś rzeczy w kopalniach? Tak, tak... Przyniosę je... Oczywiście za opłatą.",
+          "AudioPath": "assets/pl/Marlon/62_male.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Marlon_Open",
+          "PageIndex": 0,
+          "DisplayPattern": "Mówi Marlon... Znowu straciłeś rzeczy w kopalniach? Tak, tak... Przyniosę je... Oczywiście za opłatą.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Phone_Marlon_Open",
+          "DialogueText": "Mówi Marlon... Znowu straciłaś rzeczy w kopalniach? Tak, tak... Przyniosę je... Oczywiście za opłatą.",
+          "AudioPath": "assets/pl/Marlon/63_female.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Marlon_Open",
+          "PageIndex": 1,
+          "DisplayPattern": "Mówi Marlon... Znowu straciłaś rzeczy w kopalniach? Tak, tak... Przyniosę je... Oczywiście za opłatą.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Phone_Marlon_AlreadyRecovering",
+          "DialogueText": "Halo?... Ta, przyniosę twoja rzecz dziś w nocy. Możesz się uspokoić. Nie musisz dzwonić! *klik*",
+          "AudioPath": "assets/pl/Marlon/64.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Marlon_AlreadyRecovering",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo?... Ta, przyniosę twoja rzecz dziś w nocy. Możesz się uspokoić. Nie musisz dzwonić! *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Marlon_NoDeathItems",
+          "DialogueText": "Słucham? Nie straciłeś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*",
+          "AudioPath": "assets/pl/Marlon/65_male.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Marlon_NoDeathItems",
+          "PageIndex": 0,
+          "DisplayPattern": "Słucham? Nie straciłeś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Phone_Marlon_NoDeathItems",
+          "DialogueText": "Słucham? Nie straciłaś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*",
+          "AudioPath": "assets/pl/Marlon/66_female.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Marlon_NoDeathItems",
+          "PageIndex": 1,
+          "DisplayPattern": "Słucham? Nie straciłaś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Shop_AdventureGuildRecovery",
+          "DialogueText": "Zgubione przedmioty, co? Za opłatą mogę Ci jeden odzyskać. Wybierz mądrze.",
+          "AudioPath": "assets/pl/Marlon/67.ogg",
+          "TranslationKey": "Data/Shops:AdventureGuildRecovery:Default",
+          "PageIndex": 0,
+          "DisplayPattern": "Zgubione przedmioty, co? Za opłatą mogę Ci jeden odzyskać. Wybierz mądrze."
+        },
+        {
+          "DialogueFrom": "Shop_AdventureShop",
+          "DialogueText": "Jaskinie mogą być niebezpieczne. Myślisz, że jak straciłem oko?",
+          "AudioPath": "assets/pl/Marlon/68.ogg",
+          "TranslationKey": "Data/Shops:AdventureShop:Rare",
+          "PageIndex": 0,
+          "DisplayPattern": "Jaskinie mogą być niebezpieczne. Myślisz, że jak straciłem oko?"
+        },
+        {
+          "DialogueFrom": "Shop_AdventureShop",
+          "DialogueText": "Jaskinie bywają niebezpieczne. Przygotuj się na to.",
+          "AudioPath": "assets/pl/Marlon/69.ogg",
+          "TranslationKey": "Data/Shops:AdventureShop:Default",
+          "PageIndex": 0,
+          "DisplayPattern": "Jaskinie bywają niebezpieczne. Przygotuj się na to."
+        },
+        {
+          "DialogueFrom": "Shop_AdventureShop",
+          "DialogueText": "Trzeba Ci nowego miecza?",
+          "AudioPath": "assets/pl/Marlon/70.ogg",
+          "TranslationKey": "Data/Shops:AdventureShop:Default",
+          "PageIndex": 1,
+          "DisplayPattern": "Trzeba Ci nowego miecza?"
+        },
+        {
+          "DialogueFrom": "Shop_AdventureShop",
+          "DialogueText": "Witamy w gildii awanturników.",
+          "AudioPath": "assets/pl/Marlon/71.ogg",
+          "TranslationKey": "Data/Shops:AdventureShop:Default",
+          "PageIndex": 2,
+          "DisplayPattern": "Witamy w gildii awanturników."
+        },
+        {
+          "DialogueFrom": "Shop_AdventureShop",
+          "DialogueText": "Zabijasz potwory? Kupuję łup.",
+          "AudioPath": "assets/pl/Marlon/72.ogg",
+          "TranslationKey": "Data/Shops:AdventureShop:Default",
+          "PageIndex": 3,
+          "DisplayPattern": "Zabijasz potwory? Kupuję łup."
         }
       ]
     }

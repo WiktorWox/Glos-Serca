@@ -3941,6 +3941,376 @@
           "TranslationKey": "Strings/schedules/Elliott:summer_9.000",
           "PageIndex": 0,
           "DisplayPattern": "Witaj. Co cię sprowadza w tak okropne miejsce?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/488.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/489.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/490.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited",
+          "DialogueText": "Film? Pewnie. Spotkamy się w kinie.",
+          "AudioPath": "assets/pl/Elliott/491.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited",
+          "PageIndex": 0,
+          "DisplayPattern": "Film? Pewnie. Spotkamy się w kinie."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Elliott/492.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Elliott/493.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Elliott/494.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Spouse_Elliott",
+          "DialogueText": "Tak, kochanie, pójdę z Tobą na film! Spotkamy się w kinie.",
+          "AudioPath": "assets/pl/Elliott/495.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Spouse_Elliott",
+          "PageIndex": 0,
+          "DisplayPattern": "Tak, kochanie, pójdę z Tobą na film! Spotkamy się w kinie."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3958",
+          "DialogueText": "... Nie znam Cię tak dobrze... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/496.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3958",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie znam Cię tak dobrze..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3959",
+          "DialogueText": "Uch... Niezręcznie. Słuchaj, Nie znam Cię na tyle dobrze... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/497.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3959",
+          "PageIndex": 0,
+          "DisplayPattern": "Uch... Niezręcznie. Słuchaj, Nie znam Cię na tyle dobrze..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3960",
+          "DialogueText": "Nie wiem. Uch... Wybacz. Nie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/498.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3960",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie wiem. Uch... Wybacz. Nie."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3961",
+          "DialogueText": "... Nie wiem. Uch... Wybacz. Nie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/499.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3961",
+          "PageIndex": 0,
+          "DisplayPattern": "... Nie wiem. Uch... Wybacz. Nie."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3962",
+          "DialogueText": "...!! Przyjmuję to. Dziękuję. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/500.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3962",
+          "PageIndex": 0,
+          "DisplayPattern": "...!! Przyjmuję to. Dziękuję."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3962",
+          "DialogueText": "Cieszę się, że czujesz to samo. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/501.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3962",
+          "PageIndex": 1,
+          "DisplayPattern": "Cieszę się, że czujesz to samo."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3963",
+          "DialogueText": "... Chcesz czegoś więcej? Czuję to samo. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/502.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3963",
+          "PageIndex": 0,
+          "DisplayPattern": "... Chcesz czegoś więcej? Czuję to samo."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3963",
+          "DialogueText": "Trochę się denerwuję. A ty? {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/503.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3963",
+          "PageIndex": 1,
+          "DisplayPattern": "Trochę się denerwuję. A ty?"
+        },
+        {
+          "DialogueFrom": "Divorced_bouquet",
+          "DialogueText": "To... Chcesz mnie zranić jeszcze bardziej? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/504.ogg",
+          "TranslationKey": "Strings/Characters:Divorced_bouquet",
+          "PageIndex": 0,
+          "DisplayPattern": "To... Chcesz mnie zranić jeszcze bardziej?"
+        },
+        {
+          "DialogueFrom": "Divorced_gift",
+          "DialogueText": "Nie chcę twojego prezentu. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Elliott/505.ogg",
+          "TranslationKey": "Strings/Characters:Divorced_gift",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie chcę twojego prezentu."
+        },
+        {
+          "DialogueFrom": "WipedMemory",
+          "DialogueText": "To ty jesteś nowym farmerem, prawda?",
+          "AudioPath": "assets/pl/Elliott/506_male.ogg",
+          "TranslationKey": "Strings/Characters:WipedMemory",
+          "PageIndex": 0,
+          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "WipedMemory",
+          "DialogueText": "To ty jesteś nową farmerką, prawda?",
+          "AudioPath": "assets/pl/Elliott/507_female.ogg",
+          "TranslationKey": "Strings/Characters:WipedMemory",
+          "PageIndex": 1,
+          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "WipedMemory",
+          "DialogueText": "Wyglądasz jak... nie. Na pewno się nie widzieliśmy.",
+          "AudioPath": "assets/pl/Elliott/508.ogg",
+          "TranslationKey": "Strings/Characters:WipedMemory",
+          "PageIndex": 2,
+          "DisplayPattern": "Wyglądasz jak... nie. Na pewno się nie widzieliśmy."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3967",
+          "DialogueText": "Um, Nie jesteś już w związku?",
+          "AudioPath": "assets/pl/Elliott/509.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3967",
+          "PageIndex": 0,
+          "DisplayPattern": "Um, Nie jesteś już w związku?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3968",
+          "DialogueText": "Jesteś już w związku, dziwaku! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/510.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3968",
+          "PageIndex": 0,
+          "DisplayPattern": "Jesteś już w związku, dziwaku!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3972",
+          "DialogueText": "Och!!... {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/511.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3972",
+          "PageIndex": 0,
+          "DisplayPattern": "Och!!..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3972",
+          "DialogueText": "{Farmer_Name}... Wybacz, ale nie. Nie chcę się z Tobą teraz wiązać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/512.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3972",
+          "PageIndex": 1,
+          "DisplayPattern": "... Wybacz, ale nie. Nie chcę się z Tobą teraz wiązać."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3973",
+          "DialogueText": "!! Em... Wybacz, ale nie. Nie czuję do Ciebie tego samego... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Elliott/513.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3973",
+          "PageIndex": 0,
+          "DisplayPattern": "!! Em... Wybacz, ale nie. Nie czuję do Ciebie tego samego..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3980",
+          "DialogueText": "...!!! {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/514.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3980",
+          "PageIndex": 0,
+          "DisplayPattern": "...!!!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3980",
+          "DialogueText": "Tak!! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/515.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3980",
+          "PageIndex": 1,
+          "DisplayPattern": "Tak!!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3980",
+          "DialogueText": "Zacznę przygotowania. Ceremonia odbędzie się za 3 dni, ok? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/516.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3980",
+          "PageIndex": 3,
+          "DisplayPattern": "Zacznę przygotowania. Ceremonia odbędzie się za 3 dni, ok?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4001",
+          "DialogueText": "Słońce... Chcę Ci dać ten owoc, jako symbol mojej miłości. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/517.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4001",
+          "PageIndex": 0,
+          "DisplayPattern": "Słońce... Chcę Ci dać ten owoc, jako symbol mojej miłości."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4500",
+          "DialogueText": "Nie łaska trochę tu posprzątać pod moją nieobecność? {Portrait:Angry}",
+          "AudioPath": "assets/pl/Elliott/518.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4500",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie łaska trochę tu posprzątać pod moją nieobecność?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4500",
+          "DialogueText": "To nie jest miłe po ciężkim dniu przekopywać się przez górę śmieci. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Elliott/519.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4500",
+          "PageIndex": 1,
+          "DisplayPattern": "To nie jest miłe po ciężkim dniu przekopywać się przez górę śmieci."
+        },
+        {
+          "DialogueFrom": "Spouse_MonstersInHouse",
+          "DialogueText": "Em... Skarbie? Czemu w domu są potwory?",
+          "AudioPath": "assets/pl/Elliott/520.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Spouse_MonstersInHouse",
+          "PageIndex": 0,
+          "DisplayPattern": "Em... Skarbie? Czemu w domu są potwory?"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked1",
+          "DialogueText": "Co do...?",
+          "AudioPath": "assets/pl/Elliott/521.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked1",
+          "PageIndex": 0,
+          "DisplayPattern": "Co do...?"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked2",
+          "DialogueText": "Ach!!",
+          "AudioPath": "assets/pl/Elliott/522.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked2",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach!!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked3",
+          "DialogueText": "#!*#%*!",
+          "AudioPath": "assets/pl/Elliott/523.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked3",
+          "PageIndex": 0,
+          "DisplayPattern": "#!*#%*!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked4",
+          "DialogueText": "Ajjj!",
+          "AudioPath": "assets/pl/Elliott/524.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked4",
+          "PageIndex": 0,
+          "DisplayPattern": "Ajjj!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked5",
+          "DialogueText": "Giń!",
+          "AudioPath": "assets/pl/Elliott/525.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked5",
+          "PageIndex": 0,
+          "DisplayPattern": "Giń!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked6",
+          "DialogueText": "Won!",
+          "AudioPath": "assets/pl/Elliott/526.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked6",
+          "PageIndex": 0,
+          "DisplayPattern": "Won!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked7",
+          "DialogueText": "Fuj!",
+          "AudioPath": "assets/pl/Elliott/527.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked7",
+          "PageIndex": 0,
+          "DisplayPattern": "Fuj!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked8",
+          "DialogueText": "A masz!",
+          "AudioPath": "assets/pl/Elliott/528.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked8",
+          "PageIndex": 0,
+          "DisplayPattern": "A masz!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked9",
+          "DialogueText": "Pomocy!",
+          "AudioPath": "assets/pl/Elliott/529.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked9",
+          "PageIndex": 0,
+          "DisplayPattern": "Pomocy!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked10",
+          "DialogueText": "Weź swój miecz!",
+          "AudioPath": "assets/pl/Elliott/530.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked10",
+          "PageIndex": 0,
+          "DisplayPattern": "Weź swój miecz!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked11",
+          "DialogueText": "Agh!",
+          "AudioPath": "assets/pl/Elliott/531.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked11",
+          "PageIndex": 0,
+          "DisplayPattern": "Agh!"
+        },
+        {
+          "DialogueFrom": "FarmHouse_SpouseAttacked12",
+          "DialogueText": "Gahh!",
+          "AudioPath": "assets/pl/Elliott/532.ogg",
+          "TranslationKey": "Strings/Locations:FarmHouse_SpouseAttacked12",
+          "PageIndex": 0,
+          "DisplayPattern": "Gahh!"
+        },
+        {
+          "DialogueFrom": "Spouse_Goodnight1",
+          "DialogueText": "Idziesz do łóżka?",
+          "AudioPath": "assets/pl/Elliott/533.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
+          "PageIndex": 0,
+          "DisplayPattern": "Idziesz do łóżka?"
         }
       ]
     }

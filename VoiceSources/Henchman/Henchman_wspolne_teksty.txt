@@ -1,0 +1,40 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 1.ogg).
+
+DialogueFrom: Strings/Characters:Henchman1  [inne]
+DialogueText: Urr-aah!! Człowiek!
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman1 (strona 2)  [inne]
+DialogueText: ... Chcesz przejść? Wybacz, to prywatna posesja. {Portrait:Sad}
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman2  [inne]
+DialogueText: Przepraszam, ale nie mogę Cię przepuścić... straciłbym pracę.
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman3  [inne]
+DialogueText: Chcesz mi to dać? Hmm... nie, dzięki. {Portrait:Sad}
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman4  [inne]
+DialogueText: Mmmm... wygląda na świeże, ale nie, dziękuję... może ty to weźmiesz?
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman5  [inne]
+DialogueText: *niuch*...*niuch*...
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman5 (strona 2)  [inne]
+DialogueText: Ten zapach...
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman5 (strona 3)  [inne]
+DialogueText: Nie mogę się oprzeć... Dawaj to! {Portrait:Happy}
+AudioName: 8.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Henchman6  [inne]
+DialogueText: Dzięki.
+AudioName: 9.ogg
+--------------------------------------------------

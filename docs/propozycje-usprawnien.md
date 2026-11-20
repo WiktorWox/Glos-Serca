@@ -153,6 +153,69 @@ Do decyzji zespołu:
 
 Przy okazji wyszło, że ścieżka po kluczu tłumaczenia w dialogach (`[V2-TK]`) nigdy nie trafia: gra podaje klucz z ukośnikami wstecznymi (`Strings\schedules\Caroline:Tue.001`), a paczka ma zwykłe (`Strings/schedules/...`). Wszystkie dialogi poza wydarzeniami grają więc dziś wyłącznie po tekście. Nie zmieniałem tego, bo dotyczy całego moda; to osobna, mała poprawka do przetestowania.
 
+### Teksty ze wspólnych plików gry i okienka sklepów (20 listopada 2026)
+
+Przegląd całego kodu gry (każde miejsce, w którym postać coś mówi) pokazał, że część kwestii gra bierze nie z pliku postaci (`Characters/Dialogue/<postać>`), tylko ze wspólnych plików tekstów. Generator ich nie czytał. Funkcja `BuildFromStringsCharacters` od jessevanga istniała, ale po jego przebudowie z 30 sierpnia 2025 nikt jej nie wywoływał, a i tak łapała tylko klucze `<Imię>_…`.
+
+Nowe źródła generatora (`Class/DialogueParse/ModEntry.SharedGameStrings.cs`), dopisane na końcu, więc numery istniejących nagrań się nie zmieniają:
+- **Kwestie konkretnych postaci:** Abigail w kopalni, Krobus i mroczny talizman, Henchman, Leo (wspomnienie), lista zapasów Pierre'a, Robin przy budowie domu, Elliott i książka, Demetrius/Maru/Lewis na festiwalach, Bramkarz, Pan Qi w klubie, Profesor Ślimak, telefony (automatyczne sekretarki i telefony do gracza), oświadczyny z własnym tekstem.
+- **Kwestie ogólne** mówione przez wiele postaci, dodawane tylko tym, które mogą je powiedzieć, i tylko gdy postać nie ma własnej wersji, której gra użyłaby zamiast nich (reguły z kodu gry): uderzenie przez gracza, grzebanie w śmietniku (wg wieku), prezent urodzinowy (wg manier i płci postaci), kino (wg usposobienia, osobno dla małżonka), bukiet, wisior syreny, oświadczyny, rozwód, małżeństwo (bałagan, potwory w domu, okrzyki przy ataku, dobranoc), taniec na Festiwalu Kwiatów.
+- **Okienko właściciela w sklepie** (`Data/Shops`, `BuildFromShopOwnerDialogues`), w tym stragany na Festiwalu Pustyni.
+- **Oferty rozbudowy u Robin** (5 pytań tak/nie). Druga oferta ma w tekście wstawki, ale gra zawsze podaje te same wartości (65,000 monet, 100 twardego drewna), więc jest nagrywalna.
+
+Pominięte: teksty ze wstawkami zmieniającymi się w grze (przedmiot, ilość, cena, imię innej postaci), komentarze o zakupach u Pierre'a i Willy'ego, formularz ankiety w stacji badawczej, okrzyki kibiców w saloonie i powitania między postaciami (dymki bez stałego mówcy), zlecenia z tablicy (czekają na konsultację).
+
+Nowe w odtwarzaniu (`Class/ModEntry.MenuLines.cs`): okienko sklepu (ramka obok portretu, nie okno dialogowe) i okna pytań bez mówcy w warsztacie Robin. Oba dopasowują tekst tylko w paczce właściciela/Robin. Reszta trafia do istniejącego dopasowania po tekście i do obsługi dymków.
+
+Sprawdzone w grze 20 listopada (pliki testowe TTS): Abigail w kopalni, telefon do Robin, zaproszenie Alexa do kina, odrzucenie bukietu, uderzenie (Lewis), 5 stron Krobusa, dymek „Pomocy!”, okienko sklepu Pierre'a i Robin, pytanie o rozbudowę domu.
+
+Do paczek doszło 1012 kwestii (listy w `VoiceSources/<postać>/<postać>_wspolne_teksty.txt`), w tym cztery nowe paczki: Bramkarz, Henchman, Profesor Ślimak i Fizz. 63 kwestie pominięto, bo identyczny tekst już był w paczce tej postaci.
+
+| Postać | Nowe kwestie | Pliki |
+|---|---|---|
+| Abigail | 58 | 590–647 |
+| Alex | 50 | 554–603 |
+| Bear | 6 | 10–15 |
+| Bouncer (nowa paczka) | 4 | 1–4 |
+| Caroline | 9 | 174–182 |
+| Clint | 20 | 188–207 |
+| Demetrius | 10 | 204–213 |
+| Dwarf | 10 | 74–83 |
+| Elliott | 46 | 488–533 |
+| Emily | 47 | 539–585 |
+| Evelyn | 13 | 150–162 |
+| Fizz (nowa paczka) | 19 | 1–19 |
+| George | 12 | 163–174 |
+| Gus | 19 | 197–215 |
+| Haley | 47 | 569–615 |
+| Harvey | 47 | 488–534 |
+| Henchman (nowa paczka) | 9 | 1–9 |
+| Jas | 9 | 126–134 |
+| Jodi | 14 | 190–203 |
+| Kent | 13 | 116–128 |
+| Krobus | 28 | 192–219 |
+| Leah | 48 | 550–597 |
+| Leo | 15 | 156–170 |
+| Lewis | 13 | 373–385 |
+| Linus | 13 | 190–202 |
+| Marlon | 11 | 62–72 |
+| Marnie | 20 | 184–203 |
+| Maru | 48 | 505–552 |
+| Mister Qi | 7 | 30–36 |
+| MrQi | 7 | 20–26 |
+| Pam | 12 | 277–288 |
+| Penny | 45 | 577–621 |
+| Pierre | 33 | 234–266 |
+| Professor Snail (nowa paczka) | 22 | 1–22 |
+| Robin | 31 | 259–289 |
+| Sam | 46 | 606–651 |
+| Sandy | 16 | 118–133 |
+| Sebastian | 46 | 536–581 |
+| Shane | 49 | 469–517 |
+| Vincent | 13 | 106–118 |
+| Willy | 15 | 285–299 |
+| Wizard | 12 | 143–154 |
+
 ### Znana niedoróbka
 
 Odpowiedzi w pytaniach `$q` w środku kwestii (np. Abigail na cmentarzu, `Event_Grave1..4`) trafiają do dopasowania tekstowego. Gdy to samo zdanie występuje w kilku odpowiedziach („Całe moje życie tu mieszkałam…” w Event_Grave2/3/4), gra pierwszy zarejestrowany wpis, czyli dobre słowa, ale inny dubel. Rozwiązanie: po odpowiedzi rozpoznać klucz po pierwszej stronie dialogu (jest unikalna) i grać dalsze strony po kluczu.

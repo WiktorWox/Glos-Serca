@@ -1,0 +1,86 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Henchman.pl",
+      "VoicePackName": "Głos Serca (Henchman)",
+      "Character": "Henchman",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Henchman1",
+          "DialogueText": "Urr-aah!! Człowiek!",
+          "AudioPath": "assets/pl/Henchman/1.ogg",
+          "TranslationKey": "Strings/Characters:Henchman1",
+          "PageIndex": 0,
+          "DisplayPattern": "Urr-aah!! Człowiek!"
+        },
+        {
+          "DialogueFrom": "Henchman1",
+          "DialogueText": "... Chcesz przejść? Wybacz, to prywatna posesja. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Henchman/2.ogg",
+          "TranslationKey": "Strings/Characters:Henchman1",
+          "PageIndex": 1,
+          "DisplayPattern": "... Chcesz przejść? Wybacz, to prywatna posesja."
+        },
+        {
+          "DialogueFrom": "Henchman2",
+          "DialogueText": "Przepraszam, ale nie mogę Cię przepuścić... straciłbym pracę.",
+          "AudioPath": "assets/pl/Henchman/3.ogg",
+          "TranslationKey": "Strings/Characters:Henchman2",
+          "PageIndex": 0,
+          "DisplayPattern": "Przepraszam, ale nie mogę Cię przepuścić... straciłbym pracę."
+        },
+        {
+          "DialogueFrom": "Henchman3",
+          "DialogueText": "Chcesz mi to dać? Hmm... nie, dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Henchman/4.ogg",
+          "TranslationKey": "Strings/Characters:Henchman3",
+          "PageIndex": 0,
+          "DisplayPattern": "Chcesz mi to dać? Hmm... nie, dzięki."
+        },
+        {
+          "DialogueFrom": "Henchman4",
+          "DialogueText": "Mmmm... wygląda na świeże, ale nie, dziękuję... może ty to weźmiesz?",
+          "AudioPath": "assets/pl/Henchman/5.ogg",
+          "TranslationKey": "Strings/Characters:Henchman4",
+          "PageIndex": 0,
+          "DisplayPattern": "Mmmm... wygląda na świeże, ale nie, dziękuję... może ty to weźmiesz?"
+        },
+        {
+          "DialogueFrom": "Henchman5",
+          "DialogueText": "*niuch*...*niuch*...",
+          "AudioPath": "assets/pl/Henchman/6.ogg",
+          "TranslationKey": "Strings/Characters:Henchman5",
+          "PageIndex": 0,
+          "DisplayPattern": "*niuch*...*niuch*..."
+        },
+        {
+          "DialogueFrom": "Henchman5",
+          "DialogueText": "Ten zapach...",
+          "AudioPath": "assets/pl/Henchman/7.ogg",
+          "TranslationKey": "Strings/Characters:Henchman5",
+          "PageIndex": 1,
+          "DisplayPattern": "Ten zapach..."
+        },
+        {
+          "DialogueFrom": "Henchman5",
+          "DialogueText": "Nie mogę się oprzeć... Dawaj to! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Henchman/8.ogg",
+          "TranslationKey": "Strings/Characters:Henchman5",
+          "PageIndex": 2,
+          "DisplayPattern": "Nie mogę się oprzeć... Dawaj to!"
+        },
+        {
+          "DialogueFrom": "Henchman6",
+          "DialogueText": "Dzięki.",
+          "AudioPath": "assets/pl/Henchman/9.ogg",
+          "TranslationKey": "Strings/Characters:Henchman6",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki."
+        }
+      ]
+    }
+  ]
+}

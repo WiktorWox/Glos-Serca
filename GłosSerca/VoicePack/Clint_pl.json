@@ -1515,6 +1515,168 @@
           "TranslationKey": "Data/Quests:112",
           "PageIndex": 1,
           "DisplayPattern": "Dzięki, . Doceniam to."
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Open",
+          "DialogueText": "Halo? Och, hej, {Farmer_Name}. Ta, Mam otwarte do 16. Em... Ok. Na razie. *klik*",
+          "AudioPath": "assets/pl/Clint/188.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Open",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo? Och, hej, . Ta, Mam otwarte do 16. Em... Ok. Na razie. *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Open_Rare",
+          "DialogueText": "Halo? Tak, tak, pracuję do 16. Muszę iść. *klik*",
+          "AudioPath": "assets/pl/Clint/189_male.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Open_Rare",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo? Tak, tak, pracuję do 16. Muszę iść. *klik*",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Open_Rare",
+          "DialogueText": "Halo? Och... {Farmer_Name}... Twój głos pięknie brzmi przez telefon... Uch... Ok. Rozumiem. Pracuję do 16. *trzask* {Portrait:Love}",
+          "AudioPath": "assets/pl/Clint/190_female.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Open_Rare",
+          "PageIndex": 1,
+          "DisplayPattern": "Halo? Och... ... Twój głos pięknie brzmi przez telefon... Uch... Ok. Rozumiem. Pracuję do 16. *trzask*",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Closed",
+          "DialogueText": "Dodzwoniłeś się do poczty głosowej Clinta. Jestem zajęty... Pracuję od 9 do 16. *biip*",
+          "AudioPath": "assets/pl/Clint/191.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Closed",
+          "PageIndex": 0,
+          "DisplayPattern": "Dodzwoniłeś się do poczty głosowej Clinta. Jestem zajęty... Pracuję od 9 do 16. *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Festival",
+          "DialogueText": "Hej, Tu Clint. Mam dzisiaj wolne. *biip*",
+          "AudioPath": "assets/pl/Clint/192.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Festival",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, Tu Clint. Mam dzisiaj wolne. *biip*"
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Working_OneDay",
+          "DialogueText": "Hej... Twoje narzędzie będzie gotowe dopiero jutro. Wracam do roboty. *brzdęk* *brzdęk* *klik*",
+          "AudioPath": "assets/pl/Clint/193.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Working_OneDay",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej... Twoje narzędzie będzie gotowe dopiero jutro. Wracam do roboty. *brzdęk* *brzdęk* *klik*"
+        },
+        {
+          "DialogueFrom": "Phone_Clint_Working",
+          "DialogueText": "Halo? Tak? Jeszcze pracuję nad Twoim narzędziem. Zadzwoń później. *klik*",
+          "AudioPath": "assets/pl/Clint/194.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Clint_Working",
+          "PageIndex": 0,
+          "DisplayPattern": "Halo? Tak? Jeszcze pracuję nad Twoim narzędziem. Zadzwoń później. *klik*"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Clint/195.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Clint/196.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Clint/197.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited_Rude",
+          "DialogueText": "Film? Pewnie, obojętne, może być. Zobaczymy się na miejscu...",
+          "AudioPath": "assets/pl/Clint/198.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited_Rude",
+          "PageIndex": 0,
+          "DisplayPattern": "Film? Pewnie, obojętne, może być. Zobaczymy się na miejscu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Clint/199.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Clint/200.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Clint/201.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Clint/202.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Clint/203.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
+        },
+        {
+          "DialogueFrom": "Shop_Blacksmith",
+          "DialogueText": "Masz lenia? Nie chce Ci się kopać rud? Nic nie szkodzi.",
+          "AudioPath": "assets/pl/Clint/204.ogg",
+          "TranslationKey": "Data/Shops:Blacksmith:Default",
+          "PageIndex": 0,
+          "DisplayPattern": "Masz lenia? Nie chce Ci się kopać rud? Nic nie szkodzi."
+        },
+        {
+          "DialogueFrom": "Shop_Blacksmith",
+          "DialogueText": "Mam wiele rud metalu na sprzedaż. Proszę bardzo.",
+          "AudioPath": "assets/pl/Clint/205.ogg",
+          "TranslationKey": "Data/Shops:Blacksmith:Default",
+          "PageIndex": 1,
+          "DisplayPattern": "Mam wiele rud metalu na sprzedaż. Proszę bardzo."
+        },
+        {
+          "DialogueFrom": "Shop_Blacksmith",
+          "DialogueText": "Jakieś metale lub minerały na sprzedaż?",
+          "AudioPath": "assets/pl/Clint/206.ogg",
+          "TranslationKey": "Data/Shops:Blacksmith:Default",
+          "PageIndex": 2,
+          "DisplayPattern": "Jakieś metale lub minerały na sprzedaż?"
+        },
+        {
+          "DialogueFrom": "Shop_ClintUpgrade",
+          "DialogueText": "Mogę ulepszyć Twoje narzędzia. Jednakże musisz je u mnie zostawić na kilka dni.",
+          "AudioPath": "assets/pl/Clint/207.ogg",
+          "TranslationKey": "Data/Shops:ClintUpgrade:Default",
+          "PageIndex": 0,
+          "DisplayPattern": "Mogę ulepszyć Twoje narzędzia. Jednakże musisz je u mnie zostawić na kilka dni."
         }
       ]
     }

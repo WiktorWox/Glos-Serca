@@ -1,0 +1,84 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 188.ogg).
+
+DialogueFrom: Strings/Characters:Phone_Clint_Open  [telefon]
+DialogueText: Halo? Och, hej, {Farmer_Name}. Ta, Mam otwarte do 16. Em... Ok. Na razie. *klik*
+AudioName: 188.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Clint_Open_Rare  [telefon]
+DialogueText: Halo? Tak, tak, pracuję do 16. Muszę iść. *klik*
+AudioName: 189_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Clint_Open_Rare (strona 2)  [telefon]
+DialogueText: Halo? Och... {Farmer_Name}... Twój głos pięknie brzmi przez telefon... Uch... Ok. Rozumiem. Pracuję do 16. *trzask* {Portrait:Love}
+AudioName: 190_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Clint_Closed  [telefon]
+DialogueText: Dodzwoniłeś się do poczty głosowej Clinta. Jestem zajęty... Pracuję od 9 do 16. *biip*
+AudioName: 191.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Clint_Festival  [telefon]
+DialogueText: Hej, Tu Clint. Mam dzisiaj wolne. *biip*
+AudioName: 192.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Clint_Working_OneDay  [telefon]
+DialogueText: Hej... Twoje narzędzie będzie gotowe dopiero jutro. Wracam do roboty. *brzdęk* *brzdęk* *klik*
+AudioName: 193.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Clint_Working  [telefon]
+DialogueText: Halo? Tak? Jeszcze pracuję nad Twoim narzędziem. Zadzwoń później. *klik*
+AudioName: 194.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 195.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 196.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Adult  [okrzyk w dymku nad głową]
+DialogueText: Hej, przestań! Fuj! {Portrait:Sad}
+AudioName: 197.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Invited_Rude  [zaproszenie do kina]
+DialogueText: Film? Pewnie, obojętne, może być. Zobaczymy się na miejscu...
+AudioName: 198.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 199.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 200.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 201.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 202.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 203.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Blacksmith:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Masz lenia? Nie chce Ci się kopać rud? Nic nie szkodzi.
+AudioName: 204.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Blacksmith:Default (strona 2)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Mam wiele rud metalu na sprzedaż. Proszę bardzo.
+AudioName: 205.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Blacksmith:Default (strona 3)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Jakieś metale lub minerały na sprzedaż?
+AudioName: 206.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:ClintUpgrade:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Mogę ulepszyć Twoje narzędzia. Jednakże musisz je u mnie zostawić na kilka dni.
+AudioName: 207.ogg
+--------------------------------------------------

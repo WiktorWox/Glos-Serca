@@ -1,0 +1,92 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 1.ogg).
+
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_828  [inne]
+DialogueText: Moje badania sugerują, że kiedyś na tej wyspie żył prehistoryczny gatunek żaby. Zamieszkiwały ciemne, wilgotne obszary z dużą ilością roślin...
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_827  [inne]
+DialogueText: Dawno temu, mieszkał tu rzadki rodzaj nietoperza jaskiniowego. Były przystosowane do znoszenia intensywnego ciepła. Ciekawe, nie?
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_826  [inne]
+DialogueText: Hmm... Mój nos mi mówi, że te kręgi węża mogą być w zachodnim regionie wyspy.
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_825  [inne]
+DialogueText: Jeśli zobaczysz coś wijącego się w ziemi, wykop to. Nie wiadomo co może tam być!
+AudioName: 4.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_824  [inne]
+DialogueText: Zanim utknąłem w tej jaskini, badałem pobliski wąwóz. Tamtejsze kamienie są pełne skamielin! Gdybym był Tobą, to bym je niszczył w poszukiwaniu kości.
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_822  [inne]
+DialogueText: Wiesz co? Założę się, że dzięki przesiewaniu w pobliskiej rzece, dałoby się znaleźć jakieś ciekawe rzeczy.
+AudioName: 6.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_821  [inne]
+DialogueText: Wokół tej wyspy jest dobra fauna wodna. Z tego co wiem, wiele ryb lubi skubać antyczne kości...
+AudioName: 7.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_820  [inne]
+DialogueText: Znalazłeś jakieś złote kokosy na tej wyspie? Podobno wiele ciekawych rzeczy można w nich znaleźć...
+AudioName: 8_male.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:ProfessorSnail_Hint_820 (strona 2)  [inne]
+DialogueText: Znalazłaś jakieś złote kokosy na tej wyspie? Podobno wiele ciekawych rzeczy można w nich znaleźć...
+AudioName: 9_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Welcome_0  [okrzyk w dymku nad głową]
+DialogueText: Dzień dobry!
+AudioName: 10.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Welcome_1  [okrzyk w dymku nad głową]
+DialogueText: Cześć!
+AudioName: 11.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Welcome_2  [okrzyk w dymku nad głową]
+DialogueText: Hej!
+AudioName: 12.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Welcome_3  [okrzyk w dymku nad głową]
+DialogueText: Witam!
+AudioName: 13.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Survey_PurpleFlower_Wrong  [inne]
+DialogueText: Hmm... Ta liczba w ogóle nie pasuje... Może spróbuj jeszcze raz jutro. {Portrait:Sad}
+AudioName: 14.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Survey_PurpleFlower_Correct  [inne]
+DialogueText: Tak, tak... to wygląda na poprawną ilość. Dziękuję! {Portrait:Happy}
+AudioName: 15.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:IslandFieldOffice_Survey_Failed  [inne]
+DialogueText: Hmm... Chyba musisz sobie zrobić przerwę i spróbować jutro...
+AudioName: 16.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FieldOfficeDonated_0  [inne]
+DialogueText: Ach... To naprawdę fascynujący kawałek naturalnej historii. Dziękuję Ci.
+AudioName: 17.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FieldOfficeDonated_1  [inne]
+DialogueText: Piękne! Właśnie tego szukałem. Pozwól, że wyczyszczę moją soczewkę powiększającą...
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FieldOfficeDonated_2  [inne]
+DialogueText: Zaskakujesz mnie, {Farmer_Name}. To jeden z najbardziej nieskazitelnych okazów jakie kiedykolwiek widziałem. Dziękuję Ci! {Portrait:Happy}
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FieldOfficeDonated_3  [inne]
+DialogueText: I pomyśleć, że... Tyle pokoleń przychodziło i odchodziło, gdy ta mała kość leżała ukryta pod ziemią. Teraz jest moja!
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FieldOfficeDonated_Reward  [inne]
+DialogueText: Spójrz! Dzięki tej darowiźnie mamy ukończony kolejny zbiór. {Portrait:Happy}
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:FieldOfficeDonated_Reward (strona 2)  [inne]
+DialogueText: Mam tu coś dla Ciebie!
+AudioName: 22.ogg
+--------------------------------------------------

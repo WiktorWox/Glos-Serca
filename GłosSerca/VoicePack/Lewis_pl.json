@@ -3013,6 +3013,110 @@
           "TranslationKey": "Data/Quests:120",
           "PageIndex": 1,
           "DisplayPattern": "Wysokiej jakości... bardzo śliski. Idealny. Dziękuję."
+        },
+        {
+          "DialogueFrom": "Event.cs.1025",
+          "DialogueText": "Przepiękna ceremonia. Gratulacje! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/373.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1025",
+          "PageIndex": 0,
+          "DisplayPattern": "Przepiękna ceremonia. Gratulacje!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1730",
+          "DialogueText": "Ty!!! Czy to był jakiś głupi żart?! To jest moja prywatna własność! {Portrait:Love}",
+          "AudioPath": "assets/pl/Lewis/374.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1730",
+          "PageIndex": 0,
+          "DisplayPattern": "Ty!!! Czy to był jakiś głupi żart?! To jest moja prywatna własność!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1730",
+          "DialogueText": "Masz, weź te 750 gwiezdnych żetonów i nikomu nie mów. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/375.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1730",
+          "PageIndex": 1,
+          "DisplayPattern": "Masz, weź te 750 gwiezdnych żetonów i nikomu nie mów."
+        },
+        {
+          "DialogueFrom": "Event.cs.1730",
+          "DialogueText": "Teraz wyczyść swoją wystawę i przynieś mi moją... rzecz... jutro. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/376.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1730",
+          "PageIndex": 2,
+          "DisplayPattern": "Teraz wyczyść swoją wystawę i przynieś mi moją... rzecz... jutro."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/377.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie mogę w to uwierzyć, jesteś okrutną osobą!"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/378.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0,
+          "DisplayPattern": "To boli! Co jest z Tobą nie tak?"
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/379.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0,
+          "DisplayPattern": "Hej, przestań! Fuj!"
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited",
+          "DialogueText": "Film? Pewnie. Spotkamy się w kinie.",
+          "AudioPath": "assets/pl/Lewis/380.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited",
+          "PageIndex": 0,
+          "DisplayPattern": "Film? Pewnie. Spotkamy się w kinie."
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Lewis/381.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, nie mam ochoty iść na film..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Lewis/382.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz, ten film był w tamtym tygodniu..."
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Lewis/383.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?"
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Lewis/384.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0,
+          "DisplayPattern": "Umm... nie wydaje mi się."
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Lewis/385.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0,
+          "DisplayPattern": "Czy to żart? Nie łapię."
         }
       ]
     }

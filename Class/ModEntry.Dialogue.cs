@@ -68,6 +68,9 @@ namespace VoiceOverFrameworkMod
             else if (_lastCaptionBySource.Count > 0)
                 _lastCaptionBySource.Clear();
 
+            // Shop owner box and speakerless question boxes (Robin's offers)
+            CheckForMenuLines();
+
             var dlgBox = Game1.activeClickableMenu as DialogueBox;
             string speakerName = dlgBox?.characterDialogue?.speaker?.Name ?? Game1.currentSpeaker?.Name;
 
