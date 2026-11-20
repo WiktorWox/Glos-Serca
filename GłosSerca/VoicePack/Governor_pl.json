@@ -62,7 +62,7 @@
           "AudioPath": "assets/pl/Governor/7.ogg",
           "TranslationKey": "Data/Festivals/summer11:governorReaction3",
           "PageIndex": 0,
-          "DisplayPattern": "emote Governor 32/pause 400/playMusic jaunty/speak Governor \"Ach... bardzo dobra zupa. Produkty z doliny nigdy nie zawodzą!\"/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Mmm... Smaczna. Dobrze się spisaliście.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Kto chce trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Luau było udane! Dobrze, że było w tej zupie coś z mojej y.\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
+          "DisplayPattern": "emote Governor 32/pause 400/playMusic jaunty/speak Governor \"Ach... bardzo dobra zupa. Produkty z doliny nigdy nie zawodzą!\"/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Mmm... Smaczna. Dobrze się spisaliście.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Kto chce trochę zupy?\"/faceDirection Marnie 0 true/moveToSoup/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"Luau było udane! Dobrze, że było w tej zupie coś z mojej farmy.\"/pause 500/message \"Pora wracać.\"/waitForOtherPlayers festivalEnd/end"
         },
         {
           "DialogueFrom": "Festival/summer11/governorReaction2",

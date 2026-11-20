@@ -272,7 +272,7 @@
           "AudioPath": "assets/pl/Alex/32.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:purchasedAnimal_Chicken_memory_oneday",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, słyszałem, że masz na swojej ie pierwszego kurczaka."
+          "DisplayPattern": "Hej, słyszałem, że masz na swojej farmie pierwszego kurczaka."
         },
         {
           "DialogueFrom": "purchasedAnimal_Chicken_memory_oneday",
@@ -772,7 +772,7 @@
           "AudioPath": "assets/pl/Alex/93_male.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:Fri",
           "PageIndex": 0,
-          "DisplayPattern": "Eee, co tam erze?",
+          "DisplayPattern": "Eee, co tam farmerze?",
           "GenderVariant": "male"
         },
         {
@@ -781,7 +781,7 @@
           "AudioPath": "assets/pl/Alex/94_female.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:Fri",
           "PageIndex": 1,
-          "DisplayPattern": "Hej, erko. Masz nowe spodnie? To dobrze.",
+          "DisplayPattern": "Hej, farmerko. Masz nowe spodnie? To dobrze.",
           "GenderVariant": "female"
         },
         {
@@ -1158,7 +1158,7 @@
           "AudioPath": "assets/pl/Alex/140_male.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:summer_Mon",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, erze. Chyba za długo siedziałeś na słońcu.",
+          "DisplayPattern": "Hej, farmerze. Chyba za długo siedziałeś na słońcu.",
           "GenderVariant": "male"
         },
         {
@@ -1167,7 +1167,7 @@
           "AudioPath": "assets/pl/Alex/141_female.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:summer_Mon",
           "PageIndex": 1,
-          "DisplayPattern": "Hej erko. Dobrze się opaliłaś.",
+          "DisplayPattern": "Hej farmerko. Dobrze się opaliłaś.",
           "GenderVariant": "female"
         },
         {
@@ -1308,7 +1308,7 @@
           "AudioPath": "assets/pl/Alex/158_male.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:summer_Thu",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, musisz być bardzo silny przez prace na ie.",
+          "DisplayPattern": "Hej, musisz być bardzo silny przez prace na farmie.",
           "GenderVariant": "male"
         },
         {
@@ -1317,7 +1317,7 @@
           "AudioPath": "assets/pl/Alex/159_female.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:summer_Thu",
           "PageIndex": 1,
-          "DisplayPattern": "Hej, musisz być w dobrej formie pracując na tej ie cały dzień.",
+          "DisplayPattern": "Hej, musisz być w dobrej formie pracując na tej farmie cały dzień.",
           "GenderVariant": "female"
         },
         {
@@ -1422,7 +1422,7 @@
           "AudioPath": "assets/pl/Alex/172.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:summer_Thu4",
           "PageIndex": 1,
-          "DisplayPattern": "Cała ta praca na ie się opłaca, co?"
+          "DisplayPattern": "Cała ta praca na farmie się opłaca, co?"
         },
         {
           "DialogueFrom": "summer_Mon4",
@@ -1454,7 +1454,7 @@
           "AudioPath": "assets/pl/Alex/176.ogg",
           "TranslationKey": "Characters/Dialogue/Alex:summer_Wed8",
           "PageIndex": 0,
-          "DisplayPattern": "Wiesz co, nie miałbym nic przeciwko byciu erem... w pewien sposób przypomina uprawianie sportu."
+          "DisplayPattern": "Wiesz co, nie miałbym nic przeciwko byciu farmerem... w pewien sposób przypomina uprawianie sportu."
         },
         {
           "DialogueFrom": "summer_Wed8",
@@ -2010,7 +2010,7 @@
           "AudioPath": "assets/pl/Alex/245.ogg",
           "TranslationKey": "Data/EngagementDialogue:Alex1",
           "PageIndex": 0,
-          "DisplayPattern": "Chyba polubię bycie erem."
+          "DisplayPattern": "Chyba polubię bycie farmerem."
         },
         {
           "DialogueFrom": "Marriage/Alex/Bad_0",
@@ -2434,7 +2434,7 @@
           "AudioPath": "assets/pl/Alex/297.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_2",
           "PageIndex": 0,
-          "DisplayPattern": "Przerwa? Myślę, że bycie erem jest łatwiejsze niż się wydawało..."
+          "DisplayPattern": "Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało..."
         },
         {
           "DialogueFrom": "Marriage/Alex/Neutral_3",
@@ -2500,7 +2500,7 @@
           "AudioPath": "assets/pl/Alex/305.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_8",
           "PageIndex": 1,
-          "DisplayPattern": "Chyba y są na swój sposób brudne."
+          "DisplayPattern": "Chyba farmy są na swój sposób brudne."
         },
         {
           "DialogueFrom": "Marriage/Alex/Neutral_9",
@@ -2552,7 +2552,7 @@
         },
         {
           "DialogueFrom": "Marriage/Alex/OneKid_1",
-          "DialogueText": "kid1 będzie siłaczem, tak jak tatuś.",
+          "DialogueText": "%kid1 będzie siłaczem, tak jak tatuś.",
           "AudioPath": "assets/pl/Alex/312.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAlex:OneKid_1",
           "PageIndex": 0,
@@ -2564,7 +2564,7 @@
           "AudioPath": "assets/pl/Alex/313.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu farmy."
         },
         {
           "DialogueFrom": "Marriage/Alex/OneKid_3",
@@ -2604,7 +2604,7 @@
           "AudioPath": "assets/pl/Alex/318_male.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAlex:Outdoor_3",
           "PageIndex": 0,
-          "DisplayPattern": "Popatrz na nas i na naszą małą ę. Słodka z nas rodzinka.",
+          "DisplayPattern": "Popatrz na nas i na naszą małą farmę. Słodka z nas rodzinka.",
           "GenderVariant": "male"
         },
         {
@@ -2630,7 +2630,7 @@
           "AudioPath": "assets/pl/Alex/321.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Outdoor_Alex",
           "PageIndex": 0,
-          "DisplayPattern": "Mam na dzisiaj dużo ćwiczeń! Ha ha! Kocham życie na ie."
+          "DisplayPattern": "Mam na dzisiaj dużo ćwiczeń! Ha ha! Kocham życie na farmie."
         },
         {
           "DialogueFrom": "Marriage/Alex/patio_Alex",
@@ -2890,7 +2890,7 @@
         },
         {
           "DialogueFrom": "Marriage/Alex/TwoKids_0",
-          "DialogueText": "kid1 i %kid2 już jedli śniadanie. Straszne z nich głodomory!",
+          "DialogueText": "%kid1 i %kid2 już jedli śniadanie. Straszne z nich głodomory!",
           "AudioPath": "assets/pl/Alex/354.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:TwoKids_0",
           "PageIndex": 0,
@@ -3616,7 +3616,7 @@
           "AudioPath": "assets/pl/Alex/443.ogg",
           "TranslationKey": "Events/Saloon:rejectJosh:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Straciłem ayt..."
+          "DisplayPattern": "Straciłem apetyt..."
         },
         {
           "DialogueFrom": "Event/Saloon/195099:s0",
@@ -4688,7 +4688,7 @@
           "AudioPath": "assets/pl/Alex/576_male.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 0,
-          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "DisplayPattern": "To ty jesteś nowym farmerem, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -4697,7 +4697,7 @@
           "AudioPath": "assets/pl/Alex/577_female.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 1,
-          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "DisplayPattern": "To ty jesteś nową farmerką, prawda?",
           "GenderVariant": "female"
         },
         {

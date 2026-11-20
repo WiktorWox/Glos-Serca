@@ -94,7 +94,8 @@ namespace VoiceOverFrameworkMod
             }
             if (Config.developerModeOn)
                 Monitor.Log($"[V2-{tag}] character='{character}' text='{canon}' match={(rel ?? "no")}", LogLevel.Debug);
-            if (string.IsNullOrWhiteSpace(rel)) return false;
+            if (string.IsNullOrWhiteSpace(rel))
+                return TryPlayTemplate(pack, displayed, tag);
             string full = PathUtilities.NormalizePath(Path.Combine(pack.BaseAssetPath, rel));
             if (!File.Exists(full)) return false;
             PlayVoiceFromFile(full);

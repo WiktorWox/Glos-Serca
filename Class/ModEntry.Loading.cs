@@ -171,6 +171,7 @@ namespace VoiceOverFrameworkMod
 
                                 //V2 DisplayPattern index (stripped/canonical)
                                 var entriesByDisplayPattern = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+                                var templates = new List<TemplateLine>();
 
                                 foreach (var entry in manifestData.Entries)
                                 {
@@ -238,6 +239,12 @@ namespace VoiceOverFrameworkMod
                                         }
                                     }
 
+                                    // V2 templates: lines with variable parts, matched by regex (ModEntry.TemplateMatch)
+                                    if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DialogueText))
+                                        foreach (string actorVariant in SplitGenderVariants(entry.DialogueText))
+                                            if (BuildTemplate(actorVariant, audioPath) is TemplateLine tl)
+                                                templates.Add(tl);
+
                                     //V2 DisplayPattern index (canonical form)
                                     if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DisplayPattern))
                                     foreach (string patternVariant in SplitGenderVariants(entry.DisplayPattern))
@@ -281,6 +288,7 @@ namespace VoiceOverFrameworkMod
 
                                     // V2 TranslationKey map
                                     EntriesByTranslationKey = entriesByTk,
+                                    TemplateEntries = templates,
 
                                     //: V2 DisplayPattern map
                                     EntriesByDisplayPattern = entriesByDisplayPattern,

@@ -17,6 +17,9 @@ namespace VoiceOverFrameworkMod
         public bool FallbackToDefaultIfMissing { get; set; } = false;
         public Dictionary<string, string> SelectedVoicePacks { get; set; } = new();
         public bool developerModeOn { get; set; } = false;
+        /// <summary>Play the most similar pack line when nothing matches exactly. Off by default: a different text means a
+        /// different line; in developer mode the closest candidate is only logged.</summary>
+        public bool FuzzyMatching { get; set; } = false;
         public bool AutoFixDialogueFromOnLoad { get; set; } = true;
 
         public int TextStabilizeTicks { set; get; } = 8;
@@ -53,6 +56,8 @@ namespace VoiceOverFrameworkMod
         public Dictionary<string, string> EntriesByTranslationKey { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
         public Dictionary<string, string> EntriesByDisplayPattern { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+        /// <summary>Lines with variable parts (player name, %farm, %book, {0}…) as regexes; see ModEntry.TemplateMatch.</summary>
+        public List<ModEntry.TemplateLine> TemplateEntries { get; set; } = new();
 
         public string ContentPackId { get; set; }
         public string ContentPackName { get; set; }

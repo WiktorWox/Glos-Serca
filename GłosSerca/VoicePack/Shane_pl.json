@@ -180,7 +180,7 @@
           "AudioPath": "assets/pl/Shane/21.ogg",
           "TranslationKey": "Characters/Dialogue/Shane:Resort_Shore",
           "PageIndex": 0,
-          "DisplayPattern": "Tak jest... nie mam na sobie żadnych butów ani skar."
+          "DisplayPattern": "Tak jest... nie mam na sobie żadnych butów ani skarpet."
         },
         {
           "DialogueFrom": "Resort_Shore",
@@ -654,7 +654,7 @@
           "AudioPath": "assets/pl/Shane/80.ogg",
           "TranslationKey": "Characters/Dialogue/Shane:Sat10",
           "PageIndex": 0,
-          "DisplayPattern": "Twoja a to świetne miejsce na hodowlę kur."
+          "DisplayPattern": "Twoja farma to świetne miejsce na hodowlę kur."
         },
         {
           "DialogueFrom": "Sun",
@@ -940,7 +940,7 @@
           "AudioPath": "assets/pl/Shane/115.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueShane:Bad_7",
           "PageIndex": 0,
-          "DisplayPattern": "Życie na ie jest w sumie nudne. Co ja tu robię?"
+          "DisplayPattern": "Życie na farmie jest w sumie nudne. Co ja tu robię?"
         },
         {
           "DialogueFrom": "Marriage/Shane/Bad_8",
@@ -1084,7 +1084,7 @@
           "AudioPath": "assets/pl/Shane/133.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueShane:Good_5",
           "PageIndex": 0,
-          "DisplayPattern": "Ach... Życie na ie bije na głowę pracę w Joja. Tamto miejsce jest okropne."
+          "DisplayPattern": "Ach... Życie na farmie bije na głowę pracę w Joja. Tamto miejsce jest okropne."
         },
         {
           "DialogueFrom": "Marriage/Shane/Good_5",
@@ -1386,7 +1386,7 @@
         },
         {
           "DialogueFrom": "Marriage/Shane/OneKid_1",
-          "DialogueText": "kid1 musi jeść dużo jajek... trzeba se jakoś wyrobić te nogi!",
+          "DialogueText": "%kid1 musi jeść dużo jajek... trzeba se jakoś wyrobić te nogi!",
           "AudioPath": "assets/pl/Shane/171.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueShane:OneKid_1",
           "PageIndex": 0,
@@ -1398,7 +1398,7 @@
           "AudioPath": "assets/pl/Shane/172.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu farmy."
         },
         {
           "DialogueFrom": "Marriage/Shane/OneKid_3",
@@ -1470,7 +1470,7 @@
           "AudioPath": "assets/pl/Shane/181.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueShane:Outdoor_4",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, . Nie chciałem Cię budzić, więc cichutko wstałem i poszedłem na przechadzkę po ie. Wszystko gra."
+          "DisplayPattern": "Hej, . Nie chciałem Cię budzić, więc cichutko wstałem i poszedłem na przechadzkę po farmie. Wszystko gra."
         },
         {
           "DialogueFrom": "Marriage/Shane/Outdoor_Shane",
@@ -3554,7 +3554,7 @@
           "AudioPath": "assets/pl/Shane/440.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue3_Shane",
           "PageIndex": 1,
-          "DisplayPattern": "A byłaby szkoda, bo tutejsze ptaki są fenomenalne!\"/emote er 16/pause 1000/speak Shane \"Heh... M... mam tendencje do żartowania, Bo... cóż..."
+          "DisplayPattern": "A byłaby szkoda, bo tutejsze ptaki są fenomenalne!\"/emote farmer 16/pause 1000/speak Shane \"Heh... M... mam tendencje do żartowania, Bo... cóż..."
         },
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue3_Shane",
@@ -3954,7 +3954,7 @@
           "AudioPath": "assets/pl/Shane/490_male.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 0,
-          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "DisplayPattern": "To ty jesteś nowym farmerem, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -3963,7 +3963,7 @@
           "AudioPath": "assets/pl/Shane/491_female.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 1,
-          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "DisplayPattern": "To ty jesteś nową farmerką, prawda?",
           "GenderVariant": "female"
         },
         {

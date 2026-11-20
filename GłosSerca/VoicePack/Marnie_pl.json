@@ -46,7 +46,7 @@
           "AudioPath": "assets/pl/Marnie/5.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:gotPet",
           "PageIndex": 0,
-          "DisplayPattern": "Myślę, że spodoba Ci się mieszkanie na ie z nowym przyjacielem."
+          "DisplayPattern": "Myślę, że spodoba Ci się mieszkanie na farmie z nowym przyjacielem."
         },
         {
           "DialogueFrom": "gotPet_memory_oneday",
@@ -122,7 +122,7 @@
           "AudioPath": "assets/pl/Marnie/14.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:married_Shane",
           "PageIndex": 0,
-          "DisplayPattern": "Cieszę się, że Shane zamieszkał na Twojej ie... może podtrzyma rodzinną tradycję!"
+          "DisplayPattern": "Cieszę się, że Shane zamieszkał na Twojej farmie... może podtrzyma rodzinną tradycję!"
         },
         {
           "DialogueFrom": "Resort",
@@ -220,7 +220,7 @@
           "AudioPath": "assets/pl/Marnie/26.ogg",
           "TranslationKey": "Characters/Dialogue/Marnie:Thu_2",
           "PageIndex": 0,
-          "DisplayPattern": "Jesteś tu już od jakiegoś czasu... jak tam Twoja a?"
+          "DisplayPattern": "Jesteś tu już od jakiegoś czasu... jak tam Twoja farma?"
         },
         {
           "DialogueFrom": "Thu_2",
@@ -590,7 +590,7 @@
           "AudioPath": "assets/pl/Marnie/72.ogg",
           "TranslationKey": "Events/Farm:1590166:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Znalazłam go przy wejściu na Twoją ę! Chyba nie ma domu... Biedny kiciuś."
+          "DisplayPattern": "Znalazłam go przy wejściu na Twoją farmę! Chyba nie ma domu... Biedny kiciuś."
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s3",
@@ -598,7 +598,7 @@
           "AudioPath": "assets/pl/Marnie/73.ogg",
           "TranslationKey": "Events/Farm:1590166:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Chyba lubi to miejsce! Hej, em.... Nie wydaje Ci się, że tej ie przydałby się kot?"
+          "DisplayPattern": "Chyba lubi to miejsce! Hej, em.... Nie wydaje Ci się, że tej farmie przydałby się kot?"
         },
         {
           "DialogueFrom": "Event/Farm/1590166:s4",
@@ -630,7 +630,7 @@
           "AudioPath": "assets/pl/Marnie/77.ogg",
           "TranslationKey": "Events/Farm:897405:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Znalazłam tego psa przed wejściem na ę! Chyba jest bezdomny... Biedny piesek."
+          "DisplayPattern": "Znalazłam tego psa przed wejściem na farmę! Chyba jest bezdomny... Biedny piesek."
         },
         {
           "DialogueFrom": "Event/Farm/897405:s3",
@@ -638,7 +638,7 @@
           "AudioPath": "assets/pl/Marnie/78.ogg",
           "TranslationKey": "Events/Farm:897405:s3",
           "PageIndex": 0,
-          "DisplayPattern": "Chyba lubi to miejsce! Hej, em.... Nie uważasz, że tej ie przydałby się dobry pies?"
+          "DisplayPattern": "Chyba lubi to miejsce! Hej, em.... Nie uważasz, że tej farmie przydałby się dobry pies?"
         },
         {
           "DialogueFrom": "Event/Farm/897405:s4",
@@ -1114,7 +1114,7 @@
           "AudioPath": "assets/pl/Marnie/136.ogg",
           "TranslationKey": "Data/Festivals/fall27:Marnie_y2",
           "PageIndex": 1,
-          "DisplayPattern": "Czy ten rok na ie był udany, ?"
+          "DisplayPattern": "Czy ten rok na farmie był udany, ?"
         },
         {
           "DialogueFrom": "Festival/spring13/Marnie",
@@ -1348,7 +1348,7 @@
           "AudioPath": "assets/pl/Marnie/165.ogg",
           "TranslationKey": "Strings/1_6_Strings:Shop_Marnie",
           "PageIndex": 0,
-          "DisplayPattern": "Znalazłam nie otwartą rolkę tay z mojego domu. Za 20 jajek jest Twoja!"
+          "DisplayPattern": "Znalazłam nie otwartą rolkę tapety z mojego domu. Za 20 jajek jest Twoja!"
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:Marnie_Counter",
@@ -1428,7 +1428,7 @@
           "AudioPath": "assets/pl/Marnie/175.ogg",
           "TranslationKey": "Strings/SpeechBubbles:AnimalShop_Marnie_Greeting3",
           "PageIndex": 0,
-          "DisplayPattern": "Hej! Jak na ie {1}?"
+          "DisplayPattern": "Hej! Jak na Farmie {1}?"
         },
         {
           "DialogueFrom": "AnimalShop_Marnie_RareGreeting",

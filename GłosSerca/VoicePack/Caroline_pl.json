@@ -14,7 +14,7 @@
           "AudioPath": "assets/pl/Caroline/1.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Introduction",
           "PageIndex": 0,
-          "DisplayPattern": "Witaj! Ty musisz być , nowy er. Jestem Caroline."
+          "DisplayPattern": "Witaj! Ty musisz być , nowy farmer. Jestem Caroline."
         },
         {
           "DialogueFrom": "Introduction",
@@ -70,7 +70,7 @@
           "AudioPath": "assets/pl/Caroline/8.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:cropMatured_815",
           "PageIndex": 0,
-          "DisplayPattern": "Zauważyłam, że hodujesz na swojej ie herbatę. Przynieś mi może kiedyś filiżankę na spróbowanie!"
+          "DisplayPattern": "Zauważyłam, że hodujesz na swojej farmie herbatę. Przynieś mi może kiedyś filiżankę na spróbowanie!"
         },
         {
           "DialogueFrom": "dating_Abigail_memory_oneday",
@@ -142,7 +142,7 @@
           "AudioPath": "assets/pl/Caroline/17_male.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:married_memory_oneweek",
           "PageIndex": 1,
-          "DisplayPattern": "Rozumiem. Cóż, a mogłaby obumrzeć, gdybyś zrobił sobie wolne...",
+          "DisplayPattern": "Rozumiem. Cóż, farma mogłaby obumrzeć, gdybyś zrobił sobie wolne...",
           "GenderVariant": "male"
         },
         {
@@ -151,7 +151,7 @@
           "AudioPath": "assets/pl/Caroline/18_female.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:married_memory_oneweek",
           "PageIndex": 2,
-          "DisplayPattern": "Rozumiem. Cóż, a mogłaby obumrzeć, gdybyś zrobiła sobie wolne...",
+          "DisplayPattern": "Rozumiem. Cóż, farma mogłaby obumrzeć, gdybyś zrobiła sobie wolne...",
           "GenderVariant": "female"
         },
         {
@@ -186,7 +186,7 @@
           "AudioPath": "assets/pl/Caroline/22.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:houseUpgrade_1",
           "PageIndex": 1,
-          "DisplayPattern": "Dobrze jest mieć taką umiejętność. A z tymi wszystkimi składnikami na Twojej ie, jest pole do popisu!"
+          "DisplayPattern": "Dobrze jest mieć taką umiejętność. A z tymi wszystkimi składnikami na Twojej farmie, jest pole do popisu!"
         },
         {
           "DialogueFrom": "houseUpgrade_1",
@@ -314,7 +314,7 @@
           "AudioPath": "assets/pl/Caroline/38.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:Wed",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć. Masz wszystko czego Ci trzeba do Twojej y?"
+          "DisplayPattern": "Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?"
         },
         {
           "DialogueFrom": "Wed",
@@ -530,7 +530,7 @@
           "AudioPath": "assets/pl/Caroline/65.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:summer_Wed",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć. Masz wszystko czego Ci trzeba do Twojej y?"
+          "DisplayPattern": "Cześć. Masz wszystko czego Ci trzeba do Twojej farmy?"
         },
         {
           "DialogueFrom": "summer_Wed",
@@ -658,7 +658,7 @@
           "AudioPath": "assets/pl/Caroline/81.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:fall_Wed6",
           "PageIndex": 0,
-          "DisplayPattern": "Wiesz, kiedyś też byłam erem. Cóż, bardziej ranczerem."
+          "DisplayPattern": "Wiesz, kiedyś też byłam farmerem. Cóż, bardziej ranczerem."
         },
         {
           "DialogueFrom": "fall_Wed6",
@@ -730,7 +730,7 @@
           "AudioPath": "assets/pl/Caroline/90.ogg",
           "TranslationKey": "Characters/Dialogue/Caroline:winter_Wed6",
           "PageIndex": 1,
-          "DisplayPattern": "Przewiduję, że następny rok na Twojej ie będzie udany."
+          "DisplayPattern": "Przewiduję, że następny rok na Twojej farmie będzie udany."
         },
         {
           "DialogueFrom": "rainy",
@@ -1106,7 +1106,7 @@
           "AudioPath": "assets/pl/Caroline/137.ogg",
           "TranslationKey": "Data/Festivals/winter8:Caroline_y2",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, . Masz zamiar odpocząć od swoich erskich obowiązków tej zimy?"
+          "DisplayPattern": "Cześć, . Masz zamiar odpocząć od swoich farmerskich obowiązków tej zimy?"
         },
         {
           "DialogueFrom": "NPCGiftTastes/Caroline:s0",

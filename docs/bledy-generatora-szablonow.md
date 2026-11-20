@@ -1,8 +1,8 @@
 # Błędy generatora szablonów (`create_template`)
 
-Znalezione 20 listopada 2026 podczas testów kwestii ze znacznikami (`%kid1`, `%farm`…). Oba błędy siedzą w kodzie generatora z oryginalnego frameworka jessevanga (`Class/DialogueParse/ModEntry.DialogueUtil.cs`), a nie w tłumaczeniu DNKSH. Nie są jeszcze naprawione.
+Znalezione 20 listopada 2026 podczas testów kwestii ze znacznikami (`%kid1`, `%farm`…). Błędy siedzą w kodzie generatora z oryginalnego frameworka jessevanga (`Class/DialogueParse/ModEntry.DialogueUtil.cs`), a nie w tłumaczeniu DNKSH. Błędy 1 i 2 są naprawione 20 listopada (niżej opis zmian), błąd 3 jeszcze nie.
 
-## 1. Znacznik na początku kwestii traci `%`
+## 1. Znacznik na początku kwestii traci `%` (naprawione)
 
 Generator usuwa `%` z początku kwestii (`RxLeadingNarr`, wzorzec `^\s*%+`), bo w grze `%` na początku oznacza narrację bez portretu. Gra robi jednak wyjątek dla znaczników z listy `Dialogue.percentTokens` (`%kid1`, `%kid2`, `%farm`, `%year`…) i takich kwestii nie traktuje jako narracji. Generator tego wyjątku nie zna.
 
@@ -33,7 +33,7 @@ Kwestie w tłumaczeniu, które zaczynają się od znacznika (cała kwestia albo 
 
 Naprawa: w `RxLeadingNarr` nie usuwać `%`, gdy za nim stoi znacznik z listy gry, i przeliczyć te wpisy w paczkach (tekst dla aktora i wzorzec; numery i nagrania bez zmian). Dla zespołu nagraniowego: w tych kwestiach na początku jest imię dziecka albo liczba lat, którą aktor pomija lub omija przeformułowaniem.
 
-## 2. Reguła usuwania znaczników wycina zwykłe słowa
+## 2. Reguła usuwania znaczników wycina zwykłe słowa (naprawione)
 
 `RxStripTokens` miał usuwać znaczniki (`%farm`, `%pet`…) ze wzorca dopasowania. Od commita jessevanga `f5b730e` (6 września 2025) `%` jest w nim opcjonalny i nie ma granicy słowa, więc reguła wycina te ciągi liter z każdego słowa: „farma” → „a”, „tapet” → „ta”, „skarpet” → „skar”. Nie zna też `%year`.
 
@@ -43,3 +43,20 @@ Naprawa: w `RxLeadingNarr` nie usuwać `%`, gdy za nim stoi znacznik z listy gry
 - Okienko sklepu i pytania Robin próbują obu wersji tekstu (`Class/ModEntry.MenuLines.cs`), więc działają mimo błędu.
 
 Naprawa: `%(?:adj|noun|…|time|year)(?![A-Za-z])` (obowiązkowy `%`, zamiast `\b` warunek „bez łacińskiej litery dalej”, co działa też dla chińskiego i japońskiego) i przeliczenie samych wzorców w paczkach. Przy okazji ujednolicić spacje w miejscu usuniętego znacznika: przy odtwarzaniu po usunięciu nazwy farmy zostaje „'' ''”, a we wzorcu „''''”.
+
+## 3. Zdanie przed pytaniem `$q` znika
+
+Kwestia może zaczynać się zdaniem, po którym dopiero pada pytanie z odpowiedziami, np. Abigail `Sun2`: „Zastanawiam się, co by się stało gdybym spędziła całą noc na cmentarzu?#$q 17/18 Sun_old#@, Jak myślisz, co się stanie gdy umrzemy?#$r …”. Generator zaczyna od pytania i gubi pierwsze zdanie, więc w paczce go nie ma i w grze nie gra (sprawdzone 20 listopada). Przy okazji generator zapisuje odpowiedzi gracza („Nie mam pojęcia.”, „Idziemy do Nieba.”…) jako kwestie postaci.
+
+Dotyczy 17 kwestii: Penny `Mon4`, Alex `Wed`, `summer_Wed`, `fall_Wed`, Haley `summer_Sat`, `fall_Sat`, Sam `Wed`, Maru `Sun`, `summer_Thu`, Leah `Mon`, Abigail `Sun2`, `summer_Sun`, `fall_Sun`, `winter_Sun`, Clint `Mon`, Sebastian `Fri2`, `fall_Fri`.
+
+Naprawa: dopisać brakujące zdania jako nowe wpisy na końcu paczek (żeby nie przesuwać numeracji nagranych stron) i dodać je do list dla aktorów. Wpisy z odpowiedziami gracza zostawić albo oznaczyć, bo część może już być nagrana.
+
+## Co zmieniono 20 listopada
+
+- Generator: `RxStripTokens` wymaga `%` i zna `%year`; `RxLeadingNarr` nie zdejmuje `%` sprzed znacznika gry. Przeliczone 331 wzorce i 11 tekstów dla aktorów (z nich nagrane: Abigail 377, Leah 286, Shane 171 – aktor mógł przeczytać „kid1” dosłownie).
+- Odtwarzanie: kwestie ze zmiennymi (imię gracza, `%farm`, `%book`, `{0}`…) dopasowuje wzorzec-regex zbudowany z tekstu dla aktora (`Class/ModEntry.TemplateMatch.cs`), w dialogach, wydarzeniach, dymkach, okienku sklepu i pytaniach.
+- Dopasowanie przybliżone wyłączone domyślnie (`FuzzyMatching` w config.json); w trybie deweloperskim log `[V2-NOMATCH]` z najbliższym wpisem.
+- Klucz tłumaczenia z gry (`Characters\Dialogue\…`) jest ujednolicany do zapisu paczek, więc ścieżka po kluczu działa; numer strony z gry jest brany tylko, gdy gra i paczka mają tyle samo stron.
+
+Sprawdzone w grze: Shane „farma” i `%time`, Leah `%farm`, Elliott wszystkie 3 strony z `%book`, Abigail `%kid1 i %kid2`, Marnie `%pet`, Krobus 5 stron z wariantem płci, Abigail z imieniem gracza, odpowiedź na pytanie, dymek Gusa, okienko sklepu Pierre'a (wtorek), oferta Robin.

@@ -14,7 +14,7 @@
           "AudioPath": "assets/pl/Kent/1_male.ogg",
           "TranslationKey": "Characters/Dialogue/Kent:Mon",
           "PageIndex": 0,
-          "DisplayPattern": "Witaj, erze.",
+          "DisplayPattern": "Witaj, farmerze.",
           "GenderVariant": "male"
         },
         {
@@ -23,7 +23,7 @@
           "AudioPath": "assets/pl/Kent/2_female.ogg",
           "TranslationKey": "Characters/Dialogue/Kent:Mon",
           "PageIndex": 1,
-          "DisplayPattern": "Witaj, erko.",
+          "DisplayPattern": "Witaj, farmerko.",
           "GenderVariant": "female"
         },
         {
@@ -282,7 +282,7 @@
           "AudioPath": "assets/pl/Kent/34.ogg",
           "TranslationKey": "Characters/Dialogue/Kent:Tue2",
           "PageIndex": 1,
-          "DisplayPattern": "Poza tym, że mamy nowego era."
+          "DisplayPattern": "Poza tym, że mamy nowego farmera."
         },
         {
           "DialogueFrom": "Tue6",
@@ -322,7 +322,7 @@
           "AudioPath": "assets/pl/Kent/39.ogg",
           "TranslationKey": "Characters/Dialogue/Kent:Wed",
           "PageIndex": 0,
-          "DisplayPattern": "Mieszkasz tu już od jakiegoś czasu, prawda? Twoja a musi dobrze prosperować."
+          "DisplayPattern": "Mieszkasz tu już od jakiegoś czasu, prawda? Twoja farma musi dobrze prosperować."
         },
         {
           "DialogueFrom": "Wed10",
@@ -508,7 +508,7 @@
           "AudioPath": "assets/pl/Kent/62.ogg",
           "TranslationKey": "Events/Farm:63:s0",
           "PageIndex": 0,
-          "DisplayPattern": "Em... witaj. Jestem Kent. Wróciłem ostatniej nocy... z zagranicy. Żona mi powiedziała, że wprowadził się nowy er."
+          "DisplayPattern": "Em... witaj. Jestem Kent. Wróciłem ostatniej nocy... z zagranicy. Żona mi powiedziała, że wprowadził się nowy farmer."
         },
         {
           "DialogueFrom": "Event/Farm/63:s1",

@@ -940,7 +940,7 @@
           "AudioPath": "assets/pl/Emily/116.ogg",
           "TranslationKey": "Characters/Dialogue/Emily:summer_Fri",
           "PageIndex": 0,
-          "DisplayPattern": "Gdybym nie była zajęta, pomogłabym Ci na ie!"
+          "DisplayPattern": "Gdybym nie była zajęta, pomogłabym Ci na farmie!"
         },
         {
           "DialogueFrom": "summer_Fri",
@@ -1052,7 +1052,7 @@
           "AudioPath": "assets/pl/Emily/130.ogg",
           "TranslationKey": "Characters/Dialogue/Emily:fall_Tue4",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć ! Mam nadzieje, że dobrze Ci się wiedzie na ie."
+          "DisplayPattern": "Cześć ! Mam nadzieje, że dobrze Ci się wiedzie na farmie."
         },
         {
           "DialogueFrom": "fall_Tue4",
@@ -1060,7 +1060,7 @@
           "AudioPath": "assets/pl/Emily/131.ogg",
           "TranslationKey": "Characters/Dialogue/Emily:fall_Tue4",
           "PageIndex": 1,
-          "DisplayPattern": "Świetny z Ciebie er."
+          "DisplayPattern": "Świetny z Ciebie farmer."
         },
         {
           "DialogueFrom": "fall_Wed",
@@ -1236,7 +1236,7 @@
           "AudioPath": "assets/pl/Emily/153.ogg",
           "TranslationKey": "Characters/Dialogue/Emily:winter_Tue2",
           "PageIndex": 0,
-          "DisplayPattern": "Pewnie teraz jesteś najlepszym erem!"
+          "DisplayPattern": "Pewnie teraz jesteś najlepszym farmerem!"
         },
         {
           "DialogueFrom": "winter_Tue4",
@@ -1686,7 +1686,7 @@
           "AudioPath": "assets/pl/Emily/209.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueEmily:Indoor_Day_0",
           "PageIndex": 0,
-          "DisplayPattern": "Kolejny piękny dzień na '''' ie... Czuję, że wydarzy się dziś coś dobrego!"
+          "DisplayPattern": "Kolejny piękny dzień na '''' farmie... Czuję, że wydarzy się dziś coś dobrego!"
         },
         {
           "DialogueFrom": "Marriage/Emily/Indoor_Day_1",
@@ -1826,7 +1826,7 @@
           "AudioPath": "assets/pl/Emily/226.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_2",
           "PageIndex": 0,
-          "DisplayPattern": "Przerwa? Myślę, że bycie erem jest łatwiejsze niż się wydawało..."
+          "DisplayPattern": "Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało..."
         },
         {
           "DialogueFrom": "Marriage/Emily/Neutral_3",
@@ -1956,7 +1956,7 @@
           "AudioPath": "assets/pl/Emily/242.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu farmy."
         },
         {
           "DialogueFrom": "Marriage/Emily/OneKid_3",
@@ -2232,7 +2232,7 @@
           "AudioPath": "assets/pl/Emily/276.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueEmily:spring_Emily",
           "PageIndex": 0,
-          "DisplayPattern": "Nie mogę się doczekać nowego roku na ie, !"
+          "DisplayPattern": "Nie mogę się doczekać nowego roku na farmie, !"
         },
         {
           "DialogueFrom": "Marriage/Emily/summer_1",
@@ -2308,7 +2308,7 @@
         },
         {
           "DialogueFrom": "Marriage/Emily/TwoKids_0",
-          "DialogueText": "kid1 i %kid2 już jedli śniadanie. Straszne z nich głodomory!",
+          "DialogueText": "%kid1 i %kid2 już jedli śniadanie. Straszne z nich głodomory!",
           "AudioPath": "assets/pl/Emily/286.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:TwoKids_0",
           "PageIndex": 0,
@@ -2336,7 +2336,7 @@
           "AudioPath": "assets/pl/Emily/289.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueEmily:TwoKids_3",
           "PageIndex": 0,
-          "DisplayPattern": "Och, już nakarmiłam dzieci organicznymi ciasteczkami z kozim mlekiem. Ty skup się na ie!"
+          "DisplayPattern": "Och, już nakarmiłam dzieci organicznymi ciasteczkami z kozim mlekiem. Ty skup się na farmie!"
         },
         {
           "DialogueFrom": "Marriage/Emily/winter_1",
@@ -2464,7 +2464,7 @@
           "AudioPath": "assets/pl/Emily/305.ogg",
           "TranslationKey": "Events/Farm:992559:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Dobrze Ci się powodzi... Ładnie masz tu na ie!"
+          "DisplayPattern": "Dobrze Ci się powodzi... Ładnie masz tu na farmie!"
         },
         {
           "DialogueFrom": "Event/Farm/992559:s2",
@@ -2778,7 +2778,7 @@
           "AudioPath": "assets/pl/Emily/344.ogg",
           "TranslationKey": "Events/Town:463391:s6",
           "PageIndex": 0,
-          "DisplayPattern": "Emily wzięła zranioną papugę do domu i zaażowała jej skrzydło."
+          "DisplayPattern": "Emily wzięła zranioną papugę do domu i zabandażowała jej skrzydło."
         },
         {
           "DialogueFrom": "Event/Town/463391:s7",
@@ -4026,7 +4026,7 @@
           "AudioPath": "assets/pl/Emily/499.ogg",
           "TranslationKey": "Strings/1_6_Strings:MakeOver_Emily_Reaction6",
           "PageIndex": 0,
-          "DisplayPattern": "O patrz, k z kalafiora..."
+          "DisplayPattern": "O patrz, placek z kalafiora..."
         },
         {
           "DialogueFrom": "Strings/1_6_Strings:MakeOver_Emily_Reaction7",
@@ -4322,7 +4322,7 @@
           "AudioPath": "assets/pl/Emily/536.ogg",
           "TranslationKey": "Data/Quests:115",
           "PageIndex": 0,
-          "DisplayPattern": "Och... Masz ją! Dzięki, wygląda aycznie!"
+          "DisplayPattern": "Och... Masz ją! Dzięki, wygląda apetycznie!"
         },
         {
           "DialogueFrom": "Quest_126",
@@ -4498,7 +4498,7 @@
           "AudioPath": "assets/pl/Emily/558_male.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 0,
-          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "DisplayPattern": "To ty jesteś nowym farmerem, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -4507,7 +4507,7 @@
           "AudioPath": "assets/pl/Emily/559_female.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 1,
-          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "DisplayPattern": "To ty jesteś nową farmerką, prawda?",
           "GenderVariant": "female"
         },
         {

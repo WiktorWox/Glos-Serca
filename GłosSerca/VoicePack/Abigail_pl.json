@@ -22,7 +22,7 @@
           "AudioPath": "assets/pl/Abigail/2.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:Introduction",
           "PageIndex": 0,
-          "DisplayPattern": "A, no tak... Słyszałam, że będziemy mieli nowego era."
+          "DisplayPattern": "A, no tak... Słyszałam, że będziemy mieli nowego farmera."
         },
         {
           "DialogueFrom": "Introduction",
@@ -908,7 +908,7 @@
           "AudioPath": "assets/pl/Abigail/112_male.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:Mon8",
           "PageIndex": 0,
-          "DisplayPattern": "Pamiętam jak się tu wprowadziłeś, trochę mi było szkoda, że ten las miał zostać przerobiony na ę. Ale teraz cieszę się, że tu jesteś!",
+          "DisplayPattern": "Pamiętam jak się tu wprowadziłeś, trochę mi było szkoda, że ten las miał zostać przerobiony na farmę. Ale teraz cieszę się, że tu jesteś!",
           "GenderVariant": "male"
         },
         {
@@ -917,7 +917,7 @@
           "AudioPath": "assets/pl/Abigail/113_female.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:Mon8",
           "PageIndex": 1,
-          "DisplayPattern": "Pamiętam jak się tu wprowadziłaś, trochę mi było szkoda, że ten las miał zostać przerobiony na ę. Ale teraz cieszę się, że tu jesteś!",
+          "DisplayPattern": "Pamiętam jak się tu wprowadziłaś, trochę mi było szkoda, że ten las miał zostać przerobiony na farmę. Ale teraz cieszę się, że tu jesteś!",
           "GenderVariant": "female"
         },
         {
@@ -1326,7 +1326,7 @@
           "AudioPath": "assets/pl/Abigail/164.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:summer_Wed2",
           "PageIndex": 0,
-          "DisplayPattern": "Chciałabym mieszkać w starym domku na ie, tak jak ty."
+          "DisplayPattern": "Chciałabym mieszkać w starym domku na farmie, tak jak ty."
         },
         {
           "DialogueFrom": "summer_Wed2",
@@ -1418,7 +1418,7 @@
           "AudioPath": "assets/pl/Abigail/175.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:summer_Fri10",
           "PageIndex": 0,
-          "DisplayPattern": "Czujesz czasami samotność na tej ie?"
+          "DisplayPattern": "Czujesz czasami samotność na tej farmie?"
         },
         {
           "DialogueFrom": "fall_1",
@@ -1514,7 +1514,7 @@
           "AudioPath": "assets/pl/Abigail/187.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:fall_Sat",
           "PageIndex": 1,
-          "DisplayPattern": "Masz na swojej ie jakieś strachy na wróble?"
+          "DisplayPattern": "Masz na swojej farmie jakieś strachy na wróble?"
         },
         {
           "DialogueFrom": "fall_Sun",
@@ -1610,7 +1610,7 @@
           "AudioPath": "assets/pl/Abigail/199.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:fall_Wed2",
           "PageIndex": 0,
-          "DisplayPattern": "Masz na swojej ie jakieś dynie?"
+          "DisplayPattern": "Masz na swojej farmie jakieś dynie?"
         },
         {
           "DialogueFrom": "fall_Wed2",
@@ -1658,7 +1658,7 @@
           "AudioPath": "assets/pl/Abigail/205.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:fall_Mon8",
           "PageIndex": 0,
-          "DisplayPattern": "W sumie widzę siebie jako era..."
+          "DisplayPattern": "W sumie widzę siebie jako farmera..."
         },
         {
           "DialogueFrom": "fall_Mon8",
@@ -1772,7 +1772,7 @@
           "AudioPath": "assets/pl/Abigail/219.ogg",
           "TranslationKey": "Characters/Dialogue/Abigail:winter_Wed",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć. Czy jako er nudzisz się w zimie?"
+          "DisplayPattern": "Cześć. Czy jako farmer nudzisz się w zimie?"
         },
         {
           "DialogueFrom": "spring_12",
@@ -2408,7 +2408,7 @@
           "AudioPath": "assets/pl/Abigail/298_male.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:Indoor_Day_0",
           "PageIndex": 0,
-          "DisplayPattern": "Zawsze lubiłam to miejsce, jeszcze zanim się tu przeprowadziłeś. Teraz mogę spacerować po ie, kiedy tylko zechcę!",
+          "DisplayPattern": "Zawsze lubiłam to miejsce, jeszcze zanim się tu przeprowadziłeś. Teraz mogę spacerować po farmie, kiedy tylko zechcę!",
           "GenderVariant": "male"
         },
         {
@@ -2417,7 +2417,7 @@
           "AudioPath": "assets/pl/Abigail/299_female.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:Indoor_Day_0",
           "PageIndex": 1,
-          "DisplayPattern": "Zawsze lubiłam to miejsce, jeszcze zanim się tu przeprowadziłaś. Teraz mogę spacerować po ie, kiedy tylko zechcę!",
+          "DisplayPattern": "Zawsze lubiłam to miejsce, jeszcze zanim się tu przeprowadziłaś. Teraz mogę spacerować po farmie, kiedy tylko zechcę!",
           "GenderVariant": "female"
         },
         {
@@ -2466,7 +2466,7 @@
           "AudioPath": "assets/pl/Abigail/305.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:Indoor_Day_Abigail",
           "PageIndex": 0,
-          "DisplayPattern": "Na naszej ie zawsze coś się dzieje... Uwielbiam to."
+          "DisplayPattern": "Na naszej farmie zawsze coś się dzieje... Uwielbiam to."
         },
         {
           "DialogueFrom": "Marriage/Abigail/Indoor_Night_0",
@@ -2548,7 +2548,7 @@
           "AudioPath": "assets/pl/Abigail/315.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_2",
           "PageIndex": 0,
-          "DisplayPattern": "Przerwa? Myślę, że bycie erem jest łatwiejsze niż się wydawało..."
+          "DisplayPattern": "Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało..."
         },
         {
           "DialogueFrom": "Marriage/Abigail/Neutral_3",
@@ -2614,7 +2614,7 @@
           "AudioPath": "assets/pl/Abigail/323.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:Neutral_8",
           "PageIndex": 1,
-          "DisplayPattern": "Taki urok mieszkania na ie."
+          "DisplayPattern": "Taki urok mieszkania na farmie."
         },
         {
           "DialogueFrom": "Marriage/Abigail/Neutral_9",
@@ -2680,7 +2680,7 @@
           "AudioPath": "assets/pl/Abigail/331.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_1",
           "PageIndex": 0,
-          "DisplayPattern": "Zastanawiam się, czy będzie erem, tak jak ty."
+          "DisplayPattern": "Zastanawiam się, czy będzie farmerem, tak jak ty."
         },
         {
           "DialogueFrom": "Marriage/Abigail/OneKid_2",
@@ -2688,7 +2688,7 @@
           "AudioPath": "assets/pl/Abigail/332.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu farmy."
         },
         {
           "DialogueFrom": "Marriage/Abigail/OneKid_3",
@@ -2712,7 +2712,7 @@
           "AudioPath": "assets/pl/Abigail/335.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:Outdoor_1",
           "PageIndex": 0,
-          "DisplayPattern": "Hmm... Mamy sporo miejsca na ę Szlamu!"
+          "DisplayPattern": "Hmm... Mamy sporo miejsca na Farmę Szlamu!"
         },
         {
           "DialogueFrom": "Marriage/Abigail/Outdoor_2",
@@ -3046,7 +3046,7 @@
         },
         {
           "DialogueFrom": "Marriage/Abigail/TwoKids_0",
-          "DialogueText": "kid1 i %kid2 zjadły swoje czekoladowe płatki. Ale się darły!",
+          "DialogueText": "%kid1 i %kid2 zjadły swoje czekoladowe płatki. Ale się darły!",
           "AudioPath": "assets/pl/Abigail/377.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:TwoKids_0",
           "PageIndex": 0,
@@ -3074,7 +3074,7 @@
           "AudioPath": "assets/pl/Abigail/380.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogueAbigail:TwoKids_3",
           "PageIndex": 0,
-          "DisplayPattern": "Fajny stary domek, dwoje dzieci i wspaniała a. Nigdy nie myślałam, że zajdę tak daleko... Ale hej! Nasze życie dopiero się zaczyna."
+          "DisplayPattern": "Fajny stary domek, dwoje dzieci i wspaniała farma. Nigdy nie myślałam, że zajdę tak daleko... Ale hej! Nasze życie dopiero się zaczyna."
         },
         {
           "DialogueFrom": "Marriage/Abigail/winter_1",
@@ -4362,7 +4362,7 @@
           "AudioPath": "assets/pl/Abigail/539.ogg",
           "TranslationKey": "Data/NPCGiftTastes:Abigail:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, właśnie zgłodniałam. Wygląda aycznie!"
+          "DisplayPattern": "Hej, właśnie zgłodniałam. Wygląda apetycznie!"
         },
         {
           "DialogueFrom": "NPCGiftTastes/Abigail:s2",
@@ -5016,7 +5016,7 @@
           "AudioPath": "assets/pl/Abigail/620_male.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 0,
-          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "DisplayPattern": "To ty jesteś nowym farmerem, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -5025,7 +5025,7 @@
           "AudioPath": "assets/pl/Abigail/621_female.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 1,
-          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "DisplayPattern": "To ty jesteś nową farmerką, prawda?",
           "GenderVariant": "female"
         },
         {

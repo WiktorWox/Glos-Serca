@@ -206,22 +206,33 @@ namespace VoiceOverFrameworkMod
             // are separate pages, so prefer the page whose display pattern matches what is
             // on screen, then the current page index, then the bare key.
             // ─────────────────────────────────────────────────────────────
-            string gameTk = d?.TranslationKey;
+            // The game writes keys with backslashes ("Characters\\Dialogue\\Abigail:Mon"), packs with slashes; until
+            // 2026-11-20 this never matched and every line went by text.
+            string gameTk = d?.TranslationKey?.Replace('\\', '/');
             if (!string.IsNullOrWhiteSpace(gameTk) && selectedPack != null && selectedPack.FormatMajor >= 2 &&
                 selectedPack.EntriesByTranslationKey != null && selectedPack.EntriesByTranslationKey.Count > 0)
             {
                 var tkCandidates = new List<string>();
                 string textAudio = null;
                 selectedPack.Entries?.TryGetValue(patternKey, out textAudio);
-                for (int pg = 0; pg < 16; pg++)
+                if (string.IsNullOrWhiteSpace(textAudio))
+                    textAudio = MatchTemplate(selectedPack, currentDisplayedString);
+                int packPages = 0;
+                for (int pg = 0; pg < 32; pg++)
                 {
                     string k = $"{gameTk}:p{pg}";
                     if (!selectedPack.EntriesByTranslationKey.TryGetValue(k, out var rel)) continue;
+                    packPages++;
                     if (!string.IsNullOrWhiteSpace(textAudio) && string.Equals(rel, textAudio, StringComparison.OrdinalIgnoreCase))
                         tkCandidates.Insert(0, k); // page confirmed by the displayed text
                 }
-                tkCandidates.Add($"{gameTk}:p{pageZero}");
-                tkCandidates.Add(gameTk);
+                // The generator numbers gender variants and expanded questions as pages of their own, the game does not;
+                // trust the game's page number only when both count the same pages.
+                int gamePages = d?.dialogues?.Count ?? 0;
+                if (tkCandidates.Count == 0 && packPages > 0 && packPages == gamePages)
+                    tkCandidates.Add($"{gameTk}:p{pageZero}");
+                if (packPages == 0)
+                    tkCandidates.Add(gameTk);
 
                 if (Config.developerModeOn)
                     Monitor.Log($"[V2-TK] gameKey='{gameTk}' page={pageZero} candidates=[{string.Join("|", tkCandidates.Distinct())}]", LogLevel.Debug);
@@ -409,7 +420,14 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
-            // 3) pack fuzzy (same-language only)
+            // 3) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
+            if (selectedPack != null && selectedPack.FormatMajor >= 2 && TryPlayTemplate(selectedPack, currentDisplayedString, "dialogue"))
+            {
+                _lastPlayedLookupKey = finalLookupKey;
+                return;
+            }
+
+            // 4) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
             if (ENABLE_PACK_FUZZY && selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
             {
                 string liveKey = strippedForMatch;
@@ -429,7 +447,9 @@ namespace VoiceOverFrameworkMod
                         if (score > bestScore) { bestScore = score; bestKey = packKey; bestRelPath = kvp.Value; }
                     }
 
-                    if (!string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
+                    if (!Config.FuzzyMatching && Config.developerModeOn && !string.IsNullOrWhiteSpace(bestKey))
+                        Monitor.Log($"[V2-NOMATCH] dialogue speaker='{currentSpeaker?.Name}' text='{currentDisplayedString}' closest='{bestKey}' ({bestScore:0.00}) → {bestRelPath} (not played; FuzzyMatching off)", LogLevel.Debug);
+                    if (Config.FuzzyMatching && !string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
                     {
                         var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, bestRelPath));
                         bool missing = !System.IO.File.Exists(fullPath);
@@ -480,7 +500,7 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
-            // 4) unmatched (same-language)
+            // 5) unmatched (same-language)
             if (_collectV2Failures)
             {
                 V2AddFailure(
@@ -828,7 +848,14 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
-            // 3) pack fuzzy (same-language only)
+            // 3) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
+            if (selectedPack != null && selectedPack.FormatMajor >= 2 && TryPlayTemplate(selectedPack, currentDisplayedString, "event"))
+            {
+                _lastPlayedLookupKey = patternKey;
+                return;
+            }
+
+            // 4) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
             if (ENABLE_PACK_FUZZY && selectedPack?.Entries != null)
             {
                 string liveKey = strippedForMatch;
@@ -843,7 +870,9 @@ namespace VoiceOverFrameworkMod
                         if (score > bestScore) { bestScore = score; bestKey = kvp.Key; bestRelPath = kvp.Value; }
                     }
 
-                    if (!string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
+                    if (!Config.FuzzyMatching && Config.developerModeOn && !string.IsNullOrWhiteSpace(bestKey))
+                        Monitor.Log($"[V2-NOMATCH] event speaker='{currentSpeaker?.Name}' text='{currentDisplayedString}' closest='{bestKey}' ({bestScore:0.00}) → {bestRelPath} (not played; FuzzyMatching off)", LogLevel.Debug);
+                    if (Config.FuzzyMatching && !string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
                     {
                         var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, bestRelPath));
                         if (System.IO.File.Exists(fullPath))
@@ -855,7 +884,7 @@ namespace VoiceOverFrameworkMod
                 }
             }
 
-            // 4) unmatched (same-language)
+            // 5) unmatched (same-language)
             if (_collectV2Failures)
             {
                 V2AddFailure(

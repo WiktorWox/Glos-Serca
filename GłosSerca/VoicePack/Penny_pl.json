@@ -222,7 +222,7 @@
           "AudioPath": "assets/pl/Penny/27.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:eventSeen_36_memory_oneweek",
           "PageIndex": 0,
-          "DisplayPattern": "Och, nie przejmuj się tym ażem na dłoni..."
+          "DisplayPattern": "Och, nie przejmuj się tym bandażem na dłoni..."
         },
         {
           "DialogueFrom": "eventSeen_36_memory_oneweek",
@@ -602,7 +602,7 @@
           "AudioPath": "assets/pl/Penny/74.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:Tue4",
           "PageIndex": 1,
-          "DisplayPattern": "Próbuję zebrać pieniądze z koreycji, ale ciężko mi, gdy moja mama jest bezrobotna."
+          "DisplayPattern": "Próbuję zebrać pieniądze z korepetycji, ale ciężko mi, gdy moja mama jest bezrobotna."
         },
         {
           "DialogueFrom": "Tue10",
@@ -610,7 +610,7 @@
           "AudioPath": "assets/pl/Penny/75.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:Tue10",
           "PageIndex": 0,
-          "DisplayPattern": "Em, ? a wygląda na dobre miejsce dla dzieci, prawda?"
+          "DisplayPattern": "Em, ? Farma wygląda na dobre miejsce dla dzieci, prawda?"
         },
         {
           "DialogueFrom": "Tue10",
@@ -754,7 +754,7 @@
           "AudioPath": "assets/pl/Penny/93.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:Thu6",
           "PageIndex": 2,
-          "DisplayPattern": "Może zamieszkam na ie *hihi*"
+          "DisplayPattern": "Może zamieszkam na farmie *hihi*"
         },
         {
           "DialogueFrom": "Fri",
@@ -1294,7 +1294,7 @@
           "AudioPath": "assets/pl/Penny/160.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:fall_Tue4",
           "PageIndex": 0,
-          "DisplayPattern": "Twoja a wygląda pięknie o tej porze roku."
+          "DisplayPattern": "Twoja farma wygląda pięknie o tej porze roku."
         },
         {
           "DialogueFrom": "fall_Thu6",
@@ -1342,7 +1342,7 @@
           "AudioPath": "assets/pl/Penny/166.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:fall_Fri6",
           "PageIndex": 2,
-          "DisplayPattern": "Tak czy inaczej... Jak ci mija życie na ie?"
+          "DisplayPattern": "Tak czy inaczej... Jak ci mija życie na farmie?"
         },
         {
           "DialogueFrom": "fall_Sun10",
@@ -1422,7 +1422,7 @@
           "AudioPath": "assets/pl/Penny/176.ogg",
           "TranslationKey": "Characters/Dialogue/Penny:winter_Tue4",
           "PageIndex": 0,
-          "DisplayPattern": "Nie mogę się doczekać, aż zobaczę twoją ę na wiosnę."
+          "DisplayPattern": "Nie mogę się doczekać, aż zobaczę twoją farmę na wiosnę."
         },
         {
           "DialogueFrom": "winter_Tue4",
@@ -1502,7 +1502,7 @@
           "AudioPath": "assets/pl/Penny/186.ogg",
           "TranslationKey": "Data/EngagementDialogue:Penny1",
           "PageIndex": 0,
-          "DisplayPattern": "Niedługo będziemy mieć tu małą erską rodzinę."
+          "DisplayPattern": "Niedługo będziemy mieć tu małą farmerską rodzinę."
         },
         {
           "DialogueFrom": "EngagementDialogue/Penny1",
@@ -1862,7 +1862,7 @@
           "AudioPath": "assets/pl/Penny/230.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialoguePenny:Indoor_Day_3",
           "PageIndex": 2,
-          "DisplayPattern": "I pomyśleć, że 10 000 lat temu właśnie tutaj dawni erzy uprawiali ziemię."
+          "DisplayPattern": "I pomyśleć, że 10 000 lat temu właśnie tutaj dawni farmerzy uprawiali ziemię."
         },
         {
           "DialogueFrom": "Marriage/Penny/Indoor_Day_4",
@@ -2044,7 +2044,7 @@
           "AudioPath": "assets/pl/Penny/252.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_2",
           "PageIndex": 0,
-          "DisplayPattern": "Przerwa? Myślę, że bycie erem jest łatwiejsze niż się wydawało..."
+          "DisplayPattern": "Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało..."
         },
         {
           "DialogueFrom": "Marriage/Penny/Neutral_3",
@@ -2110,7 +2110,7 @@
           "AudioPath": "assets/pl/Penny/260.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_8",
           "PageIndex": 1,
-          "DisplayPattern": "Chyba y są na swój sposób brudne."
+          "DisplayPattern": "Chyba farmy są na swój sposób brudne."
         },
         {
           "DialogueFrom": "Marriage/Penny/Neutral_9",
@@ -2162,7 +2162,7 @@
         },
         {
           "DialogueFrom": "Marriage/Penny/OneKid_1",
-          "DialogueText": "kid1 będzie tu miał wspaniałe dzieciństwo.",
+          "DialogueText": "%kid1 będzie tu miał wspaniałe dzieciństwo.",
           "AudioPath": "assets/pl/Penny/267.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialoguePenny:OneKid_1",
           "PageIndex": 0,
@@ -2174,7 +2174,7 @@
           "AudioPath": "assets/pl/Penny/268.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu farmy."
         },
         {
           "DialogueFrom": "Marriage/Penny/OneKid_3",
@@ -2222,7 +2222,7 @@
           "AudioPath": "assets/pl/Penny/274.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialoguePenny:Outdoor_1",
           "PageIndex": 1,
-          "DisplayPattern": "Byłabym o wiele szczęśliwsza, gdybym dorastała na ie."
+          "DisplayPattern": "Byłabym o wiele szczęśliwsza, gdybym dorastała na farmie."
         },
         {
           "DialogueFrom": "Marriage/Penny/Outdoor_2",
@@ -2230,7 +2230,7 @@
           "AudioPath": "assets/pl/Penny/275.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialoguePenny:Outdoor_2",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, kochanie! Gdybym wiedziała więcej o pracy na ie, mogłabym Ci trochę pomóc. Przepraszam!"
+          "DisplayPattern": "Cześć, kochanie! Gdybym wiedziała więcej o pracy na farmie, mogłabym Ci trochę pomóc. Przepraszam!"
         },
         {
           "DialogueFrom": "Marriage/Penny/Outdoor_2",
@@ -2262,7 +2262,7 @@
           "AudioPath": "assets/pl/Penny/279.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Outdoor_Penny",
           "PageIndex": 0,
-          "DisplayPattern": "Podoba mi się na naszej małej ie, ."
+          "DisplayPattern": "Podoba mi się na naszej małej farmie, ."
         },
         {
           "DialogueFrom": "Marriage/Penny/patio_Penny",
@@ -2530,7 +2530,7 @@
         },
         {
           "DialogueFrom": "Marriage/Penny/TwoKids_0",
-          "DialogueText": "kid1 i %kid2 już zjadły obiad. Straszne z nich głodomory!",
+          "DialogueText": "%kid1 i %kid2 już zjadły obiad. Straszne z nich głodomory!",
           "AudioPath": "assets/pl/Penny/313.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialoguePenny:TwoKids_0",
           "PageIndex": 0,
@@ -2558,7 +2558,7 @@
           "AudioPath": "assets/pl/Penny/316.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialoguePenny:TwoKids_3",
           "PageIndex": 0,
-          "DisplayPattern": "Przytulny domek, dwoje wspaniałych dzieci i piękna a. Jesteśmy bardzo szczęśliwą rodziną."
+          "DisplayPattern": "Przytulny domek, dwoje wspaniałych dzieci i piękna farma. Jesteśmy bardzo szczęśliwą rodziną."
         },
         {
           "DialogueFrom": "Marriage/Penny/winter_1",
@@ -3572,7 +3572,7 @@
           "AudioPath": "assets/pl/Penny/441.ogg",
           "TranslationKey": "Events/Forest:181928:s8",
           "PageIndex": 0,
-          "DisplayPattern": "Mam dla was bardzo specjalnego gościa... Nasz lokalny er, ."
+          "DisplayPattern": "Mam dla was bardzo specjalnego gościa... Nasz lokalny farmer, ."
         },
         {
           "DialogueFrom": "Event/Forest/181928:s9",
@@ -3710,7 +3710,7 @@
           "AudioPath": "assets/pl/Penny/458_male.ogg",
           "TranslationKey": "Events/Forest:choseAnimals:s1",
           "PageIndex": 0,
-          "DisplayPattern": "Vincent! Zachowuj się. Pan utrzymuje się z pracy na ie! To nie jest plac zabaw.",
+          "DisplayPattern": "Vincent! Zachowuj się. Pan utrzymuje się z pracy na farmie! To nie jest plac zabaw.",
           "GenderVariant": "male"
         },
         {
@@ -3719,7 +3719,7 @@
           "AudioPath": "assets/pl/Penny/459_female.ogg",
           "TranslationKey": "Events/Forest:choseAnimals:s2",
           "PageIndex": 0,
-          "DisplayPattern": "Vincent! Zachowuj się. Panna utrzymuje się z pracy na ie! To nie jest plac zabaw.",
+          "DisplayPattern": "Vincent! Zachowuj się. Panna utrzymuje się z pracy na farmie! To nie jest plac zabaw.",
           "GenderVariant": "female"
         },
         {
@@ -4808,7 +4808,7 @@
           "AudioPath": "assets/pl/Penny/595_male.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 0,
-          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "DisplayPattern": "To ty jesteś nowym farmerem, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -4817,7 +4817,7 @@
           "AudioPath": "assets/pl/Penny/596_female.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 1,
-          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "DisplayPattern": "To ty jesteś nową farmerką, prawda?",
           "GenderVariant": "female"
         },
         {

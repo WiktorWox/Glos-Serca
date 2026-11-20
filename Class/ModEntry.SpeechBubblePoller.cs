@@ -162,6 +162,13 @@ namespace VoiceOverFrameworkMod
                     continue;
                 }
 
+                // bubble with a variable part (player name, %farm…): regex template
+                if (string.IsNullOrWhiteSpace(fullPath) && pack.FormatMajor >= 2 && TryPlayTemplate(pack, text, "bubble"))
+                {
+                    state.Played = true;
+                    continue;
+                }
+
                 if (!string.IsNullOrWhiteSpace(fullPath))
                 {
                     if (Config.developerModeOn)

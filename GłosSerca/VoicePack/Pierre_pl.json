@@ -14,7 +14,7 @@
           "AudioPath": "assets/pl/Pierre/1_male.ogg",
           "TranslationKey": "Characters/Dialogue/Pierre:Introduction",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, to Pan , nasz nowy er! Jestem Pierre, właściciel lokalnego sklepu.",
+          "DisplayPattern": "Hej, to Pan , nasz nowy farmer! Jestem Pierre, właściciel lokalnego sklepu.",
           "GenderVariant": "male"
         },
         {
@@ -23,7 +23,7 @@
           "AudioPath": "assets/pl/Pierre/2_female.ogg",
           "TranslationKey": "Characters/Dialogue/Pierre:Introduction",
           "PageIndex": 1,
-          "DisplayPattern": "Hej, to Panna , nasza nowa erka! Jestem Pierre, właściciel lokalnego sklepu.",
+          "DisplayPattern": "Hej, to Panna , nasza nowa farmerka! Jestem Pierre, właściciel lokalnego sklepu.",
           "GenderVariant": "female"
         },
         {
@@ -32,7 +32,7 @@
           "AudioPath": "assets/pl/Pierre/3.ogg",
           "TranslationKey": "Characters/Dialogue/Pierre:Introduction",
           "PageIndex": 2,
-          "DisplayPattern": "Jeśli szukasz nasion, znajdziesz je u mnie. Kupię też produkty z Twojej y za odpowiednią cenę!"
+          "DisplayPattern": "Jeśli szukasz nasion, znajdziesz je u mnie. Kupię też produkty z Twojej farmy za odpowiednią cenę!"
         },
         {
           "DialogueFrom": "Introduction",
@@ -432,7 +432,7 @@
           "AudioPath": "assets/pl/Pierre/52.ogg",
           "TranslationKey": "Characters/Dialogue/Pierre:Fri",
           "PageIndex": 2,
-          "DisplayPattern": "Cześć. Jak tam Twoja a?"
+          "DisplayPattern": "Cześć. Jak tam Twoja farma?"
         },
         {
           "DialogueFrom": "Fri",
@@ -744,7 +744,7 @@
           "AudioPath": "assets/pl/Pierre/91.ogg",
           "TranslationKey": "Characters/Dialogue/Pierre:fall_Fri",
           "PageIndex": 2,
-          "DisplayPattern": "Witam. Twoja a nadal się trzyma?"
+          "DisplayPattern": "Witam. Twoja farma nadal się trzyma?"
         },
         {
           "DialogueFrom": "fall_Fri",
@@ -760,7 +760,7 @@
           "AudioPath": "assets/pl/Pierre/93.ogg",
           "TranslationKey": "Characters/Dialogue/Pierre:fall_Sat",
           "PageIndex": 0,
-          "DisplayPattern": "Cieszę się, gdy mogę odkupić coś z Twojej y."
+          "DisplayPattern": "Cieszę się, gdy mogę odkupić coś z Twojej farmy."
         },
         {
           "DialogueFrom": "fall_Sat",
@@ -1434,7 +1434,7 @@
           "AudioPath": "assets/pl/Pierre/176.ogg",
           "TranslationKey": "Data/Festivals/fall27:Pierre_y2",
           "PageIndex": 0,
-          "DisplayPattern": "Ach, toż to er ! Mam dziś sporą selekcję towarów. Zobacz!"
+          "DisplayPattern": "Ach, toż to farmer ! Mam dziś sporą selekcję towarów. Zobacz!"
         },
         {
           "DialogueFrom": "Festival/spring13/Pierre",
@@ -1562,7 +1562,7 @@
           "AudioPath": "assets/pl/Pierre/192_male.ogg",
           "TranslationKey": "Data/Festivals/summer28:Pierre_y2",
           "PageIndex": 0,
-          "DisplayPattern": "Cześć, erze . Wpadnij do mnie jutro po jesienne nasiona!",
+          "DisplayPattern": "Cześć, farmerze . Wpadnij do mnie jutro po jesienne nasiona!",
           "GenderVariant": "male"
         },
         {
@@ -1571,7 +1571,7 @@
           "AudioPath": "assets/pl/Pierre/193_female.ogg",
           "TranslationKey": "Data/Festivals/summer28:Pierre_y2",
           "PageIndex": 1,
-          "DisplayPattern": "Cześć, erko . Wpadnij do mnie jutro po jesienne nasiona!",
+          "DisplayPattern": "Cześć, farmerko . Wpadnij do mnie jutro po jesienne nasiona!",
           "GenderVariant": "female"
         },
         {
@@ -1844,7 +1844,7 @@
           "AudioPath": "assets/pl/Pierre/227.ogg",
           "TranslationKey": "Strings/SpeechBubbles:SeedShop_Pierre_Greeting2",
           "PageIndex": 0,
-          "DisplayPattern": "To er {0}!"
+          "DisplayPattern": "To farmer {0}!"
         },
         {
           "DialogueFrom": "SeedShop_Pierre_Raining",
@@ -2118,7 +2118,7 @@
           "AudioPath": "assets/pl/Pierre/261.ogg",
           "TranslationKey": "Data/Shops:SeedShop:Tuesday",
           "PageIndex": 0,
-          "DisplayPattern": "Witamy u Pierra! Nie zapomnij sprawdzać codziennie mojej nowej selekcji ta i podłóg!"
+          "DisplayPattern": "Witamy u Pierra! Nie zapomnij sprawdzać codziennie mojej nowej selekcji tapet i podłóg!"
         },
         {
           "DialogueFrom": "Shop_SeedShop",

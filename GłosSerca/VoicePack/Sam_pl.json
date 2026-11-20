@@ -462,7 +462,7 @@
           "AudioPath": "assets/pl/Sam/56_male.ogg",
           "TranslationKey": "Characters/Dialogue/Sam:Mon",
           "PageIndex": 0,
-          "DisplayPattern": "Hej, erze.",
+          "DisplayPattern": "Hej, farmerze.",
           "GenderVariant": "male"
         },
         {
@@ -471,7 +471,7 @@
           "AudioPath": "assets/pl/Sam/57_female.ogg",
           "TranslationKey": "Characters/Dialogue/Sam:Mon",
           "PageIndex": 1,
-          "DisplayPattern": "Hej, erko.",
+          "DisplayPattern": "Hej, farmerko.",
           "GenderVariant": "female"
         },
         {
@@ -668,7 +668,7 @@
           "AudioPath": "assets/pl/Sam/81.ogg",
           "TranslationKey": "Characters/Dialogue/Sam:Thu6_1",
           "PageIndex": 2,
-          "DisplayPattern": "Choć wątpię, że opuścisz ę po włożeniu w nią tyle pracy!"
+          "DisplayPattern": "Choć wątpię, że opuścisz farmę po włożeniu w nią tyle pracy!"
         },
         {
           "DialogueFrom": "Thu6_2",
@@ -1178,7 +1178,7 @@
           "AudioPath": "assets/pl/Sam/144.ogg",
           "TranslationKey": "Characters/Dialogue/Sam:summer_Thu",
           "PageIndex": 0,
-          "DisplayPattern": "Tata opowiadał mi o wrogu naszego kraju, Imperium Gotoro... Wyglądają na straszną ę."
+          "DisplayPattern": "Tata opowiadał mi o wrogu naszego kraju, Imperium Gotoro... Wyglądają na straszną bandę."
         },
         {
           "DialogueFrom": "summer_Thu6_1",
@@ -2176,7 +2176,7 @@
           "AudioPath": "assets/pl/Sam/268.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_2",
           "PageIndex": 0,
-          "DisplayPattern": "Przerwa? Myślę, że bycie erem jest łatwiejsze niż się wydawało..."
+          "DisplayPattern": "Przerwa? Myślę, że bycie farmerem jest łatwiejsze niż się wydawało..."
         },
         {
           "DialogueFrom": "Marriage/Sam/Neutral_3",
@@ -2242,7 +2242,7 @@
           "AudioPath": "assets/pl/Sam/276.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:Neutral_8",
           "PageIndex": 1,
-          "DisplayPattern": "Chyba y są na swój sposób brudne."
+          "DisplayPattern": "Chyba farmy są na swój sposób brudne."
         },
         {
           "DialogueFrom": "Marriage/Sam/Neutral_9",
@@ -2306,7 +2306,7 @@
           "AudioPath": "assets/pl/Sam/284.ogg",
           "TranslationKey": "Characters/Dialogue/MarriageDialogue:OneKid_2",
           "PageIndex": 0,
-          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu y."
+          "DisplayPattern": "Nie martw się, nakarmię . Możesz się skupić na prowadzeniu farmy."
         },
         {
           "DialogueFrom": "Marriage/Sam/OneKid_3",
@@ -4716,7 +4716,7 @@
           "AudioPath": "assets/pl/Sam/582.ogg",
           "TranslationKey": "Strings/MovieReactions:Sam_summer_movie_1_AfterMovie",
           "PageIndex": 0,
-          "DisplayPattern": "*psst*... Nie mów nikomu, ale noszę te same skarki co Wumbus."
+          "DisplayPattern": "*psst*... Nie mów nikomu, ale noszę te same skarpetki co Wumbus."
         },
         {
           "DialogueFrom": "MovieReactions/Sam_horror_BeforeMovie",
@@ -5052,7 +5052,7 @@
           "AudioPath": "assets/pl/Sam/624_male.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 0,
-          "DisplayPattern": "To ty jesteś nowym erem, prawda?",
+          "DisplayPattern": "To ty jesteś nowym farmerem, prawda?",
           "GenderVariant": "male"
         },
         {
@@ -5061,7 +5061,7 @@
           "AudioPath": "assets/pl/Sam/625_female.ogg",
           "TranslationKey": "Strings/Characters:WipedMemory",
           "PageIndex": 1,
-          "DisplayPattern": "To ty jesteś nową erką, prawda?",
+          "DisplayPattern": "To ty jesteś nową farmerką, prawda?",
           "GenderVariant": "female"
         },
         {

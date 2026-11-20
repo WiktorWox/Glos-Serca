@@ -432,7 +432,7 @@
           "AudioPath": "assets/pl/Morris/53.ogg",
           "TranslationKey": "Data/ExtraDialogue:Morris_WeekendGreeting_SecondPlayer",
           "PageIndex": 1,
-          "DisplayPattern": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na ie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości."
+          "DisplayPattern": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na farmie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości."
         },
         {
           "DialogueFrom": "ExtraDialogue/Morris_FirstGreeting_SecondPlayer",
@@ -448,7 +448,7 @@
           "AudioPath": "assets/pl/Morris/55.ogg",
           "TranslationKey": "Data/ExtraDialogue:Morris_FirstGreeting_SecondPlayer",
           "PageIndex": 1,
-          "DisplayPattern": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na ie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości."
+          "DisplayPattern": "Hmm... Nasze archiwa wskazują na to, że mieszkasz z innymi na farmie... Wybacz, ale możemy sprzedać członkostwo tylko właścicielowi posiadłości."
         },
         {
           "DialogueFrom": "ExtraDialogue/Morris_StillProcessingOrder",
@@ -578,7 +578,7 @@
           "AudioPath": "assets/pl/Morris/71.ogg",
           "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue1_Morris",
           "PageIndex": 0,
-          "DisplayPattern": "Wiesz, kiedy byłem przypisany do tej lokacji %year lat temu, uznałem to za krok wstecz w mojej karierze."
+          "DisplayPattern": "Wiesz, kiedy byłem przypisany do tej lokacji lat temu, uznałem to za krok wstecz w mojej karierze."
         },
         {
           "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue1_Morris",
