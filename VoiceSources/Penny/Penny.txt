@@ -1084,7 +1084,7 @@ Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra
 AudioName: 266.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Penny/OneKid_1
-DialogueText: kid1 będzie tu miał wspaniałe dzieciństwo.
+DialogueText: %kid1 będzie tu miał wspaniałe dzieciństwo.
 Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 267.ogg
 --------------------------------------------------
@@ -1275,7 +1275,7 @@ DialogueText: Czy tego lata zasadzisz jakieś melony, skarbie?
 AudioName: 312.ogg
 --------------------------------------------------
 DialogueFrom: Marriage/Penny/TwoKids_0
-DialogueText: kid1 i %kid2 już zjadły obiad. Straszne z nich głodomory!
+DialogueText: %kid1 i %kid2 już zjadły obiad. Straszne z nich głodomory!
 Uwaga: %kid1 / %kid2 – imię pierwszego / drugiego dziecka gracza (wstawia gra).
 AudioName: 313.ogg
 --------------------------------------------------
