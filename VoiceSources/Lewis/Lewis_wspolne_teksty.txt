@@ -54,3 +54,114 @@ DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
 DialogueText: Czy to żart? Nie łapię.
 AudioName: 385.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1862  [ogłoszenie zwycięzcy na festiwalu]
+DialogueText: Abigail!
+AudioName: 386.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1871  [ogłoszenie zwycięzcy na festiwalu]
+DialogueText: Willy, z 5 dużymi rybami!
+AudioName: 387.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5367  [ślub (przemowa)]
+DialogueText: Gdy {Farmer_Name} po raz pierwszy pojawił się w Mieście Pelikan, nikt nie wiedział, czy wpasuje się w naszą społeczność...
+AudioName: 388.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5367 (strona 2)  [ślub (przemowa)]
+DialogueText: Ale od tego dnia, {Farmer_Name} będzie większą częścią społeczności tego miasteczka niż każdy z nas! {Portrait:Happy}
+AudioName: 389.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5369  [ślub (przemowa)]
+DialogueText: Gdy {Farmer_Name} po raz pierwszy pojawiła się w Mieście Pelikan nikt nie wiedział czy wpasuje się w naszą społeczność...
+AudioName: 390.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5370  [ślub (przemowa)]
+DialogueText: A więc, zaczynajmy!
+AudioName: 391.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5371  [ślub (przemowa)]
+DialogueText: {Farmer_Name}... %spouse...
+AudioName: 392.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5371 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i... no, mężem! {Portrait:Happy}
+AudioName: 393.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5373 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i żoną! {Portrait:Happy}
+AudioName: 394.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5375 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i... no, żoną! {Portrait:Happy}
+AudioName: 395.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5377 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i mężem! {Portrait:Happy}
+AudioName: 396.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5379  [ślub (przemowa)]
+DialogueText: Możecie się pocałować.
+AudioName: 397.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5381  [ślub (przemowa)]
+DialogueText: Od teraz życie już nie będzie takie jak kiedyś...
+AudioName: 398.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5383  [ślub (przemowa)]
+DialogueText: ... Ale wszystko jeszcze przed nami!
+AudioName: 399.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis  [telefon]
+DialogueText: Co u Ciebie?
+AudioName: 400.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 2)  [telefon]
+DialogueText: Dobrze słyszeć.
+AudioName: 401.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 3)  [telefon]
+DialogueText: Chyba mogę powiedzieć za wszystkich, że cenimy sobie twoją obecność we wspólnocie.
+AudioName: 402.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 4)  [telefon]
+DialogueText: Twój dziadek byłby z Ciebie dumny.
+AudioName: 403.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 5)  [telefon]
+DialogueText: Cóż, pozwolę ci wrócić do roboty. Do widzenia!
+AudioName: 404.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 6)  [telefon]
+DialogueText: Dobrze słyszeć!
+AudioName: 405.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 7)  [telefon]
+DialogueText: Twoja farma podniosła lokalną ekonomię, która jest dobra dla wszystkich. Doceniamy twoją ciężką pracę!
+AudioName: 406.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 8)  [telefon]
+DialogueText: Chyba mogę powiedzieć, że twój dziadek byłby z Ciebie bardzo dumny.
+AudioName: 407.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 9)  [telefon]
+DialogueText: Cóż, Pozwolę ci wrócić do pracy. Do widzenia!
+AudioName: 408.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 10)  [telefon]
+DialogueText: Och... Przykro mi to słyszeć. {Portrait:Sad}
+AudioName: 409.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 11)  [telefon]
+DialogueText: Uch... próbuj dalej ciężko pracować i na pewno wszystko się poprawi...
+AudioName: 410.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 12)  [telefon]
+DialogueText: Cóż... pozwolę ci wrócić do pracy... Ok? Zadzwoń później. Pa. {Portrait:Sad}
+AudioName: 411.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 13)  [telefon]
+DialogueText: A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa. {Portrait:Unique}
+AudioName: 412.ogg
+--------------------------------------------------

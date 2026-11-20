@@ -627,6 +627,32 @@
           "TranslationKey": "Strings/SpeechBubbles:JojaMart_Morris_Greeting",
           "PageIndex": 0,
           "DisplayPattern": "Witaj w Joja Markecie!"
+        },
+        {
+          "DialogueFrom": "MovieTheater_Morris",
+          "DialogueText": "Chyba zauważyłeś, że kino odnosi wielki sukces! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/78_male.ogg",
+          "TranslationKey": "Strings/StringsFromMaps:MovieTheater_Morris",
+          "PageIndex": 0,
+          "DisplayPattern": "Chyba zauważyłeś, że kino odnosi wielki sukces!",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "MovieTheater_Morris",
+          "DialogueText": "Chyba zauważyłaś, że kino odnosi wielki sukces! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Morris/79_female.ogg",
+          "TranslationKey": "Strings/StringsFromMaps:MovieTheater_Morris",
+          "PageIndex": 1,
+          "DisplayPattern": "Chyba zauważyłaś, że kino odnosi wielki sukces!",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "MovieTheater_Morris",
+          "DialogueText": "Hee...? Zwrot z inwestycji? Cóż to trudne, wiesz... może to trochę potrwać, rozumiesz... *bełkot* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Morris/80.ogg",
+          "TranslationKey": "Strings/StringsFromMaps:MovieTheater_Morris",
+          "PageIndex": 2,
+          "DisplayPattern": "Hee...? Zwrot z inwestycji? Cóż to trudne, wiesz... może to trochę potrwać, rozumiesz... *bełkot*"
         }
       ]
     }

@@ -289,6 +289,14 @@
           "TranslationKey": "Strings/SpeechBubbles:ArchaeologyHouse_Gunther_RareGreeting",
           "PageIndex": 0,
           "DisplayPattern": "Pachniesz ziemią... dobrze!"
+        },
+        {
+          "DialogueFrom": "MovieTheater_Gunther",
+          "DialogueText": "Cześć. Bbardzo chciałbym porozmawiać, ale muszę wrócić do muzeum!",
+          "AudioPath": "assets/pl/Gunther/36.ogg",
+          "TranslationKey": "Strings/StringsFromMaps:MovieTheater_Gunther",
+          "PageIndex": 0,
+          "DisplayPattern": "Cześć. Bbardzo chciałbym porozmawiać, ale muszę wrócić do muzeum!"
         }
       ]
     }

@@ -4311,6 +4311,86 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1257",
+          "DialogueText": "Skończyłem pisać moją książkę i jest to tajemnicza nowela! Pamiętam jak usłyszałem od Ciebie, że lubisz tajemnice. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/534.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1257",
+          "PageIndex": 0,
+          "DisplayPattern": "Skończyłem pisać moją książkę i jest to tajemnicza nowela! Pamiętam jak usłyszałem od Ciebie, że lubisz tajemnice."
+        },
+        {
+          "DialogueFrom": "Event.cs.1257",
+          "DialogueText": "Patrz, '%book', ekscytująca opowieść o podstępie i intrydze! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Elliott/535.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1257",
+          "PageIndex": 1,
+          "DisplayPattern": "Patrz, '', ekscytująca opowieść o podstępie i intrydze!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1257",
+          "DialogueText": "-Prawie- czuję jakbym powinien podzielić się z Tobą zyskami! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/536.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1257",
+          "PageIndex": 2,
+          "DisplayPattern": "-Prawie- czuję jakbym powinien podzielić się z Tobą zyskami!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1258",
+          "DialogueText": "Skończyłem pisać moją książkę i jest to romantyczna nowela!... Pamiętam, że ty lubisz ten gatunek, no i cóż, miałem ostatnio trochę inspiracji z życia codziennego. {Portrait:Love}",
+          "AudioPath": "assets/pl/Elliott/537.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1258",
+          "PageIndex": 0,
+          "DisplayPattern": "Skończyłem pisać moją książkę i jest to romantyczna nowela!... Pamiętam, że ty lubisz ten gatunek, no i cóż, miałem ostatnio trochę inspiracji z życia codziennego."
+        },
+        {
+          "DialogueFrom": "Event.cs.1258",
+          "DialogueText": "Oto ona, '%book'. Jest o stewardesach pracujących w pociągu, które zakochały się w podróżującym architekcie... ale jest sekretnie zaręczony z córką kanara!",
+          "AudioPath": "assets/pl/Elliott/538.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1258",
+          "PageIndex": 1,
+          "DisplayPattern": "Oto ona, ''. Jest o stewardesach pracujących w pociągu, które zakochały się w podróżującym architekcie... ale jest sekretnie zaręczony z córką kanara!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1258",
+          "DialogueText": "*Prawie* czuję jakbym powinien podzielić się z Tobą zyskami! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/539.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1258",
+          "PageIndex": 2,
+          "DisplayPattern": "*Prawie* czuję jakbym powinien podzielić się z Tobą zyskami!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1259",
+          "DialogueText": "Skończyłem pisać moją książkę I jest to nowela w stylu sci-fi! Pamiętam, że ty uwielbiasz sci-fi? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/540.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1259",
+          "PageIndex": 0,
+          "DisplayPattern": "Skończyłem pisać moją książkę I jest to nowela w stylu sci-fi! Pamiętam, że ty uwielbiasz sci-fi?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1259",
+          "DialogueText": "Patrz, '%book'. Jest o chłopcu, który formuje symbiotyczny związek z pół-telepatyczną formą życia. Razem odkrywają mroczne tajemnice międzygwiezdnego świata. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Elliott/541.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1259",
+          "PageIndex": 1,
+          "DisplayPattern": "Patrz, ''. Jest o chłopcu, który formuje symbiotyczny związek z pół-telepatyczną formą życia. Razem odkrywają mroczne tajemnice międzygwiezdnego świata."
+        },
+        {
+          "DialogueFrom": "Event.cs.1260",
+          "DialogueText": "Skończyłem pisać moją książkę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Elliott/542.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1260",
+          "PageIndex": 0,
+          "DisplayPattern": "Skończyłem pisać moją książkę!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1260",
+          "DialogueText": "Cóż, oto ona... '%book'. Jest o inspektorze rządowym, który odwiedza małą, odizolowaną społeczność górników... i odkrywa niepokojące tajemnice. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Elliott/543.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1260",
+          "PageIndex": 1,
+          "DisplayPattern": "Cóż, oto ona... ''. Jest o inspektorze rządowym, który odwiedza małą, odizolowaną społeczność górników... i odkrywa niepokojące tajemnice."
         }
       ]
     }

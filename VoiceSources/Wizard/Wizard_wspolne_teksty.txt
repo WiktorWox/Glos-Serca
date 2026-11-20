@@ -50,3 +50,22 @@ DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
 DialogueText: Czy to żart? Nie łapię.
 AudioName: 154.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/SpecialOrderStrings:Wizard_Objective_0_Message  [specjalne zamówienie (oddanie)]
+DialogueText: Ach, to jest przepełnione energią zapomnianych dusz... doskonale. {Portrait:Happy}
+AudioName: 155.ogg
+--------------------------------------------------
+DialogueFrom: Strings/SpecialOrderStrings:Wizard_Objective_0_Message (strona 2)  [specjalne zamówienie (oddanie)]
+DialogueText: A teraz precz. Będę potrzebował kompletnej ciszy, aby dostrzec prawdziwą naturę tej substancji.
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: Strings/SpecialOrderStrings:Wizard2_Objective_1_Message  [specjalne zamówienie (oddanie)]
+DialogueText: Ach... udało Ci się! {Portrait:Happy}
+AudioName: 157.ogg
+--------------------------------------------------
+DialogueFrom: Strings/SpecialOrderStrings:Wizard2_Objective_1_Message (strona 2)  [specjalne zamówienie (oddanie)]
+DialogueText: Daj mi to i odejdź! Przede mną dużo pracy.
+AudioName: 158.ogg
+--------------------------------------------------

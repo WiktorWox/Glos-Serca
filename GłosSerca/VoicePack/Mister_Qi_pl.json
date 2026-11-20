@@ -299,6 +299,66 @@
           "TranslationKey": "Data/ExtraDialogue:MisterQi_PlayerClubMember",
           "PageIndex": 6,
           "DisplayPattern": "Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj."
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "No, no, no... Popatrz no komu udało się 'dotrzeć' na szczyt.",
+          "AudioPath": "assets/pl/Mister Qi/37.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 0,
+          "DisplayPattern": "No, no, no... Popatrz no komu udało się 'dotrzeć' na szczyt."
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "Myślałeś, że jesteś taki sprytny, prawda?",
+          "AudioPath": "assets/pl/Mister Qi/38_male.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 1,
+          "DisplayPattern": "Myślałeś, że jesteś taki sprytny, prawda?",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "Myślałaś, że jesteś taka sprytna, prawda?",
+          "AudioPath": "assets/pl/Mister Qi/39_female.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 2,
+          "DisplayPattern": "Myślałaś, że jesteś taka sprytna, prawda?",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "'Jak oszukać system dla własnej korzyści?', pomyślałeś.",
+          "AudioPath": "assets/pl/Mister Qi/40_male.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 3,
+          "DisplayPattern": "'Jak oszukać system dla własnej korzyści?', pomyślałeś.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "'Jak oszukać system dla własnej korzyści?', pomyślałaś.",
+          "AudioPath": "assets/pl/Mister Qi/41_female.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 4,
+          "DisplayPattern": "'Jak oszukać system dla własnej korzyści?', pomyślałaś.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "Lub mówiąc laikiem: 'Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja'.",
+          "AudioPath": "assets/pl/Mister Qi/42.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 5,
+          "DisplayPattern": "Lub mówiąc laikiem: 'Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja'."
+        },
+        {
+          "DialogueFrom": "QiSummitCheat",
+          "DialogueText": "Okropne.",
+          "AudioPath": "assets/pl/Mister Qi/43.ogg",
+          "TranslationKey": "Strings/1_6_Strings:QiSummitCheat",
+          "PageIndex": 6,
+          "DisplayPattern": "Okropne."
         }
       ]
     }

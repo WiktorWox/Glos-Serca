@@ -39,6 +39,22 @@
           "TranslationKey": "Strings/Locations:Club_Bouncer_TextAboveHead2",
           "PageIndex": 0,
           "DisplayPattern": "Ty chuliganie..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4192",
+          "DialogueText": "...",
+          "AudioPath": "assets/pl/Bouncer/5.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4192",
+          "PageIndex": 0,
+          "DisplayPattern": "..."
+        },
+        {
+          "DialogueFrom": "NPC.cs.4192",
+          "DialogueText": "Tylko dla członków klubu, dzieciaku. A więc spadaj.",
+          "AudioPath": "assets/pl/Bouncer/6.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4192",
+          "PageIndex": 3,
+          "DisplayPattern": "Tylko dla członków klubu, dzieciaku. A więc spadaj."
         }
       ]
     }

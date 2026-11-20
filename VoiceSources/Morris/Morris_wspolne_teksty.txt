@@ -1,0 +1,16 @@
+Kwestie, które gra bierze spoza pliku postaci: wspólne pliki tekstów, wydarzenia składane w kodzie gry i dane gry (np. ślub), dodane 20 listopada 2026.
+{Farmer_Name} = imię gracza, pomijamy w nagraniu. Znaczniki %farm, %spouse, %book, %year… też pomijamy albo lekko przeformułowujemy zdanie.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 78.ogg).
+
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris  [kino (poczekalnia)]
+DialogueText: Chyba zauważyłeś, że kino odnosi wielki sukces! {Portrait:Happy}
+AudioName: 78_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris (strona 2)  [kino (poczekalnia)]
+DialogueText: Chyba zauważyłaś, że kino odnosi wielki sukces! {Portrait:Happy}
+AudioName: 79_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris (strona 3)  [kino (poczekalnia)]
+DialogueText: Hee...? Zwrot z inwestycji? Cóż to trudne, wiesz... może to trochę potrwać, rozumiesz... *bełkot* {Portrait:Sad}
+AudioName: 80.ogg
+--------------------------------------------------

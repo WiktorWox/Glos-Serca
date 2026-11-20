@@ -2451,6 +2451,22 @@
           "TranslationKey": "Data/Shops:FishShop:Default",
           "PageIndex": 0,
           "DisplayPattern": "Potrzebujesz rzeczy do wędkowania? Jesteś w dobrym miejscu."
+        },
+        {
+          "DialogueFrom": "BoatTunnel_willyText_firstRide",
+          "DialogueText": "Wygląda jak nowa!",
+          "AudioPath": "assets/pl/Willy/300.ogg",
+          "TranslationKey": "Strings/Locations:BoatTunnel_willyText_firstRide",
+          "PageIndex": 0,
+          "DisplayPattern": "Wygląda jak nowa!"
+        },
+        {
+          "DialogueFrom": "BoatTunnel_willyText_random0",
+          "DialogueText": "Wybacz jeśli śmierdzę rybą, heh!",
+          "AudioPath": "assets/pl/Willy/301.ogg",
+          "TranslationKey": "Strings/Locations:BoatTunnel_willyText_random0",
+          "PageIndex": 0,
+          "DisplayPattern": "Wybacz jeśli śmierdzę rybą, heh!"
         }
       ]
     }

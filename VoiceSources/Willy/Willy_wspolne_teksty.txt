@@ -62,3 +62,14 @@ DialogueFrom: Data/Shops:FishShop:Default  [okienko sklepu (ramka obok portretu 
 DialogueText: Potrzebujesz rzeczy do wędkowania? Jesteś w dobrym miejscu.
 AudioName: 299.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/Locations:BoatTunnel_willyText_firstRide  [okrzyk w dymku nad głową]
+DialogueText: Wygląda jak nowa!
+AudioName: 300.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:BoatTunnel_willyText_random0  [okrzyk w dymku nad głową]
+DialogueText: Wybacz jeśli śmierdzę rybą, heh!
+AudioName: 301.ogg
+--------------------------------------------------

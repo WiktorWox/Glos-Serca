@@ -46,3 +46,10 @@ DialogueFrom: Data/Shops:AdventureShop:Default (strona 4)  [okienko sklepu (ramk
 DialogueText: Zabijasz potwory? Kupuję łup.
 AudioName: 72.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Marlon  [kino (poczekalnia)]
+DialogueText: Gil przespał cały film... Jak zwykle.
+AudioName: 73.ogg
+--------------------------------------------------

@@ -30,3 +30,34 @@ DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 7)  [inne]
 DialogueText: Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj.
 AudioName: 36.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat  [szczyt]
+DialogueText: No, no, no... Popatrz no komu udało się 'dotrzeć' na szczyt.
+AudioName: 37.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 2)  [szczyt]
+DialogueText: Myślałeś, że jesteś taki sprytny, prawda?
+AudioName: 38_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 3)  [szczyt]
+DialogueText: Myślałaś, że jesteś taka sprytna, prawda?
+AudioName: 39_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 4)  [szczyt]
+DialogueText: 'Jak oszukać system dla własnej korzyści?', pomyślałeś.
+AudioName: 40_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 5)  [szczyt]
+DialogueText: 'Jak oszukać system dla własnej korzyści?', pomyślałaś.
+AudioName: 41_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 6)  [szczyt]
+DialogueText: Lub mówiąc laikiem: 'Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja'.
+AudioName: 42.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 7)  [szczyt]
+DialogueText: Okropne.
+AudioName: 43.ogg
+--------------------------------------------------

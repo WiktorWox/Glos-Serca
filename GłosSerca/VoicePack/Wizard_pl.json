@@ -1253,6 +1253,38 @@
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
           "PageIndex": 0,
           "DisplayPattern": "Czy to żart? Nie łapię."
+        },
+        {
+          "DialogueFrom": "Wizard_Objective_0_Message",
+          "DialogueText": "Ach, to jest przepełnione energią zapomnianych dusz... doskonale. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Wizard/155.ogg",
+          "TranslationKey": "Strings/SpecialOrderStrings:Wizard_Objective_0_Message",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach, to jest przepełnione energią zapomnianych dusz... doskonale."
+        },
+        {
+          "DialogueFrom": "Wizard_Objective_0_Message",
+          "DialogueText": "A teraz precz. Będę potrzebował kompletnej ciszy, aby dostrzec prawdziwą naturę tej substancji.",
+          "AudioPath": "assets/pl/Wizard/156.ogg",
+          "TranslationKey": "Strings/SpecialOrderStrings:Wizard_Objective_0_Message",
+          "PageIndex": 1,
+          "DisplayPattern": "A teraz precz. Będę potrzebował kompletnej ciszy, aby dostrzec prawdziwą naturę tej substancji."
+        },
+        {
+          "DialogueFrom": "Wizard2_Objective_1_Message",
+          "DialogueText": "Ach... udało Ci się! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Wizard/157.ogg",
+          "TranslationKey": "Strings/SpecialOrderStrings:Wizard2_Objective_1_Message",
+          "PageIndex": 0,
+          "DisplayPattern": "Ach... udało Ci się!"
+        },
+        {
+          "DialogueFrom": "Wizard2_Objective_1_Message",
+          "DialogueText": "Daj mi to i odejdź! Przede mną dużo pracy.",
+          "AudioPath": "assets/pl/Wizard/158.ogg",
+          "TranslationKey": "Strings/SpecialOrderStrings:Wizard2_Objective_1_Message",
+          "PageIndex": 1,
+          "DisplayPattern": "Daj mi to i odejdź! Przede mną dużo pracy."
         }
       ]
     }

@@ -587,6 +587,14 @@
           "TranslationKey": "Data/Shops:AdventureShop:Default",
           "PageIndex": 3,
           "DisplayPattern": "Zabijasz potwory? Kupuję łup."
+        },
+        {
+          "DialogueFrom": "MovieTheater_Marlon",
+          "DialogueText": "Gil przespał cały film... Jak zwykle.",
+          "AudioPath": "assets/pl/Marlon/73.ogg",
+          "TranslationKey": "Strings/StringsFromMaps:MovieTheater_Marlon",
+          "PageIndex": 0,
+          "DisplayPattern": "Gil przespał cały film... Jak zwykle."
         }
       ]
     }

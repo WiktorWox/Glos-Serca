@@ -198,3 +198,34 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 517.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1760  [wydarzenie / inne]
+DialogueText: Może dla Ciebie, ale nie dla mnie! Nie zrozumiesz... Po prostu... Odejdź. {Portrait:Custom:7}
+AudioName: 518.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1760 (strona 2)  [wydarzenie / inne]
+DialogueText: ... Ugh... {Portrait:Custom:7}
+AudioName: 519.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1760 (strona 3)  [wydarzenie / inne]
+DialogueText: Czekaj... {Portrait:Custom:7}
+AudioName: 520.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1761  [wydarzenie / inne]
+DialogueText: ... Masz rację. Jas... Ugh, Boże... Jestem okropną, *czkawka*... arogancką osobą. {Portrait:Custom:7}
+AudioName: 521.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1761 (strona 2)  [wydarzenie / inne]
+DialogueText: Teraz czuję się jeszcze gorzej... {Portrait:Custom:7}
+AudioName: 522.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1763  [wydarzenie / inne]
+DialogueText: Yoba...? {Farmer_Name}, nie rozumiesz, że jestem ateistą? Ugh... {Portrait:Custom:7}
+AudioName: 523.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1764 (strona 2)  [wydarzenie / inne]
+DialogueText: Dzięki... Doceniam to... Naprawdę doceniam. {Portrait:Custom:7}
+AudioName: 524.ogg
+--------------------------------------------------

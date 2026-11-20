@@ -114,3 +114,14 @@ DialogueFrom: Data/Shops:ShadowShop:Default  [okienko sklepu (ramka obok portret
 DialogueText: Rzadkie towary
 AudioName: 219.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Krobus_AfterWedding  [wydarzenie / inne]
+DialogueText: Dzień dobry, {Farmer_Name}... Wpadłem tu w nocy. {Portrait:Love}
+AudioName: 220.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Krobus_AfterWedding (strona 2)  [wydarzenie / inne]
+DialogueText: Trochę mi zajmie przywyknięcie do tego miejsca... Bardzo się różni od ścieków...
+AudioName: 221.ogg
+--------------------------------------------------

@@ -1655,6 +1655,14 @@
           "TranslationKey": "Data/Shops:AnimalShop:Default",
           "PageIndex": 0,
           "DisplayPattern": "Towary zwierzęce na sprzedaż!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1798",
+          "DialogueText": "Nie? Ok... Znajdę inny dom dla tego biednego stworzenia. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Marnie/204.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1798",
+          "PageIndex": 0,
+          "DisplayPattern": "Nie? Ok... Znajdę inny dom dla tego biednego stworzenia."
         }
       ]
     }

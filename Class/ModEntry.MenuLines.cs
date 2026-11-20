@@ -80,8 +80,18 @@ namespace VoiceOverFrameworkMod
             if (!string.IsNullOrEmpty(farmer)) text = text.Replace(farmer, "");
             string canon = CanonDisplay(text);
             string rel = null;
-            if (pack.EntriesByDisplayPattern == null || !pack.EntriesByDisplayPattern.TryGetValue(canon, out rel))
-                pack.Entries?.TryGetValue(canon, out rel);
+            // Pack display patterns come from DialogueUtil.SplitAndSanitize, which also strips token-like letter runs
+            // (e.g. "pet" out of "tapet", "farm" out of "farmer"); try the plain text first, then the same sanitizing.
+            var candidates = new List<string> { canon };
+            var segs = DialogueUtil.SplitAndSanitize(text);
+            if (segs != null && segs.Count > 0)
+                candidates.Add(CanonDisplay(string.Join(" ", segs.Select(seg => seg.Display))));
+            foreach (string c in candidates.Distinct())
+            {
+                if (pack.EntriesByDisplayPattern != null && pack.EntriesByDisplayPattern.TryGetValue(c, out rel)) break;
+                if (pack.Entries != null && pack.Entries.TryGetValue(c, out rel)) break;
+                rel = null;
+            }
             if (Config.developerModeOn)
                 Monitor.Log($"[V2-{tag}] character='{character}' text='{canon}' match={(rel ?? "no")}", LogLevel.Debug);
             if (string.IsNullOrWhiteSpace(rel)) return false;

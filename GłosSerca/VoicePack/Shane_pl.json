@@ -4173,6 +4173,62 @@
           "TranslationKey": "Strings/1_6_Strings:Spouse_Goodnight1",
           "PageIndex": 0,
           "DisplayPattern": "Idziesz do łóżka?"
+        },
+        {
+          "DialogueFrom": "Event.cs.1760",
+          "DialogueText": "Może dla Ciebie, ale nie dla mnie! Nie zrozumiesz... Po prostu... Odejdź. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/518.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1760",
+          "PageIndex": 0,
+          "DisplayPattern": "Może dla Ciebie, ale nie dla mnie! Nie zrozumiesz... Po prostu... Odejdź."
+        },
+        {
+          "DialogueFrom": "Event.cs.1760",
+          "DialogueText": "... Ugh... {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/519.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1760",
+          "PageIndex": 1,
+          "DisplayPattern": "... Ugh..."
+        },
+        {
+          "DialogueFrom": "Event.cs.1760",
+          "DialogueText": "Czekaj... {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/520.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1760",
+          "PageIndex": 2,
+          "DisplayPattern": "Czekaj..."
+        },
+        {
+          "DialogueFrom": "Event.cs.1761",
+          "DialogueText": "... Masz rację. Jas... Ugh, Boże... Jestem okropną, *czkawka*... arogancką osobą. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/521.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1761",
+          "PageIndex": 0,
+          "DisplayPattern": "... Masz rację. Jas... Ugh, Boże... Jestem okropną, *czkawka*... arogancką osobą."
+        },
+        {
+          "DialogueFrom": "Event.cs.1761",
+          "DialogueText": "Teraz czuję się jeszcze gorzej... {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/522.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1761",
+          "PageIndex": 1,
+          "DisplayPattern": "Teraz czuję się jeszcze gorzej..."
+        },
+        {
+          "DialogueFrom": "Event.cs.1763",
+          "DialogueText": "Yoba...? {Farmer_Name}, nie rozumiesz, że jestem ateistą? Ugh... {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/523.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1763",
+          "PageIndex": 0,
+          "DisplayPattern": "Yoba...? , nie rozumiesz, że jestem ateistą? Ugh..."
+        },
+        {
+          "DialogueFrom": "Event.cs.1764",
+          "DialogueText": "Dzięki... Doceniam to... Naprawdę doceniam. {Portrait:Custom:7}",
+          "AudioPath": "assets/pl/Shane/524.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1764",
+          "PageIndex": 1,
+          "DisplayPattern": "Dzięki... Doceniam to... Naprawdę doceniam."
         }
       ]
     }

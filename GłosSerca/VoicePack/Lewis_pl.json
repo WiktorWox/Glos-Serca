@@ -3117,6 +3117,222 @@
           "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
           "PageIndex": 0,
           "DisplayPattern": "Czy to żart? Nie łapię."
+        },
+        {
+          "DialogueFrom": "Event.cs.1862",
+          "DialogueText": "Abigail!",
+          "AudioPath": "assets/pl/Lewis/386.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1862",
+          "PageIndex": 0,
+          "DisplayPattern": "Abigail!"
+        },
+        {
+          "DialogueFrom": "Event.cs.1871",
+          "DialogueText": "Willy, z 5 dużymi rybami!",
+          "AudioPath": "assets/pl/Lewis/387.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1871",
+          "PageIndex": 0,
+          "DisplayPattern": "Willy, z 5 dużymi rybami!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5367",
+          "DialogueText": "Gdy {Farmer_Name} po raz pierwszy pojawił się w Mieście Pelikan, nikt nie wiedział, czy wpasuje się w naszą społeczność...",
+          "AudioPath": "assets/pl/Lewis/388.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5367",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy po raz pierwszy pojawił się w Mieście Pelikan, nikt nie wiedział, czy wpasuje się w naszą społeczność..."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5367",
+          "DialogueText": "Ale od tego dnia, {Farmer_Name} będzie większą częścią społeczności tego miasteczka niż każdy z nas! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/389.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5367",
+          "PageIndex": 1,
+          "DisplayPattern": "Ale od tego dnia, będzie większą częścią społeczności tego miasteczka niż każdy z nas!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5369",
+          "DialogueText": "Gdy {Farmer_Name} po raz pierwszy pojawiła się w Mieście Pelikan nikt nie wiedział czy wpasuje się w naszą społeczność...",
+          "AudioPath": "assets/pl/Lewis/390.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5369",
+          "PageIndex": 0,
+          "DisplayPattern": "Gdy po raz pierwszy pojawiła się w Mieście Pelikan nikt nie wiedział czy wpasuje się w naszą społeczność..."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5370",
+          "DialogueText": "A więc, zaczynajmy!",
+          "AudioPath": "assets/pl/Lewis/391.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5370",
+          "PageIndex": 0,
+          "DisplayPattern": "A więc, zaczynajmy!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5371",
+          "DialogueText": "{Farmer_Name}... %spouse...",
+          "AudioPath": "assets/pl/Lewis/392.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5371",
+          "PageIndex": 0,
+          "DisplayPattern": "... ..."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5371",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i... no, mężem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/393.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5371",
+          "PageIndex": 1,
+          "DisplayPattern": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i... no, mężem!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5373",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i żoną! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/394.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5373",
+          "PageIndex": 1,
+          "DisplayPattern": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i żoną!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5375",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i... no, żoną! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/395.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5375",
+          "PageIndex": 1,
+          "DisplayPattern": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i... no, żoną!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5377",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i mężem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/396.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5377",
+          "PageIndex": 1,
+          "DisplayPattern": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i mężem!"
+        },
+        {
+          "DialogueFrom": "Utility.cs.5379",
+          "DialogueText": "Możecie się pocałować.",
+          "AudioPath": "assets/pl/Lewis/397.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5379",
+          "PageIndex": 0,
+          "DisplayPattern": "Możecie się pocałować."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5381",
+          "DialogueText": "Od teraz życie już nie będzie takie jak kiedyś...",
+          "AudioPath": "assets/pl/Lewis/398.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5381",
+          "PageIndex": 0,
+          "DisplayPattern": "Od teraz życie już nie będzie takie jak kiedyś..."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5383",
+          "DialogueText": "... Ale wszystko jeszcze przed nami!",
+          "AudioPath": "assets/pl/Lewis/399.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5383",
+          "PageIndex": 0,
+          "DisplayPattern": "... Ale wszystko jeszcze przed nami!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Co u Ciebie?",
+          "AudioPath": "assets/pl/Lewis/400.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 0,
+          "DisplayPattern": "Co u Ciebie?"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Dobrze słyszeć.",
+          "AudioPath": "assets/pl/Lewis/401.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 1,
+          "DisplayPattern": "Dobrze słyszeć."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Chyba mogę powiedzieć za wszystkich, że cenimy sobie twoją obecność we wspólnocie.",
+          "AudioPath": "assets/pl/Lewis/402.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 2,
+          "DisplayPattern": "Chyba mogę powiedzieć za wszystkich, że cenimy sobie twoją obecność we wspólnocie."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Twój dziadek byłby z Ciebie dumny.",
+          "AudioPath": "assets/pl/Lewis/403.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 3,
+          "DisplayPattern": "Twój dziadek byłby z Ciebie dumny."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Cóż, pozwolę ci wrócić do roboty. Do widzenia!",
+          "AudioPath": "assets/pl/Lewis/404.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 4,
+          "DisplayPattern": "Cóż, pozwolę ci wrócić do roboty. Do widzenia!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Dobrze słyszeć!",
+          "AudioPath": "assets/pl/Lewis/405.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 5,
+          "DisplayPattern": "Dobrze słyszeć!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Twoja farma podniosła lokalną ekonomię, która jest dobra dla wszystkich. Doceniamy twoją ciężką pracę!",
+          "AudioPath": "assets/pl/Lewis/406.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 6,
+          "DisplayPattern": "Twoja a podniosła lokalną ekonomię, która jest dobra dla wszystkich. Doceniamy twoją ciężką pracę!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Chyba mogę powiedzieć, że twój dziadek byłby z Ciebie bardzo dumny.",
+          "AudioPath": "assets/pl/Lewis/407.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 7,
+          "DisplayPattern": "Chyba mogę powiedzieć, że twój dziadek byłby z Ciebie bardzo dumny."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Cóż, Pozwolę ci wrócić do pracy. Do widzenia!",
+          "AudioPath": "assets/pl/Lewis/408.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 8,
+          "DisplayPattern": "Cóż, Pozwolę ci wrócić do pracy. Do widzenia!"
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Och... Przykro mi to słyszeć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/409.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 9,
+          "DisplayPattern": "Och... Przykro mi to słyszeć."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Uch... próbuj dalej ciężko pracować i na pewno wszystko się poprawi...",
+          "AudioPath": "assets/pl/Lewis/410.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 10,
+          "DisplayPattern": "Uch... próbuj dalej ciężko pracować i na pewno wszystko się poprawi..."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Cóż... pozwolę ci wrócić do pracy... Ok? Zadzwoń później. Pa. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/411.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 11,
+          "DisplayPattern": "Cóż... pozwolę ci wrócić do pracy... Ok? Zadzwoń później. Pa."
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/412.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 12,
+          "DisplayPattern": "A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa."
         }
       ]
     }

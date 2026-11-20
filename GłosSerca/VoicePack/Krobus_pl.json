@@ -1771,6 +1771,22 @@
           "TranslationKey": "Data/Shops:ShadowShop:Default",
           "PageIndex": 0,
           "DisplayPattern": "Rzadkie towary"
+        },
+        {
+          "DialogueFrom": "Krobus_AfterWedding",
+          "DialogueText": "Dzień dobry, {Farmer_Name}... Wpadłem tu w nocy. {Portrait:Love}",
+          "AudioPath": "assets/pl/Krobus/220.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Krobus_AfterWedding",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzień dobry, ... Wpadłem tu w nocy."
+        },
+        {
+          "DialogueFrom": "Krobus_AfterWedding",
+          "DialogueText": "Trochę mi zajmie przywyknięcie do tego miejsca... Bardzo się różni od ścieków...",
+          "AudioPath": "assets/pl/Krobus/221.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Krobus_AfterWedding",
+          "PageIndex": 1,
+          "DisplayPattern": "Trochę mi zajmie przywyknięcie do tego miejsca... Bardzo się różni od ścieków..."
         }
       ]
     }

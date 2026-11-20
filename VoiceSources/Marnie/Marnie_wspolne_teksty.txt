@@ -82,3 +82,10 @@ DialogueFrom: Data/Shops:AnimalShop:Default  [okienko sklepu (ramka obok portret
 DialogueText: Towary zwierzęce na sprzedaż!
 AudioName: 203.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1798  [wydarzenie / inne]
+DialogueText: Nie? Ok... Znajdę inny dom dla tego biednego stworzenia. {Portrait:Sad}
+AudioName: 204.ogg
+--------------------------------------------------

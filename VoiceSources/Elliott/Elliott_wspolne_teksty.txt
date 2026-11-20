@@ -186,3 +186,46 @@ DialogueFrom: Strings/1_6_Strings:Spouse_Goodnight1  [małżeństwo]
 DialogueText: Idziesz do łóżka?
 AudioName: 533.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1257  [książka]
+DialogueText: Skończyłem pisać moją książkę i jest to tajemnicza nowela! Pamiętam jak usłyszałem od Ciebie, że lubisz tajemnice. {Portrait:Happy}
+AudioName: 534.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1257 (strona 2)  [książka]
+DialogueText: Patrz, '%book', ekscytująca opowieść o podstępie i intrydze! {Portrait:Unique}
+AudioName: 535.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1257 (strona 3)  [książka]
+DialogueText: -Prawie- czuję jakbym powinien podzielić się z Tobą zyskami! {Portrait:Happy}
+AudioName: 536.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1258  [książka]
+DialogueText: Skończyłem pisać moją książkę i jest to romantyczna nowela!... Pamiętam, że ty lubisz ten gatunek, no i cóż, miałem ostatnio trochę inspiracji z życia codziennego. {Portrait:Love}
+AudioName: 537.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1258 (strona 2)  [książka]
+DialogueText: Oto ona, '%book'. Jest o stewardesach pracujących w pociągu, które zakochały się w podróżującym architekcie... ale jest sekretnie zaręczony z córką kanara!
+AudioName: 538.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1258 (strona 3)  [książka]
+DialogueText: *Prawie* czuję jakbym powinien podzielić się z Tobą zyskami! {Portrait:Happy}
+AudioName: 539.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1259  [książka]
+DialogueText: Skończyłem pisać moją książkę I jest to nowela w stylu sci-fi! Pamiętam, że ty uwielbiasz sci-fi? {Portrait:Happy}
+AudioName: 540.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1259 (strona 2)  [książka]
+DialogueText: Patrz, '%book'. Jest o chłopcu, który formuje symbiotyczny związek z pół-telepatyczną formą życia. Razem odkrywają mroczne tajemnice międzygwiezdnego świata. {Portrait:Unique}
+AudioName: 541.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1260  [książka]
+DialogueText: Skończyłem pisać moją książkę! {Portrait:Happy}
+AudioName: 542.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1260 (strona 2)  [książka]
+DialogueText: Cóż, oto ona... '%book'. Jest o inspektorze rządowym, który odwiedza małą, odizolowaną społeczność górników... i odkrywa niepokojące tajemnice. {Portrait:Unique}
+AudioName: 543.ogg
+--------------------------------------------------

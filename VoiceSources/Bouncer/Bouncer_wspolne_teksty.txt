@@ -18,3 +18,14 @@ DialogueFrom: Strings/Locations:Club_Bouncer_TextAboveHead2  [okrzyk w dymku nad
 DialogueText: Ty chuliganie...
 AudioName: 4.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4192  [wydarzenie / inne]
+DialogueText: ...
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4192 (strona 4)  [wydarzenie / inne]
+DialogueText: Tylko dla członków klubu, dzieciaku. A więc spadaj.
+AudioName: 6.ogg
+--------------------------------------------------

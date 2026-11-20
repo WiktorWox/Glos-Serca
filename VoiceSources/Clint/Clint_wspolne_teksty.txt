@@ -82,3 +82,10 @@ DialogueFrom: Data/Shops:ClintUpgrade:Default  [okienko sklepu (ramka obok portr
 DialogueText: Mogę ulepszyć Twoje narzędzia. Jednakże musisz je u mnie zostawić na kilka dni.
 AudioName: 207.ogg
 --------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Tool.cs.14317  [oddanie narzędzia do ulepszenia]
+DialogueText: Dzięki. Zacznę pracować nad tym najszybciej jak się da. Powinno być gotowe za kilka dni.
+AudioName: 208.ogg
+--------------------------------------------------

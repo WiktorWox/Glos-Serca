@@ -22,7 +22,16 @@ namespace VoiceOverFrameworkMod
     /// </summary>
     public partial class ModEntry : Mod
     {
-        private static readonly Regex SharedDynamicRx = new(@"\{\d\}|%\w", RegexOptions.Compiled);
+        // {0}-style inserts (item, amount, price, another NPC's name) can't be recorded; %farm, %pet, %year… can, the
+        // actor skips or rephrases them like the player's name
+        private static readonly Regex SharedDynamicRx = new(@"\{\d\}", RegexOptions.Compiled);
+
+        /// <summary>A leading '%' not followed by a game token marks narration (Dialogue.percentTokens).</summary>
+        private static bool IsNarration(string text)
+        {
+            string t = (text ?? string.Empty).TrimStart();
+            return t.StartsWith("%") && !Dialogue.percentTokens.Any(tok => t.StartsWith(tok, StringComparison.Ordinal));
+        }
 
         private IEnumerable<VoiceEntryTemplate> BuildFromSharedGameStrings(string characterName, string languageCode, IGameContentHelper content, ref int entryNumber, string ext)
         {
@@ -50,11 +59,13 @@ namespace VoiceOverFrameworkMod
             void Emit(string asset, string key, string text = null, string tkOverride = null)
             {
                 text ??= Sheet(asset).TryGetValue(key, out var t) ? t : null;
-                if (string.IsNullOrWhiteSpace(text) || text.TrimStart().StartsWith("(") || SharedDynamicRx.IsMatch(text)) return;
+                if (string.IsNullOrWhiteSpace(text) || text.TrimStart().StartsWith("(") || IsNarration(text)) return;
                 string tk = tkOverride ?? $"{asset}:{key}";
                 if (!seen.Add(tk)) return;
+                // only pages with a {0}-style insert are skipped (e.g. the wedding date on the third page)
                 foreach (var seg in DialogueUtil.SplitAndSanitize(text))
-                    outList.Add(MakeEntry(characterName, languageCode, ext, ref n, key, tk, seg.PageIndex, seg));
+                    if (!SharedDynamicRx.IsMatch(seg.Actor ?? string.Empty))
+                        outList.Add(MakeEntry(characterName, languageCode, ext, ref n, key, tk, seg.PageIndex, seg));
             }
             // Text shown as-is, not parsed as dialogue: question boxes ('^' is a line break there) and
             // speech bubbles (no pages; "#!*#%*!" is a curse, not three pages)
@@ -99,6 +110,7 @@ namespace VoiceOverFrameworkMod
                     break;
                 case "Krobus":
                     Emit(CH, "KrobusDarkTalisman"); Emit(CH, "KrobusDarkTalisman_elsewhere"); Emit(CS, "NPC.cs.3990");
+                    Emit(CS, "Krobus_AfterWedding");
                     break;
                 case "Henchman":
                     for (int i = 1; i <= 6; i++) Emit(CH, $"Henchman{i}");
@@ -121,15 +133,50 @@ namespace VoiceOverFrameworkMod
                     break;
                 case "Demetrius": Emit(CS, "Event.cs.1018"); break;
                 case "Maru": Emit(CS, "Event.cs.1020"); break;
-                case "Lewis": Emit(CS, "Event.cs.1025"); Emit(CS, "Event.cs.1730"); break;
-                case "Elliott": Emit(CS, "Event.cs.1258"); Emit(CS, "Event.cs.1259"); break;
+                case "Lewis":
+                    Emit(CS, "Event.cs.1025"); Emit(CS, "Event.cs.1730");
+                    Emit(CS, "Event.cs.1862"); Emit(CS, "Event.cs.1871");                 // festival winner announcements
+                    // wedding speech (Data/Weddings → [LocalizedText Strings\StringsFromCSFiles:Utility.cs.53xx])
+                    foreach (var k in new[] { "5367", "5369", "5370", "5371", "5373", "5375", "5377", "5379", "5381", "5383" })
+                        Emit(CS, $"Utility.cs.{k}");
+                    break;
+                case "Elliott":
+                    foreach (var k in new[] { "1257", "1258", "1259", "1260" }) Emit(CS, $"Event.cs.{k}"); // Event.ElliottBookTalk
+                    break;
+                case "Grandpa":
+                    // Event.GrandpaEvaluation(2): written into the event script with ReplaceCurrentCommand("speak Grandpa …")
+                    foreach (var k in new[] { "1306", "1307", "1308", "1309", "1315", "1316", "1317", "1318" }) Emit(CS, $"Event.cs.{k}");
+                    break;
+                case "Shane":
+                    foreach (var k in new[] { "1760", "1761", "1763", "1764" }) Emit(CS, $"Event.cs.{k}");     // Event.answerDialogue
+                    break;
+                case "Marnie": Emit(CS, "Event.cs.1798"); break;
+                case "Clint": Emit(CS, "Tool.cs.14317"); break;                                   // tool left for an upgrade
+                case "Willy":
+                    foreach (var k in Sheet(LOC).Keys.Where(k => k.StartsWith("BoatTunnel_willyText_")).ToList()) EmitPlain(LOC, k); // bubbles
+                    break;
+                case "Birdie":
+                    // Strings/Locations:alreadyGotNuts is a whole event script; take the text of its speak commands
+                    if (Sheet(LOC).TryGetValue("alreadyGotNuts", out var nutsScript))
+                    {
+                        int i = 0;
+                        foreach (Match m in Regex.Matches(nutsScript, @"speak Birdie \""([^""]*)\"""))
+                            Emit(LOC, $"alreadyGotNuts", m.Groups[1].Value, $"{LOC}:alreadyGotNuts:{i++}");
+                    }
+                    break;
+                case "Gunther":
+                case "Marlon":
+                case "Morris":
+                    Emit("Strings/StringsFromMaps", $"MovieTheater_{characterName}");             // lobby of the movie theater
+                    break;
                 case "Bouncer":
-                    Emit(CS, "NPC.cs.4020"); Emit(CS, "NPC.cs.4021");
+                    Emit(CS, "NPC.cs.4020"); Emit(CS, "NPC.cs.4021"); Emit(CS, "NPC.cs.4192");
                     EmitPlain(LOC, "Club_Bouncer_TextAboveHead1"); EmitPlain(LOC, "Club_Bouncer_TextAboveHead2");
                     break;
                 case "MrQi":
                 case "Mister Qi":
                     Emit(EX, "MisterQi_PlayerClubMember");
+                    Emit(S16, "QiSummitCheat");
                     break;
                 case "Professor Snail":
                     foreach (var k in Sheet(EX).Keys.Where(k => k.StartsWith("ProfessorSnail_Hint_")).ToList()) Emit(EX, k);
@@ -142,6 +189,11 @@ namespace VoiceOverFrameworkMod
                     }
                     break;
             }
+
+            // special order deliveries (DeliverObjective: the NPC says the objective's Message)
+            foreach (var k in Sheet("Strings/SpecialOrderStrings").Keys
+                         .Where(k => Regex.IsMatch(k, $@"^{Regex.Escape(characterName)}\d*_Objective_\d+_Message$")).ToList())
+                Emit("Strings/SpecialOrderStrings", k);
 
             // phone: Phone_<Name>_… (calling the shop) and Phone_Ring_<Name> (the NPC calling)
             foreach (var k in Sheet(CH).Keys.Where(k => k.StartsWith($"Phone_{characterName}_") || k == $"Phone_Ring_{characterName}").ToList())

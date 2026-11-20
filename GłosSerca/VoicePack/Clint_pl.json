@@ -1677,6 +1677,14 @@
           "TranslationKey": "Data/Shops:ClintUpgrade:Default",
           "PageIndex": 0,
           "DisplayPattern": "Mogę ulepszyć Twoje narzędzia. Jednakże musisz je u mnie zostawić na kilka dni."
+        },
+        {
+          "DialogueFrom": "Tool.cs.14317",
+          "DialogueText": "Dzięki. Zacznę pracować nad tym najszybciej jak się da. Powinno być gotowe za kilka dni.",
+          "AudioPath": "assets/pl/Clint/208.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Tool.cs.14317",
+          "PageIndex": 0,
+          "DisplayPattern": "Dzięki. Zacznę pracować nad tym najszybciej jak się da. Powinno być gotowe za kilka dni."
         }
       ]
     }
