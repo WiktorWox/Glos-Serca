@@ -226,3 +226,25 @@ Odpowiedzi w pytaniach `$q` w środku kwestii (np. Abigail na cmentarzu, `Event_
 - Generowanie na M4 Max (MPS): około 2 s obliczeń na sekundę mowy; 21 kwestii Leo w 137 s. Barwa z `audio_prompt_path` (23 s zlepionych nagrań aktora) – klonowanie zero-shot, bez trenowania. Portret z paczki steruje pokrętłami `exaggeration`/`cfg_weight`.
 - Wygenerowane pliki służą wyłącznie do testów działania moda i są wykluczone z gita (`.git/info/exclude`). Każde użycie głosu aktora, także testowe, wymaga jego zgody.
 - Fine-tuning (dotrenowanie modelu na nagraniach aktora) to osobny, większy temat: potrzebne godziny audio z transkrypcją i GPU; kandydaci to Chatterbox, F5-TTS (MIT) lub Orpheus. Nagrania Głosu Serca są do tego gotowym materiałem, ale decyzja i zgody aktorów są warunkiem wstępnym.
+
+## 5. Plan uzgodniony 20 listopada 2026 (jeszcze niezrobione)
+
+### Jedno źródło dopasowania: `DialogueText`
+
+- `DialogueText` w paczce = tekst gry ze znacznikami (`{Farmer_Name}`, `%farm`, `%time`, `%book`, `{0}`, `{Portrait:…}`); zespół go nie zmienia (sprawdzone: 11 996 wpisów identycznych z generatorem).
+- Mod buduje z niego dopasowanie przy wczytaniu: bez znaczników dosłownie, ze znacznikami jako regex z `.+?` w miejscu zmiennej; portrety pomijane; białe znaki ujednolicone po obu stronach do jednej spacji (spacja we wzorcu dosłownie, nie `\s*`).
+- `DisplayPattern` przestaje być potrzebny (generator go nie zapisuje, mod ignoruje); znika wycinanie imion z tekstu na ekranie.
+- Kolejność: klucz tłumaczenia z gry → dopasowanie po `DialogueText`; przybliżenie tylko w logu trybu deweloperskiego.
+
+### Uwagi dla aktorów: pole `ActorNote`
+
+- Osobne pole w JSON, mod je ignoruje; trafia do list `.txt` jako linia „Uwaga: …”.
+- Generator wypełnia je automatycznie tylko objaśnieniem znaczników, bez własnych sformułowań: `{Farmer_Name}` imię gracza (wstawia gra), `%farm` nazwa farmy gracza, `%time` aktualna godzina w grze, `%book` losowy tytuł książki, `{0}` wartość wstawiana przez grę, `*kaszel*` opis odgłosu, nie słowo do przeczytania itd.
+- Ręcznie dopisane uwagi (np. „czytamy »Czy to jest?«”) generator zachowuje.
+
+### Zlecenia z tablicy
+
+- Kawałki `ItemDeliveryQuest.cs.13526–13544` jako zwykłe wpisy w paczkach postaci wystawiających zlecenia (do ustalenia w kodzie gry, kto wystawia); stałe kwestie Czarnoksiężnika, Haley, Sama, Sebastiana, Maru, Abigail i Elliotta jako zwykłe dialogi.
+- Pierwsze okienko rozpoznawane jednym regexem w kolejności powitanie → reakcja → podziękowanie (`^…$`), zbudowanym z wpisów paczki; drugie okienko (zapłata) zwykłym dopasowaniem.
+- Nowe w modzie: kolejka odtwarzania kilku plików pod rząd.
+- „Czy to jest {0}?” zespół nagrywa jako „Czy to jest?”.
