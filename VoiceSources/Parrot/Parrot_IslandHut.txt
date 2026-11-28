@@ -1,0 +1,10 @@
+Papuga – pierwsze spotkanie z Leo w chacie (IslandHut 1039573). W skrypcie gry papuga jest aktorem "Toddler" i powtarza pytanie gracza w dwóch dymkach. Skrzeki "*Kra*" (sloty s0 i s2) mają własny efekt dźwiękowy gry i nie są nagrywane.
+
+DialogueFrom: Event/IslandHut/1039573:s1
+DialogueText: Jeśli jesteś ptakiem
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Event/IslandHut/1039573:s3
+DialogueText: To czemu umiesz mówić?
+AudioName: 2.ogg
+--------------------------------------------------

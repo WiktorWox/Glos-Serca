@@ -80,6 +80,11 @@ namespace VoiceOverFrameworkMod
 
             /*/
 
+            this.Helper.ConsoleCommands.Add(
+                "vof_audit_events",
+                "Compare the event slot numbering of the template generator, the runtime counter and the loaded packs.\nUsage: vof_audit_events [character]",
+                this.AuditEventIndexCommand);
+
             /*
             //used to fix current voice packs to add increments to duplicate Dialogue From
             this.Helper.ConsoleCommands.Add(
@@ -387,6 +392,16 @@ namespace VoiceOverFrameworkMod
                 //characterManifest.Entries.AddRange(BuildFromMail(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
                 characterManifest.Entries.AddRange(BuildFromOneSixStrings(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
                 characterManifest.Entries.AddRange(BuildSpeechBubbleEntries(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                // Added later: appended last so the numbers of earlier (recorded) entries stay put
+                characterManifest.Entries.AddRange(BuildFromLocationEntryVariants(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromScheduleStrings(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromQuestCompletions(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromSharedGameStrings(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromShopOwnerDialogues(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromQuestionPreambles(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromQuestDeliveries(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromPurchasedItemComments(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
+                characterManifest.Entries.AddRange(BuildFromSaloonCheers(characterName, languageCode, this.Helper.GameContent, ref entryNumber, desiredExtension));
              
 
                 
@@ -435,6 +450,13 @@ namespace VoiceOverFrameworkMod
                 if (this.Config.developerModeOn)
                     this.Monitor.Log($"Saving JSON ({characterManifest.Entries.Count} entries for {characterName}) to: {outputPath}", LogLevel.Debug);
 
+                // the mod matches by DialogueText; DisplayPattern is no longer written. ActorNote explains game tokens.
+                foreach (var vpOut in finalOutputFileObject.VoicePacks)
+                    foreach (var en in vpOut.Entries)
+                    {
+                        en.DisplayPattern = null;
+                        en.ActorNote ??= BuildActorNote(en.DialogueText);
+                    }
                 string jsonOutput = JsonConvert.SerializeObject(finalOutputFileObject, Formatting.Indented,
                     new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore });
 
@@ -724,6 +746,15 @@ namespace VoiceOverFrameworkMod
             all.AddRange(BuildFromMovieReactions(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
             all.AddRange(BuildFromOneSixStrings(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
             all.AddRange(BuildSpeechBubbleEntries(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromLocationEntryVariants(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromScheduleStrings(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromQuestCompletions(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromSharedGameStrings(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromShopOwnerDialogues(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromQuestionPreambles(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromQuestDeliveries(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromPurchasedItemComments(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
+            all.AddRange(BuildFromSaloonCheers(characterName, languageCode, this.Helper.GameContent, ref dummy, ext));
 
             // We must NOT renumber PageIndex; these come from the sanitizers.
             // Also, we ignore AudioPath here; caller will assign new paths for appended items.

@@ -1,0 +1,32 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 177.ogg).
+
+DialogueFrom: Strings/schedules/Marnie:winter_18.000  [plan dnia]
+DialogueText: Myślę, że Jas lubi chodzić do doktora. Niezwykłe dziecko.
+AudioName: 177.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Marnie:fall_18.000  [plan dnia]
+DialogueText: Emm... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?
+AudioName: 178.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Marnie:Tue.000  [plan dnia]
+DialogueText: Tej nocy będę spała jak suseł. {Portrait:Happy}
+AudioName: 179.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Marnie:winter_18.001  [plan dnia]
+DialogueText: Czekamy tu na wizytę o 13:30.
+AudioName: 180.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Marnie:winter_18.002  [plan dnia]
+DialogueText: Emm... Doktorze Harvey? Czy po zastrzyku możemy dostać dwa lizaki?
+AudioName: 181.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Marnie:winter_16.000  [plan dnia]
+DialogueText: Ooch... Drobny fioletowy jedwab. Nie znajdziesz tego w JojaMarkecie!
+AudioName: 182.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:106  [zakończenie zadania]
+DialogueText: Och, amarantus, o który prosiłam! Dziękuję Ci tak bardzo... moje krowy to pokochają! {Portrait:Happy}
+AudioName: 183.ogg
+--------------------------------------------------

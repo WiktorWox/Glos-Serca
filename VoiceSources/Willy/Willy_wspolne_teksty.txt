@@ -1,0 +1,75 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 285.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 285.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 286.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Adult  [okrzyk w dymku nad głową]
+DialogueText: Hej, przestań! Fuj! {Portrait:Sad}
+AudioName: 287.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4275  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}
+AudioName: 288.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 289_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277 (strona 2)  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 290_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4279  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och... to na moje urodziny?... Dzięki. {Portrait:Sad}
+AudioName: 291.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4281  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och, urodzinowy prezent! Dziękuję.
+AudioName: 292.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 293.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 294.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 295.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 296.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 297.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:FishShop:Rare  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Sorki za ten smród.
+AudioName: 298.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:FishShop:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Potrzebujesz rzeczy do wędkowania? Jesteś w dobrym miejscu.
+AudioName: 299.ogg
+--------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/Locations:BoatTunnel_willyText_firstRide  [okrzyk w dymku nad głową]
+DialogueText: Wygląda jak nowa!
+AudioName: 300.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:BoatTunnel_willyText_random0  [okrzyk w dymku nad głową]
+DialogueText: Wybacz jeśli śmierdzę rybą, heh!
+AudioName: 301.ogg
+--------------------------------------------------

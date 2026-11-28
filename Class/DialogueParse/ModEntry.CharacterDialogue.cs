@@ -23,7 +23,7 @@ namespace VoiceOverFrameworkMod
             string ext)
         {
             var outList = new List<VoiceEntryTemplate>();
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             string asset = $"Characters/Dialogue/{characterName}{langSuffix}";
 
             Dictionary<string, string> sheet = null;
@@ -37,6 +37,12 @@ namespace VoiceOverFrameworkMod
                 string key = kv.Key?.Trim();
                 string raw = kv.Value;
                 if (string.IsNullOrWhiteSpace(key) || string.IsNullOrWhiteSpace(raw)) continue;
+
+                // "<Location>_Entry" holds '/'-separated variants of which the game shows one. The first variant
+                // keeps this slot; the others are appended at the end by BuildFromLocationEntryVariants.
+                var entryVariants = SplitLocationEntryVariants(key, raw);
+                if (entryVariants != null && entryVariants.Count > 0)
+                    raw = entryVariants[0];
 
                 // Use shared splitter/sanitizer
                 var pages = DialogueUtil.SplitAndSanitize(raw);

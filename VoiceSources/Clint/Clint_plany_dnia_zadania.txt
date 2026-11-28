@@ -1,0 +1,30 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 182.ogg).
+
+DialogueFrom: Strings/schedules/Clint:winter_16.002  [plan dnia]
+DialogueText: Jak to wygląda, doktorze? Czasami przy oddychaniu mam straszną chrypę.
+AudioName: 182.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Clint:winter_15.000  [plan dnia]
+DialogueText: Mam dziś wizytę u lekarza... Może występ syreny ukoi moje nerwy? A co, jeśli pomyślą, że się gapię...? *nerwowe przełknięcie*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 183.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Clint:winter_16.001  [plan dnia]
+DialogueText: Idę dzisiaj do doktora... wdychanie tego prochu z węgla nie jest zdrowe.
+AudioName: 184.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Clint:winter_16.000  [plan dnia]
+DialogueText: Mam dziś wizytę u doktora,. Więc jeśli chcesz coś kupić, to się pośpiesz.
+AudioName: 185.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:112  [zakończenie zadania]
+DialogueText: Hej, to sztabka żelaza, o którą Cię prosiłem. Wygląda na twardą... Idealnie.
+AudioName: 186.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:112  [zakończenie zadania]
+DialogueText: Dzięki, {Farmer_Name}. Doceniam to.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 187.ogg
+--------------------------------------------------

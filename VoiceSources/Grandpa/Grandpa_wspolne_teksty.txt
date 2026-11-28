@@ -1,0 +1,61 @@
+Kwestie, które gra bierze spoza pliku postaci: wspólne pliki tekstów, wydarzenia składane w kodzie gry i dane gry (np. ślub), dodane 20 listopada 2026.
+{Farmer_Name} = imię gracza, pomijamy w nagraniu. Znaczniki %farm, %spouse, %book, %year… też pomijamy albo lekko przeformułowujemy zdanie.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 18.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1306  [ocena farmy]
+DialogueText: Farma w ogóle się nie zmieniła odkąd ostatnio z Tobą rozmawiałem... ale to dobrze.
+AudioName: 18.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1306 (strona 2)  [ocena farmy]
+DialogueText: Jeśli się cieszysz z Twojego nowego życia, to jest dla mnie najważniejsze...
+AudioName: 19.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1306 (strona 3)  [ocena farmy]
+DialogueText: Muszę już wracać... ale jeśli chcesz mnie jeszcze raz zawołać, nie krępuj się.
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1307  [ocena farmy]
+DialogueText: Dobra robota, widać postępy na tej farmie od naszego ostatniego spotkania.
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1307 (strona 2)  [ocena farmy]
+DialogueText: Wygląda na to, że się starasz... To wszystko o co prosiłem. Jestem z Ciebie dumny.
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1308  [ocena farmy]
+DialogueText: Dobra robota, wnusiu.
+AudioName: 23_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1308 (strona 2)  [ocena farmy]
+DialogueText: Dobra robota, wnusio.
+AudioName: 24_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1308 (strona 3)  [ocena farmy]
+DialogueText: ''%farm'' farma jeszcze nigdy tak dobrze nie wyglądała. To zaszczyt dla całej rodziny.
+Uwaga: %farm / {Farm_Name} – nazwa farmy gracza (wstawia gra).
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1308 (strona 4)  [ocena farmy]
+DialogueText: Dziadzio jest zadowolony.
+AudioName: 26.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1309  [ocena farmy]
+DialogueText: Jestem z Ciebie taki dumny, mój wnusiu!
+AudioName: 27_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1309 (strona 2)  [ocena farmy]
+DialogueText: Jestem z Ciebie taki dumny, moja wnusio!
+AudioName: 28_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1309 (strona 3)  [ocena farmy]
+DialogueText: Sporo się tu zmieniło od naszego ostatniego spotkania!
+AudioName: 29.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1309 (strona 4)  [ocena farmy]
+DialogueText: Lepiej Ci idzie na farmie niż mi, to wielki zaszczyt dla rodzinnego nazwiska.
+AudioName: 30.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1309 (strona 5)  [ocena farmy]
+DialogueText: Czuję to... Nareszcie moja dusza idzie odpocząć. Dziękuję.
+AudioName: 31.ogg
+--------------------------------------------------

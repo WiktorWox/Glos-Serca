@@ -1,13 +1,11 @@
-﻿# VoiceOverFrameworkMod
+﻿# Głos Serca - Polski dubbing dla Stardew Valley
 
-This mod adds voice-over playback to Stardew Valley, supporting `.ogg` and `.wav` audio files.
+Mod dodający polski dubbing dla Stardew Valley. Tworzony przez mniejsze i większe osobistości polskiej sceny Voice Actingowej.
 
-## Third-Party Libraries
+Tworzony na bazie [**VoiceOverFrameworkMod**](https://github.com/jessevang/VoiceOverFrameworkMod) stworzonego przez *jessevang*
+- [https://github.com/jessevang/VoiceOverFrameworkMod]
 
-This mod includes a modified version of the **NVorbis** library:
+## Biblioteki zewnętrzne
 
-- NVorbis by Andrew Ward  
-- [https://github.com/NVorbis/NVorbis](https://github.com/NVorbis/NVorbis)  
-- Licensed under the MIT License
-
-See `NVorbis_LICENSE.txt` for details.
+[**NVorbis**](https://github.com/NVorbis/NVorbis) stworzone przez *Andrew Ward*
+- Pod [licencją MIT](thirdparty/NVorbis_License.txt)

@@ -82,7 +82,7 @@ namespace VoiceOverFrameworkMod
             try
             {
                 bool isEnglish = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase);
-                string langSuffix = isEnglish ? "" : $".{languageCode}";
+                string langSuffix = AssetLangSuffix(languageCode);
 
                 Dictionary<string, string> dict = null;
 

@@ -1,0 +1,33 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 156.ogg).
+
+DialogueFrom: Strings/schedules/George:23.000  [plan dnia]
+DialogueText: Hmmph... Żona ciągnie mnie dzisiaj do lekarza.
+AudioName: 156.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/George:23.001  [plan dnia]
+DialogueText: *zrzęd*... Do niczego ci lekarze... *zrzęd*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 157.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/George:winter_17.000  [plan dnia]
+DialogueText: Jestem tu dla darmowej kawy.
+AudioName: 158.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/George:Sun.000  [plan dnia]
+DialogueText: Nigdy nie byłem wierzący ale no cóż... Teraz jestem stary.
+AudioName: 159.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/George:23.002  [plan dnia]
+DialogueText: Ile mi jeszcze zostało, Doktorze?
+AudioName: 160.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/George:Sun.001  [plan dnia]
+DialogueText: He he he... Nie poszedłem dzisiaj się modlić, żeby tu przyjść! Mam nadzieję, że Yoba nie jest na mnie zły. {Portrait:Happy}
+AudioName: 161.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:105  [zakończenie zadania]
+DialogueText: Długo Ci to zajęło... Hmmph... Cóż, przynajmniej jest wystarczająco ostra. Dzięki.
+AudioName: 162.ogg
+--------------------------------------------------

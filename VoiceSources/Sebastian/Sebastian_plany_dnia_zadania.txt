@@ -1,0 +1,40 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 527.ogg).
+
+DialogueFrom: Strings/schedules/Sebastian:summer_4.000  [plan dnia]
+DialogueText: Cholera... prawie zapomniałem. Muszę dzisiaj iść do doktora Harveya.
+AudioName: 527.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:Fri.000  [plan dnia]
+DialogueText: Powinienem pozwolić Samowi wygrać?... Niee. {Portrait:Happy}
+AudioName: 528.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:marriage_Fri.001  [plan dnia]
+DialogueText: Jeszcze mam w sobie to coś... Sam dalej jest łatwy do pokonania. {Portrait:Happy}
+AudioName: 529.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:summer_4.001  [plan dnia]
+DialogueText: Co Ty tu robisz? Mogłem być nagi! {Portrait:Angry}
+AudioName: 530.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:marriage_Mon.001  [plan dnia]
+DialogueText: Jak przyszedłem do mamy, strasznie się cieszyła. Zasługuje na szczęście. {Portrait:Custom:7}
+AudioName: 531.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:marriage_Fri.000  [plan dnia]
+DialogueText: Idę się wieczorem spotkać z przyjaciółmi. Będę w domu trochę później.
+AudioName: 532.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:marriage_Mon.000  [plan dnia]
+DialogueText: Stanie w tym miejscu powoduje, że chcę zapalić... ale chcę to rzucić.
+AudioName: 533.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:rain.000  [plan dnia]
+DialogueText: Ocean jest najlepszy w samotności... Nie uważasz?
+AudioName: 534.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sebastian:winter_16.000  [plan dnia]
+DialogueText: Czuję się lepiej w nocy... Może coś kupię.
+AudioName: 535.ogg
+--------------------------------------------------

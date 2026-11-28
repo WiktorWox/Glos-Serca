@@ -1,0 +1,21 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 546.ogg).
+
+DialogueFrom: Strings/schedules/Leah:spring_16.001  [plan dnia]
+DialogueText: Jestem zdrowa, co nie? Doktorze Harvey?
+AudioName: 546.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leah:marriage_Mon.000  [plan dnia]
+DialogueText: Hejka, {Farmer_Name}. Musiałam nabrać trochę świeżego powietrza.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 547.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leah:winter_15.000  [plan dnia]
+DialogueText: Hmmm... To oryginalny Łupin? Nieźle...
+AudioName: 548.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Leah:spring_16.000  [plan dnia]
+DialogueText: Cześć. Ty też do doktora?
+AudioName: 549.ogg
+--------------------------------------------------

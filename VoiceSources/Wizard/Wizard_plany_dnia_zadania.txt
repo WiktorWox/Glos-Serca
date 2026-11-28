@@ -1,0 +1,13 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 141.ogg).
+
+DialogueFrom: Data/Quests:111  [zakończenie zadania]
+DialogueText: Ach, masz ją. Masz moją wdzięczność i 1000 monet w nagrodę. A teraz odejdź.
+AudioName: 141.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:123  [zakończenie zadania]
+DialogueText: Ach, kosztowny iryd. Dobrze Ci poszło, {Farmer_Name}. Masz moją wdzięczność. Teraz, wyjdź.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 142.ogg
+--------------------------------------------------

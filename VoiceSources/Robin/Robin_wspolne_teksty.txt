@@ -1,0 +1,135 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 259.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3926  [inne]
+DialogueText: Cierpliwości, przede mną jeszcze dużo roboty.
+AudioName: 259.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3927  [inne]
+DialogueText: Twój dom powinien być gotowy jutro.
+AudioName: 260.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse1  [pytanie przy ladzie (oferta rozbudowy)]
+DialogueText: Mogę powiększyć Twój dom i dodać kuchnię. Będzie to kosztować 10,000 monet i potrzebuję jeszcze 450 drewna. Co o tym myślisz?
+AudioName: 261.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse2  [pytanie przy ladzie (oferta rozbudowy)]
+DialogueText: Mogę powiększyć Twój dom i dodać kojec. Będzie to kosztować 65,000 monet i potrzebuję jeszcze 100 twardego drewna. Co o tym myślisz?
+AudioName: 262.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:ScienceHouse_Carpenter_UpgradeHouse3  [pytanie przy ladzie (oferta rozbudowy)]
+DialogueText: Mogę dodać piwnicę do twojego domu. Dzięki piwnicy możesz sprawić, że niektóre produkty będą się starzeć: na przykład wino lub sery. To Cię będzie kosztować 100,000 monet. Co o tym myślisz?
+AudioName: 263.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:ScienceHouse_Carpenter_CommunityUpgrade1  [pytanie przy ladzie (oferta rozbudowy)]
+DialogueText: ... Co to? Chcesz wybudować dom dla Pam? To wspaniały pomysł! Będę potrzebowała 950 drewna i 500,000 monet...
+AudioName: 264.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:ScienceHouse_Carpenter_CommunityUpgrade2  [pytanie przy ladzie (oferta rozbudowy)]
+DialogueText: ... Co? Chcesz, żebym dodała kilka skrótów w dolinie? Pewnie, da się zrobić! Będę potrzebowała tylko 300,000 monet...
+AudioName: 265.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Workout  [telefon]
+DialogueText: Hej, tu Robin. Jestem poza domem na cotygodniowym aerobiku... wybacz! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 266.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Working_OneDay  [telefon]
+DialogueText: Hej, tu Robin. Będę poza domem do jutra, kończę pewien projekt. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 267.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Working  [telefon]
+DialogueText: Hej, tu Robin. Jestem zajęta projektem na parę dni.. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 268.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Festival  [telefon]
+DialogueText: Hej, tu Robin. Dzisiaj mam wolne. Przepraszam za niedogodności! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 269.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Open  [telefon]
+DialogueText: Halo? Hej! Tak, jeszcze pracuję... przyjdź przed 17 jeśli czegoś potrzebujesz! *klik* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 270.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Open_Rare  [telefon]
+DialogueText: Halo? O, cześć {Farmer_Name}! *HUK*... Em, momencik... (Stłumiony Głos: Kochanie, Mógłbyś zamknąć drzwi? Pracuję.)... Przepraszam! Tak, dzisiaj pracuję do 17. Do zobaczenia! *klik*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 271.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Robin_Closed  [telefon]
+DialogueText: Hej, tu Robin. Moje godziny pracy są od 9 do 17. Proszę przyjść w tym czasie, jeśli czegoś potrzebujesz! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 272.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 273.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 274.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Adult  [okrzyk w dymku nad głową]
+DialogueText: Hej, przestań! Fuj! {Portrait:Sad}
+AudioName: 275.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4275  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}
+AudioName: 276.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 277_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277 (strona 2)  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 278_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4279  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och... To na moje urodziny?... Dzięki. {Portrait:Sad}
+AudioName: 279.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4281  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och, urodzinowy prezent! Dzięki.
+AudioName: 280.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 281.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 282.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 283.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 284.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 285.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Carpenter:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Potrzeba materiałów do konstrukcji? A może trzeba Ci mebli?
+AudioName: 286.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Carpenter:Default (strona 2)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Mam wiele własnoręcznie robionych mebli.
+AudioName: 287.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Carpenter:Default (strona 3)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Mam dobrej jakości meble na sprzedaż.
+AudioName: 288.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:Carpenter:Default (strona 4)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Masz na sprzedaż jakieś materiały budowlane?
+AudioName: 289.ogg
+--------------------------------------------------

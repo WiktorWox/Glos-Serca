@@ -1,26 +1,20 @@
-{
-  // Tela de Configuração GMCM
-  "config.section.general.name": "Configurações Gerais",
-  "config.mute-typing.name": "Silenciar Som de Digitação do Diálogo",
-  "config.mute-typing.tooltip": "Se marcado, desabilita o som padrão de 'tick' quando o diálogo aparece.",
-  "config.master-volume.name": "Volume Mestre",
-  "config.master-volume.tooltip": "Ajusta o volume geral das falas (multiplicado pelo volume do som do jogo).",
-  "config.section.voice-packs.name": "Seleção de Pacote de Voz",
-  "config.voice-packs.description": "Selecione qual pacote de voz usar para cada personagem. Requer pacotes de voz carregados.",
-  "config.voice-packs.none-loaded": "Nenhum pacote de voz carregado. Instale pacotes de conteúdo de voz primeiro.",
-  // Nota: {{characterName}} é um espaço reservado que será preenchido pelo código.
-  "config.character-voice.name": "Voz de {{characterName}}",
-  "config.character-voice.tooltip": "Selecione o pacote de voz para {{characterName}}.",
-  "config.character-voice.none-option": "Nenhum",
-  "config.section.developer.name": "Opções de Desenvolvedor",
-  "config.developer-mode.name": "Modo Desenvolvedor",
-  "config.developer-mode.tooltip": "Habilita logs extras e potencialmente recursos de depuração. Pode afetar o desempenho.",
-  "config.dev-tool-keybind.name": "Atalho do Menu de Ferramentas do Desenvolvedor",
-  "config.dev-tool-keybind.tooltip": "A tecla a ser pressionada para abrir o menu de desenvolvedor de teste de áudio. Só funciona se o Modo Desenvolvedor estiver ativado.",
-  "config.dev-options.create-template-info": "Use o comando do console SMAPI 'create_template Character Language VoicePackID \"<Voice Pack Name>\" StartNumber' para gerar um modelo JSON de pacote de voz. Exemplo: create_template Abigail en MyMod.Abigail.VP \"MyMod Voice Pack\" 1 (Certifique-se de que o Nome do Pacote de Voz esteja entre aspas se tiver espaços).",
-  "config.auto-fix-dialoguefrom.name": "Corrigir automaticamente DialogueFrom duplicado",
-  "config.auto-fix-dialoguefrom.tooltip": "Se ativado, qualquer pack de voz com chaves DialogueFrom duplicadas será corrigido automaticamente durante o carregamento (ex.: 'Introduction', 'Introduction_1').",
-  "config.mass-assign-voicepack.name": "Atribuir voz em massa por ID do Mod",
-  "config.mass-assign-voicepack.tooltip": "Selecione o ID único de um mod para atribuir vozes a todos os personagens suportados. Após salvar, reinicie o jogo para ver as mudanças. Nota: selecionar 'None' não altera nenhuma configuração de voz."
+﻿{
+  // Ten plik obsługuje tryb „Podmiana” (Spolszczenie zastępujące pt-BR); treść po polsku, jak w pl.json.
+  // Menu konfiguracji (Generic Mod Config Menu)
+  "config.section.general.name": "Ustawienia ogólne",
+  "config.mute-typing.name": "Wycisz dźwięk pisania dialogów",
+  "config.mute-typing.tooltip": "Gdy zaznaczone, wyłącza domyślny dźwięk „stukania”, gdy pojawia się tekst dialogu.",
+  "config.master-volume.name": "Głośność dialogów",
+  "config.master-volume.tooltip": "Ogólna głośność nagrań (mnożona przez głośność dźwięków w grze).",
+  "config.audio-start.name": "Opóźnienie startu głosu",
+  "config.audio-start.tooltip": "Liczba klatek odczekanych po pojawieniu się tekstu, zanim zacznie grać głos. Mniej = szybciej, ale kwestia może zacząć się jeszcze na poprzednim oknie; więcej = wyraźne opóźnienie.",
+  "config.section.developer.name": "Opcje deweloperskie",
+  "config.developer-mode.name": "Tryb deweloperski",
+  "config.developer-mode.tooltip": "Włącza szczegółowe logi dopasowywania i odtwarzania w konsoli SMAPI. Może obniżyć wydajność.",
 
+  // Sprawdzanie wersji tłumaczenia (komunikat po wczytaniu zapisu i akapit w menu konfiguracji)
+  "translation.missing": "Głos Serca: nie znaleziono polskiego tłumaczenia ({{name}}). Bez niego dubbing nie zadziała.",
+  "translation.older": "Głos Serca: masz {{name}} {{installed}}, paczka głosów jest przygotowana pod {{required}}. Zaktualizuj tłumaczenie, inaczej część kwestii może nie grać.",
+  "translation.newer": "Głos Serca: masz {{name}} {{installed}}, nowszą niż {{required}}, pod którą przygotowano paczkę. Zwykle działa, ale pojedyncze kwestie mogą nie grać.",
+  "translation.ok": "Głos Serca: {{name}} {{installed}} – zgodne z paczką głosów."
 }

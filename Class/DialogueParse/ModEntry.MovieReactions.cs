@@ -81,7 +81,7 @@ namespace VoiceOverFrameworkMod
             var results = new Dictionary<string, (string, string, string)>(StringComparer.OrdinalIgnoreCase);
 
             bool isEnglish = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase);
-            string langSuffix = isEnglish ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
 
             // Try localized asset first, then English fallback
             Dictionary<string, string> dict = null;

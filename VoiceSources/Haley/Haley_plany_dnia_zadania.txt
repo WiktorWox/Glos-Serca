@@ -1,0 +1,32 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 562.ogg).
+
+DialogueFrom: Strings/schedules/Haley:winter_9.000  [plan dnia]
+DialogueText: To nic poważnego... Zwykłe coroczne badanie.
+AudioName: 562.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Haley:winter_9.001  [plan dnia]
+DialogueText: Cóż... cieknie mi trochę z nosa, doktorze. Ale ogólnie mam się dobrze!
+AudioName: 563.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Haley:winter.000  [plan dnia]
+DialogueText: Jest za zimno. Nigdzie się nie ruszam.
+AudioName: 564.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Haley:marriage_Mon.000  [plan dnia]
+DialogueText: Cześć, Słońce! Jestem na pogawędce z Emily.
+AudioName: 565.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Haley:rain.000  [plan dnia]
+DialogueText: Pogoda jest okropna na wychodzenie z łóżka.
+AudioName: 566.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Haley:winter_16.001  [plan dnia]
+DialogueText: Brrr.... Nie jestem na to dobrze ubrana... {Portrait:Sad}
+AudioName: 567.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Haley:winter_16.000  [plan dnia]
+DialogueText: Jest mi zimno. Nigdzie się nie ruszam.
+AudioName: 568.ogg
+--------------------------------------------------

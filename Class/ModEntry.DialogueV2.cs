@@ -139,6 +139,10 @@ namespace VoiceOverFrameworkMod
             if (isDialogueBoxVisible)
             {
                 var dialogueBox = Game1.activeClickableMenu as DialogueBox;
+                // While the box animates open/closed, getCurrentString() can already return the
+                // next "$e" segment; don't match (and start audio) on that transient text.
+                if (dialogueBox != null && dialogueBox.transitioning)
+                    return;
                 currentDisplayedString = dialogueBox?.getCurrentString();
             }
 
@@ -185,11 +189,61 @@ namespace VoiceOverFrameworkMod
             AugmentWithDetectedLegacyTokens(currentDisplayedString, cap);
 
             var removable = DialogueSanitizerV2.GetRemovableWords(cap).ToList();
-            string strippedForMatch = DialogueSanitizerV2.StripForDialogue(currentDisplayedString, cap);
-            strippedForMatch = FixCjkSpaces(strippedForMatch);
-            string patternKey = CanonDisplay(strippedForMatch);
+            // Pack keys are the screen text itself (lines without variables); nothing is cut out of the displayed
+            // text any more. Lines with variables are matched by their regex template (step 3).
+            string strippedForMatch = ScreenKey(currentDisplayedString);
+            string patternKey = strippedForMatch;
             if (string.IsNullOrWhiteSpace(patternKey))
                 return;
+
+            if (Config.developerModeOn)
+                Monitor.Log($"[V2-KEY] speaker='{currentSpeaker.Name}' displayed='{currentDisplayedString}' removable=[{string.Join("|", removable)}] patternKey='{patternKey}' inPack={(selectedPack?.Entries?.ContainsKey(patternKey) == true ? "yes" : "no")}", LogLevel.Debug);
+
+            // ─────────────────────────────────────────────────────────────
+            // TranslationKey path (preferred): the game tells us which line this is
+            // (e.g. "Characters/Dialogue/Abigail:Mon"), so match on identity instead of
+            // the exact wording, which drifts between translation versions.
+            // Page order in the pack follows the generator: gender variants and #$b# pages
+            // are separate pages, so prefer the page whose display pattern matches what is
+            // on screen, then the current page index, then the bare key.
+            // ─────────────────────────────────────────────────────────────
+            // The game writes keys with backslashes ("Characters\\Dialogue\\Abigail:Mon"), packs with slashes; until
+            // 2026-11-20 this never matched and every line went by text.
+            string gameTk = d?.TranslationKey?.Replace('\\', '/');
+            if (!string.IsNullOrWhiteSpace(gameTk) && selectedPack != null && selectedPack.FormatMajor >= 2 &&
+                selectedPack.EntriesByTranslationKey != null && selectedPack.EntriesByTranslationKey.Count > 0)
+            {
+                var tkCandidates = new List<string>();
+                string textAudio = null;
+                selectedPack.Entries?.TryGetValue(patternKey, out textAudio);
+                if (string.IsNullOrWhiteSpace(textAudio))
+                    textAudio = MatchTemplate(selectedPack, currentDisplayedString);
+                int packPages = 0;
+                for (int pg = 0; pg < 32; pg++)
+                {
+                    string k = $"{gameTk}:p{pg}";
+                    if (!selectedPack.EntriesByTranslationKey.TryGetValue(k, out var rel)) continue;
+                    packPages++;
+                    if (!string.IsNullOrWhiteSpace(textAudio) && string.Equals(rel, textAudio, StringComparison.OrdinalIgnoreCase))
+                        tkCandidates.Insert(0, k); // page confirmed by the displayed text
+                }
+                // The generator numbers gender variants and expanded questions as pages of their own, the game does not;
+                // trust the game's page number only when both count the same pages.
+                int gamePages = d?.dialogues?.Count ?? 0;
+                if (tkCandidates.Count == 0 && packPages > 0 && packPages == gamePages)
+                    tkCandidates.Add($"{gameTk}:p{pageZero}");
+                if (packPages == 0)
+                    tkCandidates.Add(gameTk);
+
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-TK] gameKey='{gameTk}' page={pageZero} candidates=[{string.Join("|", tkCandidates.Distinct())}]", LogLevel.Debug);
+
+                if (TryToPlayVoiceByTranslationKeys(currentSpeaker.Name, tkCandidates, LocalizedContentManager.CurrentLanguageCode))
+                {
+                    _lastPlayedLookupKey = finalLookupKey;
+                    return;
+                }
+            }
 
             // ─────────────────────────────────────────────────────────────
             // Cross-language path → DictionaryV2 decides (exact → dict fuzzy over GAME language keys)
@@ -322,52 +376,14 @@ namespace VoiceOverFrameworkMod
                 return;
             }
 
-            // 2) full-page fallback
-            if (selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
+            // 2) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
+            if (selectedPack != null && selectedPack.FormatMajor >= 2 && TryPlayTemplate(selectedPack, currentDisplayedString, "dialogue"))
             {
-                string rawPage = (d != null && pageZero < (d.dialogues?.Count ?? 0)) ? d.dialogues[pageZero].Text : null;
-                if (!string.IsNullOrWhiteSpace(rawPage))
-                {
-                    var segs = DialogueUtil.SplitAndSanitize(rawPage, splitBAsPage: false);
-                    if (segs != null && segs.Count > 0)
-                    {
-                        string fullDisplay = segs[0].Display ?? string.Empty;
-
-                        string strippedFull = DialogueSanitizerV2.StripChosenWords(fullDisplay, cap);
-                        strippedFull = FixCjkSpaces(strippedFull);
-                        string patternKeyFull = CanonDisplay(strippedFull);
-
-                        if (selectedPack.Entries.TryGetValue(patternKeyFull, out var relAudioFull) &&
-                            !string.IsNullOrWhiteSpace(relAudioFull))
-                        {
-                            var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, relAudioFull));
-                            bool missingAudio2 = !System.IO.File.Exists(fullPath);
-
-                            if (_collectV2Failures && missingAudio2)
-                            {
-                                V2AddFailure(
-                                    currentSpeaker?.Name,
-                                    fullDisplay,
-                                    removable,
-                                    patternKeyFull,
-                                    patternKeyFull,
-                                    matched: true,
-                                    missingAudio: true,
-                                    fuzzyAttempted: false
-                                );
-                            }
-
-                            if (!missingAudio2)
-                                PlayVoiceFromFile(fullPath);
-
-                            _lastPlayedLookupKey = finalLookupKey;
-                            return;
-                        }
-                    }
-                }
+                _lastPlayedLookupKey = finalLookupKey;
+                return;
             }
 
-            // 3) pack fuzzy (same-language only)
+            // 3) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
             if (ENABLE_PACK_FUZZY && selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
             {
                 string liveKey = strippedForMatch;
@@ -387,7 +403,9 @@ namespace VoiceOverFrameworkMod
                         if (score > bestScore) { bestScore = score; bestKey = packKey; bestRelPath = kvp.Value; }
                     }
 
-                    if (!string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
+                    if (!Config.FuzzyMatching && Config.developerModeOn && !string.IsNullOrWhiteSpace(bestKey))
+                        Monitor.Log($"[V2-NOMATCH] dialogue speaker='{currentSpeaker?.Name}' text='{currentDisplayedString}' closest='{bestKey}' ({bestScore:0.00}) → {bestRelPath} (not played; FuzzyMatching off)", LogLevel.Debug);
+                    if (Config.FuzzyMatching && !string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
                     {
                         var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, bestRelPath));
                         bool missing = !System.IO.File.Exists(fullPath);
@@ -566,8 +584,15 @@ namespace VoiceOverFrameworkMod
             if (_sameLineStableTicks < Config.TextStabilizeTicks)
                 return;
 
+            // "message" boxes have no speaker. The template generator files them under the last character
+            // who spoke (Kel's lines sit in Leah's pack), so resolve that character and play from their pack.
+            string speakerForLookup = currentSpeaker?.Name;
             if (currentSpeaker == null)
-                return; // narrator can be added later
+            {
+                speakerForLookup = GeneratorSpeakerForCurrent(GetCurrentEvent());
+                if (string.IsNullOrWhiteSpace(speakerForLookup))
+                    return;
+            }
 
             // normalize visible farmer name to '@' before stripping (events)
             string displayForMatch = currentDisplayedString ?? string.Empty;
@@ -586,9 +611,9 @@ namespace VoiceOverFrameworkMod
             AugmentWithDetectedLegacyTokens(currentDisplayedString, cap);
 
             var removable = DialogueSanitizerV2.GetRemovableWords(cap).ToList();
-            string strippedForMatch = DialogueSanitizerV2.StripForEvent(displayForMatch, cap);
-            strippedForMatch = FixCjkSpaces(strippedForMatch);
-            string patternKey = CanonDisplay(strippedForMatch);
+            // Pack keys are the screen text itself; lines with variables go through the regex templates (step 3)
+            string strippedForMatch = ScreenKey(currentDisplayedString);
+            string patternKey = strippedForMatch;
 
             if (string.IsNullOrWhiteSpace(patternKey))
                 return;
@@ -596,12 +621,40 @@ namespace VoiceOverFrameworkMod
                 return;
 
             // select pack
-            VoicePack selectedPack = null;
-            if (currentSpeaker != null)
+            VoicePack selectedPack = GetSelectedVoicePack(speakerForLookup);
+            if (selectedPack == null || selectedPack.FormatMajor < 2)
             {
-                selectedPack = GetSelectedVoicePack(currentSpeaker.Name);
-                if (selectedPack == null || selectedPack.FormatMajor < 2)
+                _lastPlayedLookupKey = patternKey;
+                return;
+            }
+
+            // Events have a stable identity even when the displayed text differs between
+            // translation versions. Resolve by TranslationKey (Events/<Loc>:<id>:s<n>) first.
+            {
+                var currentEvent = GetCurrentEvent();
+                string eventBaseKey = BuildEventBaseKeyForCurrent(currentEvent);
+                int? eventSpeakIndex = ComputeSpeakIndexForCurrent(
+                    currentEvent,
+                    speakerForLookup,
+                    pageZero,
+                    currentDisplayedText: currentDisplayedString);
+                if (Config.developerModeOn)
+                    Monitor.Log($"[V2-EVENT] base='{eventBaseKey}' speakIndex={(eventSpeakIndex.HasValue ? eventSpeakIndex.Value.ToString() : "null")} page={pageZero} speaker='{speakerForLookup}'{(currentSpeaker == null ? " (message)" : "")} displayed='{currentDisplayedString}'", LogLevel.Debug);
+                if (!string.IsNullOrWhiteSpace(eventBaseKey) && eventSpeakIndex.HasValue)
                 {
+                    string eventTranslationKey = $"{eventBaseKey}:s{eventSpeakIndex.Value}";
+                    if (TryToPlayVoiceByTranslationKeys(
+                            speakerForLookup,
+                            new[] { eventTranslationKey },
+                            LocalizedContentManager.CurrentLanguageCode))
+                    {
+                        _lastPlayedLookupKey = patternKey;
+                        return;
+                    }
+                }
+                if (currentSpeaker == null)
+                {
+                    // narration is keyed by slot only; no text-based fallback against another character's pack
                     _lastPlayedLookupKey = patternKey;
                     return;
                 }
@@ -720,38 +773,14 @@ namespace VoiceOverFrameworkMod
                 return;
             }
 
-            // 2) full-page fallback
-            if (selectedPack != null && selectedPack.FormatMajor >= 2 && selectedPack.Entries != null)
+            // 2) template: lines with variable parts (player name, %farm, %book, {0}…), matched by regex
+            if (selectedPack != null && selectedPack.FormatMajor >= 2 && TryPlayTemplate(selectedPack, currentDisplayedString, "event"))
             {
-                string rawPage = (d != null && pageZero < (d.dialogues?.Count ?? 0)) ? d.dialogues[pageZero].Text : null;
-                if (!string.IsNullOrWhiteSpace(rawPage))
-                {
-                    var segs = DialogueUtil.SplitAndSanitize(rawPage, splitBAsPage: false);
-                    if (segs != null && segs.Count > 0)
-                    {
-                        string fullDisplay = segs[0].Display ?? string.Empty;
-                        if (!string.IsNullOrEmpty(farmerName))
-                            fullDisplay = fullDisplay.Replace(farmerName, "@");
-
-                        string strippedFull = DialogueSanitizerV2.StripForEvent(fullDisplay, cap);
-                        strippedFull = FixCjkSpaces(strippedFull);
-                        string patternKeyFull = CanonDisplay(strippedFull);
-
-                        if (selectedPack.Entries.TryGetValue(patternKeyFull, out var relAudioFull) &&
-                            !string.IsNullOrWhiteSpace(relAudioFull))
-                        {
-                            var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, relAudioFull));
-                            if (System.IO.File.Exists(fullPath))
-                                PlayVoiceFromFile(fullPath);
-
-                            _lastPlayedLookupKey = patternKey;
-                            return;
-                        }
-                    }
-                }
+                _lastPlayedLookupKey = patternKey;
+                return;
             }
 
-            // 3) pack fuzzy (same-language only)
+            // 3) pack fuzzy (same-language only; Config.FuzzyMatching, otherwise the closest line is only logged)
             if (ENABLE_PACK_FUZZY && selectedPack?.Entries != null)
             {
                 string liveKey = strippedForMatch;
@@ -766,7 +795,9 @@ namespace VoiceOverFrameworkMod
                         if (score > bestScore) { bestScore = score; bestKey = kvp.Key; bestRelPath = kvp.Value; }
                     }
 
-                    if (!string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
+                    if (!Config.FuzzyMatching && Config.developerModeOn && !string.IsNullOrWhiteSpace(bestKey))
+                        Monitor.Log($"[V2-NOMATCH] event speaker='{currentSpeaker?.Name}' text='{currentDisplayedString}' closest='{bestKey}' ({bestScore:0.00}) → {bestRelPath} (not played; FuzzyMatching off)", LogLevel.Debug);
+                    if (Config.FuzzyMatching && !string.IsNullOrWhiteSpace(bestRelPath) && bestScore >= PACK_FUZZY_THRESHOLD)
                     {
                         var fullPath = PathUtilities.NormalizePath(System.IO.Path.Combine(selectedPack.BaseAssetPath, bestRelPath));
                         if (System.IO.File.Exists(fullPath))

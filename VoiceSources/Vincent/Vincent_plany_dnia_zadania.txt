@@ -1,0 +1,22 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 102.ogg).
+
+DialogueFrom: Strings/schedules/Vincent:winter_16.000  [plan dnia]
+DialogueText: Chcę popływać łodzią!!
+AudioName: 102.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Vincent:spring_11.001  [plan dnia]
+DialogueText: *Przełknięcie*... Mamusiu, nie każ mi tego robić. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 103.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Vincent:spring_11.002  [plan dnia]
+DialogueText: Dostanę lizaka za to, że byłem dzielny?
+AudioName: 104.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Vincent:spring_11.000  [plan dnia]
+DialogueText: *chlip*... Muszę dostać zastrzyk. {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 105.ogg
+--------------------------------------------------

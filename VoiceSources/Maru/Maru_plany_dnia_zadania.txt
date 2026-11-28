@@ -1,0 +1,36 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 497.ogg).
+
+DialogueFrom: Strings/schedules/Maru:marriage_Mon.002  [plan dnia]
+DialogueText: Mam nadzieję, że kiedyś Penny weźmie z kimś ślub.
+AudioName: 497.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:winter_16.000  [plan dnia]
+DialogueText: Wow, ta technologia jest niesamowita!
+AudioName: 498.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:marriageJob.000  [plan dnia]
+DialogueText: Jestem w pracy, Skarbie! Żeby doktor nie zobaczył.
+AudioName: 499.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:marriageJob.002  [plan dnia]
+DialogueText: Prawie koniec mojej zmiany...
+AudioName: 500.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:marriage_Mon.001  [plan dnia]
+DialogueText: Tata robi postępy w jego eksperymencie.
+AudioName: 501.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:summer.000  [plan dnia]
+DialogueText: Naprawdę ciężko jest zrozumieć wielkość całego wszechświata. {Portrait:Custom:8}
+AudioName: 502.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:marriage_Mon.000  [plan dnia]
+DialogueText: Hej! Mama chyba dobrze sobie radzi bez mojej pomocy. Jest bardzo silna.
+AudioName: 503.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Maru:marriageJob.001  [plan dnia]
+DialogueText: Cieszę się, że mnie odwiedzasz. {Portrait:Happy}
+AudioName: 504.ogg
+--------------------------------------------------

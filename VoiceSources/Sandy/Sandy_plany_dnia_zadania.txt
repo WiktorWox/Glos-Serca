@@ -1,0 +1,52 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 106.ogg).
+
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Greeting  [plan dnia]
+DialogueText: Och, Emily! Miałam nadzieję, że się zjawisz! {Portrait:Happy}
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Greeting  [plan dnia]
+DialogueText: Czułam się trochę samotnie.
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Greeting  [plan dnia]
+DialogueText: Ale cieszę się, że tu jesteś! {Portrait:Happy}
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Hangout  [plan dnia]
+DialogueText: Jak tam pogoda u was?
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Hangout  [plan dnia]
+DialogueText: Wasze kwiaty pachną cudownie. {Portrait:Happy}
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Lake  [plan dnia]
+DialogueText: Zawsze przy stawie jest trochę cieplej.
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Lake  [plan dnia]
+DialogueText: Dobrze jest od czasu do czasu wyjść z domu! {Portrait:Happy}
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Bones  [plan dnia]
+DialogueText: Dziwne, nie?
+AudioName: 113.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Camel  [plan dnia]
+DialogueText: Pewnie sprzedaje rzadkie rzeczy.
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Bye  [plan dnia]
+DialogueText: Dobrze się dzisiaj bawiłam. {Portrait:Happy}
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Bye  [plan dnia]
+DialogueText: Dziękuję, za odwiedziny. {Portrait:Happy}
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sandy:Sandy_Birthday_Bye  [plan dnia]
+DialogueText: Odwiedźcie mnie jeszcze kiedyś! {Portrait:Happy}
+AudioName: 117.ogg
+--------------------------------------------------

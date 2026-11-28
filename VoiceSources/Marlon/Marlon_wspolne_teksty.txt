@@ -1,0 +1,58 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 62.ogg).
+
+DialogueFrom: Strings/Characters:Phone_Marlon_Open  [telefon]
+DialogueText: Mówi Marlon... Znowu straciłeś rzeczy w kopalniach? Tak, tak... Przyniosę je... Oczywiście za opłatą.
+AudioName: 62_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Marlon_Open (strona 2)  [telefon]
+DialogueText: Mówi Marlon... Znowu straciłaś rzeczy w kopalniach? Tak, tak... Przyniosę je... Oczywiście za opłatą.
+AudioName: 63_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Marlon_AlreadyRecovering  [telefon]
+DialogueText: Halo?... Ta, przyniosę twoja rzecz dziś w nocy. Możesz się uspokoić. Nie musisz dzwonić! *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 64.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Marlon_NoDeathItems  [telefon]
+DialogueText: Słucham? Nie straciłeś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 65_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Marlon_NoDeathItems (strona 2)  [telefon]
+DialogueText: Słucham? Nie straciłaś niczego w kopalniach? Ok. Czyli nie potrzebujesz mojej pomocy. Trzymaj się. *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 66_female.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:AdventureGuildRecovery:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Zgubione przedmioty, co? Za opłatą mogę Ci jeden odzyskać. Wybierz mądrze.
+AudioName: 67.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:AdventureShop:Rare  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Jaskinie mogą być niebezpieczne. Myślisz, że jak straciłem oko?
+AudioName: 68.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:AdventureShop:Default  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Jaskinie bywają niebezpieczne. Przygotuj się na to.
+AudioName: 69.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:AdventureShop:Default (strona 2)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Trzeba Ci nowego miecza?
+AudioName: 70.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:AdventureShop:Default (strona 3)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy w gildii awanturników.
+AudioName: 71.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:AdventureShop:Default (strona 4)  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Zabijasz potwory? Kupuję łup.
+AudioName: 72.ogg
+--------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Marlon  [kino (poczekalnia)]
+DialogueText: Gil przespał cały film... Jak zwykle.
+AudioName: 73.ogg
+--------------------------------------------------

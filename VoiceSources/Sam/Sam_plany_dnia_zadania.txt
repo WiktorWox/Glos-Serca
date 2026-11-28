@@ -1,0 +1,44 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 596.ogg).
+
+DialogueFrom: Strings/schedules/Sam:fall_11.000  [plan dnia]
+DialogueText: Idę dzisiaj do wujaszka doktorka... Wspaniale. {Portrait:Custom:7}
+AudioName: 596.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:winter_17.000  [plan dnia]
+DialogueText: Jak moje plany nie wyjdą, to może zostanę kapitanem łodzi podwodnej. Byłoby fajnie.
+AudioName: 597.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:marriage_Fri.001  [plan dnia]
+DialogueText: Wybacz, Słonko. próbuję się skupić... {Portrait:Custom:7}
+AudioName: 598.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:marriage_Mon.001  [plan dnia]
+DialogueText: Vincent chyba jest trochę samotny gdy mnie nie ma. Kiedyś dużo się razem bawiliśmy.
+AudioName: 599.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:marriage_Fri.000  [plan dnia]
+DialogueText: Nie mów mojej mamie... Ale jestem tu po darmowe jedzonko. {Portrait:Happy}
+AudioName: 600.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:fall_11.002  [plan dnia]
+DialogueText: Wyszedłem z biura doktora. Całkowicie zdrowy, tak jak przypuszczałem. {Portrait:Happy}
+AudioName: 601.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:marriage_Mon.000  [plan dnia]
+DialogueText: Mama chyba ma się dobrze. Może jest trochę przepracowana.
+AudioName: 602.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:fall_11.001  [plan dnia]
+DialogueText: Jestem zdrów jak ryba, doktorku. Mogę już iść? To jest nudne.
+AudioName: 603.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:rain2.000  [plan dnia]
+DialogueText: Nie ma to jak schłodzona Joja Cola w zimny, deszczowy dzień, prawda?
+AudioName: 604.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Sam:rain2.000  [plan dnia]
+DialogueText: Żartuję. He he he. {Portrait:Happy}
+AudioName: 605.ogg
+--------------------------------------------------

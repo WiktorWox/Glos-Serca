@@ -26,7 +26,7 @@ namespace VoiceOverFrameworkMod
             if (string.IsNullOrWhiteSpace(characterName))
                 return outList;
 
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             string asset = $"Characters/Dialogue/rainy{langSuffix}";
 
             Dictionary<string, string> sheet = null;
@@ -75,7 +75,7 @@ namespace VoiceOverFrameworkMod
         {
             var outList = new List<VoiceEntryTemplate>();
 
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             string asset = $"Characters/Dialogue/rainy{langSuffix}";
 
             Dictionary<string, string> sheet = null;

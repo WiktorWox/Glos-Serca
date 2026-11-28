@@ -1,0 +1,16 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 187.ogg).
+
+DialogueFrom: Strings/schedules/Linus:winter_15.000  [plan dnia]
+DialogueText: Ci ludzie to podróżnicy, tak jak ja... Ale wolę tu siedzieć, słuchać i oglądać.
+AudioName: 187.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Linus:winter.000  [plan dnia]
+DialogueText: Nawet taki ktoś jak ja potrzebuje się czasami ogrzać.
+AudioName: 188.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:107  [zakończenie zadania]
+DialogueText: Mój koszyk! Dziękuję. To wiele dla mnie znaczy. {Portrait:Happy}
+AudioName: 189.ogg
+--------------------------------------------------

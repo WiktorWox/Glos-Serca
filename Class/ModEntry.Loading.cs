@@ -14,6 +14,21 @@ namespace VoiceOverFrameworkMod
 
 
 
+        /// <summary>Split a pack text on the game's gender separator ('¦'); whitespace-only parts are dropped.</summary>
+        static IEnumerable<string> SplitGenderVariants(string text)
+        {
+            if (string.IsNullOrWhiteSpace(text))
+                yield break;
+            if (text.IndexOf('¦') < 0)
+            {
+                yield return text;
+                yield break;
+            }
+            foreach (string part in text.Split('¦'))
+                if (!string.IsNullOrWhiteSpace(part))
+                    yield return part.Trim();
+        }
+
         //helper used by loader and CheckForDialogueV2 to canonicalize DisplayPattern text
         static string CanonDisplay(string s)
         {
@@ -35,6 +50,9 @@ namespace VoiceOverFrameworkMod
             if (!list.Any(p => p.Language.Equals(vp.Language, StringComparison.OrdinalIgnoreCase)
                             && p.VoicePackId.Equals(vp.VoicePackId, StringComparison.OrdinalIgnoreCase)))
             {
+                var sameLang = list.FirstOrDefault(p => p.Language.Equals(vp.Language, StringComparison.OrdinalIgnoreCase));
+                if (sameLang != null)
+                    Monitor.Log($"Character '{vp.Character}' [{vp.Language}] already has voice pack '{sameLang.VoicePackId}' ({sameLang.BaseAssetPath}); also loading '{vp.VoicePackId}' ({vp.BaseAssetPath}). Only the first is used unless selected in config.", LogLevel.Warn);
                 list.Add(vp);
                 totalDefinitionsProcessed++;
                 foundInPack = true;
@@ -63,13 +81,21 @@ namespace VoiceOverFrameworkMod
 
             VoicePacksByCharacter.Clear(); // Clear previous data
 
-            var ownedContentPacks = this.Helper.ContentPacks.GetOwned();
-            this.Monitor.Log($"Found {ownedContentPacks.Count()} potential voice content packs.", LogLevel.Debug);
+            // Voice data comes from the embedded Głos Serca pack (GłosSerca/VoicePack inside this mod)
+            // plus any regular content packs that target this mod.
+            var packsToScan = new List<IContentPack>();
+            string embeddedPackDir = Path.Combine(this.Helper.DirectoryPath, "GłosSerca", "VoicePack");
+            if (Directory.Exists(embeddedPackDir))
+                packsToScan.Add(this.Helper.ContentPacks.CreateFake(embeddedPackDir));
+            else
+                this.Monitor.Log($"Embedded voice pack folder not found: {embeddedPackDir}", LogLevel.Warn);
+            packsToScan.AddRange(this.Helper.ContentPacks.GetOwned());
+            this.Monitor.Log($"Found {packsToScan.Count} potential voice content packs (1 embedded).", LogLevel.Debug);
 
             int totalFilesLoaded = 0;
             int totalDefinitionsProcessed = 0; // Keep track of inner definitions too
 
-            foreach (var contentPack in ownedContentPacks)
+            foreach (var contentPack in packsToScan)
             {
                 this.Monitor.Log($"Scanning Content Pack: '{contentPack.Manifest.Name}' ({contentPack.Manifest.UniqueID}) at {contentPack.DirectoryPath}", LogLevel.Trace);
                 string packDir = contentPack.DirectoryPath;
@@ -145,6 +171,8 @@ namespace VoiceOverFrameworkMod
 
                                 //V2 DisplayPattern index (stripped/canonical)
                                 var entriesByDisplayPattern = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+                                var templates = new List<TemplateLine>();
+                                var questReply = new QuestReplyBuilder();
 
                                 foreach (var entry in manifestData.Entries)
                                 {
@@ -154,14 +182,35 @@ namespace VoiceOverFrameworkMod
                                     string audioPath = PathUtilities.NormalizePath(entry.AudioPath);
 
                                     // --- Text-based lookup key (kept for V1 & as fallback for V2) ---
+                                    // V2: the key is the text the game shows, derived from the actor text (DisplayPattern is
+                                    // no longer needed; read only when an entry has no actor text). Lines with variable parts
+                                    // (player name, %farm, {0}…) get no exact key; their regex template matches them.
                                     string keyForLookup;
                                     if (formatMajor >= 2)
-                                        keyForLookup = !string.IsNullOrWhiteSpace(entry.DisplayPattern) ? entry.DisplayPattern : entry.DialogueText;
+                                    {
+                                        string screen = !string.IsNullOrWhiteSpace(entry.DialogueText) ? ScreenTextFromActor(entry.DialogueText) : CanonDisplay(entry.DisplayPattern);
+                                        keyForLookup = HasVariablePart(screen) ? null : screen;
+                                    }
                                     else
                                         keyForLookup = entry.DialogueText;
 
-                                    if (!string.IsNullOrWhiteSpace(keyForLookup) && !entriesDict.ContainsKey(keyForLookup))
-                                        entriesDict[keyForLookup] = audioPath;
+                                    // A '¦' in the text separates the male and female wording of one line
+                                    // (the game shows only one of them), so index each variant on its own.
+                                    foreach (string textVariant in keyForLookup == null ? Enumerable.Empty<string>() : SplitGenderVariants(keyForLookup))
+                                    {
+                                        if (!entriesDict.TryGetValue(textVariant, out var existingTextAudio))
+                                        {
+                                            entriesDict[textVariant] = audioPath;
+                                        }
+                                        else if (!string.Equals(existingTextAudio, audioPath, StringComparison.OrdinalIgnoreCase))
+                                        {
+                                            // Same text on several days/keys: prefer the entry whose recording exists.
+                                            string packDirForText = Path.GetDirectoryName(filePath) ?? string.Empty;
+                                            if (!File.Exists(Path.Combine(packDirForText, existingTextAudio)) &&
+                                                File.Exists(Path.Combine(packDirForText, audioPath)))
+                                                entriesDict[textVariant] = audioPath;
+                                        }
+                                    }
 
                                     // --- DialogueFrom mapping (kept) ---
                                     if (!string.IsNullOrWhiteSpace(entry.DialogueFrom))
@@ -197,13 +246,15 @@ namespace VoiceOverFrameworkMod
                                         }
                                     }
 
-                                    //V2 DisplayPattern index (canonical form)
-                                    if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DisplayPattern))
-                                    {
-                                        var dpKey = CanonDisplay(entry.DisplayPattern);
-                                        if (!entriesByDisplayPattern.ContainsKey(dpKey))
-                                            entriesByDisplayPattern[dpKey] = audioPath;
-                                    }
+                                    // V2 templates: lines with variable parts, matched by regex (ModEntry.TemplateMatch)
+                                    if (formatMajor >= 2 && !string.IsNullOrWhiteSpace(entry.DialogueText))
+                                        foreach (string actorVariant in SplitGenderVariants(entry.DialogueText))
+                                        {
+                                            if (BuildTemplate(actorVariant, audioPath) is TemplateLine tl)
+                                                templates.Add(tl);
+                                            questReply.Add(entry.TranslationKey, actorVariant, audioPath);
+                                        }
+
                                 }
 
                                 // If *all* maps are empty, skip; otherwise allow (supports pure-TK packs)
@@ -226,9 +277,12 @@ namespace VoiceOverFrameworkMod
 
                                     // V2 TranslationKey map
                                     EntriesByTranslationKey = entriesByTk,
+                                    TemplateEntries = templates,
+                                    QuestReply = questReply.Build(),
 
                                     //: V2 DisplayPattern map
-                                    EntriesByDisplayPattern = entriesByDisplayPattern,
+                                    // same keys and recorded-file preference as the text map
+                                    EntriesByDisplayPattern = new Dictionary<string, string>(entriesDict, StringComparer.OrdinalIgnoreCase),
 
                                     ContentPackId = contentPack.Manifest.UniqueID,
                                     ContentPackName = contentPack.Manifest.Name,
@@ -265,7 +319,7 @@ namespace VoiceOverFrameworkMod
                     } // foreach JSON file
 
                     // If there were JSON files but no valid definitions within them
-                    if (!foundAnyValidDefinitionInPack && ownedContentPacks.Any())
+                    if (!foundAnyValidDefinitionInPack)
                     {
                         if (Directory.EnumerateFiles(packDir, "*.json", SearchOption.TopDirectoryOnly)
                             .Any(f => !Path.GetFileName(f).Equals("manifest.json", StringComparison.OrdinalIgnoreCase)))
@@ -285,7 +339,7 @@ namespace VoiceOverFrameworkMod
             } // foreach Content Pack
 
             // Final summary
-            this.Monitor.Log($"Finished loading. Processed {totalDefinitionsProcessed} voice definitions for {VoicePacksByCharacter.Count} unique characters from {ownedContentPacks.Count()} content packs.", LogLevel.Info);
+            this.Monitor.Log($"Finished loading. Processed {totalDefinitionsProcessed} voice definitions for {VoicePacksByCharacter.Count} unique characters from {packsToScan.Count} content packs.", LogLevel.Info);
         }
 
 
@@ -294,13 +348,24 @@ namespace VoiceOverFrameworkMod
 
         private VoicePack GetSelectedVoicePack(string characterName)
         {
-            if (Config.SelectedVoicePacks.TryGetValue(characterName, out string selectedId) &&
-                VoicePacksByCharacter.TryGetValue(characterName, out var list))
+            characterName = ResolvePackCharacter(characterName);
+            if (string.IsNullOrWhiteSpace(characterName) ||
+                !VoicePacksByCharacter.TryGetValue(characterName, out var list) || list == null || !list.Any())
+                return null;
+
+            // 1) explicit per-character selection from config wins
+            if (Config.SelectedVoicePacks.TryGetValue(characterName, out string selectedId) && !string.IsNullOrWhiteSpace(selectedId))
             {
-                return list.FirstOrDefault(p => p.VoicePackId.Equals(selectedId, StringComparison.OrdinalIgnoreCase));
+                if (selectedId.Equals("None", StringComparison.OrdinalIgnoreCase))
+                    return null;
+                var selected = list.FirstOrDefault(p => p.VoicePackId.Equals(selectedId, StringComparison.OrdinalIgnoreCase));
+                if (selected != null)
+                    return selected;
             }
 
-            return null;
+            // 2) otherwise prefer a pack in the configured default language, 3) else the first available
+            return list.FirstOrDefault(p => p.Language != null && p.Language.Equals(Config.DefaultLanguage, StringComparison.OrdinalIgnoreCase))
+                   ?? list.FirstOrDefault();
         }
 
         private string GetVoicePackLanguageForCharacter(string characterName)

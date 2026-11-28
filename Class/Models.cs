@@ -4,12 +4,22 @@ namespace VoiceOverFrameworkMod
 {
     public class ModConfig
     {
-        public string DefaultLanguage { get; set; } = "en";
+        /// <summary>Language of the voice pack to use when the game language has no pack of its own. Głos Serca ships a Polish ("pl") pack.</summary>
+        public string DefaultLanguage { get; set; } = "pl";
+        /// <summary>Game language -> pack language. The "Podmiana" Polish translation replaces the game's pt-BR texts, so a game running in pt-BR shows Polish and should use the "pl" pack. The additional-language Polish mod reports "pl" directly.</summary>
+        public Dictionary<string, string> LanguageAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase) { ["pt-BR"] = "pl" };
+        /// <summary>Extra event-actor aliases (actor name -> voiced character), e.g. for other mods' events.
+        /// The mod's built-in aliases (ParrotBoy -> Leo, Toddler -> Parrot) always apply; entries here
+        /// add to them or override them. Event slots are still counted per actor name.</summary>
+        public Dictionary<string, string> ActorAliases { get; set; } = new(StringComparer.OrdinalIgnoreCase);
         public float MasterVolume { get; set; } = 1.0f;
         public bool turnoffdialoguetypingsound = true;
         public bool FallbackToDefaultIfMissing { get; set; } = false;
         public Dictionary<string, string> SelectedVoicePacks { get; set; } = new();
         public bool developerModeOn { get; set; } = false;
+        /// <summary>Play the most similar pack line when nothing matches exactly. Off by default: a different text means a
+        /// different line; in developer mode the closest candidate is only logged.</summary>
+        public bool FuzzyMatching { get; set; } = false;
         public bool AutoFixDialogueFromOnLoad { get; set; } = true;
 
         public int TextStabilizeTicks { set; get; } = 8;
@@ -46,6 +56,10 @@ namespace VoiceOverFrameworkMod
         public Dictionary<string, string> EntriesByTranslationKey { get; set; } = new(StringComparer.OrdinalIgnoreCase);
 
         public Dictionary<string, string> EntriesByDisplayPattern { get; set; } = new(StringComparer.OrdinalIgnoreCase);
+        /// <summary>Lines with variable parts (player name, %farm, %book, {0}…) as regexes; see ModEntry.TemplateMatch.</summary>
+        public List<ModEntry.TemplateLine> TemplateEntries { get; set; } = new();
+        /// <summary>Board quest completion box (greeting + reaction + thanks), or null.</summary>
+        public ModEntry.QuestReplyMatcher QuestReply { get; set; }
 
         public string ContentPackId { get; set; }
         public string ContentPackName { get; set; }
@@ -86,7 +100,9 @@ namespace VoiceOverFrameworkMod
         public string? TranslationKey { get; set; }  // e.g. "Characters/Dialogue/Abigail:danceRejection"
         public int? PageIndex { get; set; }          // 0-based page within that key usually used when dialogue breaks
                                                      // (ended up not needing it since was failing with there are tree forks in dialogue questions and responses that wasn't consistent)
-        public string? DisplayPattern { get; set; }  // V2-sanitized text with placeholders used for V2 Dialogue Lookup for match
+        public string? DisplayPattern { get; set; }  // no longer written by the generator; the mod matches by DialogueText (read only as a fallback)
+        /// <summary>For people only (recording lists); the mod ignores it. Generated: what the game tokens in the text are.</summary>
+        public string? ActorNote { get; set; }
         public string? GenderVariant { get; set; }   // "male" | "female" | "neutral" (optional) - Though this shows up now, it's really not needed since the final V2 dialogue match algorithm was drastically altered, and the key + gender is only used as a 2nd layer match in case first layer fails
 
         public string? BranchId { get; set; }

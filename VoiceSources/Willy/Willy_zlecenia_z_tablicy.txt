@@ -1,0 +1,79 @@
+Kwestie przy oddawaniu zlecenia z tablicy ogłoszeń (dostarczenie przedmiotu), dodane 20 listopada 2026.
+Gra skleja pierwsze okienko z trzech losowych kawałków: powitanie (13526–13528) + reakcja (13530–13536) + podziękowanie (13538–13540), np. „Hej. O! Tego mi było trzeba! Doceniam to.”. Mod odtwarza trzy nagrania jedno po drugim, więc każdy kawałek nagrywamy osobno jako samodzielne zdanie.
+Następne okienko to zapłata (13542–13544). „To za mało... potrzebuję {0}.” (13615) gra mówi, gdy gracz przyniesie za mało sztuk.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 302.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526
+DialogueText: Och!
+AudioName: 302.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527
+DialogueText: Hej.
+AudioName: 303.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528
+DialogueText: Cześć {Farmer_Name}!
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 304.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530
+DialogueText: Czy to jest {0}?
+Uwaga: Nagrywamy „Czy to naprawdę to?” – nazwę przedmiotu ({0}) gra pokazuje tylko na ekranie.
+AudioName: 305.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532
+DialogueText: O! Tego mi było trzeba!
+AudioName: 306.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534  [gracz: mężczyzna]
+DialogueText: Oo, czyli jednak widziałeś moją notkę?
+AudioName: 307_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534  [gracz: kobieta]
+DialogueText: Oo, czyli jednak widziałaś moją notkę?
+AudioName: 308_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535  [gracz: mężczyzna]
+DialogueText: Oo, czyli jednak widziałeś moje ogłoszenie?
+AudioName: 309_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535  [gracz: kobieta]
+DialogueText: Oo, czyli jednak widziałaś moje ogłoszenie?
+AudioName: 310_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536  [gracz: mężczyzna]
+DialogueText: Oo, czyli jednak widziałeś moją wiadomość?
+AudioName: 311_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536  [gracz: kobieta]
+DialogueText: Oo, czyli jednak widziałaś moją wiadomość?
+AudioName: 312_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538
+DialogueText: Wielkie dzięki!
+AudioName: 313.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539
+DialogueText: Doceniam to.
+AudioName: 314.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540
+DialogueText: Wygląda wspaniale.
+AudioName: 315.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542
+DialogueText: Masz tu małe co nieco za fatygę.
+AudioName: 316.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543
+DialogueText: Oto Twoja zapłata.
+AudioName: 317.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544
+DialogueText: ... Zobaczmy. Oto Twoja należność.
+AudioName: 318.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615
+DialogueText: To za mało... potrzebuję {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 319.ogg

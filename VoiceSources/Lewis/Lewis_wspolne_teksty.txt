@@ -1,0 +1,198 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 373.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1025  [inne]
+DialogueText: Przepiękna ceremonia. Gratulacje! {Portrait:Happy}
+AudioName: 373.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1730  [inne]
+DialogueText: Ty!!! Czy to był jakiś głupi żart?! To jest moja prywatna własność! {Portrait:Love}
+AudioName: 374.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1730 (strona 2)  [inne]
+DialogueText: Masz, weź te 750 gwiezdnych żetonów i nikomu nie mów. {Portrait:Unique}
+AudioName: 375.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1730 (strona 3)  [inne]
+DialogueText: Teraz wyczyść swoją wystawę i przynieś mi moją... rzecz... jutro. {Portrait:Unique}
+AudioName: 376.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 377.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 378.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Adult  [okrzyk w dymku nad głową]
+DialogueText: Hej, przestań! Fuj! {Portrait:Sad}
+AudioName: 379.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Invited  [zaproszenie do kina]
+DialogueText: Film? Pewnie. Spotkamy się w kinie.
+AudioName: 380.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 381.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 382.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 383.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 384.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 385.ogg
+--------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1862  [ogłoszenie zwycięzcy na festiwalu]
+DialogueText: Abigail!
+AudioName: 386.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1871  [ogłoszenie zwycięzcy na festiwalu]
+DialogueText: Willy, z 5 dużymi rybami!
+AudioName: 387.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5367  [ślub (przemowa)]
+DialogueText: Gdy {Farmer_Name} po raz pierwszy pojawił się w Mieście Pelikan, nikt nie wiedział, czy wpasuje się w naszą społeczność...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 388.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5367 (strona 2)  [ślub (przemowa)]
+DialogueText: Ale od tego dnia, {Farmer_Name} będzie większą częścią społeczności tego miasteczka niż każdy z nas! {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 389.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5369  [ślub (przemowa)]
+DialogueText: Gdy {Farmer_Name} po raz pierwszy pojawiła się w Mieście Pelikan nikt nie wiedział czy wpasuje się w naszą społeczność...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 390.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5370  [ślub (przemowa)]
+DialogueText: A więc, zaczynajmy!
+AudioName: 391.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5371  [ślub (przemowa)]
+DialogueText: {Farmer_Name}... %spouse...
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). %spouse – imię współmałżonka gracza (wstawia gra).
+AudioName: 392.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5371 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i... no, mężem! {Portrait:Happy}
+AudioName: 393.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5373 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i żoną! {Portrait:Happy}
+AudioName: 394.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5375 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i... no, żoną! {Portrait:Happy}
+AudioName: 395.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5377 (strona 2)  [ślub (przemowa)]
+DialogueText: Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i mężem! {Portrait:Happy}
+AudioName: 396.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5379  [ślub (przemowa)]
+DialogueText: Możecie się pocałować.
+AudioName: 397.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5381  [ślub (przemowa)]
+DialogueText: Od teraz życie już nie będzie takie jak kiedyś...
+AudioName: 398.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Utility.cs.5383  [ślub (przemowa)]
+DialogueText: ... Ale wszystko jeszcze przed nami!
+AudioName: 399.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis  [telefon]
+DialogueText: Co u Ciebie?
+AudioName: 400.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 2)  [telefon]
+DialogueText: Dobrze słyszeć.
+AudioName: 401.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 3)  [telefon]
+DialogueText: Chyba mogę powiedzieć za wszystkich, że cenimy sobie twoją obecność we wspólnocie.
+AudioName: 402.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 4)  [telefon]
+DialogueText: Twój dziadek byłby z Ciebie dumny.
+AudioName: 403.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 5)  [telefon]
+DialogueText: Cóż, pozwolę ci wrócić do roboty. Do widzenia!
+AudioName: 404.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 6)  [telefon]
+DialogueText: Dobrze słyszeć!
+AudioName: 405.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 7)  [telefon]
+DialogueText: Twoja farma podniosła lokalną ekonomię, która jest dobra dla wszystkich. Doceniamy twoją ciężką pracę!
+AudioName: 406.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 8)  [telefon]
+DialogueText: Chyba mogę powiedzieć, że twój dziadek byłby z Ciebie bardzo dumny.
+AudioName: 407.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 9)  [telefon]
+DialogueText: Cóż, Pozwolę ci wrócić do pracy. Do widzenia!
+AudioName: 408.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 10)  [telefon]
+DialogueText: Och... Przykro mi to słyszeć. {Portrait:Sad}
+AudioName: 409.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 11)  [telefon]
+DialogueText: Uch... próbuj dalej ciężko pracować i na pewno wszystko się poprawi...
+AudioName: 410.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 12)  [telefon]
+DialogueText: Cóż... pozwolę ci wrócić do pracy... Ok? Zadzwoń później. Pa. {Portrait:Sad}
+AudioName: 411.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Lewis (strona 13)  [telefon]
+DialogueText: A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa. {Portrait:Unique}
+AudioName: 412.ogg
+--------------------------------------------------
+
+Pytania gospodarza festiwalu, gdy gracz jest gotowy do rozpoczęcia (odpowiedzi Tak/Nie wybiera gracz):
+
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1521  [pytanie na festiwalu]
+DialogueText: Myślisz, że wszyscy są gotowi na polowanie?
+AudioName: 413.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1524  [pytanie na festiwalu]
+DialogueText: Powinniśmy zacząć?
+AudioName: 414.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1527  [pytanie na festiwalu]
+DialogueText: Powinniśmy zacząć Luau? Gubernator chyba zgłodniał.
+AudioName: 415.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1531  [pytanie na festiwalu]
+DialogueText: Jak myślisz... mogę już wypuścić łódkę?
+AudioName: 416.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1535  [pytanie na festiwalu]
+DialogueText: Och... Twoja wystawa już jest przygotowana?
+AudioName: 417.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:Event.cs.1548  [pytanie na festiwalu]
+DialogueText: Możemy zacząć zawody w łowieniu ryb?
+AudioName: 418.ogg
+--------------------------------------------------

@@ -1,0 +1,2324 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Willy.pl",
+      "VoicePackName": "Głos Serca (Willy)",
+      "Character": "Willy",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Ahoj! Miło jest widzieć młodych ludzi wprowadzających się do nas. Ostatnimi czasy nie jest to powszechne.",
+          "AudioPath": "assets/pl/Willy/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Introduction",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Na trzon mojej fajki... filiżanka herbaty ze stardropa! A ja myślałem, że to tylko legenda. Uprzejmie dziękuję.",
+          "AudioPath": "assets/pl/Willy/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_(O)StardropTea",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)Book_Crabbing",
+          "DialogueText": "Ajaj... Klasyczek. Po każdym czytaniu aż się łezka w oku kręci. Rybak nigdy nie może mieć za wiele kopii! Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_(O)Book_Crabbing",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)Book_Roe",
+          "DialogueText": "Dzięki! Idealnie nada się na zimowe czytanie. Ach, pachnie jak ocean... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_(O)Book_Roe",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)SkillBook_1",
+          "DialogueText": "Ach, 'Przynęta i Spławik'... Każdy wędkarz powinien wykupić subskrypcję, ale mało to na pewno nie kosztuje. Przez te wszystkie lata nauczyła mnie wiele dobrych porad wędkarskich. Dzięki! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_(O)SkillBook_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_Positive_coffee_item",
+          "DialogueText": "Ach, to rozgrzewa stare kości. Dziękuję.",
+          "AudioPath": "assets/pl/Willy/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_Positive_coffee_item",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Ajaj... Mam nadzieję, że te dziwne deszcze nie przeszkadzają rybom... Zrujnowałoby mi to życie!",
+          "AudioPath": "assets/pl/Willy/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:GreenRain",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Cóż, ryby wyglądają zdrowiej niż kiedykolwiek. Właściwie, mógłbym przysiąc, że zaczęły brać z większą siłą!",
+          "AudioPath": "assets/pl/Willy/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:GreenRainFinished",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Jeśli ryby lubią te deszcze, to ja też.",
+          "AudioPath": "assets/pl/Willy/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:GreenRain_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "accept_869",
+          "DialogueText": "Ach... idealna przynęta na suma, którego próbuję złapać!",
+          "AudioPath": "assets/pl/Willy/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:accept_869",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "accept_869",
+          "DialogueText": "Proszę, wymienię się z Tobą. Nie wiem co to, ale ocean wyrzucił to na brzeg nie tak dawno temu.",
+          "AudioPath": "assets/pl/Willy/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:accept_869",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "accept_869",
+          "DialogueText": "Coś mi mówi, że może Ci się to przydać, chłopcze.",
+          "AudioPath": "assets/pl/Willy/12_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:accept_869",
+          "PageIndex": 2,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "accept_869",
+          "DialogueText": "Coś mi mówi, że może Ci się to przydać, panienko.",
+          "AudioPath": "assets/pl/Willy/13_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:accept_869",
+          "PageIndex": 3,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)682",
+          "DialogueText": "Koszmar!... Cóż to za monstrum?",
+          "AudioPath": "assets/pl/Willy/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_(O)682",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)336",
+          "DialogueText": "*gryz*... Tak, prawdziwe złoto. Heh! Ale prezent! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:AcceptGift_(O)336",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Rezygnujesz z życia kawalera, ech?",
+          "AudioPath": "assets/pl/Willy/16_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:married",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Rezygnujesz z samotnego życia, ech?",
+          "AudioPath": "assets/pl/Willy/17_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:married",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Nie zapominaj znaleźć czasu na wędkowanie...",
+          "AudioPath": "assets/pl/Willy/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:married",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "fishCaught_160",
+          "DialogueText": "Ach, wyłowiłeś żabnicę, co? Dobry 'pierwszy krok' do świata rzadkich ryb.",
+          "AudioPath": "assets/pl/Willy/19_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_160",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_160",
+          "DialogueText": "Ach, wyłowiłaś żabnicę, co? Dobry 'pierwszy krok' do świata rzadkich ryb.",
+          "AudioPath": "assets/pl/Willy/20_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_160",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_159",
+          "DialogueText": "Ach, czyli pokonałeś szkarłatnika! Ta ryba drwiła ze mnie latami. Prawie przegryzła się przez drewno pod moim domem!",
+          "AudioPath": "assets/pl/Willy/21_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_159",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_159",
+          "DialogueText": "Ach, czyli pokonałaś szkarłatnika! Ta ryba drwiła ze mnie latami. Prawie przegryzła się przez drewno pod moim domem!",
+          "AudioPath": "assets/pl/Willy/22_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_159",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_163",
+          "DialogueText": "Na trzon mojej fajki... Rzeczywiście wyłowiłeś 'Legendę'. Nie myślałem, że dożyje tego dnia... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/23_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_163",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_163",
+          "DialogueText": "Na trzon mojej fajki... Rzeczywiście wyłowiłaś 'Legendę'. Nie myślałem, że dożyje tego dnia... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/24_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_163",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_163",
+          "DialogueText": "No, młodzieńcze. Udało Ci się... Jesteś najlepszym wędkarzem jakiego dolina od dawna widziała... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/25_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_163",
+          "PageIndex": 2,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_163",
+          "DialogueText": "No, panienko. Udało Ci się... Jesteś najlepszą wędkarką jaką dolina od dawna widziała... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/26_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_163",
+          "PageIndex": 3,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_775",
+          "DialogueText": "Ach, więc w końcu złapałeś Rybę Lodowiec... To jedna z najbardziej oślizgłych ryb, jakie kiedykolwiek spotkałem!",
+          "AudioPath": "assets/pl/Willy/27_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_775",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_775",
+          "DialogueText": "Ach, więc w końcu złapałaś Rybę Lodowiec... To jedna z najbardziej oślizgłych ryb, jakie kiedykolwiek spotkałem!",
+          "AudioPath": "assets/pl/Willy/28_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_775",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_775",
+          "DialogueText": "Po ilu próbach Ci się udało?",
+          "AudioPath": "assets/pl/Willy/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_775",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "fishCaught_682",
+          "DialogueText": "*niuch* *niuch*... Coś mi mówi, że wędkowałeś w ściekach, młodzieńcze.",
+          "AudioPath": "assets/pl/Willy/30_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_682",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fishCaught_682",
+          "DialogueText": "*niuch* *niuch*... Coś mi mówi, że wędkowałaś w ściekach, panienko.",
+          "AudioPath": "assets/pl/Willy/31_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_682",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fishCaught_682",
+          "DialogueText": "Z pewnością niekonwencjonalne podejście. Istnieje legenda o gigantycznym karpiu przemienionym w potwora przez toksyczne odpady...",
+          "AudioPath": "assets/pl/Willy/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:fishCaught_682",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "FullCrabPond",
+          "DialogueText": "*Niuch*... Ach... Stary i znajomy zapach. Hodujesz kraby, prawda?",
+          "AudioPath": "assets/pl/Willy/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:FullCrabPond",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "FullCrabPond",
+          "DialogueText": "Widzę, że mamy takie same hobby, {Farmer_Name}. Hah! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:FullCrabPond",
+          "PageIndex": 1,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "FullCrabPond",
+          "DialogueText": "Proszę, weź to. Znalazłem to na plaży... Czekałem z tym na specjalną okazję. Niecodziennie spotyka się kolejnego entuzjastę krabów! [797]",
+          "AudioPath": "assets/pl/Willy/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:FullCrabPond",
+          "PageIndex": 2,
+          "ActorNote": "[…] – numery przedmiotów, które postać daje graczowi; nie czytać."
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Ach... film. To miłe z Twojej strony, chłopcze.",
+          "AudioPath": "assets/pl/Willy/36_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:MovieInvitation",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Ach... film. To miłe z Twojej strony, panienko.",
+          "AudioPath": "assets/pl/Willy/37_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:MovieInvitation",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Skończę palić fajkę i zaraz będę.",
+          "AudioPath": "assets/pl/Willy/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:MovieInvitation",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "summer_19",
+          "DialogueText": "Jutro są coroczne derby pstrąga... Ajaj, to marzenie każdego słodkowodnego entuzjasty!",
+          "AudioPath": "assets/pl/Willy/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_19",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_19",
+          "DialogueText": "Wędkarze z całego świata tu przyjadą, aby łowić nasze piękne pstrągi tęczowe...",
+          "AudioPath": "assets/pl/Willy/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_19",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_19",
+          "DialogueText": "Mam nadzieję, że Cię tam zobaczę, chłopcze! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/41_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_19",
+          "PageIndex": 2,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_19",
+          "DialogueText": "Mam nadzieję, że Cię tam zobaczę, panienko! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/42_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_19",
+          "PageIndex": 3,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_19",
+          "DialogueText": "Przez następne dwa dni, sklep będzie otwarty od dziewiątej przez godzinę. Więc możesz wtedy przyjść, jeśli będzie Ci czegoś trzeba.",
+          "AudioPath": "assets/pl/Willy/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_19",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "summer_20",
+          "DialogueText": "To wielki dzień! Cały mój sprzęt jest do łowienia pstrągów...",
+          "AudioPath": "assets/pl/Willy/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_20",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_20",
+          "DialogueText": "Powodzenia!",
+          "AudioPath": "assets/pl/Willy/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_20",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_21",
+          "DialogueText": "Jak Ci mijają derby?",
+          "AudioPath": "assets/pl/Willy/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_21",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_21",
+          "DialogueText": "Sam znalazłem dużo złotych zawieszek!",
+          "AudioPath": "assets/pl/Willy/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:summer_21",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_11",
+          "DialogueText": "Jutro na plaży rozpocznie się małe zgromadzenie... nazywane 'Święto Kałamarnicy'.",
+          "AudioPath": "assets/pl/Willy/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:winter_11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_11",
+          "DialogueText": "Ajaj... kałamarnice są trudne do wyłowienia. Ale jestem pewien, że masz już smykałkę do tego sportu.",
+          "AudioPath": "assets/pl/Willy/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:winter_11",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_12",
+          "DialogueText": "JNie poddawaj się! Jest jeszcze więcej kałamarnic...",
+          "AudioPath": "assets/pl/Willy/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:winter_12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_13",
+          "DialogueText": "Robi mi się ciepło w serduszku, gdy widzę tych wszystkich wędkarzy. Wszystko to z miłości do wędkowania... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:winter_13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Ahoj, synu.",
+          "AudioPath": "assets/pl/Willy/52_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Mon",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Ahoj, panienko.",
+          "AudioPath": "assets/pl/Willy/53_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Mon",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Przyzwoita pogoda na łowienie ryb, prawda?",
+          "AudioPath": "assets/pl/Willy/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Mon",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Mon4",
+          "DialogueText": "Szczęście Ci sprzyja w lokalnych wodach? Wyglądasz na silnego wędkarza, ale musisz dużo ćwiczyć.",
+          "AudioPath": "assets/pl/Willy/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Mon4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Prawdziwy wędkarz szanuje wodę... Nie zapominaj tego.",
+          "AudioPath": "assets/pl/Willy/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue6",
+          "DialogueText": "Byłem kiedyś rybakiem. Dorastałem żeglując pomiędzy Wyspami Paproci, żyjąc ze zdobyczy.",
+          "AudioPath": "assets/pl/Willy/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Tue6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue6",
+          "DialogueText": "Życie rybaka jest ciężkie, ale jest przy tym coś, co powoduje, że się nie zatrzymujesz'.",
+          "AudioPath": "assets/pl/Willy/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Tue6",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Niektóre ryby przychodzą i odchodzą w inne pory roku. Inne w nocy lub gdy pada deszcz.",
+          "AudioPath": "assets/pl/Willy/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Słyszałem plotki o specjalnym gatunku ryb, które można znaleźć przy wodospadach...",
+          "AudioPath": "assets/pl/Willy/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Wed6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Wed6",
+          "DialogueText": "Oczywiście jeśli Twoja wędka dosięgnie...",
+          "AudioPath": "assets/pl/Willy/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Wed6",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "*mamrotanie*... Hę? Powiedziałbym Ci o moich przemyśleniach, ale to tajemnica wędkarska.",
+          "AudioPath": "assets/pl/Willy/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Thu",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Thu2",
+          "DialogueText": "Istnieją plotki o tym, że w tych wodach mogą pływać rzadkie ryby... ale tylko utalentowany wędkarz mógłby im stawić czoła.",
+          "AudioPath": "assets/pl/Willy/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Thu2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Thu2",
+          "DialogueText": "Potrzeba Ci najlepszej przynęty. Dzięki temu rzadkie ryby mogą chwycić.",
+          "AudioPath": "assets/pl/Willy/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Thu2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Jeśli naprawdę chcesz, żeby ryby zaczęły brać, załóż przynętę na haczyk.",
+          "AudioPath": "assets/pl/Willy/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fri4",
+          "DialogueText": "Jestem prostym człowiekiem... jak moja fajka jest pełna, jestem szczęśliwy. Jak jest pusta... Cóż, wtedy idę ją napełnić. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Willy/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Fri4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Gdyby lokalna scena rybacka stałaby się troszeczkę żywsza, mógłbym powiększyć zapasy towarów.",
+          "AudioPath": "assets/pl/Willy/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Jak Ci idzie łowienie ryb?",
+          "AudioPath": "assets/pl/Willy/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sat8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat8",
+          "DialogueText": "Próbuję łowić tak często jak się da, ale to nie jest takie proste jak się ma sklep.",
+          "AudioPath": "assets/pl/Willy/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sat8",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Jeśli kupisz wysokiej jakości wędkę będziesz mógł zamontować przynętę i sprzęt do żyłki.",
+          "AudioPath": "assets/pl/Willy/70_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sun",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Jeśli kupisz wysokiej jakości wędkę będziesz mogła zamontować przynętę i sprzęt do żyłki.",
+          "AudioPath": "assets/pl/Willy/71_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sun",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Dzięki przynęcie ryby będą szybciej brały. Sprzęt z kolei, ułatwia wyciąganie ryb.",
+          "AudioPath": "assets/pl/Willy/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sun",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Jest wiele rodzajów sprzętu, z różnymi zastosowaniami. Zwykle są trochę słabe, więc nie zdziw się jeśli Twój sprzęt zepsuje się po kilku użyciach.",
+          "AudioPath": "assets/pl/Willy/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sun",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Sun10",
+          "DialogueText": "Hej, to mój skipper, {Farmer_Name}! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sun10",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Sun10",
+          "DialogueText": "Dałbym Ci zniżkę na przynętę jeśli tylko mógłbym se na to pozwolić. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Sun10",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Fair_Judging",
+          "DialogueText": "Nie myślę, że na pewno wygram... ryby dobrze wyglądają, ale niespecjalnie pachną... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Fair_Judging",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fair_Judged",
+          "DialogueText": "Wow, najgorszy wynik. Najwidoczniej Burmistrz Lewis nie lubi ryb. No cóż... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/77.ogg",
+          "TranslationKey": "Characters/Dialogue/Willy:Fair_Judged",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s0",
+          "DialogueText": "Dzień dobry, chłopcze!",
+          "AudioPath": "assets/pl/Willy/78_male.ogg",
+          "TranslationKey": "Events/Farm:980559:s0",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s1",
+          "DialogueText": "Dzień dobry, panienko!",
+          "AudioPath": "assets/pl/Willy/79_female.ogg",
+          "TranslationKey": "Events/Farm:980559:s1",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s2",
+          "DialogueText": "Przepraszam, że przeszkadzam, ale... ech... Zauważyłem że nie za bardzo łowisz.",
+          "AudioPath": "assets/pl/Willy/80.ogg",
+          "TranslationKey": "Events/Farm:980559:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s3",
+          "DialogueText": "Ajaj... dla początkującego może być ciężko rozpocząć uprawianie tego sportu.",
+          "AudioPath": "assets/pl/Willy/81.ogg",
+          "TranslationKey": "Events/Farm:980559:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s4",
+          "DialogueText": "Pomyślałem, że dam Ci parę wskazówek... może pomogą Ci rozwinąć Twoje morskie nogi!",
+          "AudioPath": "assets/pl/Willy/82.ogg",
+          "TranslationKey": "Events/Farm:980559:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s5",
+          "DialogueText": "A więc, musisz trzymać wędkę w ten sposób, widzisz?...",
+          "AudioPath": "assets/pl/Willy/83.ogg",
+          "TranslationKey": "Events/Farm:980559:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s6",
+          "DialogueText": "Willy zrobił Ci szybką lekcje w łowieniu.",
+          "AudioPath": "assets/pl/Willy/84.ogg",
+          "TranslationKey": "Events/Farm:980559:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s7",
+          "DialogueText": "Czujesz się pewniej!",
+          "AudioPath": "assets/pl/Willy/85.ogg",
+          "TranslationKey": "Events/Farm:980559:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s8",
+          "DialogueText": "Jeszcze jedno... Chciałbym Ci to dać.",
+          "AudioPath": "assets/pl/Willy/86.ogg",
+          "TranslationKey": "Events/Farm:980559:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s9",
+          "DialogueText": "To jest 'wędka treningowa'. Powinna Ci ułatwić łowienie ryb.",
+          "AudioPath": "assets/pl/Willy/87.ogg",
+          "TranslationKey": "Events/Farm:980559:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s10",
+          "DialogueText": "Tylko wiedz, że tą wędką można wyłowić tylko ryby zwykłej jakości. Ale jest świetna do ćwiczeń!",
+          "AudioPath": "assets/pl/Willy/88.ogg",
+          "TranslationKey": "Events/Farm:980559:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s11",
+          "DialogueText": "Mam nadzieję, że dasz wędkarstwu drugą szansę. Jak się tego nauczysz, będziesz się świetnie bawić.",
+          "AudioPath": "assets/pl/Willy/89.ogg",
+          "TranslationKey": "Events/Farm:980559:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/980559:s12",
+          "DialogueText": "Powodzenia! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/90.ogg",
+          "TranslationKey": "Events/Farm:980559:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s0",
+          "DialogueText": "Ja?",
+          "AudioPath": "assets/pl/Willy/91.ogg",
+          "TranslationKey": "Events/Town:191393:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s1",
+          "DialogueText": "He he... Pamiętam. Wstaliśmy rano i całe miasto było nimi obsypane. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/92.ogg",
+          "TranslationKey": "Events/Town:191393:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s0",
+          "DialogueText": "Hmm...",
+          "AudioPath": "assets/pl/Willy/93.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s1",
+          "DialogueText": "Grzyby są trochę twardsze niż rok temu...",
+          "AudioPath": "assets/pl/Willy/94.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s2",
+          "DialogueText": "Ajaj, majtku.",
+          "AudioPath": "assets/pl/Willy/95.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s0",
+          "DialogueText": "Ahoj, synu. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Willy/96_male.ogg",
+          "TranslationKey": "Events/Beach:739330:s0",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s1",
+          "DialogueText": "Ahoj, damo. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Willy/97_female.ogg",
+          "TranslationKey": "Events/Beach:739330:s1",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s2",
+          "DialogueText": "Słyszałem, że ktoś nowy wprowadził się do miasta... Dobrze Cię w końcu poznać. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Willy/98.ogg",
+          "TranslationKey": "Events/Beach:739330:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s3",
+          "DialogueText": "Ach... Ciągle próbuję się ogarnąć po miesiącu żeglowania... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/99.ogg",
+          "TranslationKey": "Events/Beach:739330:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s4",
+          "DialogueText": "Ta wyprawa była bardzo owocna! Sprzedałem wiele dobrych ryb.",
+          "AudioPath": "assets/pl/Willy/100.ogg",
+          "TranslationKey": "Events/Beach:739330:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s5",
+          "DialogueText": "W końcu uzbierałem pieniędzy na nową wędkę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/101.ogg",
+          "TranslationKey": "Events/Beach:739330:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s6",
+          "DialogueText": "Masz, weź moją starą wędkę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/102.ogg",
+          "TranslationKey": "Events/Beach:739330:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s7",
+          "DialogueText": "To dla mnie bardzo ważne, żeby sztuka wędkarstwa dalej tętniła życiem. I hej, może kiedyś kupisz coś z mojego sklepu? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/103.ogg",
+          "TranslationKey": "Events/Beach:739330:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s8",
+          "DialogueText": "Woda w tych stronach jest bardzo dobra. Dużo tu różnych ryb.",
+          "AudioPath": "assets/pl/Willy/104.ogg",
+          "TranslationKey": "Events/Beach:739330:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s9",
+          "DialogueText": "Ach tak. Mój sklep jest znowu otwarty, więc wpadnij jeśli czegoś Ci będzie trzeba. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/105.ogg",
+          "TranslationKey": "Events/Beach:739330:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s10",
+          "DialogueText": "Kupię też wszystko co złapiesz.",
+          "AudioPath": "assets/pl/Willy/106.ogg",
+          "TranslationKey": "Events/Beach:739330:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/739330:s11",
+          "DialogueText": "'Jak śmierdzi, to zleci'. He he. Mój tatko tak mawiał. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/107.ogg",
+          "TranslationKey": "Events/Beach:739330:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s0",
+          "DialogueText": "Ach... dobrze, że jesteś, młodzieńcze.",
+          "AudioPath": "assets/pl/Willy/108_male.ogg",
+          "TranslationKey": "Events/Beach:711130:s0",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s1",
+          "DialogueText": "Ach... dobrze że panienka się zjawiła.",
+          "AudioPath": "assets/pl/Willy/109_female.ogg",
+          "TranslationKey": "Events/Beach:711130:s1",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s2",
+          "DialogueText": "Mam mały... problem, z którym przydałaby mi się pomoc...",
+          "AudioPath": "assets/pl/Willy/110.ogg",
+          "TranslationKey": "Events/Beach:711130:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s3",
+          "DialogueText": "Em... Będzie lepiej, jak Ci pokażę...",
+          "AudioPath": "assets/pl/Willy/111.ogg",
+          "TranslationKey": "Events/Beach:711130:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s4",
+          "DialogueText": "Weź głęboki wdech.",
+          "AudioPath": "assets/pl/Willy/112.ogg",
+          "TranslationKey": "Events/Beach:711130:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s5",
+          "DialogueText": "Jak widzisz...",
+          "AudioPath": "assets/pl/Willy/113.ogg",
+          "TranslationKey": "Events/Beach:711130:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s6",
+          "DialogueText": "I czujesz... uch...",
+          "AudioPath": "assets/pl/Willy/114.ogg",
+          "TranslationKey": "Events/Beach:711130:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s7",
+          "DialogueText": "...moje maleństwa 'zdziczały' przez noc... uch... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/115.ogg",
+          "TranslationKey": "Events/Beach:711130:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s8",
+          "DialogueText": "Mój eksperyment potrzebuje jeszcze trochę pracy...",
+          "AudioPath": "assets/pl/Willy/116.ogg",
+          "TranslationKey": "Events/Beach:711130:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s9",
+          "DialogueText": "Ajaj...",
+          "AudioPath": "assets/pl/Willy/117.ogg",
+          "TranslationKey": "Events/Beach:711130:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s10",
+          "DialogueText": "Aj... To są najlepsze, najmięsistsze kraby jakie kiedykolwiek zobaczysz na oczy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/118.ogg",
+          "TranslationKey": "Events/Beach:711130:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s11",
+          "DialogueText": "Niestety, są trochę zbyt zadziorne... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/119.ogg",
+          "TranslationKey": "Events/Beach:711130:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/711130:s12",
+          "DialogueText": "Do widzenia, wy moje najsłodsze... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/120.ogg",
+          "TranslationKey": "Events/Beach:711130:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s0",
+          "DialogueText": "He he... Uwielbiają to... popatrz no się! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/121.ogg",
+          "TranslationKey": "Events/Beach:3131209:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s1",
+          "DialogueText": "Ahoj!",
+          "AudioPath": "assets/pl/Willy/122.ogg",
+          "TranslationKey": "Events/Beach:3131209:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s2",
+          "DialogueText": "Właśnie o Tobie myślałem, chłopcze.",
+          "AudioPath": "assets/pl/Willy/123_male.ogg",
+          "TranslationKey": "Events/Beach:3131209:s2",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s3",
+          "DialogueText": "Właśnie o Tobie myślałem, panienko.",
+          "AudioPath": "assets/pl/Willy/124_female.ogg",
+          "TranslationKey": "Events/Beach:3131209:s3",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s4",
+          "DialogueText": "To robacze mięso jest idealne!",
+          "AudioPath": "assets/pl/Willy/125.ogg",
+          "TranslationKey": "Events/Beach:3131209:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s5",
+          "DialogueText": "He he... Gdy mówiłem 'świeże', nie myślałem, że będzie się jeszcze ruszać!",
+          "AudioPath": "assets/pl/Willy/126.ogg",
+          "TranslationKey": "Events/Beach:3131209:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s6",
+          "DialogueText": "Ale nie narzekam! Ryby to uwielbiają... He he he... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/127.ogg",
+          "TranslationKey": "Events/Beach:3131209:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s7",
+          "DialogueText": "Jako 'podziękowanie', chcę Cię nauczyć starej tajemnicy rybackiej... Mój staruszek nauczył mnie tego dawno temu na wyprawie wędkarskiej.",
+          "AudioPath": "assets/pl/Willy/128.ogg",
+          "TranslationKey": "Events/Beach:3131209:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s8",
+          "DialogueText": "Umiesz Wytwarzać 'Wytrzymały Spławik'",
+          "AudioPath": "assets/pl/Willy/129.ogg",
+          "TranslationKey": "Events/Beach:3131209:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s9",
+          "DialogueText": "Ten spławik przyciągnie uwagę lepszych ryb.",
+          "AudioPath": "assets/pl/Willy/130.ogg",
+          "TranslationKey": "Events/Beach:3131209:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s10",
+          "DialogueText": "Czyli więcej pieniędzy w kieszeni, chłopcze. He he... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/131_male.ogg",
+          "TranslationKey": "Events/Beach:3131209:s10",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s11",
+          "DialogueText": "Czyli więcej pieniędzy w kieszeni, panienko. He he... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/132_female.ogg",
+          "TranslationKey": "Events/Beach:3131209:s11",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Beach/3131209:s12",
+          "DialogueText": "Mam ją!",
+          "AudioPath": "assets/pl/Willy/133.ogg",
+          "TranslationKey": "Events/Beach:3131209:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s0",
+          "DialogueText": "Cześć, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Willy/134.ogg",
+          "TranslationKey": "Events/Mountain:404798:s0",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s1",
+          "DialogueText": "Dziwne... Nie wiem, co sprawiło, że ten głaz zniknął.",
+          "AudioPath": "assets/pl/Willy/135.ogg",
+          "TranslationKey": "Events/Mountain:404798:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s2",
+          "DialogueText": "Ten strumień płynie z głębi góry.",
+          "AudioPath": "assets/pl/Willy/136.ogg",
+          "TranslationKey": "Events/Mountain:404798:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s3",
+          "DialogueText": "Hej! Widzisz ten błysk w wodzie?",
+          "AudioPath": "assets/pl/Willy/137.ogg",
+          "TranslationKey": "Events/Mountain:404798:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s4",
+          "DialogueText": "Tak... To ruda! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/138.ogg",
+          "TranslationKey": "Events/Mountain:404798:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s5",
+          "DialogueText": "Pewnie przepływ wody ją tutaj przygarnął.",
+          "AudioPath": "assets/pl/Willy/139.ogg",
+          "TranslationKey": "Events/Mountain:404798:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s6",
+          "DialogueText": "Wiesz co to znaczy, prawda?",
+          "AudioPath": "assets/pl/Willy/140.ogg",
+          "TranslationKey": "Events/Mountain:404798:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s7",
+          "DialogueText": "To znaczy, że możemy przesiewać rudy! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/141.ogg",
+          "TranslationKey": "Events/Mountain:404798:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s8",
+          "DialogueText": "Proszę, mam tu zapasowy przesiewacz... może Ci się przydać.",
+          "AudioPath": "assets/pl/Willy/142.ogg",
+          "TranslationKey": "Events/Mountain:404798:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/404798:s9",
+          "DialogueText": "Jeśli zobaczysz w wodzie błyszczącą rudę, użyj tego przesiewacza.",
+          "AudioPath": "assets/pl/Willy/143.ogg",
+          "TranslationKey": "Events/Mountain:404798:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Mountain/8959199:s0",
+          "DialogueText": "Mam ją, chłopcze!",
+          "AudioPath": "assets/pl/Willy/144.ogg",
+          "TranslationKey": "Events/Mountain:8959199:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s0",
+          "DialogueText": "Ahoj!",
+          "AudioPath": "assets/pl/Willy/145.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s1",
+          "DialogueText": "Wejdź... Czuj się jak u siebie...",
+          "AudioPath": "assets/pl/Willy/146.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s2",
+          "DialogueText": "Ajaj... To dobry towar. Ryby za tym szaleją.",
+          "AudioPath": "assets/pl/Willy/147.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s3",
+          "DialogueText": "Tylko... eem... pamiętaj o porządnym umyciu rąk po włożeniu ich w te soki... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/148.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s4",
+          "DialogueText": "Ten zapach może przylgnąć na siedem tygodni, chłopcze...",
+          "AudioPath": "assets/pl/Willy/149_male.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s4",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s5",
+          "DialogueText": "Ten zapach może przylgnąć na siedem tygodni, panienko...",
+          "AudioPath": "assets/pl/Willy/150_female.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s5",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s6",
+          "DialogueText": "To co, łowisz sporo ryb?",
+          "AudioPath": "assets/pl/Willy/151.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s7",
+          "DialogueText": "Aha! Swój chłop... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/152_male.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s7",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s8",
+          "DialogueText": "Aha! Panienka rybaczka... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/153_female.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s8",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s9",
+          "DialogueText": "Zawsze możesz zaufać rybakowi...",
+          "AudioPath": "assets/pl/Willy/154_male.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s9",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s10",
+          "DialogueText": "Na taką panienkę zawsze można liczyć...",
+          "AudioPath": "assets/pl/Willy/155_female.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s10",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s11",
+          "DialogueText": "Tak właśnie mój Staruszek zwykł mawiać. Ha ha! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/156.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s12",
+          "DialogueText": "No, tak trzymaj... Jeśli złowisz każdą rybę z tych wód, dostaniesz ode mnie specjalną nagrodę...",
+          "AudioPath": "assets/pl/Willy/157.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s13",
+          "DialogueText": "Nie za bardzo, co? Szkoda... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/158.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s14",
+          "DialogueText": "Tak, jest to trudne... zwłaszcza dla początkujących.",
+          "AudioPath": "assets/pl/Willy/159.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s15",
+          "DialogueText": "Może spróbujesz 'Wędki Dla Początkujących'? Mogę Ci ją sprzedać, za bardzo niską cenę.",
+          "AudioPath": "assets/pl/Willy/160.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s16",
+          "DialogueText": "Łów 'Wędką Dla Początkujących' dopóki nie dojdziesz do wprawy.",
+          "AudioPath": "assets/pl/Willy/161.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s16",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s17",
+          "DialogueText": "Aj... Cóż, ostatnio biznes słabo się kręci. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/162.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s17",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s18",
+          "DialogueText": "Zaczęło się to w ten sam dzień, w którym stary dom kultury popadł w ruinę... Moje ryby już się nie sprzedają tak jak kiedyś...",
+          "AudioPath": "assets/pl/Willy/163.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s18",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s19",
+          "DialogueText": "Brałem nadgodziny, żeby z czegoś żyć!",
+          "AudioPath": "assets/pl/Willy/164.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s19",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s20",
+          "DialogueText": "Brak czasu na moje własne rzeczy... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/165.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s20",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s21",
+          "DialogueText": "Ale jak to wszystko jakoś wróci na nogi, to może dam radę Ci coś pokazać...",
+          "AudioPath": "assets/pl/Willy/166.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s21",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s22",
+          "DialogueText": "He he... Tak. Jest tam, na zapleczu... Moja stara 'znajoma' która pamiętała lepsze czasy... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/167.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s22",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s23",
+          "DialogueText": "Może kiedyś, chłopcze... zobaczysz o co mi chodzi.",
+          "AudioPath": "assets/pl/Willy/168_male.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s23",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/FishShop/16253595:s24",
+          "DialogueText": "Może kiedyś, panienko... zobaczysz o co mi chodzi.",
+          "AudioPath": "assets/pl/Willy/169_female.ogg",
+          "TranslationKey": "Events/FishShop:16253595:s24",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s0",
+          "DialogueText": "Ajaj... smutny widok, prawda?",
+          "AudioPath": "assets/pl/Willy/170.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s1",
+          "DialogueText": "To była łódź mojego ojca... Dobrze mu służyła przez ponad 50 lat.",
+          "AudioPath": "assets/pl/Willy/171.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s2",
+          "DialogueText": "A teraz ledwo się trzyma na wodzie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/172.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s3",
+          "DialogueText": "Może bym ją naprawił, ale nie mam materiałów, chłopcze.",
+          "AudioPath": "assets/pl/Willy/173_male.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s3",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s4",
+          "DialogueText": "Może bym ją naprawił, ale nie mam materiałów, panienko.",
+          "AudioPath": "assets/pl/Willy/174_female.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s4",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s5",
+          "DialogueText": "Ajaj... 200 sztuk twardego drewna żeby załatać kadłub byłoby dobrym początkiem.",
+          "AudioPath": "assets/pl/Willy/175.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s6",
+          "DialogueText": "Ale musielibyśmy jeszcze naprawić maszynę do biletów i kotwicę z irydu.",
+          "AudioPath": "assets/pl/Willy/176.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s7",
+          "DialogueText": "Gdybym dostał w me dłonie właściwe materiały i naprawiłbym tę łódź... mógłbym Cię zabrać na Wyspy Paproci.",
+          "AudioPath": "assets/pl/Willy/177.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s8",
+          "DialogueText": "Wyspy Wulkaniczne, mawiają że są pełne dziwnych papug...",
+          "AudioPath": "assets/pl/Willy/178.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s9",
+          "DialogueText": "Ajaj... tak myślałem, chłopcze. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/179_male.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s9",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s10",
+          "DialogueText": "Ajaj... tak myślałem, panienko. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/180_female.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s10",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s11",
+          "DialogueText": "Zostawię te drzwi otwarte... możesz zostawiać tu materiały kiedy tylko zechcesz.",
+          "AudioPath": "assets/pl/Willy/181.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s12",
+          "DialogueText": "W porządku, jak sobie chcesz... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/182.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BoatTunnel/9348571:s13",
+          "DialogueText": "Jeśli zmienisz zdanie, zawsze możesz wrócić i pomóc. Zostawię te drzwi otwarte.",
+          "AudioPath": "assets/pl/Willy/183.ogg",
+          "TranslationKey": "Events/BoatTunnel:9348571:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s0",
+          "DialogueText": "Ajaj, chłopcze... Linus mieszka z nami na kontynencie.",
+          "AudioPath": "assets/pl/Willy/184.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s1",
+          "DialogueText": "Po wysłuchaniu Twojej historii... chciałem Ci jakoś pomóc. Więc, porozmawiałem z Linusem i obmyśliliśmy pewien plan. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/185.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s2",
+          "DialogueText": "No, Linus... powiedz mu.",
+          "AudioPath": "assets/pl/Willy/186.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s3",
+          "DialogueText": "Mogę zabierać Cię na odwiedziny kiedykolwiek zechcesz! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/187.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s4",
+          "DialogueText": "Ale chłopcze.... nie możesz tu mieszkać na zawsze...",
+          "AudioPath": "assets/pl/Willy/188.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s5",
+          "DialogueText": "U nas też jest dużo dzieci. Na pewno chciałyby Cię poznać...",
+          "AudioPath": "assets/pl/Willy/189.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandSouth/6497428:s6",
+          "DialogueText": "Co o tym myślisz, {Farmer_Name}?",
+          "AudioPath": "assets/pl/Willy/190.ogg",
+          "TranslationKey": "Events/IslandSouth:6497428:s6",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s0",
+          "DialogueText": "Biedny dzieciak... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/191.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/IslandWest/6497423:s1",
+          "DialogueText": "Zastanawiam się, czy można mu jakoś pomóc... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/192.ogg",
+          "TranslationKey": "Events/IslandWest:6497423:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Willy",
+          "DialogueText": "Przygotowujesz wystawę pracy, {Farmer_Name}? To szansa, żeby pokazać wszystkie dobre produkty z ''%farm'' farmy!",
+          "AudioPath": "assets/pl/Willy/193.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Willy",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). %farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Willy_y2",
+          "DialogueText": "Udało mi się złowić parę ślicznotek jakości irydu, w sam raz na tegoroczne targi! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/194.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Willy_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Willy_y2",
+          "DialogueText": "Jak ocenią nasze wystawy, będę musiał spróbować swoich sił w namiocie wędkarskim. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Willy/195.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Willy_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Willy_y2",
+          "DialogueText": "Na Twoim miejscu bym uważał, chłopcze... w tym labiryncie jest coś strasznego...",
+          "AudioPath": "assets/pl/Willy/196_male.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Willy_y2",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Willy_y2",
+          "DialogueText": "Na Twoim miejscu bym uważał, panienko... w tym labiryncie jest coś strasznego...",
+          "AudioPath": "assets/pl/Willy/197_female.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Willy_y2",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Willy",
+          "DialogueText": "Czasami chowam jajko tak dobrze, że nikt go potem nie znajduje...",
+          "AudioPath": "assets/pl/Willy/198.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Willy",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Willy",
+          "DialogueText": "Cóż, dopóki nie nadejdzie lato. Wtedy ciepło ujawnia ten smród... He he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/199.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Willy_y2",
+          "DialogueText": "Ajaj... W deszczowe dni znajdziesz w tych wodach suma. Są trudne do złapania, ale warte wysiłku!",
+          "AudioPath": "assets/pl/Willy/200.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Willy_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Willy",
+          "DialogueText": "Mogłem wziąć wędkę.",
+          "AudioPath": "assets/pl/Willy/201.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Willy",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Willy_y2",
+          "DialogueText": "Ajaj, w tych wodach jest pełno dużych ryb. Szkoda, że nie wziąłem ze sobą wędki! {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Willy/202.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Willy_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Willy",
+          "DialogueText": "Uszanowanko, {Farmer_Name}. Próbujesz trochę odetchnąć od tego całego gwaru?",
+          "AudioPath": "assets/pl/Willy/203.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Willy",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Willy",
+          "DialogueText": "Tak szczerze, wolałbym połowić ryby.",
+          "AudioPath": "assets/pl/Willy/204.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Willy_y2",
+          "DialogueText": "O mnie się nie martw, przyjdę po zupę... Po prostu cieszę się tą chwilą z moją fajką! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Willy/205.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Willy_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Willy",
+          "DialogueText": "Większość nocnych ryb boi się światła... Te są dziwne.",
+          "AudioPath": "assets/pl/Willy/206.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Willy",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Willy_y2",
+          "DialogueText": "To stara wędkarska zasada... Gdy wyłowisz meduzę księżycowego światła, musisz ją wrzucić z powrotem do wody. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Willy/207.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Willy_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Willy",
+          "DialogueText": "Chcesz usłyszeć legendę Gwiazdy Polarnej?",
+          "AudioPath": "assets/pl/Willy/208.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Willy",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Willy",
+          "DialogueText": "Na nocnym, zimowym niebie znajduje się jasna gwiazda widoczna tylko z tego miejsca. Nikt nie wie czemu... Ale w dawnych czasach, wszyscy przybywali z dalekich krajów by ją zobaczyć.",
+          "AudioPath": "assets/pl/Willy/209.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Willy",
+          "DialogueText": "Wierzyli, że każdy, kto popatrzył na Gwiazdę Polarną był obdarowany szczęściem. Niektórzy nawet myślą, że ten tajemniczy owoc znany jako =Stardrop jest w jakiś sposób powiązany z Gwiazdą Polarną.",
+          "AudioPath": "assets/pl/Willy/210.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Willy",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Willy",
+          "DialogueText": "Baw się dobrze.",
+          "AudioPath": "assets/pl/Willy/211.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Willy_y2",
+          "DialogueText": "Jestem prostym człowiekiem, {Farmer_Name}... Jestem wdzięczny za solidny dach nad głową i gorącą puszkę fasoli na śniadanie'! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/212.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Willy_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Willy",
+          "DialogueText": "Hej, {Farmer_Name}. Bierzesz udział w zawodach?",
+          "AudioPath": "assets/pl/Willy/213.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Willy",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Willy",
+          "DialogueText": "Tak trzymać! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/214.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Willy",
+          "DialogueText": "Zobaczymy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/215.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Willy",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Willy",
+          "DialogueText": "Cóż, pomyśl o tym, że to może być dobry trening! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/216.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Willy_y2",
+          "DialogueText": "Ajaj, całe miasteczko będzie oglądać nasz mały turniej. Dajmy im wszystkim dobry pokaz.",
+          "AudioPath": "assets/pl/Willy/217.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Willy_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Willy:s0",
+          "DialogueText": "To wspaniałe! Gdyby tylko mój tatko tu był, to by oszalał.",
+          "AudioPath": "assets/pl/Willy/218.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Willy:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Willy:s1",
+          "DialogueText": "Wygląda wspaniale. Dziękuję!",
+          "AudioPath": "assets/pl/Willy/219.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Willy:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Willy:s2",
+          "DialogueText": "Hmmm... lubisz takie coś?",
+          "AudioPath": "assets/pl/Willy/220.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Willy:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Willy:s3",
+          "DialogueText": "... *niuch*... Chyba to wrzucę do pomyj.",
+          "AudioPath": "assets/pl/Willy/221.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Willy:s3",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Willy:s4",
+          "DialogueText": "Prezent! Dzięki.",
+          "AudioPath": "assets/pl/Willy/222.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Willy:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy",
+          "DialogueText": "Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...",
+          "AudioPath": "assets/pl/Willy/246.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityLow_Willy",
+          "DialogueText": "To była najbardziej żylasta ryba jaką kiedykolwiek jadłem... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/247.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityLow_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy",
+          "DialogueText": "Ahoj... pamiętasz {2} co od Ciebie kupiłem? Cóż, upichciłem se to na kolację...",
+          "AudioPath": "assets/pl/Willy/248.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/PurchasedItem_Pierre_QualityHigh_Willy",
+          "DialogueText": "To była najwspanialsza ryba jaką kiedykolwiek jadłem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/249.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_Pierre_QualityHigh_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_willy_rescue",
+          "DialogueText": "Wszystko w porządku? Znalazłem Cię na brzegu, młodzieńcze. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/250_male.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_willy_rescue",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_willy_rescue",
+          "DialogueText": "Wszystko w porządku? Znalazłem Cię na brzegu, panienko. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/251_female.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_willy_rescue",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_willy_rescue",
+          "DialogueText": "Martwiłem się o Ciebie... Myślałem, że już po Tobie! Następnym razem uważaj... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/252.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_willy_rescue",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/Island_willy_rescue",
+          "DialogueText": "Ta wyspa może być niebezpieczna.",
+          "AudioPath": "assets/pl/Willy/253.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Island_willy_rescue",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "MovieReactions/Willy_like_BeforeMovie",
+          "DialogueText": "He he... Nigdy nie odmówiłbym dobrego filmu!",
+          "AudioPath": "assets/pl/Willy/254.ogg",
+          "TranslationKey": "Strings/MovieReactions:Willy_like_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Willy_like_AfterMovie",
+          "DialogueText": "Ach, przypomina mi się opowieść, którą mój tatko opowiadał...",
+          "AudioPath": "assets/pl/Willy/255.ogg",
+          "TranslationKey": "Strings/MovieReactions:Willy_like_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:SquidFest_Willy",
+          "DialogueText": "Po jakimś czasie zaczynasz wyczuwać zachowanie kałamarnicy. Można rozpoznać co bierze, zanim to w ogóle zobaczysz.",
+          "AudioPath": "assets/pl/Willy/256.ogg",
+          "TranslationKey": "Strings/1_6_Strings:SquidFest_Willy",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Willy",
+          "DialogueText": "Ach, nie ma to jak zapach grilowanej krewetki z gorący dzień.",
+          "AudioPath": "assets/pl/Willy/257.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Willy",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_DesertFishing1",
+          "DialogueText": "Wyzwanie Williego: Złap 3 Ryby piaskowe.",
+          "AudioPath": "assets/pl/Willy/258.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_DesertFishing1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge",
+          "DialogueText": "Wyzwanie Williego",
+          "AudioPath": "assets/pl/Willy/259.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Description_1",
+          "DialogueText": "Willi dał Ci wyzwanie na złowienie 3 Ryb piaskowych.",
+          "AudioPath": "assets/pl/Willy/260.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Description_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_1",
+          "DialogueText": "Ach, masz je. Ekscytująca zdobycz, prawda?",
+          "AudioPath": "assets/pl/Willy/261.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_1",
+          "DialogueText": "Oto 25 Jajek Calico w nagrodę.",
+          "AudioPath": "assets/pl/Willy/262.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_1",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Description_2",
+          "DialogueText": "Willi dał Ci wyzwanie na złowienie Karpia skorpiona.",
+          "AudioPath": "assets/pl/Willy/263.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Description_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_2",
+          "DialogueText": "Ach, udało Ci się. Trudna zdobycz, nie uważasz?",
+          "AudioPath": "assets/pl/Willy/264.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_2",
+          "DialogueText": "Oto 50 Jajek Calico w nagrodę.",
+          "AudioPath": "assets/pl/Willy/265.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Description_3",
+          "DialogueText": "Willi dał Ci wyzwanie na znalezienie \"Złotego Spławika\".",
+          "AudioPath": "assets/pl/Willy/266.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Description_3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_3",
+          "DialogueText": "Czy to mój ulubiony złoty spławik?",
+          "AudioPath": "assets/pl/Willy/267.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_3",
+          "DialogueText": "I czuć, że leciutko pachnie rybą... he he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/268.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_3",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_Challenge_Return_3",
+          "DialogueText": "Oto 30 Jajek Calico w nagrodę.",
+          "AudioPath": "assets/pl/Willy/269.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_Challenge_Return_3",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_DesertFishing2",
+          "DialogueText": "Wyzwanie Williego: Złów karpia skorpiona.",
+          "AudioPath": "assets/pl/Willy/270.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_DesertFishing2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_DesertFishing3",
+          "DialogueText": "Willy: Ryba połknęła mój złoty spławik! Mam 30 jajek dla osoby, która mi go zwróci.",
+          "AudioPath": "assets/pl/Willy/271.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_DesertFishing3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Willy_GoldenBobber",
+          "DialogueText": "Znajdź i oddaj Złoty Spławik Williemu.",
+          "AudioPath": "assets/pl/Willy/272.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Willy_GoldenBobber",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fri.000",
+          "DialogueText": "Przez te solone ryby burczy mi w brzuchu.",
+          "AudioPath": "assets/pl/Willy/273.ogg",
+          "TranslationKey": "Strings/schedules/Willy:Fri.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "spring_9.001",
+          "DialogueText": "Ech, haczyk utknął mi w kciuku... doktor go obetnie.",
+          "AudioPath": "assets/pl/Willy/274.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.001",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "Ach, nie ma to jak ciepły napitek dla relaksu po tak mroźnym dniu...",
+          "AudioPath": "assets/pl/Willy/275.ogg",
+          "TranslationKey": "Strings/schedules/Willy:winter_17.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "spring_9.002",
+          "DialogueText": "Ałć! To boli, doktorze! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/276.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.002",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "spring_9.000",
+          "DialogueText": "Jestem dziś umówiony do lekarza, więc jeśli czegoś Ci trzeba, to się pospiesz.",
+          "AudioPath": "assets/pl/Willy/277.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "spring_9.003",
+          "DialogueText": "Muszę się trochę ogrzać. Trzeba się przygotować na kolejną zimną noc na oceanie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/278.ogg",
+          "TranslationKey": "Strings/schedules/Willy:spring_9.003",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat.000",
+          "DialogueText": "Ach... Nie ma to jak odpoczynek z browcem po całym dniu łowienia ryb. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/279.ogg",
+          "TranslationKey": "Strings/schedules/Willy:Sat.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_15.000",
+          "DialogueText": "Nie mogę się wyspać przez ten cały nocny rynek... ech, ale nic nie szkodzi.",
+          "AudioPath": "assets/pl/Willy/280.ogg",
+          "TranslationKey": "Strings/schedules/Willy:winter_15.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Idziesz do łodzi podwodnej? Jej kapitan to mój stary druh.",
+          "AudioPath": "assets/pl/Willy/281.ogg",
+          "TranslationKey": "Strings/schedules/Willy:winter_16.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_109",
+          "DialogueText": "Hej, udało Ci się! Nieźle. Jestem zaskoczony.",
+          "AudioPath": "assets/pl/Willy/282.ogg",
+          "TranslationKey": "Data/Quests:109",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_109",
+          "DialogueText": "Zima to dobra pora na przechadzkę ze starą wędką, co nie?",
+          "AudioPath": "assets/pl/Willy/283.ogg",
+          "TranslationKey": "Data/Quests:109",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Quest_124",
+          "DialogueText": "Hej, niezła zdobycz! Masz w sobie krew wędkarza. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/284.ogg",
+          "TranslationKey": "Data/Quests:124",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/285.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/286.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/287.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4275",
+          "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/288.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/289_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/290_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4279",
+          "DialogueText": "Och... to na moje urodziny?... Dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/291.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4281",
+          "DialogueText": "Och, urodzinowy prezent! Dziękuję.",
+          "AudioPath": "assets/pl/Willy/292.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Willy/293.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Willy/294.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Willy/295.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Willy/296.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Willy/297.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Shop_FishShop",
+          "DialogueText": "Sorki za ten smród.",
+          "AudioPath": "assets/pl/Willy/298.ogg",
+          "TranslationKey": "Data/Shops:FishShop:Rare",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Shop_FishShop",
+          "DialogueText": "Potrzebujesz rzeczy do wędkowania? Jesteś w dobrym miejscu.",
+          "AudioPath": "assets/pl/Willy/299.ogg",
+          "TranslationKey": "Data/Shops:FishShop:Default",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "BoatTunnel_willyText_firstRide",
+          "DialogueText": "Wygląda jak nowa!",
+          "AudioPath": "assets/pl/Willy/300.ogg",
+          "TranslationKey": "Strings/Locations:BoatTunnel_willyText_firstRide",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "BoatTunnel_willyText_random0",
+          "DialogueText": "Wybacz jeśli śmierdzę rybą, heh!",
+          "AudioPath": "assets/pl/Willy/301.ogg",
+          "TranslationKey": "Strings/Locations:BoatTunnel_willyText_random0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Willy/302.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13527",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Willy/303.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13528",
+          "DialogueText": "Cześć {Farmer_Name}!",
+          "AudioPath": "assets/pl/Willy/304.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Willy/305.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "Nagrywamy „Czy to naprawdę to?” – nazwę przedmiotu ({0}) gra pokazuje tylko na ekranie."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Willy/306.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Willy/307_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Willy/308_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Willy/309_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Willy/310_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Willy/311_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Willy/312_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Willy/313.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Willy/314.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Willy/315.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Willy/316.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Willy/317.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Willy/318.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Willy/319.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Willy/320.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Willy/321.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Po ugotowaniu, cały dom śmierdział {3}... Nawet nie chcę wiedzieć skąd Pierre znalazł coś takiego. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Willy/322.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Willy/323.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Willy/324.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Willy/325.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Po ugotowaniu, cały dom pachniał {3}... Mówię Ci, strzał w dziesiątkę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/326.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cieszę się, że magazyny Pierre znowu się rozwijają.",
+          "AudioPath": "assets/pl/Willy/327.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Willy/328.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}? Chyba ja to mam...",
+          "AudioPath": "assets/pl/Willy/329.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Było bardzo dobrej jakości. Podziwiam.",
+          "AudioPath": "assets/pl/Willy/330.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}?",
+          "AudioPath": "assets/pl/Willy/331.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Jakość była przyzwoita.",
+          "AudioPath": "assets/pl/Willy/332.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Na ostatnich zakupach Pierre pokazał mi {1} {2}. Chyba kupił to od Ciebie.",
+          "AudioPath": "assets/pl/Willy/333.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Jak od Ciebie, to biorę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/334.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Willy/335.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Powiedział, że wyhodował to w swoim ogródku. Nikt mi nie mówił, że Pierre jest takim utalentowanym rolnikiem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Willy/336.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Chyba masz niezłego rywala, co?",
+          "AudioPath": "assets/pl/Willy/337.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Willy/338.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mówił, że sam to ugotował z lokalnych składników. Nikt nie powiedział, że Pierre to taki {3} {4} kucharz!",
+          "AudioPath": "assets/pl/Willy/339.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Foraged",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra. Powiedział, że sam to znalazł przeszukując góry. Nikt nie powiedział, że Pierre to taki dobry zbieracz!",
+          "AudioPath": "assets/pl/Willy/340.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Foraged",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        }
+      ]
+    }
+  ]
+}

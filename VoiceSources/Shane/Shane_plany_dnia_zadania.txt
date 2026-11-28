@@ -1,0 +1,41 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 460.ogg).
+
+DialogueFrom: Strings/schedules/Shane:marriage_Fri.001  [plan dnia]
+DialogueText: Hmm... muszę przyznać, Joja Market ma ogromny wybór mrożonek.
+AudioName: 460.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Mon.001  [plan dnia]
+DialogueText: Jestem przywiązany do tego lasu... Tyle wspomnień...
+AudioName: 461.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Fri.000  [plan dnia]
+DialogueText: Nie martw się. To tylko Joja Cola.
+AudioName: 462.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Fri.002  [plan dnia]
+DialogueText: Gdybym nie zamawiał zimnego piwerka, Gus by zbankrutował. Wykonuję swój obowiązek obywatelski. Wrócę do domu około 22.
+AudioName: 463.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Mon.000  [plan dnia]
+DialogueText: Och, hej {Farmer_Name}. Już za mną tęsknisz? {Portrait:Custom:6}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 464.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:winter_15.000  [plan dnia]
+DialogueText: Tej nocy nie idę do knajpy ze względu na Jas...
+AudioName: 465.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Sun.000  [plan dnia]
+DialogueText: Ale tu śmierdzi.
+AudioName: 466.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Sun.001  [plan dnia]
+DialogueText: Mam chwilową blokadę... Powinienem kupić Joja Classic czy Joja Bluu? Trochę tu posiedzę...
+AudioName: 467.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Shane:marriage_Fri.003  [plan dnia]
+DialogueText: Jeszcze jedna runda... {Portrait:Happy}
+AudioName: 468.ogg
+--------------------------------------------------

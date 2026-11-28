@@ -1,0 +1,1569 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Evelyn.pl",
+      "VoicePackName": "Głos Serca (Evelyn)",
+      "Character": "Evelyn",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Dzień dobry i witaj w naszej małej społeczności, drogie dziecko!",
+          "AudioPath": "assets/pl/Evelyn/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Introduction",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Możesz mówić mi 'babciu', jeśli chcesz. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Introduction",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Och, dajesz mi to? Bardzo dziękuję, drogie dziecko. To naprawdę wyjątkowy prezent!",
+          "AudioPath": "assets/pl/Evelyn/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:AcceptGift_(O)StardropTea",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)170",
+          "DialogueText": "Dziękuję, skarbie. Wszędzie szukałam moich okularów...",
+          "AudioPath": "assets/pl/Evelyn/4.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:AcceptGift_(O)170",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)170",
+          "DialogueText": "O rety! Ale się zabrudziły...",
+          "AudioPath": "assets/pl/Evelyn/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:AcceptGift_(O)170",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "George, kochanie... to już koniec? To było dobre życie, ale zanim odejdę, chciałabym zobaczyć, jak Alex sobie radzi... {Portrait:Sad}%noturn",
+          "AudioPath": "assets/pl/Evelyn/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:GreenRain",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Och, moje dziecko... Cieszę się, że wszystko dobrze się skończyło. A moje kwiatki wyglądają lepiej niż kiedykolwiek!",
+          "AudioPath": "assets/pl/Evelyn/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:GreenRainFinished",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Najwidoczniej kwiaty kochają ten deszcz...",
+          "AudioPath": "assets/pl/Evelyn/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:GreenRain_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptGift_Positive_forage_item_beach",
+          "DialogueText": "Dziękuję, skarbie. To przywołuje takie cudowne wspomnienia...",
+          "AudioPath": "assets/pl/Evelyn/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:AcceptGift_Positive_forage_item_beach",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "reject_867",
+          "DialogueText": "Och, jestem pewna, że Georgowi się to spodoba!",
+          "AudioPath": "assets/pl/Evelyn/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:reject_867",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "cropMatured_591",
+          "DialogueText": "Własnoręcznie hodowane tulipany to piękny wiosenny prezent.",
+          "AudioPath": "assets/pl/Evelyn/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:cropMatured_591",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "cc_Complete",
+          "DialogueText": "Wspaniale mieć z powrotem stary dom kultury. Mamy tam tyle wspomnień... To wyjątkowe miejsce.",
+          "AudioPath": "assets/pl/Evelyn/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:cc_Complete",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Cieszę się z waszego szczęścia, skarbie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:married",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Widok zakochanych młodych ludzi podnosi na duchu starsze babcie, takie jak ja.",
+          "AudioPath": "assets/pl/Evelyn/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:married",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "divorce",
+          "DialogueText": "Następnym razem, zanim weźmiesz ślub, upewnij się, że to ta właściwa osoba... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:divorce",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "reject_866",
+          "DialogueText": "To bardzo ładna róża, skarbie. Może pokaż ją Emily. Kojarzy mi się z nią.",
+          "AudioPath": "assets/pl/Evelyn/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:reject_866",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "Och, kochane dziecko... Jakie to miłe z twojej strony, że fundujesz Pam nowy dom! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:pamHouseUpgrade",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "Moje serce mięknie, gdy ludzie tak o siebie dbają...",
+          "AudioPath": "assets/pl/Evelyn/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:pamHouseUpgrade",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Możesz mówić, że jestem starym szaleńcem... ale chyba wiem, kto zafundował Pam nowy dom... *mrug*",
+          "AudioPath": "assets/pl/Evelyn/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:pamHouseUpgradeAnonymous",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "O rety! Jakie to miłe, skarbie. Czemu nie... Chętnie pójdę na film! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:MovieInvitation",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Spotkamy się w kinie.",
+          "AudioPath": "assets/pl/Evelyn/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:MovieInvitation",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "O ja cię... Jaki przepiękny dzień. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Evelyn/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Nie zwracaj uwagi na mojego męża, Georga. Nie jest zbyt przyjazny dla nieznajomych.",
+          "AudioPath": "assets/pl/Evelyn/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Ale jak go lepiej poznasz, na pewno się otworzy.",
+          "AudioPath": "assets/pl/Evelyn/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jestem pewna, że kiedyś zostaniecie przyjaciółmi! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Tue",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Jeśli ciekawi cię mój mąż, powiem ci mały sekret: bardzo lubi pory! Można je znaleźć w górach o tej porze roku.",
+          "AudioPath": "assets/pl/Evelyn/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Tue",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "# {Portrait:Happy} evelynGarden1",
+          "AudioPath": "assets/pl/Evelyn/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Wczoraj widziałam piękną rodzinę motyli, opalającą się w miejskim ogródeczku.$k",
+          "AudioPath": "assets/pl/Evelyn/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Nasz dobry burmistrz powierzył mi opiekę nad tymi ogródkami.",
+          "AudioPath": "assets/pl/Evelyn/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Wed",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Tygodniami pracowałam nad tymi donicami, więc postaraj się na nie nie nadepnąć!",
+          "AudioPath": "assets/pl/Evelyn/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Wed",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Dziś upiekę ciasteczka. Lubię je robić w kształcie kwiatków na wiosnę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Może kiedyś zdradzę ci przepis.",
+          "AudioPath": "assets/pl/Evelyn/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "George spędza całe dnie przed tym głupim telewizorem.",
+          "AudioPath": "assets/pl/Evelyn/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Chciałabym, żeby częściej wychodził na zewnątrz. Trochę świeżego powietrza dobrze by mu zrobiło.",
+          "AudioPath": "assets/pl/Evelyn/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Fri",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Kiedyś uwielbiałam patrzeć na chmury, ale teraz ciężko mi je dostrzec.",
+          "AudioPath": "assets/pl/Evelyn/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Moje oczy nie są już takie jak kiedyś. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Dobrze jest mieszkać blisko oceanu. Szum fal pomaga mi zasnąć.",
+          "AudioPath": "assets/pl/Evelyn/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Za młodu zbieraliśmy muszelki po przypływie. Ach... kiedyś to było...",
+          "AudioPath": "assets/pl/Evelyn/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Tue6",
+          "DialogueText": "Miło z twojej strony, że odwiedzasz mnie i Georga.",
+          "AudioPath": "assets/pl/Evelyn/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Tue6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue6",
+          "DialogueText": "Bez młodzieży świat starzałby się szybciej. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Tue6",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event_cookies1",
+          "DialogueText": "Dziękuję! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Event_cookies1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event_cookies2",
+          "DialogueText": "Co mówisz, dziecko? Mogłabym przysiąc, że słyszałam 'krążek hokejowy'... *ech* Mój słuch nie jest już taki jak dawniej. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:Event_cookies2",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Czuję się bardziej ożywiona w taką piękną pogodę. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Evelyn/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Mon_inlaw_Alex",
+          "DialogueText": "Jak tam mój wnusio? Myślę, że jest szczęśliwy, mieszkając na farmie.",
+          "AudioPath": "assets/pl/Evelyn/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Mon_inlaw_Alex",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Mon_inlaw_Alex",
+          "DialogueText": "Zasługuje na szczęście... to dobre dziecko.",
+          "AudioPath": "assets/pl/Evelyn/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Mon_inlaw_Alex",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "George zawsze jest mniej zrzędliwy latem. Ciepło łagodzi jego obolałe kości.",
+          "AudioPath": "assets/pl/Evelyn/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Możesz o tym nie wiedzieć, ale ja wiem. Znam go ponad sześćdziesiąt lat!",
+          "AudioPath": "assets/pl/Evelyn/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Nasz dobry burmistrz powierzył mi opiekę nad miejskimi ogródkami.",
+          "AudioPath": "assets/pl/Evelyn/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Tygodniami pracowałam nad tymi donicami, więc postaraj się na nie nie nadepnąć!",
+          "AudioPath": "assets/pl/Evelyn/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Dziś upiekę kokosowe ciasteczka w kształcie małych palm. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Może kiedyś zdradzę ci przepis.",
+          "AudioPath": "assets/pl/Evelyn/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Uważaj na siebie, dziecko, żebyś nie dostał udaru słonecznego!",
+          "AudioPath": "assets/pl/Evelyn/52_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Sat",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Uważaj na siebie, dziecko, żebyś nie dostała udaru słonecznego!",
+          "AudioPath": "assets/pl/Evelyn/53_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Sat",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Sun",
+          "DialogueText": "Pachnący groszek już zakwitł.",
+          "AudioPath": "assets/pl/Evelyn/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Sun",
+          "DialogueText": "Cudownie pachnie, prawda?",
+          "AudioPath": "assets/pl/Evelyn/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Thu4",
+          "DialogueText": "Zawsze mam więcej gości, gdy tylko zacznę piec ciasteczka.",
+          "AudioPath": "assets/pl/Evelyn/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Thu4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Thu4",
+          "DialogueText": "Ten przepis mam jeszcze po mojej mamie.",
+          "AudioPath": "assets/pl/Evelyn/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:summer_Thu4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Mon",
+          "DialogueText": "Z każdym rokiem bardziej doceniam zmieniające się pory roku. Młodym czas przemija szybciej.",
+          "AudioPath": "assets/pl/Evelyn/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Tue",
+          "DialogueText": "Dodałam rodzynki do owsianki Georga... ale nawet się nie odezwał. Czy on w ogóle je zauważył?",
+          "AudioPath": "assets/pl/Evelyn/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Wed",
+          "DialogueText": "Nasz dobry burmistrz powierzył mi opiekę nad miejskimi ogródkami.",
+          "AudioPath": "assets/pl/Evelyn/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Wed",
+          "DialogueText": "Jesienne kwiaty są delikatne, więc proszę, nie nadepnij na nie! Wiem, że wy młodzi lubicie wszędzie biegać.",
+          "AudioPath": "assets/pl/Evelyn/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Upiekę dziś ciasteczka w kształcie małych dyń. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Może kiedyś zdradzę ci przepis.",
+          "AudioPath": "assets/pl/Evelyn/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Przyjaźnisz się z Alexem?",
+          "AudioPath": "assets/pl/Evelyn/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Czasami bardzo się o niego martwię.",
+          "AudioPath": "assets/pl/Evelyn/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Sat_inlaw_Alex",
+          "DialogueText": "Och, witaj mój drogi. Myślę teraz o tobie jak o moim wnuczku. {Portrait:Happy}¦Och, witaj moja droga. Myślę teraz o tobie jak o mojej wnuczce. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Sat_inlaw_Alex",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Sun",
+          "DialogueText": "Może mój wzrok już mnie zawodzi, ale nos jeszcze nie!",
+          "AudioPath": "assets/pl/Evelyn/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Sun",
+          "DialogueText": "Czuję zapach wilgotnych liści i grzybów. Przypomina mi się, jak bawiłam się w lesie, gdy byłam mała.",
+          "AudioPath": "assets/pl/Evelyn/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:fall_Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Mon",
+          "DialogueText": "Uważaj, żeby nie poślizgnąć się na lodzie, drogie dziecko.",
+          "AudioPath": "assets/pl/Evelyn/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Tue",
+          "DialogueText": "Nie jest ci zimno? Załóż kurtkę!",
+          "AudioPath": "assets/pl/Evelyn/70.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Tue",
+          "DialogueText": "Ta pogoda nie służy moim stawom... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/71.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Cały rok dbałam o ogródki, a teraz zimą są przykryte śniegiem.",
+          "AudioPath": "assets/pl/Evelyn/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "I tak lubię na nie patrzeć.",
+          "AudioPath": "assets/pl/Evelyn/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Dziś piekę ciasteczka. Są w kształcie małych gwiazdek. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Może kiedyś zdradzę ci przepis.",
+          "AudioPath": "assets/pl/Evelyn/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Sat",
+          "DialogueText": "Mieszkamy tu już ponad 30 lat.",
+          "AudioPath": "assets/pl/Evelyn/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Sat",
+          "DialogueText": "Widzieliśmy, jak wiele osób przychodziło i odchodziło. Twój dziadek na przykład... szkoda mi go... *ech*",
+          "AudioPath": "assets/pl/Evelyn/77.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sat",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "winter_Sat6",
+          "DialogueText": "Och... moje drogie dziecko. Masz oczy po dziadku... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/78.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sat6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Sat6",
+          "DialogueText": "Tak... tak... Dobrze go znałam.",
+          "AudioPath": "assets/pl/Evelyn/79.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sat6",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Zjedz coś ciepłego, najlepiej zupę, żeby się rozgrzać.",
+          "AudioPath": "assets/pl/Evelyn/80.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "I pamiętaj o kurtce!",
+          "AudioPath": "assets/pl/Evelyn/81.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Sat8",
+          "DialogueText": "{Farmer_Name}, mówiłam ci, że mieszkamy tu z Georgem już ponad 30 lat?",
+          "AudioPath": "assets/pl/Evelyn/82.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sat8",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "winter_Sat8",
+          "DialogueText": "Mam nadzieję, że ty też zostaniesz tu na dłużej. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/83.ogg",
+          "TranslationKey": "Characters/Dialogue/Evelyn:winter_Sat8",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Kiedy wstałam, usłyszałam kapanie... Wydaje mi się, że dach może przeciekać. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/84.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Dawniej George od razu by się wspiął i go naprawił... *ech* {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/85.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Evelyn",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s0",
+          "DialogueText": "Dzień dobry, drogie dziecko.",
+          "AudioPath": "assets/pl/Evelyn/86.ogg",
+          "TranslationKey": "Events/Farm:900553:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s1",
+          "DialogueText": "To był piękny spacer... długo tu nie byłam. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/87.ogg",
+          "TranslationKey": "Events/Farm:900553:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s2",
+          "DialogueText": "Wygląda nawet lepiej niż pamiętam! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/88.ogg",
+          "TranslationKey": "Events/Farm:900553:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s3",
+          "DialogueText": "Proszę, mam coś dla Ciebie.",
+          "AudioPath": "assets/pl/Evelyn/89.ogg",
+          "TranslationKey": "Events/Farm:900553:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s4",
+          "DialogueText": "To prezent... od ogrodnika dla ogrodnika. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/90.ogg",
+          "TranslationKey": "Events/Farm:900553:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s5",
+          "DialogueText": "Otrzymano 'Doniczka'",
+          "AudioPath": "assets/pl/Evelyn/91.ogg",
+          "TranslationKey": "Events/Farm:900553:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s6",
+          "DialogueText": "Te doniczki są bardzo przydatne. Możesz w nich sadzić uprawy z innych pór roku w swoim domu!",
+          "AudioPath": "assets/pl/Evelyn/92.ogg",
+          "TranslationKey": "Events/Farm:900553:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s7",
+          "DialogueText": "I ładnie wyglądają na zewnątrz... ale wtedy można w nich sadzić tylko uprawy z danej pory roku.",
+          "AudioPath": "assets/pl/Evelyn/93.ogg",
+          "TranslationKey": "Events/Farm:900553:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s8",
+          "DialogueText": "Jeśli chcesz więcej, łatwo je zrobić... proszę, mam tu starą gazetkę z instrukcją.",
+          "AudioPath": "assets/pl/Evelyn/94.ogg",
+          "TranslationKey": "Events/Farm:900553:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s9",
+          "DialogueText": "Umiesz wytworzyć 'Doniczka'",
+          "AudioPath": "assets/pl/Evelyn/95.ogg",
+          "TranslationKey": "Events/Farm:900553:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s10",
+          "DialogueText": "Cóż, muszę wracać. George robi się zrzędliwy, jak nie dostanie swojej owsianki na czas...",
+          "AudioPath": "assets/pl/Evelyn/96.ogg",
+          "TranslationKey": "Events/Farm:900553:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Farm/900553:s11",
+          "DialogueText": "Życzę miłego dnia, słonko! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/97.ogg",
+          "TranslationKey": "Events/Farm:900553:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s0",
+          "DialogueText": "Och! {Farmer_Name}! Zastanawiasz się co tak pachnie?",
+          "AudioPath": "assets/pl/Evelyn/98.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s0",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s1",
+          "DialogueText": "To miłe z Twojej strony! Właśnie piekę moje słynne ciasteczka! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/99.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s2",
+          "DialogueText": "Może masz ochotę spróbować?",
+          "AudioPath": "assets/pl/Evelyn/100.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s3",
+          "DialogueText": "I jak?",
+          "AudioPath": "assets/pl/Evelyn/101.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s4",
+          "DialogueText": "Przepyszne!",
+          "AudioPath": "assets/pl/Evelyn/102.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s5",
+          "DialogueText": "Trochę jak żucie krążka hokejowego",
+          "AudioPath": "assets/pl/Evelyn/103.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s6",
+          "DialogueText": "Myślę, że znam Cię na tyle dobrze żeby podać Ci mój przepis. Tylko zachowaj go w tajemnicy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/104.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/JoshHouse/19:s7",
+          "DialogueText": "Poznajesz przepis na 'Ciasteczka'",
+          "AudioPath": "assets/pl/Evelyn/105.ogg",
+          "TranslationKey": "Events/JoshHouse:19:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Evelyn",
+          "DialogueText": "Chciałabym, żeby Gus dodał jakieś wegetariańskie opcje. Może szaszłyki z cukinii?",
+          "AudioPath": "assets/pl/Evelyn/106.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Evelyn_y2",
+          "DialogueText": "Hi hi... Może powinnam zacząć kolekcjonować figurki klaunów...",
+          "AudioPath": "assets/pl/Evelyn/107.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Evelyn",
+          "DialogueText": "Chciałabym, żeby Gus miał też jakieś opcje wegetariańskie. Może szaszłyki z cukinii?",
+          "AudioPath": "assets/pl/Evelyn/108.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Evelyn_y2",
+          "DialogueText": "Drogie dziecko, możesz podać placki z cukinii? {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Evelyn/109.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Evelyn",
+          "DialogueText": "Ta uroczystość jest tradycją tak długo, jak sięgam pamięcią.",
+          "AudioPath": "assets/pl/Evelyn/110.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Evelyn",
+          "DialogueText": "Tradycja łączy nas jednocześnie z przeszłością i przyszłością... Bardzo mnie to cieszy.",
+          "AudioPath": "assets/pl/Evelyn/111.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Evelyn",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Evelyn_y2",
+          "DialogueText": "",
+          "AudioPath": "assets/pl/Evelyn/112.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Evelyn_y2",
+          "PageIndex": 0,
+          "DisplayPattern": "$y 'Masz na swojej farmie kury?_Tak_To dobrze! Jestem pewna, że składają przepyszne jajka..._Nie_Wiosna to dobry czas, żeby zacząć hodować kury, nie sądzisz?"
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Evelyn",
+          "DialogueText": "Cały tydzień pracowałam nad tymi ozdobami. Podobają Ci się?",
+          "AudioPath": "assets/pl/Evelyn/113.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Evelyn_y2",
+          "DialogueText": "Jak byłam młodsza, to przychodziłam tu. To miejsce prawie nic się nie zmieniło. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Evelyn/114.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Evelyn",
+          "DialogueText": "Ach... Zapach oceanu przypomina mi o starych czasach.",
+          "AudioPath": "assets/pl/Evelyn/115.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Evelyn_y2",
+          "DialogueText": "Nie jedz za dużo drogie dziecko. Nie chciałabym żeby zabolał cie brzuszek.%noturn {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Evelyn/116.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Evelyn",
+          "DialogueText": "Pamiętam jak byłam jeszcze dzieckiem i widziałam meduzy. Och, ale się ucieszyłam!",
+          "AudioPath": "assets/pl/Evelyn/117.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Evelyn",
+          "DialogueText": "Ale to było dawno temu... Teraz jestem mniej energiczna.",
+          "AudioPath": "assets/pl/Evelyn/118.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Evelyn",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Evelyn_y2",
+          "DialogueText": "Razem z Georgem oglądamy jak meduzy przypływają i odpływają odkąd sięgam pamięcią. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/119.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Evelyn",
+          "DialogueText": "O, matulu! Nie jest Ci zimno, Skarbeńku? Można zamarznąć!",
+          "AudioPath": "assets/pl/Evelyn/120.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Evelyn_y2",
+          "DialogueText": "W każdej chwili możesz dołączyć do naszego stołu, Kochanie. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Evelyn/121.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Evelyn",
+          "DialogueText": "Czy mówiłam Ci już jak ja i George poznaliśmy się po raz pierwszy? Obrzucił mnie śnieżkami podczas tego festiwalu.",
+          "AudioPath": "assets/pl/Evelyn/122.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Evelyn",
+          "DialogueText": "Wtedy był dżentelmenem i podszedł do mnie sprawdzić czy wszystko ze mną w porządku. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/123.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Evelyn",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Evelyn_y2",
+          "DialogueText": "Nigdy nie wiesz... to może być ostatni raz, kiedy lepimy z Alexem bałwana.",
+          "AudioPath": "assets/pl/Evelyn/124.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Evelyn_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Evelyn_y2",
+          "DialogueText": "Życie jest krótkie. Pamiętaj, żeby cieszyć się każdą chwilą.",
+          "AudioPath": "assets/pl/Evelyn/125.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Evelyn_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Evelyn:s0",
+          "DialogueText": "!!! To cudowne! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Evelyn/126.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Evelyn:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Evelyn:s0",
+          "DialogueText": "Dzięki Tobie starsza pani jest szczęśliwa.",
+          "AudioPath": "assets/pl/Evelyn/127.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Evelyn:s0",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Evelyn:s1",
+          "DialogueText": "O rety, to wygląda wspaniale! To miłe z Twojej strony.",
+          "AudioPath": "assets/pl/Evelyn/128.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Evelyn:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Evelyn:s2",
+          "DialogueText": "Um, gdzie ja to położę?",
+          "AudioPath": "assets/pl/Evelyn/129.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Evelyn:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Evelyn:s3",
+          "DialogueText": "... Brzydko pachnie.",
+          "AudioPath": "assets/pl/Evelyn/130.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Evelyn:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Evelyn:s4",
+          "DialogueText": "Jak miło. Dziękuję, drogie dziecko.",
+          "AudioPath": "assets/pl/Evelyn/131.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Evelyn:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_love_BeforeMovie",
+          "DialogueText": "Przed pojawieniem się tego kina, dwadzieścia lat nie widziałam filmu! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/132.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_love_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_love_AfterMovie",
+          "DialogueText": "Bardzo mi się spodobał... Teraz wiesz czemu '{0}' jest klasykiem kina.",
+          "AudioPath": "assets/pl/Evelyn/133.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_love_AfterMovie",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_like_BeforeMovie",
+          "DialogueText": "To bardzo miłe z Twojej strony, że zapraszasz starszą panią na film. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/134.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_like_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_like_AfterMovie",
+          "DialogueText": "Cieszę się, że nadal robią przyzwoite filmy... Miło mi się oglądało!",
+          "AudioPath": "assets/pl/Evelyn/135.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_like_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_dislike_BeforeMovie",
+          "DialogueText": "Nigdy nie przepadałam za strasznymi filmami, ale postaram się obejrzeć go do końca.",
+          "AudioPath": "assets/pl/Evelyn/136.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_dislike_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_dislike_DuringMovie",
+          "DialogueText": "To już koniec? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/137.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_dislike_DuringMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_dislike_DuringMovie_2",
+          "DialogueText": "Evelyn zasłania sobie oczy.",
+          "AudioPath": "assets/pl/Evelyn/138.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_dislike_DuringMovie_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Evelyn_dislike_AfterMovie",
+          "DialogueText": "Przez większość filmu miałam zamknięte oczy... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/139.ogg",
+          "TranslationKey": "Strings/MovieReactions:Evelyn_dislike_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Evelyn",
+          "DialogueText": "Ach... piaski czasu, piaski czasu...",
+          "AudioPath": "assets/pl/Evelyn/140.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Evelyn",
+          "DialogueText": "Witaj drogie dziecko. Proszę, nie spiesz się, będę tu cały dzień!",
+          "AudioPath": "assets/pl/Evelyn/141.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Evelyn",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Thu.000",
+          "DialogueText": "To miejsce jest dla mnie pełne wspomnień. Dziękuję. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/142.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:Thu.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "2.001",
+          "DialogueText": "Och, drogie dziecko. Czy to nagły wypadek? Po co tu przychodzisz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/143.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:2.001",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_17.000",
+          "DialogueText": "To jedna z nowych tradycji w Mieście Pelikan... ale szybko się przyzwyczailiśmy. Prawda, George?",
+          "AudioPath": "assets/pl/Evelyn/144.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:winter_17.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "23.000",
+          "DialogueText": "No no, drogie dziecko... To ważne, żeby Doktor Harvey dobrze cię przebadał. To miły młodzieniec! Uważaj na siebie, dla twoich staruszków.",
+          "AudioPath": "assets/pl/Evelyn/145.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:23.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "23.001",
+          "DialogueText": "Może pan sprawdzić jego płuca? Ciągle kaszle.",
+          "AudioPath": "assets/pl/Evelyn/146.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:23.001",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "2.000",
+          "DialogueText": "W moim wieku zaczniesz widywać doktora o wiele częściej.",
+          "AudioPath": "assets/pl/Evelyn/147.ogg",
+          "TranslationKey": "Strings/schedules/Evelyn:2.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_116",
+          "DialogueText": "Och, dziękuję, drogie dziecko. Ten por wygląda apetycznie. George na pewno się ucieszy.",
+          "AudioPath": "assets/pl/Evelyn/148.ogg",
+          "TranslationKey": "Data/Quests:116",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_116",
+          "DialogueText": "Uwielbia, jak mu dodaję świeżego pora do jajecznicy na śniadanie.",
+          "AudioPath": "assets/pl/Evelyn/149.ogg",
+          "TranslationKey": "Data/Quests:116",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/150.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/151.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/152.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4275",
+          "DialogueText": "Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/153.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4275",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/154_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4277",
+          "DialogueText": "Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/155_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4277",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "NPC.cs.4279",
+          "DialogueText": "Och... To na moje urodziny?... Dzięki. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/156.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4279",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4281",
+          "DialogueText": "Och, urodzinowy prezent! Dzięki.",
+          "AudioPath": "assets/pl/Evelyn/157.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4281",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Evelyn/158.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Evelyn/159.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Evelyn/160.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Evelyn/161.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Evelyn/162.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Evelyn/163.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Evelyn/164.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "Nagrywamy „Czy to naprawdę to?” – nazwę przedmiotu ({0}) gra pokazuje tylko na ekranie."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Evelyn/165.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Evelyn/166_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Evelyn/167_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Evelyn/168_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Evelyn/169_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Evelyn/170_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Evelyn/171_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Evelyn/172.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Evelyn/173.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Evelyn/174.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Evelyn/175.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Evelyn/176.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Evelyn/177.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Evelyn/178.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/179.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Evelyn/180.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Po ugotowaniu, cały dom śmierdział {3}... Nawet nie chcę wiedzieć skąd Pierre znalazł coś takiego. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/181.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Evelyn/182.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/183.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Evelyn/184.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Po ugotowaniu, cały dom pachniał {3}... Mówię Ci, strzał w dziesiątkę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/185.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cieszę się, że magazyny Pierre znowu się rozwijają.",
+          "AudioPath": "assets/pl/Evelyn/186.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Evelyn/187.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}? Chyba ja to mam...",
+          "AudioPath": "assets/pl/Evelyn/188.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Było bardzo dobrej jakości. Podziwiam.",
+          "AudioPath": "assets/pl/Evelyn/189.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}?",
+          "AudioPath": "assets/pl/Evelyn/190.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Jakość była przyzwoita.",
+          "AudioPath": "assets/pl/Evelyn/191.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Na ostatnich zakupach Pierre pokazał mi {1} {2}. Chyba kupił to od Ciebie.",
+          "AudioPath": "assets/pl/Evelyn/192.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Jak od Ciebie, to biorę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/193.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Evelyn/194.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Powiedział, że wyhodował to w swoim ogródku. Nikt mi nie mówił, że Pierre jest takim utalentowanym rolnikiem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/195.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Chyba masz niezłego rywala, co?",
+          "AudioPath": "assets/pl/Evelyn/196.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Evelyn/197.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mówił, że sam to ugotował z lokalnych składników. Nikt nie powiedział, że Pierre to taki {3} {4} kucharz!",
+          "AudioPath": "assets/pl/Evelyn/198.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Foraged",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra. Powiedział, że sam to znalazł przeszukując góry. Nikt nie powiedział, że Pierre to taki dobry zbieracz!",
+          "AudioPath": "assets/pl/Evelyn/199.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Foraged",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/200.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Powiedział, że kupił ją od Ciebie!",
+          "AudioPath": "assets/pl/Evelyn/201.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Obiad był z tego... em, uch... Przepełnił dom {3} smrodem. Nawet nie chcę wiedzieć skąd to masz... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Evelyn/202.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Evelyn/203.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Evelyn/204.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Wyglądało na świeże!",
+          "AudioPath": "assets/pl/Evelyn/205.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Po ugotowaniu cały dam pachniał {3}.. Hit! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/206.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Powiedział, że kupił ją od Ciebie... Gratuluję!",
+          "AudioPath": "assets/pl/Evelyn/207.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Evelyn/208.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Evelyn/209.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Bardzo dobra jakość. Gratuluję.",
+          "AudioPath": "assets/pl/Evelyn/210.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Evelyn/211.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Trochę śmierdziało, ale było w porządku.",
+          "AudioPath": "assets/pl/Evelyn/212.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Wczoraj na zakupach udało mi się wyhaczyć {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Evelyn/213.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Nie można było przegapić takiej okazji.",
+          "AudioPath": "assets/pl/Evelyn/214.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Wczoraj Willy mi sprzedał {1} {2}, które od Ciebie kupił.",
+          "AudioPath": "assets/pl/Evelyn/215.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Obiad z tego z dodatkiem cytryny i z pilawem ryżowym był nawet dobry! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Evelyn/216.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 1
+        }
+      ]
+    }
+  ]
+}

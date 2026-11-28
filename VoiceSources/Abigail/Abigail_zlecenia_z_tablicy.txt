@@ -1,0 +1,22 @@
+Kwestie przy oddawaniu zlecenia z tablicy ogłoszeń (dostarczenie przedmiotu), dodane 20 listopada 2026.
+Ta postać ma własne, stałe podziękowanie zamiast sklejanych kawałków. „To za mało... potrzebuję {0}.” (13615) gra mówi, gdy gracz przyniesie za mało sztuk.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 652.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13597
+DialogueText: Hmm... to nie jest takie ciekawe jak myślałam... {Portrait:Sad}
+AudioName: 652.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13597 (strona 2)
+DialogueText: Ale to nie Twoja wina! Ha ha. Dzięki za odpowiedź na moje ogłoszenie, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 653.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13599
+DialogueText: He he... świetnie. Oto Twoja nagroda, {Farmer_Name}. Nie mów nic Tacie. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 654.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615
+DialogueText: To za mało... potrzebuję {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 655.ogg

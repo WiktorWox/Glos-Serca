@@ -1,0 +1,2273 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Pam.pl",
+      "VoicePackName": "Głos Serca (Pam)",
+      "Character": "Pam",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Hej, dzieciaku. Jestem Pam.",
+          "AudioPath": "assets/pl/Pam/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Introduction",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Nie bądź cham, a jakoś się dogadamy.",
+          "AudioPath": "assets/pl/Pam/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Introduction",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "A niech mnie... Nigdy nie spodziewałam się takiego prezentu. Poprawiłeś mi dzień, dzieciaku!",
+          "AudioPath": "assets/pl/Pam/3_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:AcceptGift_(O)StardropTea",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "A niech mnie... Nigdy nie spodziewałam się takiego prezentu. Poprawiłaś mi dzień, panienko!",
+          "AudioPath": "assets/pl/Pam/4_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:AcceptGift_(O)StardropTea",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Pływają tu ciekawe ryby. Następnym razem wezmę wędkę!",
+          "AudioPath": "assets/pl/Pam/5.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Resort_Shore",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "Heh... Willy dał każdemu kawałek suszonej ryby. Przepyszna!",
+          "AudioPath": "assets/pl/Pam/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Resort",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "married_Penny",
+          "DialogueText": "Będę bardzo tęsknić za tą dziewczyną... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:married_Penny",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "married_Penny",
+          "DialogueText": "Radzę dobrze traktować moją Penny. Czaisz? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:married_Penny",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "married_Alex",
+          "DialogueText": "Cóż, jesteś z chłopakiem Mullnerów, prawda?",
+          "AudioPath": "assets/pl/Pam/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:married_Alex",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "married_Alex",
+          "DialogueText": "Weźmiecie jeszcze ze sobą tego cuchnącego kundla?",
+          "AudioPath": "assets/pl/Pam/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:married_Alex",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "To znak od Wszechmocnego... O nie... Jesteśmy zgubieni...%noturn {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/11.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:GreenRain",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Cóż, chyba koniec świata jeszcze nie nadszedł, dzieciaku...",
+          "AudioPath": "assets/pl/Pam/12.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:GreenRainFinished",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Ach cóż, wracamy do starej roboty...",
+          "AudioPath": "assets/pl/Pam/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:GreenRainFinished",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Myślę, że te deszcze to pokaz mocy... ostrzeżenie.",
+          "AudioPath": "assets/pl/Pam/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:GreenRain_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Można powiedzieć, że od natury, Yoby, czy czegokolwiek... ale tak mi się wydaje.",
+          "AudioPath": "assets/pl/Pam/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:GreenRain_2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Chodzi mi o to, że nie możemy być zbyt pewni siebie. Bo zamiast zielonego deszczu może spaść krwistoczerwony... Wiesz, o co mi chodzi?",
+          "AudioPath": "assets/pl/Pam/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:GreenRain_2",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "divorced_Penny",
+          "DialogueText": "Penny przyszła do domu zapłakana... Coś ty jej zrobił? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/17_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:divorced_Penny",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "divorced_Penny",
+          "DialogueText": "Penny przyszła do domu zapłakana... Coś ty jej zrobiła? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/18_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:divorced_Penny",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "structureBuilt_Fish Pond",
+          "DialogueText": "Słyszałam, że masz u siebie staw rybny... Heh, dorastałam przy takim.",
+          "AudioPath": "assets/pl/Pam/19.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:structureBuilt_Fish Pond",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "structureBuilt_Fish Pond",
+          "DialogueText": "Możesz w nim hodować cokolwiek... Ale niektóre bardziej wyrafinowane ryby są naprawdę wybredne!",
+          "AudioPath": "assets/pl/Pam/20.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:structureBuilt_Fish Pond",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "wonIceFishing",
+          "DialogueText": "Dobra, dobra... Pokonałeś mnie uczciwie na zawodach, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/21_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:wonIceFishing",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "wonIceFishing",
+          "DialogueText": "Dobra, dobra... Pokonałaś mnie uczciwie na zawodach.",
+          "AudioPath": "assets/pl/Pam/22_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:wonIceFishing",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "wonIceFishing",
+          "DialogueText": "Hmm... Może źle zrobiłam, że użyłam grzyba w cieście piwnym jako przynęty... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:wonIceFishing",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "I to jest życie! Może nawet zdejmę buty! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Resort_Chair",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "Lepiej nie patrz mi na stopy, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Resort_Chair",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Resort_Bar",
+          "DialogueText": "To specjalna okazja, dzieciaku... Zamawiam coś niezwykłego. Razy dwa! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Resort_Bar",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "reject_867",
+          "DialogueText": "Wow, spójrz na to... jakby coś z przyszłości.",
+          "AudioPath": "assets/pl/Pam/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:reject_867",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "reject_867",
+          "DialogueText": "He he, sorry, dzieciaku... Nie umiem tego używać. Ma więcej przycisków niż ja komórek mózgowych! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:reject_867",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "Nie mogę w to uwierzyć! Czy jest w tym jakiś haczyk?",
+          "AudioPath": "assets/pl/Pam/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:pamHouseUpgrade",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "Wybacz, nie przywykłam do miłych ludzi... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:pamHouseUpgrade",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade_memory_oneweek",
+          "DialogueText": "Podoba mi się nowy dom. Jeszcze raz dzięki, dzieciaku! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:pamHouseUpgrade_memory_oneweek",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Nie mogę w to uwierzyć! Ktoś ufundował mi dom! Zastanawiam się, czy to nie jakiś kant?",
+          "AudioPath": "assets/pl/Pam/32.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:pamHouseUpgradeAnonymous",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Wybacz, nie przywykłam do miłych ludzi... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/33.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:pamHouseUpgradeAnonymous",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Randeczka ze starą Pam, co? Ha! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/34_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:MovieInvitation",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Babski wieczór ze starą Pam, co? Ha! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/35_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:MovieInvitation",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "MovieInvitation",
+          "DialogueText": "Pewnie, dzieciaku... Widzimy się na miejscu.",
+          "AudioPath": "assets/pl/Pam/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:MovieInvitation",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "cc_Bus",
+          "DialogueText": "Hej, słyszałeś o starym busie?",
+          "AudioPath": "assets/pl/Pam/37_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:cc_Bus",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "cc_Bus",
+          "DialogueText": "Hej, słyszałaś o starym busie?",
+          "AudioPath": "assets/pl/Pam/38_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:cc_Bus",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "cc_Bus",
+          "DialogueText": "Tak... Znowu w siodle, dzieciaku... He he. Miłe uczucie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:cc_Bus",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "# {Portrait:Happy} PamDrank",
+          "AudioPath": "assets/pl/Pam/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Uhh... Moja głowa...$k",
+          "AudioPath": "assets/pl/Pam/41.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Mon",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "W sumie jadłabym zdrowsze jedzenie, gdyby było mnie na nie stać.",
+          "AudioPath": "assets/pl/Pam/42.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Mon",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Hej, pewnie masz sporo dobrego żarcia na tej swojej farmie, nie?",
+          "AudioPath": "assets/pl/Pam/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Mon",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Saloon",
+          "DialogueText": "Nie ma to jak łyk czegoś dobrego do ogrzania tych starych kości... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Ach... Nareszcie.",
+          "AudioPath": "assets/pl/Pam/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Penny! Zrobiłaś obiad?",
+          "AudioPath": "assets/pl/Pam/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon6",
+          "DialogueText": "Hej, dzieciaku. Postawiłabym Ci drinka, gdyby było mnie na niego stać!",
+          "AudioPath": "assets/pl/Pam/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_Tue",
+          "DialogueText": "Hej Gus! Dawaj kolejną rundkę! *czkawka* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Tue",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Saloon_Wed",
+          "DialogueText": "*ech*... Hej, dzieciaku. To nie miejsce dla ludzi w Twoim wieku.",
+          "AudioPath": "assets/pl/Pam/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Wed",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Saloon_Thu",
+          "DialogueText": "*gul*... Przez całe popołudnie nie mogłam się tego doczekać. He he.",
+          "AudioPath": "assets/pl/Pam/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Thu",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Saloon_Fri",
+          "DialogueText": "Ej, Gus! Daj mi jeszcze jeden kufel najmocniejszego!",
+          "AudioPath": "assets/pl/Pam/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_Sat",
+          "DialogueText": "Pam nie odpowiada.",
+          "AudioPath": "assets/pl/Pam/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_Sun",
+          "DialogueText": "Pam chyba jest pijana. Lepiej jej nie ruszać.",
+          "AudioPath": "assets/pl/Pam/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Hej, ty! Nie kręć się przy mojej przyczepie, gdy mnie nie ma. Jasne? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/54.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Sorry, ale trzeba uważać na obcych.",
+          "AudioPath": "assets/pl/Pam/55.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Tue2",
+          "DialogueText": "Dziś rano czytałam gazetę i się załamałam. To zepsuty świat, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/56.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Tue2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue2",
+          "DialogueText": "Miej się na baczności, a przejdziesz to w jednym kawałku...",
+          "AudioPath": "assets/pl/Pam/57.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Tue2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Tue2",
+          "DialogueText": "Tak właśnie mawiał mój Papcio. He he he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Tue2",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Nawet nie wiesz, jak bardzo się cieszę, że autobus znowu działa! Znów czuję, że żyję!",
+          "AudioPath": "assets/pl/Pam/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Żyjemy w trudnych czasach. Zostałam zwolniona z pracy jako kierowca autobusu. Gdybym znów dostała tę pracę, mogłabym Cię przewieźć na Pustynię Calico.",
+          "AudioPath": "assets/pl/Pam/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "# {Portrait:Happy} PamDrunk",
+          "AudioPath": "assets/pl/Pam/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Blee... Wczoraj wypiłam za dużo karmelowej nalewki... Idź sobie.$k",
+          "AudioPath": "assets/pl/Pam/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Mój dom nie jest ładny, ale przynajmniej stoi nad rzeką.",
+          "AudioPath": "assets/pl/Pam/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Thu",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Penny to moja córeczka. Bądź dla niej miły, albo zostaw ją w spokoju, rozumiesz?",
+          "AudioPath": "assets/pl/Pam/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Thu",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Thu4",
+          "DialogueText": "Penny mówi, że spędzam za dużo czasu przy barze... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Thu4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Thu4_inlaw_Penny",
+          "DialogueText": "Czuję się okropnie samotna w przyczepie...",
+          "AudioPath": "assets/pl/Pam/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Thu4_inlaw_Penny",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fri2",
+          "DialogueText": "Wiesz, tak sobie myślałam... Chciałabym mieć hobby. Coś do robienia, zamiast picia.",
+          "AudioPath": "assets/pl/Pam/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Fri2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fri2",
+          "DialogueText": "Masz jakieś pomysły?",
+          "AudioPath": "assets/pl/Pam/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Fri2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Fri2",
+          "DialogueText": "... Ech. Może zagram sama ze sobą w warcaby.",
+          "AudioPath": "assets/pl/Pam/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Fri2",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Każdy dzień jest jak poprzedni... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/70.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Gdybym tylko urodziła się bogata... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/71.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Fri",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Przed wejściem wytrzyj buty. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "Nienawidzę sprzątać. Raczej to wiesz.",
+          "AudioPath": "assets/pl/Pam/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sat4",
+          "DialogueText": "Chciałabym, żeby w nocy przyszła ekipa elfów i uporządkowała mój dom. *ha ha*. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sat4",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Sat4",
+          "DialogueText": "Poszłabym po trochę pasternaku.",
+          "AudioPath": "assets/pl/Pam/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sat4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sat4",
+          "DialogueText": "Gdyby moje nogi nie były tak sztywne, chodziłabym po górach.",
+          "AudioPath": "assets/pl/Pam/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sat4",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Przyjaźnisz się z Gusem? To spoko koleś.",
+          "AudioPath": "assets/pl/Pam/77.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Nawet stawia mi piwo na urodziny.",
+          "AudioPath": "assets/pl/Pam/78.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "event_credit1",
+          "DialogueText": "Hej, uważaj na słowa! Nikt nie mówi mi, co mam robić! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/79.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:event_credit1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "event_credit2",
+          "DialogueText": "... Co? To okropne! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/80.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:event_credit2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "event_credit2",
+          "DialogueText": "... Och. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/81.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:event_credit2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Witaj, nieznajomy.",
+          "AudioPath": "assets/pl/Pam/82_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Witaj, nieznajoma.",
+          "AudioPath": "assets/pl/Pam/83_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Tue2",
+          "DialogueText": "Och, to ty, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Pam/84_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_Tue2",
+          "DialogueText": "Trzeba Ci czegoś, czy co?",
+          "AudioPath": "assets/pl/Pam/85_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue2",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Tue2",
+          "DialogueText": "Trzeba Ci czegoś, czy co?",
+          "AudioPath": "assets/pl/Pam/86.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue2",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "summer_Tue6",
+          "DialogueText": "Kiedyś też miałam nadzieje i marzenia, a teraz... Spójrz tylko na mnie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/87.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Tue6",
+          "DialogueText": "Życie nie zawsze wygląda tak, jak oczekujesz.",
+          "AudioPath": "assets/pl/Pam/88.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue6",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Tue6",
+          "DialogueText": "No cóż. Nie ma sensu rozpaczać nad tym, czego się nie ma.",
+          "AudioPath": "assets/pl/Pam/89.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Tue6",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Posiadanie gospodarstwa jest dobre dla każdego miasta.",
+          "AudioPath": "assets/pl/Pam/90.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Wed4",
+          "DialogueText": "Może jeśli naprawdę dobrze sobie poradzisz na farmie, polepszy to lokalną gospodarkę.",
+          "AudioPath": "assets/pl/Pam/91.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Wed4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Wed4",
+          "DialogueText": "Wszyscy wtedy będą mieli pracę i będziemy szczęśliwi, prawda?",
+          "AudioPath": "assets/pl/Pam/92.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Wed4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Och, cześć, farmerze.",
+          "AudioPath": "assets/pl/Pam/93_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Thu",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Och, cześć, farmerko.",
+          "AudioPath": "assets/pl/Pam/94_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Thu",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Nieczęsto rozmawiam z nieznajomymi.",
+          "AudioPath": "assets/pl/Pam/95.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Thu",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "summer_Thu4",
+          "DialogueText": "Zawsze jakoś trafiam do baru.",
+          "AudioPath": "assets/pl/Pam/96.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Thu4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Thu4",
+          "DialogueText": "Jest zbyt blisko mojego domu. To niezdrowe.",
+          "AudioPath": "assets/pl/Pam/97.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Thu4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "... Ta?",
+          "AudioPath": "assets/pl/Pam/98.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Świetnie wyglądasz, młody człowieku. Dlaczego marnujesz czas na rozmowę z taką starą babą jak ja?",
+          "AudioPath": "assets/pl/Pam/99_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Fri",
+          "PageIndex": 1,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Jesteś całkiem niezła. Czemu marnujesz swój czas na rozmowę z kimś takim jak ja?",
+          "AudioPath": "assets/pl/Pam/100_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Fri",
+          "PageIndex": 2,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Sat2",
+          "DialogueText": "Nie przejmuj się tym psem obok domu.",
+          "AudioPath": "assets/pl/Pam/101.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Sat2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Sat2",
+          "DialogueText": "Może patrzy na Ciebie, ale nie wyjdzie z tego pudła nawet za sto lat.",
+          "AudioPath": "assets/pl/Pam/102.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Sat2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Sat2",
+          "DialogueText": "Jak się wabi? Dusty.",
+          "AudioPath": "assets/pl/Pam/103.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Sat2",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Ktoś narzekał na moje podwórko... mówił, że to bałagan, a nie podwórko. Czy to ty? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/104.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "Hmmm...",
+          "AudioPath": "assets/pl/Pam/105.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:summer_Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Tue",
+          "DialogueText": "Gdybym znała Cię lepiej, byłabym bardziej skłonna do rozmowy.",
+          "AudioPath": "assets/pl/Pam/106.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Tue4",
+          "DialogueText": "Kiedyś byłam młoda. Trudno w to uwierzyć, co?",
+          "AudioPath": "assets/pl/Pam/107.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Tue4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Tue4",
+          "DialogueText": "Czas leci nieubłaganie. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/108.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Tue4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Wed",
+          "DialogueText": "*ech*... Chyba coś sobie odgrzeję w mikrofali. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/109.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Wed",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Penny jest jedyną bliską mi osobą, więc traktuj ją dobrze.",
+          "AudioPath": "assets/pl/Pam/110.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Codziennie ta sama rutyna... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/111.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Ty też masz ten problem, farmerze?",
+          "AudioPath": "assets/pl/Pam/112_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Fri",
+          "PageIndex": 1,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Ty też masz ten problem, farmerko?",
+          "AudioPath": "assets/pl/Pam/113_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Fri",
+          "PageIndex": 2,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Zrób coś dla mnie i posprzątaj mi dom.",
+          "AudioPath": "assets/pl/Pam/114.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Sat",
+          "DialogueText": "Żartuję. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/115.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Sun",
+          "DialogueText": "Nie masz nic do roboty?",
+          "AudioPath": "assets/pl/Pam/116.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Sun",
+          "DialogueText": "Ciesz się, że masz pracę, a nie szlajasz się po mieście przez cały czas.",
+          "AudioPath": "assets/pl/Pam/117.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Sun4",
+          "DialogueText": "Tęsknię za pracą kierowcy tira. Jeździłam po całej dolinie, spotykałam się z ludźmi, słuchałam radia.",
+          "AudioPath": "assets/pl/Pam/118.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Sun4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Sun4",
+          "DialogueText": "Czasy się zmieniają.",
+          "AudioPath": "assets/pl/Pam/119.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:fall_Sun4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Mon",
+          "DialogueText": "Masz jakieś wieprze na tej farmie?",
+          "AudioPath": "assets/pl/Pam/120.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Tue",
+          "DialogueText": "Chcesz czegoś ode mnie, dzieciaku? Lepiej szukaj gdzie indziej.",
+          "AudioPath": "assets/pl/Pam/121.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Tue4",
+          "DialogueText": "Mam tylko nadzieję, że Penny ma przed sobą dobrą przyszłość. Jak będziesz mieć dzieci, zrozumiesz, o co mi chodzi.",
+          "AudioPath": "assets/pl/Pam/122.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Tue4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Tue4",
+          "DialogueText": "... Zimą jest tak sucho, że moja skóra przypomina stary pergamin.",
+          "AudioPath": "assets/pl/Pam/123.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Tue4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Tue4_inlaw_Penny",
+          "DialogueText": "Hej. Lepiej traktuj Penny dobrze na tej swojej farmie. Tylko ona mi została!",
+          "AudioPath": "assets/pl/Pam/124.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Tue4_inlaw_Penny",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Hej, dzieciaku. Co tam?",
+          "AudioPath": "assets/pl/Pam/125.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Przemijam czas, jak zwykle.",
+          "AudioPath": "assets/pl/Pam/126.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Jest strasznie zimno. Wizyta w knajpie powinna mnie rozgrzać, no nie? He he.",
+          "AudioPath": "assets/pl/Pam/127.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Thu",
+          "DialogueText": "Może później wpadniesz i spróbujesz tego dobrego trunku bez nazwy?",
+          "AudioPath": "assets/pl/Pam/128.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Penny lubi stare książki. Myślę, że jest o wiele mądrzejsza, niż ja kiedykolwiek.",
+          "AudioPath": "assets/pl/Pam/129.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Cieszę się.",
+          "AudioPath": "assets/pl/Pam/130.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Fri",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Sat",
+          "DialogueText": "Muszę zająć się łowieniem, skoro rzeka jest tak blisko.",
+          "AudioPath": "assets/pl/Pam/131.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Fuj... Moje podwórko to jakieś wysypisko. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/132.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:winter_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Siemka, dzieciaku. Suszysz się?",
+          "AudioPath": "assets/pl/Pam/133.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s0",
+          "DialogueText": "Robin... Ja... nie wiem co powiedzieć... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/134.ogg",
+          "TranslationKey": "Events/Town:611173:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s1",
+          "DialogueText": "To spełnienie moich marzeń... To wszystko, czego mogłam zapragnąć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/135.ogg",
+          "TranslationKey": "Events/Town:611173:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s2",
+          "DialogueText": "...Pewnie pozostała anonimowa, żebyśmy nie musiały się jej odwdzięczać.",
+          "AudioPath": "assets/pl/Pam/136.ogg",
+          "TranslationKey": "Events/Town:611173:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s3",
+          "DialogueText": "Kimkolwiek jesteś... Jesteś istnym aniołem... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/137.ogg",
+          "TranslationKey": "Events/Town:611173:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s4",
+          "DialogueText": "Penny, od teraz będziemy normalną rodziną... słyszysz?",
+          "AudioPath": "assets/pl/Pam/138.ogg",
+          "TranslationKey": "Events/Town:611173:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s5",
+          "DialogueText": "Nie chcę już być cały czas zgorzkniała... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/139.ogg",
+          "TranslationKey": "Events/Town:611173:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s6",
+          "DialogueText": "Spróbuję zmienić swoje życie...",
+          "AudioPath": "assets/pl/Pam/140.ogg",
+          "TranslationKey": "Events/Town:611173:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s0",
+          "DialogueText": "Robin... Ja... nie wiem co powiedzieć... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/141.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s1",
+          "DialogueText": "To spełnienie moich marzeń... to wszystko, czego mogłam zapragnąć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/142.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s2",
+          "DialogueText": "To pewnie kosztowało kupę szmalu, {Farmer_Name}... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/143.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s3",
+          "DialogueText": "... Tak szczerze, to trochę krępujące. Jak mogę Ci się za to odwdzięczyć? {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/144.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s4",
+          "DialogueText": "... Przepraszam. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/145.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s5",
+          "DialogueText": "Postaram się... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/146.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s6",
+          "DialogueText": "Dzięki, dzieciaku. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/147.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s7",
+          "DialogueText": "Od teraz będziemy prawdziwą rodziną... słyszysz?",
+          "AudioPath": "assets/pl/Pam/148.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s8",
+          "DialogueText": "Nie chcę już być cały czas zgorzkniała... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/149.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown:s9",
+          "DialogueText": "Spróbuję zmienić swoje życie...",
+          "AudioPath": "assets/pl/Pam/150.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift:s0",
+          "DialogueText": "To... będę musiała przełknąć swoją dumę...",
+          "AudioPath": "assets/pl/Pam/151.ogg",
+          "TranslationKey": "Events/Town:itsagift:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift:s1",
+          "DialogueText": "*ekhem*... Dziękuję ci, {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/152.ogg",
+          "TranslationKey": "Events/Town:itsagift:s1",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift:s2",
+          "DialogueText": "... Nie jesteśmy już 'biedne', dzieciaku... Zapomnij o tym!",
+          "AudioPath": "assets/pl/Pam/153.ogg",
+          "TranslationKey": "Events/Town:itsagift:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift:s3",
+          "DialogueText": "Od teraz będziemy normalną rodziną... słyszysz?",
+          "AudioPath": "assets/pl/Pam/154.ogg",
+          "TranslationKey": "Events/Town:itsagift:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift:s4",
+          "DialogueText": "Nie chcę już być cały czas zgorzkniała... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/155.ogg",
+          "TranslationKey": "Events/Town:itsagift:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift:s5",
+          "DialogueText": "Spróbuję zmienić swoje życie...",
+          "AudioPath": "assets/pl/Pam/156.ogg",
+          "TranslationKey": "Events/Town:itsagift:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s0",
+          "DialogueText": "Robin... Ja... nie wiem co powiedzieć... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/157.ogg",
+          "TranslationKey": "Events/Town:611173:s0",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s1",
+          "DialogueText": "To spełnienie moich marzeń... To wszystko, czego mogłam zapragnąć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/158.ogg",
+          "TranslationKey": "Events/Town:611173:s1",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s2",
+          "DialogueText": "... Pewnie pozostała anonimowa, żebyśmy nie musiały się jej odwdzięczać.",
+          "AudioPath": "assets/pl/Pam/159.ogg",
+          "TranslationKey": "Events/Town:611173:s2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s3",
+          "DialogueText": "Kimkolwiek jesteś... Jesteś istnym aniołem... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/160.ogg",
+          "TranslationKey": "Events/Town:611173:s3",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s4",
+          "DialogueText": "Penny, Przykro mi, że musiałaś dorastać w nędzy... Ale cieszę się, że znalazłaś dobry dom. Teraz obie taki mamy.",
+          "AudioPath": "assets/pl/Pam/161.ogg",
+          "TranslationKey": "Events/Town:611173:s4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/611173:s5",
+          "DialogueText": "Od teraz będę się starała żyć godnie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/162.ogg",
+          "TranslationKey": "Events/Town:611173:s5",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s0",
+          "DialogueText": "Robin... Ja... Ja nie wiem co powiedzieć... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/163.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s1",
+          "DialogueText": "To spełnienie moich marzeń... To wszystko, czego mogłam zapragnąć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/164.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s2",
+          "DialogueText": "To pewnie kosztowało kupę szmalu, {Farmer_Name}... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/165.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s3",
+          "DialogueText": "... Tak szczerze, to trochę krępujące. Jak mogę Ci się za to odwdzięczyć? {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/166.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s4",
+          "DialogueText": "... Przepraszam. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/167.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s5",
+          "DialogueText": "Postaram się... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/168.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s6",
+          "DialogueText": "Dzięki, dzieciaku. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/169.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s7",
+          "DialogueText": "Od teraz będziemy prawdziwą rodziną... słyszysz?",
+          "AudioPath": "assets/pl/Pam/170.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s8",
+          "DialogueText": "Nie chcę już być cały czas zgorzkniała... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/171.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/choseToBeKnown_pennySpouse:s9",
+          "DialogueText": "Spróbuję zmienić swoje życie...",
+          "AudioPath": "assets/pl/Pam/172.ogg",
+          "TranslationKey": "Events/Town:choseToBeKnown_pennySpouse:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift_pennySpouse:s0",
+          "DialogueText": "To... będę musiała przełknąć swoją dumę...",
+          "AudioPath": "assets/pl/Pam/173.ogg",
+          "TranslationKey": "Events/Town:itsagift_pennySpouse:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift_pennySpouse:s1",
+          "DialogueText": "*ekhem*... Dziękuję Ci, {Farmer_Name}. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/174.ogg",
+          "TranslationKey": "Events/Town:itsagift_pennySpouse:s1",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift_pennySpouse:s2",
+          "DialogueText": "... Nie jestem już 'biedna', dzieciaku... Zapomnij o tym!",
+          "AudioPath": "assets/pl/Pam/175.ogg",
+          "TranslationKey": "Events/Town:itsagift_pennySpouse:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift_pennySpouse:s3",
+          "DialogueText": "Od teraz będziemy prawdziwą rodziną... słyszysz?",
+          "AudioPath": "assets/pl/Pam/176.ogg",
+          "TranslationKey": "Events/Town:itsagift_pennySpouse:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift_pennySpouse:s4",
+          "DialogueText": "Nie chcę już być cały czas zgorzkniała... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/177.ogg",
+          "TranslationKey": "Events/Town:itsagift_pennySpouse:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/itsagift_pennySpouse:s5",
+          "DialogueText": "Spróbuję zmienić swoje życie...",
+          "AudioPath": "assets/pl/Pam/178.ogg",
+          "TranslationKey": "Events/Town:itsagift_pennySpouse:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/6184644:s0",
+          "DialogueText": "Zgadza się",
+          "AudioPath": "assets/pl/Pam/179.ogg",
+          "TranslationKey": "Events/Town:6184644:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/6184644:s1",
+          "DialogueText": "Czeka Cię uczta, dzieciaku. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/180.ogg",
+          "TranslationKey": "Events/Town:6184644:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/6184644:s2",
+          "DialogueText": "Dzięki dzieciaku",
+          "AudioPath": "assets/pl/Pam/181.ogg",
+          "TranslationKey": "Events/Town:6184644:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s0",
+          "DialogueText": "Heja! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/182.ogg",
+          "TranslationKey": "Events/Saloon:96:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s1",
+          "DialogueText": "Gus... Jestem strasznie spragniona, jeśli wiesz o co mi chodzi.",
+          "AudioPath": "assets/pl/Pam/183.ogg",
+          "TranslationKey": "Events/Saloon:96:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s2",
+          "DialogueText": "{Farmer_Name}, Co jest?",
+          "AudioPath": "assets/pl/Pam/184.ogg",
+          "TranslationKey": "Events/Saloon:96:s2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s3",
+          "DialogueText": "Musisz zapłacić za wszystko co wzięłaś na kreskę i to już!",
+          "AudioPath": "assets/pl/Pam/185.ogg",
+          "TranslationKey": "Events/Saloon:96:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s4",
+          "DialogueText": "Knajpa słabo sobie radzi finansowo.",
+          "AudioPath": "assets/pl/Pam/186.ogg",
+          "TranslationKey": "Events/Saloon:96:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s5",
+          "DialogueText": ".... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/187.ogg",
+          "TranslationKey": "Events/Saloon:96:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/96:s6",
+          "DialogueText": "*ech*... Cóż, lepiej za to wszystko zapłacę. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/188.ogg",
+          "TranslationKey": "Events/Saloon:96:s6",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s0",
+          "DialogueText": "Jest wspaniały, Gus. I smakuje jeszcze lepiej, bo za friko! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/189.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s0",
+          "DialogueText": "Co wy tu wyprawiacie?! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/190.ogg",
+          "TranslationKey": "Events/Trailer:35:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s1",
+          "DialogueText": "Przestańcie! Wszystko było tak jak powinno! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/191.ogg",
+          "TranslationKey": "Events/Trailer:35:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s2",
+          "DialogueText": "Nie Twoja sprawa! {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/192.ogg",
+          "TranslationKey": "Events/Trailer:35:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s3",
+          "DialogueText": "Samolubna? Daję Ci dach nad głową i czyste ubrania a ty nazywasz mnie samolubną!? Ty niewdzięczna, mała... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/193.ogg",
+          "TranslationKey": "Events/Trailer:35:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s4",
+          "DialogueText": "Lepiej wyjdź. Wybacz, że musiałeś tego słuchać. {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/194_male.ogg",
+          "TranslationKey": "Events/Trailer:35:s4",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s5",
+          "DialogueText": "Lepiej wyjdź. Wybacz, że musiałaś tego słuchać. {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/195_female.ogg",
+          "TranslationKey": "Events/Trailer:35:s5",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s6",
+          "DialogueText": "To bardzo miły młodzieniec...",
+          "AudioPath": "assets/pl/Pam/196_male.ogg",
+          "TranslationKey": "Events/Trailer:35:s6",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s7",
+          "DialogueText": "To bardzo miła, młoda dama...",
+          "AudioPath": "assets/pl/Pam/197_female.ogg",
+          "TranslationKey": "Events/Trailer:35:s7",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Trailer/35:s8",
+          "DialogueText": "Ale nie chcę, żebyś kazała innym sprzątać mój dom! To wstyd! Rozumiesz? {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/198.ogg",
+          "TranslationKey": "Events/Trailer:35:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/963313:s0",
+          "DialogueText": "He he... Widzę, że moja paczka przyszła. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/199.ogg",
+          "TranslationKey": "Events/Trailer:963313:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/963313:s1",
+          "DialogueText": "A wezmę sobie łyczka. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/200.ogg",
+          "TranslationKey": "Events/Trailer:963313:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/963313:s2",
+          "DialogueText": "Tfuu!",
+          "AudioPath": "assets/pl/Pam/201.ogg",
+          "TranslationKey": "Events/Trailer:963313:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/963313:s3",
+          "DialogueText": "Mówiłam ziemniaki, nie sfermentowana wątroba pawiana! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/202.ogg",
+          "TranslationKey": "Events/Trailer:963313:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/963313:s4",
+          "DialogueText": "Sok? Tak. Piłam, dzieciaku. {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/203.ogg",
+          "TranslationKey": "Events/Trailer:963313:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer/963313:s5",
+          "DialogueText": "Jak smakowało?... Czasami lepiej nie mówić. Niech to tak zostanie. {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/204.ogg",
+          "TranslationKey": "Events/Trailer:963313:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s0",
+          "DialogueText": "Cześć, dzieciaku...",
+          "AudioPath": "assets/pl/Pam/205.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s1",
+          "DialogueText": "Tak, przyłapałeś mnie na modlitwie...",
+          "AudioPath": "assets/pl/Pam/206_male.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s1",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s2",
+          "DialogueText": "Tak, przyłapałaś mnie na modlitwie...",
+          "AudioPath": "assets/pl/Pam/207_female.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s2",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s3",
+          "DialogueText": "To tutaj, to moja nowa statua: 'Dziwny Znak'.",
+          "AudioPath": "assets/pl/Pam/208.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s4",
+          "DialogueText": "... Zamówiłam ją na Joja.com z darmową dostawą do 2 dni. Nie mów Pierrowi.",
+          "AudioPath": "assets/pl/Pam/209.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s5",
+          "DialogueText": "... Właśnie się urządzałam w nowym domu. Bardzo tu przytulnie. W końcu czuję się jak w domu. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/210.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s6",
+          "DialogueText": "Och, wybacz...",
+          "AudioPath": "assets/pl/Pam/211.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s7",
+          "DialogueText": "*smark*... To tylko... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/212.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s7",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s8",
+          "DialogueText": "... Powinnam się cieszyć... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/213.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s9",
+          "DialogueText": "... Ale nie potrafię rzucić picia... Wcale się nie zmieniłam... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/214.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s10",
+          "DialogueText": "Od dłuższego czasu... czułam, że czegoś w moim życiu brakowało, {Farmer_Name}... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/215.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s10",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s11",
+          "DialogueText": "Zawsze myślałam, że chodzi o pieniądze... po prostu byłam biedna... wiesz? Więc pomyślałam, że ten dom rozwiąże wszystkie problemy. Ale... to nie to. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/216.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s12",
+          "DialogueText": "Dlatego zamówiłam tę statuę.",
+          "AudioPath": "assets/pl/Pam/217.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s13",
+          "DialogueText": "Powiedz coś:",
+          "AudioPath": "assets/pl/Pam/218.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s14",
+          "DialogueText": "Cieszę się, że masz nadzieję",
+          "AudioPath": "assets/pl/Pam/219.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s15",
+          "DialogueText": "Wybacz Pam, ale Yoba nie istnieje...",
+          "AudioPath": "assets/pl/Pam/220.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s16",
+          "DialogueText": "To nie jest śmieszne!... Otworzyłam się dla Ciebie i tak mi odpowiadasz? Co do fiksa jest z tobą nie tak? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/221.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s16",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/503180:s17",
+          "DialogueText": "Nie obchodzi mnie to co mówisz... Wierzę w Yobę! Większość z nas wierzy! A teraz wyjdź. {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/222.ogg",
+          "TranslationKey": "Events/Trailer_Big:503180:s17",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/positive:s0",
+          "DialogueText": "Ha! Spójrz na mnie! Głupieję na starość, co nie?... he he he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/223.ogg",
+          "TranslationKey": "Events/Trailer_Big:positive:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Trailer_Big/positive:s1",
+          "DialogueText": "Dzięki za wysłuchanie, dzieciaku",
+          "AudioPath": "assets/pl/Pam/224.ogg",
+          "TranslationKey": "Events/Trailer_Big:positive:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Pam",
+          "DialogueText": "Lepiej się pospiesz, dzieciaku... zanim stara Pam wyłowi z namiotu wszystkie duże ryby! He he. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/225.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Pam_y2",
+          "DialogueText": "Życie nie robi się lepsze od tego, dzieciaku! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/226.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Pam_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Pam",
+          "DialogueText": "Przyjdę na każdy festiwal z darmowym żarciem! Ale nie idę do labiryntu.",
+          "AudioPath": "assets/pl/Pam/227.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Pam_y2",
+          "DialogueText": "Podaj mi kolejne dyniowe piwo!... *czkawka* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/228.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Pam_y2",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Pam",
+          "DialogueText": "He he... Dałam coś ciekawego do ponczu. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/229.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Pam",
+          "DialogueText": "Ćśś... Niech to zostanie między nami, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/230.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Pam",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Pam_y2",
+          "DialogueText": "Hej... Jeśli chcesz mnie karmić jajkami, będę potrzebowała ostrego sosu, dzieciaku!",
+          "AudioPath": "assets/pl/Pam/231.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Pam_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Pam",
+          "DialogueText": "I to jest życie... prawda, dzieciaku? Słodkie wino, płynący strumyczek, ciepłe powietrze... Czy wspominałam o winie?",
+          "AudioPath": "assets/pl/Pam/232.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Pam_y2",
+          "DialogueText": "Czerwona galaretka kolebocząca się na wietrze wygląda jakby tańczyła! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/233.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Pam_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Pam_y2",
+          "DialogueText": "Heh... Może wino się już odzywa. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Pam/234.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Pam_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Pam",
+          "DialogueText": "Heh... Darmowy bufet. Jeden z plusów mieszkania tu. Smacznego, dzieciaku!",
+          "AudioPath": "assets/pl/Pam/235.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Pam_y2",
+          "DialogueText": "*siorb* O, tak! Będę potrzebowała tego więcej! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/236.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Pam_y2",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Pam",
+          "DialogueText": "Nie mów Gusowi, ale jestem trochę rozczarowana, że nie ma tu bufetu.",
+          "AudioPath": "assets/pl/Pam/237.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Pam_y2",
+          "DialogueText": "Hej, dzieciaku. Jesteś farmerem. Więc powiedz mi... da się z tych rzeczy zrobić dżem?",
+          "AudioPath": "assets/pl/Pam/238.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Pam_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Pam_y2",
+          "DialogueText": "Oszczędziłoby mi to dużo pieniędzy, gdybym mogła takim posmarować tosta! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/239.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Pam_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Pam",
+          "DialogueText": "Hmmph... Nadal jestem zła, za te zawody w łowieniu ryb. {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/240.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Pam_y2",
+          "DialogueText": "Grzane wino to jedyna rzecz, która może mnie ogrzać w ten mroźny dzień! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/241.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Pam_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Pam",
+          "DialogueText": "Planuję wygrać te zawody!",
+          "AudioPath": "assets/pl/Pam/242.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Pam",
+          "DialogueText": "Z Willym będzie problem... On to robi od rana do wieczora. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/243.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Pam",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Pam_y2",
+          "DialogueText": "Rok temu przegrałam, bo łowiłam w złym miejscu. Coś czuję, że dzisiaj będzie inaczej.",
+          "AudioPath": "assets/pl/Pam/244.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Pam_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Pam_y2",
+          "DialogueText": "Hah. I kto to mówi! Udowodnię Ci, że się mylisz.",
+          "AudioPath": "assets/pl/Pam/245.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Pam_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Pam_y2",
+          "DialogueText": "... {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/246.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Pam_y2",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Pam_y2",
+          "DialogueText": "Tobie również, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/247.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Pam_y2",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Pam:s0",
+          "DialogueText": "Hej, hej! I to jest coś! Po stokroć dzięki, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/248.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Pam:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Pam:s1",
+          "DialogueText": "Dobrze robisz, dzieciaku. Dzięki!",
+          "AudioPath": "assets/pl/Pam/249.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Pam:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Pam:s2",
+          "DialogueText": "To nie w moim guście.",
+          "AudioPath": "assets/pl/Pam/250.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Pam:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Pam:s3",
+          "DialogueText": "Okropne.. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/251.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Pam:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Pam:s3",
+          "DialogueText": "(Czy to jakiś żart?)",
+          "AudioPath": "assets/pl/Pam/252.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Pam:s3",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Pam:s4",
+          "DialogueText": "Dzięki, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/253.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Pam:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Pam_*_BeforeMovie",
+          "DialogueText": "Hej, dzieciaku. Dzięki za zaproszenie.",
+          "AudioPath": "assets/pl/Pam/254.ogg",
+          "TranslationKey": "Strings/MovieReactions:Pam_*_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Pam_*_AfterMovie",
+          "DialogueText": "Heh, nie było tak źle!",
+          "AudioPath": "assets/pl/Pam/255.ogg",
+          "TranslationKey": "Strings/MovieReactions:Pam_*_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:SquidFest_Pam",
+          "DialogueText": "Nie mam drygu do łowienia kałamarnic, ale nic nie szkodzi. Będę Ci kibicowała, dzieciaku.",
+          "AudioPath": "assets/pl/Pam/256.ogg",
+          "TranslationKey": "Strings/1_6_Strings:SquidFest_Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Pam",
+          "DialogueText": "Hej, dzieciaku... Masz dzisiaj wolne? Miło jest od czasu do czasu odpocząć, nie?",
+          "AudioPath": "assets/pl/Pam/257.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Pam",
+          "DialogueText": "Tia... nawet stara Pam musi się od czasu do czasu poopalać! Obudź mnie zanim zmienię się w skwarek... He he.",
+          "AudioPath": "assets/pl/Pam/258.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Pam",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Shop_Pam",
+          "DialogueText": "He he he... Znalazłam stare napoje głęboko w lodówce.",
+          "AudioPath": "assets/pl/Pam/259.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Shop_Pam",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Pam_busSign",
+          "DialogueText": "Idę dzisiaj na festiwal, dzieciaku! Nigdzie nie jadę. -Pam",
+          "AudioPath": "assets/pl/Pam/260.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Pam_busSign",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Pam_busSign_resort",
+          "DialogueText": "Jestem dzisiaj na wakacjach! Nigdzie nie jadę. -Pam",
+          "AudioPath": "assets/pl/Pam/261.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Pam_busSign_resort",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:Pam_busSign_generic",
+          "DialogueText": "Dziś mam wolne, dzieciaku! Nigdzie nie jadę. -Pam",
+          "AudioPath": "assets/pl/Pam/262.ogg",
+          "TranslationKey": "Strings/1_6_Strings:Pam_busSign_generic",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Muszę się napić.",
+          "AudioPath": "assets/pl/Pam/263.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Gus! Dawaj to, co zwykle.",
+          "AudioPath": "assets/pl/Pam/264.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Hej, wróciłam!",
+          "AudioPath": "assets/pl/Pam/265.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Och chłopie, jestem spragniona!",
+          "AudioPath": "assets/pl/Pam/266.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Ale mnie suszy!",
+          "AudioPath": "assets/pl/Pam/267.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Saloon_Entry",
+          "PageIndex": 5
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Penny! Wszystko zrobione?",
+          "AudioPath": "assets/pl/Pam/268.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Penny! Jesteś?",
+          "AudioPath": "assets/pl/Pam/269.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Trailer_Entry",
+          "DialogueText": "Hej! Wróciłam!",
+          "AudioPath": "assets/pl/Pam/270.ogg",
+          "TranslationKey": "Characters/Dialogue/Pam:Trailer_Entry",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "spring_25.000",
+          "DialogueText": "*Zrzęd*... Doktor wie wszystko... *Zrzęd* {Portrait:Love}",
+          "AudioPath": "assets/pl/Pam/271.ogg",
+          "TranslationKey": "Strings/schedules/Pam:spring_25.000",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "spring_25.001",
+          "DialogueText": "Ile dziennie piję? Co to za pytanie? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Pam/272.ogg",
+          "TranslationKey": "Strings/schedules/Pam:spring_25.001",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_103",
+          "DialogueText": "Daj mi to. *siorb*... Ach, to jest to.",
+          "AudioPath": "assets/pl/Pam/273.ogg",
+          "TranslationKey": "Data/Quests:103",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Quest_103",
+          "DialogueText": "Jest bardzo dobre i mocne... chyba czuję nutkę cytrusa i sosny.",
+          "AudioPath": "assets/pl/Pam/274.ogg",
+          "TranslationKey": "Data/Quests:103",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Quest_103",
+          "DialogueText": "Dzięki, dzieciaku. To wiele dla mnie znaczy. Wiedziałam, że mogę na Ciebie liczyć. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/275.ogg",
+          "TranslationKey": "Data/Quests:103",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Quest_122",
+          "DialogueText": "Hej, to baterie, które chciałam! Dzięki, dzieciaku... Ratujesz mi życie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/276.ogg",
+          "TranslationKey": "Data/Quests:122",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/277.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/278.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/279.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4274",
+          "DialogueText": "Pamiętasz o moich urodzinach? Jestem pod wrażeniem. Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/280.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4274",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4276",
+          "DialogueText": "Och, dziś są moje urodziny? Chyba tak. Dzięki. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Pam/281.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4276",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4278",
+          "DialogueText": "Są moje urodziny i dajesz mi to? Czy to jest jakiś żart? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Pam/282.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4278",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4280",
+          "DialogueText": "Na moje urodziny? Dzięki.",
+          "AudioPath": "assets/pl/Pam/283.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4280",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Pam/284.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Pam/285.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Pam/286.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Pam/287.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Pam/288.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Pam/289.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13527",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Pam/290.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13528",
+          "DialogueText": "Cześć {Farmer_Name}!",
+          "AudioPath": "assets/pl/Pam/291.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Pam/292.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "Nagrywamy „Czy to naprawdę to?” – nazwę przedmiotu ({0}) gra pokazuje tylko na ekranie."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Pam/293.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Pam/294_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Pam/295_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Pam/296_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Pam/297_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Pam/298_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Pam/299_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Pam/300.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Pam/301.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Pam/302.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Pam/303.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Pam/304.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Pam/305.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Pam/306.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude",
+          "DialogueText": "Z ostatnich zakupów mam {1} {2}, które było na promocji za {3} monet.",
+          "AudioPath": "assets/pl/Pam/307.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude",
+          "DialogueText": "Było dosyć {4}.",
+          "AudioPath": "assets/pl/Pam/308.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude",
+          "DialogueText": "Z ostatnich zakupów mam {1} {2}. Było na przecenie i kosztowało {3} monet.",
+          "AudioPath": "assets/pl/Pam/309.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude",
+          "DialogueText": "To było {4}! Nie dziwota, że Pierre sprzedawał ten {5} za taką taniochę...",
+          "AudioPath": "assets/pl/Pam/310.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Pam/311.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityHigh_Rude_Willy",
+          "DialogueText": "W sumie było {4}.",
+          "AudioPath": "assets/pl/Pam/312.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityHigh_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "U Williego był {1} {2} na 'pomyjowej' promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Pam/313.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_QualityLow_Rude_Willy",
+          "DialogueText": "To było {4}! Nie dziwota, że Willy praktycznie rozdawał ten {5}...",
+          "AudioPath": "assets/pl/Pam/314.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_QualityLow_Rude_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        }
+      ]
+    }
+  ]
+}

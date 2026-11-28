@@ -27,6 +27,13 @@
 		</None>
 	</ItemGroup>
 
+	<ItemGroup>
+		<!-- Embedded Głos Serca voice pack (JSON definitions + .ogg audio) -->
+		<None Include="GłosSerca\**\*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
 
 
 

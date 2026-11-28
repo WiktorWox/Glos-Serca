@@ -1,0 +1,145 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 234.ogg).
+
+DialogueFrom: Strings/Characters:PierreStockListDialogue  [inne]
+DialogueText: Och, wow! To moja stara lista zapasów! Wszędzie tego szukałem. {Portrait:Happy}
+AudioName: 234.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:PierreStockListDialogue (strona 2)  [inne]
+DialogueText: Zobaczmy... tak! Nadal wszystko tu jest.
+AudioName: 235.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:PierreStockListDialogue (strona 3)  [inne]
+DialogueText: Z tymi kodami zamówień, mogę powiększyć moje zasoby z każdej pory roku, co roku!
+AudioName: 236.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:PierreStockListDialogue (strona 4)  [inne]
+DialogueText: Dziękuję, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 237.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Pierre_Open  [telefon]
+DialogueText: Lokalny Sklep u Pierra! Och, cześć, {Farmer_Name}! Tak, jesteśmy otwarci do 17. Przyjdź po wspaniałe okazje na nasiona i produkty! Do widzenia. *klik*
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 238.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Pierre_Open_Rare  [telefon]
+DialogueText: Abigail! Twoja świnka morska znowu uciekła! Chodź tu *i to już* i zajmij się tym! {Portrait:Unique}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 239.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Pierre_Open_Rare (strona 2)  [telefon]
+DialogueText: Och! Uch... Halo? Dziękuję za telefon. T... Tak, Sklep otwarty do 17. Do widzenia. *klik* {Portrait:Love}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 240.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Pierre_Closed  [telefon]
+DialogueText: Dziękuję, że dzwonisz do Lokalnego Sklepu u Pierra. Sklep jeszcze jest zamknięty, ale mamy otwarte od 9 do 17. Do zobaczenia! *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 241.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Pierre_Festival  [telefon]
+DialogueText: Tu do Lokalny Sklep u Pierra, dziękuję za telefon. Sklep dzisiaj zamknięty w związku z festiwalem. *biip*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 242.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Pierre  [telefon]
+DialogueText: Hej, {Farmer_Name}. To ja, Pierre.
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 243.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Pierre (strona 2)  [telefon]
+DialogueText: Cóż, chciałem ci powiedzieć, że doceniam twój biznes. I chciałbym przypomnieć, że Lokalny Sklep u Pierra ma *najlepsze* nasiona i produkty.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 244.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Pierre (strona 3)  [telefon]
+DialogueText: Mam nadzieję, że widzimy się wkrótce. Pa! *klik*
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 245.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 246.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 247.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Adult  [okrzyk w dymku nad głową]
+DialogueText: Hej, przestań! Fuj! {Portrait:Sad}
+AudioName: 248.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4275  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Urodzinowy prezent? To miłe z Twojej strony! Uwielbiam to. {Portrait:Happy}
+AudioName: 249.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałeś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 250_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4277 (strona 2)  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Pamiętałaś o moich urodzinach! Dziękuję. To jest wspaniały prezent. {Portrait:Happy}
+AudioName: 251_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4279  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och... to na moje urodziny?... Dzięki. {Portrait:Sad}
+AudioName: 252.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4281  [prezent urodzinowy (ogólna reakcja)]
+DialogueText: Och, urodzinowy prezent! Dziękuję.
+AudioName: 253.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject  [zaproszenie do kina]
+DialogueText: Wybacz, nie mam ochoty iść na film...
+AudioName: 254.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 255.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 256.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 257.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 258.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:LastDayOfMonth  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Prawie koniec sezonu. Jutro zmieniam moje towary.
+AudioName: 259.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Monday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! Czegoś Ci potrzeba?
+AudioName: 260.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Tuesday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! Nie zapomnij sprawdzać codziennie mojej nowej selekcji tapet i podłóg!
+AudioName: 261.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Wednesday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! W czym mogę Ci pomóc?
+AudioName: 262.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Thursday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! Mam tylko najlepsze towary.
+AudioName: 263.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Friday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! Mam na sprzedaż towary tylko najlepszej jakości.
+AudioName: 264.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Saturday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! Czego potrzebujesz?
+AudioName: 265.ogg
+--------------------------------------------------
+DialogueFrom: Data/Shops:SeedShop:Sunday  [okienko sklepu (ramka obok portretu w menu sklepu)]
+DialogueText: Witamy u Pierra! Masz coś na sprzedaż?
+AudioName: 266.ogg
+--------------------------------------------------

@@ -1,0 +1,41 @@
+Kwestie, które gra bierze spoza pliku postaci: wspólne pliki tekstów, wydarzenia składane w kodzie gry i dane gry (np. ślub), dodane 20 listopada 2026.
+{Farmer_Name} = imię gracza, pomijamy w nagraniu. Znaczniki %farm, %spouse, %book, %year… też pomijamy albo lekko przeformułowujemy zdanie.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 78.ogg).
+
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris  [kino (poczekalnia)]
+DialogueText: Chyba zauważyłeś, że kino odnosi wielki sukces! {Portrait:Happy}
+AudioName: 78_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris (strona 2)  [kino (poczekalnia)]
+DialogueText: Chyba zauważyłaś, że kino odnosi wielki sukces! {Portrait:Happy}
+AudioName: 79_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromMaps:MovieTheater_Morris (strona 3)  [kino (poczekalnia)]
+DialogueText: Hee...? Zwrot z inwestycji? Cóż to trudne, wiesz... może to trochę potrwać, rozumiesz... *bełkot* {Portrait:Sad}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 80.ogg
+--------------------------------------------------
+
+Pytanie albo zdanie przed nim (generator gubił je, gdy przed pytaniem stało #$b#):
+
+DialogueFrom: Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable  [pytanie / zdanie przed pytaniem]
+DialogueText: Członkostwo Joja jest już dostępne! Z członkostwem Joja, będziemy mogli wprowadzić ulepszenia dla społeczności z pomocą dedykowanego personelu... oczywiście za dopłatą.
+AudioName: 81.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Morris_WeekendGreeting_MembershipAvailable  [pytanie / zdanie przed pytaniem]
+DialogueText: A! I jeszcze jedno... Burmistrz Lewis obiecał nam, że jak ktoś jeszcze do nas dołączy, to pozwoli wybudować magazyn Joja na miejscu tego starego domu kultury. Czyż to nie cudowne?
+AudioName: 82.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Morris_FirstGreeting_MembershipAvailable  [pytanie / zdanie przed pytaniem]
+DialogueText: Och, jeszcze jedno... Burmistrz Lewis obiecał nam, że jak ktoś jeszcze do nas dołączy, to pozwoli wybudować magazyn joja na miejscu tego starego domu kultury.
+AudioName: 83.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Morris_BuyMovieTheater  [pytanie / zdanie przed pytaniem]
+DialogueText: Ach, nasz ulubiony klient... Mamy dla Ciebie dobre wieści! Siedziba firmy Joja zatwierdziła budowę nowego 'domu rozrywki' Joja, która zastąpi pobliski magazyn. Potrzebujemy tylko inwestora! Więc, oczywiście, pytam Ciebie... naszego najbardziej oddanego i hojnego członka Joja.
+AudioName: 84.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Morris_BuyMovieTheater  [pytanie / zdanie przed pytaniem]
+DialogueText: Będziemy mogli to zrobić za niewielką sumkę w wysokości... *kaszel*... 500,000 monet... {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 85.ogg
+--------------------------------------------------

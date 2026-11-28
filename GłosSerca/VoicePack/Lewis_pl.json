@@ -1,0 +1,3461 @@
+{
+  "Format": "2.0.0",
+  "VoicePacks": [
+    {
+      "Format": "2.0.0",
+      "VoicePackId": "GlosSerca.Lewis.pl",
+      "VoicePackName": "Głos Serca (Lewis)",
+      "Character": "Lewis",
+      "Language": "pl",
+      "Entries": [
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Jak Ci minęła pierwsza noc?",
+          "AudioPath": "assets/pl/Lewis/1.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Introduction",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Introduction",
+          "DialogueText": "Twój dziadek narzekał na to rozklekotane stare łóżko, ale myślę, że w głębi duszy kochał ten dom.",
+          "AudioPath": "assets/pl/Lewis/2.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Introduction",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "AcceptGift_(O)StardropTea",
+          "DialogueText": "Spróbowałem wielu herbat w życiu, ale żadna nie jest tak rzadka i wyjątkowa jak ta. Dziękuję!",
+          "AudioPath": "assets/pl/Lewis/3.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:AcceptGift_(O)StardropTea",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "Ach, pamiętałeś o urodzinach starego burmistrza. To bardzo miłe z Twojej strony. Świetny prezent! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/4_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:AcceptBirthdayGift_Positive",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Positive",
+          "DialogueText": "Ach, pamiętałaś o urodzinach starego burmistrza. To bardzo miłe z Twojej strony. Świetny prezent! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/5_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:AcceptBirthdayGift_Positive",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Właśnie rozmawiałem z Gubernatorem... podobno ten deszcz jest całkowicie nieszkodliwy. To po prostu niezwykłe zjawisko naturalne.",
+          "AudioPath": "assets/pl/Lewis/6.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:GreenRain",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRain",
+          "DialogueText": "Aczkolwiek niektórzy mieszkańcy panikują, a to nie jest dobre...",
+          "AudioPath": "assets/pl/Lewis/7.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:GreenRain",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Cóż, trochę za dużo nerwów jak na nasze małe miasteczko! Cieszę się, że nikomu nic się nie stało. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/8.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:GreenRainFinished",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "GreenRainFinished",
+          "DialogueText": "Jeśli to się jeszcze kiedyś powtórzy, wszyscy będziemy już nieco spokojniejsi. To nie koniec świata!",
+          "AudioPath": "assets/pl/Lewis/9.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:GreenRainFinished",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "GreenRain_2",
+          "DialogueText": "Najwidoczniej możemy się spodziewać takich deszczy co roku. Chyba wszyscy czują się już trochę spokojniejsi, wiedząc, że to po prostu część natury.",
+          "AudioPath": "assets/pl/Lewis/10.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:GreenRain_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Ach, pamiętałeś o urodzinach starego burmistrza... co to? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/11_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:AcceptBirthdayGift_Negative",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Ach, pamiętałaś o urodzinach starego burmistrza... co to? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/12_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:AcceptBirthdayGift_Negative",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "AcceptBirthdayGift_Negative",
+          "DialogueText": "Um... cóż, wiesz, jak to mówią. Liczy się gest.",
+          "AudioPath": "assets/pl/Lewis/13.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:AcceptBirthdayGift_Negative",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "cropMatured_24",
+          "DialogueText": "Hej, robiłem nocną rundkę i zauważyłem, że Twój pasternak dojrzał. Gratulacje!",
+          "AudioPath": "assets/pl/Lewis/14.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cropMatured_24",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "cropMatured_254",
+          "DialogueText": "Te melony na ''%farm'' farmie wyglądały znakomicie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/15.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cropMatured_254",
+          "PageIndex": 0,
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "cropMatured_254",
+          "DialogueText": "Wiesz, że to była jedna z ulubionych upraw Twojego dziadka?",
+          "AudioPath": "assets/pl/Lewis/16.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cropMatured_254",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "cropMatured_276",
+          "DialogueText": "Nic nie mówi 'Jesień' tak dobrze jak dynia, nie uważasz?",
+          "AudioPath": "assets/pl/Lewis/17.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cropMatured_276",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Resort",
+          "DialogueText": "Jestem pod wrażeniem, {Farmer_Name}. Udało Ci się naprawić to miejsce! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/18.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Resort",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Gratulacje, {Farmer_Name}. To wielki krok dla Ciebie i Twojej drugiej połówki. Nieźle się zakorzeniłeś na tej farmie!",
+          "AudioPath": "assets/pl/Lewis/19_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:married",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "married",
+          "DialogueText": "Gratulacje, {Farmer_Name}. To wielki krok dla Ciebie i Twojej drugiej połówki. Nieźle się zakorzeniłaś na tej farmie!",
+          "AudioPath": "assets/pl/Lewis/20_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:married",
+          "PageIndex": 1,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "married_twice",
+          "DialogueText": "Ponownie gratuluję, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Lewis/21.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:married_twice",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "divorced_once",
+          "DialogueText": "Wszystkie dokumenty rozwodowe zostały wypełnione. Przykro mi, że tak się to potoczyło...",
+          "AudioPath": "assets/pl/Lewis/22.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:divorced_once",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "divorced_twice",
+          "DialogueText": "Kolejny rozwód? No weź, {Farmer_Name}... musisz bardziej uważać, z kim bierzesz ślub... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/23.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:divorced_twice",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "movieTheater",
+          "DialogueText": "Cała młodzież wygląda na szczęśliwą z powodu tego nowego kina.",
+          "AudioPath": "assets/pl/Lewis/24.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:movieTheater",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "movieTheater",
+          "DialogueText": "Dobrze prosperujące kino będzie korzystne dla lokalnej gospodarki. Mam tylko nadzieję, że te nowe filmy nie zawierają nieodpowiednich treści!",
+          "AudioPath": "assets/pl/Lewis/25.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:movieTheater",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Resort_Leaving",
+          "DialogueText": "Wszyscy na pokład! Wracamy do doliny!",
+          "AudioPath": "assets/pl/Lewis/26.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Resort_Leaving",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Wakacje takie jak te mogłyby rozwinąć lokalną gospodarkę!",
+          "AudioPath": "assets/pl/Lewis/27.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Resort_Shore",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Resort_Shore",
+          "DialogueText": "Wolę nie stać zbyt długo na słońcu, bo mi wąsy wyschną.",
+          "AudioPath": "assets/pl/Lewis/28.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Resort_Shore",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Resort_Chair",
+          "DialogueText": "He he... Spójrz na to miejsce! Nie wiem, jak Ci się to udało, ale wszyscy teraz o tym mówią. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/29.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Resort_Chair",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Resort_Bar",
+          "DialogueText": "He he... Gus jest w swoim żywiole.",
+          "AudioPath": "assets/pl/Lewis/30.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Resort_Bar",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "pamHouseUpgrade",
+          "DialogueText": "{Farmer_Name}, słyszałem o Twojej hojności wobec Pam i Penny... *To* się nazywa wsparcie społeczności! Aż miło popatrzeć w Mieście Pelikan! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/31.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:pamHouseUpgrade",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). *…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "{Farmer_Name}, słyszałeś już nowinkę? Ktoś zapłacił Robin za budowę domu dla Pam i Penny! Ale Robin nie chce mi zdradzić, kto to sfinansował.",
+          "AudioPath": "assets/pl/Lewis/32_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:pamHouseUpgradeAnonymous",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "{Farmer_Name}, słyszałaś już nowinkę? Ktoś zapłacił Robin za budowę domu dla Pam i Penny! Ale Robin nie chce mi zdradzić, kto to sfinansował.",
+          "AudioPath": "assets/pl/Lewis/33_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:pamHouseUpgradeAnonymous",
+          "PageIndex": 1,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "pamHouseUpgradeAnonymous",
+          "DialogueText": "Bez względu na to, kto to sfinansował, uwielbiam gdy nasza społeczność wspiera tych w potrzebie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/34.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:pamHouseUpgradeAnonymous",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "willyCrabs",
+          "DialogueText": "*Niuch*... *niuch*... Czujesz to? Czuć tu świeżego kraba... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/35.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:willyCrabs",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "cc_Begin",
+          "DialogueText": "*Niuch*... *niuch*... Ach, czuję, że spędzasz czas w starym Domu Kultury. Dobrze, że ktoś się nim wreszcie zajął.",
+          "AudioPath": "assets/pl/Lewis/36.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Begin",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "cc_Complete",
+          "DialogueText": "Nigdy nie byłem szczególnie dumny z naszej społeczności... ale Ty wyświadczasz Miastu Pelikan wielką przysługę, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/37.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Complete",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "cc_Bridge",
+          "DialogueText": "W jakiś sposób ten stary most do kamieniołomu został naprawiony.",
+          "AudioPath": "assets/pl/Lewis/38.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Bridge",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "cc_Bridge",
+          "DialogueText": "Jestem w szoku... Do jego odbudowy potrzeba by całej ekipy!",
+          "AudioPath": "assets/pl/Lewis/39.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Bridge",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "cc_Bridge",
+          "DialogueText": "Ciekawe, kto go naprawił?",
+          "AudioPath": "assets/pl/Lewis/40.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Bridge",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "cc_Bus",
+          "DialogueText": "{Farmer_Name}, słyszałeś już nowinkę? Autobus znowu działa! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/41_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Bus",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "cc_Bus",
+          "DialogueText": "{Farmer_Name}, słyszałaś już nowinkę? Autobus znowu działa! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/42_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Bus",
+          "PageIndex": 1,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "cc_Bus",
+          "DialogueText": "Ten złom był zepsuty od dekad. Dziwne, że nagle ruszył.",
+          "AudioPath": "assets/pl/Lewis/43.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:cc_Bus",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "joja_Begin",
+          "DialogueText": "Cóż, stary Dom Kultury przepadł... Czasy się zmieniają, dobre rzeczy przychodzą i odchodzą... Nie mogę pomóc, ale i tak czuję stratę. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/44.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:joja_Begin",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "joja_Begin",
+          "DialogueText": "Mam nadzieję, że nie odbije się to na moim stanowisku burmistrza. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/45.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:joja_Begin",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "wonGrange",
+          "DialogueText": "Gratuluję wygranej na targach.",
+          "AudioPath": "assets/pl/Lewis/46.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:wonGrange",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "wonGrange",
+          "DialogueText": "He he... Tak między nami, myślę, że Pierre potrzebował miski pełnej budyniu pokory! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/47.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:wonGrange",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "To świetna pora na pielęgnację ogródka. Nawet dla nas, niefarmerów.",
+          "AudioPath": "assets/pl/Lewis/48.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Mon",
+          "DialogueText": "Nasze miasteczko słynie z najpiękniejszych wiosennych kwiatów! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/49.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Mon",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Wszystko, co chcesz sprzedać, włóż do dużego pudła obok swojego domu.",
+          "AudioPath": "assets/pl/Lewis/50.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue",
+          "DialogueText": "Ciekawe, co tam wrzucisz.",
+          "AudioPath": "assets/pl/Lewis/51.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Saloon_Entry",
+          "DialogueText": "Cześć, Gus!",
+          "AudioPath": "assets/pl/Lewis/52.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Saloon_Entry",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue2",
+          "DialogueText": "Na początku każdej pory roku musisz usunąć martwe rośliny z poprzedniego sezonu. Najlepiej użyć do tego kosy.",
+          "AudioPath": "assets/pl/Lewis/53.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Tue2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "spring_3",
+          "DialogueText": "Zasadziłeś już jakieś wiosenne rośliny? Pamiętaj, pory roku nie trwają wiecznie.",
+          "AudioPath": "assets/pl/Lewis/54_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:spring_3",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "spring_3",
+          "DialogueText": "Zasadziłaś już jakieś wiosenne rośliny? Pamiętaj, pory roku nie trwają wiecznie.",
+          "AudioPath": "assets/pl/Lewis/55_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:spring_3",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "Dość wcześnie przychodzisz do miasta. skończyłeś obowiązki na farmie?",
+          "AudioPath": "assets/pl/Lewis/56_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "Dość wcześnie przychodzisz do miasta. skończyłaś obowiązki na farmie?",
+          "AudioPath": "assets/pl/Lewis/57_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pl/Lewis/58.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "Dzień dobry! Doglądam właśnie ogródka. {Portrait:Happy}Hmm... czy to mszyca? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/59.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pl/Lewis/60.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "Dzień dobry! Doglądam właśnie ogródka. {Portrait:Happy}$e",
+          "AudioPath": "assets/pl/Lewis/61.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 5
+        },
+        {
+          "DialogueFrom": "Town_57_40",
+          "DialogueText": "Hmm... Mam nadzieję, że nie... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/62.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Town_57_40",
+          "PageIndex": 6
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Hmm... Zbieranie podatków... *ble ble*... Wydatki na wiosenne uroczystości... *ble ble ble*... {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/63.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Wed",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Wed",
+          "DialogueText": "Tak?",
+          "AudioPath": "assets/pl/Lewis/64.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "spring_10",
+          "DialogueText": "Ach... Nie ma to jak filiżanka mocnej herbaty o poranku.",
+          "AudioPath": "assets/pl/Lewis/65.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:spring_10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "W nocy knajpa jest bardzo zatłoczona. Czasem wrzucamy monetę do szafy grającej... *hihi* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/66.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Thu",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Thu",
+          "DialogueText": "Lubię tam wpadać raz w tygodniu, żeby nadrobić zaległości.",
+          "AudioPath": "assets/pl/Lewis/67.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Saloon",
+          "DialogueText": "Dobry wieczór! Miło Cię widzieć w towarzystwie mieszkańców.",
+          "AudioPath": "assets/pl/Lewis/68.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Saloon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Saloon",
+          "DialogueText": "Dobrze jest zrobić sobie przerwę i dowiedzieć się czegoś nowego. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/69.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Saloon",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Saloon4",
+          "DialogueText": "Dobry wieczór, {Farmer_Name}! Cieszę się, że odpoczywasz w knajpie. Dobrze jest od czasu do czasu zrobić sobie przerwę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/70.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Saloon4",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Saloon4",
+          "DialogueText": "Twój dziadek zawsze ciężko pracował... Następne piwo będzie na jego cześć.",
+          "AudioPath": "assets/pl/Lewis/71.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Saloon4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Fri",
+          "DialogueText": "Mam nadzieję, że ''%farm'' farma dobrze sobie radzi. Nie chciałbym patrzeć, jak idzie na marne.",
+          "AudioPath": "assets/pl/Lewis/72.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Fri",
+          "PageIndex": 0,
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "W weekend wszyscy wydają się o wiele szczęśliwsi, nie sądzisz?",
+          "AudioPath": "assets/pl/Lewis/73.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sat",
+          "DialogueText": "A ja pracuję siedem dni w tygodniu.",
+          "AudioPath": "assets/pl/Lewis/74.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Od dwudziestu lat jestem burmistrzem!",
+          "AudioPath": "assets/pl/Lewis/75.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Nikt nigdy nie kandydował przeciwko mnie. Lubię myśleć, że wykonuję swoją pracę bardzo dobrze.",
+          "AudioPath": "assets/pl/Lewis/76.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Sun",
+          "DialogueText": "Lubię być burmistrzem.",
+          "AudioPath": "assets/pl/Lewis/77.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:Sun",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "event_secret1",
+          "DialogueText": "Dziękuję, {Farmer_Name}. Nie zapomnę Ci tego.",
+          "AudioPath": "assets/pl/Lewis/78.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:event_secret1",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "event_secret2",
+          "DialogueText": "*szloch*... Nie mogę uwierzyć, że mógłbyś coś takiego zrobić... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/79_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:event_secret2",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania.",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "event_secret2",
+          "DialogueText": "*szloch*... Nie mogę uwierzyć, że mogłabyś coś takiego zrobić... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/80_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:event_secret2",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania.",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "event_secret2",
+          "DialogueText": "Jesteś okropny. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/81_male.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:event_secret2",
+          "PageIndex": 2,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "event_secret2",
+          "DialogueText": "Jesteś okropna. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/82_female.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:event_secret2",
+          "PageIndex": 3,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "summer_Mon",
+          "DialogueText": "Ogrodnictwo to moje hobby, więc cieszę się, że jest ciepło.",
+          "AudioPath": "assets/pl/Lewis/83.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Town_57_40",
+          "DialogueText": "Ach, moje kwiaty rosną wspaniale! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/84.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Town_57_40",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Town_57_40",
+          "DialogueText": "Dzień dobry! Czujesz ten zapach zroszonych lilii?",
+          "AudioPath": "assets/pl/Lewis/85.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Town_57_40",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Town_57_40",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pl/Lewis/86.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Town_57_40",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "summer_Town_57_40",
+          "DialogueText": "Jest jeszcze za wcześnie, ale powietrze robi się cieplejsze. Lato to przyjemna pora dla takiego starego człowieka jak ja, he he.",
+          "AudioPath": "assets/pl/Lewis/87.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Town_57_40",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Jak zostałem burmistrzem? To długa historia.",
+          "AudioPath": "assets/pl/Lewis/88.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Tue",
+          "DialogueText": "Oboje jesteśmy zbyt zajęci.",
+          "AudioPath": "assets/pl/Lewis/89.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Wed",
+          "DialogueText": "Meduzy księżycowego światła przypłyną lada chwila. To jedno z moich ulubionych zjawisk tutaj.",
+          "AudioPath": "assets/pl/Lewis/90.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Nocą w knajpie jest bardzo tłoczno.",
+          "AudioPath": "assets/pl/Lewis/91.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Thu",
+          "DialogueText": "Lubię tam wpadać raz w tygodniu, żeby nadrobić zaległości... i spróbować jedynego w swoim rodzaju spaghetti Gusa.",
+          "AudioPath": "assets/pl/Lewis/92.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Fri",
+          "DialogueText": "Hmm... Ciekawe, czy ktoś ma dziś urodziny? Lepiej sprawdzę kalendarz obok sklepu Pierra.",
+          "AudioPath": "assets/pl/Lewis/93.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "W weekend wszyscy wydają się o wiele szczęśliwsi, nie sądzisz?",
+          "AudioPath": "assets/pl/Lewis/94.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Sat",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Sat",
+          "DialogueText": "A ja pracuję siedem dni w tygodniu.",
+          "AudioPath": "assets/pl/Lewis/95.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Sat",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "summer_Sun",
+          "DialogueText": "Powiedz mi, czy hodujesz na swojej farmie jakieś borówki?",
+          "AudioPath": "assets/pl/Lewis/96.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Sun",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "summer_Sun",
+          "DialogueText": "Lubię świeże borówki.",
+          "AudioPath": "assets/pl/Lewis/97.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:summer_Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Mon",
+          "DialogueText": "Niektórzy mieszkańcy są ostrożni wobec nieznajomych. Żeby się otworzyli, musisz zdobyć ich zaufanie.",
+          "AudioPath": "assets/pl/Lewis/98.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Mon",
+          "DialogueText": "Cierpliwości, kiedyś Ci się uda. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/99.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Mon",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Tue",
+          "DialogueText": "To była mniej więcej ta pora roku, kiedy po raz pierwszy zostałem burmistrzem... ponad dwanaście lat temu.",
+          "AudioPath": "assets/pl/Lewis/100.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Tue",
+          "DialogueText": "Czuję się staro. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/101.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Tue",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Wed",
+          "DialogueText": "Jeśli masz propozycję dotyczącą miasta, wrzuć ją do mojego pudełka z pomysłami.",
+          "AudioPath": "assets/pl/Lewis/102.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Wed",
+          "DialogueText": "A no tak... Nie mamy takiego pudełka.",
+          "AudioPath": "assets/pl/Lewis/103.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Wed2",
+          "DialogueText": "W każdą środę jem na śniadanie gofry i kawę. To taka mała tradycja, którą staram się utrzymać, żeby urozmaicić życie kawalera. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/104.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Wed2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Town_57_40",
+          "DialogueText": "Hmmm... Dziwne małe grzyby pojawiły się w moich trocinach. Zastanawiam się, co to za grzyby?",
+          "AudioPath": "assets/pl/Lewis/105.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Town_57_40",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Town_57_40",
+          "DialogueText": "Dzień dobry! Powoli zbliżamy się do zimy. Widzę już koniec mojego ogródka.",
+          "AudioPath": "assets/pl/Lewis/106.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Town_57_40",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Town_57_40",
+          "DialogueText": "$e",
+          "AudioPath": "assets/pl/Lewis/107.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Town_57_40",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "fall_Town_57_40",
+          "DialogueText": "Przychodzisz do miasta dosyć wcześnie, co? Obowiązki na farmie skończone?",
+          "AudioPath": "assets/pl/Lewis/108.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Town_57_40",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Nocą w knajpie jest tłoczno.",
+          "AudioPath": "assets/pl/Lewis/109.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Thu",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Thu",
+          "DialogueText": "Lubię tam wpadać raz w tygodniu, żeby nadrobić zaległości.",
+          "AudioPath": "assets/pl/Lewis/110.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Thu",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Fri",
+          "DialogueText": "Mam nadzieję, że na farmie wszystko idzie dobrze.",
+          "AudioPath": "assets/pl/Lewis/111.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_12",
+          "DialogueText": "Masz na farmie jakieś ule?",
+          "AudioPath": "assets/pl/Lewis/112.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_12",
+          "DialogueText": "Jeśli ustawisz je blisko kwiatów, będziesz mieć miód innego rodzaju.",
+          "AudioPath": "assets/pl/Lewis/113.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_12",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_19",
+          "DialogueText": "Czasami można gołym okiem zauważyć, że coś jest zakopane pod ziemią. Miej oczy szeroko otwarte.",
+          "AudioPath": "assets/pl/Lewis/114.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_19",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Fri4",
+          "DialogueText": "Musisz spróbować 'sekretnego' sosu do spaghetti Gusa. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/115.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Fri4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_Fri4",
+          "DialogueText": "... Składniki mogą być tajemnicą, ale zapach już nie.",
+          "AudioPath": "assets/pl/Lewis/116.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Fri4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "fall_Fri4",
+          "DialogueText": "Do zobaczenia.",
+          "AudioPath": "assets/pl/Lewis/117.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Fri4",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "fall_Sun",
+          "DialogueText": "Starasz się na swojej farmie, {Farmer_Name}? Musisz osiągnąć sukces w wielu dziedzinach, jeśli chcesz zostać prawowitym obywatelem.",
+          "AudioPath": "assets/pl/Lewis/118.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:fall_Sun",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "winter_1",
+          "DialogueText": "Zima już nadeszła! Mieszkańcy będą teraz spędzać większość czasu w domach.",
+          "AudioPath": "assets/pl/Lewis/119.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_1",
+          "DialogueText": "O ile wiesz, gdzie kto mieszka! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/120.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_1",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Mon",
+          "DialogueText": "Kolejny rok prawie się kończy!",
+          "AudioPath": "assets/pl/Lewis/121.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Mon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Mon",
+          "DialogueText": "Mam nadzieję, że był dla Ciebie produktywny!",
+          "AudioPath": "assets/pl/Lewis/122.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Mon",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Tue",
+          "DialogueText": "Muszę zacząć się zastanawiać, co zrobić, żeby nasze miasteczko jeszcze bardziej się rozwinęło w nadchodzącym roku!",
+          "AudioPath": "assets/pl/Lewis/123.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Tue",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "Nawet w śniegu przychodzę w nocy, by zbierać Twoje produkty.",
+          "AudioPath": "assets/pl/Lewis/124.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Wed",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Wed",
+          "DialogueText": "W zimie też trzeba zarabiać!",
+          "AudioPath": "assets/pl/Lewis/125.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Wed",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Fri",
+          "DialogueText": "Mam nadzieję, że na Twojej farmie wszystko dobrze się układa.",
+          "AudioPath": "assets/pl/Lewis/126.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Fri",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Fri6",
+          "DialogueText": "Nigdy nie byłem żonaty. Nie mam rodziny. Żyję tylko po to, by być burmistrzem. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/127.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Fri6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_Fri6",
+          "DialogueText": "Czy warto? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/128.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Fri6",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "winter_Fri6",
+          "DialogueText": "... *ech*... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/129.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Fri6",
+          "PageIndex": 2,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Witaj, {Farmer_Name}! Jak się dziś miewasz? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/130.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Sun",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "winter_Sun",
+          "DialogueText": "Pozdrów ode mnie Marnie.",
+          "AudioPath": "assets/pl/Lewis/131.ogg",
+          "TranslationKey": "Characters/Dialogue/Lewis:winter_Sun",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Cześć, {Farmer_Name}. Robisz sobie przerwę?",
+          "AudioPath": "assets/pl/Lewis/132.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "rainy",
+          "DialogueText": "Mam nadzieję, że rzeka się nie przeleje... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/133.ogg",
+          "TranslationKey": "Characters/Dialogue/rainy:Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s0",
+          "DialogueText": "Hej! Co ty wyprawiasz? To prywatna posesja! {Portrait:Love}",
+          "AudioPath": "assets/pl/Lewis/134.ogg",
+          "TranslationKey": "Events/Town:45:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s1",
+          "DialogueText": "Sam!",
+          "AudioPath": "assets/pl/Lewis/135.ogg",
+          "TranslationKey": "Events/Town:45:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s2",
+          "DialogueText": "*ech*... Ta dzisiejsza młodzież... Czasami martwię się, czy to miasto nie jest stracone. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/136.ogg",
+          "TranslationKey": "Events/Town:45:s2",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s3",
+          "DialogueText": "Widziałeś co zaszło, {Farmer_Name}. Co o tym myślisz?",
+          "AudioPath": "assets/pl/Lewis/137_male.ogg",
+          "TranslationKey": "Events/Town:45:s3",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s4",
+          "DialogueText": "Widziałaś co zaszło, {Farmer_Name}. Co o tym myślisz?",
+          "AudioPath": "assets/pl/Lewis/138_female.ogg",
+          "TranslationKey": "Events/Town:45:s4",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s5",
+          "DialogueText": "Ma Pan rację. Sam powinien szanować cudzą prywatność.",
+          "AudioPath": "assets/pl/Lewis/139.ogg",
+          "TranslationKey": "Events/Town:45:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s6",
+          "DialogueText": "Niech Pan nie obwinia Sama. Nigdzie tu nie ma miejsca, gdzie mógłby sobie pojeździć!",
+          "AudioPath": "assets/pl/Lewis/140.ogg",
+          "TranslationKey": "Events/Town:45:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s7",
+          "DialogueText": "Nie wtrącam się.",
+          "AudioPath": "assets/pl/Lewis/141.ogg",
+          "TranslationKey": "Events/Town:45:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s8",
+          "DialogueText": "Dobra! Nigdy już więcej nie będę jeździł na deskorolce. Szczęśliwi? {Portrait:Angry}~Dokładnie! Gdyby był tu park, mógłbym se wtedy tam jeździć i wszyscy byliby szczęśliwi.~Hmmph. W porządku. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Lewis/142.ogg",
+          "TranslationKey": "Events/Town:45:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s9",
+          "DialogueText": "Słuchaj, Sam. Nie mam nic przeciwko, żebyś jeździł po mieście, tylko niczego nie zniszcz! Tylko tyle.~Hmmph. Myślałem, że jesteś o wiele dojrzalszą osobą, {Farmer_Name}. {Portrait:Love}~Tym razem Ci odpuszczę, Sam. Ale nie chcę widzieć jak znowu to robisz.",
+          "AudioPath": "assets/pl/Lewis/143.ogg",
+          "TranslationKey": "Events/Town:45:s9",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/45:s10",
+          "DialogueText": "Jasne?~Sam... Przepraszam, że na Ciebie nakrzyczałem. Ale proszę, uważaj. Jasne?~Jasne?",
+          "AudioPath": "assets/pl/Lewis/144.ogg",
+          "TranslationKey": "Events/Town:45:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s0",
+          "DialogueText": "Jestem z Ciebie dumny, Leah! Wydarzenia jak to, dodają życia naszemu małemu miasteczku! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/145.ogg",
+          "TranslationKey": "Events/Town:53:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s1",
+          "DialogueText": "Zacznijmy więc licytować te wspaniałe dzieła sztuki... Cudowna ozdoba do waszego domu! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/146.ogg",
+          "TranslationKey": "Events/Town:53:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s2",
+          "DialogueText": "Czy słyszałem 5000 monet za różową?",
+          "AudioPath": "assets/pl/Lewis/147.ogg",
+          "TranslationKey": "Events/Town:53:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s3",
+          "DialogueText": "Wow! Jestem wykończona.",
+          "AudioPath": "assets/pl/Lewis/148.ogg",
+          "TranslationKey": "Events/Town:53:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/53:s4",
+          "DialogueText": "Moja wystawa była wielkim sukcesem, prawda? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/149.ogg",
+          "TranslationKey": "Events/Town:53:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/639373:s0",
+          "DialogueText": "Marnie... nie możemy. Jeśli to wyjdzie na jaw, mogłoby to podkopać mój autorytet! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/150.ogg",
+          "TranslationKey": "Events/Town:639373:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/639373:s1",
+          "DialogueText": "Rozumiesz mnie... prawda? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/151.ogg",
+          "TranslationKey": "Events/Town:639373:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/639373:s2",
+          "DialogueText": "{Farmer_Name}... Słyszałeś nas, prawda? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/152_male.ogg",
+          "TranslationKey": "Events/Town:639373:s2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Town/639373:s3",
+          "DialogueText": "{Farmer_Name}... Słyszałaś nas, prawda? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/153_female.ogg",
+          "TranslationKey": "Events/Town:639373:s3",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra).",
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Town/639373:s4",
+          "DialogueText": "Tak... ale zachowam to w tajemnicy.",
+          "AudioPath": "assets/pl/Lewis/154.ogg",
+          "TranslationKey": "Events/Town:639373:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/639373:s5",
+          "DialogueText": "Tak... i powiem wszystkim.",
+          "AudioPath": "assets/pl/Lewis/155.ogg",
+          "TranslationKey": "Events/Town:639373:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s0",
+          "DialogueText": "Och, witaj.",
+          "AudioPath": "assets/pl/Lewis/156.ogg",
+          "TranslationKey": "Events/Town:611439:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s1",
+          "DialogueText": "Ale wstyd... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/157.ogg",
+          "TranslationKey": "Events/Town:611439:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s2",
+          "DialogueText": "To Dom Kultury Miasta Pelikan, a raczej to... co z niego zostało. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/158.ogg",
+          "TranslationKey": "Events/Town:611439:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s3",
+          "DialogueText": "Była to kiedyś duma i szczęście miasteczka... Zawsze tętniło życiem.",
+          "AudioPath": "assets/pl/Lewis/159.ogg",
+          "TranslationKey": "Events/Town:611439:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s4",
+          "DialogueText": "A teraz... Tylko popatrz. To wstyd. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/160.ogg",
+          "TranslationKey": "Events/Town:611439:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s5",
+          "DialogueText": "W tych czasach, młodzież woli siedzieć przed telewizorem zamiast angażować się w społeczność.",
+          "AudioPath": "assets/pl/Lewis/161.ogg",
+          "TranslationKey": "Events/Town:611439:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s6",
+          "DialogueText": "Posłuchaj, może i brzmię jak stary głupiec. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/162.ogg",
+          "TranslationKey": "Events/Town:611439:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s7",
+          "DialogueText": "Korporacja Joja namawia mnie, żebym sprzedał im ten budynek, bo chcą go przerobić na magazyn...",
+          "AudioPath": "assets/pl/Lewis/163.ogg",
+          "TranslationKey": "Events/Town:611439:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s8",
+          "DialogueText": "Miastu Pelikan przydałyby się pieniądze, ale coś mnie zatrzymuje przed sprzedażą... Chyba starzy ludzie jak ja przywiązują się do reliktów przeszłości... No cóż. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/164.ogg",
+          "TranslationKey": "Events/Town:611439:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s9",
+          "DialogueText": "Jeśli ktoś kupi Członkostwo Joja... po prostu go sprzedam.",
+          "AudioPath": "assets/pl/Lewis/165.ogg",
+          "TranslationKey": "Events/Town:611439:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s10",
+          "DialogueText": "*ech*... Wejdźmy do środka...",
+          "AudioPath": "assets/pl/Lewis/166.ogg",
+          "TranslationKey": "Events/Town:611439:s10",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s11",
+          "DialogueText": "Hmm? Co to?...",
+          "AudioPath": "assets/pl/Lewis/167.ogg",
+          "TranslationKey": "Events/Town:611439:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s12",
+          "DialogueText": "Pewnie Vincent i Jas się tutaj bawili.",
+          "AudioPath": "assets/pl/Lewis/168.ogg",
+          "TranslationKey": "Events/Town:611439:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s13",
+          "DialogueText": "To miejsce jest jeszcze bardziej zniszczone niż to zapamiętałem.",
+          "AudioPath": "assets/pl/Lewis/169.ogg",
+          "TranslationKey": "Events/Town:611439:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s14",
+          "DialogueText": "Co?",
+          "AudioPath": "assets/pl/Lewis/170.ogg",
+          "TranslationKey": "Events/Town:611439:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s15",
+          "DialogueText": "Co jest? Źle się czujesz? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/171.ogg",
+          "TranslationKey": "Events/Town:611439:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s16",
+          "DialogueText": "Widziałeś coś? Hmm... Nie zdziwiłbym się jakby to miejsce było pełne szczurów. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/172_male.ogg",
+          "TranslationKey": "Events/Town:611439:s16",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s17",
+          "DialogueText": "Widziałaś coś? Hmm... Nie zdziwiłbym się jakby to miejsce było pełne szczurów. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/173_female.ogg",
+          "TranslationKey": "Events/Town:611439:s17",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s18",
+          "DialogueText": "Martwisz mnie, {Farmer_Name}... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/174.ogg",
+          "TranslationKey": "Events/Town:611439:s18",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s19",
+          "DialogueText": "Słuchaj, chyba już pójdę do domu. Muszę coś zjeść.",
+          "AudioPath": "assets/pl/Lewis/175.ogg",
+          "TranslationKey": "Events/Town:611439:s19",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s20",
+          "DialogueText": "Hej. Zostawię tu otwarte drzwi... może w wolnym czasie pomożesz połapać te szczury.",
+          "AudioPath": "assets/pl/Lewis/176.ogg",
+          "TranslationKey": "Events/Town:611439:s20",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s21",
+          "DialogueText": "Dziwne...",
+          "AudioPath": "assets/pl/Lewis/177.ogg",
+          "TranslationKey": "Events/Town:611439:s21",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/611439:s22",
+          "DialogueText": "Wrócę tu i sprawdzę ten budynek.",
+          "AudioPath": "assets/pl/Lewis/178.ogg",
+          "TranslationKey": "Events/Town:611439:s22",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s0",
+          "DialogueText": "Nie wiem jak Ci się to udało, {Farmer_Name}... ale dom kultury jeszcze nigdy nie wyglądał tak dobrze! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/179.ogg",
+          "TranslationKey": "Events/Town:191393:s0",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s1",
+          "DialogueText": "Wyświadczyłeś Miastu Pelikan wielką przysługę. Każdy w mieście jest Ci wdzięczny. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/180_male.ogg",
+          "TranslationKey": "Events/Town:191393:s1",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s2",
+          "DialogueText": "Wyświadczyłaś Miastu Pelikan wielką przysługę. Każdy w mieście jest Ci wdzięczny. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/181_female.ogg",
+          "TranslationKey": "Events/Town:191393:s2",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s3",
+          "DialogueText": "Jako 'podziękowanie', chciałbym Ci wręczyć największe wyróżnienie tego miasteczka... Nagroda Bohatera Stardew. Zasługujesz na nią! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/182.ogg",
+          "TranslationKey": "Events/Town:191393:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s4",
+          "DialogueText": "Głos: *gderanie*... *mamrotanie...",
+          "AudioPath": "assets/pl/Lewis/183.ogg",
+          "TranslationKey": "Events/Town:191393:s4",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s5",
+          "DialogueText": "Kto to?",
+          "AudioPath": "assets/pl/Lewis/184.ogg",
+          "TranslationKey": "Events/Town:191393:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/191393:s6",
+          "DialogueText": "Ach, Morris.",
+          "AudioPath": "assets/pl/Lewis/185.ogg",
+          "TranslationKey": "Events/Town:191393:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s0",
+          "DialogueText": "Ach, witam Cię, {Farmer_Name}. Zjawiasz się w idealnym momencie. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/186.ogg",
+          "TranslationKey": "Events/Town:15389722:s0",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s1",
+          "DialogueText": "To nasza nowa tablica 'Specjalnych Zamówień'.",
+          "AudioPath": "assets/pl/Lewis/187.ogg",
+          "TranslationKey": "Events/Town:15389722:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s2",
+          "DialogueText": "Robin i ja zrobiliśmy ją od podstaw. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/188.ogg",
+          "TranslationKey": "Events/Town:15389722:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s3",
+          "DialogueText": "*Ekhem*... Nie zwracaj na nią uwagi. {Portrait:Angry}",
+          "AudioPath": "assets/pl/Lewis/189.ogg",
+          "TranslationKey": "Events/Town:15389722:s3",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s4",
+          "DialogueText": "Pozwól, że wyjaśnię...",
+          "AudioPath": "assets/pl/Lewis/190.ogg",
+          "TranslationKey": "Events/Town:15389722:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s5",
+          "DialogueText": "Widzisz... Z dobrze prosperującą farmą, lokalna gospodarka bardzo się rozwinęła.",
+          "AudioPath": "assets/pl/Lewis/191.ogg",
+          "TranslationKey": "Events/Town:15389722:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s6",
+          "DialogueText": "W wyniku czego, niektórzy z mieszkańców pytają mnie o sposób pozyskania lokalnych składników do ich firm lub projektów osobistych.",
+          "AudioPath": "assets/pl/Lewis/192.ogg",
+          "TranslationKey": "Events/Town:15389722:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s7",
+          "DialogueText": "Więc, Robin i ja wpadliśmy na pomysł z nowymi 'Specjalnymi Zamówieniami', gdzie ludzie będą mogli zgłaszać większe zlecenia, niż te na starej tablicy przed sklepem Pierre'a.",
+          "AudioPath": "assets/pl/Lewis/193.ogg",
+          "TranslationKey": "Events/Town:15389722:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s8",
+          "DialogueText": "Tak myślałem! Zawsze można na Ciebie liczyć, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Lewis/194.ogg",
+          "TranslationKey": "Events/Town:15389722:s8",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s9",
+          "DialogueText": "*echh*",
+          "AudioPath": "assets/pl/Lewis/195.ogg",
+          "TranslationKey": "Events/Town:15389722:s9",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s10",
+          "DialogueText": "Cóż, jestem pewien, że nie masz czasu, więc nie będziemy Ci dalej przeszkadzać.",
+          "AudioPath": "assets/pl/Lewis/196.ogg",
+          "TranslationKey": "Events/Town:15389722:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s11",
+          "DialogueText": "Jak zwykle, doceniam Twoją chęć wniesienia wkładu! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/197.ogg",
+          "TranslationKey": "Events/Town:15389722:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s12",
+          "DialogueText": "Trzymaj się, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Lewis/198.ogg",
+          "TranslationKey": "Events/Town:15389722:s12",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s13",
+          "DialogueText": "Heh... nie spodziewałbym się od Ciebie takiej odpowiedzi, {Farmer_Name}. Jestem rozczarowany. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/199.ogg",
+          "TranslationKey": "Events/Town:15389722:s13",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s14",
+          "DialogueText": "Hmmph... Cóż. Skończyliśmy, Robin. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/200.ogg",
+          "TranslationKey": "Events/Town:15389722:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Town/15389722:s15",
+          "DialogueText": "... Nie chcemy chyba zmarnować czyjegoś drogocennego czasu 'dla siebie'. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/201.ogg",
+          "TranslationKey": "Events/Town:15389722:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s0",
+          "DialogueText": "O rety!",
+          "AudioPath": "assets/pl/Lewis/202.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/2123243:s1",
+          "DialogueText": "Czemu nie...",
+          "AudioPath": "assets/pl/Lewis/203.ogg",
+          "TranslationKey": "Events/ManorHouse:2123243:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s0",
+          "DialogueText": "Ach, witaj {Farmer_Name}.",
+          "AudioPath": "assets/pl/Lewis/204.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s0",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s1",
+          "DialogueText": "Właśnie ładowałem nagrody do tej tutaj maszyny...",
+          "AudioPath": "assets/pl/Lewis/205.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s2",
+          "DialogueText": "To nowy program, który wymyśliłem, żeby pomóc w promowaniu ducha życzliwości pośród mieszkańców... Ciebie również!",
+          "AudioPath": "assets/pl/Lewis/206.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s3",
+          "DialogueText": "To bardzo proste... czasami gdy pomożesz komuś w mieście, otrzymasz 'Bilet z nagrodą'. Możesz go wymienić na nagrody.",
+          "AudioPath": "assets/pl/Lewis/207.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s4",
+          "DialogueText": "Jest tam trochę wyjątkowych rzeczy! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/208.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s5",
+          "DialogueText": "Jedyne czym się martwię, to tym, że ludzie będą bardziej pomagać ze względu na bilety, zamiast być życzliwym dla bliźnich... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/209.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s6",
+          "DialogueText": "Tak? Cóż, dobrze mi to słyszeć! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/210.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s7",
+          "DialogueText": "Rozumiem! {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/211.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s8",
+          "DialogueText": "Cóż... nie to chciałem usłyszeć, ale doceniam za szczerość.",
+          "AudioPath": "assets/pl/Lewis/212.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s9",
+          "DialogueText": "W każdym razie... sprawdzaj tablicę z ogłoszeniami. To dobry sposób na zdobycie biletów.",
+          "AudioPath": "assets/pl/Lewis/213.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/ManorHouse/prizeTicketIntro:s10",
+          "DialogueText": "Życzę powodzenia.",
+          "AudioPath": "assets/pl/Lewis/214.ogg",
+          "TranslationKey": "Events/ManorHouse:prizeTicketIntro:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/Saloon/3206194:s0",
+          "DialogueText": "Mmm...",
+          "AudioPath": "assets/pl/Lewis/215.ogg",
+          "TranslationKey": "Events/Saloon:3206194:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s0",
+          "DialogueText": "Ach, nasz nowy farmer! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/216_male.ogg",
+          "TranslationKey": "Events/BusStop:60367:s0",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s1",
+          "DialogueText": "Ach, nasza nowa farmerka! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/217_female.ogg",
+          "TranslationKey": "Events/BusStop:60367:s1",
+          "PageIndex": 0,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s2",
+          "DialogueText": "Witam! Jestem Lewis, Burmistrz Miasta Pelikan.",
+          "AudioPath": "assets/pl/Lewis/218.ogg",
+          "TranslationKey": "Events/BusStop:60367:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s3",
+          "DialogueText": "Od rana wszyscy o Ciebie wypytują.",
+          "AudioPath": "assets/pl/Lewis/219.ogg",
+          "TranslationKey": "Events/BusStop:60367:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s4",
+          "DialogueText": "Nieczęsto ktoś nowy się tu wprowadza. To u nas rzadkość!",
+          "AudioPath": "assets/pl/Lewis/220.ogg",
+          "TranslationKey": "Events/BusStop:60367:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s5",
+          "DialogueText": "Wprowadzasz się do starej chatki swojego dziadka.",
+          "AudioPath": "assets/pl/Lewis/221.ogg",
+          "TranslationKey": "Events/BusStop:60367:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s6",
+          "DialogueText": "To solidny dom... bardzo 'wiejski'.",
+          "AudioPath": "assets/pl/Lewis/222.ogg",
+          "TranslationKey": "Events/BusStop:60367:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s7",
+          "DialogueText": "Niegrzecznie!",
+          "AudioPath": "assets/pl/Lewis/223.ogg",
+          "TranslationKey": "Events/BusStop:60367:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s8",
+          "DialogueText": "Nie słuchaj jej, {Farmer_Name}. Ona tylko próbuje Ci wcisnąć swoje usługi stolarskie. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/224.ogg",
+          "TranslationKey": "Events/BusStop:60367:s8",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s9",
+          "DialogueText": "Przyjdź jutro do miasta i przywitaj się z mieszkańcami.",
+          "AudioPath": "assets/pl/Lewis/225.ogg",
+          "TranslationKey": "Events/BusStop:60367:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s10",
+          "DialogueText": "Na pewno to docenią.",
+          "AudioPath": "assets/pl/Lewis/226.ogg",
+          "TranslationKey": "Events/BusStop:60367:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s11",
+          "DialogueText": "Och, byłbym zapomniał. Jeśli masz coś do sprzedania, po prostu włóż to do tej skrzynki. Przyjdę w nocy i to odbiorę.",
+          "AudioPath": "assets/pl/Lewis/227.ogg",
+          "TranslationKey": "Events/BusStop:60367:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event/BusStop/60367:s12",
+          "DialogueText": "Cóż... Powodzenia!",
+          "AudioPath": "assets/pl/Lewis/228.ogg",
+          "TranslationKey": "Events/BusStop:60367:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Lewis",
+          "DialogueText": "To wielki dzień {Farmer_Name}... Nasz najważniejszy festiwal w całym roku, 'Targi Doliny Stardew'.",
+          "AudioPath": "assets/pl/Lewis/229.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Lewis",
+          "DialogueText": "Jeżeli chcesz wziąć udział w wystawie swojej pracy, zostawiłem dla Ciebie puste stanowisko. Daj znać jak skończysz, żebym mógł ją ocenić.",
+          "AudioPath": "assets/pl/Lewis/230.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Lewis_y2",
+          "DialogueText": "Uszanowanie, {Farmer_Name}! 'Targi Doliny Stardew' w końcu są, a tłum rośnie z każdą minutą.",
+          "AudioPath": "assets/pl/Lewis/231.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Lewis_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/fall16/Lewis_y2",
+          "DialogueText": "Tak jak rok temu, przygotowałem dla Ciebie pustą wystawę. Odezwij się, jak będziesz gotów.",
+          "AudioPath": "assets/pl/Lewis/232.ogg",
+          "TranslationKey": "Data/Festivals/fall16:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Lewis",
+          "DialogueText": "Dobry wieczór, {Farmer_Name}. Idziesz do nawiedzonego labiryntu? Jest całkiem straszny.",
+          "AudioPath": "assets/pl/Lewis/233.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Lewis",
+          "DialogueText": "Przygotował go ten, co mieszka w wieży. Nie pozwolił nikomu podejść, gdy nad nim pracował.",
+          "AudioPath": "assets/pl/Lewis/234.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Lewis_y2",
+          "DialogueText": "Dobry wieczór, {Farmer_Name}. Po raz kolejny zostaliśmy zaszczyceni nawiedzonym labiryntem, wybudowanym w tajemnicy przez tego ekscentryka mieszkającego w lesie. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Lewis/235.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Lewis_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/fall27/Lewis_y2",
+          "DialogueText": "Słyszałem, że w tym roku jest jeszcze większy. Powodzenia, jeśli odważysz się tam wejść...",
+          "AudioPath": "assets/pl/Lewis/236.ogg",
+          "TranslationKey": "Data/Festivals/fall27:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis",
+          "DialogueText": "Dobrze się bawisz, {Farmer_Name}? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/237.ogg",
+          "TranslationKey": "Data/Festivals/spring13:Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:0",
+          "DialogueText": "Wow, spójrzcie na te wszystkie jaja! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/238.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:0",
+          "DialogueText": "Gdybyście tak zbierali śmieci, mielibyśmy najczystsze miasto po tej stronie Oceanu Klejnotów! *hihi* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/239.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s0",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:1",
+          "DialogueText": "A teraz, zwycięzcą tegorocznego polowania na jajka jest...",
+          "AudioPath": "assets/pl/Lewis/240.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:2",
+          "DialogueText": "Oto Twoja nagroda.",
+          "AudioPath": "assets/pl/Lewis/241.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:3",
+          "DialogueText": "To koniec tegorocznego Festiwalu Jajek. Dziękuję wszystkim za przyjście!",
+          "AudioPath": "assets/pl/Lewis/242.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:4",
+          "DialogueText": "Oto Twoja nagroda, Abigail!",
+          "AudioPath": "assets/pl/Lewis/243.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:5",
+          "DialogueText": "To koniec tegorocznego Festiwalu Jajek. Dziękuję wszystkim za przyjście!",
+          "AudioPath": "assets/pl/Lewis/244.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:6",
+          "DialogueText": "Pora na największą atrakcję dzisiejszego festiwalu... Coroczne Wiosenne Polowanie Na Jajka! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/245.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:7",
+          "DialogueText": "Uspokójcie się, dzieciaki. Będzie wam potrzebna cała wasza energia, jeśli chcecie znaleźć jak najwięcej jajek.",
+          "AudioPath": "assets/pl/Lewis/246.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:8",
+          "DialogueText": "Wszyscy gotowi?",
+          "AudioPath": "assets/pl/Lewis/247.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:9",
+          "DialogueText": "Niech polowanie na jajka się rozpocznie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/248.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:10",
+          "DialogueText": "Wow, spójrzcie na te wszystkie jajka! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/249.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:10",
+          "DialogueText": "Gdybyście tak zbierali śmieci, mielibyśmy najczystsze miasto po tej stronie Oceanu Klejnotów! *hihi* {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/250.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s10",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:11",
+          "DialogueText": "A teraz, zwycięzcą tegorocznego polowania na jajka jest...",
+          "AudioPath": "assets/pl/Lewis/251.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:12",
+          "DialogueText": "Oto Twoja nagroda!",
+          "AudioPath": "assets/pl/Lewis/252.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:13",
+          "DialogueText": "To koniec tegorocznego Festiwalu Jajek. Dziękuję wszystkim za przyjście!",
+          "AudioPath": "assets/pl/Lewis/253.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:14",
+          "DialogueText": "To czas na największą atrakcję dzisiejszego święta... Coroczne polowanie na jajka! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/254.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:15",
+          "DialogueText": "Uspokójcie się, dzieciaki. Będzie wam potrzebna cała wasza energia, jeśli chcecie znaleźć jak najwięcej jajek.",
+          "AudioPath": "assets/pl/Lewis/255.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:16",
+          "DialogueText": "A więc... Czy wszyscy gotowi?",
+          "AudioPath": "assets/pl/Lewis/256.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s16",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring13/Lewis:speak:17",
+          "DialogueText": "Niech polowanie na jajka się rozpocznie! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/257.ogg",
+          "TranslationKey": "Festivals/spring13:Lewis:s17",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Lewis",
+          "DialogueText": "Jeśli chcesz wziąć udział w tańcu, musisz mieć kogoś do pary.",
+          "AudioPath": "assets/pl/Lewis/258.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Lewis_y2",
+          "DialogueText": "Dzień dobry, {Farmer_Name}. Nie mogło być lepszej pogody na dzisiejszy festiwal. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Lewis/259.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Lewis_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/spring24/Lewis_y2",
+          "DialogueText": "Przyjdź do mnie, jeśli zechcesz zacząć ceremonię. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Lewis/260.ogg",
+          "TranslationKey": "Data/Festivals/spring24:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis",
+          "DialogueText": "Uważaj! Gubernator jest tu na coroczną wizytę.",
+          "AudioPath": "assets/pl/Lewis/261.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis",
+          "DialogueText": "Jeśli masz coś, wrzuć to do kotła.",
+          "AudioPath": "assets/pl/Lewis/262.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis_y2",
+          "DialogueText": "Gubernator jest dziś naszym znamienitym gościem! Oczekuję, że wszyscy będą się dobrze zachowywać.",
+          "AudioPath": "assets/pl/Lewis/263.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Lewis_y2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis_y2",
+          "DialogueText": "Ci, którzy przynieśli swój składnik, mogą go dodać do kotła z zupą.",
+          "AudioPath": "assets/pl/Lewis/264.ogg",
+          "TranslationKey": "Data/Festivals/summer11:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:0",
+          "DialogueText": "Ludziska, to czas na kolejną ceremonię Luau.",
+          "AudioPath": "assets/pl/Lewis/265.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:0",
+          "DialogueText": "Wierzę, że każdy z was dodał coś dobrego. Nie chcemy, żeby Gubernator żałował wizyty u nas!",
+          "AudioPath": "assets/pl/Lewis/266.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s0",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:1",
+          "DialogueText": "Gubernatorze? Mógłby pan uczynić nam ten zaszczyt i jako pierwszy spróbować zupy?",
+          "AudioPath": "assets/pl/Lewis/267.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:2",
+          "DialogueText": "Ktokolwiek brał udział w tym okrutnym akcie wandalizmu, jest naprawdę zepsuty. Używanie mojej prywatnej własności do takich chorych pomysłów! {Portrait:Love}",
+          "AudioPath": "assets/pl/Lewis/268.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:2",
+          "DialogueText": "I żeby zepsuć tak perfekcyjnie dobrą zupę... Niewybaczalne! Nigdy tak się nie wstydziłem za tę społeczność... Odrażające. {Portrait:Love}",
+          "AudioPath": "assets/pl/Lewis/269.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:3",
+          "DialogueText": "Wszyscy do domu, koniec festiwalu. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/270.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:textAboveHead:4",
+          "DialogueText": "Cooo?!",
+          "AudioPath": "assets/pl/Lewis/271.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:5",
+          "DialogueText": "Ma pan rację... Jest trochę mdła. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/272.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s5",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:6",
+          "DialogueText": "Dziękuję za pańską wizytę, panie Gubernatorze. Przykro mi, że zupa nie była najlepsza.",
+          "AudioPath": "assets/pl/Lewis/273.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:7",
+          "DialogueText": "A więc... Chce ktoś trochę zupy?",
+          "AudioPath": "assets/pl/Lewis/274.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:8",
+          "DialogueText": "Ma pan rację... Jest przepyszna! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/275.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:9",
+          "DialogueText": "Dobra robota, ludzie! Chce ktoś spróbować? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/276.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:10",
+          "DialogueText": "Mmm... Smaczna. Dobrze się spisaliście.",
+          "AudioPath": "assets/pl/Lewis/277.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:11",
+          "DialogueText": "Kto chce trochę zupy?",
+          "AudioPath": "assets/pl/Lewis/278.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:12",
+          "DialogueText": "Ma pan rację... Nie ma w niej nic specjalnego. Ale nie jest zła.",
+          "AudioPath": "assets/pl/Lewis/279.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:13",
+          "DialogueText": "Chce ktoś trochę zupy?",
+          "AudioPath": "assets/pl/Lewis/280.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:14",
+          "DialogueText": "Fuj. Ktoś pewnie dodał składnik strasznie niskiej jakości. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/281.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:15",
+          "DialogueText": "Chce ktoś spróbować?",
+          "AudioPath": "assets/pl/Lewis/282.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:16",
+          "DialogueText": "Brawo... Ktokolwiek dodał wstrętny składnik sprawił, że Gubernator zemdlał! Wstyd mi za was. {Portrait:Love}",
+          "AudioPath": "assets/pl/Lewis/283.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s16",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:17",
+          "DialogueText": "Wszyscy do domu, koniec festiwalu. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/284.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s17",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:18",
+          "DialogueText": "Witam wszystkich! Cieszę się, że mogę dzisiaj ogłosić rozpoczęcie tegorocznej ceremonii Luau.",
+          "AudioPath": "assets/pl/Lewis/285.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s18",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:18",
+          "DialogueText": "Mam nadzieję, że przynieśliście same składniki najwyższej jakości! Na pewno nie chcielibyśmy, żeby gubernator miał o naszym miasteczku złe zdanie.",
+          "AudioPath": "assets/pl/Lewis/286.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s18",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer11/Lewis:speak:19",
+          "DialogueText": "A więc... Gubernatorze? Czy zechciałby pan uczynić nam zaszczytu próbując zupy jako pierwszy?",
+          "AudioPath": "assets/pl/Lewis/287.ogg",
+          "TranslationKey": "Festivals/summer11:Lewis:s19",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Lewis",
+          "DialogueText": "Dobry wieczór, {Farmer_Name}. Meduzy księżycowego światła są blisko.",
+          "AudioPath": "assets/pl/Lewis/288.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Lewis",
+          "DialogueText": "Gdy wypuścimy łódkę, przypłyną do doków, żeby się przywitać.",
+          "AudioPath": "assets/pl/Lewis/289.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Lewis_y2",
+          "DialogueText": "Uszanowanie, {Farmer_Name}. Gdy zapadnie wieczór, Meduzy Księżycowego Światła podpłyną bliżej linii brzegowej.",
+          "AudioPath": "assets/pl/Lewis/290.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Lewis_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/summer28/Lewis_y2",
+          "DialogueText": "Gdy wyślemy łódkę, zbiorą się wokół doków. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Lewis/291.ogg",
+          "TranslationKey": "Data/Festivals/summer28:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Lewis",
+          "DialogueText": "To czas na wdzięczność za szczęście, które nas spotkało w tym roku. Więc zapomnij o zmartwieniach i odpocznij!",
+          "AudioPath": "assets/pl/Lewis/292.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Lewis_y2",
+          "DialogueText": "Szczęśliwego Święta Gwiazdy Polarnej, {Farmer_Name}. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/293.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Lewis_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/winter25/Lewis_y2",
+          "DialogueText": "To czas na odpoczynek, cieszenia się dobrym towarzystwem i wyrażanie wdzięczności za to, co mamy. {Portrait:Neutral}",
+          "AudioPath": "assets/pl/Lewis/294.ogg",
+          "TranslationKey": "Data/Festivals/winter25:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis",
+          "DialogueText": "Witam na Festiwalu Lodu!",
+          "AudioPath": "assets/pl/Lewis/295.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis",
+          "DialogueText": "Główną atrakcją są zawody w łowieniu ryb. Zrobiliśmy to 'zamarznięte jezioro' i wypełniliśmy je rybami.",
+          "AudioPath": "assets/pl/Lewis/296.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis",
+          "DialogueText": "Daj znać, gdy będziesz gotów.",
+          "AudioPath": "assets/pl/Lewis/297.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Lewis",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis_y2",
+          "DialogueText": "Cześć, {Farmer_Name}. To znowu ten czas w roku na festiwal łowienia ryb.",
+          "AudioPath": "assets/pl/Lewis/298.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Lewis_y2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis_y2",
+          "DialogueText": "Odezwij się, jak będziesz gotów! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/299.ogg",
+          "TranslationKey": "Data/Festivals/winter8:Lewis_y2",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:0",
+          "DialogueText": "Dobrze, ludziska. Zacznijmy tegoroczny konkurs w łowieniu ryb.",
+          "AudioPath": "assets/pl/Lewis/300.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:1",
+          "DialogueText": "Uczestnicy! Waszym celem jest złowienie jak najwięcej ryb w dwie minuty używając przy tym konkursowych wędek.",
+          "AudioPath": "assets/pl/Lewis/301.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:1",
+          "DialogueText": "Musicie je łowić tutaj, w tych przeręblach.",
+          "AudioPath": "assets/pl/Lewis/302.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s1",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:2",
+          "DialogueText": "Wszyscy gotowi?",
+          "AudioPath": "assets/pl/Lewis/303.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:3",
+          "DialogueText": "Start!",
+          "AudioPath": "assets/pl/Lewis/304.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:4",
+          "DialogueText": "Wow, ile tu ryb! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/305.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:5",
+          "DialogueText": "*Odruch Wymiotny*... Ten smród... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/306.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s5",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:6",
+          "DialogueText": "Tegorocznym zwycięzcą konkursu w łowieniu ryb zostaje...",
+          "AudioPath": "assets/pl/Lewis/307.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s6",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:7",
+          "DialogueText": "Oto Twoja nagroda! Gratuluję.",
+          "AudioPath": "assets/pl/Lewis/308.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s7",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:8",
+          "DialogueText": "To koniec tegorocznego Festiwalu Lodu. Dziękuję wszystkim za przybycie!",
+          "AudioPath": "assets/pl/Lewis/309.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s8",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:8",
+          "DialogueText": "A teraz wypuśćmy te biedne ryby... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/310.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s8",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:9",
+          "DialogueText": "Oto Twoja nagroda, Willy. Gratuluję.",
+          "AudioPath": "assets/pl/Lewis/311.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s9",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:10",
+          "DialogueText": "To koniec tegorocznego Festiwalu Lodu. Dziękuję wszystkim za przybycie!",
+          "AudioPath": "assets/pl/Lewis/312.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s10",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:10",
+          "DialogueText": "A teraz wypuśćmy te biedne ryby... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/313.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s10",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:11",
+          "DialogueText": "Dobra, ludziska. Zacznijmy tegoroczne zawody w łowieniu ryb.",
+          "AudioPath": "assets/pl/Lewis/314.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s11",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:12",
+          "DialogueText": "Uczestnicy, tymi wędkami musicie złowić jak najwięcej ryb z tych przerębli.",
+          "AudioPath": "assets/pl/Lewis/315.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s12",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:13",
+          "DialogueText": "Gotowi?",
+          "AudioPath": "assets/pl/Lewis/316.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s13",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:14",
+          "DialogueText": "Zaczynajmy!",
+          "AudioPath": "assets/pl/Lewis/317.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s14",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:15",
+          "DialogueText": "Imponujące, ale dużo ryb! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/318.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s15",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:16",
+          "DialogueText": "*Odruch Wymiotny*... Nigdy nie przyzwyczaję się do tego smrodu... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/319.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s16",
+          "PageIndex": 0,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:17",
+          "DialogueText": "A więc, tegorocznym zwycięzcą zawodów w łowieniu ryb jest...",
+          "AudioPath": "assets/pl/Lewis/320.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s17",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:18",
+          "DialogueText": "Oto Twoja nagroda!",
+          "AudioPath": "assets/pl/Lewis/321.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s18",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:19",
+          "DialogueText": "To wszystko, jeśli chodzi o tegoroczny Festiwal Lodu. Dzięki za przyjście!",
+          "AudioPath": "assets/pl/Lewis/322.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s19",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:19",
+          "DialogueText": "A teraz wypuśćmy te biedne ryby... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/323.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s19",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:20",
+          "DialogueText": "Oto Twoja nagroda, Willy.",
+          "AudioPath": "assets/pl/Lewis/324.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s20",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:21",
+          "DialogueText": "To wszystko, jeśli chodzi o tegoroczny Festiwal Lodu. Dzięki za przyjście!",
+          "AudioPath": "assets/pl/Lewis/325.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s21",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Festival/winter8/Lewis:speak:21",
+          "DialogueText": "A teraz wypuśćmy te biedne ryby... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/326.ogg",
+          "TranslationKey": "Festivals/winter8:Lewis:s21",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Lewis:s0",
+          "DialogueText": "Wow, uwielbiam to! Dziękuję!",
+          "AudioPath": "assets/pl/Lewis/327.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Lewis:s0",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Lewis:s1",
+          "DialogueText": "Dziękuję, to dobry prezent!",
+          "AudioPath": "assets/pl/Lewis/328.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Lewis:s1",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Lewis:s2",
+          "DialogueText": "Cóż... Liczy się pamięć...",
+          "AudioPath": "assets/pl/Lewis/329.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Lewis:s2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Lewis:s3",
+          "DialogueText": "Niedobrze mi. Ale okropny prezent.",
+          "AudioPath": "assets/pl/Lewis/330.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Lewis:s3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPCGiftTastes/Lewis:s4",
+          "DialogueText": "To miłe z Twojej strony. Dzięki.",
+          "AudioPath": "assets/pl/Lewis/331.ogg",
+          "TranslationKey": "Data/NPCGiftTastes:Lewis:s4",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Intro_Lewis",
+          "DialogueText": "Wow... Jakie widoki.",
+          "AudioPath": "assets/pl/Lewis/332.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Intro_Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue1_Lewis",
+          "DialogueText": "Wiesz co, {Farmer_Name}... Przez długi czas byłem burmistrzem Miasta Pelikan.",
+          "AudioPath": "assets/pl/Lewis/333.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue1_Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue1_Lewis",
+          "DialogueText": "Ludzie przychodzą i odchodzą. Przeżyliśmy trudne czasy, jak i chwile dostatku.",
+          "AudioPath": "assets/pl/Lewis/334.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue1_Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue2_Lewis",
+          "DialogueText": "Muszę przyznać, że przez te wszystkie lata burmistrzowania, nic nie napawało mnie dumą jak widok ''%farm'' farmy kwitnącej pod Twoją opieką. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/335.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue2_Lewis",
+          "PageIndex": 0,
+          "ActorNote": "%farm / {Farm_Name} – nazwa farmy gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue2_Lewis",
+          "DialogueText": "Twoja farma jest poza najśmielszymi marzeniami Twojego dziadka.",
+          "AudioPath": "assets/pl/Lewis/336.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue2_Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue2_Lewis",
+          "DialogueText": "I przy okazji, na zawsze zmieniłeś dolinę.",
+          "AudioPath": "assets/pl/Lewis/337_male.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue2_Lewis",
+          "PageIndex": 2,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Dialogue2_Lewis",
+          "DialogueText": "I przy okazji, na zawsze zmieniłaś dolinę.",
+          "AudioPath": "assets/pl/Lewis/338_female.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Dialogue2_Lewis",
+          "PageIndex": 3,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Lewis",
+          "DialogueText": "Możesz tego nie wiedzieć, ale bardzo mi zależy na tym mieście, {Farmer_Name}.",
+          "AudioPath": "assets/pl/Lewis/339.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Lewis",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Lewis",
+          "DialogueText": "%year lat temu martwiłem się przyszłością doliny. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/340.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Lewis",
+          "PageIndex": 1,
+          "ActorNote": "%year – liczba lat / numer roku (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Lewis",
+          "DialogueText": "Ale teraz, spadł mi kamień z serca.",
+          "AudioPath": "assets/pl/Lewis/341.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Lewis",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Lewis",
+          "DialogueText": "I kto by pomyślał, że skromny farmer, który się tu ledwo wprowadził, może zmienić tak wiele? {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/342.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Lewis",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "ExtraDialogue/SummitEvent_Outro_Lewis",
+          "DialogueText": "... Dziękuję Ci.",
+          "AudioPath": "assets/pl/Lewis/343.ogg",
+          "TranslationKey": "Data/ExtraDialogue:SummitEvent_Outro_Lewis",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_summer_movie_0_BeforeMovie",
+          "DialogueText": "Gdy byłem mały, oglądałem filmy o kowbojach... Cieszę się, że ta sztuka wciąż tętni życiem!",
+          "AudioPath": "assets/pl/Lewis/344.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_summer_movie_0_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_summer_movie_0_DuringMovie",
+          "DialogueText": "(Zastanawiam się jakiego rodzaju wosku do wąsów używa.)",
+          "AudioPath": "assets/pl/Lewis/345.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_summer_movie_0_DuringMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_summer_movie_0_DuringMovie_2",
+          "DialogueText": "Burmistrz Lewis wydaje się być głęboko zamyślony...",
+          "AudioPath": "assets/pl/Lewis/346.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_summer_movie_0_DuringMovie_2",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_summer_movie_0_AfterMovie",
+          "DialogueText": "Heh, to było świetne! Jak za starych czasów... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/347.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_summer_movie_0_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_spring_movie_1_BeforeMovie",
+          "DialogueText": "Sam gubernator polecił mi ten film!",
+          "AudioPath": "assets/pl/Lewis/348.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_spring_movie_1_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_spring_movie_1_AfterMovie",
+          "DialogueText": "Fantastyczne! Naprawdę sprawili, że Dolina Stardew wygląda pięknie, prawda? Gdyby tylko pokazali Miasteczko Pelikan... {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/349.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_spring_movie_1_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_like_BeforeMovie",
+          "DialogueText": "Jako burmistrz, muszę wiedzieć jakie filmy są pokazywane w naszej społeczności. Musimy pilnować delikatnych umysłów naszego pokolenia!",
+          "AudioPath": "assets/pl/Lewis/350.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_like_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_like_AfterMovie",
+          "DialogueText": "Hah! to nie było takie złe... Nawet powiedziałbym, że 'Burmistrz Poleca'. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/351.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_like_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_dislike_BeforeMovie",
+          "DialogueText": "Hmm... Na pewno ciekawie będzie zobaczyć, co ta dzisiejsza młodzież teraz ogląda...",
+          "AudioPath": "assets/pl/Lewis/352.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_dislike_BeforeMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieReactions/Lewis_dislike_AfterMovie",
+          "DialogueText": "Huh... Zastanawiam się, czy przesłanie tego filmu jest dobre dla naszej społeczności.",
+          "AudioPath": "assets/pl/Lewis/353.ogg",
+          "TranslationKey": "Strings/MovieReactions:Lewis_dislike_AfterMovie",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Lewis",
+          "DialogueText": "Po długiej, ciemnej zimie, ten festiwal idealnie się nada do ożywienia wszystkich.",
+          "AudioPath": "assets/pl/Lewis/354.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Lewis2",
+          "DialogueText": "To wszystko jest możliwe dzięki Tobie, {Farmer_Name}! Nie mogę Ci wystarczająco podziękować.",
+          "AudioPath": "assets/pl/Lewis/355.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Lewis2",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Strings/1_6_Strings:DesertFestival_Lewis3",
+          "DialogueText": "Pamiętaj, dziś ostatni dzień festiwalu. Ale za rok znowu tu wrócimy.",
+          "AudioPath": "assets/pl/Lewis/356.ogg",
+          "TranslationKey": "Strings/1_6_Strings:DesertFestival_Lewis3",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ManorHouse_Lewis_Morning",
+          "DialogueText": "Dzień dobry!",
+          "AudioPath": "assets/pl/Lewis/357.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ManorHouse_Lewis_Morning",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ManorHouse_Lewis_Afternoon",
+          "DialogueText": "Dzień dobry.",
+          "AudioPath": "assets/pl/Lewis/358.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ManorHouse_Lewis_Afternoon",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ManorHouse_Lewis_Evening",
+          "DialogueText": "Dobry wieczór.",
+          "AudioPath": "assets/pl/Lewis/359.ogg",
+          "TranslationKey": "Strings/SpeechBubbles:ManorHouse_Lewis_Evening",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "fall_9.000",
+          "DialogueText": "Em... Doktorze Harvey? To jest objęte tajemnicą lekarską, prawda?",
+          "AudioPath": "assets/pl/Lewis/360.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:fall_9.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "15.000",
+          "DialogueText": "Lubię sprawdzać jak się mają lokalne biznesy w naszym miasteczku.",
+          "AudioPath": "assets/pl/Lewis/361.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:15.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "6.000",
+          "DialogueText": "Przyszedłem po podatki od Clinta.",
+          "AudioPath": "assets/pl/Lewis/362.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:6.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "1.000",
+          "DialogueText": "O tej porze roku najbardziej czuć ryby.",
+          "AudioPath": "assets/pl/Lewis/363.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:1.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Tue.000",
+          "DialogueText": "Robię tu wszystkie moje zakupy. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/364.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:Tue.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "3.000",
+          "DialogueText": "Sprawdzam, czy Marnie niczego nie potrzebuje.",
+          "AudioPath": "assets/pl/Lewis/365.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:3.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "6.001",
+          "DialogueText": "Biblioteka to jedna z najlepszych atrakcji Miasta Pelikan. Jest ufundowana z podatków, które zbieramy od lokalnych przedsiębiorstw.",
+          "AudioPath": "assets/pl/Lewis/366.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:6.001",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "winter_16.000",
+          "DialogueText": "Kupiłem wszystkie moje ulubione rzeczy na targach...",
+          "AudioPath": "assets/pl/Lewis/367.ogg",
+          "TranslationKey": "Strings/schedules/Lewis:winter_16.000",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_102",
+          "DialogueText": "Masz je?... Gdzie?... Och!... Uhmm... Heh.",
+          "AudioPath": "assets/pl/Lewis/368.ogg",
+          "TranslationKey": "Data/Quests:102",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_102",
+          "DialogueText": "Tam? Nie mam pojęcia jak mogły się tam znaleźć... *kaszel*",
+          "AudioPath": "assets/pl/Lewis/369.ogg",
+          "TranslationKey": "Data/Quests:102",
+          "PageIndex": 1,
+          "ActorNote": "*…* – opis odgłosu albo czynności, nie słowo do przeczytania."
+        },
+        {
+          "DialogueFrom": "Quest_102",
+          "DialogueText": "To zostaje między nami. Zrozumiano? {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/370.ogg",
+          "TranslationKey": "Data/Quests:102",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Quest_120",
+          "DialogueText": "Masz olej? Pozwól, że zobaczę...",
+          "AudioPath": "assets/pl/Lewis/371.ogg",
+          "TranslationKey": "Data/Quests:120",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Quest_120",
+          "DialogueText": "Wysokiej jakości... bardzo śliski. Idealny. Dziękuję.",
+          "AudioPath": "assets/pl/Lewis/372.ogg",
+          "TranslationKey": "Data/Quests:120",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event.cs.1025",
+          "DialogueText": "Przepiękna ceremonia. Gratulacje! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/373.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1025",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1730",
+          "DialogueText": "Ty!!! Czy to był jakiś głupi żart?! To jest moja prywatna własność! {Portrait:Love}",
+          "AudioPath": "assets/pl/Lewis/374.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1730",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1730",
+          "DialogueText": "Masz, weź te 750 gwiezdnych żetonów i nikomu nie mów. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/375.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1730",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Event.cs.1730",
+          "DialogueText": "Teraz wyczyść swoją wystawę i przynieś mi moją... rzecz... jutro. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/376.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1730",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "NPC.cs.4293",
+          "DialogueText": "Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/377.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4293",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.4294",
+          "DialogueText": "To boli! Co jest z Tobą nie tak? {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/378.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.4294",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Town_DumpsterDiveComment_Adult",
+          "DialogueText": "Hej, przestań! Fuj! {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/379.ogg",
+          "TranslationKey": "Data/ExtraDialogue:Town_DumpsterDiveComment_Adult",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_Invited",
+          "DialogueText": "Film? Pewnie. Spotkamy się w kinie.",
+          "AudioPath": "assets/pl/Lewis/380.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Invited",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_Reject",
+          "DialogueText": "Wybacz, nie mam ochoty iść na film...",
+          "AudioPath": "assets/pl/Lewis/381.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_Reject",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_AlreadySeen",
+          "DialogueText": "Wybacz, ten film był w tamtym tygodniu...",
+          "AudioPath": "assets/pl/Lewis/382.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_AlreadySeen",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "MovieInvite_InvitedBySomeoneElse",
+          "DialogueText": "Wybacz. Idę do kina z kimś innym, może do nas dołączysz?",
+          "AudioPath": "assets/pl/Lewis/383.ogg",
+          "TranslationKey": "Strings/Characters:MovieInvite_InvitedBySomeoneElse",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3956",
+          "DialogueText": "Umm... nie wydaje mi się.",
+          "AudioPath": "assets/pl/Lewis/384.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3956",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "NPC.cs.3957",
+          "DialogueText": "Czy to żart? Nie łapię.",
+          "AudioPath": "assets/pl/Lewis/385.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:NPC.cs.3957",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1862",
+          "DialogueText": "Abigail!",
+          "AudioPath": "assets/pl/Lewis/386.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1862",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1871",
+          "DialogueText": "Willy, z 5 dużymi rybami!",
+          "AudioPath": "assets/pl/Lewis/387.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1871",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Utility.cs.5367",
+          "DialogueText": "Gdy {Farmer_Name} po raz pierwszy pojawił się w Mieście Pelikan, nikt nie wiedział, czy wpasuje się w naszą społeczność...",
+          "AudioPath": "assets/pl/Lewis/388.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5367",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5367",
+          "DialogueText": "Ale od tego dnia, {Farmer_Name} będzie większą częścią społeczności tego miasteczka niż każdy z nas! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/389.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5367",
+          "PageIndex": 1,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5369",
+          "DialogueText": "Gdy {Farmer_Name} po raz pierwszy pojawiła się w Mieście Pelikan nikt nie wiedział czy wpasuje się w naszą społeczność...",
+          "AudioPath": "assets/pl/Lewis/390.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5369",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5370",
+          "DialogueText": "A więc, zaczynajmy!",
+          "AudioPath": "assets/pl/Lewis/391.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5370",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Utility.cs.5371",
+          "DialogueText": "{Farmer_Name}... %spouse...",
+          "AudioPath": "assets/pl/Lewis/392.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5371",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra). %spouse – imię współmałżonka gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "Utility.cs.5371",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i... no, mężem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/393.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5371",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Utility.cs.5373",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was mężem i żoną! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/394.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5373",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Utility.cs.5375",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i... no, żoną! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/395.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5375",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Utility.cs.5377",
+          "DialogueText": "Jako burmistrz Miasta Pelikan i regionalny posiadacz pieczęci małżeńskiej, ogłaszam was żoną i mężem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/396.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5377",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Utility.cs.5379",
+          "DialogueText": "Możecie się pocałować.",
+          "AudioPath": "assets/pl/Lewis/397.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5379",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Utility.cs.5381",
+          "DialogueText": "Od teraz życie już nie będzie takie jak kiedyś...",
+          "AudioPath": "assets/pl/Lewis/398.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5381",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Utility.cs.5383",
+          "DialogueText": "... Ale wszystko jeszcze przed nami!",
+          "AudioPath": "assets/pl/Lewis/399.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Utility.cs.5383",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Co u Ciebie?",
+          "AudioPath": "assets/pl/Lewis/400.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Dobrze słyszeć.",
+          "AudioPath": "assets/pl/Lewis/401.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Chyba mogę powiedzieć za wszystkich, że cenimy sobie twoją obecność we wspólnocie.",
+          "AudioPath": "assets/pl/Lewis/402.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Twój dziadek byłby z Ciebie dumny.",
+          "AudioPath": "assets/pl/Lewis/403.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Cóż, pozwolę ci wrócić do roboty. Do widzenia!",
+          "AudioPath": "assets/pl/Lewis/404.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Dobrze słyszeć!",
+          "AudioPath": "assets/pl/Lewis/405.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 5
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Twoja farma podniosła lokalną ekonomię, która jest dobra dla wszystkich. Doceniamy twoją ciężką pracę!",
+          "AudioPath": "assets/pl/Lewis/406.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 6
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Chyba mogę powiedzieć, że twój dziadek byłby z Ciebie bardzo dumny.",
+          "AudioPath": "assets/pl/Lewis/407.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 7
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Cóż, Pozwolę ci wrócić do pracy. Do widzenia!",
+          "AudioPath": "assets/pl/Lewis/408.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 8
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Och... Przykro mi to słyszeć. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/409.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 9
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Uch... próbuj dalej ciężko pracować i na pewno wszystko się poprawi...",
+          "AudioPath": "assets/pl/Lewis/410.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 10
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "Cóż... pozwolę ci wrócić do pracy... Ok? Zadzwoń później. Pa. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/411.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 11
+        },
+        {
+          "DialogueFrom": "Phone_Ring_Lewis",
+          "DialogueText": "A to co? Chyba linia została odcięta... nic nie słyszę. W porządku, chyba się rozłączę. Pa. {Portrait:Unique}",
+          "AudioPath": "assets/pl/Lewis/412.ogg",
+          "TranslationKey": "Strings/Characters:Phone_Ring_Lewis",
+          "PageIndex": 12
+        },
+        {
+          "DialogueFrom": "Event.cs.1521",
+          "DialogueText": "Myślisz, że wszyscy są gotowi na polowanie?",
+          "AudioPath": "assets/pl/Lewis/413.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1521",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1524",
+          "DialogueText": "Powinniśmy zacząć?",
+          "AudioPath": "assets/pl/Lewis/414.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1524",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1527",
+          "DialogueText": "Powinniśmy zacząć Luau? Gubernator chyba zgłodniał.",
+          "AudioPath": "assets/pl/Lewis/415.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1531",
+          "DialogueText": "Jak myślisz... mogę już wypuścić łódkę?",
+          "AudioPath": "assets/pl/Lewis/416.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1531",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1535",
+          "DialogueText": "Och... Twoja wystawa już jest przygotowana?",
+          "AudioPath": "assets/pl/Lewis/417.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1535",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "Event.cs.1548",
+          "DialogueText": "Możemy zacząć zawody w łowieniu ryb?",
+          "AudioPath": "assets/pl/Lewis/418.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:Event.cs.1548",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13526",
+          "DialogueText": "Och!",
+          "AudioPath": "assets/pl/Lewis/419.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13526",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13527",
+          "DialogueText": "Hej.",
+          "AudioPath": "assets/pl/Lewis/420.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13527",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13528",
+          "DialogueText": "Cześć {Farmer_Name}!",
+          "AudioPath": "assets/pl/Lewis/421.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13528",
+          "PageIndex": 0,
+          "ActorNote": "{Farmer_Name} – imię gracza (wstawia gra)."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13530",
+          "DialogueText": "Czy to jest {0}?",
+          "AudioPath": "assets/pl/Lewis/422.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13530",
+          "PageIndex": 0,
+          "ActorNote": "Nagrywamy „Czy to naprawdę to?” – nazwę przedmiotu ({0}) gra pokazuje tylko na ekranie."
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13532",
+          "DialogueText": "O! Tego mi było trzeba!",
+          "AudioPath": "assets/pl/Lewis/423.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13532",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałeś moją notkę?",
+          "AudioPath": "assets/pl/Lewis/424_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13534",
+          "DialogueText": "Oo, czyli jednak widziałaś moją notkę?",
+          "AudioPath": "assets/pl/Lewis/425_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13534",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałeś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Lewis/426_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13535",
+          "DialogueText": "Oo, czyli jednak widziałaś moje ogłoszenie?",
+          "AudioPath": "assets/pl/Lewis/427_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13535",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałeś moją wiadomość?",
+          "AudioPath": "assets/pl/Lewis/428_male.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 0,
+          "GenderVariant": "male"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13536",
+          "DialogueText": "Oo, czyli jednak widziałaś moją wiadomość?",
+          "AudioPath": "assets/pl/Lewis/429_female.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13536",
+          "PageIndex": 1,
+          "GenderVariant": "female"
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13538",
+          "DialogueText": "Wielkie dzięki!",
+          "AudioPath": "assets/pl/Lewis/430.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13538",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13539",
+          "DialogueText": "Doceniam to.",
+          "AudioPath": "assets/pl/Lewis/431.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13539",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13540",
+          "DialogueText": "Wygląda wspaniale.",
+          "AudioPath": "assets/pl/Lewis/432.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13540",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13542",
+          "DialogueText": "Masz tu małe co nieco za fatygę.",
+          "AudioPath": "assets/pl/Lewis/433.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13542",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13543",
+          "DialogueText": "Oto Twoja zapłata.",
+          "AudioPath": "assets/pl/Lewis/434.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13543",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13544",
+          "DialogueText": "... Zobaczmy. Oto Twoja należność.",
+          "AudioPath": "assets/pl/Lewis/435.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13544",
+          "PageIndex": 0
+        },
+        {
+          "DialogueFrom": "ItemDeliveryQuest.cs.13615",
+          "DialogueText": "To za mało... potrzebuję {0}.",
+          "AudioPath": "assets/pl/Lewis/436.ogg",
+          "TranslationKey": "Strings/StringsFromCSFiles:ItemDeliveryQuest.cs.13615",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Lewis/437.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Lewis/438.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "Po ugotowaniu, cały dom śmierdział {3}... Nawet nie chcę wiedzieć skąd Pierre znalazł coś takiego. {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/439.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Lewis/440.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Lewis/441.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...",
+          "AudioPath": "assets/pl/Lewis/442.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Po ugotowaniu, cały dom pachniał {3}... Mówię Ci, strzał w dziesiątkę! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/443.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "Cieszę się, że magazyny Pierre znowu się rozwijają.",
+          "AudioPath": "assets/pl/Lewis/444.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh",
+          "DialogueText": "W każdym razie...",
+          "AudioPath": "assets/pl/Lewis/445.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}? Chyba ja to mam...",
+          "AudioPath": "assets/pl/Lewis/446.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh",
+          "DialogueText": "Było bardzo dobrej jakości. Podziwiam.",
+          "AudioPath": "assets/pl/Lewis/447.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Cześć... Czy Pierre nie kupował od Ciebie {1} {2}?",
+          "AudioPath": "assets/pl/Lewis/448.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow",
+          "DialogueText": "Jakość była przyzwoita.",
+          "AudioPath": "assets/pl/Lewis/449.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Na ostatnich zakupach Pierre pokazał mi {1} {2}. Chyba kupił to od Ciebie.",
+          "AudioPath": "assets/pl/Lewis/450.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4",
+          "DialogueText": "Jak od Ciebie, to biorę. {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/451.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Lewis/452.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Powiedział, że wyhodował to w swoim ogródku. Nikt mi nie mówił, że Pierre jest takim utalentowanym rolnikiem! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/453.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_VegetableOrFruit",
+          "DialogueText": "Chyba masz niezłego rywala, co?",
+          "AudioPath": "assets/pl/Lewis/454.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit",
+          "PageIndex": 2
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra.",
+          "AudioPath": "assets/pl/Lewis/455.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Cooking",
+          "DialogueText": "Mówił, że sam to ugotował z lokalnych składników. Nikt nie powiedział, że Pierre to taki {3} {4} kucharz!",
+          "AudioPath": "assets/pl/Lewis/456.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Cooking",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_5_Foraged",
+          "DialogueText": "Mam tu przepyszne {2} ze sklepu u Pierra. Powiedział, że sam to znalazł przeszukując góry. Nikt nie powiedział, że Pierre to taki dobry zbieracz!",
+          "AudioPath": "assets/pl/Lewis/457.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_5_Foraged",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Lewis/458.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Powiedział, że kupił ją od Ciebie!",
+          "AudioPath": "assets/pl/Lewis/459.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Obiad był z tego... em, uch... Przepełnił dom {3} smrodem. Nawet nie chcę wiedzieć skąd to masz... {Portrait:Sad}",
+          "AudioPath": "assets/pl/Lewis/460.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityLow_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Lewis/461.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Hej, {0}.",
+          "AudioPath": "assets/pl/Lewis/462.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Willy miał wczoraj na sprzedaż {1} {2}. Wyglądało na świeże!",
+          "AudioPath": "assets/pl/Lewis/463.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 1,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Po ugotowaniu cały dam pachniał {3}.. Hit! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/464.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 2,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Powiedział, że kupił ją od Ciebie... Gratuluję!",
+          "AudioPath": "assets/pl/Lewis/465.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 3
+        },
+        {
+          "DialogueFrom": "PurchasedItem_1_QualityHigh_Willy",
+          "DialogueText": "Tak czy inaczej...",
+          "AudioPath": "assets/pl/Lewis/466.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy",
+          "PageIndex": 4
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Lewis/467.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityHigh_Willy",
+          "DialogueText": "Bardzo dobra jakość. Gratuluję.",
+          "AudioPath": "assets/pl/Lewis/468.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityHigh_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?",
+          "AudioPath": "assets/pl/Lewis/469.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_2_QualityLow_Willy",
+          "DialogueText": "Trochę śmierdziało, ale było w porządku.",
+          "AudioPath": "assets/pl/Lewis/470.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Wczoraj na zakupach udało mi się wyhaczyć {1} {2} na promocji za jedyne {3} monet.",
+          "AudioPath": "assets/pl/Lewis/471.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_3_NonRude_Willy",
+          "DialogueText": "Nie można było przegapić takiej okazji.",
+          "AudioPath": "assets/pl/Lewis/472.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy",
+          "PageIndex": 1
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Wczoraj Willy mi sprzedał {1} {2}, które od Ciebie kupił.",
+          "AudioPath": "assets/pl/Lewis/473.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 0,
+          "ActorNote": "{0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba."
+        },
+        {
+          "DialogueFrom": "PurchasedItem_4_Willy",
+          "DialogueText": "Obiad z tego z dodatkiem cytryny i z pilawem ryżowym był nawet dobry! {Portrait:Happy}",
+          "AudioPath": "assets/pl/Lewis/474.ogg",
+          "TranslationKey": "Data/ExtraDialogue:PurchasedItem_4_Willy",
+          "PageIndex": 1
+        }
+      ]
+    }
+  ]
+}

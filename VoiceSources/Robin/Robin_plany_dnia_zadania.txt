@@ -1,0 +1,33 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 252.ogg).
+
+DialogueFrom: Strings/schedules/Robin:summer_18.001  [plan dnia]
+DialogueText: Nie ma się czym martwić, Doktorze. Czuję się jak nigdy dotąd.
+AudioName: 252.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Robin:summer_18.000  [plan dnia]
+DialogueText: Co taka zdrowa osoba tu robi?
+AudioName: 253.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Robin:Tue.000  [plan dnia]
+DialogueText: Spotykamy się co tydzień, żeby się wzajemnie zachęcać do zdrowego stylu życia.
+AudioName: 254.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Robin:winter_16.000  [plan dnia]
+DialogueText: Moją ulubioną rzeczą jest oglądanie tych łodzi. To skrzypienie drewna jest dziwnie przyjemne.
+AudioName: 255.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:100  [zakończenie zadania]
+DialogueText: Hej, masz moją siekierkę! Co za ulga... Prawie obcięłam sobie palec u stopy inną siekierą. Dziękuję!
+AudioName: 256.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:113  [zakończenie zadania]
+DialogueText: Och, masz je! Wiedziałam, że mogłam na Ciebie liczyć, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 257.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:113  [zakończenie zadania]
+DialogueText: Mmhmm... To drewno jest idealne. Właśnie takiego mi było trzeba. Dzięki!
+AudioName: 258.ogg
+--------------------------------------------------

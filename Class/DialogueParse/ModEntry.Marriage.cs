@@ -105,7 +105,7 @@ namespace VoiceOverFrameworkMod
             var results = new List<(string, string, string)>();
 
             bool isEnglish = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase);
-            string langSuffix = isEnglish ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
 
             // Build once: includes vanilla + modded NPC names so suffix filtering works for SVE spouses like Sophia.
             var knownNames = new HashSet<string>(GetAllKnownCharacterNames(), StringComparer.OrdinalIgnoreCase);

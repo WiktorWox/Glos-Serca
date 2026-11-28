@@ -1,0 +1,36 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 142.ogg).
+
+DialogueFrom: Strings/schedules/Evelyn:Thu.000  [plan dnia]
+DialogueText: To miejsce jest dla mnie pełne wspomnień. Dziękuję. {Portrait:Happy}
+AudioName: 142.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Evelyn:2.001  [plan dnia]
+DialogueText: Och, drogie dziecko. Czy to nagły wypadek? Po co tu przychodzisz? {Portrait:Sad}
+AudioName: 143.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Evelyn:winter_17.000  [plan dnia]
+DialogueText: To jedna z nowych tradycji w Mieście Pelikan... ale szybko się przyzwyczailiśmy. Prawda, George?
+AudioName: 144.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Evelyn:23.000  [plan dnia]
+DialogueText: No no, drogie dziecko... To ważne, żeby Doktor Harvey dobrze cię przebadał. To miły młodzieniec! Uważaj na siebie, dla twoich staruszków.
+AudioName: 145.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Evelyn:23.001  [plan dnia]
+DialogueText: Może pan sprawdzić jego płuca? Ciągle kaszle.
+AudioName: 146.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Evelyn:2.000  [plan dnia]
+DialogueText: W moim wieku zaczniesz widywać doktora o wiele częściej.
+AudioName: 147.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:116  [zakończenie zadania]
+DialogueText: Och, dziękuję, drogie dziecko. Ten por wygląda apetycznie. George na pewno się ucieszy.
+AudioName: 148.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:116  [zakończenie zadania]
+DialogueText: Uwielbia, jak mu dodaję świeżego pora do jajecznicy na śniadanie.
+AudioName: 149.ogg
+--------------------------------------------------

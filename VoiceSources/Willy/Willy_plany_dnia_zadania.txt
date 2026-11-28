@@ -1,0 +1,52 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 273.ogg).
+
+DialogueFrom: Strings/schedules/Willy:Fri.000  [plan dnia]
+DialogueText: Przez te solone ryby burczy mi w brzuchu.
+AudioName: 273.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:spring_9.001  [plan dnia]
+DialogueText: Ech, haczyk utknął mi w kciuku... doktor go obetnie.
+AudioName: 274.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:winter_17.000  [plan dnia]
+DialogueText: Ach, nie ma to jak ciepły napitek dla relaksu po tak mroźnym dniu...
+AudioName: 275.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:spring_9.002  [plan dnia]
+DialogueText: Ałć! To boli, doktorze! {Portrait:Sad}
+AudioName: 276.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:spring_9.000  [plan dnia]
+DialogueText: Jestem dziś umówiony do lekarza, więc jeśli czegoś Ci trzeba, to się pospiesz.
+AudioName: 277.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:spring_9.003  [plan dnia]
+DialogueText: Muszę się trochę ogrzać. Trzeba się przygotować na kolejną zimną noc na oceanie. {Portrait:Happy}
+AudioName: 278.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:Sat.000  [plan dnia]
+DialogueText: Ach... Nie ma to jak odpoczynek z browcem po całym dniu łowienia ryb. {Portrait:Happy}
+AudioName: 279.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:winter_15.000  [plan dnia]
+DialogueText: Nie mogę się wyspać przez ten cały nocny rynek... ech, ale nic nie szkodzi.
+AudioName: 280.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Willy:winter_16.000  [plan dnia]
+DialogueText: Idziesz do łodzi podwodnej? Jej kapitan to mój stary druh.
+AudioName: 281.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:109  [zakończenie zadania]
+DialogueText: Hej, udało Ci się! Nieźle. Jestem zaskoczony.
+AudioName: 282.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:109  [zakończenie zadania]
+DialogueText: Zima to dobra pora na przechadzkę ze starą wędką, co nie?
+AudioName: 283.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:124  [zakończenie zadania]
+DialogueText: Hej, niezła zdobycz! Masz w sobie krew wędkarza. {Portrait:Happy}
+AudioName: 284.ogg
+--------------------------------------------------

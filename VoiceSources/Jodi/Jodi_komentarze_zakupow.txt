@@ -1,0 +1,160 @@
+Komentarze o przedmiocie, który gracz sprzedał w sklepie, dodane 20 listopada 2026.
+Następnego dnia losowy mieszkaniec mówi, że kupił ten przedmiot u Pierre'a albo u Willy'ego (klucze z „_Willy” na końcu). {0} to imię gracza albo „farmer”, {2} nazwa przedmiotu, {1}, {3}… inne wstawiane słowa – aktor ich nie czyta.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 222.ogg).
+
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow
+DialogueText: Hej, {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 222.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow (strona 2)
+DialogueText: Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 223.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow (strona 3)
+DialogueText: Po ugotowaniu, cały dom śmierdział {3}... Nawet nie chcę wiedzieć skąd Pierre znalazł coś takiego. {Portrait:Sad}
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 224.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow (strona 4)
+DialogueText: W każdym razie...
+AudioName: 225.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh
+DialogueText: Hej, {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 226.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh (strona 2)
+DialogueText: Cóż, ostatnio udało mi się kupić u Pierra {1} {2}. Dawno tego nie miał na stanie...
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 227.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh (strona 3)
+DialogueText: Po ugotowaniu, cały dom pachniał {3}... Mówię Ci, strzał w dziesiątkę! {Portrait:Happy}
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 228.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh (strona 4)
+DialogueText: Cieszę się, że magazyny Pierre znowu się rozwijają.
+AudioName: 229.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh (strona 5)
+DialogueText: W każdym razie...
+AudioName: 230.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_2_QualityLow
+DialogueText: Cześć... Czy Pierre nie kupował od Ciebie {1} {2}?
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 231.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_2_QualityLow (strona 2)
+DialogueText: Jakość była przyzwoita.
+AudioName: 232.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_4
+DialogueText: Na ostatnich zakupach Pierre pokazał mi {1} {2}. Chyba kupił to od Ciebie.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 233.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_4 (strona 2)
+DialogueText: Jak od Ciebie, to biorę. {Portrait:Happy}
+AudioName: 234.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit
+DialogueText: Mam tu przepyszne {2} ze sklepu u Pierra.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 235.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit (strona 2)
+DialogueText: Powiedział, że wyhodował to w swoim ogródku. Nikt mi nie mówił, że Pierre jest takim utalentowanym rolnikiem! {Portrait:Happy}
+AudioName: 236.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_5_VegetableOrFruit (strona 3)
+DialogueText: Chyba masz niezłego rywala, co?
+AudioName: 237.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_5_Cooking
+DialogueText: Mam tu przepyszne {2} ze sklepu u Pierra.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 238.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_5_Cooking (strona 2)
+DialogueText: Mówił, że sam to ugotował z lokalnych składników. Nikt nie powiedział, że Pierre to taki {3} {4} kucharz!
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 239.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_5_Foraged
+DialogueText: Mam tu przepyszne {2} ze sklepu u Pierra. Powiedział, że sam to znalazł przeszukując góry. Nikt nie powiedział, że Pierre to taki dobry zbieracz!
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 240.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy
+DialogueText: Hej, {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 241.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy (strona 2)
+DialogueText: Willy miał wczoraj na sprzedaż {1} {2}. Powiedział, że kupił ją od Ciebie!
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 242.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy (strona 3)
+DialogueText: Obiad był z tego... em, uch... Przepełnił dom {3} smrodem. Nawet nie chcę wiedzieć skąd to masz... {Portrait:Sad}
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 243.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityLow_Willy (strona 4)
+DialogueText: Tak czy inaczej...
+AudioName: 244.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy
+DialogueText: Hej, {0}.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 245.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy (strona 2)
+DialogueText: Willy miał wczoraj na sprzedaż {1} {2}. Wyglądało na świeże!
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 246.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy (strona 3)
+DialogueText: Po ugotowaniu cały dam pachniał {3}.. Hit! {Portrait:Happy}
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 247.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy (strona 4)
+DialogueText: Powiedział, że kupił ją od Ciebie... Gratuluję!
+AudioName: 248.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_1_QualityHigh_Willy (strona 5)
+DialogueText: Tak czy inaczej...
+AudioName: 249.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy
+DialogueText: Cześć... to chyba od Ciebie Willy kupił {1} {2}, nie?
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 250.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_2_QualityLow_Willy (strona 2)
+DialogueText: Trochę śmierdziało, ale było w porządku.
+AudioName: 251.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy
+DialogueText: Wczoraj na zakupach udało mi się wyhaczyć {1} {2} na promocji za jedyne {3} monet.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 252.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_3_NonRude_Willy (strona 2)
+DialogueText: Nie można było przegapić takiej okazji.
+AudioName: 253.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_4_Willy
+DialogueText: Wczoraj Willy mi sprzedał {1} {2}, które od Ciebie kupił.
+Uwaga: {0}, {1}… – wartość wstawiana przez grę, np. nazwa przedmiotu albo liczba.
+AudioName: 254.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:PurchasedItem_4_Willy (strona 2)
+DialogueText: Obiad z tego z dodatkiem cytryny i z pilawem ryżowym był nawet dobry! {Portrait:Happy}
+AudioName: 255.ogg

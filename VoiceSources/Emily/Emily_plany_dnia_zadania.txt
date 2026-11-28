@@ -1,0 +1,118 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 511.ogg).
+
+DialogueFrom: Strings/schedules/Emily:Fri.000  [plan dnia]
+DialogueText: Ale ładne krosno. Jestem chyba w niebie.
+AudioName: 511.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:marriage_Mon.002  [plan dnia]
+DialogueText: Gus ma problemy z organizacją wszystkiego.
+AudioName: 512.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:winter_11.000  [plan dnia]
+DialogueText: Większość z nas odwiedza doktora na coroczne badania.
+AudioName: 513.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:marriage_Fri.001  [plan dnia]
+DialogueText: Jestem tu dla zapachu owoców.
+AudioName: 514.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:winter_11.001  [plan dnia]
+DialogueText: Doktorze, chciałabym 'naturalne lekarstwo', jeśli można.
+AudioName: 515.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:marriage_Mon.001  [plan dnia]
+DialogueText: Idę dzisiaj na spacer. Mam nogi jak kluski.
+AudioName: 516.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:marriage_Fri.000  [plan dnia]
+DialogueText: Szukam Syren.
+AudioName: 517.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:marriage_Mon.000  [plan dnia]
+DialogueText: Dobrze jest odwiedzić stary dom. Jest pełen wspomnień.
+AudioName: 518.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:marriage_Fri.002  [plan dnia]
+DialogueText: Piątki w nocy są zawsze pełne roboty, więc pracuje za wsze czasy. Ale frajda! {Portrait:Happy}
+AudioName: 519.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:winter_15.000  [plan dnia]
+DialogueText: Ta łódź jest moją ulubioną. Jest jedyna w swoim rodzaju!
+AudioName: 520.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Greeting  [plan dnia]
+DialogueText: Cześć Sandy! Mam tu dla ciebie prezent. Mam nadzieję, że ci się spodoba! {Portrait:Happy}
+AudioName: 521.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Hangout  [plan dnia]
+DialogueText: Cieszę się, że mam dzisiaj wolne! {Portrait:Happy}
+AudioName: 522.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Hangout  [plan dnia]
+DialogueText: Ale tu ładnie.
+AudioName: 523.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Lake  [plan dnia]
+DialogueText: Fiu... ale gorąco!
+AudioName: 524.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Lake  [plan dnia]
+DialogueText: Dobry dzień na pływanie.
+AudioName: 525.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Lake  [plan dnia]
+DialogueText: Pewnie jest tu fajnie chłodniutko. {Portrait:Happy}
+AudioName: 526.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Bones  [plan dnia]
+DialogueText: Możesz uwierzyć w to miejsce?
+AudioName: 527.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Bones  [plan dnia]
+DialogueText: Takie tajemnicze...
+AudioName: 528.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Camel  [plan dnia]
+DialogueText: Uwielbiam być wśród zwierząt.
+AudioName: 529.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Camel  [plan dnia]
+DialogueText: Ten świat jest pełen dusz i magii.
+AudioName: 530.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Bye  [plan dnia]
+DialogueText: Było super!
+AudioName: 531.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Emily:Sandy_Birthday_Bye  [plan dnia]
+DialogueText: Chciałabym tu jeszcze kiedyś wrócić! {Portrait:Happy}
+AudioName: 532.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:110  [zakończenie zadania]
+DialogueText: Och, mój ulubiony kryształ! To miłe z Twojej strony! {Portrait:Happy}
+AudioName: 533.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:110  [zakończenie zadania]
+DialogueText: Hę? Od kogo? {Portrait:Unique}
+AudioName: 534.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:110  [zakończenie zadania]
+DialogueText: Och, masz go od Clinta? Cóż, nie obchodzi mnie skąd go masz, jest piękny! Dziękuję! *cmok* {Portrait:Happy}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 535.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:115  [zakończenie zadania]
+DialogueText: Och... Masz ją! Dzięki, wygląda apetycznie! {Portrait:Happy}
+AudioName: 536.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:126  [zakończenie zadania]
+DialogueText: Och, wygląda wspaniale... I jest też z ekologicznego pochodzenia! Bardzo Ci dziękuję, {Farmer_Name}. {Portrait:Happy}
+Uwaga: {Farmer_Name} – imię gracza (wstawia gra).
+AudioName: 537.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:126  [zakończenie zadania]
+DialogueText: Teraz, mogę brać się do roboty. Zajmie mi to kilka dni...
+AudioName: 538.ogg
+--------------------------------------------------

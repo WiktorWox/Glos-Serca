@@ -1,0 +1,64 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 263.ogg).
+
+Uwaga: Pam ma już nagrane 45.ogg (Saloon_Entry) i 46.ogg (Trailer_Entry), ale każde zawiera wszystkie warianty naraz. Teraz każdy wariant to osobny plik: 45/46 to tylko pierwszy wariant, kolejne poniżej. 45 i 46 trzeba przyciąć albo nagrać ponownie.
+
+DialogueFrom: Characters/Dialogue/Pam:Saloon_Entry (wariant 2)  [dymek przy wejściu (_Entry)]
+DialogueText: Muszę się napić.
+AudioName: 263.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Saloon_Entry (wariant 3)  [dymek przy wejściu (_Entry)]
+DialogueText: Gus! Dawaj to, co zwykle.
+AudioName: 264.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Saloon_Entry (wariant 4)  [dymek przy wejściu (_Entry)]
+DialogueText: Hej, wróciłam!
+AudioName: 265.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Saloon_Entry (wariant 5)  [dymek przy wejściu (_Entry)]
+DialogueText: Och chłopie, jestem spragniona!
+AudioName: 266.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Saloon_Entry (wariant 6)  [dymek przy wejściu (_Entry)]
+DialogueText: Ale mnie suszy!
+AudioName: 267.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Trailer_Entry (wariant 2)  [dymek przy wejściu (_Entry)]
+DialogueText: Penny! Wszystko zrobione?
+AudioName: 268.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Trailer_Entry (wariant 3)  [dymek przy wejściu (_Entry)]
+DialogueText: Penny! Jesteś?
+AudioName: 269.ogg
+--------------------------------------------------
+DialogueFrom: Characters/Dialogue/Pam:Trailer_Entry (wariant 4)  [dymek przy wejściu (_Entry)]
+DialogueText: Hej! Wróciłam!
+AudioName: 270.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Pam:spring_25.000  [plan dnia]
+DialogueText: *Zrzęd*... Doktor wie wszystko... *Zrzęd* {Portrait:Love}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 271.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Pam:spring_25.001  [plan dnia]
+DialogueText: Ile dziennie piję? Co to za pytanie? {Portrait:Unique}
+AudioName: 272.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:103  [zakończenie zadania]
+DialogueText: Daj mi to. *siorb*... Ach, to jest to.
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 273.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:103  [zakończenie zadania]
+DialogueText: Jest bardzo dobre i mocne... chyba czuję nutkę cytrusa i sosny.
+AudioName: 274.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:103  [zakończenie zadania]
+DialogueText: Dzięki, dzieciaku. To wiele dla mnie znaczy. Wiedziałam, że mogę na Ciebie liczyć. {Portrait:Happy}
+AudioName: 275.ogg
+--------------------------------------------------
+DialogueFrom: Data/Quests:122  [zakończenie zadania]
+DialogueText: Hej, to baterie, które chciałam! Dzięki, dzieciaku... Ratujesz mi życie! {Portrait:Happy}
+AudioName: 276.ogg
+--------------------------------------------------

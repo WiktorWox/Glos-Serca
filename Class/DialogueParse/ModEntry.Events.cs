@@ -44,7 +44,7 @@ namespace VoiceOverFrameworkMod
         {
             if (string.IsNullOrWhiteSpace(mapName)) return null;
 
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             Dictionary<string, string> dict = null;
 
             // Try target language first
@@ -133,7 +133,7 @@ namespace VoiceOverFrameworkMod
 
             // 4) Locationless events: Temp (with language fallback)
             Dictionary<string, string> temp = null;
-            string langSuffix = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase) ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
             try { temp = content.Load<Dictionary<string, string>>($"Data/Events/Temp{langSuffix}"); }
             catch
             {

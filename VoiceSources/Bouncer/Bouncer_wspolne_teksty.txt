@@ -1,0 +1,31 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 1.ogg).
+
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4020  [inne]
+DialogueText: Brawo za spostrzegawczość. A teraz się odsuń, bałwanie.
+AudioName: 1.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4021  [inne]
+DialogueText: !!! Czy... czy to jest 'Karta Klubowa'?
+AudioName: 2.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:Club_Bouncer_TextAboveHead1  [okrzyk w dymku nad głową]
+DialogueText: Teraz jestem zły!
+AudioName: 3.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Locations:Club_Bouncer_TextAboveHead2  [okrzyk w dymku nad głową]
+DialogueText: Ty chuliganie...
+AudioName: 4.ogg
+--------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4192  [wydarzenie / inne]
+DialogueText: ...
+AudioName: 5.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4192 (strona 4)  [wydarzenie / inne]
+DialogueText: Tylko dla członków klubu, dzieciaku. A więc spadaj.
+AudioName: 6.ogg
+--------------------------------------------------

@@ -28,7 +28,8 @@ namespace VoiceOverFrameworkMod
             private static readonly Regex RxTrailingDollar = new(@"\$(?=[\s,\.!\?\)]|$)", RegexOptions.Compiled);
             private static readonly Regex RxCollapseWS = new(@"[ \t]+", RegexOptions.Compiled);
 
-            private static readonly Regex RxLeadingNarr = new(@"^\s*%+", RegexOptions.Compiled);
+            // A leading '%' marks narration, except when it starts a game token (Dialogue.percentTokens: "%kid1 i %kid2…")
+            private static readonly Regex RxLeadingNarr = new(@"^\s*%+(?!(?:adj|noun|place|name|spouse|firstnameletter|farm|favorite|kid1|kid2|pet|band|book|season|time|year|fork|revealtaste)(?![A-Za-z]))", RegexOptions.Compiled | RegexOptions.IgnoreCase);
             private static readonly Regex RxCmdQuestion = new(@"#?\$q\s+[^#]*#(?<q>[^#]*)", RegexOptions.Compiled | RegexOptions.Singleline | RegexOptions.IgnoreCase);
             private static readonly Regex RxCmdResponse = new(@"#?\$r\s+[^#]*#[^#]*#?", RegexOptions.Compiled | RegexOptions.Singleline | RegexOptions.IgnoreCase);
             private static readonly Regex RxCmdQuick = new(@"\$y\s+(['""])(?<p>.*?)\1", RegexOptions.Compiled | RegexOptions.Singleline | RegexOptions.IgnoreCase);
@@ -41,7 +42,9 @@ namespace VoiceOverFrameworkMod
             // - Optional percent `%` or full-width `％` (we also normalize to `%` beforehand)
             // - No \b boundaries (CJK adjacency can break those)
             private static readonly Regex RxStripTokens = new(
-                @"(?i)(?:%?(?:adj|noun|place|name|spouse|firstnameletter|farm|favorite|kid1|kid2|pet|band|book|season|time))",
+                // '%' is required (it was optional, which cut "farm" out of "farma", "pet" out of "tapet"…); no \b so a token
+                // right before CJK text still matches, but it may not run into further Latin letters
+                @"(?i)%(?:adj|noun|place|name|spouse|firstnameletter|farm|favorite|kid1|kid2|pet|band|book|season|time|year)(?![A-Za-z])",
                 RegexOptions.Compiled
             );
 
@@ -424,6 +427,7 @@ namespace VoiceOverFrameworkMod
 
                 // Explicitly remove %fork (not rendered to the player).
                 s = Regex.Replace(s, @"%fork\b", "", RegexOptions.IgnoreCase);
+                s = Regex.Replace(s, @"%revealtaste\w*", "", RegexOptions.IgnoreCase);   // gift-taste reveal effect ("%revealtasteEmily207"), not text
 
                 s = RxCmdOther.Replace(s, "");
                 s = RxTrailingDollar.Replace(s, "");

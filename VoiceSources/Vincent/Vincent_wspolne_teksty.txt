@@ -1,0 +1,57 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 106.ogg).
+
+DialogueFrom: Strings/Characters:Phone_Ring_Vincent  [telefon]
+DialogueText: Halo?
+AudioName: 106.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Vincent (strona 2)  [telefon]
+DialogueText: Em... Uhhh... Tu Vincent. {Portrait:Unique}
+AudioName: 107.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Vincent (strona 4)  [telefon]
+DialogueText: Um... masz na swojej farmie jakieś świnki? {Portrait:Happy}
+AudioName: 108.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:Phone_Ring_Vincent (strona 6)  [telefon]
+DialogueText: Ok, muszę iść! *klik* {Portrait:Unique}
+Uwaga: *…* – opis odgłosu albo czynności, nie słowo do przeczytania.
+AudioName: 109.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4293  [po uderzeniu przez gracza]
+DialogueText: Nie mogę w to uwierzyć, jesteś okrutną osobą! {Portrait:Sad}
+AudioName: 110.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.4294  [po uderzeniu przez gracza]
+DialogueText: To boli! Co jest z Tobą nie tak? {Portrait:Sad}
+AudioName: 111.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:Town_DumpsterDiveComment_Child  [okrzyk w dymku nad głową]
+DialogueText: Fuu... Co ty robisz? {Portrait:Sad}
+AudioName: 112.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Invited_Child  [zaproszenie do kina]
+DialogueText: Film? Jej! Spotkajmy się na miejscu!
+AudioName: 113.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_Reject_Child  [zaproszenie do kina]
+DialogueText: Chyba nie mogę tego oglądać...
+AudioName: 114.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_AlreadySeen  [zaproszenie do kina]
+DialogueText: Wybacz, ten film był w tamtym tygodniu...
+AudioName: 115.ogg
+--------------------------------------------------
+DialogueFrom: Strings/Characters:MovieInvite_InvitedBySomeoneElse  [zaproszenie do kina]
+DialogueText: Wybacz. Idę do kina z kimś innym, może do nas dołączysz?
+AudioName: 116.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3956  [bukiet]
+DialogueText: Umm... nie wydaje mi się.
+AudioName: 117.ogg
+--------------------------------------------------
+DialogueFrom: Strings/StringsFromCSFiles:NPC.cs.3957  [bukiet]
+DialogueText: Czy to żart? Nie łapię.
+AudioName: 118.ogg
+--------------------------------------------------

@@ -1,0 +1,36 @@
+Kwestie z planu dnia (Strings/schedules), zakończeń zadań fabularnych (Data/Quests) i dymków przy wejściu do lokacji (<Lokacja>_Entry), dodane 19 listopada 2026.
+Plan dnia: postać mówi to, gdy gracz zagada ją w miejscu, do którego szła. Zakończenie zadania: po oddaniu przedmiotu. Dymek: krótki okrzyk nad głową przy wejściu, gra losuje jeden wariant.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 569.ogg).
+
+DialogueFrom: Strings/schedules/Penny:winter_4.001  [plan dnia]
+DialogueText: Hej! Troszkę prywatności! Proszę? {Portrait:Angry}
+AudioName: 569.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:marriage_Mon.002  [plan dnia]
+DialogueText: Zastanawiam się... Czy kiedyś Maru weźmie ślub?
+AudioName: 570.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:marriageJob.000  [plan dnia]
+DialogueText: Cześć, Kochanie. Cieszę się, że mnie odwiedzasz. {Portrait:Happy}
+AudioName: 571.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:marriage_Mon.001  [plan dnia]
+DialogueText: Nie martw się, wydaję na to własne pieniądze.
+AudioName: 572.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:marriage_Mon.000  [plan dnia]
+DialogueText: Cześć, Kochanie! Robię zakupy.
+AudioName: 573.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:winter_15.000  [plan dnia]
+DialogueText: Czujesz ten zapach? Tutejsze powietrze jest bardzo ostre...
+AudioName: 574.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:winter_4.000  [plan dnia]
+DialogueText: Mam umówioną wizytę w klinice na popołudnie.
+AudioName: 575.ogg
+--------------------------------------------------
+DialogueFrom: Strings/schedules/Penny:rain2.000  [plan dnia]
+DialogueText: Idę do środka, chcę troszkę ciszy.
+AudioName: 576.ogg
+--------------------------------------------------

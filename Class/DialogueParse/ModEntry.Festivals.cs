@@ -89,7 +89,7 @@ namespace VoiceOverFrameworkMod
             var results = new Dictionary<string, (string, string, string)>(StringComparer.OrdinalIgnoreCase);
 
             bool isEnglish = languageCode.Equals("en", StringComparison.OrdinalIgnoreCase);
-            string langSuffix = isEnglish ? "" : $".{languageCode}";
+            string langSuffix = AssetLangSuffix(languageCode);
 
             // 1) Discover festival IDs from FestivalDates (language first, then fallback to English)
             var festivalIds = new HashSet<string>(StringComparer.OrdinalIgnoreCase);

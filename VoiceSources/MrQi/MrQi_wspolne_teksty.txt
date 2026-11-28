@@ -1,0 +1,63 @@
+Kwestie, które gra bierze ze wspólnych plików tekstów (Strings/Characters, Strings/StringsFromCSFiles, Strings/Locations, Data/ExtraDialogue, Strings/1_6_Strings) i z danych sklepów (Data/Shops), dodane 20 listopada 2026.
+Teksty ogólne (kino, prezent urodzinowy, uderzenie, bukiet, małżeństwo…) mówi wiele postaci; każda nagrywa je swoim głosem. {Farmer_Name} = imię gracza, pomijamy w nagraniu.
+Numery plików ciągną dalej numerację postaci (pierwszy nowy: 20.ogg).
+
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember  [inne]
+DialogueText: No, no, no... Patrzcie, kto dostał się do mojego ekskluzywnego klubu.
+AudioName: 20.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 2)  [inne]
+DialogueText: Masz w sobie tę 'iskrę'... Dlatego wybrałem właśnie Ciebie.
+AudioName: 21.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 3)  [inne]
+DialogueText: Jaką iskrę? Ach... Tajemnice, sztukę...
+AudioName: 22.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 4)  [inne]
+DialogueText: Osoby takie jak my, są odpowiedzialne za utrzymywanie całego świata, dają ludziom posmakować czegoś niezwykłego.
+AudioName: 23.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 5)  [inne]
+DialogueText: Widzisz... Świat jest jak miska ryżu. Ma w sobie substancję, ale jest nic nie wart bez dobrego, ostrego sosu. I tu my wkraczamy.
+AudioName: 24.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 6)  [inne]
+DialogueText: Nie zastanawiało Cię, kto umieścił te wszystkie skrzynie w starych kopalniach? Lubię zaskakiwać.
+AudioName: 25.ogg
+--------------------------------------------------
+DialogueFrom: Data/ExtraDialogue:MisterQi_PlayerClubMember (strona 7)  [inne]
+DialogueText: Kiedyś zrozumiesz. Po prostu dawaj z siebie wszystko i nigdy się nie poddawaj.
+AudioName: 26.ogg
+--------------------------------------------------
+
+Dopisane później tego samego dnia (kwestie znalezione przy dokładniejszym przeszukaniu gry; znaczniki %farm, %spouse, %book, %year… pomijamy albo lekko przeformułowujemy zdanie):
+
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat  [szczyt]
+DialogueText: No, no, no... Popatrz no komu udało się 'dotrzeć' na szczyt.
+AudioName: 27.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 2)  [szczyt]
+DialogueText: Myślałeś, że jesteś taki sprytny, prawda?
+AudioName: 28_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 3)  [szczyt]
+DialogueText: Myślałaś, że jesteś taka sprytna, prawda?
+AudioName: 29_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 4)  [szczyt]
+DialogueText: 'Jak oszukać system dla własnej korzyści?', pomyślałeś.
+AudioName: 30_male.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 5)  [szczyt]
+DialogueText: 'Jak oszukać system dla własnej korzyści?', pomyślałaś.
+AudioName: 31_female.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 6)  [szczyt]
+DialogueText: Lub mówiąc laikiem: 'Ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja'.
+AudioName: 32.ogg
+--------------------------------------------------
+DialogueFrom: Strings/1_6_Strings:QiSummitCheat (strona 7)  [szczyt]
+DialogueText: Okropne.
+AudioName: 33.ogg
+--------------------------------------------------
